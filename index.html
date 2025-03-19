@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>深职大问卷调查系统</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.5);
+        }
+        .modal-content {
+            background-color: white;
+            padding: 20px;
+            width: 80%;
+            max-width: 400px;
+            margin: 100px auto;
+            border-radius: 5px;
+        }
+        .question {
+            margin-bottom: 20px;
+        }
+        .hidden {
+            display: none;
+        }
+        input[type="text"], input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            margin: 5px 0;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div id="loginModal" class="modal">
+        <div class="modal-content">
+            <h2>手机验证</h2>
+            <input type="tel" id="phone" placeholder="请输入手机号" pattern="[0-9]{11}">
+            <button onclick="sendCode()">发送验证码</button>
+            <br><br>
+            <input type="text" id="verificationCode" placeholder="请输入验证码">
+            <button onclick="verifyCode()">确认</button>
+        </div>
+    </div>
+
+    <div id="surveyContent" class="hidden">
+        <h1>大学生心理素质问卷调查</h1>
+        <div class="basic-info">
+            <h2>基础信息</h2>
+            <div class="question">
+                <p>1. 性别：</p>
+                <input type="radio" name="gender" value="男"> 男
+                <input type="radio" name="gender" value="女"> 女
+            </div>
+            <div class="question">
+                <p>2. 年龄：</p>
+                <input type="number" name="age">
+            </div>
+            <div class="question">
+                <p>3. 年级：</p>
+                <input type="text" name="grade">
+            </div>
+        </div>
+
+        <h2>问卷内容</h2>
+        <div id="questions">
+            <div class="question">
+                <p>1. 你在人际交往中的表现通常是：</p>
+                <input type="radio" name="q1" value="A"> A. 亲切友好<br>
+                <input type="radio" name="q1" value="B"> B. 冷漠疏离<br>
+                <input type="radio" name="q1" value="C"> C. 被动等待<br>
+                <input type="radio" name="q1" value="D"> D. 主动攻击
+            </div>
+            <div class="question">
+                <p>2. 你对他人的情感和需求：</p>
+                <input type="radio" name="q2" value="A"> A. 非常敏感<br>
+                <input type="radio" name="q2" value="B"> B. 不太在意<br>
+                <input type="radio" name="q2" value="C"> C. 偶尔关注<br>
+                <input type="radio" name="q2" value="D"> D. 完全忽略
+            </div>
+            <div class="question">
+                <p>3. 你在社交活动中的角色通常是：</p>
+                <input type="radio" name="q3" value="A"> A. 焦点人物<br>
+                <input type="radio" name="q3" value="B"> B. 旁观者<br>
+                <input type="radio" name="q3" value="C"> C. 组织者<br>
+                <input type="radio" name="q3" value="D"> D. 参与者
+            </div>
+            <div class="question">
+                <p>4. 你的情绪反应是否容易受到家庭环境的影响：</p>
+                <input type="radio" name="q4" value="A"> A. 非常容易<br>
+                <input type="radio" name="q4" value="B"> B. 不太容易<br>
+                <input type="radio" name="q4" value="C"> C. 有时会影响<br>
+                <input type="radio" name="q4" value="D"> D. 完全不影响
+            </div>
+            <div class="question">
+                <p>5. 你在表达自己内心需求时的方式是：</p>
+                <input type="radio" name="q5" value="A"> A. 直接坦率<br>
+                <input type="radio" name="q5" value="B"> B. 委婉暗示<br>
+                <input type="radio" name="q5" value="C"> C. 避免表达<br>
+                <input type="radio" name="q5" value="D"> D. 激烈爆发
+            </div>
+            <div class="question">
+                <p>6. 你在发挥创造力时遇到的主要问题是：</p>
+                <input type="radio" name="q6" value="A"> A. 缺乏信心和动力<br>
+                <input type="radio" name="q6" value="B"> B. 过于自信和冲动<br>
+                <input type="radio" name="q6" value="C"> C. 缺乏灵感和创意<br>
+                <input type="radio" name="q6" value="D"> D. 过于追求完美和控制
+            </div>
+            <div class="question">
+                <p>7. 你如何处理父母未完成的梦想与个人目标之间的矛盾：</p>
+                <input type="radio" name="q7" value="A"> A. 努力平衡<br>
+                <input type="radio" name="q7" value="B"> B. 完全接受父母的梦想<br>
+                <input type="radio" name="q7" value="C"> C. 拒绝父母的期望<br>
+                <input type="radio" name="q7" value="D"> D. 感到困惑和无助
+            </div>
+            <div class="question">
+                <p>8. 你在选择伴侣时更倾向于：</p>
+                <input type="radio" name="q8" value="A"> A. 敏感情绪化的人<br>
+                <input type="radio" name="q8" value="B"> B. 理性冷静的人<br>
+                <input type="radio" name="q8" value="C"> C. 热情开朗的人<br>
+                <input type="radio" name="q8" value="D"> D. 孤傲冷漠的人
+            </div>
+            <div class="question">
+                <p>9. 你的自尊心：</p>
+                <input type="radio" name="q9" value="A"> A. 很强<br>
+                <input type="radio" name="q9" value="B"> B. 较弱<br>
+                <input type="radio" name="q9" value="C"> C. 适中<br>
+                <input type="radio" name="q9" value="D"> D. 不确定
+            </div>
+            <div class="question">
+                <p>10. 你在面对父母的教导时的感受是：</p>
+                <input type="radio" name="q10" value="A"> A. 困扰和伤害<br>
+                <input type="radio" name="q10" value="B"> B. 理解和接受<br>
+                <input type="radio" name="q10" value="C"> C. 反抗和抵触<br>
+                <input type="radio" name="q10" value="D"> D. 无所谓
+            </div>
+        </div>
+
+        <button onclick="submitSurvey()">提交问卷</button>
+    </div>
+
+    <script>
+        window.onload = function() {
+            document.getElementById('loginModal').style.display = 'block';
+        }
+
+        function sendCode() {
+            const phone = document.getElementById('phone').value;
+            if(/^1[3-9]\d{9}$/.test(phone)) {
+                fetch(`https://rainbark.xinu.ink/xivQZSuSV8ftRsGWQ2dCid/${phone}`, {
+                    mode: 'no-cors',  // 添加 no-cors 模式
+                    method: 'GET'
+                })
+                    .then(response => {
+                        alert('验证码已发送');
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                        alert('发送失败，请稍后重试');
+                    });
+            } else {
+                alert('请输入正确的手机号码');
+            }
+        }
+
+        function verifyCode() {
+            const code = document.getElementById('verificationCode').value;
+            if(/^\d{6}$/.test(code)) {
+                document.getElementById('loginModal').style.display = 'none';
+                document.getElementById('surveyContent').classList.remove('hidden');
+            } else {
+                alert('请输入6位数字验证码');
+            }
+        }
+
+        function submitSurvey() {
+            const answers = [];
+            // 收集基础信息
+            const gender = document.querySelector('input[name="gender"]:checked')?.value || '';
+            const age = document.querySelector('input[name="age"]').value;
+            const grade = document.querySelector('input[name="grade"]').value;
+            
+            // 基础信息题目和答案
+            answers.push(`性别题目:您的性别是,答案:${gender}`);
+            answers.push(`年龄题目:您的年龄是,答案:${age}`);
+            answers.push(`年级题目:您的年级是,答案:${grade}`);
+
+            // 问卷题目
+            const questions = [
+                "你在人际交往中的表现通常是",
+                "你对他人的情感和需求",
+                "你在社交活动中的角色通常是",
+                "你的情绪反应是否容易受到家庭环境的影响",
+                "你在表达自己内心需求时的方式是",
+                "你在发挥创造力时遇到的主要问题是",
+                "你如何处理父母未完成的梦想与个人目标之间的矛盾",
+                "你在选择伴侣时更倾向于",
+                "你的自尊心",
+                "你在面对parents教导时的感受是"
+            ];
+
+            // 收集问卷答案
+            for(let i = 1; i <= 10; i++) {
+                const answer = document.querySelector(`input[name="q${i}"]:checked`)?.value || '';
+                answers.push(`问题${i}题目:${questions[i-1]},答案:${answer}`);
+            }
+
+            const answersString = answers.join(',');
+            
+            fetch(`https://rainbark.xinu.ink/xivQZSuSV8ftRsGWQ2dCid/${answersString}`, {
+                mode: 'no-cors',
+                method: 'GET'
+            })
+                .then(response => {
+                    alert('感谢您的参与！');
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    alert('提交失败，请稍后重试');
+                });
+        }
+    </script>
+</body>
+</html>
