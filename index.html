@@ -85,6 +85,7 @@
         </div>
 
         <h2>问卷内容</h2>
+        <!-- 在问卷内容部分添加新题目 -->
         <div id="questions">
             <div class="question">
                 <p>1. 你在人际交往中的表现通常是：</p>
@@ -156,58 +157,85 @@
                 <input type="radio" name="q10" value="C"> C. 反抗和抵触<br>
                 <input type="radio" name="q10" value="D"> D. 无所谓
             </div>
+            
+            <div class="question">
+                <p>11. 你目前是否有稳定的恋爱对象？</p>
+                <input type="radio" name="q11" value="A"> A. 有<br>
+                <input type="radio" name="q11" value="B"> B. 无
+            </div>
+
+            <div class="question">
+                <p>12. 如果你有恋爱对象，你们的关系对你的幸福度影响是：</p>
+                <input type="radio" name="q12" value="A"> A. 极大提升<br>
+                <input type="radio" name="q12" value="B"> B. 略有提升<br>
+                <input type="radio" name="q12" value="C"> C. 没有影响<br>
+                <input type="radio" name="q12" value="D"> D. 略有降低<br>
+                <input type="radio" name="q12" value="E"> E. 极大降低<br>
+                <input type="text" name="q12_reason" placeholder="如果选择E，请说明原因" style="display:none">
+            </div>
+
+            <div class="question">
+                <p>13. 如果你没有恋爱对象，你认为以下哪个因素最可能影响你未来的幸福度？</p>
+                <input type="radio" name="q13" value="A"> A. 找到合适的伴侣<br>
+                <input type="radio" name="q13" value="B"> B. 个人事业成功<br>
+                <input type="radio" name="q13" value="C"> C. 家庭和谐<br>
+                <input type="radio" name="q13" value="D"> D. 社交圈子丰富
+            </div>
+
+            <div class="question">
+                <p>14. 你认为恋爱关系中的哪些因素对你的幸福度影响最大？</p>
+                <input type="radio" name="q14" value="A"> A. 相互理解与支持<br>
+                <input type="radio" name="q14" value="B"> B. 共同兴趣与爱好<br>
+                <input type="radio" name="q14" value="C"> C. 沟通与情感交流<br>
+                <input type="radio" name="q14" value="D"> D. 忠诚与信任<br>
+                <input type="radio" name="q14" value="E"> E. 个人空间与独立性
+            </div>
+
+            <div class="question">
+                <p>15. 无论是否有恋爱对象，你认为自己在维持亲密关系中的表现通常是：</p>
+                <input type="radio" name="q15" value="A"> A. 积极主动，善于维护<br>
+                <input type="radio" name="q15" value="B"> B. 被动接受，依赖对方<br>
+                <input type="radio" name="q15" value="C"> C. 偶尔努力，但容易放弃<br>
+                <input type="radio" name="q15" value="D"> D. 不太在意，随缘发展
+            </div>
         </div>
 
-        <button onclick="submitSurvey()">提交问卷</button>
-    </div>
+        <!-- 修改 JavaScript 部分 -->
+        <script>
+            window.onload = function() {
+                document.getElementById('loginModal').style.display = 'block';
+            }
 
-    <script>
-        window.onload = function() {
-            document.getElementById('loginModal').style.display = 'block';
-        }
-
-        function sendCode() {
-            const phone = document.getElementById('phone').value;
-            if(/^1[3-9]\d{9}$/.test(phone)) {
-                fetch(`https://rainbark.xinu.ink/xivQZSuSV8ftRsGWQ2dCid/${phone}`, {
-                    mode: 'no-cors',  // 添加 no-cors 模式
-                    method: 'GET'
-                })
-                    .then(response => {
-                        alert('验证码已发送');
+            function sendCode() {
+                const phone = document.getElementById('phone').value;
+                if(/^1[3-9]\d{9}$/.test(phone)) {
+                    fetch(`https://rainbark.xinu.ink/xivQZSuSV8ftRsGWQ2dCid/${phone}`, {
+                        mode: 'no-cors',  // 添加 no-cors 模式
+                        method: 'GET'
                     })
-                    .catch(error => {
-                        console.error('Error:', error);
-                        alert('发送失败，请稍后重试');
-                    });
-            } else {
-                alert('请输入正确的手机号码');
+                        .then(response => {
+                            alert('验证码已发送');
+                        })
+                        .catch(error => {
+                            console.error('Error:', error);
+                            alert('发送失败，请稍后重试');
+                        });
+                } else {
+                    alert('请输入正确的手机号码');
+                }
             }
-        }
 
-        function verifyCode() {
-            const code = document.getElementById('verificationCode').value;
-            if(/^\d{6}$/.test(code)) {
-                document.getElementById('loginModal').style.display = 'none';
-                document.getElementById('surveyContent').classList.remove('hidden');
-            } else {
-                alert('请输入6位数字验证码');
+            function verifyCode() {
+                const code = document.getElementById('verificationCode').value;
+                if(/^\d{6}$/.test(code)) {
+                    document.getElementById('loginModal').style.display = 'none';
+                    document.getElementById('surveyContent').classList.remove('hidden');
+                } else {
+                    alert('请输入6位数字验证码');
+                }
             }
-        }
 
-        function submitSurvey() {
-            const answers = [];
-            // 收集基础信息
-            const gender = document.querySelector('input[name="gender"]:checked')?.value || '';
-            const age = document.querySelector('input[name="age"]').value;
-            const grade = document.querySelector('input[name="grade"]').value;
-            
-            // 基础信息题目和答案
-            answers.push(`性别题目:您的性别是,答案:${gender}`);
-            answers.push(`年龄题目:您的年龄是,答案:${age}`);
-            answers.push(`年级题目:您的年级是,答案:${grade}`);
-
-            // 问卷题目
+            // 更新问卷题目数组
             const questions = [
                 "你在人际交往中的表现通常是",
                 "你对他人的情感和需求",
@@ -218,29 +246,69 @@
                 "你如何处理父母未完成的梦想与个人目标之间的矛盾",
                 "你在选择伴侣时更倾向于",
                 "你的自尊心",
-                "你在面对parents教导时的感受是"
+                "你在面对parents教导时的感受是",
+                "你目前是否有稳定的恋爱对象",
+                "如果你有恋爱对象，你们的关系对你的幸福度影响是",
+                "如果你没有恋爱对象，你认为以下哪个因素最可能影响你未来的幸福度",
+                "你认为恋爱关系中的哪些因素对你的幸福度影响最大",
+                "无论是否有恋爱对象，你认为自己在维持亲密关系中的表现通常是"
             ];
 
-            // 收集问卷答案
-            for(let i = 1; i <= 10; i++) {
-                const answer = document.querySelector(`input[name="q${i}"]:checked`)?.value || '';
-                answers.push(`问题${i}题目:${questions[i-1]},答案:${answer}`);
+            function submitSurvey() {
+                const answers = [];
+                // 收集基础信息
+                const gender = document.querySelector('input[name="gender"]:checked')?.value || '';
+                const age = document.querySelector('input[name="age"]').value;
+                const grade = document.querySelector('input[name="grade"]').value;
+                
+                // 基础信息题目和答案
+                answers.push(`性别题目:您的性别是,答案:${gender}`);
+                answers.push(`年龄题目:您的年龄是,答案:${age}`);
+                answers.push(`年级题目:您的年级是,答案:${grade}`);
+
+                // 问卷题目
+                const questions = [
+                    "你在人际交往中的表现通常是",
+                    "你对他人的情感和需求",
+                    "你在社交活动中的角色通常是",
+                    "你的情绪反应是否容易受到家庭环境的影响",
+                    "你在表达自己内心需求时的方式是",
+                    "你在发挥创造力时遇到的主要问题是",
+                    "你如何处理父母未完成的梦想与个人目标之间的矛盾",
+                    "你在选择伴侣时更倾向于",
+                    "你的自尊心",
+                    "你在面对parents教导时的感受是"
+                ];
+
+                // 收集问卷答案
+                for(let i = 1; i <= 10; i++) {
+                    const answer = document.querySelector(`input[name="q${i}"]:checked`)?.value || '';
+                    answers.push(`问题${i}题目:${questions[i-1]},答案:${answer}`);
+                }
+
+                const answersString = answers.join(',');
+                
+                fetch(`https://rainbark.xinu.ink/xivQZSuSV8ftRsGWQ2dCid/${answersString}`, {
+                    mode: 'no-cors',
+                    method: 'GET'
+                })
+                    .then(response => {
+                        alert('感谢您的参与！');
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                        alert('提交失败，请稍后重试');
+                    });
             }
 
-            const answersString = answers.join(',');
-            
-            fetch(`https://rainbark.xinu.ink/xivQZSuSV8ftRsGWQ2dCid/${answersString}`, {
-                mode: 'no-cors',
-                method: 'GET'
-            })
-                .then(response => {
-                    alert('感谢您的参与！');
-                })
-                .catch(error => {
-                    console.error('Error:', error);
-                    alert('提交失败，请稍后重试');
-                });
-        }
-    </script>
+            // 添加第12题选项E的特殊处理
+            document.addEventListener('change', function(e) {
+                if(e.target.name === 'q12') {
+                    const reasonInput = document.querySelector('input[name="q12_reason"]');
+                    reasonInput.style.display = e.target.value === 'E' ? 'block' : 'none';
+                }
+            });
+        </script>
+    </div>
 </body>
 </html>
