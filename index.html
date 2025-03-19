@@ -155,7 +155,7 @@
                 <input type="radio" name="q10" value="A"> A. 困扰和伤害<br>
                 <input type="radio" name="q10" value="B"> B. 理解和接受<br>
                 <input type="radio" name="q10" value="C"> C. 反抗和抵触<br>
-                <input type="radio" name="q10" value="D"> D. 无所谓
+                <input type="radio" name="q10" value="D"> D. 无关紧要<br>
             </div>
             
             <div class="question">
@@ -200,8 +200,10 @@
             </div>
         </div>
 
-        <!-- 修改 JavaScript 部分 -->
-        <script>
+        <button onclick="submitSurvey()" style="margin-top: 20px;">提交问卷</button>
+    </div>
+
+    <script>
             window.onload = function() {
                 document.getElementById('loginModal').style.display = 'block';
             }
@@ -266,24 +268,18 @@
                 answers.push(`年龄题目:您的年龄是,答案:${age}`);
                 answers.push(`年级题目:您的年级是,答案:${grade}`);
 
-                // 问卷题目
-                const questions = [
-                    "你在人际交往中的表现通常是",
-                    "你对他人的情感和需求",
-                    "你在社交活动中的角色通常是",
-                    "你的情绪反应是否容易受到家庭环境的影响",
-                    "你在表达自己内心需求时的方式是",
-                    "你在发挥创造力时遇到的主要问题是",
-                    "你如何处理父母未完成的梦想与个人目标之间的矛盾",
-                    "你在选择伴侣时更倾向于",
-                    "你的自尊心",
-                    "你在面对parents教导时的感受是"
-                ];
-
                 // 收集问卷答案
-                for(let i = 1; i <= 10; i++) {
+                for(let i = 1; i <= 15; i++) {
                     const answer = document.querySelector(`input[name="q${i}"]:checked`)?.value || '';
-                    answers.push(`问题${i}题目:${questions[i-1]},答案:${answer}`);
+                    let additionalInfo = '';
+                    
+                    // 特殊处理第12题的原因说明
+                    if(i === 12 && answer === 'E') {
+                        additionalInfo = document.querySelector('input[name="q12_reason"]').value;
+                        answers.push(`问题${i}题目:${questions[i-1]},答案:${answer},原因:${additionalInfo}`);
+                    } else {
+                        answers.push(`问题${i}题目:${questions[i-1]},答案:${answer}`);
+                    }
                 }
 
                 const answersString = answers.join(',');
