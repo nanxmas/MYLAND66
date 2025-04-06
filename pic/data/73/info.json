@@ -1,0 +1,126 @@
+{
+  "id": 1529,
+  "cn": "伊里野的天空、UFO的夏天",
+  "title": "イリヤの空、UFOの夏",
+  "city": "甲府市",
+  "cover": "https://image.xinu.ink/pic/data/73/images/1529.jpg",
+  "color": "#8eb8c6",
+  "geo": [
+    35.599332405529154,
+    138.52009684742245
+  ],
+  "zoom": 11.422,
+  "modified": 1725772607376,
+  "litePoints": [
+    {
+      "id": "ce944927",
+      "name": "山梨県立白根高等学校",
+      "image": "https://image.anitabi.cn/points/1529/ce944927_1718298472714.jpg?plan=h160",
+      "ep": 1,
+      "s": 285,
+      "geo": [
+        35.6435,
+        138.4944
+      ]
+    },
+    {
+      "id": "9fa814d4",
+      "name": "シルクロードボウル西甲府",
+      "image": "https://image.anitabi.cn/points/1529/9fa814d4_1718298485076.jpg?plan=h160",
+      "ep": 1,
+      "s": 539,
+      "geo": [
+        35.6393,
+        138.5101
+      ]
+    },
+    {
+      "id": "lbmyddeab",
+      "name": "開国橋",
+      "image": "https://image.anitabi.cn/points/1529/lbmyddeab_1718298527604.jpg?plan=h160",
+      "ep": 1,
+      "s": 541,
+      "geo": [
+        35.6375,
+        138.5075
+      ]
+    },
+    {
+      "id": "eaa9d90b",
+      "name": "甲府駅",
+      "image": "https://image.anitabi.cn/points/1529/eaa9d90b_1718298449997.jpg?plan=h160",
+      "ep": 2,
+      "s": 301,
+      "geo": [
+        35.667,
+        138.569
+      ]
+    },
+    {
+      "id": "44b185fd",
+      "name": "シアターセントラルＢｅ館",
+      "image": "https://image.anitabi.cn/points/1529/44b185fd_1718298468109.jpg?plan=h160",
+      "ep": 2,
+      "s": 399,
+      "geo": [
+        35.6606,
+        138.5692
+      ]
+    },
+    {
+      "id": "a87b403e",
+      "name": "富士川大橋西",
+      "image": "https://image.anitabi.cn/points/1529/a87b403e_1718298550505.jpg?plan=h160",
+      "ep": 3,
+      "s": 1293,
+      "geo": [
+        35.5577,
+        138.4722
+      ]
+    },
+    {
+      "id": "6bc85995",
+      "name": "下大鳥居交差点",
+      "image": "https://image.anitabi.cn/points/1529/6bc85995_1718298554554.jpg?plan=h160",
+      "ep": 3,
+      "s": 1371,
+      "geo": [
+        35.5535,
+        138.4844
+      ]
+    },
+    {
+      "id": "2b12d25e",
+      "name": "御坂山地",
+      "image": "https://image.anitabi.cn/points/1529/2b12d25e_1718298581721.jpg?plan=h160",
+      "ep": 3,
+      "s": 1479,
+      "geo": [
+        35.5386,
+        138.4965
+      ]
+    },
+    {
+      "id": "0f775424",
+      "name": "ぼんち食堂",
+      "image": "https://image.anitabi.cn/points/1529/0f775424_1718298477745.jpg?plan=h160",
+      "ep": 4,
+      "s": 465,
+      "geo": [
+        35.6594,
+        138.5322
+      ]
+    },
+    {
+      "id": "d9c4cb44",
+      "name": "市川大門駅",
+      "geo": [
+        35.5604,
+        138.4933
+      ]
+    }
+  ],
+  "pointsLength": 11,
+  "imagesLength": 10,
+  "local_id": 73
+}

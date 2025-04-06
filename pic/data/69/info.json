@@ -1,0 +1,129 @@
+{
+  "id": 1424,
+  "cn": "轻音少女",
+  "title": "けいおん！",
+  "city": "京都市",
+  "cover": "https://image.xinu.ink/pic/data/69/images/1424.jpg",
+  "color": "#e6302c",
+  "cp": "桜高軽音部",
+  "geo": [
+    34.986127999999994,
+    135.73436700000002
+  ],
+  "zoom": 11,
+  "modified": 1739694093259,
+  "litePoints": [
+    {
+      "id": "25idmds",
+      "name": "北山通",
+      "image": "https://image.anitabi.cn/points/1424/25idmds.jpg?plan=h160",
+      "ep": 15,
+      "s": 198,
+      "geo": [
+        35.0521,
+        135.7863
+      ]
+    },
+    {
+      "id": "25idmby",
+      "name": "北山通（レトロビーバー）",
+      "image": "https://image.anitabi.cn/points/1424/25idmby.jpg?plan=h160",
+      "ep": 7,
+      "s": 173,
+      "geo": [
+        35.0518,
+        135.788
+      ]
+    },
+    {
+      "id": "25idmdc",
+      "name": "第10話アバン(1)",
+      "image": "https://image.anitabi.cn/points/1424/25idmdc.jpg?plan=h160",
+      "ep": 10,
+      "s": 1,
+      "geo": [
+        35.0511,
+        135.7894
+      ]
+    },
+    {
+      "id": "4yfwf2soj",
+      "name": "修学院駅",
+      "image": "https://image.anitabi.cn/points/1424/4yfwf2soj.jpg?plan=h160",
+      "ep": 1,
+      "s": 122,
+      "geo": [
+        35.0505,
+        135.7904
+      ]
+    },
+    {
+      "id": "25idmen",
+      "name": "白川通北山路口附近",
+      "image": "https://image.anitabi.cn/points/1424/25idmen.jpg?plan=h160",
+      "ep": 19,
+      "s": 816,
+      "geo": [
+        35.0502,
+        135.7911
+      ]
+    },
+    {
+      "id": "25idmfv",
+      "name": "第13話Aパート(2)",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1424/points/25idmfv-1729326170762.jpg?plan=h160",
+      "ep": 13,
+      "s": 428,
+      "geo": [
+        35.0417,
+        135.7919
+      ]
+    },
+    {
+      "id": "25idmig",
+      "cn": "勃兰登堡门 Brandenburuger Tor",
+      "name": "ブランデンブルク門",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1424/points/25idmig-1720632231036.jpg?plan=h160",
+      "ep": 7,
+      "s": 393,
+      "geo": [
+        52.5162,
+        13.3781
+      ]
+    },
+    {
+      "id": "dsb0ih5on",
+      "name": "平沢邸",
+      "image": "https://image.anitabi.cn/user/1029/bangumi/1424/points/dsb0ih5on-1697035863601.jpg?plan=h160",
+      "ep": 1,
+      "s": 60,
+      "geo": [
+        35.0521,
+        135.7861
+      ]
+    },
+    {
+      "id": "25idmct",
+      "name": "松ヶ﨑橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1424/points/25idmct-1719141617825.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.0511,
+        135.7891
+      ]
+    },
+    {
+      "id": "25idmg2",
+      "name": "修学院站附近",
+      "image": "https://image.anitabi.cn/points/1424/25idmg2.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.0502,
+        135.7909
+      ]
+    }
+  ],
+  "pointsLength": 208,
+  "imagesLength": 202,
+  "local_id": 69
+}

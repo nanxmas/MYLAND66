@@ -1,0 +1,110 @@
+{
+  "id": 1671,
+  "cn": "化物语",
+  "title": "化物語",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/77/images/1671.jpg",
+  "color": "#63aaf1",
+  "geo": [
+    35.6761919,
+    139.6503106
+  ],
+  "modified": 1733668636291,
+  "litePoints": [
+    {
+      "id": "kpx6ohzhe",
+      "name": "六本木ヒルズ ストリートファニチャー：アーチ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1671/points/kpx6ohzhe-1733661870461.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6591,
+        139.7297
+      ]
+    },
+    {
+      "id": "kpx6ohzx7",
+      "name": "六本木ヒルズ ストリートファニチャー：愛だけを…",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1671/points/kpx6ohzx7-1733662129409.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6592,
+        139.7292
+      ]
+    },
+    {
+      "id": "kpx6oi226",
+      "name": "柿ノ木坂線 NO.1鉄塔",
+      "image": "https://image.anitabi.cn/points/1671/kpx6oi226_1730468979524.jpg?plan=h160",
+      "geo": [
+        35.6207,
+        139.679
+      ]
+    },
+    {
+      "id": "kpx6oi4vp",
+      "name": "東急柿の木変電所",
+      "image": "https://image.anitabi.cn/points/1671/kpx6oi4vp_1730469496389.jpg?plan=h160",
+      "geo": [
+        35.6207,
+        139.6791
+      ]
+    },
+    {
+      "id": "kpx6oi5fn",
+      "name": "東急東横線 跨線橋",
+      "image": "https://image.anitabi.cn/points/1671/kpx6oi5fn_1730469171293.jpg?plan=h160",
+      "geo": [
+        35.6201,
+        139.6786
+      ]
+    },
+    {
+      "id": "kpx6oi5qr",
+      "name": "三鷹通り JR中央本線下トンネル",
+      "image": "https://image.anitabi.cn/points/1671/kpx6oi5qr_1730469464477.jpg?plan=h160",
+      "geo": [
+        35.7024,
+        139.559
+      ]
+    },
+    {
+      "id": "kpx6oi5l1",
+      "name": "さいたまスーパーアリーナ Aゲート",
+      "image": "https://image.anitabi.cn/points/1671/kpx6oi5l1_1730469640791.jpg?plan=h160",
+      "geo": [
+        35.8942,
+        139.6301
+      ]
+    },
+    {
+      "id": "kpx6oi6ko",
+      "name": "ゆりかもめ新橋駅 高架デッキ",
+      "image": "https://image.anitabi.cn/points/1671/kpx6oi6ko_1730469906380.jpg?plan=h160",
+      "geo": [
+        35.6649,
+        139.7605
+      ]
+    },
+    {
+      "id": "kpx6oi7d3",
+      "name": "汐留 地下通路",
+      "image": "https://image.anitabi.cn/points/1671/kpx6oi7d3_1730469980108.jpg?plan=h160",
+      "geo": [
+        35.6644,
+        139.7614
+      ]
+    },
+    {
+      "id": "kpx6oi6sg",
+      "name": "吹き抜けエスカレーター",
+      "image": "https://image.anitabi.cn/points/1671/kpx6oi6sg_1730470135685.jpg?plan=h160",
+      "geo": [
+        35.6628,
+        139.7604
+      ]
+    }
+  ],
+  "pointsLength": 34,
+  "imagesLength": 18,
+  "local_id": 77
+}

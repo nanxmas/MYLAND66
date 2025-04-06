@@ -1,0 +1,73 @@
+{
+  "id": 1650,
+  "cn": "你所期望的永远",
+  "title": "君が望む永遠",
+  "city": "横滨市",
+  "cover": "https://image.xinu.ink/pic/data/76/images/1650.jpg",
+  "color": "#556aaa",
+  "geo": [
+    35.44712633754038,
+    139.6267759671316
+  ],
+  "zoom": 11.309,
+  "modified": 1740310658199,
+  "litePoints": [
+    {
+      "id": "51i52b4e2",
+      "name": "桜木町駅 (モデル1/2)",
+      "image": "https://image.anitabi.cn/user/2171/bangumi/1650/points/51i52b4e2-1739670466741.jpg?plan=h160",
+      "geo": [
+        35.4509,
+        139.6315
+      ]
+    },
+    {
+      "id": "51i52b486",
+      "name": "関内駅 (モデル1/2)",
+      "image": "https://image.anitabi.cn/user/2171/bangumi/1650/points/51i52b486-1739709224281.jpg?plan=h160",
+      "geo": [
+        35.4434,
+        139.6372
+      ]
+    },
+    {
+      "id": "51i52b437",
+      "name": "山下公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1650/points/51i52b437-1723616749035.jpg?plan=h160",
+      "geo": [
+        35.4475,
+        139.6477
+      ]
+    },
+    {
+      "id": "51i52b4mi",
+      "name": "臨港パーク",
+      "image": "https://image.anitabi.cn/user/2171/bangumi/1650/points/51i52b4mi-1739709262969.jpg?plan=h160",
+      "geo": [
+        35.4601,
+        139.6378
+      ]
+    },
+    {
+      "id": "51i52b50m",
+      "name": "清水ヶ丘公園",
+      "image": "https://image.anitabi.cn/user/2171/bangumi/1650/points/51i52b50m-1739670366267.jpg?plan=h160",
+      "geo": [
+        35.437,
+        139.6046
+      ]
+    },
+    {
+      "id": "sww2od8lr",
+      "name": "関内駅の南口",
+      "image": "https://image.anitabi.cn/user/2171/bangumi/1650/points/sww2od8lr-1739711840123.jpg?plan=h160",
+      "geo": [
+        35.443,
+        139.6371
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 76
+}

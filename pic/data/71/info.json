@@ -1,0 +1,131 @@
+{
+  "id": 1451,
+  "cn": "东之伊甸",
+  "title": "東のエデン",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/71/images/1451.jpg",
+  "color": "#d48080",
+  "geo": [
+    38.86853036291842,
+    -77.05169293010101
+  ],
+  "zoom": 8.593,
+  "modified": 1735908385890,
+  "litePoints": [
+    {
+      "id": "kpx6ohd7q",
+      "cn": "华盛顿纪念碑 Washington Monument",
+      "name": "01 After getting of the taxi",
+      "image": "https://image.anitabi.cn/points/1451/kpx6ohd7q_1735414775699.jpg?plan=h160",
+      "ep": 1,
+      "s": 131,
+      "geo": [
+        38.8888,
+        -77.0332
+      ]
+    },
+    {
+      "id": "kpx6ohdg2",
+      "name": "02 Center of the world",
+      "image": "https://image.anitabi.cn/points/1451/kpx6ohdg2_1735908130086.jpg?plan=h160",
+      "ep": 1,
+      "s": 166,
+      "geo": [
+        38.8919,
+        -77.0366
+      ]
+    },
+    {
+      "id": "kpx6ohdp8",
+      "cn": "白宫",
+      "name": "03 White House",
+      "image": "https://image.anitabi.cn/points/1451/kpx6ohdp8_1735409921194.jpg?plan=h160",
+      "ep": 1,
+      "s": 180,
+      "geo": [
+        38.8964,
+        -77.0364
+      ]
+    },
+    {
+      "id": "re0gqng50",
+      "name": "Zero Milestone",
+      "image": "https://image.anitabi.cn/points/1451/re0gqng50_1735411337374.jpg?plan=h160",
+      "ep": 1,
+      "s": 295,
+      "geo": [
+        38.8951,
+        -77.0366
+      ]
+    },
+    {
+      "id": "kpx6ohepk",
+      "name": "04 Entrance 2 to White House E st.",
+      "image": "https://image.anitabi.cn/points/1451/kpx6ohepk_1735411237021.jpg?plan=h160",
+      "ep": 1,
+      "s": 427,
+      "geo": [
+        38.8954,
+        -77.0338
+      ]
+    },
+    {
+      "id": "kpx6oher5",
+      "name": "05 Home, or not",
+      "image": "https://image.anitabi.cn/points/1451/kpx6oher5_1735908196063.jpg?plan=h160",
+      "ep": 1,
+      "s": 491,
+      "geo": [
+        38.8918,
+        -77.023
+      ]
+    },
+    {
+      "id": "kpx6ohfmf",
+      "name": "06 The red zebra crossing",
+      "image": "https://image.anitabi.cn/points/1451/kpx6ohfmf_1735412459817.jpg?plan=h160",
+      "ep": 1,
+      "s": 520,
+      "geo": [
+        38.8953,
+        -77.0335
+      ]
+    },
+    {
+      "id": "kpx6ohfc3",
+      "name": "07 National Theatre",
+      "image": "https://image.anitabi.cn/points/1451/kpx6ohfc3_1735411793909.jpg?plan=h160",
+      "ep": 1,
+      "s": 527,
+      "geo": [
+        38.8961,
+        -77.0305
+      ]
+    },
+    {
+      "id": "kpx6ohfdv",
+      "name": "08 Department of ?",
+      "image": "https://image.anitabi.cn/points/1451/kpx6ohfdv_1735411777942.jpg?plan=h160",
+      "ep": 1,
+      "s": 532,
+      "geo": [
+        38.8953,
+        -77.0304
+      ]
+    },
+    {
+      "id": "kpx6ohfqa",
+      "name": "09 CVS/Pharmacy",
+      "image": "https://image.anitabi.cn/points/1451/kpx6ohfqa_1735410008060.jpg?plan=h160",
+      "ep": 1,
+      "s": 551,
+      "geo": [
+        38.8955,
+        -77.0295
+      ]
+    }
+  ],
+  "pointsLength": 21,
+  "imagesLength": 18,
+  "local_id": 71
+}

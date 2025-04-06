@@ -1,0 +1,39 @@
+{
+  "id": 1148,
+  "cn": "东方永夜抄 ～ Imperishable Night.",
+  "title": "東方永夜抄　～ Imperishable Night.",
+  "cover": "https://image.xinu.ink/pic/data/63/images/1148_0DcU9.jpg",
+  "modified": 1727090699802,
+  "litePoints": [
+    {
+      "id": "ofpre75so",
+      "name": "圓山大飯店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1148/points/ofpre75so-1727081423169.jpg?plan=h160",
+      "geo": [
+        25.0786,
+        121.5261
+      ]
+    },
+    {
+      "id": "ofpwvcfmv",
+      "name": "平安神宮 大極殿",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1148/points/ofpwvcfmv-1727081789238.jpg?plan=h160",
+      "geo": [
+        35.0165,
+        135.7824
+      ]
+    },
+    {
+      "id": "ofptgpoq7",
+      "name": "慈聖宮",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1148/points/ofptgpoq7-1727081556390.jpg?plan=h160",
+      "geo": [
+        25.0602,
+        121.5123
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 63
+}

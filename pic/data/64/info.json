@@ -1,0 +1,38 @@
+{
+  "id": 1167,
+  "cn": "水仙",
+  "title": "narcissu",
+  "cover": "https://image.xinu.ink/pic/data/64/images/1167.jpg",
+  "color": "#e3aa71",
+  "geo": [
+    34.39781066255688,
+    135.03319954807864
+  ],
+  "zoom": 8.756,
+  "modified": 1722511642116,
+  "litePoints": [
+    {
+      "id": "8334mxbbe",
+      "cn": "滩黑岩水仙乡",
+      "name": "灘黒岩水仙郷",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1167/points/8334mxbbe-1680954747236.jpg?plan=h160",
+      "geo": [
+        34.2255,
+        134.8356
+      ]
+    },
+    {
+      "id": "833sqtxdg",
+      "cn": "明石海峡大桥",
+      "name": "明石海峡大橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1167/points/833sqtxdg-1680955512902.jpg?plan=h160",
+      "geo": [
+        34.628,
+        135.0307
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 64
+}

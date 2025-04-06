@@ -1,0 +1,54 @@
+{
+  "id": 1377,
+  "cn": "海猫鸣泣之时",
+  "title": "うみねこのなく頃に",
+  "cover": "https://image.xinu.ink/pic/data/68/images/1377.jpg",
+  "color": "#9c5707",
+  "geo": [
+    35.5823213392334,
+    139.74444829225587
+  ],
+  "zoom": 9.254,
+  "modified": 1725438058391,
+  "litePoints": [
+    {
+      "id": "kq8r3sohv",
+      "name": "旧古河庭園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1377/points/kq8r3sohv-1725435380490.jpg?plan=h160",
+      "geo": [
+        35.7426,
+        139.7463
+      ]
+    },
+    {
+      "id": "kq8xnv906",
+      "name": "旧​前田​侯爵​邸​洋館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1377/points/kq8xnv906-1725435488016.jpg?plan=h160",
+      "geo": [
+        35.6621,
+        139.6802
+      ]
+    },
+    {
+      "id": "kq938nxza",
+      "name": "横滨山手西洋馆",
+      "image": null,
+      "geo": [
+        35.4375,
+        139.6513
+      ]
+    },
+    {
+      "id": "kq95fpnp8",
+      "name": "旧岩崎邸庭园",
+      "image": null,
+      "geo": [
+        35.7097,
+        139.7673
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 2,
+  "local_id": 68
+}

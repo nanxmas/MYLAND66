@@ -1,0 +1,23 @@
+{
+  "id": 1174,
+  "cn": "青空下的约定",
+  "title": "この青空に約束を―",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/65/images/1174_DNdJr.jpg",
+  "modified": 1729314658818,
+  "litePoints": [
+    {
+      "id": "p7r03gjwo",
+      "cn": "神津岛",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/1174/p7r03gjwo_1729278327840.jpg?plan=h160",
+      "geo": [
+        34.2148,
+        139.1481
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 65
+}

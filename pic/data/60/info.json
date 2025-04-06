@@ -1,0 +1,101 @@
+{
+  "id": 1048,
+  "cn": "你所期望的永远",
+  "title": "君が望む永遠",
+  "city": "横滨市",
+  "cover": "https://image.xinu.ink/pic/data/60/images/1048_3JCz0.jpg",
+  "color": "#adabf4",
+  "geo": [
+    35.45220162498697,
+    139.63833619437764
+  ],
+  "zoom": 12.75,
+  "modified": 1740310761382,
+  "litePoints": [
+    {
+      "id": "swcu0sd22",
+      "cn": "山下公园",
+      "name": "山下公園",
+      "image": "https://image.anitabi.cn/user/2171/bangumi/1048/points/swcu0sd22-1739670093680.jpg?plan=h160",
+      "geo": [
+        35.4458,
+        139.6495
+      ]
+    },
+    {
+      "id": "swv2zhjti",
+      "name": "石川町駅前郵便局",
+      "image": "https://image.anitabi.cn/user/2171/bangumi/1048/points/swv2zhjti-1739709692625.jpg?plan=h160",
+      "geo": [
+        35.4378,
+        139.6437
+      ]
+    },
+    {
+      "id": "swvr93f3q",
+      "name": "よこはまコスモワールド",
+      "image": "https://image.anitabi.cn/user/2171/bangumi/1048/points/swvr93f3q-1739711107881.jpg?plan=h160",
+      "geo": [
+        35.455,
+        139.6364
+      ]
+    },
+    {
+      "id": "swvuk2dcz",
+      "name": "ロイヤルホストみなとみらい店",
+      "image": "https://image.anitabi.cn/user/2171/bangumi/1048/points/swvuk2dcz-1739711318830.jpg?plan=h160",
+      "geo": [
+        35.4582,
+        139.6338
+      ]
+    },
+    {
+      "id": "swvx2fkdn",
+      "name": "根府川駅",
+      "image": "https://image.anitabi.cn/user/2171/bangumi/1048/points/swvx2fkdn-1739711461932.jpg?plan=h160",
+      "geo": [
+        35.2027,
+        139.1384
+      ]
+    },
+    {
+      "id": "swvyvbbd8",
+      "name": "国府津駅",
+      "image": "https://image.anitabi.cn/user/2171/bangumi/1048/points/swvyvbbd8-1739711572933.jpg?plan=h160",
+      "geo": [
+        35.2808,
+        139.2127
+      ]
+    },
+    {
+      "id": "sww8ovp5d",
+      "name": "清水ヶ丘公園のゆずの木",
+      "image": "https://image.anitabi.cn/user/2171/bangumi/1048/points/sww8ovp5d-1739712186569.jpg?plan=h160",
+      "geo": [
+        35.4371,
+        139.6045
+      ]
+    },
+    {
+      "id": "sww0oow6n",
+      "name": "山下公園",
+      "image": "https://image.anitabi.cn/user/2171/bangumi/1048/points/sww0oow6n-1739711720774.jpg?plan=h160",
+      "geo": [
+        35.4474,
+        139.6477
+      ]
+    },
+    {
+      "id": "sww4ituik",
+      "name": "桜木町駅",
+      "image": "https://image.anitabi.cn/user/2171/bangumi/1048/points/sww4ituik-1739711959256.jpg?plan=h160",
+      "geo": [
+        35.4509,
+        139.6316
+      ]
+    }
+  ],
+  "pointsLength": 9,
+  "imagesLength": 9,
+  "local_id": 60
+}

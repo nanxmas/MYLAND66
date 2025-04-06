@@ -1,0 +1,125 @@
+{
+  "id": 1606,
+  "cn": "凉宫春日的忧郁 2009",
+  "title": "涼宮ハルヒの憂鬱",
+  "city": "西宫市",
+  "cover": "https://image.xinu.ink/pic/data/74/images/1606.jpg",
+  "color": "#157fea",
+  "cp": "a member of SOS",
+  "geo": [
+    34.74484718824813,
+    135.33160096067297
+  ],
+  "zoom": 10.343,
+  "modified": 1739559710385,
+  "litePoints": [
+    {
+      "id": "kgnr26sbj",
+      "cn": "西宫北口站前时钟塔",
+      "name": "西宮北口駅前の時計塔",
+      "image": "https://image.anitabi.cn/user/0/bangumi/485/points/kgnr26sbj-1729061362033.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        34.7464,
+        135.3562
+      ]
+    },
+    {
+      "id": "kgnri41s9",
+      "cn": "阿虚非法停放自行车处",
+      "name": "キョンの違法駐輪処",
+      "image": "https://image.anitabi.cn/user/0/bangumi/485/points/kgnri41s9-1729061564830.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        34.7466,
+        135.3561
+      ]
+    },
+    {
+      "id": "p52ppjg4e",
+      "cn": "甲阳园站前",
+      "name": "甲陽園駅前",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1606/points/p52ppjg4e-1729068870393.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.7611,
+        135.3298
+      ]
+    },
+    {
+      "id": "p60evsowk",
+      "cn": "关西超市",
+      "name": "関西スーパー",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1606/points/p60evsowk-1729142085017.jpg?plan=h160",
+      "ep": 12,
+      "geo": [
+        34.7467,
+        135.3432
+      ]
+    },
+    {
+      "id": "p60qmcc0o",
+      "cn": "新池",
+      "name": "新池",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1606/points/p60qmcc0o-1729142955526.jpg?plan=h160",
+      "ep": 23,
+      "geo": [
+        34.754,
+        135.3433
+      ]
+    },
+    {
+      "id": "p611wwhqb",
+      "cn": "上学路阶梯",
+      "name": "登校路階段",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1606/points/p611wwhqb-1729143512078.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.7604,
+        135.3293
+      ]
+    },
+    {
+      "id": "suwuiwyma",
+      "name": "Kyon的家",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1606/points/suwuiwyma-1739556888310.jpg?plan=h160",
+      "s": 2,
+      "geo": [
+        34.761,
+        135.3438
+      ]
+    },
+    {
+      "id": "suxhqllx6",
+      "name": "阿虚上学路上经过的加油站",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1606/points/suxhqllx6-1739558424158.jpg?plan=h160",
+      "s": 60,
+      "geo": [
+        34.7608,
+        135.3198
+      ]
+    },
+    {
+      "id": "suxyix3l7",
+      "name": "阿虚上学经过的银水桥",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1606/points/suxyix3l7-1739559330734.jpg?plan=h160",
+      "s": 14,
+      "geo": [
+        34.7606,
+        135.3244
+      ]
+    },
+    {
+      "id": "c6qm03aw0",
+      "name": "夙川オアシスロード",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1606/points/c6qm03aw0-1692524709515.jpg?plan=h160",
+      "geo": [
+        34.7311,
+        135.329
+      ]
+    }
+  ],
+  "pointsLength": 18,
+  "imagesLength": 18,
+  "local_id": 74
+}

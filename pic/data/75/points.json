@@ -1,0 +1,39 @@
+[
+  {
+    "id": "np5n8b8ys",
+    "name": "鎌倉高校駅前踏切",
+    "image": "https://image.xinu.ink/pic/data/75/images/6uhlkmcos-1677460086131.jpg",
+    "ep": 1,
+    "geo": [
+      35.3066,
+      139.502
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6ohv8r",
+    "name": "湘北高校",
+    "image": "https://image.xinu.ink/pic/data/75/images/kpx6ohv8r-1724759245124.jpg",
+    "ep": null,
+    "geo": [
+      35.7204,
+      139.5576
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1L5wpIrHwqYqvhchMW6zWj9thEbs&ll=35.72042%2C139.55762&z=17"
+  },
+  {
+    "id": "np5o3v3o6",
+    "cn": "镰仓高校",
+    "name": "鎌倉高",
+    "image": "https://image.xinu.ink/pic/data/75/images/np5o3v3o6-1728723006043.jpg",
+    "ep": null,
+    "geo": [
+      35.3079,
+      139.5035
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  }
+]

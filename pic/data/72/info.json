@@ -1,0 +1,113 @@
+{
+  "id": 1488,
+  "cn": "悠久之翼-前篇",
+  "title": "ef - the first tale.",
+  "city": "欧洲",
+  "cover": "https://image.xinu.ink/pic/data/72/images/1488.jpg",
+  "color": "#1e1210",
+  "geo": [
+    49.240310594404576,
+    9.47833742677517
+  ],
+  "zoom": 7.358,
+  "modified": 1736353966763,
+  "litePoints": [
+    {
+      "id": "pf249q1cv",
+      "cn": "雅各布教堂",
+      "name": "St. Jakob",
+      "image": "https://image.anitabi.cn/points/1488/pf249q1cv_1729851071280.jpg?plan=h160",
+      "geo": [
+        49.3778,
+        10.1777
+      ]
+    },
+    {
+      "id": "pfrcz3v5k",
+      "cn": "Fuchs-Rondell 观景台",
+      "name": "Fuchs-Rondell - Aussichtspunkt",
+      "image": "https://image.anitabi.cn/points/1488/pfrcz3v5k_1729906020346.jpg?plan=h160",
+      "geo": [
+        49.4175,
+        8.7007
+      ]
+    },
+    {
+      "id": "pf2jcv2as",
+      "cn": "圣彼得教堂西北角",
+      "name": "Peterskirche",
+      "image": "https://image.anitabi.cn/points/1488/pf2jcv2as_1729852004884.jpg?plan=h160",
+      "geo": [
+        49.4094,
+        8.7056
+      ]
+    },
+    {
+      "id": "pf0uidjzr",
+      "name": "Providenzkirche",
+      "image": "https://image.anitabi.cn/points/1488/pf0uidjzr_1729848301194.jpg?plan=h160",
+      "geo": [
+        49.4108,
+        8.7019
+      ]
+    },
+    {
+      "id": "lwejrvpi1",
+      "cn": "圣彼得教堂",
+      "name": "Peterskirche",
+      "image": "https://image.anitabi.cn/points/1488/lwejrvpi1_1719925888879.jpg?plan=h160",
+      "geo": [
+        49.4093,
+        8.7057
+      ]
+    },
+    {
+      "id": "paxgdd10q",
+      "name": "Peterskirche",
+      "image": "https://image.anitabi.cn/points/1488/paxgdd10q_1729527452126.jpg?plan=h160",
+      "geo": [
+        49.4093,
+        8.706
+      ]
+    },
+    {
+      "id": "lwengi1az",
+      "name": "Hauptstraße入口处",
+      "image": "https://image.anitabi.cn/points/1488/lwengi1az_1719926123881.jpg?plan=h160",
+      "geo": [
+        49.4097,
+        8.694
+      ]
+    },
+    {
+      "id": "lwepux2ug",
+      "name": "Heidelberg",
+      "image": "https://image.anitabi.cn/points/1488/lwepux2ug_1719926253540.jpg?plan=h160",
+      "geo": [
+        49.4097,
+        8.6938
+      ]
+    },
+    {
+      "id": "paxb6boi8",
+      "name": "Hauptstraße中央附近",
+      "image": "https://image.anitabi.cn/points/1488/paxb6boi8_1729527167617.jpg?plan=h160",
+      "geo": [
+        49.4113,
+        8.7038
+      ]
+    },
+    {
+      "id": "paxfb7jjj",
+      "name": "Heiliggeiststraße与Mönchgasse交汇处",
+      "image": "https://image.anitabi.cn/points/1488/paxfb7jjj_1729527394326.jpg?plan=h160",
+      "geo": [
+        49.4125,
+        8.7119
+      ]
+    }
+  ],
+  "pointsLength": 23,
+  "imagesLength": 23,
+  "local_id": 72
+}

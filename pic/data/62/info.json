@@ -1,0 +1,109 @@
+{
+  "id": 1130,
+  "cn": "壳之少女",
+  "title": "殻ノ少女",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/62/images/1130_s8wnplf4k.jpg",
+  "color": "#756885",
+  "geo": [
+    35.66521379850619,
+    139.6900833772815
+  ],
+  "zoom": 9.725,
+  "modified": 1742409559970,
+  "litePoints": [
+    {
+      "id": "sa0iqg81f",
+      "name": "立教大学",
+      "image": "https://image.anitabi.cn/points/1130/sa0iqg81f_1737919133742.jpg?plan=h160",
+      "geo": [
+        35.7309,
+        139.7039
+      ]
+    },
+    {
+      "id": "sa0kix09r",
+      "name": "立教大学諸聖徒礼拝堂",
+      "image": "https://image.anitabi.cn/points/1130/sa0kix09r_1737919315010.jpg?plan=h160",
+      "geo": [
+        35.7306,
+        139.7035
+      ]
+    },
+    {
+      "id": "sa0odcdu8",
+      "name": "佐伯​祐三​アトリエ​記念館",
+      "image": "https://image.anitabi.cn/points/1130/sa0odcdu8_1737919571760.jpg?plan=h160",
+      "geo": [
+        35.7208,
+        139.6936
+      ]
+    },
+    {
+      "id": "sa0sb97qg",
+      "name": "聖母病院",
+      "image": "https://image.anitabi.cn/points/1130/sa0sb97qg_1737919807761.jpg?plan=h160",
+      "geo": [
+        35.7203,
+        139.6943
+      ]
+    },
+    {
+      "id": "sa0wx07kb",
+      "name": "新宿中村屋ビル前",
+      "image": "https://image.anitabi.cn/points/1130/sa0wx07kb_1737920296726.jpg?plan=h160",
+      "geo": [
+        35.6919,
+        139.7022
+      ]
+    },
+    {
+      "id": "sa0e6vkch",
+      "name": "上野駅",
+      "image": "https://image.anitabi.cn/points/1130/sa0e6vkch_1737918887203.jpg?plan=h160",
+      "geo": [
+        35.7119,
+        139.7765
+      ]
+    },
+    {
+      "id": "sa137yg2c",
+      "name": "東京都美術館",
+      "image": "https://image.anitabi.cn/points/1130/sa137yg2c_1737920446782.jpg?plan=h160",
+      "geo": [
+        35.7169,
+        139.7731
+      ]
+    },
+    {
+      "id": "sa17ivv7e",
+      "name": "石神井城址",
+      "image": "https://image.anitabi.cn/points/1130/sa17ivv7e_1737920911182.jpg?plan=h160",
+      "geo": [
+        35.7372,
+        139.5968
+      ]
+    },
+    {
+      "id": "sa197jpgg",
+      "name": "穴弁天",
+      "image": "https://image.anitabi.cn/points/1130/sa197jpgg_1737920957269.jpg?plan=h160",
+      "geo": [
+        35.7372,
+        139.5946
+      ]
+    },
+    {
+      "id": "sa1roxdav",
+      "name": "吉祥寺駅",
+      "image": "https://image.anitabi.cn/points/1130/sa1roxdav_1737921824221.jpg?plan=h160",
+      "geo": [
+        35.7033,
+        139.5797
+      ]
+    }
+  ],
+  "pointsLength": 24,
+  "imagesLength": 24,
+  "local_id": 62
+}

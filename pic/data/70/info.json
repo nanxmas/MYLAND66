@@ -1,0 +1,77 @@
+{
+  "id": 1444,
+  "cn": "天才麻将少女",
+  "title": "咲-Saki-",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/70/images/1444.jpg",
+  "color": "#634e47",
+  "geo": [
+    38.32199670035982,
+    137.58690875412054
+  ],
+  "zoom": 5,
+  "modified": 1730136886640,
+  "litePoints": [
+    {
+      "id": "lro4afhiu",
+      "name": "北海道庁旧本庁舎",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/1444/points/lro4afhiu-1719554894801.jpg?plan=h160",
+      "geo": [
+        43.064,
+        141.3486
+      ]
+    },
+    {
+      "id": "opmyzl9s7",
+      "name": "Tsumekakiamidado 爪かき阿弥陀堂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1444/points/opmyzl9s7-1727859033373.jpg?plan=h160",
+      "geo": [
+        36.1632,
+        140.301
+      ]
+    },
+    {
+      "id": "pio97bd9j",
+      "cn": "和布刈神社",
+      "name": "17巻 表紙カバー",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/1444/points/pio97bd9j-1730134369017.jpg?plan=h160",
+      "geo": [
+        33.9608,
+        130.9621
+      ]
+    },
+    {
+      "id": "pip0g3tj6",
+      "cn": "有珠山噴火記念公園",
+      "name": "14巻 表紙カバー(表)",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/1444/points/pip0g3tj6-1730136126417.jpg?plan=h160",
+      "geo": [
+        42.5686,
+        140.8056
+      ]
+    },
+    {
+      "id": "pip7g0aze",
+      "cn": "壮瞥町东丸山下",
+      "name": "第139局 扉絵／14巻 裏表紙",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/1444/points/pip7g0aze-1730136417881.jpg?plan=h160",
+      "geo": [
+        42.5557,
+        140.8529
+      ]
+    },
+    {
+      "id": "pipdf2w9m",
+      "cn": "壮瞥町四十三山下",
+      "name": "第129局 回想シーン(4)",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/1444/points/pipdf2w9m-1730136840113.jpg?plan=h160",
+      "geo": [
+        42.5606,
+        140.843
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 70
+}

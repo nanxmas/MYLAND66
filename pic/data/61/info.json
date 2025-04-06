@@ -1,0 +1,46 @@
+{
+  "id": 1127,
+  "cn": "Remember11：无限轮回的时光",
+  "title": "Remember11 -the age of infinity-",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/61/images/1127.jpg",
+  "color": "#828282",
+  "geo": [
+    42.87867969893955,
+    141.12242047648698
+  ],
+  "zoom": 5.993,
+  "modified": 1722831329815,
+  "litePoints": [
+    {
+      "id": "lxfpmrsq4",
+      "name": "朱倉岳",
+      "image": "https://image.anitabi.cn/points/1127/lxfpmrsq4_1720007697001.jpg?plan=h160",
+      "geo": [
+        40.6684,
+        140.886
+      ]
+    },
+    {
+      "id": "lxf6myntn",
+      "name": "青鷺島",
+      "image": "https://image.anitabi.cn/points/1127/lxf6myntn_1720007857959.jpg?plan=h160",
+      "geo": [
+        45.3734,
+        140.9397
+      ]
+    },
+    {
+      "id": "lxfhne921",
+      "name": "北海道妃羽郡茂枝木村穂樽日鉱山跡",
+      "image": "https://image.anitabi.cn/points/1127/lxfhne921_1720007954939.jpg?plan=h160",
+      "geo": [
+        43.0155,
+        140.911
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 61
+}

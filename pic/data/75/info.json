@@ -1,0 +1,80 @@
+{
+  "id": 1608,
+  "cn": "灌篮高手",
+  "title": "スラムダンク",
+  "city": "镰仓市",
+  "cover": "https://image.xinu.ink/pic/data/75/images/1608.jpg",
+  "color": "#aa0000",
+  "geo": [
+    35.48371737487463,
+    139.49217372513
+  ],
+  "zoom": 9.252,
+  "modified": 1728725808536,
+  "litePoints": [
+    {
+      "id": "np5n8b8ys",
+      "name": "鎌倉高校駅前踏切",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1608/points/6uhlkmcos-1677460086131.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.3066,
+        139.502
+      ]
+    },
+    {
+      "id": "kpx6ohv8r",
+      "name": "湘北高校",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1608/points/kpx6ohv8r-1724759245124.jpg?plan=h160",
+      "geo": [
+        35.7204,
+        139.5576
+      ]
+    },
+    {
+      "id": "np5o3v3o6",
+      "cn": "镰仓高校",
+      "name": "鎌倉高",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1608/points/np5o3v3o6-1728723006043.jpg?plan=h160",
+      "geo": [
+        35.3079,
+        139.5035
+      ]
+    },
+    {
+      "id": "kpx6ohvyv",
+      "name": "海南大附属高校",
+      "geo": [
+        38.2184,
+        140.8637
+      ]
+    },
+    {
+      "id": "kpx6ohw1e",
+      "name": "翔陽",
+      "geo": [
+        35.437,
+        139.4939
+      ]
+    },
+    {
+      "id": "kpx6ohwz1",
+      "name": "ちどり荘",
+      "geo": [
+        34.4764,
+        132.2421
+      ]
+    },
+    {
+      "id": "kpx6ohx2c",
+      "name": "決勝トーナメントの会場の１つ",
+      "geo": [
+        35.341,
+        139.3384
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 3,
+  "local_id": 75
+}

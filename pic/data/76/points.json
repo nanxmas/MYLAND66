@@ -1,0 +1,75 @@
+[
+  {
+    "id": "51i52b4e2",
+    "name": "桜木町駅 (モデル1/2)",
+    "image": "https://image.xinu.ink/pic/data/76/images/51i52b4e2-1739670466741.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      35.4509,
+      139.6315
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z60v_I865QYs.ksou3VpfLUxs&ll=35.450936%2C139.631564&z=17"
+  },
+  {
+    "id": "51i52b486",
+    "name": "関内駅 (モデル1/2)",
+    "image": "https://image.xinu.ink/pic/data/76/images/51i52b486-1739709224281.jpg",
+    "ep": null,
+    "geo": [
+      35.4434,
+      139.6372
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z60v_I865QYs.ksou3VpfLUxs&ll=35.443475%2C139.637281&z=17"
+  },
+  {
+    "id": "51i52b437",
+    "name": "山下公園",
+    "image": "https://image.xinu.ink/pic/data/76/images/51i52b437-1723616749035.jpg",
+    "ep": null,
+    "geo": [
+      35.4475,
+      139.6477
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z60v_I865QYs.ksou3VpfLUxs&ll=35.447523%2C139.647769&z=17"
+  },
+  {
+    "id": "51i52b4mi",
+    "name": "臨港パーク",
+    "image": "https://image.xinu.ink/pic/data/76/images/51i52b4mi-1739709262969.jpg",
+    "ep": null,
+    "geo": [
+      35.4601,
+      139.6378
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z60v_I865QYs.ksou3VpfLUxs&ll=35.460195%2C139.637898&z=17"
+  },
+  {
+    "id": "51i52b50m",
+    "name": "清水ヶ丘公園",
+    "image": "https://image.xinu.ink/pic/data/76/images/51i52b50m-1739670366267.jpg",
+    "ep": null,
+    "geo": [
+      35.437,
+      139.6046
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z60v_I865QYs.ksou3VpfLUxs&ll=35.437076%2C139.604647&z=17"
+  },
+  {
+    "id": "sww2od8lr",
+    "name": "関内駅の南口",
+    "image": "https://image.xinu.ink/pic/data/76/images/sww2od8lr-1739711840123.jpg",
+    "ep": null,
+    "geo": [
+      35.443,
+      139.6371
+    ],
+    "origin": "Anitabi@英仙座的夏空",
+    "originURL": "https://anitabi.cn/"
+  }
+]

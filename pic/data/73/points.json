@@ -1,0 +1,119 @@
+[
+  {
+    "id": "ce944927",
+    "name": "山梨県立白根高等学校",
+    "image": "https://image.xinu.ink/pic/data/73/images/ce944927_1718298472714.jpg",
+    "ep": 1,
+    "s": 285,
+    "geo": [
+      35.6435,
+      138.4944
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1vSRFRc6QwnkINi3KEy_6zRnW0YfHVpM&ll=35.643518%2C138.494436&z=17"
+  },
+  {
+    "id": "9fa814d4",
+    "name": "シルクロードボウル西甲府",
+    "image": "https://image.xinu.ink/pic/data/73/images/9fa814d4_1718298485076.jpg",
+    "ep": 1,
+    "s": 539,
+    "geo": [
+      35.6393,
+      138.5101
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1vSRFRc6QwnkINi3KEy_6zRnW0YfHVpM&ll=35.639319%2C138.510123&z=17"
+  },
+  {
+    "id": "lbmyddeab",
+    "name": "開国橋",
+    "image": "https://image.xinu.ink/pic/data/73/images/lbmyddeab_1718298527604.jpg",
+    "ep": 1,
+    "s": 541,
+    "geo": [
+      35.6375,
+      138.5075
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "eaa9d90b",
+    "name": "甲府駅",
+    "image": "https://image.xinu.ink/pic/data/73/images/eaa9d90b_1718298449997.jpg",
+    "ep": 2,
+    "s": 301,
+    "geo": [
+      35.667,
+      138.569
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1vSRFRc6QwnkINi3KEy_6zRnW0YfHVpM&ll=35.667098%2C138.569063&z=17"
+  },
+  {
+    "id": "44b185fd",
+    "name": "シアターセントラルＢｅ館",
+    "image": "https://image.xinu.ink/pic/data/73/images/44b185fd_1718298468109.jpg",
+    "ep": 2,
+    "s": 399,
+    "geo": [
+      35.6606,
+      138.5692
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1vSRFRc6QwnkINi3KEy_6zRnW0YfHVpM&ll=35.660638%2C138.569275&z=17"
+  },
+  {
+    "id": "a87b403e",
+    "name": "富士川大橋西",
+    "image": "https://image.xinu.ink/pic/data/73/images/a87b403e_1718298550505.jpg",
+    "ep": 3,
+    "s": 1293,
+    "geo": [
+      35.5577,
+      138.4722
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1vSRFRc6QwnkINi3KEy_6zRnW0YfHVpM&ll=35.557723%2C138.472296&z=17"
+  },
+  {
+    "id": "6bc85995",
+    "name": "下大鳥居交差点",
+    "image": "https://image.xinu.ink/pic/data/73/images/6bc85995_1718298554554.jpg",
+    "ep": 3,
+    "s": 1371,
+    "geo": [
+      35.5535,
+      138.4844
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1vSRFRc6QwnkINi3KEy_6zRnW0YfHVpM&ll=35.553525%2C138.484474&z=17"
+  },
+  {
+    "id": "2b12d25e",
+    "name": "御坂山地",
+    "image": "https://image.xinu.ink/pic/data/73/images/2b12d25e_1718298581721.jpg",
+    "ep": 3,
+    "s": 1479,
+    "geo": [
+      35.5386,
+      138.4965
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1vSRFRc6QwnkINi3KEy_6zRnW0YfHVpM&ll=35.538654%2C138.496558&z=17"
+  },
+  {
+    "id": "0f775424",
+    "name": "ぼんち食堂",
+    "image": "https://image.xinu.ink/pic/data/73/images/0f775424_1718298477745.jpg",
+    "ep": 4,
+    "s": 465,
+    "geo": [
+      35.6594,
+      138.5322
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1vSRFRc6QwnkINi3KEy_6zRnW0YfHVpM&ll=35.65946%2C138.532254&z=17"
+  }
+]
