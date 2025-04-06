@@ -1,0 +1,218 @@
+[
+  {
+    "id": "kpx6oq3z5",
+    "name": "千葉そごう前",
+    "image": "https://image.xinu.ink/pic/data/146/images/kpx6oq3z5-1725108783140.jpg",
+    "ep": "OP1",
+    "s": 6,
+    "geo": [
+      35.6103,
+      140.1123
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.610347%2C140.112393&z=17"
+  },
+  {
+    "id": "rv72t75nv",
+    "name": "千葉商業高等學校",
+    "image": "https://image.xinu.ink/pic/data/146/images/rv72t75nv-1736757912782.jpg",
+    "ep": "8",
+    "s": "5:00",
+    "geo": [
+      35.6209,
+      140.1089
+    ]
+  },
+  {
+    "id": "kpx6oq2z8",
+    "name": "千葉公園内",
+    "image": "https://image.xinu.ink/pic/data/146/images/kpx6oq2z8_1730916283089.jpg",
+    "ep": "OP1",
+    "geo": [
+      35.6174,
+      140.1173
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.617494%2C140.117376&z=17"
+  },
+  {
+    "id": "kpx6oq1jf",
+    "name": "県立千葉商業高校前",
+    "image": "https://image.xinu.ink/pic/data/146/images/kpx6oq1jf_1730917609426.jpg",
+    "ep": 1,
+    "geo": [
+      35.6204,
+      140.1083
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.620437%2C140.108396&z=17"
+  },
+  {
+    "id": "kpx6oq2iy",
+    "name": "県立千葉商業高校付近",
+    "image": "https://image.xinu.ink/pic/data/146/images/kpx6oq2iy_1730917886841.jpg",
+    "ep": 1,
+    "geo": [
+      35.62,
+      140.1078
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.620029%2C140.107865&z=17"
+  },
+  {
+    "id": "kpx6oq2ks",
+    "name": "護国神社入口付近",
+    "image": "https://image.xinu.ink/pic/data/146/images/kpx6oq2ks_1730917516067.jpg",
+    "ep": 1,
+    "geo": [
+      35.6187,
+      140.1118
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.618704%2C140.111813&z=17"
+  },
+  {
+    "id": "kpx6oq5j0",
+    "name": "JR秋葉原駅周辺",
+    "image": "https://image.xinu.ink/pic/data/146/images/kpx6oq5j0_1730915383145.jpg",
+    "ep": 2,
+    "geo": [
+      35.6981,
+      139.7719
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.698168%2C139.771969&z=17"
+  },
+  {
+    "id": "psn90p82v",
+    "cn": "GAMERS本店",
+    "name": "ゲーマーズ​本店",
+    "image": "https://image.xinu.ink/pic/data/146/images/psn90p82v_1730915817873.jpg",
+    "ep": 2,
+    "geo": [
+      35.6981,
+      139.7716
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6oqbxo",
+    "name": "コミックとらのあな秋葉原店",
+    "image": "https://image.xinu.ink/pic/data/146/images/kpx6oqbxo_1730915200377.jpg",
+    "ep": 2,
+    "geo": [
+      35.7003,
+      139.7715
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.700322%2C139.771561&z=17"
+  },
+  {
+    "id": "kpx6oqait",
+    "name": "マクドナルド秋葉原駅前店",
+    "image": "https://image.xinu.ink/pic/data/146/images/kpx6oqait_1730915102307.jpg",
+    "ep": 2,
+    "geo": [
+      35.6996,
+      139.7717
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.699647%2C139.771738&z=17"
+  },
+  {
+    "id": "kpx6oq5px",
+    "name": "秋葉原ガチャポン会館前",
+    "image": "https://image.xinu.ink/pic/data/146/images/kpx6oq5px_1730916044521.jpg",
+    "ep": 2,
+    "geo": [
+      35.7019,
+      139.7713
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.701904%2C139.771328&z=17"
+  },
+  {
+    "id": "kpx6oq1g5",
+    "name": "千葉市中央図書館",
+    "image": "https://image.xinu.ink/pic/data/146/images/kpx6oq1g5_1730918277353.jpg",
+    "ep": 3,
+    "geo": [
+      35.6176,
+      140.1136
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.617605%2C140.11364&z=17"
+  },
+  {
+    "id": "kpx6oq3pe",
+    "name": "アドアーズ千葉",
+    "image": "https://image.xinu.ink/pic/data/146/images/kpx6oq3pe_1730918413233.jpg",
+    "ep": 3,
+    "geo": [
+      35.6112,
+      140.1159
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.611279%2C140.115933&z=17"
+  },
+  {
+    "id": "kpx6oq1ae",
+    "name": "幕張臨海公園",
+    "image": "https://image.xinu.ink/pic/data/146/images/kpx6oq1ae_1730918875521.jpg",
+    "ep": 3,
+    "geo": [
+      35.65,
+      140.0469
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.65001%2C140.046909&z=17"
+  },
+  {
+    "id": "kpx6oq49f",
+    "name": "ミツワデンキ前",
+    "image": "https://image.xinu.ink/pic/data/146/images/kpx6oq49f_1730918546418.jpg",
+    "ep": 3,
+    "geo": [
+      35.6985,
+      139.7715
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.698591%2C139.771524&z=17"
+  },
+  {
+    "id": "kpx6oq4y2",
+    "name": "幕張船溜跡公園",
+    "image": "https://image.xinu.ink/pic/data/146/images/kpx6oq4y2_1730919172277_c16v9.jpg",
+    "ep": 5,
+    "geo": [
+      35.657,
+      140.0487
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.657004%2C140.048768&z=17"
+  },
+  {
+    "id": "kpx6oq342",
+    "name": "千葉県総合スポーツセンター第1陸上競技場内",
+    "image": "https://image.xinu.ink/pic/data/146/images/kpx6oq342_1730918752537.jpg",
+    "ep": 5,
+    "geo": [
+      35.646,
+      140.119
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.646063%2C140.119028&z=17"
+  },
+  {
+    "id": "kpx6oq4hx",
+    "name": "JR千葉駅",
+    "image": "https://image.xinu.ink/pic/data/146/images/kpx6oq4hx_1730917025122.jpg",
+    "geo": [
+      35.6127,
+      140.1144
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.61279%2C140.114474&z=17"
+  }
+]

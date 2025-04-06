@@ -1,0 +1,73 @@
+{
+  "id": 4828,
+  "cn": "Muv-Luv Alternative",
+  "title": "マブラヴ オルタネイティヴ",
+  "city": "横滨市",
+  "cover": "https://image.xinu.ink/pic/data/141/images/4828.jpg",
+  "color": "#ff2929",
+  "geo": [
+    35.45126980248777,
+    139.63210530255543
+  ],
+  "zoom": 12.399,
+  "modified": 1725699342108,
+  "litePoints": [
+    {
+      "id": "n7sn051y6",
+      "name": "台町公園の東側",
+      "image": "https://image.anitabi.cn/points/4828/n7sn051y6_1725011015996_cblack.jpg?plan=h160",
+      "geo": [
+        35.4725,
+        139.62
+      ]
+    },
+    {
+      "id": "n7stczwfb",
+      "name": "山下公园",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/4828/points/n7stczwfb-1723640117938.jpg?plan=h160",
+      "geo": [
+        35.4475,
+        139.6475
+      ]
+    },
+    {
+      "id": "n7swu13mm",
+      "name": "清水ヶ丘公園",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/4828/points/n7swu13mm-1723640396522.jpg?plan=h160",
+      "geo": [
+        35.4371,
+        139.6045
+      ]
+    },
+    {
+      "id": "n7t2rgjxg",
+      "name": "よこはまコスモワールド",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/4828/points/n7t2rgjxg-1723640618507.jpg?plan=h160",
+      "geo": [
+        35.4551,
+        139.6363
+      ]
+    },
+    {
+      "id": "n7t3i0ufe",
+      "name": "臨港パーク",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/4828/points/n7t3i0ufe-1723640664007.jpg?plan=h160",
+      "geo": [
+        35.46,
+        139.6379
+      ]
+    },
+    {
+      "id": "n7taf5wjw",
+      "name": "石川町站前邮局坂道",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/4828/points/n7taf5wjw-1723641095253.jpg?plan=h160",
+      "geo": [
+        35.4378,
+        139.6437
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 141
+}

@@ -1,0 +1,129 @@
+{
+  "id": 4631,
+  "cn": "数码宝贝合体战争",
+  "title": "デジモンクロスウォーズ",
+  "city": "世田谷区",
+  "cover": "https://image.xinu.ink/pic/data/138/images/4631.jpg",
+  "color": "#573126",
+  "geo": [
+    35.5927304543613,
+    139.64814120792175
+  ],
+  "zoom": 9.626,
+  "modified": 1720277774550,
+  "litePoints": [
+    {
+      "id": "51i52ent1",
+      "name": "リクオのバイト先のコンビニ",
+      "image": "https://image.anitabi.cn/points/4631/51i52ent1_1672370052228.jpg?plan=h160",
+      "ep": 1,
+      "s": 22,
+      "geo": [
+        35.6597,
+        139.6421
+      ]
+    },
+    {
+      "id": "51i52eotz",
+      "name": "豪徳寺駅北口",
+      "image": "https://image.anitabi.cn/points/4631/51i52eotz_1672370054231.jpg?plan=h160",
+      "ep": 1,
+      "s": 16,
+      "geo": [
+        35.6539,
+        139.6471
+      ]
+    },
+    {
+      "id": "51i52eogo",
+      "name": "ガスト世田谷代田店",
+      "image": "https://image.anitabi.cn/points/4631/51i52eogo_1672370056228.jpg?plan=h160",
+      "ep": 7,
+      "s": 1090,
+      "geo": [
+        35.6512,
+        139.6605
+      ]
+    },
+    {
+      "id": "51i52eoao",
+      "name": "CoCo壱番屋下北沢点付近",
+      "image": "https://image.anitabi.cn/points/4631/51i52eoao_1672370059530.jpg?plan=h160",
+      "ep": 1,
+      "s": 429,
+      "geo": [
+        35.6593,
+        139.6676
+      ]
+    },
+    {
+      "id": "51i52eo6u",
+      "name": "くぬぎ公園",
+      "image": "https://image.anitabi.cn/points/4631/51i52eo6u_1672370062227.jpg?plan=h160",
+      "ep": 1,
+      "s": 554,
+      "geo": [
+        35.6457,
+        139.6513
+      ]
+    },
+    {
+      "id": "51i52eo73",
+      "name": "くぬぎ公園前",
+      "image": "https://image.anitabi.cn/points/4631/51i52eo73_1672370064228.jpg?plan=h160",
+      "ep": 1,
+      "s": 540,
+      "geo": [
+        35.6458,
+        139.6515
+      ]
+    },
+    {
+      "id": "51i52eo5g",
+      "name": "くぬぎ公園付近の坂道",
+      "image": "https://image.anitabi.cn/points/4631/51i52eo5g_1672370065228.jpg?plan=h160",
+      "ep": 8,
+      "s": 328,
+      "geo": [
+        35.646,
+        139.6511
+      ]
+    },
+    {
+      "id": "51i52eond",
+      "name": "世田谷線沿道",
+      "image": "https://image.anitabi.cn/points/4631/51i52eond_1672370069605.jpg?plan=h160",
+      "ep": 1,
+      "s": 656,
+      "geo": [
+        35.6592,
+        139.6421
+      ]
+    },
+    {
+      "id": "51i52eopn",
+      "name": "太子堂中学校前",
+      "image": "https://image.anitabi.cn/points/4631/51i52eopn_1672370072196.jpg?plan=h160",
+      "ep": 1,
+      "s": 875,
+      "geo": [
+        35.6514,
+        139.6704
+      ]
+    },
+    {
+      "id": "51i52eoul",
+      "name": "太子堂中学校前バス停",
+      "image": "https://image.anitabi.cn/points/4631/51i52eoul_1672370073233.jpg?plan=h160",
+      "ep": 12,
+      "s": 946,
+      "geo": [
+        35.6513,
+        139.6702
+      ]
+    }
+  ],
+  "pointsLength": 51,
+  "imagesLength": 51,
+  "local_id": 138
+}

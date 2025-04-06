@@ -1,0 +1,42 @@
+{
+  "id": 4827,
+  "cn": "Muv-Luv",
+  "title": "マブラヴ",
+  "city": "横滨市",
+  "cover": "https://image.xinu.ink/pic/data/140/images/4827.jpg",
+  "modified": 1723642893324,
+  "litePoints": [
+    {
+      "id": "n7t6f08r0",
+      "cn": "樱木町站",
+      "name": "桜木町駅",
+      "image": "https://image.anitabi.cn/points/4827/n7t6f08r0_1723640936982.jpg?plan=h160",
+      "geo": [
+        35.4509,
+        139.6315
+      ]
+    },
+    {
+      "id": "n7tag8mlg",
+      "cn": "大丸谷坂",
+      "name": "大丸谷坂",
+      "image": "https://image.anitabi.cn/points/4827/n7tag8mlg_1723641169805.jpg?plan=h160",
+      "geo": [
+        35.4377,
+        139.6437
+      ]
+    },
+    {
+      "id": "n7tdwm0bk",
+      "name": "見晴らし台",
+      "image": "https://image.anitabi.cn/points/4827/n7tdwm0bk_1723641374653.jpg?plan=h160",
+      "geo": [
+        35.437,
+        139.6046
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 140
+}

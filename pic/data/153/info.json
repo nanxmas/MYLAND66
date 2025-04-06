@@ -1,0 +1,24 @@
+{
+  "id": 7777,
+  "cn": "海绵宝宝 第一季",
+  "title": "SpongeBob SquarePants (Season 1)",
+  "cover": "https://image.xinu.ink/pic/data/153/images/7777.jpg",
+  "color": "#ffdd00",
+  "modified": 1729359167667,
+  "litePoints": [
+    {
+      "id": "p8jqmpzij",
+      "cn": "比奇堡",
+      "name": "Bikini",
+      "image": "https://image.anitabi.cn/user/0/bangumi/7777/points/p8jqmpzij-1729341010827.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        11.6261,
+        165.5478
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 153
+}

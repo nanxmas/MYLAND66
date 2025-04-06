@@ -1,0 +1,111 @@
+{
+  "id": 9270,
+  "cn": "樱桃小丸子",
+  "title": "ちびまる子ちゃん",
+  "city": "静冈市",
+  "cover": "https://image.xinu.ink/pic/data/163/images/9270.jpg",
+  "color": "#f1c6b8",
+  "geo": [
+    35.01547265149827,
+    138.48300262514863
+  ],
+  "zoom": 10.332,
+  "modified": 1738649094341,
+  "litePoints": [
+    {
+      "id": "kpwmv1c2h",
+      "cn": "清水港",
+      "name": "ちびまる子ちゃんランド",
+      "image": "https://image.anitabi.cn/points/9270/kpwmv1c2h_1738649044487_c16v9.jpg?plan=h160",
+      "ep": 948,
+      "s": 241,
+      "geo": [
+        35.0106,
+        138.4925
+      ]
+    },
+    {
+      "id": "kpwmv1cj5",
+      "cn": "三保松原",
+      "name": "三保松原",
+      "image": "https://image.anitabi.cn/points/9270/kpwmv1cj5_1738649051207_c16v9.jpg?plan=h160",
+      "ep": 948,
+      "s": 396,
+      "geo": [
+        34.9948,
+        138.5235
+      ]
+    },
+    {
+      "id": "kpwmv1d4c",
+      "cn": "久能山東照宮",
+      "name": "久能山東照宮",
+      "image": "https://image.anitabi.cn/points/9270/kpwmv1d4c_1738649073929.jpg?plan=h160",
+      "ep": 948,
+      "s": 790,
+      "geo": [
+        34.9648,
+        138.4675
+      ]
+    },
+    {
+      "id": "kpwmv1c7w",
+      "name": "清水入江小学校",
+      "geo": [
+        35.0143,
+        138.474
+      ]
+    },
+    {
+      "id": "kpwmv1c3k",
+      "name": "追分羊かん",
+      "geo": [
+        35.0143,
+        138.4721
+      ]
+    },
+    {
+      "id": "kpwmv1ce9",
+      "name": "かねだ食堂",
+      "geo": [
+        35.0172,
+        138.4848
+      ]
+    },
+    {
+      "id": "kpwmv1bws",
+      "name": "淡島神社",
+      "geo": [
+        35.0149,
+        138.4805
+      ]
+    },
+    {
+      "id": "kpwmv1cy8",
+      "name": "桜橋交差点の歩道橋",
+      "geo": [
+        35.0158,
+        138.4765
+      ]
+    },
+    {
+      "id": "kpwmv1cuj",
+      "name": "くりた瓦せんべい老舗",
+      "geo": [
+        35.0167,
+        138.479
+      ]
+    },
+    {
+      "id": "kpwmv1cko",
+      "name": "白髭神社",
+      "geo": [
+        35.019,
+        138.4789
+      ]
+    }
+  ],
+  "pointsLength": 37,
+  "imagesLength": 3,
+  "local_id": 163
+}

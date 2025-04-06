@@ -1,0 +1,139 @@
+{
+  "id": 9717,
+  "cn": "魔法少女小圆",
+  "title": "魔法少女まどか☆マギカ",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/165/images/9717.jpg",
+  "color": "#f8b8be",
+  "cp": "MBS",
+  "geo": [
+    34.77257524934295,
+    77.15499847521005
+  ],
+  "zoom": 1.8231207678696613,
+  "modified": 1738584111362,
+  "litePoints": [
+    {
+      "id": "kpwkd7tbq",
+      "cn": "羽生永旺梦乐城",
+      "name": "IEONMALL Hanyuu",
+      "image": "https://image.anitabi.cn/points/9717/kpwkd7tbq_1728304740493.jpg?plan=h160",
+      "ep": 1,
+      "s": 881,
+      "geo": [
+        36.1435,
+        139.5438
+      ]
+    },
+    {
+      "id": "kpwkd7t96",
+      "name": "Weltstadthaus (Cologne)",
+      "image": "https://image.anitabi.cn/points/9717/kpwkd7t96_1728304914758.jpg?plan=h160",
+      "ep": 1,
+      "s": 883,
+      "geo": [
+        50.9362,
+        6.9524
+      ]
+    },
+    {
+      "id": "kpwkd7toq",
+      "cn": "埃菲尔铁塔",
+      "name": "Eiffel Tower",
+      "image": "https://image.anitabi.cn/points/9717/kpwkd7toq_1728304351321.jpg?plan=h160",
+      "ep": 1,
+      "s": 1162,
+      "geo": [
+        48.8582,
+        2.2942
+      ]
+    },
+    {
+      "id": "kpwkd7tl8",
+      "cn": "風返し歩道橋",
+      "name": "Kazegaeshi Hodohkyo (Pedestrian Overpass)",
+      "image": "https://image.anitabi.cn/points/9717/kpwkd7tl8_1728927789834.jpg?plan=h160",
+      "ep": 2,
+      "s": 946,
+      "geo": [
+        35.6273,
+        139.4154
+      ]
+    },
+    {
+      "id": "kpwkd7th1",
+      "cn": "横滨地标大厦",
+      "name": "Yokohama Landmark Tower",
+      "image": "https://image.anitabi.cn/points/9717/kpwkd7th1_1728307216676.jpg?plan=h160",
+      "ep": 2,
+      "s": 995,
+      "geo": [
+        35.4546,
+        139.6314
+      ]
+    },
+    {
+      "id": "lpz0fmgxp",
+      "cn": "扇岛火力发电厂",
+      "name": "扇島火力発電所",
+      "image": "https://image.anitabi.cn/user/0/bangumi/9717/points/lpz0fmgxp-1719421887364.jpg?plan=h160",
+      "ep": 4,
+      "s": 737,
+      "geo": [
+        35.4946,
+        139.7457
+      ]
+    },
+    {
+      "id": "kpwkd7t0u",
+      "cn": "多摩单轨立川北站",
+      "name": "Tachikawa-Kita Station",
+      "image": "https://image.anitabi.cn/points/9717/kpwkd7t0u_1728969292849.jpg?plan=h160",
+      "ep": 4,
+      "s": 910,
+      "geo": [
+        35.7001,
+        139.4125
+      ]
+    },
+    {
+      "id": "kpwkd7t7x",
+      "cn": "御殿场奥特莱斯",
+      "name": "Gotemba Premium Outlets",
+      "image": "https://image.anitabi.cn/user/0/bangumi/9717/points/kpwkd7t7x-1720217603521.jpg?plan=h160",
+      "ep": 4,
+      "s": 911,
+      "geo": [
+        35.3068,
+        138.9653
+      ]
+    },
+    {
+      "id": "kpwkd7t0v",
+      "cn": "岩渊水门",
+      "name": "Iwabuchi Sluice Gate",
+      "image": "https://image.anitabi.cn/points/9717/kpwkd7t0v_1728924851435.jpg?plan=h160",
+      "ep": 5,
+      "s": 315,
+      "geo": [
+        35.7854,
+        139.7335
+      ]
+    },
+    {
+      "id": "kpwkd7trp",
+      "cn": "国际金融中心二期",
+      "name": "Two International Finance Centre",
+      "image": "https://image.anitabi.cn/points/9717/kpwkd7trp_1728926551405.jpg?plan=h160",
+      "ep": 5,
+      "s": 360,
+      "geo": [
+        22.2852,
+        114.1592
+      ]
+    }
+  ],
+  "pointsLength": 41,
+  "imagesLength": 30,
+  "local_id": 165
+}

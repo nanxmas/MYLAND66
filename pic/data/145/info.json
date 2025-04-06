@@ -1,0 +1,109 @@
+{
+  "id": 5418,
+  "cn": "魔法使之夜",
+  "title": "魔法使いの夜",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/145/images/5418_VTRT4.jpg",
+  "geo": [
+    35.6365625775275,
+    139.81059483498962
+  ],
+  "zoom": 8.802,
+  "modified": 1740308582824,
+  "litePoints": [
+    {
+      "id": "sw3qek8r1",
+      "name": "亀戸中央公園 東入り口",
+      "image": "https://image.anitabi.cn/points/5418/sw3qek8r1_1739650285994.jpg?plan=h160",
+      "geo": [
+        35.6993,
+        139.8339
+      ]
+    },
+    {
+      "id": "sw5yxbx6w",
+      "name": "亀戸中央公園",
+      "image": "https://image.anitabi.cn/points/5418/sw5yxbx6w_1739654968854.jpg?plan=h160",
+      "geo": [
+        35.6992,
+        139.8354
+      ]
+    },
+    {
+      "id": "sw3tr3l3j",
+      "name": "亀戸中央公園南",
+      "image": "https://image.anitabi.cn/points/5418/sw3tr3l3j_1739650306334.jpg?plan=h160",
+      "geo": [
+        35.6989,
+        139.8351
+      ]
+    },
+    {
+      "id": "sw615dj5k",
+      "name": "明治通り",
+      "image": "https://image.anitabi.cn/points/5418/sw615dj5k_1739655101015.jpg?plan=h160",
+      "geo": [
+        35.6673,
+        139.7045
+      ]
+    },
+    {
+      "id": "sw4vef1jt",
+      "name": "喫茶ベラミ",
+      "image": "https://image.anitabi.cn/points/5418/sw4vef1jt_1739652582402.jpg?plan=h160",
+      "geo": [
+        35.6746,
+        139.7073
+      ]
+    },
+    {
+      "id": "sw53l5hw3",
+      "name": "馬場大門のけやき並木通り",
+      "image": "https://image.anitabi.cn/points/5418/sw53l5hw3_1739653146964.jpg?plan=h160",
+      "geo": [
+        35.6712,
+        139.4791
+      ]
+    },
+    {
+      "id": "sw57ub1lh",
+      "name": "よこはまコスモワールド",
+      "image": "https://image.anitabi.cn/points/5418/sw57ub1lh_1739653331524.jpg?plan=h160",
+      "geo": [
+        35.4548,
+        139.634
+      ]
+    },
+    {
+      "id": "sw5bbafue",
+      "name": "浅草橋スターダスト",
+      "image": "https://image.anitabi.cn/points/5418/sw5bbafue_1739653542706.jpg?plan=h160",
+      "geo": [
+        35.6977,
+        139.7833
+      ]
+    },
+    {
+      "id": "sw5ncde0c",
+      "cn": "丰岛园",
+      "name": "豊島園",
+      "image": "https://image.anitabi.cn/points/5418/sw5ncde0c_1739654575132.jpg?plan=h160",
+      "geo": [
+        35.7433,
+        139.6458
+      ]
+    },
+    {
+      "id": "sw62rj5bn",
+      "name": "鎌倉文学館",
+      "image": "https://image.anitabi.cn/points/5418/sw62rj5bn_1739655206557.jpg?plan=h160",
+      "geo": [
+        35.3155,
+        139.5388
+      ]
+    }
+  ],
+  "pointsLength": 25,
+  "imagesLength": 25,
+  "local_id": 145
+}

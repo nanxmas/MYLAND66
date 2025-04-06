@@ -1,0 +1,121 @@
+{
+  "id": 8290,
+  "cn": "头文字D",
+  "title": "頭文字D",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/158/images/8290.jpg",
+  "color": "#d8101b",
+  "geo": [
+    36.09852520889103,
+    139.51847329929802
+  ],
+  "zoom": 7.184,
+  "modified": 1734550199256,
+  "litePoints": [
+    {
+      "id": "a8ewdyag",
+      "name": "出発地: 榛名_秋名スタート地点",
+      "image": "https://image.anitabi.cn/points/8290/a8ewdyag_1732557545294.jpg?plan=h160",
+      "ep": 1,
+      "s": 123,
+      "geo": [
+        36.4824,
+        138.8963
+      ]
+    },
+    {
+      "id": "a8ewdyam",
+      "name": "出発地: 妙義スタート",
+      "image": "https://image.anitabi.cn/points/8290/a8ewdyam_1732557699797.jpg?plan=h160",
+      "ep": 22,
+      "s": 528,
+      "geo": [
+        36.2824,
+        138.7388
+      ]
+    },
+    {
+      "id": "a8ewe076",
+      "name": "グリーン商店街",
+      "image": "https://image.anitabi.cn/points/8290/a8ewe076_1732557490702.jpg?plan=h160",
+      "ep": 2,
+      "s": 159,
+      "geo": [
+        36.4976,
+        138.9216
+      ]
+    },
+    {
+      "id": "a8ewe0du",
+      "name": "渋川駅（群馬）",
+      "image": "https://image.anitabi.cn/points/8290/a8ewe0du_1732557852302.jpg?plan=h160",
+      "ep": 12,
+      "s": 470,
+      "geo": [
+        36.4906,
+        139.0084
+      ]
+    },
+    {
+      "id": "qdlqs6uy0",
+      "name": "伊香保温泉石段街",
+      "image": "https://image.anitabi.cn/points/8290/qdlqs6uy0_1732558200621.jpg?plan=h160",
+      "ep": 2,
+      "s": 204,
+      "geo": [
+        36.4973,
+        138.9163
+      ]
+    },
+    {
+      "id": "r19gjiirs",
+      "cn": "榛名山下行17号弯道",
+      "name": "上毛三山パノラマ街道",
+      "image": "https://image.anitabi.cn/user/2153/bangumi/8290/points/r19gjiirs-1734412354696.jpg?plan=h160",
+      "s": 320,
+      "geo": [
+        36.4925,
+        138.8997
+      ]
+    },
+    {
+      "id": "a8ewdxbk",
+      "name": "藤原豆腐店",
+      "image": "https://image.anitabi.cn/points/8290/a8ewdxbk_1730912948194.jpg?plan=h160",
+      "geo": [
+        36.4973,
+        139.0037
+      ]
+    },
+    {
+      "id": "a8ewdycx",
+      "name": "目的地:榛名 _秋名ゴール地点",
+      "image": "https://image.anitabi.cn/points/8290/a8ewdycx_1732557557340.jpg?plan=h160",
+      "geo": [
+        36.4988,
+        138.9155
+      ]
+    },
+    {
+      "id": "a8ewdy0p",
+      "name": "出発地:碓氷スタート_中山道/国道18号線",
+      "image": "https://image.anitabi.cn/points/8290/a8ewdy0p_1732557450813.jpg?plan=h160",
+      "geo": [
+        36.3447,
+        138.6509
+      ]
+    },
+    {
+      "id": "a8ewdxy2",
+      "name": "碓氷峠_C=121",
+      "image": "https://image.anitabi.cn/points/8290/a8ewdxy2_1732557457837.jpg?plan=h160",
+      "geo": [
+        36.3526,
+        138.6714
+      ]
+    }
+  ],
+  "pointsLength": 83,
+  "imagesLength": 31,
+  "local_id": 158
+}

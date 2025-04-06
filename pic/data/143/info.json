@@ -1,0 +1,30 @@
+{
+  "id": 5337,
+  "cn": "绝命毒师",
+  "title": "Breaking Bad",
+  "cover": "https://image.xinu.ink/pic/data/143/images/5337.jpg",
+  "color": "#114029",
+  "geo": [
+    35.13513350653554,
+    -106.5439067144759
+  ],
+  "zoom": 7.145,
+  "modified": 1726904893275,
+  "litePoints": [
+    {
+      "id": "ocyi8nq0t",
+      "cn": "汉克家",
+      "name": "4901 Cumbre Del Sur Ct NE",
+      "image": "https://image.anitabi.cn/user/0/bangumi/5337/points/ocyi8nq0t-1726865578959.jpg?plan=h160",
+      "ep": 2,
+      "s": 27,
+      "geo": [
+        35.1352,
+        -106.4827
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 143
+}

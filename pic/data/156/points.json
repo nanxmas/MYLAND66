@@ -1,0 +1,41 @@
+[
+  {
+    "id": "pg8avyuvr",
+    "name": "下丸子駅",
+    "image": "https://image.xinu.ink/pic/data/156/images/pg8avyuvr_1729943610198.jpg",
+    "ep": 1,
+    "s": 321,
+    "geo": [
+      35.5711,
+      139.6859
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pg8d5wme2",
+    "name": "下丸子駅周辺",
+    "image": "https://image.xinu.ink/pic/data/156/images/pg8d5wme2_1729943641561.jpg",
+    "ep": 1,
+    "s": 325,
+    "geo": [
+      35.5708,
+      139.686
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pg8ebg2u9",
+    "name": "下丸子児童遊園",
+    "image": "https://image.xinu.ink/pic/data/156/images/pg8ebg2u9_1729943645799.jpg",
+    "ep": 1,
+    "s": 328,
+    "geo": [
+      35.5702,
+      139.6858
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  }
+]

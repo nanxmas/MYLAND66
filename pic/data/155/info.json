@@ -1,0 +1,33 @@
+{
+  "id": 7843,
+  "cn": "魔法禁书目录 第二季",
+  "title": "とある魔術の禁書目録Ⅱ",
+  "cover": "https://image.xinu.ink/pic/data/155/images/7843_KPkpp.jpg",
+  "cp": "PROJECT-INDEX Ⅱ",
+  "modified": 1725101437249,
+  "litePoints": [
+    {
+      "id": "no1zagiw3",
+      "cn": "基奥贾",
+      "name": "Chioggia",
+      "image": "https://image.anitabi.cn/user/0/bangumi/7843/points/no1zagiw3-1724913899774.jpg?plan=h160",
+      "geo": [
+        45.213,
+        12.2801
+      ]
+    },
+    {
+      "id": "nqfqe3hhu",
+      "cn": "武藏野市民文化会馆",
+      "name": "武蔵野市民文化会館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/7843/points/nqfqe3hhu-1725100547484.jpg?plan=h160",
+      "geo": [
+        35.7117,
+        139.5659
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 155
+}

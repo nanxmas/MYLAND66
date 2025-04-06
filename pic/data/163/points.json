@@ -1,0 +1,44 @@
+[
+  {
+    "id": "kpwmv1c2h",
+    "cn": "清水港",
+    "name": "ちびまる子ちゃんランド",
+    "image": "https://image.xinu.ink/pic/data/163/images/kpwmv1c2h_1738649044487_c16v9.jpg",
+    "ep": 948,
+    "s": 241,
+    "geo": [
+      35.0106,
+      138.4925
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1MJi77IU-fkfY5PF9pCiejaxBTQk&ll=35.010632%2C138.492556&z=17"
+  },
+  {
+    "id": "kpwmv1cj5",
+    "cn": "三保松原",
+    "name": "三保松原",
+    "image": "https://image.xinu.ink/pic/data/163/images/kpwmv1cj5_1738649051207_c16v9.jpg",
+    "ep": 948,
+    "s": 396,
+    "geo": [
+      34.9948,
+      138.5235
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1MJi77IU-fkfY5PF9pCiejaxBTQk&ll=34.994821%2C138.523592&z=17"
+  },
+  {
+    "id": "kpwmv1d4c",
+    "cn": "久能山東照宮",
+    "name": "久能山東照宮",
+    "image": "https://image.xinu.ink/pic/data/163/images/kpwmv1d4c_1738649073929.jpg",
+    "ep": 948,
+    "s": 790,
+    "geo": [
+      34.9648,
+      138.4675
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1MJi77IU-fkfY5PF9pCiejaxBTQk&ll=34.964826%2C138.467581&z=17"
+  }
+]

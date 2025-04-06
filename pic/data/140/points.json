@@ -1,0 +1,37 @@
+[
+  {
+    "id": "n7t6f08r0",
+    "cn": "樱木町站",
+    "name": "桜木町駅",
+    "image": "https://image.xinu.ink/pic/data/140/images/n7t6f08r0_1723640936982.jpg",
+    "geo": [
+      35.4509,
+      139.6315
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n7tag8mlg",
+    "cn": "大丸谷坂",
+    "name": "大丸谷坂",
+    "image": "https://image.xinu.ink/pic/data/140/images/n7tag8mlg_1723641169805.jpg",
+    "geo": [
+      35.4377,
+      139.6437
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n7tdwm0bk",
+    "name": "見晴らし台",
+    "image": "https://image.xinu.ink/pic/data/140/images/n7tdwm0bk_1723641374653.jpg",
+    "geo": [
+      35.437,
+      139.6046
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

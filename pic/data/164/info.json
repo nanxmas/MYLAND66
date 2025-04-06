@@ -1,0 +1,60 @@
+{
+  "id": 9588,
+  "cn": "金田一少年事件簿",
+  "title": "金田一少年の事件簿",
+  "cover": "https://image.xinu.ink/pic/data/164/images/9588.jpg",
+  "color": "#c12514",
+  "geo": [
+    31.23925463468433,
+    121.4881380094057
+  ],
+  "zoom": 10.606,
+  "modified": 1725419487735,
+  "litePoints": [
+    {
+      "id": "4zo4tnf67",
+      "cn": "江海关大楼",
+      "name": "江海关大楼",
+      "image": "https://image.anitabi.cn/user/0/bangumi/9588/points/7.jpg?plan=h160",
+      "ep": 90,
+      "s": 227,
+      "geo": [
+        31.2386,
+        121.4856
+      ]
+    },
+    {
+      "id": "nuhfiomxd",
+      "cn": "东方明珠电视塔",
+      "name": "东方明珠电视塔",
+      "image": "https://image.anitabi.cn/user/2104/bangumi/9588/points/nuhfiomxd-1725417640959.jpg?plan=h160",
+      "geo": [
+        31.2416,
+        121.4951
+      ]
+    },
+    {
+      "id": "nuhna6667",
+      "cn": "成田国际机场",
+      "name": "成田国際空港",
+      "image": "https://image.anitabi.cn/user/2104/bangumi/9588/points/nuhna6667-1725418122397.jpg?plan=h160",
+      "geo": [
+        35.765,
+        140.3854
+      ]
+    },
+    {
+      "id": "5bks90iz6",
+      "cn": "外白渡桥",
+      "name": "外白渡桥",
+      "image": "https://image.anitabi.cn/user/0/bangumi/9588/points/5bks90iz6-1673156048101.jpg?plan=h160",
+      "geo": [
+        31.2452,
+        121.4856
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 164
+}

@@ -1,0 +1,119 @@
+{
+  "id": 5436,
+  "cn": "我的妹妹哪有这么可爱！一期",
+  "title": "俺の妹がこんなに可愛いわけがない",
+  "city": "千叶市",
+  "cover": "https://image.xinu.ink/pic/data/146/images/5436.jpg",
+  "color": "#6a7f95",
+  "geo": [
+    35.627721,
+    140.088558
+  ],
+  "zoom": 12,
+  "modified": 1736760466376,
+  "litePoints": [
+    {
+      "id": "kpx6oq3z5",
+      "name": "千葉そごう前",
+      "image": "https://image.anitabi.cn/user/0/bangumi/5436/points/kpx6oq3z5-1725108783140.jpg?plan=h160",
+      "s": 6,
+      "geo": [
+        35.6103,
+        140.1123
+      ]
+    },
+    {
+      "id": "rv72t75nv",
+      "name": "千葉商業高等學校",
+      "image": "https://image.anitabi.cn/user/0/bangumi/5436/points/rv72t75nv-1736757912782.jpg?plan=h160",
+      "ep": 8,
+      "geo": [
+        35.6209,
+        140.1089
+      ]
+    },
+    {
+      "id": "kpx6oq2z8",
+      "name": "千葉公園内",
+      "image": "https://image.anitabi.cn/points/5436/kpx6oq2z8_1730916283089.jpg?plan=h160",
+      "geo": [
+        35.6174,
+        140.1173
+      ]
+    },
+    {
+      "id": "kpx6oq1jf",
+      "name": "県立千葉商業高校前",
+      "image": "https://image.anitabi.cn/points/5436/kpx6oq1jf_1730917609426.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6204,
+        140.1083
+      ]
+    },
+    {
+      "id": "kpx6oq2iy",
+      "name": "県立千葉商業高校付近",
+      "image": "https://image.anitabi.cn/points/5436/kpx6oq2iy_1730917886841.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.62,
+        140.1078
+      ]
+    },
+    {
+      "id": "kpx6oq2ks",
+      "name": "護国神社入口付近",
+      "image": "https://image.anitabi.cn/points/5436/kpx6oq2ks_1730917516067.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6187,
+        140.1118
+      ]
+    },
+    {
+      "id": "kpx6oq5j0",
+      "name": "JR秋葉原駅周辺",
+      "image": "https://image.anitabi.cn/points/5436/kpx6oq5j0_1730915383145.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.6981,
+        139.7719
+      ]
+    },
+    {
+      "id": "psn90p82v",
+      "cn": "GAMERS本店",
+      "name": "ゲーマーズ​本店",
+      "image": "https://image.anitabi.cn/points/5436/psn90p82v_1730915817873.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.6981,
+        139.7716
+      ]
+    },
+    {
+      "id": "kpx6oqbxo",
+      "name": "コミックとらのあな秋葉原店",
+      "image": "https://image.anitabi.cn/points/5436/kpx6oqbxo_1730915200377.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.7003,
+        139.7715
+      ]
+    },
+    {
+      "id": "kpx6oqait",
+      "name": "マクドナルド秋葉原駅前店",
+      "image": "https://image.anitabi.cn/points/5436/kpx6oqait_1730915102307.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.6996,
+        139.7717
+      ]
+    }
+  ],
+  "pointsLength": 44,
+  "imagesLength": 21,
+  "local_id": 146
+}

@@ -1,0 +1,36 @@
+{
+  "id": 4284,
+  "cn": "亲吻姐姐",
+  "title": "kiss×sis",
+  "cover": "https://image.xinu.ink/pic/data/136/images/4284.jpg",
+  "color": "#c6aa8e",
+  "geo": [
+    25.040255119928773,
+    121.5303460657197
+  ],
+  "zoom": 11.315,
+  "modified": 1724827914351,
+  "litePoints": [
+    {
+      "id": "n9t7hxqg7",
+      "name": "華西街観光夜市",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/4284/points/n9t7hxqg7-1723797661977.jpg?plan=h160",
+      "geo": [
+        25.0386,
+        121.4984
+      ]
+    },
+    {
+      "id": "n9t8y0er1",
+      "name": "松山机场",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/4284/points/n9t8y0er1-1723797712438.jpg?plan=h160",
+      "geo": [
+        25.0634,
+        121.5514
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 136
+}

@@ -1,0 +1,86 @@
+{
+  "id": 8560,
+  "cn": "侦探歌剧 少女福尔摩斯",
+  "title": "探偵オペラ ミルキィホームズ",
+  "city": "横滨市",
+  "cover": "https://image.xinu.ink/pic/data/160/images/8560_zxx9X.jpg",
+  "cp": "Project MILKY HO…",
+  "modified": 1737557306066,
+  "litePoints": [
+    {
+      "id": "s5cwh4bky",
+      "cn": "山下公园，步道2",
+      "name": "山下公园",
+      "image": "https://image.anitabi.cn/user/2157/bangumi/8560/points/s5cwh4bky-1737554289948.jpg?plan=h160",
+      "ep": 5,
+      "s": 213,
+      "geo": [
+        35.4473,
+        139.6478
+      ]
+    },
+    {
+      "id": "s5cse4jft",
+      "cn": "山下公园步道",
+      "name": "山下公园",
+      "image": "https://image.anitabi.cn/user/2157/bangumi/8560/points/s5cse4jft-1737554071144.jpg?plan=h160",
+      "geo": [
+        35.447,
+        139.6486
+      ]
+    },
+    {
+      "id": "s5cygd11n",
+      "cn": "氷川丸",
+      "name": "氷川丸",
+      "image": "https://image.anitabi.cn/user/2157/bangumi/8560/points/s5cygd11n-1737554391796.jpg?plan=h160",
+      "geo": [
+        35.4455,
+        139.651
+      ]
+    },
+    {
+      "id": "s5d76nk2t",
+      "cn": "高岛屋",
+      "name": "タカシマヤ",
+      "image": "https://image.anitabi.cn/user/2157/bangumi/8560/points/s5d76nk2t-1737554905507.jpg?plan=h160",
+      "geo": [
+        35.4656,
+        139.6204
+      ]
+    },
+    {
+      "id": "s5dbyapde",
+      "cn": "皇家广场酒店",
+      "name": "royal park hotel",
+      "image": "https://image.anitabi.cn/user/2157/bangumi/8560/points/s5dbyapde-1737555237360.jpg?plan=h160",
+      "geo": [
+        35.4542,
+        139.6311
+      ]
+    },
+    {
+      "id": "s5da43il1",
+      "cn": "横滨地标大厦",
+      "name": "横浜ランドマークタワー",
+      "image": "https://image.anitabi.cn/user/2157/bangumi/8560/points/s5da43il1-1737555107754.jpg?plan=h160",
+      "geo": [
+        35.4544,
+        139.6316
+      ]
+    },
+    {
+      "id": "s5df18kzd",
+      "cn": "横滨海洋塔",
+      "name": "横浜マリンタワー",
+      "image": "https://image.anitabi.cn/user/2157/bangumi/8560/points/s5df18kzd-1737555357939.jpg?plan=h160",
+      "geo": [
+        35.4438,
+        139.651
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "local_id": 160
+}

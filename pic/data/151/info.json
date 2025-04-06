@@ -1,0 +1,115 @@
+{
+  "id": 7157,
+  "cn": "缘之空",
+  "title": "ヨスガノソラ",
+  "city": "足利市",
+  "cover": "https://image.xinu.ink/pic/data/151/images/7157.jpg",
+  "color": "#1c398e",
+  "cp": "奥木染町内会",
+  "geo": [
+    36.364616783344445,
+    139.49449829670516
+  ],
+  "zoom": 12.169,
+  "modified": 1734357954987,
+  "litePoints": [
+    {
+      "id": "p9pvmgozp",
+      "cn": "桦崎八幡宫",
+      "name": "樺崎八幡宮",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/7157/points/p9pvmgozp-1729432616154.jpg?plan=h160",
+      "ep": 4,
+      "s": 1090,
+      "geo": [
+        36.3618,
+        139.4948
+      ]
+    },
+    {
+      "id": "p9pz7x6b0",
+      "name": "小卖部旁",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/7157/points/p9pz7x6b0-1729432831854.jpg?plan=h160",
+      "ep": 3,
+      "s": 768,
+      "geo": [
+        36.3621,
+        139.4961
+      ]
+    },
+    {
+      "id": "igt3mgcjp",
+      "cn": "通学路",
+      "name": "通学路",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/7157/points/igt3mgcjp-1723992349278.jpg?plan=h160",
+      "ep": 12,
+      "s": 216,
+      "geo": [
+        36.3607,
+        139.4988
+      ]
+    },
+    {
+      "id": "la8nr9eeu",
+      "cn": "赫尔辛基集市广场",
+      "name": "kauppatori",
+      "image": "https://image.anitabi.cn/user/0/bangumi/7157/points/la8nr9eeu-1718189318478.jpg?plan=h160",
+      "ep": 5,
+      "s": 195,
+      "geo": [
+        60.1675,
+        24.9535
+      ]
+    },
+    {
+      "id": "ncai81twh",
+      "cn": "桦崎八幡宫步道",
+      "name": "樺崎八幡宮",
+      "image": "https://image.anitabi.cn/points/7157/ncai81twh_1723992062177.jpg?plan=h160",
+      "geo": [
+        36.362,
+        139.4949
+      ]
+    },
+    {
+      "id": "idkm9n2e4",
+      "cn": "栃木县立足利女子高等学校",
+      "name": "栃木県立足利女子高等学校",
+      "image": "https://image.anitabi.cn/user/0/bangumi/7157/points/idkm9n2e4-1709987064445.jpg?plan=h160",
+      "geo": [
+        36.3428,
+        139.4569
+      ]
+    },
+    {
+      "id": "na8bz5fca",
+      "name": "伊福部商店",
+      "image": "https://image.anitabi.cn/points/7157/na8bz5fca_1723830570883.jpg?plan=h160",
+      "geo": [
+        36.3621,
+        139.4963
+      ]
+    },
+    {
+      "id": "kq7vg7yle",
+      "name": "渚一叶家",
+      "image": "https://image.anitabi.cn/user/0/bangumi/7157/points/kq7vg7yle-1716620089568.jpg?plan=h160",
+      "geo": [
+        36.3674,
+        139.4961
+      ]
+    },
+    {
+      "id": "idow5egvc",
+      "cn": "芦之湖",
+      "name": "芦ノ湖",
+      "image": "https://image.anitabi.cn/points/7157/idow5egvc_1709996177445.jpg?plan=h160",
+      "geo": [
+        35.19,
+        139.0243
+      ]
+    }
+  ],
+  "pointsLength": 13,
+  "imagesLength": 13,
+  "local_id": 151
+}

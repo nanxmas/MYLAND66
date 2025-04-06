@@ -1,0 +1,53 @@
+[
+  {
+    "id": "4zo4tnf67",
+    "cn": "江海关大楼",
+    "name": "江海关大楼",
+    "image": "https://image.xinu.ink/pic/data/164/images/7.jpg",
+    "ep": "90",
+    "s": "227",
+    "geo": [
+      31.2386,
+      121.4856
+    ]
+  },
+  {
+    "id": "nuhfiomxd",
+    "cn": "东方明珠电视塔",
+    "name": "东方明珠电视塔",
+    "image": "https://image.xinu.ink/pic/data/164/images/nuhfiomxd-1725417640959.jpg",
+    "ep": "S01E91",
+    "s": "7:18",
+    "geo": [
+      31.2416,
+      121.4951
+    ],
+    "origin": "Anitabi@GhostFinal",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nuhna6667",
+    "cn": "成田国际机场",
+    "name": "成田国際空港",
+    "image": "https://image.xinu.ink/pic/data/164/images/nuhna6667-1725418122397.jpg",
+    "ep": "S01E93",
+    "s": "17:36",
+    "geo": [
+      35.765,
+      140.3854
+    ],
+    "origin": "Anitabi@GhostFinal",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5bks90iz6",
+    "cn": "外白渡桥",
+    "name": "外白渡桥",
+    "image": "https://image.xinu.ink/pic/data/164/images/5bks90iz6-1673156048101.jpg",
+    "ep": null,
+    "geo": [
+      31.2452,
+      121.4856
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+{
+  "id": 5649,
+  "cn": "妄想学生会",
+  "title": "生徒会役員共",
+  "city": "那霸市",
+  "cover": "https://image.xinu.ink/pic/data/147/images/5649.jpg",
+  "color": "#556aaa",
+  "geo": [
+    26.215515,
+    127.687569
+  ],
+  "zoom": 13,
+  "modified": 1728835121733,
+  "litePoints": [
+    {
+      "id": "nvskr3ujp",
+      "name": "相模大野駅",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/5649/points/nvskr3ujp-1725520271291.jpg?plan=h160",
+      "ep": 1,
+      "s": 54,
+      "geo": [
+        35.532,
+        139.4376
+      ]
+    },
+    {
+      "id": "nw5gho065",
+      "name": "JR京都駅 新幹線ホーム",
+      "image": "https://image.anitabi.cn/points/5649/nw5gho065_1725548326378.jpg?plan=h160",
+      "ep": 3,
+      "s": 5,
+      "geo": [
+        34.9843,
+        135.7583
+      ]
+    },
+    {
+      "id": "nw64b53o0",
+      "name": "JR京都駅 13、14番線",
+      "image": "https://image.anitabi.cn/points/5649/nw64b53o0_1725549762913.jpg?plan=h160",
+      "ep": 3,
+      "s": 6,
+      "geo": [
+        34.9845,
+        135.7587
+      ]
+    },
+    {
+      "id": "nw61wvyce",
+      "name": "JR京都駅内",
+      "image": "https://image.anitabi.cn/points/5649/nw61wvyce_1725549637948.jpg?plan=h160",
+      "ep": 3,
+      "s": 14,
+      "geo": [
+        34.9858,
+        135.7588
+      ]
+    },
+    {
+      "id": "nw65vkv5k",
+      "name": "JR京都駅口",
+      "image": "https://image.anitabi.cn/points/5649/nw65vkv5k_1725549842107.jpg?plan=h160",
+      "ep": 3,
+      "s": 18,
+      "geo": [
+        34.9861,
+        135.7588
+      ]
+    },
+    {
+      "id": "nw63hmcq4",
+      "name": "JR京都駅内 2階",
+      "image": "https://image.anitabi.cn/points/5649/nw63hmcq4_1725549699789.jpg?plan=h160",
+      "ep": 3,
+      "s": 46,
+      "geo": [
+        34.9859,
+        135.7583
+      ]
+    },
+    {
+      "id": "50chhta2b",
+      "cn": "金阁寺(鹿苑寺)",
+      "name": "金閣寺",
+      "image": "https://image.anitabi.cn/points/5649/50chhta2b_1672275976584.jpg?plan=h160",
+      "ep": 3,
+      "s": 689,
+      "geo": [
+        35.0393,
+        135.7293
+      ]
+    },
+    {
+      "id": "nw6bqejbd",
+      "name": "金閣寺 帰りの階段",
+      "image": "https://image.anitabi.cn/points/5649/nw6bqejbd_1725550289493.jpg?plan=h160",
+      "ep": 3,
+      "s": 754,
+      "geo": [
+        35.0399,
+        135.7301
+      ]
+    },
+    {
+      "id": "nw6iapy9n",
+      "name": "本能寺御池門",
+      "image": "https://image.anitabi.cn/points/5649/nw6iapy9n_1725550619083.jpg?plan=h160",
+      "ep": 3,
+      "s": 801,
+      "geo": [
+        35.0106,
+        135.7675
+      ]
+    },
+    {
+      "id": "nw6g0w1hq",
+      "name": "三条大橋",
+      "image": "https://image.anitabi.cn/points/5649/nw6g0w1hq_1725550489323.jpg?plan=h160",
+      "ep": 3,
+      "s": 1076,
+      "geo": [
+        35.009,
+        135.7715
+      ]
+    }
+  ],
+  "pointsLength": 41,
+  "imagesLength": 39,
+  "local_id": 147
+}

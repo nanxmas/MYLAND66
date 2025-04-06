@@ -1,0 +1,124 @@
+{
+  "id": 8452,
+  "cn": "玉响",
+  "title": "たまゆら",
+  "city": "竹原市",
+  "cover": "https://image.xinu.ink/pic/data/159/images/8452.jpg",
+  "color": "#ef734e",
+  "cp": "たまゆら",
+  "geo": [
+    34.33265674754607,
+    132.95194519676215
+  ],
+  "zoom": 12.170872444035586,
+  "modified": 1720129637154,
+  "litePoints": [
+    {
+      "id": "2qnpdba",
+      "name": "胡堂",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/8452/points/2qnpdba-1672798738601.jpg?plan=h160",
+      "ep": 1,
+      "s": 96,
+      "geo": [
+        34.3482,
+        132.9095
+      ]
+    },
+    {
+      "id": "2qnpdav",
+      "name": "ぎゃらりぃ梅谷",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/8452/points/9.jpg?plan=h160",
+      "ep": 1,
+      "s": 91,
+      "geo": [
+        34.3456,
+        132.9114
+      ]
+    },
+    {
+      "id": "2qnpda7",
+      "name": "竹原駅",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/8452/points/2qnpda7-1672811667897.jpg?plan=h160",
+      "ep": 1,
+      "s": 1336,
+      "geo": [
+        34.3394,
+        132.91
+      ]
+    },
+    {
+      "id": "56zn4d33z",
+      "name": "汐入",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/8452/points/1.jpg?plan=h160",
+      "ep": 1,
+      "s": 234,
+      "geo": [
+        35.2802,
+        139.6618
+      ]
+    },
+    {
+      "id": "570wl9jp2",
+      "name": "儿童游乐设施",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/8452/points/570wl9jp2-1672799445025.jpg?plan=h160",
+      "ep": 1,
+      "s": 365,
+      "geo": [
+        35.2751,
+        139.6683
+      ]
+    },
+    {
+      "id": "580l4obpw",
+      "name": "竹原站",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/8452/points/580l4obpw-1672876996650.jpg?plan=h160",
+      "ep": 1,
+      "s": 1353,
+      "geo": [
+        34.3396,
+        132.9099
+      ]
+    },
+    {
+      "id": "2qnpdb4",
+      "name": "旧日の丸写真館",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/8452/points/7.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.3451,
+        132.9108
+      ]
+    },
+    {
+      "id": "56ztmv5jr",
+      "name": "緒明山公園",
+      "image": "https://image.anitabi.cn/points/8452/56ztmv5jr_1672798656912.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.2749,
+        139.6683
+      ]
+    },
+    {
+      "id": "2qnpd7t",
+      "name": "大久野島休暇島前",
+      "image": "https://image.anitabi.cn/points/8452/2qnpd7t.jpg?plan=h160",
+      "geo": [
+        34.3054,
+        132.9914
+      ]
+    },
+    {
+      "id": "2qnpdal",
+      "name": "大久野島 展望台",
+      "image": "https://image.anitabi.cn/points/8452/2qnpdal.jpg?plan=h160",
+      "geo": [
+        34.3097,
+        132.9931
+      ]
+    }
+  ],
+  "pointsLength": 69,
+  "imagesLength": 66,
+  "local_id": 159
+}

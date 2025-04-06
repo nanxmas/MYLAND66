@@ -1,0 +1,109 @@
+{
+  "id": 5395,
+  "title": "Forest",
+  "city": "新宿区",
+  "cover": "https://image.xinu.ink/pic/data/144/images/5395.jpg",
+  "color": "#00a81c",
+  "geo": [
+    35.68997616314009,
+    139.70258187009
+  ],
+  "zoom": 13.906,
+  "modified": 1725456661331,
+  "litePoints": [
+    {
+      "id": "ntmsirttr",
+      "name": "JR 新宿站東口",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/5395/points/ntmsirttr-1725350986807.jpg?plan=h160",
+      "geo": [
+        35.6922,
+        139.7009
+      ]
+    },
+    {
+      "id": "ntoh0esfe",
+      "name": 1,
+      "image": "https://image.anitabi.cn/points/5395/ntoh0esfe_1725354605163.jpg?plan=h160",
+      "geo": [
+        35.6921,
+        139.7007
+      ]
+    },
+    {
+      "id": "ntohita5k",
+      "name": "新宿通り",
+      "image": "https://image.anitabi.cn/points/5395/ntohita5k_1725354629581.jpg?plan=h160",
+      "geo": [
+        35.6919,
+        139.701
+      ]
+    },
+    {
+      "id": "ntov0pchq",
+      "name": "明治通り",
+      "image": "https://image.anitabi.cn/points/5395/ntov0pchq_1725355450212.jpg?plan=h160",
+      "geo": [
+        35.6924,
+        139.7057
+      ]
+    },
+    {
+      "id": "ntpcnaw03",
+      "cn": "星巴克咖啡 新宿3丁目店",
+      "name": "スターバックス​コーヒー​新宿​3丁目​店",
+      "image": "https://image.anitabi.cn/points/5395/ntpcnaw03_1725356517924.jpg?plan=h160",
+      "geo": [
+        35.6921,
+        139.7064
+      ]
+    },
+    {
+      "id": "ntpl0wo0w",
+      "name": "新宿中村屋ビル",
+      "image": "https://image.anitabi.cn/points/5395/ntpl0wo0w_1725357018396.jpg?plan=h160",
+      "geo": [
+        35.6919,
+        139.7022
+      ]
+    },
+    {
+      "id": "ntpt305t8",
+      "name": "末広亭",
+      "image": "https://image.anitabi.cn/points/5395/ntpt305t8_1725357510715.jpg?plan=h160",
+      "geo": [
+        35.6911,
+        139.7059
+      ]
+    },
+    {
+      "id": "ntqdjggq7",
+      "name": "新宿三丁目",
+      "image": "https://image.anitabi.cn/points/5395/ntqdjggq7_1725358754438.jpg?plan=h160",
+      "geo": [
+        35.6904,
+        139.7075
+      ]
+    },
+    {
+      "id": "ntpwy5p9p",
+      "name": "かなめ通り",
+      "image": "https://image.anitabi.cn/points/5395/ntpwy5p9p_1725357751764.jpg?plan=h160",
+      "geo": [
+        35.6916,
+        139.7069
+      ]
+    },
+    {
+      "id": "ntpza92fi",
+      "name": "どん底",
+      "image": "https://image.anitabi.cn/points/5395/ntpza92fi_1725357878314.jpg?plan=h160",
+      "geo": [
+        35.6912,
+        139.7063
+      ]
+    }
+  ],
+  "pointsLength": 89,
+  "imagesLength": 89,
+  "local_id": 144
+}

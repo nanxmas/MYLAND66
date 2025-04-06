@@ -1,0 +1,109 @@
+{
+  "id": 7883,
+  "cn": "女仆咖啡厅",
+  "title": "それでも町は廻っている",
+  "city": "大田区",
+  "cover": "https://image.xinu.ink/pic/data/156/images/7883.jpg",
+  "color": "#b8b19c",
+  "geo": [
+    35.567073,
+    139.687815
+  ],
+  "zoom": 14,
+  "modified": 1729960466329,
+  "litePoints": [
+    {
+      "id": "pg8avyuvr",
+      "name": "下丸子駅",
+      "image": "https://image.anitabi.cn/points/7883/pg8avyuvr_1729943610198.jpg?plan=h160",
+      "ep": 1,
+      "s": 321,
+      "geo": [
+        35.5711,
+        139.6859
+      ]
+    },
+    {
+      "id": "pg8d5wme2",
+      "name": "下丸子駅周辺",
+      "image": "https://image.anitabi.cn/points/7883/pg8d5wme2_1729943641561.jpg?plan=h160",
+      "ep": 1,
+      "s": 325,
+      "geo": [
+        35.5708,
+        139.686
+      ]
+    },
+    {
+      "id": "pg8ebg2u9",
+      "name": "下丸子児童遊園",
+      "image": "https://image.anitabi.cn/points/7883/pg8ebg2u9_1729943645799.jpg?plan=h160",
+      "ep": 1,
+      "s": 328,
+      "geo": [
+        35.5702,
+        139.6858
+      ]
+    },
+    {
+      "id": "pg7zxt912",
+      "name": "商店街入り口",
+      "ep": 2,
+      "geo": [
+        35.5633,
+        139.6912
+      ]
+    },
+    {
+      "id": "pg828fqn0",
+      "name": "羽田屋 伊東商店",
+      "geo": [
+        35.5665,
+        139.6916
+      ]
+    },
+    {
+      "id": "pg85jwusw",
+      "name": "新田神社前",
+      "geo": [
+        35.566,
+        139.6917
+      ]
+    },
+    {
+      "id": "pg86fu5y3",
+      "name": "都湯",
+      "geo": [
+        35.5718,
+        139.6829
+      ]
+    },
+    {
+      "id": "pg86rwmu0",
+      "name": "新田神社",
+      "geo": [
+        35.5657,
+        139.6914
+      ]
+    },
+    {
+      "id": "pg89bfdsl",
+      "name": "新田書店",
+      "geo": [
+        35.5672,
+        139.6916
+      ]
+    },
+    {
+      "id": "kpx6ot062",
+      "name": "バス停",
+      "geo": [
+        35.5713,
+        139.6859
+      ]
+    }
+  ],
+  "pointsLength": 33,
+  "imagesLength": 5,
+  "local_id": 156
+}
