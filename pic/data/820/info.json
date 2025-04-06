@@ -1,0 +1,135 @@
+{
+  "id": 393037,
+  "cn": "义妹生活",
+  "title": "義妹生活",
+  "city": "涩谷区",
+  "cover": "https://image.xinu.ink/pic/data/820/images/393037.jpg",
+  "color": "#ecdd93",
+  "geo": [
+    35.65544692446268,
+    139.69848480842444
+  ],
+  "zoom": 14.234,
+  "modified": 1728552659921,
+  "litePoints": [
+    {
+      "id": "mr4ta2r02",
+      "name": "Royal Host楼下",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/393037/points/mr4ta2r02-1722334042198.jpg?plan=h160",
+      "ep": 1,
+      "s": 114,
+      "geo": [
+        35.6591,
+        139.6981
+      ]
+    },
+    {
+      "id": "mr51atdgu",
+      "name": "Royal Host室外楼梯",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/393037/points/mr51atdgu-1722334459762.jpg?plan=h160",
+      "ep": 1,
+      "s": 344,
+      "geo": [
+        35.6592,
+        139.6976
+      ]
+    },
+    {
+      "id": "nqbgxcu2y",
+      "cn": "涩谷东1丁目附近",
+      "name": "渋谷東1丁目付近",
+      "image": "https://image.anitabi.cn/user/0/bangumi/393037/points/nqbgxcu2y-1725091225043.jpg?plan=h160",
+      "ep": 1,
+      "s": 1014,
+      "geo": [
+        35.6519,
+        139.7068
+      ]
+    },
+    {
+      "id": "mr3w8gfgs",
+      "name": "鉢山町交番前",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/393037/points/mr3w8gfgs-1722332154581.jpg?plan=h160",
+      "ep": 2,
+      "s": 1231,
+      "geo": [
+        35.6528,
+        139.698
+      ]
+    },
+    {
+      "id": "nqb7asmpg",
+      "cn": "青葉台付近阶梯",
+      "name": "青葉台付近階段",
+      "image": "https://image.anitabi.cn/user/0/bangumi/393037/points/nqb7asmpg-1725090671274.jpg?plan=h160",
+      "ep": 3,
+      "s": 241,
+      "geo": [
+        35.6518,
+        139.6941
+      ]
+    },
+    {
+      "id": "npo2m2cfk",
+      "cn": "青葉台2丁目",
+      "name": "青葉台2丁目",
+      "image": "https://image.anitabi.cn/user/0/bangumi/393037/points/npo2m2cfk-1725040415190.jpg?plan=h160",
+      "ep": 3,
+      "s": 280,
+      "geo": [
+        35.6518,
+        139.6941
+      ]
+    },
+    {
+      "id": "npnvgpwy6",
+      "cn": "旧山手通西乡桥地下通路",
+      "name": "旧山手通り",
+      "image": "https://image.anitabi.cn/user/0/bangumi/393037/points/npnvgpwy6-1725039864342.jpg?plan=h160",
+      "ep": 3,
+      "s": 358,
+      "geo": [
+        35.6507,
+        139.6968
+      ]
+    },
+    {
+      "id": "nqb9bewhn",
+      "cn": "青葉台中之桥",
+      "name": "青葉台中の橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/393037/points/nqb9bewhn-1725090781520.jpg?plan=h160",
+      "ep": 3,
+      "s": 850,
+      "geo": [
+        35.6498,
+        139.6916
+      ]
+    },
+    {
+      "id": "o8esrsnrr",
+      "name": "鉢山公園",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/393037/points/o8esrsnrr-1726509011571.jpg?plan=h160",
+      "ep": 4,
+      "s": 50,
+      "geo": [
+        35.6529,
+        139.6989
+      ]
+    },
+    {
+      "id": "nqbauqhzb",
+      "cn": "青葉台２丁目",
+      "name": "青葉台２丁目",
+      "image": "https://image.anitabi.cn/user/0/bangumi/393037/points/nqbauqhzb-1725090873402.jpg?plan=h160",
+      "ep": 4,
+      "s": 140,
+      "geo": [
+        35.6513,
+        139.6947
+      ]
+    }
+  ],
+  "pointsLength": 31,
+  "imagesLength": 31,
+  "local_id": 820
+}

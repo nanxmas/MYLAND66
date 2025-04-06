@@ -1,0 +1,68 @@
+{
+  "id": 413698,
+  "cn": "孤独的美食家2022除夕特别篇 告别去年，食的格斗技。护蟹使者不好当。",
+  "title": "孤独のグルメ2022大晦日スペシャル 年忘れ、食の格闘技。カニの使いはあらたいへん。",
+  "city": "北海道",
+  "cover": "https://image.xinu.ink/pic/data/847/images/413698.jpg",
+  "color": "#40bf9f",
+  "modified": 1741619381349,
+  "litePoints": [
+    {
+      "id": "23a3155a",
+      "cn": "味の五十番",
+      "name": "双葉町２丁目１−４",
+      "image": "https://image.anitabi.cn/points/413698/23a3155a_1741604425058.jpg?plan=h160",
+      "s": 20,
+      "geo": [
+        42.648,
+        141.612
+      ]
+    },
+    {
+      "id": "613085e5",
+      "cn": "手作りアイス 花茶",
+      "name": "泉郷４７９",
+      "image": "https://image.anitabi.cn/points/413698/613085e5_1741604897653.jpg?plan=h160",
+      "s": 994,
+      "geo": [
+        42.9184,
+        141.7256
+      ]
+    },
+    {
+      "id": "08dcb546",
+      "name": "炭火酒房 浅鞍 2f",
+      "image": "https://image.anitabi.cn/points/413698/08dcb546_1741612355265.jpg?plan=h160",
+      "s": 1220,
+      "geo": [
+        43.0509,
+        141.3208
+      ]
+    },
+    {
+      "id": "78ffd4cb",
+      "cn": "鮨爽醇鳥(すしそうじゅんちょう) ひだか",
+      "name": "イースヴィレッヂ",
+      "image": "https://image.anitabi.cn/points/413698/78ffd4cb_1741613524068.jpg?plan=h160",
+      "s": 2776,
+      "geo": [
+        43.1398,
+        141.2839
+      ]
+    },
+    {
+      "id": "43c9ec6a",
+      "cn": "はつ花",
+      "name": "花園１丁目１−８",
+      "image": "https://image.anitabi.cn/points/413698/43c9ec6a_1741613947327.jpg?plan=h160",
+      "s": 4013,
+      "geo": [
+        43.194,
+        140.9996
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 847
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "23a3155a",
+    "cn": "味の五十番",
+    "name": "双葉町２丁目１−４",
+    "image": "https://image.xinu.ink/pic/data/847/images/23a3155a_1741604425058.jpg",
+    "s": 20,
+    "geo": [
+      42.648,
+      141.612
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=18AETQVgUDh8gznRpoxTRCQg3wfPPIUw&ll=42.648028%2C141.612052&z=17"
+  },
+  {
+    "id": "613085e5",
+    "cn": "手作りアイス 花茶",
+    "name": "泉郷４７９",
+    "image": "https://image.xinu.ink/pic/data/847/images/613085e5_1741604897653.jpg",
+    "s": 994,
+    "geo": [
+      42.9184,
+      141.7256
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=18AETQVgUDh8gznRpoxTRCQg3wfPPIUw&ll=42.918446%2C141.725631&z=17"
+  },
+  {
+    "id": "08dcb546",
+    "name": "炭火酒房 浅鞍 2f",
+    "image": "https://image.xinu.ink/pic/data/847/images/08dcb546_1741612355265.jpg",
+    "s": 1220,
+    "geo": [
+      43.0509,
+      141.3208
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=18AETQVgUDh8gznRpoxTRCQg3wfPPIUw&ll=43.050929%2C141.320836&z=17"
+  },
+  {
+    "id": "78ffd4cb",
+    "cn": "鮨爽醇鳥(すしそうじゅんちょう) ひだか",
+    "name": "イースヴィレッヂ",
+    "image": "https://image.xinu.ink/pic/data/847/images/78ffd4cb_1741613524068.jpg",
+    "s": 2776,
+    "geo": [
+      43.1398,
+      141.2839
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=18AETQVgUDh8gznRpoxTRCQg3wfPPIUw&ll=43.139818%2C141.283928&z=17"
+  },
+  {
+    "id": "43c9ec6a",
+    "cn": "はつ花",
+    "name": "花園１丁目１−８",
+    "image": "https://image.xinu.ink/pic/data/847/images/43c9ec6a_1741613947327.jpg",
+    "s": 4013,
+    "geo": [
+      43.194,
+      140.9996
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=18AETQVgUDh8gznRpoxTRCQg3wfPPIUw&ll=43.194016%2C140.999667&z=17"
+  }
+]

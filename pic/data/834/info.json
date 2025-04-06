@@ -1,0 +1,133 @@
+{
+  "id": 405785,
+  "cn": "摇曳露营△ 三期",
+  "title": "ゆるキャン△ SEASON３",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/834/images/405785.jpg",
+  "color": "#84786c",
+  "geo": [
+    35.156907884503,
+    138.1351352894858
+  ],
+  "zoom": 8.317,
+  "modified": 1739387721716,
+  "litePoints": [
+    {
+      "id": "j9ly9mqda",
+      "cn": "精进湖酒店",
+      "name": "精進​レーク​ホテル",
+      "image": "https://image.anitabi.cn/user/0/bangumi/405785/points/j9ly9mqda-1712497441912.jpg?plan=h160",
+      "ep": 1,
+      "s": 255,
+      "geo": [
+        35.4937,
+        138.607
+      ]
+    },
+    {
+      "id": "j9m2tf18a",
+      "cn": "Tsugu高原Green Park",
+      "name": "道​の​駅​つぐ​高原​グリーン​パーク",
+      "image": "https://image.anitabi.cn/user/0/bangumi/405785/points/j9m2tf18a-1712497669198.jpg?plan=h160",
+      "ep": 1,
+      "s": 371,
+      "geo": [
+        35.2003,
+        137.6047
+      ]
+    },
+    {
+      "id": "q05crinac",
+      "cn": "精司湖畔營地",
+      "name": "精進レークサイドキャンプ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/405785/points/q05crinac-1731503962542.jpg?plan=h160",
+      "ep": 1,
+      "s": 438,
+      "geo": [
+        35.4934,
+        138.6087
+      ]
+    },
+    {
+      "id": "j9mnbw3n7",
+      "name": "井山",
+      "image": "https://image.anitabi.cn/user/0/bangumi/405785/points/j9mnbw3n7-1712498908156.jpg?plan=h160",
+      "ep": 1,
+      "s": 635,
+      "geo": [
+        35.1856,
+        137.5695
+      ]
+    },
+    {
+      "id": "ky3ax42vf",
+      "name": "県道308岔路口",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/405785/points/ky3ax42vf-1717237026101.jpg?plan=h160",
+      "ep": 2,
+      "s": 10,
+      "geo": [
+        34.8236,
+        137.5813
+      ]
+    },
+    {
+      "id": "ky3r2qtzd",
+      "cn": "滨名湖飞行公园第二起飞场",
+      "name": "浜名湖フライトパーク第2テイクオフ",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/405785/points/ky3r2qtzd-1717238065797.jpg?plan=h160",
+      "ep": 2,
+      "s": 32,
+      "geo": [
+        34.82,
+        137.5978
+      ]
+    },
+    {
+      "id": "kwmt00ftt",
+      "name": "表浜街道道標",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/405785/points/kwmt00ftt-1717122765393.jpg?plan=h160",
+      "ep": 2,
+      "s": 217,
+      "geo": [
+        34.6828,
+        137.4833
+      ]
+    },
+    {
+      "id": "kxb1nazvd",
+      "name": "恵那の家（位置）",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/405785/points/kxb1nazvd-1717175552256.jpg?plan=h160",
+      "ep": 2,
+      "s": 1063,
+      "geo": [
+        35.3315,
+        138.4504
+      ]
+    },
+    {
+      "id": "kxbb34fsg",
+      "name": "富士川岸堤",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/405785/points/kxbb34fsg-1717176120886.jpg?plan=h160",
+      "ep": 2,
+      "s": 1082,
+      "geo": [
+        35.3268,
+        138.4485
+      ]
+    },
+    {
+      "id": "kxbdmk88w",
+      "name": "甲斐大島駅",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/405785/points/kxbdmk88w-1717176238844.jpg?plan=h160",
+      "ep": 2,
+      "s": 1216,
+      "geo": [
+        35.3281,
+        138.4519
+      ]
+    }
+  ],
+  "pointsLength": 201,
+  "imagesLength": 201,
+  "local_id": 834
+}

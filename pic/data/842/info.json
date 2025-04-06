@@ -1,0 +1,98 @@
+{
+  "id": 409088,
+  "cn": "世界巨星",
+  "title": "ワールドダイスター",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/842/images/409088.jpg",
+  "color": "#f27a5f",
+  "cp": "Project WDS",
+  "geo": [
+    41.08497983610064,
+    141.24851025490682
+  ],
+  "zoom": 10.897,
+  "modified": 1742410539246,
+  "litePoints": [
+    {
+      "id": "8rnt88vmu",
+      "cn": "陆奥横滨站",
+      "name": "陸奥横浜駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/409088/points/8rnt88vmu-1682880066044.jpg?plan=h160",
+      "ep": 1,
+      "s": 224,
+      "geo": [
+        41.086,
+        141.2494
+      ]
+    },
+    {
+      "id": "8rnywtos8",
+      "name": "海滨观景台",
+      "image": "https://image.anitabi.cn/user/0/bangumi/409088/points/8rnywtos8-1682880365262.jpg?plan=h160",
+      "ep": 1,
+      "s": 50,
+      "geo": [
+        41.0598,
+        141.2387
+      ]
+    },
+    {
+      "id": "8ro6ckrvt",
+      "cn": "上野站",
+      "name": "上野駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/409088/points/8ro6ckrvt-1682880611548.jpg?plan=h160",
+      "ep": 1,
+      "s": 386,
+      "geo": [
+        35.7138,
+        139.7768
+      ]
+    },
+    {
+      "id": "8ro8g8zco",
+      "name": "雷门",
+      "image": "https://image.anitabi.cn/user/0/bangumi/409088/points/8ro8g8zco-1682880730848.jpg?plan=h160",
+      "ep": 1,
+      "s": 493,
+      "geo": [
+        35.7109,
+        139.7962
+      ]
+    },
+    {
+      "id": "o2pu78mg8",
+      "cn": "浅草花劇場",
+      "name": "浅草花劇場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/409088/points/o2pu78mg8-1726063012927.jpg?plan=h160",
+      "s": 8,
+      "geo": [
+        35.7152,
+        139.7945
+      ]
+    },
+    {
+      "id": "tecz3ga6e",
+      "cn": "淺草瓢通商店街",
+      "name": "浅草ひさご通り商店街",
+      "image": "https://image.anitabi.cn/user/0/bangumi/409088/points/tecz3ga6e-1741081012201.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        35.7169,
+        139.7941
+      ]
+    },
+    {
+      "id": "rj6ynsg8n",
+      "cn": "卡特莉娜誤以為被跟蹤的路",
+      "name": "卡特莉娜誤以為被跟蹤的路",
+      "image": "https://image.anitabi.cn/user/0/bangumi/409088/points/rj6ynsg8n-1735817525614.jpg?plan=h160",
+      "geo": [
+        35.7124,
+        139.7964
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "local_id": 842
+}

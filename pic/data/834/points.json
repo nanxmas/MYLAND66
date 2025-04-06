@@ -1,0 +1,2397 @@
+[
+  {
+    "id": "j9ly9mqda",
+    "cn": "精进湖酒店",
+    "name": "精進​レーク​ホテル",
+    "image": "https://image.xinu.ink/pic/data/834/images/j9ly9mqda-1712497441912.jpg",
+    "ep": 1,
+    "s": 255,
+    "geo": [
+      35.4937,
+      138.607
+    ]
+  },
+  {
+    "id": "j9m2tf18a",
+    "cn": "Tsugu高原Green Park",
+    "name": "道​の​駅​つぐ​高原​グリーン​パーク",
+    "image": "https://image.xinu.ink/pic/data/834/images/j9m2tf18a-1712497669198.jpg",
+    "ep": 1,
+    "s": 371,
+    "geo": [
+      35.2003,
+      137.6047
+    ]
+  },
+  {
+    "id": "q05crinac",
+    "cn": "精司湖畔營地",
+    "name": "精進レークサイドキャンプ",
+    "image": "https://image.xinu.ink/pic/data/834/images/q05crinac-1731503962542.jpg",
+    "ep": 1,
+    "s": 438,
+    "geo": [
+      35.4934,
+      138.6087
+    ]
+  },
+  {
+    "id": "j9mnbw3n7",
+    "name": "井山",
+    "image": "https://image.xinu.ink/pic/data/834/images/j9mnbw3n7-1712498908156.jpg",
+    "ep": 1,
+    "s": 635,
+    "geo": [
+      35.1856,
+      137.5695
+    ]
+  },
+  {
+    "id": "ky3ax42vf",
+    "name": "県道308岔路口",
+    "image": "https://image.xinu.ink/pic/data/834/images/ky3ax42vf-1717237026101.jpg",
+    "ep": 2,
+    "s": 10,
+    "geo": [
+      34.8236,
+      137.5813
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ky3r2qtzd",
+    "cn": "滨名湖飞行公园第二起飞场",
+    "name": "浜名湖フライトパーク第2テイクオフ",
+    "image": "https://image.xinu.ink/pic/data/834/images/ky3r2qtzd-1717238065797.jpg",
+    "ep": 2,
+    "s": 32,
+    "geo": [
+      34.82,
+      137.5978
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kwmt00ftt",
+    "name": "表浜街道道標",
+    "image": "https://image.xinu.ink/pic/data/834/images/kwmt00ftt-1717122765393.jpg",
+    "ep": 2,
+    "s": 217,
+    "geo": [
+      34.6828,
+      137.4833
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kxb1nazvd",
+    "name": "恵那の家（位置）",
+    "image": "https://image.xinu.ink/pic/data/834/images/kxb1nazvd-1717175552256.jpg",
+    "ep": 2,
+    "s": 1063,
+    "geo": [
+      35.3315,
+      138.4504
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kxbb34fsg",
+    "name": "富士川岸堤",
+    "image": "https://image.xinu.ink/pic/data/834/images/kxbb34fsg-1717176120886.jpg",
+    "ep": 2,
+    "s": 1082,
+    "geo": [
+      35.3268,
+      138.4485
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kxbdmk88w",
+    "name": "甲斐大島駅",
+    "image": "https://image.xinu.ink/pic/data/834/images/kxbdmk88w-1717176238844.jpg",
+    "ep": 2,
+    "s": 1216,
+    "geo": [
+      35.3281,
+      138.4519
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "jmard98zq",
+    "cn": "千头站停车场",
+    "name": "千頭駅駐車場",
+    "image": "https://image.xinu.ink/pic/data/834/images/jmard98zq-1713491921790.jpg",
+    "ep": 3,
+    "s": 360,
+    "geo": [
+      35.1084,
+      138.1371
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "jmaxn97tw",
+    "cn": "千头站踏切",
+    "name": "千頭駅踏切",
+    "image": "https://image.xinu.ink/pic/data/834/images/jmaxn97tw-1713492459213.jpg",
+    "ep": 3,
+    "s": 375,
+    "geo": [
+      35.1085,
+      138.1373
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "jmb62r00b",
+    "cn": "千头站",
+    "name": "千頭駅",
+    "image": "https://image.xinu.ink/pic/data/834/images/jmb62r00b-1713492776765.jpg",
+    "ep": 3,
+    "s": 380,
+    "geo": [
+      35.1085,
+      138.1375
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "jmaanyuco",
+    "cn": "千头",
+    "name": "千頭",
+    "image": "https://image.xinu.ink/pic/data/834/images/jmaanyuco-1713490816822.jpg",
+    "ep": 3,
+    "s": 380,
+    "geo": [
+      35.108,
+      138.1377
+    ]
+  },
+  {
+    "id": "jmb9d96f5",
+    "cn": "千头温泉",
+    "name": "千頭温泉",
+    "image": "https://image.xinu.ink/pic/data/834/images/jmb9d96f5-1713492872834.jpg",
+    "ep": 3,
+    "s": 383,
+    "geo": [
+      35.1083,
+      138.1379
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "jui6apmb1",
+    "name": "千頭駅県道77号路旁",
+    "image": "https://image.xinu.ink/pic/data/834/images/jui6apmb1-1714134963099.jpg",
+    "ep": 3,
+    "s": 416,
+    "geo": [
+      35.1079,
+      138.138
+    ]
+  },
+  {
+    "id": "k90dqvle2",
+    "cn": "猿並橋",
+    "name": "猿並橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/k90dqvle2-1715271571167.jpg",
+    "ep": 3,
+    "s": 528,
+    "geo": [
+      35.1812,
+      138.1221
+    ]
+  },
+  {
+    "id": "k90g2u477",
+    "name": "猿並橋拍照处",
+    "image": "https://image.xinu.ink/pic/data/834/images/k90g2u477-1715271694066.jpg",
+    "ep": "6",
+    "s": "472",
+    "geo": [
+      35.1803,
+      138.1195
+    ]
+  },
+  {
+    "id": "jmbgz386k",
+    "name": "畑薙湖",
+    "image": "https://image.xinu.ink/pic/data/834/images/jmbgz386k-1713493471269.jpg",
+    "ep": 3,
+    "s": 550,
+    "geo": [
+      35.3284,
+      138.179
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "jmbt24yno",
+    "name": "两国吊桥",
+    "image": "https://image.xinu.ink/pic/data/834/images/jmbt24yno-1713494061657.jpg",
+    "ep": 3,
+    "s": 585,
+    "geo": [
+      35.1176,
+      138.14
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "jmbmym1gy",
+    "name": "千頭駅第二个踏切",
+    "image": "https://image.xinu.ink/pic/data/834/images/jmbmym1gy-1713493803404.jpg",
+    "ep": 3,
+    "s": 585,
+    "geo": [
+      35.109,
+      138.1384
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "juicwgtnv",
+    "name": "両国橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/juicwgtnv-1714135263728.jpg",
+    "ep": 3,
+    "s": 593,
+    "geo": [
+      35.1177,
+      138.1411
+    ]
+  },
+  {
+    "id": "juij3flzu",
+    "name": "県道77号场景一",
+    "image": "https://image.xinu.ink/pic/data/834/images/juij3flzu-1714135603200.jpg",
+    "ep": 3,
+    "s": 640,
+    "geo": [
+      35.1206,
+      138.1411
+    ]
+  },
+  {
+    "id": "juilcfdxc",
+    "name": "県道77号场景二",
+    "image": "https://image.xinu.ink/pic/data/834/images/juilcfdxc-1714135766427.jpg",
+    "ep": 3,
+    "s": 652,
+    "geo": [
+      35.1217,
+      138.1422
+    ]
+  },
+  {
+    "id": "jmbzecmrb",
+    "name": "小山隧道",
+    "image": "https://image.xinu.ink/pic/data/834/images/jmbzecmrb-1713494459265.jpg",
+    "ep": 3,
+    "s": 670,
+    "geo": [
+      35.1416,
+      138.1472
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "juiototql",
+    "name": "电线杆观赏点",
+    "image": "https://image.xinu.ink/pic/data/834/images/juiototql-1714135943723.jpg",
+    "ep": 3,
+    "s": 673,
+    "geo": [
+      35.1235,
+      138.1408
+    ]
+  },
+  {
+    "id": "jmc3tzl7v",
+    "name": "小山吊桥",
+    "image": "https://image.xinu.ink/pic/data/834/images/jmc3tzl7v-1713494710028.jpg",
+    "ep": 3,
+    "s": 686,
+    "geo": [
+      35.1414,
+      138.1452
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "jujj8lphl",
+    "name": "富士見展望公園",
+    "image": "https://image.xinu.ink/pic/data/834/images/jujj8lphl-1714137782069.jpg",
+    "ep": 3,
+    "s": 749,
+    "geo": [
+      34.8166,
+      138.135
+    ]
+  },
+  {
+    "id": "juj75b6pc",
+    "cn": "大井川鐵道金谷駅",
+    "name": "奥静大井川线金谷駅",
+    "image": "https://image.xinu.ink/pic/data/834/images/juj75b6pc-1714137061036.jpg",
+    "ep": 3,
+    "s": 755,
+    "geo": [
+      34.8189,
+      138.1253
+    ]
+  },
+  {
+    "id": "jv3sk5sex",
+    "cn": "金谷站内",
+    "name": "金谷駅内",
+    "image": "https://image.xinu.ink/pic/data/834/images/jv3sk5sex-1714181915330.jpg",
+    "ep": 3,
+    "s": 757,
+    "geo": [
+      34.819,
+      138.1253
+    ]
+  },
+  {
+    "id": "jv3txvv1b",
+    "cn": "大井川铁道大井川本线",
+    "name": "大井川鐵道大井川本線",
+    "image": "https://image.xinu.ink/pic/data/834/images/jv3txvv1b-1714182006358.jpg",
+    "ep": 3,
+    "s": 762,
+    "geo": [
+      34.8193,
+      138.1258
+    ]
+  },
+  {
+    "id": "jmcdvazrp",
+    "name": "接岨湖",
+    "image": "https://image.xinu.ink/pic/data/834/images/jmcdvazrp-1713495317266.jpg",
+    "ep": 3,
+    "s": 819,
+    "geo": [
+      35.1656,
+      138.1645
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "jujv90bre",
+    "name": "接岨公園（長島公園）駐車場",
+    "image": "https://image.xinu.ink/pic/data/834/images/jujv90bre-1714138527392.jpg",
+    "ep": 3,
+    "s": 831,
+    "geo": [
+      35.1753,
+      138.1871
+    ]
+  },
+  {
+    "id": "jujyjyyrx",
+    "name": "接岨大吊橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/jujyjyyrx-1714138736060.jpg",
+    "ep": 3,
+    "s": 863,
+    "geo": [
+      35.1742,
+      138.1894
+    ]
+  },
+  {
+    "id": "juk3w1jrq",
+    "name": "栃の木橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/juk3w1jrq-1714139046034.jpg",
+    "ep": 3,
+    "s": 913,
+    "geo": [
+      35.1748,
+      138.1902
+    ]
+  },
+  {
+    "id": "juk5lcvnb",
+    "name": "桜橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/juk5lcvnb-1714139136171.jpg",
+    "ep": 3,
+    "s": 919,
+    "geo": [
+      35.1749,
+      138.1902
+    ]
+  },
+  {
+    "id": "juk6nb3mk",
+    "name": "水楢橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/juk6nb3mk-1714139226820.jpg",
+    "ep": 3,
+    "s": 929,
+    "geo": [
+      35.1755,
+      138.1902
+    ]
+  },
+  {
+    "id": "juk8z0dqd",
+    "name": "椿橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/juk8z0dqd-1714139414619.jpg",
+    "ep": 3,
+    "s": 943,
+    "geo": [
+      35.1771,
+      138.1902
+    ]
+  },
+  {
+    "id": "jukc4b1ow",
+    "name": "桑の木橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/jukc4b1ow-1714139528701.jpg",
+    "ep": 3,
+    "s": 951,
+    "geo": [
+      35.1778,
+      138.1897
+    ]
+  },
+  {
+    "id": "jukez0898",
+    "name": "宮沢橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/jukez0898-1714139694098.jpg",
+    "ep": 3,
+    "s": 973,
+    "geo": [
+      35.1793,
+      138.1891
+    ]
+  },
+  {
+    "id": "jukfm9043",
+    "name": "犬返り橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/jukfm9043-1714139742872.jpg",
+    "ep": 3,
+    "s": 1016,
+    "geo": [
+      35.1795,
+      138.1885
+    ]
+  },
+  {
+    "id": "juklux5l8",
+    "name": "特大猪肉串",
+    "image": "https://image.xinu.ink/pic/data/834/images/juklux5l8-1714140133167.jpg",
+    "ep": 3,
+    "s": 1123,
+    "geo": [
+      35.1084,
+      138.1379
+    ]
+  },
+  {
+    "id": "jukou41dl",
+    "name": "川根茶冰激凌",
+    "image": "https://image.xinu.ink/pic/data/834/images/jukou41dl-1714140327051.jpg",
+    "ep": 3,
+    "s": 1214,
+    "geo": [
+      35.1083,
+      138.138
+    ]
+  },
+  {
+    "id": "jukylr3ej",
+    "name": "两国吊桥合影处",
+    "image": "https://image.xinu.ink/pic/data/834/images/jukylr3ej-1714140927348.jpg",
+    "ep": 3,
+    "s": 1302,
+    "geo": [
+      35.1177,
+      138.14
+    ]
+  },
+  {
+    "id": "jukxvts9l",
+    "name": "两国吊桥桥下",
+    "image": "https://image.xinu.ink/pic/data/834/images/jukxvts9l-1714140865025.jpg",
+    "ep": 3,
+    "s": 1315,
+    "geo": [
+      35.1178,
+      138.14
+    ]
+  },
+  {
+    "id": "jul9mmdku",
+    "name": "Abt市代站",
+    "image": "https://image.xinu.ink/pic/data/834/images/jul9mmdku-1714141561801.jpg",
+    "ep": 4,
+    "s": 219,
+    "geo": [
+      35.167,
+      138.1449
+    ]
+  },
+  {
+    "id": "julb1vhos",
+    "name": "Abt市代站前不知名铁桥",
+    "image": "https://image.xinu.ink/pic/data/834/images/julb1vhos-1714141693674.jpg",
+    "ep": 4,
+    "s": 259,
+    "geo": [
+      35.1663,
+      138.1451
+    ]
+  },
+  {
+    "id": "julkanjam",
+    "name": "ABT旧线路隧道",
+    "image": "https://image.xinu.ink/pic/data/834/images/julkanjam-1714142212189.jpg",
+    "ep": 4,
+    "s": 289,
+    "geo": [
+      35.1662,
+      138.1453
+    ]
+  },
+  {
+    "id": "julo9cpsi",
+    "cn": "Abt市代露营场",
+    "name": "アプトいちしろキャンプ場",
+    "image": "https://image.xinu.ink/pic/data/834/images/julo9cpsi-1714142451954.jpg",
+    "ep": 4,
+    "s": 366,
+    "geo": [
+      35.1669,
+      138.1499
+    ]
+  },
+  {
+    "id": "julurnrua",
+    "cn": "长岛水坝",
+    "name": "長島ダム",
+    "image": "https://image.xinu.ink/pic/data/834/images/julurnrua-1714142838439.jpg",
+    "ep": 4,
+    "s": 388,
+    "geo": [
+      35.1672,
+      138.1511
+    ]
+  },
+  {
+    "id": "julrsxj4p",
+    "name": "长岛水坝观景台",
+    "image": "https://image.xinu.ink/pic/data/834/images/julrsxj4p-1714142742719.jpg",
+    "ep": 4,
+    "s": 405,
+    "geo": [
+      35.1668,
+      138.1502
+    ]
+  },
+  {
+    "id": "jum016a2t",
+    "cn": "长岛水库站",
+    "name": "長島ダム",
+    "image": "https://image.xinu.ink/pic/data/834/images/jum016a2t-1714143148280.jpg",
+    "ep": 4,
+    "s": 459,
+    "geo": [
+      35.1685,
+      138.1572
+    ]
+  },
+  {
+    "id": "jum60j45q",
+    "cn": "井川湖",
+    "name": "井川湖",
+    "image": "https://image.xinu.ink/pic/data/834/images/jum60j45q-1714143538297.jpg",
+    "ep": 4,
+    "s": 485,
+    "geo": [
+      35.2239,
+      138.2428
+    ]
+  },
+  {
+    "id": "jum7w9v49",
+    "cn": "Eneos井川加油站",
+    "name": "エネオス\n井川​SS",
+    "image": "https://image.xinu.ink/pic/data/834/images/jum7w9v49-1714143619920.jpg",
+    "ep": 4,
+    "s": 498,
+    "geo": [
+      35.2238,
+      138.2438
+    ]
+  },
+  {
+    "id": "jumb6e3yc",
+    "cn": "井川大桥",
+    "name": "井川大橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/jumb6e3yc-1714143817442.jpg",
+    "ep": 4,
+    "s": 572,
+    "geo": [
+      35.2396,
+      138.2496
+    ]
+  },
+  {
+    "id": "jumw5ufiu",
+    "cn": "关东煮店",
+    "name": "て​しゃ​まん​く​の​里",
+    "image": "https://image.xinu.ink/pic/data/834/images/jumw5ufiu-1714145194851.jpg",
+    "ep": 4,
+    "s": 701,
+    "geo": [
+      35.256,
+      138.2342
+    ]
+  },
+  {
+    "id": "jun182oca",
+    "name": "田代第1隧道",
+    "image": "https://image.xinu.ink/pic/data/834/images/jun182oca-1714145437660.jpg",
+    "ep": 4,
+    "s": 785,
+    "geo": [
+      35.2615,
+      138.233
+    ]
+  },
+  {
+    "id": "jun64fjur",
+    "name": "田代第2隧道",
+    "image": "https://image.xinu.ink/pic/data/834/images/jun64fjur-1714145793736.jpg",
+    "ep": 4,
+    "s": 789,
+    "geo": [
+      35.2632,
+      138.2277
+    ]
+  },
+  {
+    "id": "jun9sepqx",
+    "name": "田代第3隧道",
+    "image": "https://image.xinu.ink/pic/data/834/images/jun9sepqx-1714145925721.jpg",
+    "ep": 4,
+    "s": 796,
+    "geo": [
+      35.2677,
+      138.2256
+    ]
+  },
+  {
+    "id": "jundlxim7",
+    "name": "田代第5隧道",
+    "image": "https://image.xinu.ink/pic/data/834/images/jundlxim7-1714146148321.jpg",
+    "ep": 4,
+    "s": 800,
+    "geo": [
+      35.272,
+      138.2209
+    ]
+  },
+  {
+    "id": "junb6u6j4",
+    "name": "田代第4隧道",
+    "image": "https://image.xinu.ink/pic/data/834/images/junb6u6j4-1714146010547.jpg",
+    "ep": 4,
+    "s": 803,
+    "geo": [
+      35.2701,
+      138.2238
+    ]
+  },
+  {
+    "id": "junezwvg2",
+    "name": "田代第6隧道",
+    "image": "https://image.xinu.ink/pic/data/834/images/junezwvg2-1714146230357.jpg",
+    "ep": 4,
+    "s": 815,
+    "geo": [
+      35.2721,
+      138.2193
+    ]
+  },
+  {
+    "id": "junkdei0i",
+    "name": "明神桥",
+    "image": "https://image.xinu.ink/pic/data/834/images/junkdei0i-1714146553295.jpg",
+    "ep": 4,
+    "s": 828,
+    "geo": [
+      35.3009,
+      138.2051
+    ]
+  },
+  {
+    "id": "junl3nojf",
+    "name": "田代第7隧道",
+    "image": "https://image.xinu.ink/pic/data/834/images/junl3nojf-1714146600917.jpg",
+    "ep": 4,
+    "s": 834,
+    "geo": [
+      35.3068,
+      138.2027
+    ]
+  },
+  {
+    "id": "junqkkcxb",
+    "name": "林道​東俣​線​管理​棟",
+    "image": "https://image.xinu.ink/pic/data/834/images/junqkkcxb-1714146925939.jpg",
+    "ep": 4,
+    "s": 931,
+    "geo": [
+      35.3296,
+      138.1798
+    ]
+  },
+  {
+    "id": "junsxxjat",
+    "name": "畑薙大吊橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/junsxxjat-1714147072675.jpg",
+    "ep": 4,
+    "s": 1046,
+    "geo": [
+      35.3481,
+      138.1841
+    ]
+  },
+  {
+    "id": "junvuz4vh",
+    "name": "奥大井湖上站",
+    "image": "https://image.xinu.ink/pic/data/834/images/junvuz4vh-1714147247333.jpg",
+    "ep": 4,
+    "s": 1155,
+    "geo": [
+      35.1676,
+      138.1805
+    ]
+  },
+  {
+    "id": "junxslus3",
+    "name": "奥大井湖上駅展望",
+    "image": "https://image.xinu.ink/pic/data/834/images/junxslus3-1714147406994.jpg",
+    "ep": 4,
+    "s": 1180,
+    "geo": [
+      35.1693,
+      138.1823
+    ]
+  },
+  {
+    "id": "junzgtrue",
+    "name": "奥大井湖上駅展望所",
+    "image": "https://image.xinu.ink/pic/data/834/images/junzgtrue-1714147491758.jpg",
+    "ep": 4,
+    "s": 1195,
+    "geo": [
+      35.1703,
+      138.1811
+    ]
+  },
+  {
+    "id": "juo2ixdma",
+    "cn": "畑薙莊温泉",
+    "name": "南Alps赤石温泉白桦庄",
+    "image": "https://image.xinu.ink/pic/data/834/images/juo2ixdma-1714147678754.jpg",
+    "ep": 4,
+    "s": 1218,
+    "geo": [
+      35.307,
+      138.1965
+    ]
+  },
+  {
+    "id": "k8yzad9gx",
+    "cn": "寸又峡公交车站",
+    "name": "寸又峡公民館前公交车站",
+    "image": "https://image.xinu.ink/pic/data/834/images/k8yzad9gx-1715268545948.jpg",
+    "ep": 6,
+    "s": 198,
+    "geo": [
+      35.1741,
+      138.1217
+    ]
+  },
+  {
+    "id": "k8z5ipfga",
+    "name": "SHOP&​CAFE​晴耕​雨読",
+    "image": "https://image.xinu.ink/pic/data/834/images/k8z5ipfga-1715269036897.jpg",
+    "ep": 6,
+    "s": 201,
+    "geo": [
+      35.1747,
+      138.12
+    ]
+  },
+  {
+    "id": "k8zdgsv6l",
+    "name": "寸又峡温泉地标",
+    "image": "https://image.xinu.ink/pic/data/834/images/k8zdgsv6l-1715269353154.jpg",
+    "ep": 6,
+    "s": 215,
+    "geo": [
+      35.173,
+      138.1236
+    ]
+  },
+  {
+    "id": "k8yu9rduo",
+    "cn": "寸又莊",
+    "name": "求夢荘温泉",
+    "image": "https://image.xinu.ink/pic/data/834/images/k8yu9rduo-1715268238961.jpg",
+    "ep": 6,
+    "s": 225,
+    "geo": [
+      35.1759,
+      138.1183
+    ]
+  },
+  {
+    "id": "k8zitozou",
+    "cn": "手工制作糖店（狗狗场景及抚子吃麻薯处）",
+    "name": "手造り​の​店​さとう",
+    "image": "https://image.xinu.ink/pic/data/834/images/k8zitozou-1715269746166.jpg",
+    "ep": 6,
+    "s": 257,
+    "geo": [
+      35.1757,
+      138.1182
+    ]
+  },
+  {
+    "id": "k8zn642ff",
+    "cn": "足汤咖啡店前",
+    "name": "晴耕雨読ヴィレッジ前",
+    "image": "https://image.xinu.ink/pic/data/834/images/k8zn642ff-1715269970760.jpg",
+    "ep": 6,
+    "s": 285,
+    "geo": [
+      35.1758,
+      138.118
+    ]
+  },
+  {
+    "id": "k8zpts5v5",
+    "cn": "晴耕雨読足汤咖啡馆",
+    "name": "晴耕​雨読​Village",
+    "image": "https://image.xinu.ink/pic/data/834/images/k8zpts5v5-1715270099531.jpg",
+    "ep": 6,
+    "s": 314,
+    "geo": [
+      35.1757,
+      138.118
+    ]
+  },
+  {
+    "id": "k8ztjukqe",
+    "cn": "翠红苑",
+    "name": "翠紅苑",
+    "image": "https://image.xinu.ink/pic/data/834/images/k8ztjukqe-1715270353084.jpg",
+    "ep": 6,
+    "s": 361,
+    "geo": [
+      35.1737,
+      138.1227
+    ]
+  },
+  {
+    "id": "k8zxj82hl",
+    "cn": "寸又峡“制造美女的露天温泉”温泉店前",
+    "name": "露天​風呂​美女​づくり​の​湯",
+    "image": "https://image.xinu.ink/pic/data/834/images/k8zxj82hl-1715270681540.jpg",
+    "ep": 6,
+    "s": 407,
+    "geo": [
+      35.1746,
+      138.118
+    ]
+  },
+  {
+    "id": "k9079w20b",
+    "name": "寸又峡温泉场景一",
+    "image": "https://image.xinu.ink/pic/data/834/images/k9079w20b-1715271159090.jpg",
+    "ep": 6,
+    "s": 412,
+    "geo": [
+      35.1761,
+      138.1178
+    ]
+  },
+  {
+    "id": "k906994uz",
+    "name": "寸又峡温泉场景二",
+    "image": "https://image.xinu.ink/pic/data/834/images/k906994uz-1715271115396.jpg",
+    "ep": 6,
+    "s": 414,
+    "geo": [
+      35.1761,
+      138.1177
+    ]
+  },
+  {
+    "id": "k909poenh",
+    "name": "寸又峡温泉场景三",
+    "image": "https://image.xinu.ink/pic/data/834/images/k909poenh-1715271320182.jpg",
+    "ep": 6,
+    "s": 417,
+    "geo": [
+      35.1763,
+      138.1177
+    ]
+  },
+  {
+    "id": "k90h6zwin",
+    "name": "梦幻吊桥途中隧道",
+    "image": "https://image.xinu.ink/pic/data/834/images/k90h6zwin-1715271816603.jpg",
+    "ep": 6,
+    "s": 492,
+    "geo": [
+      35.1817,
+      138.1175
+    ]
+  },
+  {
+    "id": "k90jadh1c",
+    "cn": "梦之吊桥",
+    "name": "夢のつり橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/k90jadh1c-1715271887691.jpg",
+    "ep": 6,
+    "s": 505,
+    "geo": [
+      35.1811,
+      138.1123
+    ]
+  },
+  {
+    "id": "k911yeyp8",
+    "cn": "梦想吊桥（無想吊橋）",
+    "name": "無想吊橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/k911yeyp8-1715273123435.jpg",
+    "ep": 6,
+    "s": 557,
+    "geo": [
+      35.2419,
+      138.0702
+    ]
+  },
+  {
+    "id": "k91aidkeg",
+    "cn": "松竹本铺（紅竹食堂）",
+    "name": "紅竹食堂",
+    "image": "https://image.xinu.ink/pic/data/834/images/k91aidkeg-1715273530364.jpg",
+    "ep": 6,
+    "s": 675,
+    "geo": [
+      35.1751,
+      138.1193
+    ]
+  },
+  {
+    "id": "k91cca691",
+    "cn": "美女之汤",
+    "name": "露天​風呂​美女​づくり​の​湯",
+    "image": "https://image.xinu.ink/pic/data/834/images/k91cca691-1715273670438.jpg",
+    "ep": 6,
+    "s": 700,
+    "geo": [
+      35.1746,
+      138.118
+    ]
+  },
+  {
+    "id": "k91gb4c1m",
+    "cn": "寸又峡温泉公交车发车站",
+    "name": "寸又峡温泉バス発着場",
+    "image": "https://image.xinu.ink/pic/data/834/images/k91gb4c1m-1715274006833.jpg",
+    "ep": 6,
+    "s": 755,
+    "geo": [
+      35.1755,
+      138.119
+    ]
+  },
+  {
+    "id": "k91kb0eye",
+    "name": "寸又峡温泉场景4",
+    "image": "https://image.xinu.ink/pic/data/834/images/k91kb0eye-1715274154583.jpg",
+    "ep": 6,
+    "s": 775,
+    "geo": [
+      35.1755,
+      138.1192
+    ]
+  },
+  {
+    "id": "k91p3iwl9",
+    "cn": "盐乡吊桥",
+    "name": "塩郷の吊橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/k91p3iwl9-1715274478526.jpg",
+    "ep": 6,
+    "s": 853,
+    "geo": [
+      34.9983,
+      138.0884
+    ]
+  },
+  {
+    "id": "k91uqzev7",
+    "cn": "盐乡站",
+    "name": "塩郷站",
+    "image": "https://image.xinu.ink/pic/data/834/images/k91uqzev7-1715274767707.jpg",
+    "ep": 6,
+    "s": 975,
+    "geo": [
+      34.998,
+      138.0903
+    ]
+  },
+  {
+    "id": "k91x0dsmj",
+    "cn": "蓬莱桥",
+    "name": "蓬莱橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/k91x0dsmj-1715274904049.jpg",
+    "ep": 6,
+    "s": 1122,
+    "geo": [
+      34.8256,
+      138.1845
+    ]
+  },
+  {
+    "id": "n6hwsph1f",
+    "cn": "8974茶屋",
+    "name": "蓬莱橋​やく​なし​茶屋",
+    "image": "https://image.xinu.ink/pic/data/834/images/n6hwsph1f-1723538013396.jpg",
+    "ep": 6,
+    "s": 1147,
+    "geo": [
+      34.8255,
+      138.1842
+    ]
+  },
+  {
+    "id": "k92498cad",
+    "cn": "内船站",
+    "name": "内船駅",
+    "image": "https://image.xinu.ink/pic/data/834/images/k92498cad-1715275351270.jpg",
+    "ep": 6,
+    "s": 1202,
+    "geo": [
+      35.2815,
+      138.465
+    ]
+  },
+  {
+    "id": "k926a3xfw",
+    "cn": "南部桥",
+    "name": "南部桥",
+    "image": "https://image.xinu.ink/pic/data/834/images/k926a3xfw-1715275502193.jpg",
+    "ep": 6,
+    "s": 1228,
+    "geo": [
+      35.2821,
+      138.4618
+    ]
+  },
+  {
+    "id": "khguhjsyr",
+    "cn": "韭崎站",
+    "name": "韮崎駅",
+    "image": "https://image.xinu.ink/pic/data/834/images/khguhjsyr-1715934446395.jpg",
+    "ep": 7,
+    "s": 251,
+    "geo": [
+      35.7106,
+      138.451
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kj0juwk5c",
+    "name": "韭崎市俯视点",
+    "image": "https://image.xinu.ink/pic/data/834/images/kj0juwk5c-1716055579343.jpg",
+    "ep": 7,
+    "s": 280,
+    "geo": [
+      35.7094,
+      138.4493
+    ]
+  },
+  {
+    "id": "kj0qdessg",
+    "name": "韮崎市俯视图拍摄点2（无人机）",
+    "image": "https://image.xinu.ink/pic/data/834/images/kj0qdessg-1716055980556.jpg",
+    "ep": 7,
+    "s": 397,
+    "geo": [
+      35.7018,
+      138.453
+    ]
+  },
+  {
+    "id": "kj10ot18i",
+    "name": "北杜市公交下车地点",
+    "image": "https://image.xinu.ink/pic/data/834/images/kj10ot18i-1716056606986.jpg",
+    "ep": 7,
+    "s": 426,
+    "geo": [
+      35.7719,
+      138.4647
+    ]
+  },
+  {
+    "id": "kj0zmysc7",
+    "cn": "北社农产品销售处（原型あけ​の​農​さん​物​直売所）",
+    "name": "あけ​の​農​さん​物​直売所",
+    "image": "https://image.xinu.ink/pic/data/834/images/kj0zmysc7-1716056556266.jpg",
+    "ep": 7,
+    "s": 450,
+    "geo": [
+      35.7733,
+      138.465
+    ]
+  },
+  {
+    "id": "kj19comcc",
+    "name": "瑞墙湖拍摄点",
+    "image": "https://image.xinu.ink/pic/data/834/images/kj19comcc-1716057131580.jpg",
+    "ep": 7,
+    "s": 594,
+    "geo": [
+      35.8617,
+      138.4976
+    ]
+  },
+  {
+    "id": "kj1e2zepl",
+    "cn": "瑞墙湖游客中心",
+    "name": "みず​がき​湖​ビジター​センター",
+    "image": "https://image.xinu.ink/pic/data/834/images/kj1e2zepl-1716057430281.jpg",
+    "ep": 7,
+    "s": 598,
+    "geo": [
+      35.8565,
+      138.5031
+    ]
+  },
+  {
+    "id": "kj1fsre6n",
+    "name": "鹿雕塑",
+    "image": "https://image.xinu.ink/pic/data/834/images/kj1fsre6n-1716057499646.jpg",
+    "ep": 7,
+    "s": 602,
+    "geo": [
+      35.8566,
+      138.5036
+    ]
+  },
+  {
+    "id": "kj1hfptw8",
+    "name": "瑞墙湖场景1",
+    "image": "https://image.xinu.ink/pic/data/834/images/kj1hfptw8-1716057597178.jpg",
+    "ep": 7,
+    "s": 618,
+    "geo": [
+      35.8569,
+      138.502
+    ]
+  },
+  {
+    "id": "kj1oxwx4y",
+    "name": "瑞墙湖场景3",
+    "image": "https://image.xinu.ink/pic/data/834/images/kj1oxwx4y-1716058115635.jpg",
+    "ep": 7,
+    "s": 639,
+    "geo": [
+      35.8577,
+      138.5056
+    ]
+  },
+  {
+    "id": "kj1ohbhff",
+    "name": "瑞墙湖场景2",
+    "image": "https://image.xinu.ink/pic/data/834/images/kj1ohbhff-1716058018935.jpg",
+    "ep": 7,
+    "s": 643,
+    "geo": [
+      35.8575,
+      138.5052
+    ]
+  },
+  {
+    "id": "kj1qk3nbn",
+    "cn": "盐川大坝展望台",
+    "name": "塩川ダム 展望所",
+    "image": "https://image.xinu.ink/pic/data/834/images/kj1qk3nbn-1716058195178.jpg",
+    "ep": 7,
+    "s": 651,
+    "geo": [
+      35.8609,
+      138.5012
+    ]
+  },
+  {
+    "id": "kj1vzrgcf",
+    "cn": "芦苇之汤",
+    "name": "ヨシヤーの湯",
+    "image": "https://image.xinu.ink/pic/data/834/images/kj1vzrgcf-1716058502192.jpg",
+    "ep": 7,
+    "s": 683,
+    "geo": [
+      35.863,
+      138.5034
+    ]
+  },
+  {
+    "id": "khhx9i4wn",
+    "name": "没想到居然走到神户来了.jpg",
+    "image": "https://image.xinu.ink/pic/data/834/images/khhx9i4wn-1715936716426.jpg",
+    "ep": 7,
+    "s": 710,
+    "geo": [
+      35.8667,
+      138.505
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kj2qbc3ik",
+    "cn": "烧鸟店",
+    "name": "やきとり鳥恵",
+    "image": "https://image.xinu.ink/pic/data/834/images/kj2qbc3ik-1716060339695.jpg",
+    "ep": 7,
+    "s": 970,
+    "geo": [
+      35.868,
+      138.5063
+    ]
+  },
+  {
+    "id": "kj2ujxyti",
+    "name": "神户场景1",
+    "image": "https://image.xinu.ink/pic/data/834/images/kj2ujxyti-1716060586201.jpg",
+    "ep": 7,
+    "s": 979,
+    "geo": [
+      35.8702,
+      138.5124
+    ]
+  },
+  {
+    "id": "kj2xi4qlv",
+    "cn": "增富之汤温泉",
+    "name": "増富の湯",
+    "image": "https://image.xinu.ink/pic/data/834/images/kj2xi4qlv-1716060750365.jpg",
+    "ep": 7,
+    "s": 1090,
+    "geo": [
+      35.8645,
+      138.5311
+    ]
+  },
+  {
+    "id": "khil25mdd",
+    "cn": "鲸石",
+    "name": "増富ラジウムライン",
+    "image": "https://image.xinu.ink/pic/data/834/images/khil25mdd-1715938109145.jpg",
+    "ep": 7,
+    "s": 1158,
+    "geo": [
+      35.8664,
+      138.5446
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "khir9aqsi",
+    "name": "宿泊金山高原",
+    "image": "https://image.xinu.ink/pic/data/834/images/khir9aqsi-1715938529161.jpg",
+    "ep": 7,
+    "s": 1172,
+    "geo": [
+      35.8681,
+      138.575
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "khivpxnf6",
+    "name": "瑞牆山荘",
+    "image": "https://image.xinu.ink/pic/data/834/images/khivpxnf6-1715938743149.jpg",
+    "ep": 7,
+    "s": 1195,
+    "geo": [
+      35.8785,
+      138.5784
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "khj2yn1s6",
+    "cn": "瑞墙山​自然公园",
+    "name": "みず​がき​山​自然​公園",
+    "image": "https://image.xinu.ink/pic/data/834/images/khj2yn1s6-1715939214478.jpg",
+    "ep": 7,
+    "s": 1230,
+    "geo": [
+      35.8963,
+      138.5736
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kxwmcwz1n",
+    "name": "本栖高校前樱花树",
+    "image": "https://image.xinu.ink/pic/data/834/images/kxwmcwz1n-1717222546374.jpg",
+    "ep": 8,
+    "s": 1348,
+    "geo": [
+      35.4476,
+      138.4806
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kxwpnglgg",
+    "cn": "常幸院",
+    "name": "常幸院",
+    "image": "https://image.xinu.ink/pic/data/834/images/kxwpnglgg-1717222682112.jpg",
+    "ep": 8,
+    "s": 1350,
+    "geo": [
+      35.4486,
+      138.4806
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kxwxjm4uz",
+    "name": "本栖高校附近樱花树2",
+    "image": "https://image.xinu.ink/pic/data/834/images/kxwxjm4uz-1717223166540.jpg",
+    "ep": 8,
+    "s": 1362,
+    "geo": [
+      35.4486,
+      138.4798
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kxx1mhx1y",
+    "cn": "常叶桥",
+    "name": "常葉橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/kxx1mhx1y-1717223408247.jpg",
+    "ep": 8,
+    "s": 1377,
+    "geo": [
+      35.4452,
+      138.4775
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kxxd9zmoi",
+    "cn": "不动瀑布",
+    "name": "不動滝",
+    "image": "https://image.xinu.ink/pic/data/834/images/kxxd9zmoi-1717224109511.jpg",
+    "ep": 9,
+    "s": 67,
+    "geo": [
+      35.5105,
+      138.4121
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kxx9vxovn",
+    "cn": "十谷温泉露营场（大柳川渓流公园露营场）",
+    "name": "大柳川渓流 キャンプ場",
+    "image": "https://image.xinu.ink/pic/data/834/images/kxx9vxovn-1717223945784.jpg",
+    "ep": 9,
+    "s": 181,
+    "geo": [
+      35.5062,
+      138.3989
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kxxnkk6fy",
+    "name": "大柳川渓流露营场场景1",
+    "image": "https://image.xinu.ink/pic/data/834/images/kxxnkk6fy-1717224737921.jpg",
+    "ep": 9,
+    "s": 338,
+    "geo": [
+      35.5046,
+      138.3963
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kxxrfyqb3",
+    "cn": "龙门桥",
+    "name": "竜門橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/kxxrfyqb3-1717224964232.jpg",
+    "ep": 9,
+    "s": 354,
+    "geo": [
+      35.5037,
+      138.3955
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kxxs95nvy",
+    "cn": "龙神桥",
+    "name": "竜神橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/kxxs95nvy-1717225014448.jpg",
+    "ep": 9,
+    "s": 376,
+    "geo": [
+      35.503,
+      138.3949
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kxy2w9dmg",
+    "cn": "内船寺前台阶",
+    "name": "内船寺参道石段",
+    "image": "https://image.xinu.ink/pic/data/834/images/kxy2w9dmg-1717225657171.jpg",
+    "ep": 9,
+    "s": 833,
+    "geo": [
+      35.2859,
+      138.4645
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kxy4typ0k",
+    "name": "内船寺",
+    "image": "https://image.xinu.ink/pic/data/834/images/kxy4typ0k-1717225762000.jpg",
+    "ep": 9,
+    "s": 849,
+    "geo": [
+      35.2877,
+      138.4662
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kxy7v8fi9",
+    "cn": "内船公园",
+    "name": "うつぶな公園",
+    "image": "https://image.xinu.ink/pic/data/834/images/kxy7v8fi9-1717225948670.jpg",
+    "ep": 9,
+    "s": 886,
+    "geo": [
+      35.2876,
+      138.4629
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kxyfkn08m",
+    "name": "久遠寺総門",
+    "image": "https://image.xinu.ink/pic/data/834/images/kxyfkn08m-1717226463058.jpg",
+    "ep": 9,
+    "s": 908,
+    "geo": [
+      35.3691,
+      138.4265
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kxyjsaukp",
+    "name": "身延町场景1",
+    "image": "https://image.xinu.ink/pic/data/834/images/kxyjsaukp-1717226701573.jpg",
+    "ep": 9,
+    "s": 929,
+    "geo": [
+      35.3775,
+      138.4246
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kxyofmzf6",
+    "name": "身延町场景2",
+    "image": "https://image.xinu.ink/pic/data/834/images/kxyofmzf6-1717226984478.jpg",
+    "ep": 9,
+    "s": 946,
+    "geo": [
+      35.381,
+      138.429
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "o76tt9avo",
+    "cn": "大法師公園",
+    "name": "大法師公園",
+    "image": "https://image.xinu.ink/pic/data/834/images/o76tt9avo-1726413768220.jpg",
+    "ep": "EP9",
+    "s": "16.46",
+    "geo": [
+      35.5463,
+      138.4559
+    ]
+  },
+  {
+    "id": "kxyzxod37",
+    "cn": "王仁冢的一本樱",
+    "name": "わに塚のサクラ",
+    "image": "https://image.xinu.ink/pic/data/834/images/kxyzxod37-1717227687637.jpg",
+    "ep": 9,
+    "s": 1056,
+    "geo": [
+      35.7082,
+      138.4258
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kxz6r49te",
+    "cn": "峠之汤温泉（山の湯）",
+    "name": "山の湯",
+    "image": "https://image.xinu.ink/pic/data/834/images/kxz6r49te-1717228085398.jpg",
+    "ep": 9,
+    "s": 1114,
+    "geo": [
+      35.5048,
+      138.3937
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l3y5lput1",
+    "cn": "桃花桥环路",
+    "name": "桃花橋ループ",
+    "image": "https://image.xinu.ink/pic/data/834/images/l3y5lput1-1717696036239.jpg",
+    "ep": 10,
+    "s": 5,
+    "geo": [
+      35.6375,
+      138.4407
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l3yc2gkke",
+    "cn": "八木羽湖公园（矢木羽湖公园）",
+    "name": "矢木羽湖公園",
+    "image": "https://image.xinu.ink/pic/data/834/images/l3yc2gkke-1717696426207.jpg",
+    "ep": 10,
+    "s": 154,
+    "geo": [
+      35.7033,
+      138.5197
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l3yg0xzx4",
+    "cn": "赤坂台综合公园",
+    "name": "赤坂台総合公園",
+    "image": "https://image.xinu.ink/pic/data/834/images/l3yg0xzx4-1717696646877.jpg",
+    "ep": 10,
+    "s": 207,
+    "geo": [
+      35.6743,
+      138.505
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l3ysexody",
+    "cn": "波高岛站",
+    "name": "波高岛站",
+    "image": "https://image.xinu.ink/pic/data/834/images/l3ysexody-1717697384468.jpg",
+    "ep": 10,
+    "s": 259,
+    "geo": [
+      35.4182,
+      138.4591
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l3z0shg09",
+    "cn": "富士川CraftPark",
+    "name": "富士川​クラフト​パーク",
+    "image": "https://image.xinu.ink/pic/data/834/images/l3z0shg09-1717697965175.jpg",
+    "ep": 10,
+    "s": 299,
+    "geo": [
+      35.4185,
+      138.4372
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l3zuke2wr",
+    "cn": "东山广域农道（水果线）场景1",
+    "name": "フル-ツライン",
+    "image": "https://image.xinu.ink/pic/data/834/images/l3zuke2wr-1717699705974.jpg",
+    "ep": 10,
+    "s": 658,
+    "geo": [
+      35.6875,
+      138.6517
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l3zz6b758",
+    "cn": "东山广域农道（水果线）场景2",
+    "name": "フル-ツライン",
+    "image": "https://image.xinu.ink/pic/data/834/images/l3zz6b758-1717700008632.jpg",
+    "ep": 10,
+    "s": 662,
+    "geo": [
+      35.6927,
+      138.6545
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l401kf9b1",
+    "cn": "东山广域农道（水果线）场景3",
+    "name": "フル-ツライン",
+    "image": "https://image.xinu.ink/pic/data/834/images/l401kf9b1-1717700116051.jpg",
+    "ep": 10,
+    "s": 664,
+    "geo": [
+      35.6952,
+      138.6572
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l406vtytb",
+    "cn": "东山广域农道（水果线）场景4",
+    "name": "フル-ツライン",
+    "image": "https://image.xinu.ink/pic/data/834/images/l406vtytb-1717700436656.jpg",
+    "ep": 10,
+    "s": 667,
+    "geo": [
+      35.7,
+      138.6674
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l40cv8koo",
+    "cn": "东山广域农道（水果线）场景5",
+    "name": "フル-ツライン",
+    "image": "https://image.xinu.ink/pic/data/834/images/l40cv8koo-1717700783040.jpg",
+    "ep": 10,
+    "s": 702,
+    "geo": [
+      35.7182,
+      138.6694
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l40hyqyjz",
+    "cn": "水果线观望台",
+    "name": "フルーツライン 展望ポイント",
+    "image": "https://image.xinu.ink/pic/data/834/images/l40hyqyjz-1717701120196.jpg",
+    "ep": 10,
+    "s": 744,
+    "geo": [
+      35.7224,
+      138.6761
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l40tihnfs",
+    "cn": "樱花温泉街",
+    "name": "さくら温泉通り",
+    "image": "https://image.xinu.ink/pic/data/834/images/l40tihnfs-1717701799212.jpg",
+    "ep": 10,
+    "s": 757,
+    "geo": [
+      35.6584,
+      138.6514
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l4jf1bvwb",
+    "cn": "胜沼葡萄乡站前公园",
+    "name": "勝沼ぶどう郷駅前広場／甚六桜",
+    "image": "https://image.xinu.ink/pic/data/834/images/l4jf1bvwb-1717742527049.jpg",
+    "ep": 10,
+    "s": 817,
+    "geo": [
+      35.6725,
+      138.7428
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l4i7l0nes",
+    "name": "勝沼鉄道遺産記念公園（甚六桜公園）",
+    "image": "https://image.xinu.ink/pic/data/834/images/l4i7l0nes-1717739672860.jpg",
+    "ep": 10,
+    "s": 822,
+    "geo": [
+      35.6736,
+      138.7431
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l4ibzo7np",
+    "name": "駅前甚六公園  電気機関車EF64形18号機",
+    "image": "https://image.xinu.ink/pic/data/834/images/l4ibzo7np-1717739925462.jpg",
+    "ep": 10,
+    "s": 846,
+    "geo": [
+      35.6715,
+      138.7428
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l4iptqotu",
+    "cn": "横川铁道博物馆（碓冰岭铁道博物馆）",
+    "name": "碓氷峠​鉄道​文化​むら",
+    "image": "https://image.xinu.ink/pic/data/834/images/l4iptqotu-1717740834434.jpg",
+    "ep": 10,
+    "s": 873,
+    "geo": [
+      36.3364,
+      138.7337
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l4m1dsf5n",
+    "name": "佐野川河川公園入口（南部井出キャンプ場）",
+    "image": "https://image.xinu.ink/pic/data/834/images/l4m1dsf5n-1717748009447.jpg",
+    "ep": 10,
+    "s": 929,
+    "geo": [
+      35.2517,
+      138.5049
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l4m2jsbet",
+    "name": "佐野川河川公園　公衆トイレ",
+    "image": "https://image.xinu.ink/pic/data/834/images/l4m2jsbet-1717748062468.jpg",
+    "ep": 10,
+    "s": 934,
+    "geo": [
+      35.252,
+      138.5045
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l4m4jylni",
+    "name": "佐野川河川公園　設営地",
+    "image": "https://image.xinu.ink/pic/data/834/images/l4m4jylni-1717748183358.jpg",
+    "ep": 10,
+    "s": 952,
+    "geo": [
+      35.2518,
+      138.5043
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l4i27gdbt",
+    "name": "南部井出温泉",
+    "image": "https://image.xinu.ink/pic/data/834/images/l4i27gdbt-1717739678703.jpg",
+    "ep": 10,
+    "s": 1266,
+    "geo": [
+      35.2481,
+      138.5094
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l4m7alk1e",
+    "name": "佐野川温泉　玄関",
+    "image": "https://image.xinu.ink/pic/data/834/images/l4m7alk1e-1717748346071.jpg",
+    "ep": 10,
+    "s": 1278,
+    "geo": [
+      35.2484,
+      138.5093
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l4m7v7oml",
+    "name": "佐野川温泉　受付",
+    "image": "https://image.xinu.ink/pic/data/834/images/l4m7v7oml-1717748381941.jpg",
+    "ep": 10,
+    "s": 1284,
+    "geo": [
+      35.2484,
+      138.5093
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lbjws588u",
+    "cn": "7-11身延​下山​店",
+    "name": "セブン​イレブン\n身延​下山​店",
+    "image": "https://image.xinu.ink/pic/data/834/images/lbjws588u-1718291960737.jpg",
+    "ep": 11,
+    "s": 430,
+    "geo": [
+      35.4236,
+      138.4441
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lbjz75dpx",
+    "cn": "富山桥",
+    "name": "富山橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/lbjz75dpx-1718292048261.jpg",
+    "ep": 11,
+    "s": 455,
+    "geo": [
+      35.4199,
+      138.4541
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lbk23iiw0",
+    "cn": "荣昇堂身延馒头店",
+    "name": "栄昇堂",
+    "image": "https://image.xinu.ink/pic/data/834/images/lbk23iiw0-1718292227445.jpg",
+    "ep": 11,
+    "s": 455,
+    "geo": [
+      35.3615,
+      138.4522
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lj9o44p8j",
+    "cn": "高桥肉铺（肉铺高林）",
+    "name": "ミート高橋",
+    "image": "https://image.xinu.ink/pic/data/834/images/lj9o44p8j-1718896573415.jpg",
+    "ep": 11,
+    "s": 551,
+    "geo": [
+      35.5589,
+      138.4623
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lbkhxt7gu",
+    "cn": "天龙山慈云寺樱花",
+    "name": "慈云寺",
+    "image": "https://image.xinu.ink/pic/data/834/images/lbkhxt7gu-1718293201476.jpg",
+    "ep": 11,
+    "s": 732,
+    "geo": [
+      35.7183,
+      138.7561
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lbkgr3q16",
+    "cn": "天龙山慈云寺",
+    "name": "慈雲寺",
+    "image": "https://image.xinu.ink/pic/data/834/images/lbkgr3q16-1718293138410.jpg",
+    "ep": 11,
+    "s": 746,
+    "geo": [
+      35.7183,
+      138.7562
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lbkkxioua",
+    "cn": "笛吹川水果公园",
+    "name": "笛吹川​フルーツ​公園",
+    "image": "https://image.xinu.ink/pic/data/834/images/lbkkxioua-1718293354161.jpg",
+    "ep": 11,
+    "s": 772,
+    "geo": [
+      35.702,
+      138.6643
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lbks4uely",
+    "name": "つぐら舎",
+    "image": "https://image.xinu.ink/pic/data/834/images/lbks4uely-1718293808276.jpg",
+    "ep": 11,
+    "s": 778,
+    "geo": [
+      35.664,
+      138.7224
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lbkv3luq0",
+    "name": "街道场景1",
+    "image": "https://image.xinu.ink/pic/data/834/images/lbkv3luq0-1718293984767.jpg",
+    "ep": 11,
+    "s": 919,
+    "geo": [
+      35.6635,
+      138.7248
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lbkwv6hx4",
+    "name": "街道场景2",
+    "image": "https://image.xinu.ink/pic/data/834/images/lbkwv6hx4-1718294081204.jpg",
+    "ep": 11,
+    "s": 922,
+    "geo": [
+      35.6582,
+      138.7374
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lbkz1ppks",
+    "name": "眺望观景点",
+    "image": "https://image.xinu.ink/pic/data/834/images/lbkz1ppks-1718294398501.jpg",
+    "ep": 11,
+    "s": 930,
+    "geo": [
+      35.6607,
+      138.737
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lbl4ni7z7",
+    "cn": "鸟居烧",
+    "name": "鸟居烧",
+    "image": "https://image.xinu.ink/pic/data/834/images/lbl4ni7z7-1718294621448.jpg",
+    "ep": 11,
+    "s": 1045,
+    "geo": [
+      35.6601,
+      138.7378
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lbl72aip6",
+    "cn": "笈形烧",
+    "name": "笈形烧",
+    "image": "https://image.xinu.ink/pic/data/834/images/lbl72aip6-1718294764011.jpg",
+    "ep": 11,
+    "s": 1159,
+    "geo": [
+      35.6648,
+      138.6361
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lblc9wqt8",
+    "cn": "大文字烧",
+    "name": "大文字焼き",
+    "image": "https://image.xinu.ink/pic/data/834/images/lblc9wqt8-1718295019384.jpg",
+    "ep": 11,
+    "s": 1237,
+    "geo": [
+      35.6323,
+      138.7085
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lblevy8pj",
+    "cn": "笛吹市八代故乡公园",
+    "name": "笛吹市八代ふるさと公園",
+    "image": "https://image.xinu.ink/pic/data/834/images/lblevy8pj-1718295177218.jpg",
+    "ep": 11,
+    "s": 1247,
+    "geo": [
+      35.6026,
+      138.6454
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lj9awl12w",
+    "cn": "花鸟山一本杉公园眺望台附近的桃林",
+    "name": "花鳥山展望台",
+    "image": "https://image.xinu.ink/pic/data/834/images/lj9awl12w-1718895752074.jpg",
+    "ep": 12,
+    "s": 273,
+    "geo": [
+      35.6033,
+      138.6664
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lj9hdm0ki",
+    "cn": "花鸟山展望台长椅处",
+    "name": "花鳥山展望台",
+    "image": "https://image.xinu.ink/pic/data/834/images/lj9hdm0ki-1718896119644.jpg",
+    "ep": 12,
+    "s": 376,
+    "geo": [
+      35.6032,
+      138.6659
+    ],
+    "origin": "Anitabi@story",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kj17u7tg5",
+    "name": "増富街道场景",
+    "image": "https://image.xinu.ink/pic/data/834/images/kj17u7tg5-1716057015895.jpg",
+    "ep": 12,
+    "s": 628,
+    "geo": [
+      35.8564,
+      138.5021
+    ]
+  },
+  {
+    "id": "sb14h5vb8",
+    "cn": "東榮站",
+    "name": "東栄駅",
+    "image": "https://image.xinu.ink/pic/data/834/images/sb14h5vb8-1737998791768.jpg",
+    "ep": 1,
+    "geo": [
+      35.0292,
+      137.7135
+    ]
+  },
+  {
+    "id": "l4jnicfmk",
+    "name": "勝沼鉄道遺産記念公園（甚六桜公園）旧勝沼駅名標",
+    "image": "https://image.xinu.ink/pic/data/834/images/l4jnicfmk-1717742796993.jpg",
+    "ep": 10,
+    "geo": [
+      35.6738,
+      138.7431
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "s9xhmaj8i",
+    "name": "菖蒲池園地口",
+    "image": "https://image.xinu.ink/pic/data/834/images/s9xhmaj8i_1737912527070.jpg",
+    "ep": "SP3",
+    "geo": [
+      35.5987,
+      138.4106
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "s9xkelwxv",
+    "name": "南アルプス伊奈​ケ​湖森林公園案内板",
+    "image": "https://image.xinu.ink/pic/data/834/images/s9xkelwxv_1737912680947.jpg",
+    "ep": "SP3",
+    "geo": [
+      35.6017,
+      138.4118
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "s9xmv4uj5",
+    "name": "県民の森第1駐車場",
+    "image": "https://image.xinu.ink/pic/data/834/images/s9xmv4uj5_1737912838427.jpg",
+    "ep": "SP3",
+    "geo": [
+      35.6015,
+      138.4122
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "s9xj6j3bv",
+    "name": "レストハウスミッシェル​伊奈​ケ​湖​店",
+    "image": "https://image.xinu.ink/pic/data/834/images/s9xj6j3bv_1737912597953.jpg",
+    "ep": "SP3",
+    "geo": [
+      35.6018,
+      138.4119
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "s9xqpsrac",
+    "name": "県民​の​森​森林​科学館",
+    "image": "https://image.xinu.ink/pic/data/834/images/s9xqpsrac_1737913111201.jpg",
+    "ep": "SP3",
+    "geo": [
+      35.6017,
+      138.4127
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "s9xp17qyh",
+    "name": "県民​の​森​グリーン​ロッジ",
+    "image": "https://image.xinu.ink/pic/data/834/images/s9xp17qyh_1737913031114.jpg",
+    "ep": "SP3",
+    "geo": [
+      35.6011,
+      138.4126
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "s9y1xeazo",
+    "name": "北伊奈​ケ​湖",
+    "image": "https://image.xinu.ink/pic/data/834/images/s9y1xeazo_1737913790517.jpg",
+    "ep": "SP3",
+    "geo": [
+      35.6046,
+      138.4117
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "s9y57caqc",
+    "name": "北伊奈​ケ​湖堰堤",
+    "image": "https://image.xinu.ink/pic/data/834/images/s9y57caqc_1737913997145.jpg",
+    "ep": "SP3",
+    "geo": [
+      35.6039,
+      138.4131
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "s9zfbrapd",
+    "name": "北​伊奈​ケ​湖​水辺​公園",
+    "image": "https://image.xinu.ink/pic/data/834/images/s9zfbrapd_1737916810695.jpg",
+    "ep": "SP3",
+    "geo": [
+      35.604,
+      138.4117
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "s9yud9lky",
+    "name": "北​​伊奈ヶ湖オートキャンプ場",
+    "image": "https://image.xinu.ink/pic/data/834/images/s9yud9lky_1738062091962.jpg",
+    "ep": "SP3",
+    "geo": [
+      35.604,
+      138.4111
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "s9ygeht1j",
+    "name": "県民の森 展望台",
+    "image": "https://image.xinu.ink/pic/data/834/images/s9ygeht1j_1737914652700.jpg",
+    "ep": "SP3",
+    "geo": [
+      35.6007,
+      138.4136
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "s9ykab9fj",
+    "name": "鰍沢口駅",
+    "image": "https://image.xinu.ink/pic/data/834/images/s9ykab9fj_1737914849905.jpg",
+    "ep": "SP3",
+    "geo": [
+      35.541,
+      138.4706
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "s9yodohcm",
+    "name": "櫛形​山登​山口​平林​休憩​所",
+    "image": "https://image.xinu.ink/pic/data/834/images/s9yodohcm_1737915093282.jpg",
+    "ep": "SP3",
+    "geo": [
+      35.5804,
+      138.4088
+    ],
+    "origin": "蜃気楼の如く",
+    "originLink": "https://sinkirouno.exblog.jp/30034936/"
+  },
+  {
+    "id": "s9yqhp30f",
+    "name": "平林​交流​の​里​みさき​耕​舎",
+    "image": "https://image.xinu.ink/pic/data/834/images/s9yqhp30f_1737915218827.jpg",
+    "ep": "SP3",
+    "geo": [
+      35.5778,
+      138.4082
+    ],
+    "origin": "蜃気楼の如く",
+    "originLink": "https://sinkirouno.exblog.jp/30034936/"
+  },
+  {
+    "id": "s9yy26pxs",
+    "name": "赤石温泉",
+    "image": "https://image.xinu.ink/pic/data/834/images/s9yy26pxs_1737915798370.jpg",
+    "ep": "SP3",
+    "geo": [
+      35.5672,
+      138.3936
+    ],
+    "origin": "蜃気楼の如く",
+    "originLink": "https://sinkirouno.exblog.jp/30034936/"
+  },
+  {
+    "id": "s9z2nlq7z",
+    "name": "富士川町小室4672 T字路",
+    "image": "https://image.xinu.ink/pic/data/834/images/s9z2nlq7z_1737916041946.jpg",
+    "ep": "SP3",
+    "geo": [
+      35.5516,
+      138.418
+    ],
+    "origin": "蜃気楼の如く",
+    "originLink": "https://sinkirouno.exblog.jp/30034936/"
+  },
+  {
+    "id": "s9z6ptpfj",
+    "name": "高下ダイヤモンド富士スポット駐車場 前",
+    "image": "https://image.xinu.ink/pic/data/834/images/s9z6ptpfj_1737916230203.jpg",
+    "ep": "SP3",
+    "geo": [
+      35.5333,
+      138.4156
+    ],
+    "origin": "蜃気楼の如く",
+    "originLink": "https://sinkirouno.exblog.jp/30034936/"
+  },
+  {
+    "id": "s9z8gamll",
+    "name": "高下ダイヤモンド富士スポット駐車場",
+    "image": "https://image.xinu.ink/pic/data/834/images/s9z8gamll_1737916297140.jpg",
+    "ep": "SP3",
+    "geo": [
+      35.5336,
+      138.4157
+    ],
+    "origin": "蜃気楼の如く",
+    "originLink": "https://sinkirouno.exblog.jp/30034936/"
+  }
+]

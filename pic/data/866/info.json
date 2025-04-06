@@ -1,0 +1,131 @@
+{
+  "id": 428735,
+  "title": "BanG Dream! It's MyGO!!!!!",
+  "city": "丰岛区",
+  "cover": "https://image.xinu.ink/pic/data/866/images/428735.jpg",
+  "color": "#3381b1",
+  "geo": [
+    35.73011744691408,
+    139.71630973811324
+  ],
+  "zoom": 16.149,
+  "modified": 1741790672154,
+  "litePoints": [
+    {
+      "id": "rdwqeevw4",
+      "name": "池袋駅東口交差点",
+      "image": "https://image.anitabi.cn/points/428735/rdwqeevw4_1735403291084.jpg?plan=h160",
+      "ep": 1,
+      "s": 3,
+      "geo": [
+        35.7303,
+        139.7129
+      ]
+    },
+    {
+      "id": "rdw5s76mw",
+      "name": "サウンドスタジオノア池袋店",
+      "image": "https://image.anitabi.cn/points/428735/rdw5s76mw_1735403639907.jpg?plan=h160",
+      "ep": 1,
+      "s": 15,
+      "geo": [
+        35.7336,
+        139.717
+      ]
+    },
+    {
+      "id": "rdx1nx1ss",
+      "name": "サウンドスタジオノア池袋店前",
+      "image": "https://image.anitabi.cn/points/428735/rdx1nx1ss_1735404150258.jpg?plan=h160",
+      "ep": 1,
+      "s": 164,
+      "geo": [
+        35.7338,
+        139.7169
+      ]
+    },
+    {
+      "id": "rdxn45u3w",
+      "cn": "希思罗机场路标",
+      "name": "Heathrow Airport",
+      "image": "https://image.anitabi.cn/points/428735/rdxn45u3w_1735405172960.jpg?plan=h160",
+      "ep": 1,
+      "s": 182,
+      "geo": [
+        51.4708,
+        -0.4889
+      ]
+    },
+    {
+      "id": "ipq4b0s7c",
+      "cn": "希思罗机场T5航站楼",
+      "name": "Heathrow Airport Terminal 5",
+      "image": "https://image.anitabi.cn/points/428735/ipq4b0s7c_1735404239637.jpg?plan=h160",
+      "ep": 1,
+      "s": 184,
+      "geo": [
+        51.4693,
+        -0.4879
+      ]
+    },
+    {
+      "id": "rdx9ykshp",
+      "cn": "希思罗机场T5航站楼 D区",
+      "name": "Heathrow Airport Terminal 5 Zone D",
+      "image": "https://image.anitabi.cn/points/428735/rdx9ykshp_1735404408216.jpg?plan=h160",
+      "ep": 1,
+      "s": 189,
+      "geo": [
+        51.4718,
+        -0.4895
+      ]
+    },
+    {
+      "id": "idmkglyvy",
+      "name": "日本女子大学",
+      "image": "https://image.anitabi.cn/points/428735/idmkglyvy_1735404704285.jpg?plan=h160",
+      "ep": 1,
+      "s": 206,
+      "geo": [
+        35.7174,
+        139.7205
+      ]
+    },
+    {
+      "id": "idmkglyv3",
+      "name": "学习院大学",
+      "image": "https://image.anitabi.cn/points/428735/idmkglyv3_1735405268994.jpg?plan=h160",
+      "ep": 1,
+      "s": 956,
+      "geo": [
+        35.7186,
+        139.7093
+      ]
+    },
+    {
+      "id": "jq6yl4gxx",
+      "name": "カラオケ​館​池袋​東口​本店",
+      "image": "https://image.anitabi.cn/points/428735/jq6yl4gxx_1735405300124.jpg?plan=h160",
+      "ep": 1,
+      "s": 1079,
+      "geo": [
+        35.7297,
+        139.7141
+      ]
+    },
+    {
+      "id": "rdxwnfne1",
+      "name": "Mixalive TOKYO",
+      "image": "https://image.anitabi.cn/points/428735/rdxwnfne1_1735405808441.jpg?plan=h160",
+      "ep": 1,
+      "s": 1238,
+      "geo": [
+        35.7297,
+        139.7147
+      ]
+    }
+  ],
+  "pointsLength": 394,
+  "imagesLength": 394,
+  "local_id": 866
+}

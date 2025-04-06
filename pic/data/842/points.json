@@ -1,0 +1,85 @@
+[
+  {
+    "id": "8rnt88vmu",
+    "cn": "陆奥横滨站",
+    "name": "陸奥横浜駅",
+    "image": "https://image.xinu.ink/pic/data/842/images/8rnt88vmu-1682880066044.jpg",
+    "ep": 1,
+    "s": 224,
+    "geo": [
+      41.086,
+      141.2494
+    ],
+    "origin": "琼华夏凉",
+    "originLink": "https://i0.hdslb.com/bfs/new_dyn/699dbbab1a992c389c2e6dd9534ad7c0250664355.jpg@1295w.webp"
+  },
+  {
+    "id": "8rnywtos8",
+    "name": "海滨观景台",
+    "image": "https://image.xinu.ink/pic/data/842/images/8rnywtos8-1682880365262.jpg",
+    "ep": 1,
+    "s": 50,
+    "geo": [
+      41.0598,
+      141.2387
+    ]
+  },
+  {
+    "id": "8ro6ckrvt",
+    "cn": "上野站",
+    "name": "上野駅",
+    "image": "https://image.xinu.ink/pic/data/842/images/8ro6ckrvt-1682880611548.jpg",
+    "ep": 1,
+    "s": 386,
+    "geo": [
+      35.7138,
+      139.7768
+    ]
+  },
+  {
+    "id": "8ro8g8zco",
+    "name": "雷门",
+    "image": "https://image.xinu.ink/pic/data/842/images/8ro8g8zco-1682880730848.jpg",
+    "ep": 1,
+    "s": 493,
+    "geo": [
+      35.7109,
+      139.7962
+    ]
+  },
+  {
+    "id": "o2pu78mg8",
+    "cn": "浅草花劇場",
+    "name": "浅草花劇場",
+    "image": "https://image.xinu.ink/pic/data/842/images/o2pu78mg8-1726063012927.jpg",
+    "ep": "TVアニメ「ワールドダイスター」ティザーPV",
+    "s": 8,
+    "geo": [
+      35.7152,
+      139.7945
+    ]
+  },
+  {
+    "id": "tecz3ga6e",
+    "cn": "淺草瓢通商店街",
+    "name": "浅草ひさご通り商店街",
+    "image": "https://image.xinu.ink/pic/data/842/images/tecz3ga6e-1741081012201.jpg",
+    "ep": "4",
+    "s": "10:17",
+    "geo": [
+      35.7169,
+      139.7941
+    ]
+  },
+  {
+    "id": "rj6ynsg8n",
+    "cn": "卡特莉娜誤以為被跟蹤的路",
+    "name": "卡特莉娜誤以為被跟蹤的路",
+    "image": "https://image.xinu.ink/pic/data/842/images/rj6ynsg8n-1735817525614.jpg",
+    "ep": null,
+    "geo": [
+      35.7124,
+      139.7964
+    ]
+  }
+]

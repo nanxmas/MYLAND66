@@ -1,0 +1,109 @@
+{
+  "id": 419558,
+  "cn": "灵视异闻 FILE23 本所七大不可思议",
+  "title": "パラノマサイト FILE23 本所七不思議",
+  "city": "墨田区",
+  "cover": "https://image.xinu.ink/pic/data/851/images/419558.jpg",
+  "color": "#474e63",
+  "geo": [
+    35.706430229010394,
+    139.81690694476993
+  ],
+  "zoom": 13.418,
+  "modified": 1736099700793,
+  "litePoints": [
+    {
+      "id": "ilz8d7v8f",
+      "name": "両国橋東",
+      "image": "https://image.anitabi.cn/points/419558/ilz8d7v8f_1710645858802.jpg?plan=h160",
+      "geo": [
+        35.6939,
+        139.7899
+      ]
+    },
+    {
+      "id": "ilz8d7ver",
+      "name": "法恩寺橋",
+      "image": "https://image.anitabi.cn/points/419558/ilz8d7ver_1710646175567.jpg?plan=h160",
+      "geo": [
+        35.7008,
+        139.8084
+      ]
+    },
+    {
+      "id": "ilz8d7vcn",
+      "name": "駒形橋",
+      "image": "https://image.anitabi.cn/points/419558/ilz8d7vcn_1710646951287.jpg?plan=h160",
+      "geo": [
+        35.7082,
+        139.7973
+      ]
+    },
+    {
+      "id": "ilz8d7vgq",
+      "name": "駒形橋東",
+      "image": "https://image.anitabi.cn/points/419558/ilz8d7vgq_1710646952270.jpg?plan=h160",
+      "geo": [
+        35.7082,
+        139.7982
+      ]
+    },
+    {
+      "id": "ilz8d7vfv",
+      "name": "駒形橋東から見た吾妻橋",
+      "image": "https://image.anitabi.cn/points/419558/ilz8d7vfv_1710646151672.jpg?plan=h160",
+      "geo": [
+        35.7083,
+        139.7983
+      ]
+    },
+    {
+      "id": "ilz8d7v5b",
+      "name": "緑町公園",
+      "image": "https://image.anitabi.cn/points/419558/ilz8d7v5b_1710646952734.jpg?plan=h160",
+      "geo": [
+        35.6963,
+        139.801
+      ]
+    },
+    {
+      "id": "ilz8d7vhn",
+      "name": "南割下水通り/ヒハク石鹸本社",
+      "image": "https://image.anitabi.cn/points/419558/ilz8d7vhn_1710646320905.jpg?plan=h160",
+      "geo": [
+        35.6972,
+        139.8066
+      ]
+    },
+    {
+      "id": "ilz8d7uz9",
+      "name": "駒形高校（外形）",
+      "image": "https://image.anitabi.cn/points/419558/ilz8d7uz9_1710646142526.jpg?plan=h160",
+      "geo": [
+        35.7253,
+        139.8176
+      ]
+    },
+    {
+      "id": "ilz8d7v1g",
+      "name": "錦糸堀公園",
+      "image": "https://image.anitabi.cn/points/419558/ilz8d7v1g_1710646165450.jpg?plan=h160",
+      "geo": [
+        35.6945,
+        139.8162
+      ]
+    },
+    {
+      "id": "ilz8d7v7b",
+      "name": "旧安田庭園",
+      "image": "https://image.anitabi.cn/points/419558/ilz8d7v7b_1710646561973.jpg?plan=h160",
+      "geo": [
+        35.6983,
+        139.7937
+      ]
+    }
+  ],
+  "pointsLength": 16,
+  "imagesLength": 14,
+  "local_id": 851
+}

@@ -1,0 +1,34 @@
+{
+  "id": 407515,
+  "cn": "名侦探柯南 黑铁的鱼影",
+  "title": "名探偵コナン 黒鉄の魚影",
+  "cover": "https://image.xinu.ink/pic/data/837/images/407515.jpg",
+  "color": "#635547",
+  "modified": 1726493574832,
+  "litePoints": [
+    {
+      "id": "l8kpn2v24",
+      "cn": "铁桥",
+      "name": "Eiserner Steg",
+      "image": "https://image.anitabi.cn/user/0/bangumi/899/points/l8kpn2v24-1718058563335.jpg?plan=h160",
+      "s": 42,
+      "geo": [
+        50.107,
+        8.6822
+      ]
+    },
+    {
+      "id": "o86jvgtxn",
+      "cn": "LidoPark度假村​八丈岛",
+      "name": "リード​パーク​リゾート\n八丈島",
+      "image": "https://image.anitabi.cn/user/0/bangumi/407515/points/o86jvgtxn-1726491188174.jpg?plan=h160",
+      "geo": [
+        33.1428,
+        139.7883
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 837
+}

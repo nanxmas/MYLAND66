@@ -1,0 +1,134 @@
+{
+  "id": 404480,
+  "cn": "LoveLive! Superstar!! 第三季",
+  "title": "ラブライブ！スーパースター!! 3期",
+  "city": "涩谷区",
+  "cover": "https://image.xinu.ink/pic/data/830/images/404480_OokoZ.jpg",
+  "color": "#4849a3",
+  "cp": "2024 プロジェクトラブライブ…",
+  "geo": [
+    35.66810931803394,
+    139.70965420781818
+  ],
+  "zoom": 13.12,
+  "modified": 1742409271557,
+  "litePoints": [
+    {
+      "id": "pr40fu8q1",
+      "name": "代々木公園の池",
+      "image": "https://image.anitabi.cn/points/404480/pr40fu8q1_1730795563997.jpg?plan=h160",
+      "ep": 1,
+      "s": 871,
+      "geo": [
+        35.6703,
+        139.6953
+      ]
+    },
+    {
+      "id": "pr42uy9cd",
+      "name": "野外音楽堂",
+      "image": "https://image.anitabi.cn/points/404480/pr42uy9cd_1730795710837.jpg?plan=h160",
+      "ep": 1,
+      "s": 1018,
+      "geo": [
+        35.6677,
+        139.6971
+      ]
+    },
+    {
+      "id": "pr3v553z0",
+      "name": "コロンビアスポーツウェア原宿店前",
+      "image": "https://image.anitabi.cn/points/404480/pr3v553z0_1730795241678.jpg?plan=h160",
+      "ep": 1,
+      "s": 1050,
+      "geo": [
+        35.6665,
+        139.7059
+      ]
+    },
+    {
+      "id": "pr728k9zs",
+      "name": "フォンテーヌ​原宿​ビル",
+      "image": "https://image.anitabi.cn/points/404480/pr728k9zs_1730802202347.jpg?plan=h160",
+      "ep": 2,
+      "s": 655,
+      "geo": [
+        35.67,
+        139.7052
+      ]
+    },
+    {
+      "id": "pr76oi7p4",
+      "cn": "鸠森八幡神社",
+      "name": "鳩森八幡神社",
+      "image": "https://image.anitabi.cn/points/404480/pr76oi7p4_1730802482525.jpg?plan=h160",
+      "ep": 2,
+      "s": 958,
+      "geo": [
+        35.6777,
+        139.7094
+      ]
+    },
+    {
+      "id": "pr7fp6u7k",
+      "cn": "鸠森八幡神社 狛犬",
+      "name": "鳩森八幡神社",
+      "image": "https://image.anitabi.cn/points/404480/pr7fp6u7k_1730803010852.jpg?plan=h160",
+      "ep": 3,
+      "s": 498,
+      "geo": [
+        35.6778,
+        139.7096
+      ]
+    },
+    {
+      "id": "pr73kyeq6",
+      "name": "代々木​競技場後",
+      "image": "https://image.anitabi.cn/points/404480/pr73kyeq6_1730802335149.jpg?plan=h160",
+      "ep": 2,
+      "s": 990,
+      "geo": [
+        35.6676,
+        139.6976
+      ]
+    },
+    {
+      "id": "pr79sf23j",
+      "cn": "表参道Hills",
+      "name": "表参道ヒルズ",
+      "image": "https://image.anitabi.cn/points/404480/pr79sf23j_1730802663321.jpg?plan=h160",
+      "ep": 2,
+      "s": 1003,
+      "geo": [
+        35.6672,
+        139.7085
+      ]
+    },
+    {
+      "id": "pr6zbm0bd",
+      "name": "旬喫茶パンエス",
+      "image": "https://image.anitabi.cn/points/404480/pr6zbm0bd_1730802080568.jpg?plan=h160",
+      "ep": 3,
+      "s": 409,
+      "geo": [
+        35.6672,
+        139.7039
+      ]
+    },
+    {
+      "id": "pp455610a",
+      "cn": "牛久站东口",
+      "name": "牛久駅東口",
+      "image": "https://image.anitabi.cn/points/404480/pp455610a_1730639141965.jpg?plan=h160",
+      "ep": 4,
+      "s": 535,
+      "geo": [
+        35.9754,
+        140.1417
+      ]
+    }
+  ],
+  "pointsLength": 59,
+  "imagesLength": 59,
+  "local_id": 830
+}

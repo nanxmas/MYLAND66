@@ -1,0 +1,139 @@
+{
+  "id": 430699,
+  "cn": "金牌得主",
+  "title": "メダリスト",
+  "city": "名古屋市",
+  "cover": "https://image.xinu.ink/pic/data/869/images/430699_hsj90.jpg",
+  "color": "#66e0ff",
+  "cp": "メダリスト",
+  "geo": [
+    35.13696685406492,
+    136.9027840342705
+  ],
+  "zoom": 12.131,
+  "modified": 1742409189096,
+  "litePoints": [
+    {
+      "id": "rlp0q609v",
+      "cn": "大须滑冰场",
+      "name": "大須スケートリンク",
+      "image": "https://image.anitabi.cn/points/430699/rlp0q609v_1736013330165.jpg?plan=h160",
+      "ep": 1,
+      "s": 92,
+      "geo": [
+        35.1574,
+        136.8989
+      ]
+    },
+    {
+      "id": "rlopne04d",
+      "cn": "大须观音",
+      "name": "大須観音",
+      "image": "https://image.anitabi.cn/points/430699/rlopne04d_1736012648400.jpg?plan=h160",
+      "ep": 1,
+      "s": 248,
+      "geo": [
+        35.1595,
+        136.8992
+      ]
+    },
+    {
+      "id": "si49fundu",
+      "cn": "大须溜冰场",
+      "name": "大須スケートリンク",
+      "image": "https://image.anitabi.cn/points/430699/si49fundu_1738554147972.jpg?plan=h160",
+      "ep": 2,
+      "s": 4,
+      "geo": [
+        35.1577,
+        136.8987
+      ]
+    },
+    {
+      "id": "si485c30w",
+      "name": "港区役所駅",
+      "image": "https://image.anitabi.cn/points/430699/si485c30w_1738554069920.jpg?plan=h160",
+      "ep": 2,
+      "s": 260,
+      "geo": [
+        35.1059,
+        136.8846
+      ]
+    },
+    {
+      "id": "si4ct4er5",
+      "cn": "邦和​みなと滑冰场 入口",
+      "name": "邦和みなと スポーツ＆カルチャー",
+      "image": "https://image.anitabi.cn/points/430699/si4ct4er5_1738554389130.jpg?plan=h160",
+      "ep": 2,
+      "s": 273,
+      "geo": [
+        35.1062,
+        136.8819
+      ]
+    },
+    {
+      "id": "si4mxy2mn",
+      "cn": "邦和​みなと滑冰场 走廊",
+      "name": "邦和みなと スポーツ＆カルチャー",
+      "image": "https://image.anitabi.cn/points/430699/si4mxy2mn_1738554964983.jpg?plan=h160",
+      "ep": 2,
+      "s": 280,
+      "geo": [
+        35.1064,
+        136.8817
+      ]
+    },
+    {
+      "id": "si4rjsomf",
+      "cn": "邦和​みなと滑冰场 冰场",
+      "name": "邦和みなと スポーツ＆カルチャー",
+      "image": "https://image.anitabi.cn/points/430699/si4rjsomf_1738555243474.jpg?plan=h160",
+      "ep": 2,
+      "s": 333,
+      "geo": [
+        35.1067,
+        136.882
+      ]
+    },
+    {
+      "id": "si4sml3it",
+      "cn": "邦和​みなと滑冰场 中庭",
+      "name": "邦和みなと スポーツ＆カルチャー",
+      "image": "https://image.anitabi.cn/points/430699/si4sml3it_1738555316729.jpg?plan=h160",
+      "ep": 2,
+      "s": 387,
+      "geo": [
+        35.1067,
+        136.8818
+      ]
+    },
+    {
+      "id": "si4xrr393",
+      "cn": "邦和​みなと滑冰场 廊道",
+      "name": "邦和みなと スポーツ＆カルチャー",
+      "image": "https://image.anitabi.cn/points/430699/si4xrr393_1738555619038.jpg?plan=h160",
+      "ep": 2,
+      "s": 753,
+      "geo": [
+        35.1066,
+        136.882
+      ]
+    },
+    {
+      "id": "si507nm6j",
+      "cn": "大须滑冰场 更衣室",
+      "name": "大須スケートリンク",
+      "image": "https://image.anitabi.cn/points/430699/si507nm6j_1738555782922.jpg?plan=h160",
+      "ep": 2,
+      "s": 858,
+      "geo": [
+        35.1575,
+        136.8988
+      ]
+    }
+  ],
+  "pointsLength": 107,
+  "imagesLength": 107,
+  "local_id": 869
+}

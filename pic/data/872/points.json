@@ -1,0 +1,486 @@
+[
+  {
+    "id": "681d7a9c",
+    "name": "金沢駅前",
+    "image": "https://image.xinu.ink/pic/data/872/images/681d7a9c_1720169691354.jpg",
+    "geo": [
+      36.5778,
+      136.6491
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.577888%2C136.649194&z=17"
+  },
+  {
+    "id": "b616b964",
+    "name": "武蔵南交差点",
+    "image": "https://image.xinu.ink/pic/data/872/images/b616b964_1720169691948.jpg",
+    "geo": [
+      36.5713,
+      136.6551
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.571391%2C136.655134&z=17"
+  },
+  {
+    "id": "15117538",
+    "name": "近江町市場①",
+    "image": "https://image.xinu.ink/pic/data/872/images/15117538_1720169692559.jpg",
+    "geo": [
+      36.5713,
+      136.6562
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.571351%2C136.656231&z=17"
+  },
+  {
+    "id": "10ec7ecf",
+    "name": "近江町市場②",
+    "image": "https://image.xinu.ink/pic/data/872/images/10ec7ecf_1720169693007.jpg",
+    "geo": [
+      36.5711,
+      136.6565
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.571136%2C136.656582&z=17"
+  },
+  {
+    "id": "df284684",
+    "name": "金沢おでん いっぷくや",
+    "image": "https://image.xinu.ink/pic/data/872/images/df284684_1720169693762.jpg",
+    "geo": [
+      36.5711,
+      136.657
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.571145%2C136.657071&z=17"
+  },
+  {
+    "id": "05b76b89",
+    "name": "近江町海鮮丼家ひら井 いちば館店",
+    "image": "https://image.xinu.ink/pic/data/872/images/05b76b89_1720169694310.jpg",
+    "geo": [
+      36.5715,
+      136.6557
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.571528%2C136.655793&z=17"
+  },
+  {
+    "id": "aeb4215e",
+    "name": "近江町市場　買い物通り口",
+    "image": "https://image.xinu.ink/pic/data/872/images/aeb4215e_1720169694722.jpg",
+    "geo": [
+      36.5709,
+      136.6571
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.570988%2C136.657179&z=17"
+  },
+  {
+    "id": "1cf6118e",
+    "name": "香林坊",
+    "image": "https://image.xinu.ink/pic/data/872/images/1cf6118e_1720169695379.jpg",
+    "geo": [
+      36.5639,
+      136.6537
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.563938%2C136.653788&z=17"
+  },
+  {
+    "id": "ff223319",
+    "name": "長町武家屋敷跡",
+    "image": "https://image.xinu.ink/pic/data/872/images/ff223319_1720169696278.jpg",
+    "geo": [
+      36.5637,
+      136.6501
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.563757%2C136.650143&z=17"
+  },
+  {
+    "id": "144bb9c7",
+    "name": "竪町通り",
+    "image": "https://image.xinu.ink/pic/data/872/images/144bb9c7_1720169696628.jpg",
+    "geo": [
+      36.5608,
+      136.6535
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.560862%2C136.653512&z=17"
+  },
+  {
+    "id": "68b817ed",
+    "name": "犀川沿い",
+    "image": "https://image.xinu.ink/pic/data/872/images/68b817ed_1720169697097.jpg",
+    "geo": [
+      36.5569,
+      136.6516
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.556927%2C136.651671&z=17"
+  },
+  {
+    "id": "68911acc",
+    "name": "茜やアーカイブギャラリー",
+    "image": "https://image.xinu.ink/pic/data/872/images/68911acc_1720169697613.jpg",
+    "geo": [
+      36.5593,
+      136.6557
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.559375%2C136.655725&z=17"
+  },
+  {
+    "id": "59de83fd",
+    "name": "金沢城公園",
+    "image": "https://image.xinu.ink/pic/data/872/images/59de83fd_1720169698135.jpg",
+    "geo": [
+      36.5655,
+      136.6601
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.565561%2C136.660172&z=17"
+  },
+  {
+    "id": "a099eb83",
+    "name": "玉泉院丸庭園",
+    "image": "https://image.xinu.ink/pic/data/872/images/a099eb83_1720169699054.jpg",
+    "geo": [
+      36.5655,
+      136.6568
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.565565%2C136.656848&z=17"
+  },
+  {
+    "id": "ad0eedb1",
+    "name": "石川橋",
+    "image": "https://image.xinu.ink/pic/data/872/images/ad0eedb1_1720169700007.jpg",
+    "geo": [
+      36.565,
+      136.6618
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.565027%2C136.661841&z=17"
+  },
+  {
+    "id": "d390f9f8",
+    "name": "兼六園",
+    "image": "https://image.xinu.ink/pic/data/872/images/d390f9f8_1720169700525.jpg",
+    "geo": [
+      36.5632,
+      136.6627
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.563287%2C136.66275&z=17"
+  },
+  {
+    "id": "e8b82fcf",
+    "name": "兼六園②",
+    "image": "https://image.xinu.ink/pic/data/872/images/e8b82fcf_1720169701188.jpg",
+    "geo": [
+      36.5631,
+      136.663
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.563121%2C136.663065&z=17"
+  },
+  {
+    "id": "54216dc0",
+    "name": "石川県立歴史博物館",
+    "image": "https://image.xinu.ink/pic/data/872/images/54216dc0_1720169701795.jpg",
+    "geo": [
+      36.5587,
+      136.6627
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.558729%2C136.662777&z=17"
+  },
+  {
+    "id": "f1aa4d09",
+    "name": "金沢蓄音器館",
+    "image": "https://image.xinu.ink/pic/data/872/images/f1aa4d09_1720169702130.jpg",
+    "geo": [
+      36.5712,
+      136.6626
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.571257%2C136.662677&z=17"
+  },
+  {
+    "id": "aa87f5e2",
+    "name": "主計町茶屋街",
+    "image": "https://image.xinu.ink/pic/data/872/images/aa87f5e2_1720169702490.jpg",
+    "geo": [
+      36.5721,
+      136.6639
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.572106%2C136.663943&z=17"
+  },
+  {
+    "id": "153aa1cf",
+    "name": "浅野川大橋",
+    "image": "https://image.xinu.ink/pic/data/872/images/153aa1cf_1720169702880.jpg",
+    "geo": [
+      36.572,
+      136.6645
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.57208%2C136.664541&z=17"
+  },
+  {
+    "id": "1ef35653",
+    "name": "浅野川沿い",
+    "image": "https://image.xinu.ink/pic/data/872/images/1ef35653_1720169703217.jpg",
+    "geo": [
+      36.5717,
+      136.6653
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.571758%2C136.665374&z=17"
+  },
+  {
+    "id": "a7ac0fa4",
+    "name": "ひがし茶屋街",
+    "image": "https://image.xinu.ink/pic/data/872/images/a7ac0fa4_1720169703582.jpg",
+    "geo": [
+      36.5725,
+      136.6664
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.572597%2C136.666445&z=17"
+  },
+  {
+    "id": "e4dddf4b",
+    "name": "ひがし茶屋街②",
+    "image": "https://image.xinu.ink/pic/data/872/images/e4dddf4b_1720169704417.jpg",
+    "geo": [
+      36.5725,
+      136.6668
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.572517%2C136.666811&z=17"
+  },
+  {
+    "id": "efde9627",
+    "name": "ひがし茶屋街③",
+    "image": "https://image.xinu.ink/pic/data/872/images/efde9627_1720169705040.jpg",
+    "geo": [
+      36.5727,
+      136.6677
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.572741%2C136.667736&z=17"
+  },
+  {
+    "id": "059e07e1",
+    "name": "小坂神社",
+    "image": "https://image.xinu.ink/pic/data/872/images/059e07e1_1720169705493.jpg",
+    "geo": [
+      36.5787,
+      136.6731
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.578734%2C136.673105&z=17"
+  },
+  {
+    "id": "6bbca91e",
+    "name": "石川県立図書館",
+    "image": "https://image.xinu.ink/pic/data/872/images/6bbca91e_1720169706301.jpg",
+    "geo": [
+      36.5486,
+      136.68
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.548693%2C136.680068&z=17"
+  },
+  {
+    "id": "975eb4c3",
+    "name": "青少年総合研修センター前",
+    "image": "https://image.xinu.ink/pic/data/872/images/975eb4c3_1720169707182.jpg",
+    "geo": [
+      36.5653,
+      136.6762
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.565313%2C136.676208&z=17"
+  },
+  {
+    "id": "98517344",
+    "name": "卯辰山公園 見晴らし台",
+    "image": "https://image.xinu.ink/pic/data/872/images/98517344_1720169708112.jpg",
+    "geo": [
+      36.5677,
+      136.6773
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.567782%2C136.677308&z=17"
+  },
+  {
+    "id": "b0cd2d34",
+    "name": "健民スポレクプラザ",
+    "image": "https://image.xinu.ink/pic/data/872/images/b0cd2d34_1720169709161.jpg",
+    "geo": [
+      36.5548,
+      136.6272
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.55485%2C136.62723&z=17"
+  },
+  {
+    "id": "8c1020e4",
+    "name": "アピナ野々市バッティングスタジアム",
+    "image": "https://image.xinu.ink/pic/data/872/images/8c1020e4_1720169710254.jpg",
+    "geo": [
+      36.5366,
+      136.6111
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.53665%2C136.61114&z=17"
+  },
+  {
+    "id": "befd3f11",
+    "name": "金沢港クルーズターミナル",
+    "image": "https://image.xinu.ink/pic/data/872/images/befd3f11_1720169710788.jpg",
+    "geo": [
+      36.6079,
+      136.6147
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.607937%2C136.614718&z=17"
+  },
+  {
+    "id": "d7f55b68",
+    "name": "大野からくり記念館",
+    "image": "https://image.xinu.ink/pic/data/872/images/d7f55b68_1720169711524.jpg",
+    "geo": [
+      36.619,
+      136.6044
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.619077%2C136.604471&z=17"
+  },
+  {
+    "id": "a86129fb",
+    "name": "徳光海水浴場",
+    "image": "https://image.xinu.ink/pic/data/872/images/a86129fb_1720169711895.jpg",
+    "geo": [
+      36.5357,
+      136.5268
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.535713%2C136.526842&z=17"
+  },
+  {
+    "id": "fdb4d91f",
+    "name": "小松空港",
+    "image": "https://image.xinu.ink/pic/data/872/images/fdb4d91f_1720169712328.jpg",
+    "geo": [
+      36.4026,
+      136.4137
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.402671%2C136.413745&z=17"
+  },
+  {
+    "id": "77dbcc96",
+    "name": "ゆのくに天祥（山代温泉）",
+    "image": "https://image.xinu.ink/pic/data/872/images/77dbcc96_1720169712766.jpg",
+    "geo": [
+      36.2937,
+      136.3639
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.293749%2C136.363985&z=17"
+  },
+  {
+    "id": "c3fc56c2",
+    "name": "山中温泉 こおろぎ橋",
+    "image": "https://image.xinu.ink/pic/data/872/images/c3fc56c2_1720169713442.jpg",
+    "geo": [
+      36.241,
+      136.3716
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.241015%2C136.371622&z=17"
+  },
+  {
+    "id": "4011f280",
+    "name": "かなざわはこまち入口",
+    "image": "https://image.xinu.ink/pic/data/872/images/4011f280_1720169713902.jpg",
+    "geo": [
+      36.5722,
+      136.6562
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.572224%2C136.656285&z=17"
+  },
+  {
+    "id": "4b612aed",
+    "name": "兼六園菊桜前",
+    "image": "https://image.xinu.ink/pic/data/872/images/4b612aed_1720169714365.jpg",
+    "geo": [
+      36.562,
+      136.6634
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.562097%2C136.663428&z=17"
+  },
+  {
+    "id": "f81ea059",
+    "name": "金沢城公園新丸広場",
+    "image": "https://image.xinu.ink/pic/data/872/images/f81ea059_1720169714789.jpg",
+    "geo": [
+      36.5672,
+      136.6604
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.56724%2C136.660429&z=17"
+  },
+  {
+    "id": "16f76dcb",
+    "name": "まめだ簡易グラウンド前",
+    "image": "https://image.xinu.ink/pic/data/872/images/16f76dcb_1720169715207.jpg",
+    "geo": [
+      36.5703,
+      136.6355
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.57031%2C136.635546&z=17"
+  },
+  {
+    "id": "220dbc89",
+    "name": "奥卯辰山健民公園さくらひろば",
+    "image": "https://image.xinu.ink/pic/data/872/images/220dbc89_1720169716028.jpg",
+    "geo": [
+      36.5592,
+      136.7016
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.559255%2C136.701667&z=17"
+  },
+  {
+    "id": "c7df43fc",
+    "name": "徳光海水浴場「LOVE」モニュメント",
+    "image": "https://image.xinu.ink/pic/data/872/images/c7df43fc_1720169716714.jpg",
+    "geo": [
+      36.5359,
+      136.5264
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14985OTPdKZ5zspTMdz0ad35TGOn1sV0&ll=36.535967%2C136.526412&z=17"
+  },
+  {
+    "id": "tpsthybng",
+    "cn": "主计町茶屋街",
+    "name": "主計町茶屋街",
+    "image": "https://image.xinu.ink/pic/data/872/images/tpsthybng-1741977326622.jpg",
+    "ep": null,
+    "geo": [
+      36.572,
+      136.6639
+    ]
+  }
+]

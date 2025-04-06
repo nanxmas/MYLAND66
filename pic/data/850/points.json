@@ -1,0 +1,158 @@
+[
+  {
+    "id": "lrl7idlxe",
+    "name": "秋葉原駅総武線ホーム",
+    "image": "https://image.xinu.ink/pic/data/850/images/lrl7idlxe_1719550021721.jpg",
+    "ep": 1,
+    "s": 498,
+    "geo": [
+      35.6983,
+      139.7739
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lrlfcceva",
+    "name": "総武線鉄道橋前",
+    "image": "https://image.xinu.ink/pic/data/850/images/lrlfcceva_1719550022517.jpg",
+    "ep": 1,
+    "s": 567,
+    "geo": [
+      35.6987,
+      139.7713
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ji9dug1bw",
+    "cn": "丸通电子（秋叶原本店）",
+    "name": "マルツ秋葉原営業所（秋葉原本店）",
+    "image": "https://image.xinu.ink/pic/data/850/images/ji9dug1bw-1713177112339.jpg",
+    "ep": 2,
+    "s": 755,
+    "geo": [
+      35.7009,
+      139.7708
+    ]
+  },
+  {
+    "id": "lrlc4w4it",
+    "name": "秋葉原中央通り交差点",
+    "image": "https://image.xinu.ink/pic/data/850/images/lrlc4w4it_1719550599397.jpg",
+    "ep": 6,
+    "s": 398,
+    "geo": [
+      35.6996,
+      139.7713
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lrm1kb82v",
+    "name": "AKIBA​カルチャーズ​ZONE前",
+    "image": "https://image.xinu.ink/pic/data/850/images/lrm1kb82v_1719550600725.jpg",
+    "ep": 6,
+    "s": 907,
+    "geo": [
+      35.6998,
+      139.7703
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lrliq7lfe",
+    "name": "荻窪駅前入口交差点",
+    "image": "https://image.xinu.ink/pic/data/850/images/lrliq7lfe_1719549955787.jpg",
+    "ep": "ED",
+    "s": 15,
+    "geo": [
+      35.7051,
+      139.6227
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lrlhsf7wd",
+    "name": "荻窪中華そば春木屋前",
+    "image": "https://image.xinu.ink/pic/data/850/images/lrlhsf7wd_1719549953183.jpg",
+    "ep": "ED",
+    "s": 18,
+    "geo": [
+      35.705,
+      139.6224
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lrlmghliv",
+    "name": "友美堂付近階段",
+    "image": "https://image.xinu.ink/pic/data/850/images/lrlmghliv_1719549973428.jpg",
+    "ep": "ED",
+    "s": 23,
+    "geo": [
+      35.7048,
+      139.6232
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lrlr5owep",
+    "name": "荻窪駅前青梅街道歩道橋",
+    "image": "https://image.xinu.ink/pic/data/850/images/lrlr5owep_1719549944791.jpg",
+    "ep": "ED",
+    "s": 21,
+    "geo": [
+      35.7054,
+      139.6198
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lrlonyyyt",
+    "name": "ラ・コビエ荻窪横の階段",
+    "image": "https://image.xinu.ink/pic/data/850/images/lrlonyyyt_1719549985899.jpg",
+    "ep": "ED",
+    "s": 26,
+    "geo": [
+      35.7039,
+      139.6252
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lrljy4v34",
+    "name": "コインパーク ラトラーム荻窪前の自販機",
+    "image": "https://image.xinu.ink/pic/data/850/images/lrljy4v34_1719549963514.jpg",
+    "ep": "ED",
+    "s": 34,
+    "geo": [
+      35.7063,
+      139.6229
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lrm8hsyd2",
+    "cn": "SHARE'S LAUNDRY 荻窪店",
+    "name": "シェアーズランドリー 荻窪店",
+    "image": "https://image.xinu.ink/pic/data/850/images/lrm8hsyd2_1719550864747.jpg",
+    "ep": "ED",
+    "s": 36,
+    "geo": [
+      35.7081,
+      139.616
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  }
+]

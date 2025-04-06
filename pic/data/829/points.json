@@ -1,0 +1,68 @@
+[
+  {
+    "id": "g7g3jh2zc",
+    "name": "ドリームスカイ",
+    "image": "https://image.xinu.ink/pic/data/829/images/g7g3jh2zc-1703864989219.jpg",
+    "ep": 4,
+    "s": 360,
+    "geo": [
+      35.0097,
+      138.4941
+    ]
+  },
+  {
+    "id": "g7gcn00ty",
+    "name": "清水マリンパーク",
+    "image": "https://image.xinu.ink/pic/data/829/images/g7gcn00ty-1703865143751.jpg",
+    "ep": 4,
+    "s": 370,
+    "geo": [
+      35.01,
+      138.4944
+    ]
+  },
+  {
+    "id": "g7gepfjvi",
+    "name": "エスパルスドリームプラザ",
+    "image": "https://image.xinu.ink/pic/data/829/images/g7gepfjvi-1703865285208.jpg",
+    "ep": 4,
+    "s": 500,
+    "geo": [
+      35.0102,
+      138.4932
+    ]
+  },
+  {
+    "id": "g7gnc0dxc",
+    "name": "三保松原海岸",
+    "image": "https://image.xinu.ink/pic/data/829/images/g7gnc0dxc-1703865832833.jpg",
+    "ep": 4,
+    "s": 854,
+    "geo": [
+      35.0106,
+      138.5319
+    ]
+  },
+  {
+    "id": "g7hcuap4n",
+    "cn": "JR东静冈站北口",
+    "name": "東静岡駅北口",
+    "image": "https://image.xinu.ink/pic/data/829/images/g7hcuap4n-1703867419798.jpg",
+    "ep": 11,
+    "s": 120,
+    "geo": [
+      34.9863,
+      138.4129
+    ]
+  },
+  {
+    "id": "g7gid31a9",
+    "name": "いちご海岸通り",
+    "image": "https://image.xinu.ink/pic/data/829/images/g7gid31a9-1703865653879.jpg",
+    "ep": null,
+    "geo": [
+      34.9544,
+      138.4524
+    ]
+  }
+]

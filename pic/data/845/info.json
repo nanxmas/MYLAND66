@@ -1,0 +1,130 @@
+{
+  "id": 410346,
+  "cn": "2.5次元的诱惑",
+  "title": "2.5次元の誘惑",
+  "city": "大田区",
+  "cover": "https://image.xinu.ink/pic/data/845/images/410346.jpg",
+  "color": "#eadfbf",
+  "cp": "リリサ",
+  "geo": [
+    35.55449073394716,
+    139.72457108821084
+  ],
+  "zoom": 11.169,
+  "modified": 1727532502225,
+  "litePoints": [
+    {
+      "id": "o0hqo4uga",
+      "name": "R03 國際展示場站",
+      "image": "https://image.anitabi.cn/user/0/bangumi/410346/points/o0hqo4uga-1725888543301.jpg?plan=h160",
+      "ep": 1,
+      "s": 1,
+      "geo": [
+        35.6343,
+        139.7916
+      ]
+    },
+    {
+      "id": "o1lorsewn",
+      "name": "新丸子駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/410346/points/o1lorsewn-1725975546027.jpg?plan=h160",
+      "ep": 4,
+      "s": 222,
+      "geo": [
+        35.5806,
+        139.6619
+      ]
+    },
+    {
+      "id": "o1m9wq8rk",
+      "name": "東急電鉄蒲田駅南口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/410346/points/o1m9wq8rk-1725976794028.jpg?plan=h160",
+      "ep": 4,
+      "s": 402,
+      "geo": [
+        35.5614,
+        139.715
+      ]
+    },
+    {
+      "id": "o1mdfzmmp",
+      "name": "シルクハット蒲田西口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/410346/points/o1mdfzmmp-1725977040437.jpg?plan=h160",
+      "ep": 4,
+      "s": 414,
+      "geo": [
+        35.5629,
+        139.7157
+      ]
+    },
+    {
+      "id": "o1miqqun0",
+      "name": "カラオケ ビッグエコー蒲田東口店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/410346/points/o1miqqun0-1725977275112.jpg?plan=h160",
+      "ep": 4,
+      "s": 423,
+      "geo": [
+        35.5625,
+        139.7171
+      ]
+    },
+    {
+      "id": "o1mlf9qxm",
+      "name": "快活CLUB 蒲田駅西口店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/410346/points/o1mlf9qxm-1725977508946.jpg?plan=h160",
+      "ep": 4,
+      "s": 439,
+      "geo": [
+        35.5624,
+        139.7145
+      ]
+    },
+    {
+      "id": "o1o2oc36d",
+      "name": "京急蒲田駅出口（西口）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/410346/points/o1o2oc36d-1725980732441.jpg?plan=h160",
+      "ep": 5,
+      "s": 975,
+      "geo": [
+        35.5605,
+        139.7235
+      ]
+    },
+    {
+      "id": "o1nxc8mr1",
+      "name": "京急蒲田駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/410346/points/o1nxc8mr1-1725980363276.jpg?plan=h160",
+      "ep": 5,
+      "s": 963,
+      "geo": [
+        35.5606,
+        139.7237
+      ]
+    },
+    {
+      "id": "oebe9tuuv",
+      "name": "東京ビッグサイト",
+      "image": "https://image.anitabi.cn/user/0/bangumi/410346/points/oebe9tuuv-1726971802196.jpg?plan=h160",
+      "ep": 12,
+      "s": 1231,
+      "geo": [
+        35.6305,
+        139.7934
+      ]
+    },
+    {
+      "id": "oldgboryn",
+      "name": "ユザワヤ 蒲田店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/410346/points/oldgboryn-1727524904787.jpg?plan=h160",
+      "ep": 13,
+      "s": 9,
+      "geo": [
+        35.5606,
+        139.7148
+      ]
+    }
+  ],
+  "pointsLength": 11,
+  "imagesLength": 11,
+  "local_id": 845
+}

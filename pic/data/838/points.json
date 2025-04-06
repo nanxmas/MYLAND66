@@ -1,0 +1,227 @@
+[
+  {
+    "id": "cd1dc10f",
+    "name": "新宿西口-橋上",
+    "image": "https://image.xinu.ink/pic/data/838/images/cd1dc10f_1723438551833.jpg",
+    "s": 6,
+    "geo": [
+      35.6888,
+      139.6996
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-T9sFUSFTFL42ha8krR2AsMmedtMRmPT&ll=35.688872%2C139.699664&z=17"
+  },
+  {
+    "id": "83fe930f",
+    "name": "西新宿1丁目",
+    "image": "https://image.xinu.ink/pic/data/838/images/83fe930f_1723438553746.jpg",
+    "s": 11,
+    "geo": [
+      35.6888,
+      139.6994
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-T9sFUSFTFL42ha8krR2AsMmedtMRmPT&ll=35.688815%2C139.699499&z=17"
+  },
+  {
+    "id": "c2826982",
+    "name": "NEWoMan新宿",
+    "image": "https://image.xinu.ink/pic/data/838/images/c2826982_1723438555543.jpg",
+    "s": 22,
+    "geo": [
+      35.6889,
+      139.6998
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-T9sFUSFTFL42ha8krR2AsMmedtMRmPT&ll=35.688945%2C139.699846&z=17"
+  },
+  {
+    "id": "bae5f52e",
+    "name": "二番街通り nibangai ave.",
+    "image": "https://image.xinu.ink/pic/data/838/images/bae5f52e_1723438558031.jpg",
+    "s": 41,
+    "geo": [
+      35.6887,
+      139.6975
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-T9sFUSFTFL42ha8krR2AsMmedtMRmPT&ll=35.688763%2C139.697552&z=17"
+  },
+  {
+    "id": "d8aca960",
+    "name": "新宿三井ビルディング",
+    "image": "https://image.xinu.ink/pic/data/838/images/d8aca960_1723438561421.jpg",
+    "s": 116,
+    "geo": [
+      35.6909,
+      139.6933
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-T9sFUSFTFL42ha8krR2AsMmedtMRmPT&ll=35.6909%2C139.693313&z=17"
+  },
+  {
+    "id": "aff6ae78",
+    "name": "西新宿-公園通り",
+    "image": "https://image.xinu.ink/pic/data/838/images/aff6ae78_1723438566531.jpg",
+    "s": 22,
+    "geo": [
+      35.6935,
+      139.6901
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-T9sFUSFTFL42ha8krR2AsMmedtMRmPT&ll=35.693545%2C139.690107&z=17"
+  },
+  {
+    "id": "96db7718",
+    "name": "新宿グランドタワー エレベーター",
+    "image": "https://image.xinu.ink/pic/data/838/images/96db7718_1723438569705.jpg",
+    "s": 96,
+    "geo": [
+      35.696,
+      139.6903
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-T9sFUSFTFL42ha8krR2AsMmedtMRmPT&ll=35.696064%2C139.690394&z=17"
+  },
+  {
+    "id": "430b580e",
+    "name": "新宿グランドタワー G/F",
+    "image": "https://image.xinu.ink/pic/data/838/images/430b580e_1723438571855.jpg",
+    "s": 193,
+    "geo": [
+      35.6961,
+      139.6903
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-T9sFUSFTFL42ha8krR2AsMmedtMRmPT&ll=35.696109%2C139.690353&z=17"
+  },
+  {
+    "id": "1325369c",
+    "name": "新宿グランドタワー 30/F",
+    "image": "https://image.xinu.ink/pic/data/838/images/1325369c_1723438574451.jpg",
+    "s": 190,
+    "geo": [
+      35.696,
+      139.6903
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-T9sFUSFTFL42ha8krR2AsMmedtMRmPT&ll=35.696042%2C139.690339&z=17"
+  },
+  {
+    "id": "fc454c54",
+    "name": "日比谷駅",
+    "image": "https://image.xinu.ink/pic/data/838/images/fc454c54_1723438577236.jpg",
+    "s": 46,
+    "geo": [
+      35.6747,
+      139.7593
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-T9sFUSFTFL42ha8krR2AsMmedtMRmPT&ll=35.674783%2C139.759356&z=17"
+  },
+  {
+    "id": "022a46e2",
+    "name": "走る 1 - 日本生命丸の内ガーデンタワー",
+    "image": "https://image.xinu.ink/pic/data/838/images/022a46e2_1723438579498.jpg",
+    "geo": [
+      35.6845,
+      139.7627
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-T9sFUSFTFL42ha8krR2AsMmedtMRmPT&ll=35.684544%2C139.762753&z=17"
+  },
+  {
+    "id": "1dcbbe84",
+    "name": "走る 2",
+    "image": "https://image.xinu.ink/pic/data/838/images/1dcbbe84_1723438581361.jpg",
+    "s": 114,
+    "geo": [
+      35.6847,
+      139.7628
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-T9sFUSFTFL42ha8krR2AsMmedtMRmPT&ll=35.684761%2C139.762804&z=17"
+  },
+  {
+    "id": "537565eb",
+    "name": "丸の内テラス",
+    "image": "https://image.xinu.ink/pic/data/838/images/537565eb_1723438584881.jpg",
+    "s": 135,
+    "geo": [
+      35.6847,
+      139.7643
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-T9sFUSFTFL42ha8krR2AsMmedtMRmPT&ll=35.684717%2C139.76437&z=17"
+  },
+  {
+    "id": "b61104c7",
+    "name": "みずほ丸の内タワー",
+    "image": "https://image.xinu.ink/pic/data/838/images/b61104c7_1723438588041.jpg",
+    "s": 126,
+    "geo": [
+      35.6841,
+      139.764
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-T9sFUSFTFL42ha8krR2AsMmedtMRmPT&ll=35.684116%2C139.764083&z=17"
+  },
+  {
+    "id": "7c91df92",
+    "name": "Otemachi 1st Square",
+    "image": "https://image.xinu.ink/pic/data/838/images/7c91df92_1723438590615.jpg",
+    "s": 128,
+    "geo": [
+      35.6852,
+      139.7644
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-T9sFUSFTFL42ha8krR2AsMmedtMRmPT&ll=35.685249%2C139.764419&z=17"
+  },
+  {
+    "id": "ec6cd48e",
+    "name": "工場",
+    "image": "https://image.xinu.ink/pic/data/838/images/ec6cd48e_1723438593461.jpg",
+    "geo": [
+      35.514,
+      139.7379
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-T9sFUSFTFL42ha8krR2AsMmedtMRmPT&ll=35.514038%2C139.737975&z=17"
+  },
+  {
+    "id": "ed8527fe",
+    "name": "工場 2",
+    "image": "https://image.xinu.ink/pic/data/838/images/ed8527fe_1723438595786.jpg",
+    "geo": [
+      35.5192,
+      139.7721
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-T9sFUSFTFL42ha8krR2AsMmedtMRmPT&ll=35.519288%2C139.772126&z=17"
+  },
+  {
+    "id": "705a991e",
+    "name": "吉祥寺バッティングセンター",
+    "image": "https://image.xinu.ink/pic/data/838/images/705a991e_1723438598910.jpg",
+    "s": 30,
+    "geo": [
+      35.7065,
+      139.5805
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-T9sFUSFTFL42ha8krR2AsMmedtMRmPT&ll=35.706533%2C139.58052&z=17"
+  },
+  {
+    "id": "0acc37d8",
+    "name": "善福寺公園",
+    "image": "https://image.xinu.ink/pic/data/838/images/0acc37d8_1723438948758.jpg",
+    "s": 80,
+    "geo": [
+      35.7132,
+      139.5914
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-T9sFUSFTFL42ha8krR2AsMmedtMRmPT&ll=35.713226%2C139.591462&z=17"
+  }
+]

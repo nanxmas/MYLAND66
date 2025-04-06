@@ -1,0 +1,118 @@
+[
+  {
+    "id": "hb1l2cba3",
+    "cn": "秋田书店",
+    "name": "秋田書店",
+    "image": "https://image.xinu.ink/pic/data/822/images/hb1l2cba3-1706967711762.jpg",
+    "ep": 5,
+    "s": 920,
+    "geo": [
+      35.7003,
+      139.7491
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j4fx6i32h",
+    "cn": "洗足站",
+    "name": "洗足駅",
+    "image": "https://image.xinu.ink/pic/data/822/images/j4fx6i32h-1712092718906.jpg",
+    "ep": 8,
+    "s": 764,
+    "geo": [
+      35.6104,
+      139.6943
+    ],
+    "origin": "Anitabi@京都紫菜",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j9pztrg91",
+    "cn": "目黑不动尊",
+    "name": "目黑不動尊",
+    "image": "https://image.xinu.ink/pic/data/822/images/j9pztrg91-1717413213715.jpg",
+    "ep": 12,
+    "s": 2,
+    "geo": [
+      35.6285,
+      139.7081
+    ],
+    "origin": "Anitabi@Eureka",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mt0wbthrj",
+    "name": "目黑駅（東京メトロ南北線）",
+    "image": "https://image.xinu.ink/pic/data/822/images/mt0wbthrj-1722482214076.jpg",
+    "ep": 5,
+    "s": 1174,
+    "geo": [
+      35.6333,
+      139.7156
+    ]
+  },
+  {
+    "id": "mt1icswxj",
+    "name": "コインランドリー",
+    "image": "https://image.xinu.ink/pic/data/822/images/mt1icswxj-1722483532849.jpg",
+    "ep": 11,
+    "s": 1135,
+    "geo": [
+      35.6114,
+      139.6846
+    ]
+  },
+  {
+    "id": "mt16n0w06",
+    "name": "ガスト\n大岡山​駅​前​店​(から​好し​取扱店)",
+    "image": "https://image.xinu.ink/pic/data/822/images/mt16n0w06-1722482806722.jpg",
+    "ep": 11,
+    "s": 0,
+    "geo": [
+      35.6081,
+      139.6854
+    ]
+  },
+  {
+    "id": "j9poomvoe",
+    "cn": "全家便利店原町二丁目店",
+    "name": "ファミリー​マート\n原町​二丁目​店",
+    "image": "https://image.xinu.ink/pic/data/822/images/j9poomvoe-1722482045953.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      35.6137,
+      139.6915
+    ],
+    "origin": "Anitabi@Eureka",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j9qa6xsk7",
+    "cn": "目黑区第12中学",
+    "name": "奥沢中学",
+    "image": "https://image.xinu.ink/pic/data/822/images/j9qa6xsk7-1725113905141.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      35.6027,
+      139.6794
+    ],
+    "origin": "Anitabi@Eureka",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "jkrfpujqx",
+    "name": "忠犬ハチ公",
+    "image": "https://image.xinu.ink/pic/data/822/images/jkrfpujqx-1722482077063.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      35.659,
+      139.7005
+    ],
+    "origin": "Anitabi@Eureka",
+    "originURL": "https://anitabi.cn/"
+  }
+]

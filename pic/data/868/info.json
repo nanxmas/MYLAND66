@@ -1,0 +1,123 @@
+{
+  "id": 429644,
+  "cn": "名侦探柯南：百万美元的五棱星",
+  "title": "名探偵コナン 100万ドルの五稜星",
+  "city": "函馆市",
+  "cover": "https://image.xinu.ink/pic/data/868/images/429644.jpg",
+  "color": "#5595aa",
+  "cp": "名探偵コナン",
+  "geo": [
+    41.777119683309934,
+    140.74164682952824
+  ],
+  "zoom": 11.567,
+  "modified": 1739872007252,
+  "litePoints": [
+    {
+      "id": "ngaw7nahg",
+      "cn": "五棱郭公园",
+      "name": "五稜郭",
+      "image": "https://image.anitabi.cn/points/429644/ngaw7nahg_1724306333411.jpg?plan=h160",
+      "s": 1149,
+      "geo": [
+        41.7972,
+        140.7564
+      ]
+    },
+    {
+      "id": "ngau8q1dr",
+      "name": "函館山展望台",
+      "image": "https://image.anitabi.cn/points/429644/ngau8q1dr_1724306222823.jpg?plan=h160",
+      "geo": [
+        41.7594,
+        140.7043
+      ]
+    },
+    {
+      "id": "ngdpgowsi",
+      "cn": "五棱郭塔",
+      "name": "五稜郭タワー",
+      "image": "https://image.anitabi.cn/points/429644/ngdpgowsi_1724312454976.jpg?plan=h160",
+      "geo": [
+        41.7953,
+        140.7555
+      ]
+    },
+    {
+      "id": "ngavjtkfb",
+      "cn": "五棱郭塔眺望",
+      "name": "五稜郭タワー",
+      "image": "https://image.anitabi.cn/points/429644/ngavjtkfb_1738299588715.jpg?plan=h160",
+      "s": 3480,
+      "geo": [
+        41.7945,
+        140.7538
+      ]
+    },
+    {
+      "id": "ngaxjjlmi",
+      "cn": "Century Marina函馆",
+      "name": "センチュリー​マリーナ​函館",
+      "image": "https://image.anitabi.cn/points/429644/ngaxjjlmi_1724306442474.jpg?plan=h160",
+      "s": 1500,
+      "geo": [
+        41.771,
+        140.7228
+      ]
+    },
+    {
+      "id": "ngdml6s8x",
+      "name": "旧函館区公会堂",
+      "image": "https://image.anitabi.cn/points/429644/ngdml6s8x_1738297293988.jpg?plan=h160",
+      "s": 638,
+      "geo": [
+        41.765,
+        140.7089
+      ]
+    },
+    {
+      "id": "ngdnuve9f",
+      "cn": "金森红砖仓库",
+      "name": "金森赤レンガ倉庫",
+      "image": "https://image.anitabi.cn/points/429644/ngdnuve9f_1724312375060.jpg?plan=h160",
+      "s": 1023,
+      "geo": [
+        41.7666,
+        140.7165
+      ]
+    },
+    {
+      "id": "nn144zezc",
+      "name": "ラッキー​ピエロ​マリーナ​末広​店",
+      "image": "https://image.anitabi.cn/points/429644/nn144zezc_1724833572409.jpg?plan=h160",
+      "s": 3304,
+      "geo": [
+        41.7668,
+        140.7159
+      ]
+    },
+    {
+      "id": "ngdp3g2j8",
+      "cn": "函館中央警察署",
+      "name": "北海道​警察\n函館​方面​本部",
+      "image": "https://image.anitabi.cn/points/429644/ngdp3g2j8_1724312417272.jpg?plan=h160",
+      "geo": [
+        41.796,
+        140.752
+      ]
+    },
+    {
+      "id": "ngdr72dp0",
+      "cn": "函馆山索道",
+      "name": "函館山ロープウェイ",
+      "image": "https://image.anitabi.cn/points/429644/ngdr72dp0_1724312570572.jpg?plan=h160",
+      "geo": [
+        41.7606,
+        140.7132
+      ]
+    }
+  ],
+  "pointsLength": 51,
+  "imagesLength": 51,
+  "local_id": 868
+}

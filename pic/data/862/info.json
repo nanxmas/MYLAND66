@@ -1,0 +1,131 @@
+{
+  "id": 426239,
+  "cn": "青春笨蛋少年不做小学美少女的梦",
+  "title": "青春ブタ野郎はランドセルガールの夢を見ない",
+  "city": "镰仓市",
+  "cover": "https://image.xinu.ink/pic/data/862/images/426239.jpg",
+  "color": "#655869",
+  "cp": "青ブタ Project",
+  "geo": [
+    35.41034287718779,
+    139.54708397729274
+  ],
+  "zoom": 10.435,
+  "modified": 1724305772696,
+  "litePoints": [
+    {
+      "id": "jnw3cjfgd",
+      "cn": "小机站",
+      "name": "小机駅",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/426239/points/jnw3cjfgd-1719484643157.jpg?plan=h160",
+      "ep": 1,
+      "s": 1393,
+      "geo": [
+        35.5085,
+        139.6
+      ]
+    },
+    {
+      "id": "lqrasiwrt",
+      "name": "藤泽站南口",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/426239/points/lqrasiwrt-1719483676484.jpg?plan=h160",
+      "ep": 1,
+      "s": 313,
+      "geo": [
+        35.3382,
+        139.4876
+      ]
+    },
+    {
+      "id": "lqrpxgtht",
+      "name": "藤泽站北口",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/426239/points/lqrpxgtht-1719484374957.jpg?plan=h160",
+      "ep": 1,
+      "s": 395,
+      "geo": [
+        35.3401,
+        139.488
+      ]
+    },
+    {
+      "id": "lqudy5plj",
+      "name": "田園青葉住宅前",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/426239/points/lqudy5plj-1719490173019.jpg?plan=h160",
+      "ep": 1,
+      "s": 2447,
+      "geo": [
+        35.5454,
+        139.5189
+      ]
+    },
+    {
+      "id": "lquiigjcu",
+      "name": "上学路1",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/426239/points/lquiigjcu-1719490445801.jpg?plan=h160",
+      "ep": 1,
+      "s": 2444,
+      "geo": [
+        35.5457,
+        139.5195
+      ]
+    },
+    {
+      "id": "lquj70jj2",
+      "name": "上学路2",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/426239/points/lquj70jj2-1719490482263.jpg?plan=h160",
+      "ep": 1,
+      "s": 2451,
+      "geo": [
+        35.5457,
+        139.5193
+      ]
+    },
+    {
+      "id": "lqtwz25qx",
+      "name": "城山踏切",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/426239/points/lqtwz25qx-1719489162582.jpg?plan=h160",
+      "ep": 1,
+      "s": 1441,
+      "geo": [
+        35.5103,
+        139.5956
+      ]
+    },
+    {
+      "id": "lqtgrkhjx",
+      "name": "宮本自動車付近の歩道",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/426239/points/lqtgrkhjx-1719488260413.jpg?plan=h160",
+      "ep": 1,
+      "s": 1398,
+      "geo": [
+        35.5081,
+        139.5982
+      ]
+    },
+    {
+      "id": "lqum4cc6p",
+      "name": "もえぎ野公園前",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/426239/points/lqum4cc6p-1719490684110.jpg?plan=h160",
+      "ep": 1,
+      "s": 2443,
+      "geo": [
+        35.548,
+        139.5246
+      ]
+    },
+    {
+      "id": "lquq3n498",
+      "name": "御所ヶ谷橋",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/426239/points/lquq3n498-1719490915455.jpg?plan=h160",
+      "ep": 1,
+      "s": 1372,
+      "geo": [
+        35.3416,
+        139.4928
+      ]
+    }
+  ],
+  "pointsLength": 11,
+  "imagesLength": 11,
+  "local_id": 862
+}

@@ -1,0 +1,136 @@
+{
+  "id": 397604,
+  "cn": "亚托莉 -我挚爱的时光-",
+  "title": "ATRI -My Dear Moments-",
+  "city": "铫子市",
+  "cover": "https://image.xinu.ink/pic/data/825/images/397604.jpg",
+  "color": "#3ba4c2",
+  "geo": [
+    35.743127794804266,
+    140.85377063995094
+  ],
+  "zoom": 10.514,
+  "modified": 1732466142000,
+  "litePoints": [
+    {
+      "id": "luf68jogm",
+      "cn": "铫子电铁车库 デキ3形电力机车",
+      "name": "銚子電鉄車庫 デキ3形電気機関車",
+      "image": "https://image.anitabi.cn/points/397604/luf68jogm_1719770522434.jpg?plan=h160",
+      "ep": 1,
+      "s": 318,
+      "geo": [
+        35.7287,
+        140.834
+      ]
+    },
+    {
+      "id": "ludxj4aku",
+      "cn": "铫子港塔",
+      "name": "銚子ポートタワー",
+      "image": "https://image.anitabi.cn/points/397604/ludxj4aku_1719900628719.jpg?plan=h160",
+      "ep": 1,
+      "s": 322,
+      "geo": [
+        35.7409,
+        140.8628
+      ]
+    },
+    {
+      "id": "lueuzvsuh",
+      "name": "海上八幡宮",
+      "image": "https://image.anitabi.cn/points/397604/lueuzvsuh_1719900510752.jpg?plan=h160",
+      "ep": 1,
+      "s": 412,
+      "geo": [
+        35.7474,
+        140.7871
+      ]
+    },
+    {
+      "id": "mire1g7bc",
+      "cn": "地球圆观丘展望馆",
+      "name": "地球​の​丸く​見える​丘​展望​館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/397604/points/mire1g7bc-1721677880386.jpg?plan=h160",
+      "ep": 2,
+      "s": 1221,
+      "geo": [
+        35.7063,
+        140.8535
+      ]
+    },
+    {
+      "id": "mirj9bq0d",
+      "name": "カフェ​テラス​風​の​アトリエ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/397604/points/mirj9bq0d-1721678342277.jpg?plan=h160",
+      "ep": 2,
+      "s": 617,
+      "geo": [
+        35.7061,
+        140.8522
+      ]
+    },
+    {
+      "id": "mit1xa9fo",
+      "cn": "千叶县道254号 路口",
+      "name": "千葉県道254号",
+      "image": "https://image.anitabi.cn/user/0/bangumi/397604/points/mit1xa9fo-1721681749715.jpg?plan=h160",
+      "ep": 2,
+      "s": 776,
+      "geo": [
+        35.7035,
+        140.848
+      ]
+    },
+    {
+      "id": "miryk6blf",
+      "cn": "犬吠站前广场",
+      "name": "犬吠駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/397604/points/miryk6blf-1721679125399.jpg?plan=h160",
+      "ep": 2,
+      "s": 1146,
+      "geo": [
+        35.7059,
+        140.8611
+      ]
+    },
+    {
+      "id": "mx031p1y4",
+      "name": "銚港神社",
+      "image": "https://image.anitabi.cn/points/397604/mx031p1y4_1722793905325.jpg?plan=h160",
+      "ep": 4,
+      "s": 225,
+      "geo": [
+        35.7317,
+        140.8402
+      ]
+    },
+    {
+      "id": "mitbjmlhd",
+      "cn": "風のアトリエ附近的十字路口",
+      "name": "風のアトリエ 付近の交差点",
+      "image": "https://image.anitabi.cn/user/0/bangumi/397604/points/mitbjmlhd-1721682126694.jpg?plan=h160",
+      "ep": 2,
+      "s": 601,
+      "geo": [
+        35.7059,
+        140.8522
+      ]
+    },
+    {
+      "id": "mwzidugwb",
+      "cn": "風のアトリエ 风车",
+      "name": "風のアトリエ",
+      "image": "https://image.anitabi.cn/points/397604/mwzidugwb_1722792661383.jpg?plan=h160",
+      "ep": 2,
+      "s": 653,
+      "geo": [
+        35.7062,
+        140.8519
+      ]
+    }
+  ],
+  "pointsLength": 17,
+  "imagesLength": 17,
+  "local_id": 825
+}

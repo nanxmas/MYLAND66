@@ -1,0 +1,140 @@
+{
+  "id": 431370,
+  "cn": "缘结甘神家",
+  "title": "甘神さんちの縁結び",
+  "city": "京都市",
+  "cover": "https://image.xinu.ink/pic/data/871/images/431370.jpg",
+  "color": "#f18763",
+  "cp": "甘神さんちの縁結び",
+  "geo": [
+    34.99942900000208,
+    135.7827100000054
+  ],
+  "zoom": 12.003,
+  "modified": 1734163716712,
+  "litePoints": [
+    {
+      "id": "owhfr9ih7",
+      "cn": "维新之道",
+      "name": "維新の道",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/431370/points/owhfr9ih7-1728395535716.jpg?plan=h160",
+      "ep": 1,
+      "s": 51,
+      "geo": [
+        34.9993,
+        135.7821
+      ]
+    },
+    {
+      "id": "p12jr1rw0",
+      "cn": "清水寺",
+      "name": "清水寺",
+      "image": "https://image.anitabi.cn/points/431370/p12jr1rw0_1728754898368.jpg?plan=h160",
+      "ep": 1,
+      "s": 1187,
+      "geo": [
+        34.9946,
+        135.7847
+      ]
+    },
+    {
+      "id": "owhjecefo",
+      "cn": "贵船神社",
+      "name": "贵船神社",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/431370/points/owhjecefo-1728395747043.jpg?plan=h160",
+      "ep": 1,
+      "s": 74,
+      "geo": [
+        35.1215,
+        135.763
+      ]
+    },
+    {
+      "id": "p4bqowfvc",
+      "cn": "贵船神社 正门",
+      "name": "贵船神社",
+      "image": "https://image.anitabi.cn/points/431370/p4bqowfvc_1729010001587.jpg?plan=h160",
+      "ep": 1,
+      "s": 75,
+      "geo": [
+        35.1215,
+        135.763
+      ]
+    },
+    {
+      "id": "p12dojgm1",
+      "cn": "贵船神社 结社",
+      "name": "貴船神社",
+      "image": "https://image.anitabi.cn/points/431370/p12dojgm1_1728754538388.jpg?plan=h160",
+      "ep": 1,
+      "s": 1066,
+      "geo": [
+        35.1257,
+        135.764
+      ]
+    },
+    {
+      "id": "p10rvkuqj",
+      "cn": "贵船神社 手水舎",
+      "name": "贵船神社 手水舎",
+      "image": "https://image.anitabi.cn/points/431370/p10rvkuqj_1728751061998_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 77,
+      "geo": [
+        35.1218,
+        135.7629
+      ]
+    },
+    {
+      "id": "p10ttz45a",
+      "cn": "贵船神社 斎館",
+      "name": "贵船神社 斎館",
+      "image": "https://image.anitabi.cn/points/431370/p10ttz45a_1728754513602_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 86,
+      "geo": [
+        35.1215,
+        135.763
+      ]
+    },
+    {
+      "id": "p4bsfotvn",
+      "cn": "京都精华学园中学附近",
+      "name": "京都精華學園中學校・高等學校 京都精華学園中学校･高等学校",
+      "image": "https://image.anitabi.cn/points/431370/p4bsfotvn_1729010135031.jpg?plan=h160",
+      "ep": 2,
+      "s": 1375,
+      "geo": [
+        35.0247,
+        135.7722
+      ]
+    },
+    {
+      "id": "p5sfir2o6",
+      "cn": "蛸薬師通 新京极商店街交口",
+      "name": "蛸薬師通",
+      "image": "https://image.anitabi.cn/points/431370/p5sfir2o6_1729124751793_c16v9.jpg?plan=h160",
+      "ep": 3,
+      "s": 824,
+      "geo": [
+        35.0058,
+        135.7673
+      ]
+    },
+    {
+      "id": "p5slb7n7w",
+      "cn": "三条大桥",
+      "name": "三条大橋",
+      "image": "https://image.anitabi.cn/points/431370/p5slb7n7w_1729125179666_c16v9.jpg?plan=h160",
+      "ep": 3,
+      "s": 941,
+      "geo": [
+        35.009,
+        135.7718
+      ]
+    }
+  ],
+  "pointsLength": 39,
+  "imagesLength": 39,
+  "local_id": 871
+}

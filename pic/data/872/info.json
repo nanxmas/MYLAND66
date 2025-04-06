@@ -1,0 +1,109 @@
+{
+  "id": 431741,
+  "cn": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+  "title": "Link！Like！ラブライブ！蓮ノ空スクールアイドルクラブ",
+  "city": "金泽市",
+  "cover": "https://image.xinu.ink/pic/data/872/images/431741.jpg",
+  "color": "#d8a99d",
+  "geo": [
+    36.43940212080304,
+    136.49377478739973
+  ],
+  "zoom": 9.629,
+  "modified": 1742011961178,
+  "litePoints": [
+    {
+      "id": "681d7a9c",
+      "name": "金沢駅前",
+      "image": "https://image.anitabi.cn/points/431741/681d7a9c_1720169691354.jpg?plan=h160",
+      "geo": [
+        36.5778,
+        136.6491
+      ]
+    },
+    {
+      "id": "b616b964",
+      "name": "武蔵南交差点",
+      "image": "https://image.anitabi.cn/points/431741/b616b964_1720169691948.jpg?plan=h160",
+      "geo": [
+        36.5713,
+        136.6551
+      ]
+    },
+    {
+      "id": "15117538",
+      "name": "近江町市場①",
+      "image": "https://image.anitabi.cn/points/431741/15117538_1720169692559.jpg?plan=h160",
+      "geo": [
+        36.5713,
+        136.6562
+      ]
+    },
+    {
+      "id": "10ec7ecf",
+      "name": "近江町市場②",
+      "image": "https://image.anitabi.cn/points/431741/10ec7ecf_1720169693007.jpg?plan=h160",
+      "geo": [
+        36.5711,
+        136.6565
+      ]
+    },
+    {
+      "id": "df284684",
+      "name": "金沢おでん いっぷくや",
+      "image": "https://image.anitabi.cn/points/431741/df284684_1720169693762.jpg?plan=h160",
+      "geo": [
+        36.5711,
+        136.657
+      ]
+    },
+    {
+      "id": "05b76b89",
+      "name": "近江町海鮮丼家ひら井 いちば館店",
+      "image": "https://image.anitabi.cn/points/431741/05b76b89_1720169694310.jpg?plan=h160",
+      "geo": [
+        36.5715,
+        136.6557
+      ]
+    },
+    {
+      "id": "aeb4215e",
+      "name": "近江町市場　買い物通り口",
+      "image": "https://image.anitabi.cn/points/431741/aeb4215e_1720169694722.jpg?plan=h160",
+      "geo": [
+        36.5709,
+        136.6571
+      ]
+    },
+    {
+      "id": "1cf6118e",
+      "name": "香林坊",
+      "image": "https://image.anitabi.cn/points/431741/1cf6118e_1720169695379.jpg?plan=h160",
+      "geo": [
+        36.5639,
+        136.6537
+      ]
+    },
+    {
+      "id": "ff223319",
+      "name": "長町武家屋敷跡",
+      "image": "https://image.anitabi.cn/points/431741/ff223319_1720169696278.jpg?plan=h160",
+      "geo": [
+        36.5637,
+        136.6501
+      ]
+    },
+    {
+      "id": "144bb9c7",
+      "name": "竪町通り",
+      "image": "https://image.anitabi.cn/points/431741/144bb9c7_1720169696628.jpg?plan=h160",
+      "geo": [
+        36.5608,
+        136.6535
+      ]
+    }
+  ],
+  "pointsLength": 46,
+  "imagesLength": 44,
+  "local_id": 872
+}

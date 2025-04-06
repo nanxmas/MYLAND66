@@ -1,0 +1,138 @@
+{
+  "id": 404809,
+  "cn": "末班列车去哪里了？",
+  "title": "終末トレインどこへいく？",
+  "city": "饭能市",
+  "cover": "https://image.xinu.ink/pic/data/832/images/404809.jpg",
+  "color": "#556aaa",
+  "geo": [
+    35.81403810815601,
+    139.4688213049062
+  ],
+  "zoom": 10.099,
+  "modified": 1727933615289,
+  "litePoints": [
+    {
+      "id": "jd096w4at",
+      "cn": "西武池袋",
+      "name": "西武池袋",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/404809/points/jd096w4at-1712763732124.jpg?plan=h160",
+      "ep": 1,
+      "s": 10,
+      "geo": [
+        35.7277,
+        139.7108
+      ]
+    },
+    {
+      "id": "jd0bs54f3",
+      "cn": "西武池袋本店分馆",
+      "name": "西武別館",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/404809/points/jd0bs54f3-1712763775044.jpg?plan=h160",
+      "ep": 1,
+      "s": 70,
+      "geo": [
+        35.7276,
+        139.7114
+      ]
+    },
+    {
+      "id": "j7c6egqte",
+      "cn": "吾野站",
+      "name": "吾野駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404809/points/j7c6egqte-1712319846419.jpg?plan=h160",
+      "ep": 1,
+      "s": 260,
+      "geo": [
+        35.9084,
+        139.2265
+      ]
+    },
+    {
+      "id": "j7d5vfwvq",
+      "cn": "吾野站前桥",
+      "name": "吾野駅前橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404809/points/j7d5vfwvq-1712321534634.jpg?plan=h160",
+      "ep": 1,
+      "s": 271,
+      "geo": [
+        35.9089,
+        139.2277
+      ]
+    },
+    {
+      "id": "j7d7ckmsc",
+      "cn": "吾野辩才天",
+      "name": "吾野弁財天",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404809/points/j7d7ckmsc-1712321644341.jpg?plan=h160",
+      "ep": 1,
+      "s": 276,
+      "geo": [
+        35.9091,
+        139.2279
+      ]
+    },
+    {
+      "id": "j7d91jnis",
+      "name": "民泊​ゲストハウス​吾野​宿&​カフェ​レストラン",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404809/points/j7d91jnis-1712321723604.jpg?plan=h160",
+      "ep": 1,
+      "s": 280,
+      "geo": [
+        35.9101,
+        139.2311
+      ]
+    },
+    {
+      "id": "j8ovmhwc7",
+      "cn": "法光寺入口",
+      "name": "法光寺入口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404809/points/j8ovmhwc7-1712425396302.jpg?plan=h160",
+      "ep": 1,
+      "s": 331,
+      "geo": [
+        35.9088,
+        139.2261
+      ]
+    },
+    {
+      "id": "j8ogdl9c6",
+      "cn": "法光寺墓地",
+      "name": "法光寺墓地",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404809/points/j8ogdl9c6-1712424631031.jpg?plan=h160",
+      "ep": 1,
+      "s": 342,
+      "geo": [
+        35.9079,
+        139.2248
+      ]
+    },
+    {
+      "id": "j7cl2krlw",
+      "cn": "吾野站前楼梯",
+      "name": "吾野駅までの階段",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404809/points/j7cl2krlw-1712320357935.jpg?plan=h160",
+      "ep": 1,
+      "s": 376,
+      "geo": [
+        35.9087,
+        139.227
+      ]
+    },
+    {
+      "id": "j7dh3a1rq",
+      "cn": "白须神社",
+      "name": "白髭神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404809/points/j7dh3a1rq-1712322295252.jpg?plan=h160",
+      "ep": 1,
+      "s": 390,
+      "geo": [
+        35.9096,
+        139.23
+      ]
+    }
+  ],
+  "pointsLength": 33,
+  "imagesLength": 33,
+  "local_id": 832
+}

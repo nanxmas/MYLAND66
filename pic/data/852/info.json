@@ -1,0 +1,41 @@
+{
+  "id": 420628,
+  "cn": "药屋少女的呢喃",
+  "title": "薬屋のひとりごと",
+  "city": "北京市",
+  "cover": "https://image.xinu.ink/pic/data/852/images/420628.jpg",
+  "color": "#75a33f",
+  "geo": [
+    39.901830882845786,
+    116.39463914504756
+  ],
+  "zoom": 11.818,
+  "modified": 1724827344046,
+  "litePoints": [
+    {
+      "id": "leo3p0pvc",
+      "cn": "祈年殿",
+      "name": "苍穹檀",
+      "image": "https://image.anitabi.cn/user/0/bangumi/420628/points/leo3p0pvc-1718536122168.jpg?plan=h160",
+      "ep": 19,
+      "geo": [
+        39.8822,
+        116.4066
+      ]
+    },
+    {
+      "id": "lenn7nemt",
+      "cn": "故宫",
+      "name": "紫禁城",
+      "image": "https://image.anitabi.cn/user/0/bangumi/420628/points/lenn7nemt-1718536033207.jpg?plan=h160",
+      "s": 1,
+      "geo": [
+        39.9164,
+        116.3909
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 852
+}

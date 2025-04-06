@@ -1,0 +1,125 @@
+{
+  "id": 416777,
+  "cn": "蔚蓝档案 动画版",
+  "title": "ブルーアーカイブ The Animation",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/850/images/416777.jpg",
+  "color": "#128afb",
+  "geo": [
+    35.70701085948399,
+    139.6697776556275
+  ],
+  "zoom": 11.388,
+  "modified": 1732713309336,
+  "litePoints": [
+    {
+      "id": "lrl7idlxe",
+      "name": "秋葉原駅総武線ホーム",
+      "image": "https://image.anitabi.cn/points/416777/lrl7idlxe_1719550021721.jpg?plan=h160",
+      "ep": 1,
+      "s": 498,
+      "geo": [
+        35.6983,
+        139.7739
+      ]
+    },
+    {
+      "id": "lrlfcceva",
+      "name": "総武線鉄道橋前",
+      "image": "https://image.anitabi.cn/points/416777/lrlfcceva_1719550022517.jpg?plan=h160",
+      "ep": 1,
+      "s": 567,
+      "geo": [
+        35.6987,
+        139.7713
+      ]
+    },
+    {
+      "id": "ji9dug1bw",
+      "cn": "丸通电子（秋叶原本店）",
+      "name": "マルツ秋葉原営業所（秋葉原本店）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/416777/points/ji9dug1bw-1713177112339.jpg?plan=h160",
+      "ep": 2,
+      "s": 755,
+      "geo": [
+        35.7009,
+        139.7708
+      ]
+    },
+    {
+      "id": "lrlc4w4it",
+      "name": "秋葉原中央通り交差点",
+      "image": "https://image.anitabi.cn/points/416777/lrlc4w4it_1719550599397.jpg?plan=h160",
+      "ep": 6,
+      "s": 398,
+      "geo": [
+        35.6996,
+        139.7713
+      ]
+    },
+    {
+      "id": "lrm1kb82v",
+      "name": "AKIBA​カルチャーズ​ZONE前",
+      "image": "https://image.anitabi.cn/points/416777/lrm1kb82v_1719550600725.jpg?plan=h160",
+      "ep": 6,
+      "s": 907,
+      "geo": [
+        35.6998,
+        139.7703
+      ]
+    },
+    {
+      "id": "lrliq7lfe",
+      "name": "荻窪駅前入口交差点",
+      "image": "https://image.anitabi.cn/points/416777/lrliq7lfe_1719549955787.jpg?plan=h160",
+      "s": 15,
+      "geo": [
+        35.7051,
+        139.6227
+      ]
+    },
+    {
+      "id": "lrlhsf7wd",
+      "name": "荻窪中華そば春木屋前",
+      "image": "https://image.anitabi.cn/points/416777/lrlhsf7wd_1719549953183.jpg?plan=h160",
+      "s": 18,
+      "geo": [
+        35.705,
+        139.6224
+      ]
+    },
+    {
+      "id": "lrlmghliv",
+      "name": "友美堂付近階段",
+      "image": "https://image.anitabi.cn/points/416777/lrlmghliv_1719549973428.jpg?plan=h160",
+      "s": 23,
+      "geo": [
+        35.7048,
+        139.6232
+      ]
+    },
+    {
+      "id": "lrlr5owep",
+      "name": "荻窪駅前青梅街道歩道橋",
+      "image": "https://image.anitabi.cn/points/416777/lrlr5owep_1719549944791.jpg?plan=h160",
+      "s": 21,
+      "geo": [
+        35.7054,
+        139.6198
+      ]
+    },
+    {
+      "id": "lrlonyyyt",
+      "name": "ラ・コビエ荻窪横の階段",
+      "image": "https://image.anitabi.cn/points/416777/lrlonyyyt_1719549985899.jpg?plan=h160",
+      "s": 26,
+      "geo": [
+        35.7039,
+        139.6252
+      ]
+    }
+  ],
+  "pointsLength": 17,
+  "imagesLength": 17,
+  "local_id": 850
+}

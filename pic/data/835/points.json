@@ -1,0 +1,39 @@
+[
+  {
+    "id": "l1kswj1j0",
+    "name": "愛し野駅",
+    "image": "https://image.xinu.ink/pic/data/835/images/l1kswj1j0-1717510208114.jpg",
+    "ep": 1,
+    "s": 883,
+    "geo": [
+      43.841,
+      143.9323
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ljxrb42ij",
+    "cn": "虹野团地",
+    "name": "虹野団地",
+    "image": "https://image.xinu.ink/pic/data/835/images/ljxrb42ij-1718949017799.jpg",
+    "ep": 1,
+    "s": 149,
+    "geo": [
+      43.8544,
+      143.9419
+    ]
+  },
+  {
+    "id": "ljxv7vb23",
+    "cn": "北见商业高校",
+    "name": "北見商高",
+    "image": "https://image.xinu.ink/pic/data/835/images/ljxv7vb23-1718949305777.jpg",
+    "ep": 1,
+    "s": 531,
+    "geo": [
+      43.8434,
+      143.9257
+    ]
+  }
+]

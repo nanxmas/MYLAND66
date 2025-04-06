@@ -1,0 +1,120 @@
+{
+  "id": 425992,
+  "cn": "堀与宫村 -piece-",
+  "title": "ホリミヤ -piece-",
+  "city": "京都府",
+  "cover": "https://image.xinu.ink/pic/data/860/images/425992_kV5CF.jpg",
+  "color": "#65b1e3",
+  "cp": "ホリミヤ -piece-",
+  "geo": [
+    35.045142881084246,
+    135.72738196199992
+  ],
+  "zoom": 9.642,
+  "modified": 1740342562836,
+  "litePoints": [
+    {
+      "id": "rl3qtfm7u",
+      "cn": "鹿苑寺",
+      "name": "鹿苑寺",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/425992/points/rl3qtfm7u-1735967044125.jpg?plan=h160",
+      "ep": 1,
+      "s": 401,
+      "geo": [
+        35.0389,
+        135.7286
+      ]
+    },
+    {
+      "id": "rl3v2pxss",
+      "name": "渡月桥",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/425992/points/rl3v2pxss-1735967274785.jpg?plan=h160",
+      "ep": 1,
+      "s": 429,
+      "geo": [
+        35.0121,
+        135.6774
+      ]
+    },
+    {
+      "id": "rl499fj9n",
+      "name": "京都站 京都駅中央口",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/425992/points/rl499fj9n-1735968137746.jpg?plan=h160",
+      "ep": 1,
+      "s": 604,
+      "geo": [
+        34.9862,
+        135.7592
+      ]
+    },
+    {
+      "id": "rl4p0ca2i",
+      "cn": "银阁寺",
+      "name": "観音殿",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/425992/points/rl4p0ca2i-1735969074387.jpg?plan=h160",
+      "ep": 1,
+      "s": 605,
+      "geo": [
+        35.0264,
+        135.7983
+      ]
+    },
+    {
+      "id": "rl51vnhfj",
+      "name": "龍安寺方丈庭園",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/425992/points/rl51vnhfj-1735969863714.jpg?plan=h160",
+      "ep": 1,
+      "s": 619,
+      "geo": [
+        35.0344,
+        135.7181
+      ]
+    },
+    {
+      "id": "rl58lt48x",
+      "name": "法観寺 (八坂の塔)",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/425992/points/rl58lt48x-1735970270246.jpg?plan=h160",
+      "ep": 1,
+      "s": 614,
+      "geo": [
+        34.9985,
+        135.779
+      ]
+    },
+    {
+      "id": "rl5e01c7z",
+      "name": "奥の院",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/425992/points/rl5e01c7z-1735970633235.jpg?plan=h160",
+      "ep": 1,
+      "s": 621,
+      "geo": [
+        34.9945,
+        135.7854
+      ]
+    },
+    {
+      "id": "rl4t58x9j",
+      "cn": "龙安寺庭院",
+      "name": "龙安寺",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/102134/points/rl4t58x9j-1735969356779.jpg?plan=h160",
+      "ep": 1,
+      "s": 608,
+      "geo": [
+        35.0344,
+        135.7182
+      ]
+    },
+    {
+      "id": "rl38wc0b8",
+      "name": "勝鬨橋下河沿岸",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/425992/points/rl38wc0b8-1735966029027.jpg?plan=h160",
+      "geo": [
+        35.662,
+        139.7766
+      ]
+    }
+  ],
+  "pointsLength": 9,
+  "imagesLength": 9,
+  "local_id": 860
+}

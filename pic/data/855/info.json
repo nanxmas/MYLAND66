@@ -1,0 +1,64 @@
+{
+  "id": 424663,
+  "cn": "憧憬成为魔法少女",
+  "title": "魔法少女にあこがれて",
+  "city": "埼玉市",
+  "cover": "https://image.xinu.ink/pic/data/855/images/424663.jpg",
+  "color": "#550e9c",
+  "cp": "魔法少女にあこがれて",
+  "geo": [
+    35.90549699999866,
+    139.62086400000078
+  ],
+  "zoom": 13,
+  "modified": 1731690551654,
+  "litePoints": [
+    {
+      "id": "q25p73m8x",
+      "name": "COCO'S\n大宮​赤芝​店",
+      "image": "https://image.anitabi.cn/points/424663/q25p73m8x_1731661243059.jpg?plan=h160",
+      "ep": 2,
+      "s": 994,
+      "geo": [
+        35.9208,
+        139.6226
+      ]
+    },
+    {
+      "id": "q25kygfva",
+      "name": "大宮駅の西",
+      "image": "https://image.anitabi.cn/points/424663/q25kygfva_1731661013235.jpg?plan=h160",
+      "ep": 2,
+      "s": 1285,
+      "geo": [
+        35.9061,
+        139.6239
+      ]
+    },
+    {
+      "id": "q263411kz",
+      "name": "アニメイト大宮",
+      "image": "https://image.anitabi.cn/points/424663/q263411kz_1731662088414.jpg?plan=h160",
+      "ep": 3,
+      "s": 757,
+      "geo": [
+        35.9043,
+        139.6235
+      ]
+    },
+    {
+      "id": "q264wp0e0",
+      "name": "鐘塚公園",
+      "image": "https://image.anitabi.cn/points/424663/q264wp0e0_1731662186319.jpg?plan=h160",
+      "ep": 3,
+      "s": 984,
+      "geo": [
+        35.9054,
+        139.6208
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 855
+}

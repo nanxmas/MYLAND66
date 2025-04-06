@@ -1,0 +1,124 @@
+{
+  "id": 397211,
+  "cn": "穹庐下的魔女",
+  "title": "天幕のジャードゥーガル",
+  "city": "亚洲",
+  "cover": "https://image.xinu.ink/pic/data/824/images/397211.jpg",
+  "color": "#18356f",
+  "geo": [
+    47.10056211094718,
+    109.17273164931885
+  ],
+  "zoom": 11.133,
+  "modified": 1734283167799,
+  "litePoints": [
+    {
+      "id": "q38v8jprw",
+      "cn": "图斯",
+      "name": "توس",
+      "image": "https://image.anitabi.cn/points/397211/q38v8jprw_1731746544100.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        36.4839,
+        59.514
+      ]
+    },
+    {
+      "id": "q3902uhek",
+      "cn": "内沙布尔",
+      "name": "نیشابور‎",
+      "image": "https://image.anitabi.cn/points/397211/q3902uhek_1731746819812.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        36.1705,
+        58.8048
+      ]
+    },
+    {
+      "id": "q3923q3ah",
+      "cn": "塔卢坎",
+      "name": "تالقان‎",
+      "image": "https://image.anitabi.cn/points/397211/q3923q3ah_1731746939245.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        36.7349,
+        69.5348
+      ]
+    },
+    {
+      "id": "q395mvvq6",
+      "cn": "加兹尼",
+      "name": "غزنی‎",
+      "image": "https://image.anitabi.cn/points/397211/q395mvvq6_1731747132948.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        33.5447,
+        68.4132
+      ]
+    },
+    {
+      "id": "q396s9x35",
+      "cn": "印度河之战",
+      "name": "Battle of the Indus",
+      "image": "https://image.anitabi.cn/points/397211/q396s9x35_1731747226434.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        33.7676,
+        72.1824
+      ]
+    },
+    {
+      "id": "q39crgtck",
+      "name": "昌八剌",
+      "image": "https://image.anitabi.cn/points/397211/q39crgtck_1731747592044.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        44.0249,
+        87.3099
+      ]
+    },
+    {
+      "id": "q3944atjm",
+      "cn": "撒马尔罕",
+      "name": "Samarqand",
+      "image": "https://image.anitabi.cn/points/397211/q3944atjm_1731747642036.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        39.6711,
+        66.9864
+      ]
+    },
+    {
+      "id": "q39g6bylq",
+      "name": "阿尔泰山脉",
+      "image": "https://image.anitabi.cn/points/397211/q39g6bylq_1731747776092.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        47.7006,
+        89.8421
+      ]
+    },
+    {
+      "id": "q3a1zfcfv",
+      "name": "曲雕阿兰",
+      "image": "https://image.anitabi.cn/points/397211/q39whnofz_1731748811167.jpg?plan=h160",
+      "geo": [
+        47.103,
+        109.156
+      ]
+    },
+    {
+      "id": "q39nytmg6",
+      "name": "额敏河流域",
+      "image": "https://image.anitabi.cn/points/397211/q39nytmg6_1731748324083.jpg?plan=h160",
+      "ep": 7,
+      "geo": [
+        46.5242,
+        83.6434
+      ]
+    }
+  ],
+  "pointsLength": 32,
+  "imagesLength": 26,
+  "local_id": 824
+}

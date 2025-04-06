@@ -1,0 +1,118 @@
+{
+  "id": 407576,
+  "title": "My song / 角巻わため",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/838/images/407576.jpg",
+  "color": "#c6c68e",
+  "geo": [
+    35.612170399961926,
+    139.71216770017844
+  ],
+  "zoom": 10.136,
+  "modified": 1723446277014,
+  "litePoints": [
+    {
+      "id": "cd1dc10f",
+      "name": "新宿西口-橋上",
+      "image": "https://image.anitabi.cn/points/407576/cd1dc10f_1723438551833.jpg?plan=h160",
+      "s": 6,
+      "geo": [
+        35.6888,
+        139.6996
+      ]
+    },
+    {
+      "id": "83fe930f",
+      "name": "西新宿1丁目",
+      "image": "https://image.anitabi.cn/points/407576/83fe930f_1723438553746.jpg?plan=h160",
+      "s": 11,
+      "geo": [
+        35.6888,
+        139.6994
+      ]
+    },
+    {
+      "id": "c2826982",
+      "name": "NEWoMan新宿",
+      "image": "https://image.anitabi.cn/points/407576/c2826982_1723438555543.jpg?plan=h160",
+      "s": 22,
+      "geo": [
+        35.6889,
+        139.6998
+      ]
+    },
+    {
+      "id": "bae5f52e",
+      "name": "二番街通り nibangai ave.",
+      "image": "https://image.anitabi.cn/points/407576/bae5f52e_1723438558031.jpg?plan=h160",
+      "s": 41,
+      "geo": [
+        35.6887,
+        139.6975
+      ]
+    },
+    {
+      "id": "d8aca960",
+      "name": "新宿三井ビルディング",
+      "image": "https://image.anitabi.cn/points/407576/d8aca960_1723438561421.jpg?plan=h160",
+      "s": 116,
+      "geo": [
+        35.6909,
+        139.6933
+      ]
+    },
+    {
+      "id": "aff6ae78",
+      "name": "西新宿-公園通り",
+      "image": "https://image.anitabi.cn/points/407576/aff6ae78_1723438566531.jpg?plan=h160",
+      "s": 22,
+      "geo": [
+        35.6935,
+        139.6901
+      ]
+    },
+    {
+      "id": "96db7718",
+      "name": "新宿グランドタワー エレベーター",
+      "image": "https://image.anitabi.cn/points/407576/96db7718_1723438569705.jpg?plan=h160",
+      "s": 96,
+      "geo": [
+        35.696,
+        139.6903
+      ]
+    },
+    {
+      "id": "430b580e",
+      "name": "新宿グランドタワー G/F",
+      "image": "https://image.anitabi.cn/points/407576/430b580e_1723438571855.jpg?plan=h160",
+      "s": 193,
+      "geo": [
+        35.6961,
+        139.6903
+      ]
+    },
+    {
+      "id": "1325369c",
+      "name": "新宿グランドタワー 30/F",
+      "image": "https://image.anitabi.cn/points/407576/1325369c_1723438574451.jpg?plan=h160",
+      "s": 190,
+      "geo": [
+        35.696,
+        139.6903
+      ]
+    },
+    {
+      "id": "fc454c54",
+      "name": "日比谷駅",
+      "image": "https://image.anitabi.cn/points/407576/fc454c54_1723438577236.jpg?plan=h160",
+      "s": 46,
+      "geo": [
+        35.6747,
+        139.7593
+      ]
+    }
+  ],
+  "pointsLength": 19,
+  "imagesLength": 19,
+  "local_id": 838
+}

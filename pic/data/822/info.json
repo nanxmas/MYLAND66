@@ -1,0 +1,126 @@
+{
+  "id": 394260,
+  "cn": "我心里危险的东西",
+  "title": "僕の心のヤバイやつ",
+  "city": "目黑区",
+  "cover": "https://image.xinu.ink/pic/data/822/images/394260.jpg",
+  "color": "#fb3bcf",
+  "geo": [
+    35.63753379826993,
+    139.75415955287292
+  ],
+  "zoom": 10.495,
+  "modified": 1726752330645,
+  "litePoints": [
+    {
+      "id": "hb1l2cba3",
+      "cn": "秋田书店",
+      "name": "秋田書店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/394260/points/hb1l2cba3-1706967711762.jpg?plan=h160",
+      "ep": 5,
+      "s": 920,
+      "geo": [
+        35.7003,
+        139.7491
+      ]
+    },
+    {
+      "id": "j4fx6i32h",
+      "cn": "洗足站",
+      "name": "洗足駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/394260/points/j4fx6i32h-1712092718906.jpg?plan=h160",
+      "ep": 8,
+      "s": 764,
+      "geo": [
+        35.6104,
+        139.6943
+      ]
+    },
+    {
+      "id": "j9pztrg91",
+      "cn": "目黑不动尊",
+      "name": "目黑不動尊",
+      "image": "https://image.anitabi.cn/user/0/bangumi/394260/points/j9pztrg91-1717413213715.jpg?plan=h160",
+      "ep": 12,
+      "s": 2,
+      "geo": [
+        35.6285,
+        139.7081
+      ]
+    },
+    {
+      "id": "mt0wbthrj",
+      "name": "目黑駅（東京メトロ南北線）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/394260/points/mt0wbthrj-1722482214076.jpg?plan=h160",
+      "ep": 5,
+      "s": 1174,
+      "geo": [
+        35.6333,
+        139.7156
+      ]
+    },
+    {
+      "id": "mt1icswxj",
+      "name": "コインランドリー",
+      "image": "https://image.anitabi.cn/user/0/bangumi/394260/points/mt1icswxj-1722483532849.jpg?plan=h160",
+      "ep": 11,
+      "s": 1135,
+      "geo": [
+        35.6114,
+        139.6846
+      ]
+    },
+    {
+      "id": "mt16n0w06",
+      "name": "ガスト\n大岡山​駅​前​店​(から​好し​取扱店)",
+      "image": "https://image.anitabi.cn/user/0/bangumi/394260/points/mt16n0w06-1722482806722.jpg?plan=h160",
+      "ep": 11,
+      "geo": [
+        35.6081,
+        139.6854
+      ]
+    },
+    {
+      "id": "j9poomvoe",
+      "cn": "全家便利店原町二丁目店",
+      "name": "ファミリー​マート\n原町​二丁目​店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/394260/points/j9poomvoe-1722482045953.jpg?plan=h160",
+      "geo": [
+        35.6137,
+        139.6915
+      ]
+    },
+    {
+      "id": "j9qa6xsk7",
+      "cn": "目黑区第12中学",
+      "name": "奥沢中学",
+      "image": "https://image.anitabi.cn/user/0/bangumi/394260/points/j9qa6xsk7-1725113905141.jpg?plan=h160",
+      "geo": [
+        35.6027,
+        139.6794
+      ]
+    },
+    {
+      "id": "jkrfpujqx",
+      "name": "忠犬ハチ公",
+      "image": "https://image.anitabi.cn/user/0/bangumi/394260/points/jkrfpujqx-1722482077063.jpg?plan=h160",
+      "geo": [
+        35.659,
+        139.7005
+      ]
+    },
+    {
+      "id": "j9pncf5xr",
+      "cn": "洗足",
+      "name": "洗足",
+      "image": null,
+      "geo": [
+        35.6108,
+        139.695
+      ]
+    }
+  ],
+  "pointsLength": 10,
+  "imagesLength": 9,
+  "local_id": 822
+}

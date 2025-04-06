@@ -1,0 +1,39 @@
+{
+  "id": 408883,
+  "cn": "LoveLive！虹咲学园学园偶像同好会 NEXT SKY",
+  "title": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 NEXT SKY",
+  "cover": "https://image.xinu.ink/pic/data/841/images/408883.jpg",
+  "color": "#ff0f9b",
+  "geo": [
+    35.62984506824603,
+    139.79405346879958
+  ],
+  "zoom": 15.34,
+  "modified": 1722519565132,
+  "litePoints": [
+    {
+      "id": "ekwbiai8a",
+      "cn": "东京国际展示场",
+      "name": "東京ビッグサイト",
+      "image": "https://image.anitabi.cn/user/1032/bangumi/408883/points/ekwbiai8a-1699276774458.jpg?plan=h160",
+      "geo": [
+        35.6298,
+        139.794
+      ]
+    },
+    {
+      "id": "j7dga9gvx",
+      "cn": "波特斯场公园",
+      "name": "Potters Fields Park",
+      "image": "https://image.anitabi.cn/user/0/bangumi/408883/points/j7dga9gvx-1712322654906.jpg?plan=h160",
+      "s": 1519,
+      "geo": [
+        51.5041,
+        -0.0783
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 841
+}

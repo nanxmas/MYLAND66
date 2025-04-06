@@ -1,0 +1,28 @@
+{
+  "id": 412784,
+  "cn": "怪物",
+  "title": "怪物",
+  "cover": "https://image.xinu.ink/pic/data/846/images/412784.jpg",
+  "color": "#d60c16",
+  "geo": [
+    36.04768790814971,
+    138.11667172659975
+  ],
+  "zoom": 13.974,
+  "modified": 1719518795120,
+  "litePoints": [
+    {
+      "id": "kz5ie0oq9",
+      "cn": "藤森大厦",
+      "name": "藤森ビル",
+      "image": "https://image.anitabi.cn/user/0/bangumi/412784/points/kz5ie0oq9-1717320286964.jpg?plan=h160",
+      "geo": [
+        36.0476,
+        138.1166
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 846
+}

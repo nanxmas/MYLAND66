@@ -1,0 +1,29 @@
+{
+  "id": 416534,
+  "cn": "Overtake!",
+  "title": "オーバーテイク！",
+  "cover": "https://image.xinu.ink/pic/data/849/images/416534.jpg",
+  "color": "#475563",
+  "geo": [
+    35.366541,
+    138.91811000000007
+  ],
+  "zoom": 16,
+  "modified": 1719518790403,
+  "litePoints": [
+    {
+      "id": "dm6fepap7",
+      "name": "富士​スピード​ウェイ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/416534/points/dm6fepap7-1696555733361.jpg?plan=h160",
+      "ep": 1,
+      "s": 242,
+      "geo": [
+        35.3665,
+        138.9181
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 849
+}

@@ -1,0 +1,28 @@
+{
+  "id": 413808,
+  "title": "Fate/Samurai Remnant",
+  "city": "文京区",
+  "cover": "https://image.xinu.ink/pic/data/848/images/413808.jpg",
+  "color": "#bf6040",
+  "geo": [
+    35.713915,
+    139.79594999999995
+  ],
+  "zoom": 16,
+  "modified": 1723295519193,
+  "litePoints": [
+    {
+      "id": "iheb6wfar",
+      "cn": "浅草寺",
+      "name": "浅草寺",
+      "image": "https://image.anitabi.cn/user/0/bangumi/413808/points/iheb6wfar-1710286993636.jpg?plan=h160",
+      "geo": [
+        35.7139,
+        139.7959
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 848
+}

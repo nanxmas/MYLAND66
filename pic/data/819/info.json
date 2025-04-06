@@ -1,0 +1,67 @@
+{
+  "id": 392307,
+  "title": "龙族Ⅲ : 黑月之潮（下）",
+  "cover": "https://image.xinu.ink/pic/data/819/images/392307.jpg",
+  "color": "#8e1c1c",
+  "geo": [
+    33.87495799999999,
+    132.70748400000002
+  ],
+  "zoom": 16,
+  "modified": 1730175701758,
+  "litePoints": [
+    {
+      "id": "kla9e9deq",
+      "cn": "梅津寺站",
+      "name": "梅津寺",
+      "image": "https://image.anitabi.cn/user/0/bangumi/392307/points/kla9e9deq-1720230573845.jpg?plan=h160",
+      "geo": [
+        33.8749,
+        132.7074
+      ]
+    },
+    {
+      "id": "pj4p8k3xk",
+      "cn": "东京晴空塔",
+      "name": "とうきょう​スカイツリー",
+      "image": "https://image.anitabi.cn/user/0/bangumi/392307/points/pj4p8k3xk-1730171649384.jpg?plan=h160",
+      "geo": [
+        35.7103,
+        139.809
+      ]
+    },
+    {
+      "id": "pj5mbdhep",
+      "cn": "明治神宫",
+      "name": "めいじじんぐう",
+      "image": "https://image.anitabi.cn/user/0/bangumi/392307/points/pj5mbdhep-1730172615951.jpg?plan=h160",
+      "geo": [
+        35.6764,
+        139.6993
+      ]
+    },
+    {
+      "id": "pj62ljdh8",
+      "cn": "幽灵公馆",
+      "name": "幽靈公館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/392307/points/pj62ljdh8-1730173194970.jpg?plan=h160",
+      "geo": [
+        35.6312,
+        139.8819
+      ]
+    },
+    {
+      "id": "pj6mi3yzg",
+      "cn": "乔尔卢布松",
+      "name": "Gastronomy “Joël Robuchon”",
+      "image": "https://image.anitabi.cn/user/0/bangumi/392307/points/pj6mi3yzg-1730174458560.jpg?plan=h160",
+      "geo": [
+        35.6418,
+        139.7145
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 819
+}

@@ -1,0 +1,84 @@
+{
+  "id": 404115,
+  "cn": "星灵感应",
+  "title": "星屑テレパス",
+  "city": "静冈市",
+  "cover": "https://image.xinu.ink/pic/data/829/images/404115.jpg",
+  "color": "#d36e21",
+  "geo": [
+    34.963578712638665,
+    138.48732050930698
+  ],
+  "zoom": 10.218,
+  "modified": 1727512473231,
+  "litePoints": [
+    {
+      "id": "g7g3jh2zc",
+      "name": "ドリームスカイ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404115/points/g7g3jh2zc-1703864989219.jpg?plan=h160",
+      "ep": 4,
+      "s": 360,
+      "geo": [
+        35.0097,
+        138.4941
+      ]
+    },
+    {
+      "id": "g7gcn00ty",
+      "name": "清水マリンパーク",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404115/points/g7gcn00ty-1703865143751.jpg?plan=h160",
+      "ep": 4,
+      "s": 370,
+      "geo": [
+        35.01,
+        138.4944
+      ]
+    },
+    {
+      "id": "g7gepfjvi",
+      "name": "エスパルスドリームプラザ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404115/points/g7gepfjvi-1703865285208.jpg?plan=h160",
+      "ep": 4,
+      "s": 500,
+      "geo": [
+        35.0102,
+        138.4932
+      ]
+    },
+    {
+      "id": "g7gnc0dxc",
+      "name": "三保松原海岸",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404115/points/g7gnc0dxc-1703865832833.jpg?plan=h160",
+      "ep": 4,
+      "s": 854,
+      "geo": [
+        35.0106,
+        138.5319
+      ]
+    },
+    {
+      "id": "g7hcuap4n",
+      "cn": "JR东静冈站北口",
+      "name": "東静岡駅北口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404115/points/g7hcuap4n-1703867419798.jpg?plan=h160",
+      "ep": 11,
+      "s": 120,
+      "geo": [
+        34.9863,
+        138.4129
+      ]
+    },
+    {
+      "id": "g7gid31a9",
+      "name": "いちご海岸通り",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404115/points/g7gid31a9-1703865653879.jpg?plan=h160",
+      "geo": [
+        34.9544,
+        138.4524
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 829
+}

@@ -1,0 +1,110 @@
+{
+  "id": 406119,
+  "cn": "北海道辣妹贼拉可爱",
+  "title": "道産子ギャルはなまらめんこい",
+  "city": "北见市",
+  "cover": "https://image.xinu.ink/pic/data/835/images/406119.jpg",
+  "color": "#ea508e",
+  "geo": [
+    43.8427666536607,
+    143.9377671840444
+  ],
+  "zoom": 11.278,
+  "modified": 1742108068006,
+  "litePoints": [
+    {
+      "id": "l1kswj1j0",
+      "name": "愛し野駅",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/406119/points/l1kswj1j0-1717510208114.jpg?plan=h160",
+      "ep": 1,
+      "s": 883,
+      "geo": [
+        43.841,
+        143.9323
+      ]
+    },
+    {
+      "id": "ljxrb42ij",
+      "cn": "虹野团地",
+      "name": "虹野団地",
+      "image": "https://image.anitabi.cn/user/0/bangumi/406119/points/ljxrb42ij-1718949017799.jpg?plan=h160",
+      "ep": 1,
+      "s": 149,
+      "geo": [
+        43.8544,
+        143.9419
+      ]
+    },
+    {
+      "id": "ljxv7vb23",
+      "cn": "北见商业高校",
+      "name": "北見商高",
+      "image": "https://image.anitabi.cn/user/0/bangumi/406119/points/ljxv7vb23-1718949305777.jpg?plan=h160",
+      "ep": 1,
+      "s": 531,
+      "geo": [
+        43.8434,
+        143.9257
+      ]
+    },
+    {
+      "id": "9e006cb9",
+      "name": "セイコーマート 北見端野店",
+      "geo": [
+        43.8536,
+        143.9426
+      ]
+    },
+    {
+      "id": "6670c95d",
+      "name": "北見駅",
+      "geo": [
+        43.8049,
+        143.8972
+      ]
+    },
+    {
+      "id": "9a8fb874",
+      "name": "北見駅南多目的広場",
+      "geo": [
+        43.8048,
+        143.8997
+      ]
+    },
+    {
+      "id": "0908fcdd",
+      "name": "ノーザンアークリゾート （営業終了）",
+      "geo": [
+        43.868,
+        143.9266
+      ]
+    },
+    {
+      "id": "1ccc5dd2",
+      "name": "東武イーストモール 端野店",
+      "geo": [
+        43.8413,
+        143.9285
+      ]
+    },
+    {
+      "id": "4d2f74f7",
+      "name": "スリラーカラオケ 北見店",
+      "geo": [
+        43.806,
+        143.8913
+      ]
+    },
+    {
+      "id": "b29c35ab",
+      "name": "イオン北見店",
+      "geo": [
+        43.8084,
+        143.8755
+      ]
+    }
+  ],
+  "pointsLength": 16,
+  "imagesLength": 3,
+  "local_id": 835
+}

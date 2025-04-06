@@ -1,0 +1,132 @@
+{
+  "id": 425909,
+  "cn": "夜晚的水母不会游泳",
+  "title": "夜のクラゲは泳げない",
+  "city": "涩谷区",
+  "cover": "https://image.xinu.ink/pic/data/858/images/425909.jpg",
+  "color": "#d15ba2",
+  "geo": [
+    35.65994105246597,
+    139.70212304321944
+  ],
+  "zoom": 12.613,
+  "modified": 1740652050833,
+  "litePoints": [
+    {
+      "id": "o0fbxse7u",
+      "name": "SHIBUYA TSUTAYA",
+      "image": "https://image.anitabi.cn/user/0/bangumi/425909/points/o0fbxse7u-1725883303742.jpg?plan=h160",
+      "ep": 1,
+      "s": 11,
+      "geo": [
+        35.6597,
+        139.7005
+      ]
+    },
+    {
+      "id": "jx0ygt42i",
+      "cn": "涩谷TOEI",
+      "name": "澀谷TOEI",
+      "image": "https://image.anitabi.cn/user/1075/bangumi/425909/points/jx0ygt42i-1714332530008.jpg?plan=h160",
+      "ep": 1,
+      "s": 27,
+      "geo": [
+        35.6599,
+        139.7021
+      ]
+    },
+    {
+      "id": "nzc3tb8o5",
+      "name": "CONA 渋谷宇田川町店周邊",
+      "image": "https://image.anitabi.cn/user/0/bangumi/425909/points/nzc3tb8o5-1725797904303.jpg?plan=h160",
+      "ep": 1,
+      "s": 222,
+      "geo": [
+        35.6626,
+        139.6971
+      ]
+    },
+    {
+      "id": "jhz8cz2i2",
+      "cn": "西班牙坂",
+      "name": "スペイン坂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/425909/points/jhz8cz2i2-1713154006766.jpg?plan=h160",
+      "ep": 1,
+      "s": 258,
+      "geo": [
+        35.6614,
+        139.6988
+      ]
+    },
+    {
+      "id": "jhzsmrlq8",
+      "name": "のんべい横丁",
+      "image": "https://image.anitabi.cn/user/0/bangumi/425909/points/jhzsmrlq8-1713154512019.jpg?plan=h160",
+      "ep": 1,
+      "s": 357,
+      "geo": [
+        35.6602,
+        139.7014
+      ]
+    },
+    {
+      "id": "jhzykuee6",
+      "name": "渋谷PARCO",
+      "image": "https://image.anitabi.cn/user/0/bangumi/425909/points/jhzykuee6-1713154804164.jpg?plan=h160",
+      "ep": 1,
+      "s": 428,
+      "geo": [
+        35.6616,
+        139.6988
+      ]
+    },
+    {
+      "id": "jy3v5punw",
+      "cn": "宮下公园滑板场",
+      "name": "宮下公園スケート場",
+      "image": "https://image.anitabi.cn/user/1075/bangumi/425909/points/jy3v5punw-1714417174652.jpg?plan=h160",
+      "ep": 1,
+      "s": 657,
+      "geo": [
+        35.6607,
+        139.7016
+      ]
+    },
+    {
+      "id": "ji0jual5e",
+      "name": "渋谷区立宮下公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/425909/points/ji0jual5e-1713156122125.jpg?plan=h160",
+      "ep": 1,
+      "s": 670,
+      "geo": [
+        35.6613,
+        139.7018
+      ]
+    },
+    {
+      "id": "jhzv3sm9x",
+      "name": "宮下第1歩道橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/425909/points/jhzv3sm9x-1713154653630.jpg?plan=h160",
+      "ep": 1,
+      "s": 730,
+      "geo": [
+        35.6614,
+        139.7022
+      ]
+    },
+    {
+      "id": "o0epqfjce",
+      "name": "宮下第二歩道橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/425909/points/o0epqfjce-1725881976702.jpg?plan=h160",
+      "ep": 1,
+      "s": 779,
+      "geo": [
+        35.6632,
+        139.7021
+      ]
+    }
+  ],
+  "pointsLength": 51,
+  "imagesLength": 51,
+  "local_id": 858
+}

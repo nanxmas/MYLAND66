@@ -1,0 +1,56 @@
+{
+  "id": 425605,
+  "cn": "电影 GIVEN 柊mix",
+  "title": "映画 ギヴン 柊mix",
+  "city": "町田市",
+  "cover": "https://image.xinu.ink/pic/data/857/images/425605.jpg",
+  "color": "#e07c5e",
+  "cp": "ギヴン",
+  "geo": [
+    35.55122366918543,
+    139.45326749781435
+  ],
+  "zoom": 12.302,
+  "modified": 1724989891231,
+  "litePoints": [
+    {
+      "id": "hw708h0x3",
+      "name": "町田住宅街高台のガードレール",
+      "image": "https://image.anitabi.cn/points/425605/hw708h0x3_1708625166566.jpg?plan=h160",
+      "geo": [
+        35.5695,
+        139.4535
+      ]
+    },
+    {
+      "id": "np0v9al2e",
+      "name": "カリヨン広場",
+      "image": "https://image.anitabi.cn/points/425605/np0v9al2e_1724989760354.jpg?plan=h160",
+      "geo": [
+        35.5445,
+        139.4461
+      ]
+    },
+    {
+      "id": "lqrabi75t",
+      "name": "黒川紀章「シティ ゲート」",
+      "image": "https://image.anitabi.cn/points/425605/lqrabi75t_1719483418261.jpg?plan=h160",
+      "geo": [
+        35.5406,
+        139.4489
+      ]
+    },
+    {
+      "id": "lqrdn0xst",
+      "name": "町田天満宮近くの陸橋",
+      "image": "https://image.anitabi.cn/points/425605/lqrdn0xst_1719483649535.jpg?plan=h160",
+      "geo": [
+        35.539,
+        139.4514
+      ]
+    }
+  ],
+  "pointsLength": 13,
+  "imagesLength": 13,
+  "local_id": 857
+}

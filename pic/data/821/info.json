@@ -1,0 +1,58 @@
+{
+  "id": 393446,
+  "cn": "22/7 「阴云彼端 晴空万里」music video",
+  "title": "22/7 『曇り空の向こうは晴れている』music video",
+  "city": "涩谷区",
+  "cover": "https://image.xinu.ink/pic/data/821/images/393446.jpg",
+  "color": "#808080",
+  "geo": [
+    35.65977123668439,
+    139.7003767146001
+  ],
+  "zoom": 16.52,
+  "modified": 1725011063536,
+  "litePoints": [
+    {
+      "id": "nf5a916pg",
+      "name": "藤山産業(株) 天津甘栗店",
+      "image": "https://image.anitabi.cn/points/393446/nf5a916pg_1724215753718.jpg?plan=h160",
+      "geo": [
+        35.6596,
+        139.7007
+      ]
+    },
+    {
+      "id": "nf5awjgf6",
+      "cn": "大盛堂书店前",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/393446/nf5awjgf6_1724215846447.jpg?plan=h160",
+      "geo": [
+        35.6596,
+        139.7003
+      ]
+    },
+    {
+      "id": "nf5dl34x8",
+      "cn": "涩谷109前",
+      "name": 2,
+      "image": "https://image.anitabi.cn/points/393446/nf5dl34x8_1724215936855.jpg?plan=h160",
+      "geo": [
+        35.6596,
+        139.6996
+      ]
+    },
+    {
+      "id": "nf5e788kp",
+      "cn": "涩谷Magnet",
+      "name": 2,
+      "image": "https://image.anitabi.cn/points/393446/nf5e788kp_1724215974306.jpg?plan=h160",
+      "geo": [
+        35.6596,
+        139.7005
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 821
+}

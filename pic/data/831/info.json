@@ -1,0 +1,140 @@
+{
+  "id": 404804,
+  "cn": "天国大魔境",
+  "title": "天国大魔境",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/831/images/404804.jpg",
+  "color": "#70bbe2",
+  "cp": "天国大魔境",
+  "geo": [
+    35.70697777419494,
+    139.7844267757015
+  ],
+  "zoom": 11.816,
+  "modified": 1728741774441,
+  "litePoints": [
+    {
+      "id": "9v1ygksnu",
+      "cn": "浅草寺 雷门前",
+      "name": "浅草寺 雷門前",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404804/points/9v1ygksnu-1685967093731.jpg?plan=h160",
+      "ep": 3,
+      "s": 27,
+      "geo": [
+        35.7109,
+        139.7963
+      ]
+    },
+    {
+      "id": "e7semuoff",
+      "cn": "天国大魔境-殉情处",
+      "name": "松井ビル",
+      "image": "https://image.anitabi.cn/points/404804/e7semuoff_1727620407783_c16v9.jpg?plan=h160",
+      "ep": 8,
+      "s": 951,
+      "geo": [
+        35.7007,
+        139.7709
+      ]
+    },
+    {
+      "id": "lc038ud4r",
+      "cn": "秋叶原UDX",
+      "name": "秋葉原UDX ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404804/points/lc038ud4r-1727603367887.jpg?plan=h160",
+      "ep": 8,
+      "s": 636,
+      "geo": [
+        35.7003,
+        139.7728
+      ]
+    },
+    {
+      "id": "om92lowfp",
+      "cn": "医疗法人社团KNI北原国际医院",
+      "name": "北原国際病院",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404804/points/om92lowfp-1727593646002.jpg?plan=h160",
+      "ep": 1,
+      "s": 574,
+      "geo": [
+        35.6624,
+        139.3612
+      ]
+    },
+    {
+      "id": "om9dx692e",
+      "cn": "山野大楼",
+      "name": "山野ビル",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404804/points/om9dx692e-1727594361288.jpg?plan=h160",
+      "ep": 3,
+      "s": 442,
+      "geo": [
+        35.7107,
+        139.7955
+      ]
+    },
+    {
+      "id": "om9vh4i6q",
+      "cn": "寿司屋大街",
+      "name": "すしや通り",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404804/points/om9vh4i6q-1727595467112.jpg?plan=h160",
+      "ep": 3,
+      "s": 496,
+      "geo": [
+        35.7113,
+        139.7929
+      ]
+    },
+    {
+      "id": "oma0wyzb0",
+      "cn": "雷门大街",
+      "name": "雷門通り",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404804/points/oma0wyzb0-1727595745610.jpg?plan=h160",
+      "ep": 3,
+      "s": 500,
+      "geo": [
+        35.7113,
+        139.7929
+      ]
+    },
+    {
+      "id": "omar2jp4q",
+      "cn": "江东区木场5町目",
+      "name": "江東区木場５丁目",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404804/points/omar2jp4q-1727597344800.jpg?plan=h160",
+      "ep": 5,
+      "s": 3,
+      "geo": [
+        35.6687,
+        139.8055
+      ]
+    },
+    {
+      "id": "omb8bj1mx",
+      "cn": "全家便利店木场二丁目店",
+      "name": "ファミリー​マート\n木場​二丁目​店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404804/points/omb8bj1mx-1727598424617.jpg?plan=h160",
+      "ep": 5,
+      "s": 170,
+      "geo": [
+        35.6696,
+        139.8055
+      ]
+    },
+    {
+      "id": "omcx2fnxs",
+      "cn": "万世桥",
+      "name": "万世橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/404804/points/omcx2fnxs-1727602018681.jpg?plan=h160",
+      "ep": 7,
+      "s": 176,
+      "geo": [
+        35.6971,
+        139.7709
+      ]
+    }
+  ],
+  "pointsLength": 22,
+  "imagesLength": 22,
+  "local_id": 831
+}

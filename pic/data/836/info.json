@@ -1,0 +1,110 @@
+{
+  "id": 407332,
+  "cn": "赛马娘 Pretty Derby 第三季",
+  "title": "ウマ娘 プリティーダービー Season 3",
+  "city": "千叶县",
+  "cover": "https://image.xinu.ink/pic/data/836/images/407332.jpg",
+  "color": "#477139",
+  "cp": "2023 アニメウマ娘 プリティ…",
+  "geo": [
+    35.42374999999616,
+    140.11471899999287
+  ],
+  "zoom": 9.011,
+  "modified": 1730188515708,
+  "litePoints": [
+    {
+      "id": "fd482f21",
+      "name": "馬立駅",
+      "image": "https://image.anitabi.cn/points/407332/fd482f21_1729577187928.jpg?plan=h160",
+      "ep": 9,
+      "s": 399,
+      "geo": [
+        35.4237,
+        140.1147
+      ]
+    },
+    {
+      "id": "pbir9ieek",
+      "name": "中山競馬場 正門入口付近",
+      "image": "https://image.anitabi.cn/points/407332/pbir9ieek_1729573846383.jpg?plan=h160",
+      "ep": 4,
+      "s": 1056,
+      "geo": [
+        35.7268,
+        139.9592
+      ]
+    },
+    {
+      "id": "pbiy2mq48",
+      "name": "グランプリロード付近",
+      "image": "https://image.anitabi.cn/points/407332/pbiy2mq48_1729574274472.jpg?plan=h160",
+      "ep": 4,
+      "s": 1206,
+      "geo": [
+        35.7269,
+        139.9607
+      ]
+    },
+    {
+      "id": "pbirxkhdg",
+      "name": "中山競馬場 南門付近",
+      "image": "https://image.anitabi.cn/points/407332/pbirxkhdg_1729573867622.jpg?plan=h160",
+      "geo": [
+        35.7237,
+        139.9591
+      ]
+    },
+    {
+      "id": "ca26fba3",
+      "name": "東京駅",
+      "geo": [
+        35.6812,
+        139.7671
+      ]
+    },
+    {
+      "id": "cb8eda82",
+      "name": "新宿アルタ",
+      "geo": [
+        35.6924,
+        139.701
+      ]
+    },
+    {
+      "id": "fb1e641a",
+      "name": "新宿駅東口",
+      "geo": [
+        35.6929,
+        139.7002
+      ]
+    },
+    {
+      "id": "fb649d2a",
+      "name": "渋谷スクランブル交差点",
+      "geo": [
+        35.6594,
+        139.7005
+      ]
+    },
+    {
+      "id": "b85af2a1",
+      "name": "五井駅",
+      "geo": [
+        35.5133,
+        140.0896
+      ]
+    },
+    {
+      "id": "1dccd92e",
+      "name": "笠森観音",
+      "geo": [
+        35.3996,
+        140.1988
+      ]
+    }
+  ],
+  "pointsLength": 19,
+  "imagesLength": 4,
+  "local_id": 836
+}

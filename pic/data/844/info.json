@@ -1,0 +1,110 @@
+{
+  "id": 409576,
+  "cn": "你的颜色",
+  "title": "きみの色",
+  "city": "长崎市",
+  "cover": "https://image.xinu.ink/pic/data/844/images/409576.jpg",
+  "color": "#407fbf",
+  "cp": "2024きみの色",
+  "geo": [
+    33.37664988086331,
+    132.61954464161204
+  ],
+  "zoom": 5.607,
+  "modified": 1725482972501,
+  "litePoints": [
+    {
+      "id": "b94b3f5b",
+      "name": "ドンドン坂",
+      "image": "https://image.anitabi.cn/points/409576/b94b3f5b_1725482891577.jpg?plan=h160",
+      "geo": [
+        32.7316,
+        129.8667
+      ]
+    },
+    {
+      "id": "0c7d30cd",
+      "name": "小曽根乾堂通り",
+      "image": "https://image.anitabi.cn/points/409576/0c7d30cd_1725482892895.jpg?plan=h160",
+      "geo": [
+        32.7322,
+        129.866
+      ]
+    },
+    {
+      "id": "fa900bbc",
+      "name": "グラバー通り",
+      "image": "https://image.anitabi.cn/points/409576/fa900bbc_1725482894420.jpg?plan=h160",
+      "geo": [
+        32.7316,
+        129.867
+      ]
+    },
+    {
+      "id": "66503884",
+      "name": "赤迫電停",
+      "image": "https://image.anitabi.cn/points/409576/66503884_1725482896285.jpg?plan=h160",
+      "geo": [
+        32.794,
+        129.8573
+      ]
+    },
+    {
+      "id": "0991ab87",
+      "name": "中通り商店街付近",
+      "image": "https://image.anitabi.cn/points/409576/0991ab87_1725482898698.jpg?plan=h160",
+      "geo": [
+        32.7464,
+        129.88
+      ]
+    },
+    {
+      "id": "b440a37d",
+      "name": "観光通電停",
+      "image": "https://image.anitabi.cn/points/409576/b440a37d_1725482900345.jpg?plan=h160",
+      "geo": [
+        32.7433,
+        129.878
+      ]
+    },
+    {
+      "id": "8f59ecb2",
+      "name": "観光通電停付近",
+      "image": "https://image.anitabi.cn/points/409576/8f59ecb2_1725482902441.jpg?plan=h160",
+      "geo": [
+        32.7434,
+        129.8777
+      ]
+    },
+    {
+      "id": "f01901d7",
+      "name": "東古川町の路地",
+      "image": "https://image.anitabi.cn/points/409576/f01901d7_1725482904453.jpg?plan=h160",
+      "geo": [
+        32.7462,
+        129.8795
+      ]
+    },
+    {
+      "id": "1044eea3",
+      "name": "掲示板を見る2人",
+      "image": "https://image.anitabi.cn/points/409576/1044eea3_1725482910059.jpg?plan=h160",
+      "geo": [
+        32.7309,
+        129.865
+      ]
+    },
+    {
+      "id": "97c864e0",
+      "name": "コロッケ付近",
+      "image": "https://image.anitabi.cn/points/409576/97c864e0_1725482912681.jpg?plan=h160",
+      "geo": [
+        32.7457,
+        129.8801
+      ]
+    }
+  ],
+  "pointsLength": 26,
+  "imagesLength": 23,
+  "local_id": 844
+}

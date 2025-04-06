@@ -1,0 +1,131 @@
+{
+  "id": 429305,
+  "cn": "真的要结婚吗",
+  "title": "結婚するって、本当ですか",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/867/images/429305.jpg",
+  "color": "#ef6037",
+  "cp": "アニメ結婚するって、本当ですか",
+  "geo": [
+    35.70179099999861,
+    139.80829700000504
+  ],
+  "zoom": 12.062,
+  "modified": 1735060718813,
+  "litePoints": [
+    {
+      "id": "os5p15btp",
+      "name": "近畿日本ツーリスト 有楽町店",
+      "image": "https://image.anitabi.cn/points/429305/os5p15btp_1728056503826.jpg?plan=h160",
+      "ep": 1,
+      "s": 1,
+      "geo": [
+        35.6751,
+        139.7642
+      ]
+    },
+    {
+      "id": "orjz75yak",
+      "name": "曳舟駅西口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/429305/points/orjz75yak-1728046062432.jpg?plan=h160",
+      "ep": 1,
+      "s": 108,
+      "geo": [
+        35.7178,
+        139.8164
+      ]
+    },
+    {
+      "id": "os5rz53ui",
+      "name": "北海道 錦糸町店",
+      "image": "https://image.anitabi.cn/points/429305/os5rz53ui_1728056669763.jpg?plan=h160",
+      "ep": 1,
+      "s": 201,
+      "geo": [
+        35.6955,
+        139.8157
+      ]
+    },
+    {
+      "id": "ork15i01m",
+      "cn": "本所吾妻橋​ 公交站",
+      "name": "本所吾妻橋​ 都営バス停",
+      "image": "https://image.anitabi.cn/points/429305/ork15i01m_1728009415692.jpg?plan=h160",
+      "ep": 1,
+      "s": 225,
+      "geo": [
+        35.7085,
+        139.805
+      ]
+    },
+    {
+      "id": "orysl8dzo",
+      "name": "大橫川親水公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/429305/points/orysl8dzo-1728041464271.jpg?plan=h160",
+      "ep": 1,
+      "s": 466,
+      "geo": [
+        35.7017,
+        139.8082
+      ]
+    },
+    {
+      "id": "orzkqdpwk",
+      "name": "よこはまコスモワールド キッズカーニバル・ゾーン",
+      "image": "https://image.anitabi.cn/user/0/bangumi/429305/points/orzkqdpwk-1728043214574.jpg?plan=h160",
+      "ep": 1,
+      "s": 1069,
+      "geo": [
+        35.4551,
+        139.6345
+      ]
+    },
+    {
+      "id": "os020o5me",
+      "name": "日本丸メモリアルパーク",
+      "image": "https://image.anitabi.cn/user/0/bangumi/429305/points/os020o5me-1728044382741.jpg?plan=h160",
+      "ep": 1,
+      "s": 1108,
+      "geo": [
+        35.4538,
+        139.6318
+      ]
+    },
+    {
+      "id": "os0bbbsdg",
+      "name": "港二号橋梁",
+      "image": "https://image.anitabi.cn/user/0/bangumi/429305/points/os0bbbsdg-1728044779150.jpg?plan=h160",
+      "ep": 1,
+      "s": 1110,
+      "geo": [
+        35.4531,
+        139.6357
+      ]
+    },
+    {
+      "id": "os0gtfvgh",
+      "name": "よこはまコスモワールド ブラーノストリート・ゾーン",
+      "image": "https://image.anitabi.cn/user/0/bangumi/429305/points/os0gtfvgh-1728045119860.jpg?plan=h160",
+      "ep": 1,
+      "s": 1155,
+      "geo": [
+        35.4561,
+        139.6352
+      ]
+    },
+    {
+      "id": "os0nv3sdy",
+      "name": "コスモクロック21",
+      "image": "https://image.anitabi.cn/user/0/bangumi/429305/points/os0nv3sdy-1728045572932.jpg?plan=h160",
+      "ep": 1,
+      "s": 1203,
+      "geo": [
+        35.4552,
+        139.6362
+      ]
+    }
+  ],
+  "pointsLength": 56,
+  "imagesLength": 56,
+  "local_id": 867
+}
