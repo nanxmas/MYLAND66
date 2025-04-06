@@ -1,0 +1,72 @@
+{
+  "id": 822,
+  "cn": "FLCL",
+  "title": "フリクリ",
+  "city": "丰川市",
+  "cover": "https://image.xinu.ink/pic/data/43/images/822_9y55j.jpg",
+  "modified": 1736874569421,
+  "litePoints": [
+    {
+      "id": "rwgkrds3r",
+      "cn": "柑子桥 东岸",
+      "name": "柑子橋（こうじばし）",
+      "image": "https://image.anitabi.cn/points/822/rwgkrds3r_1736856961316.jpg?plan=h160",
+      "ep": 2,
+      "s": 383,
+      "geo": [
+        34.8028,
+        137.4004
+      ]
+    },
+    {
+      "id": "rwgl7k17k",
+      "cn": "柑子桥",
+      "name": "柑子橋（こうじばし）",
+      "image": "https://image.anitabi.cn/points/822/rwgl7k17k_1736856970427.jpg?plan=h160",
+      "ep": 2,
+      "s": 676,
+      "geo": [
+        34.8034,
+        137.4003
+      ]
+    },
+    {
+      "id": "rwgm0o1ai",
+      "cn": "柑子桥 东眺",
+      "name": "柑子橋（こうじばし）",
+      "image": "https://image.anitabi.cn/points/822/rwgm0o1ai_1736857028373.jpg?plan=h160",
+      "ep": 2,
+      "s": 711,
+      "geo": [
+        34.8034,
+        137.4003
+      ]
+    },
+    {
+      "id": "rwgpae09u",
+      "name": "豊川放水路橋梁",
+      "image": "https://image.anitabi.cn/points/822/rwgpae09u_1736857264584.jpg?plan=h160",
+      "ep": 6,
+      "s": 192,
+      "geo": [
+        34.7916,
+        137.3651
+      ]
+    },
+    {
+      "id": "rwgwuyw3u",
+      "cn": "丰川市俯瞰图",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/822/rwgwuyw3u_1736857699660.jpg?plan=h160",
+      "ep": 4,
+      "s": 514,
+      "geo": [
+        34.8027,
+        137.4006
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "local_id": 43
+}

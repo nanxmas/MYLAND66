@@ -1,0 +1,31 @@
+{
+  "id": 827,
+  "cn": "日在校园",
+  "title": "School Days",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/44/images/827.jpg",
+  "color": "#475563",
+  "geo": [
+    35.6997569987481,
+    139.4657170098078
+  ],
+  "zoom": 15.855,
+  "modified": 1719298640958,
+  "litePoints": [
+    {
+      "id": "ieq0kno45",
+      "cn": "西国分寺",
+      "name": "西国分寺",
+      "image": "https://image.anitabi.cn/user/0/bangumi/827/points/ieq0kno45-1710076987187.jpg?plan=h160",
+      "ep": 10,
+      "s": 171,
+      "geo": [
+        35.6997,
+        139.4657
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 44
+}

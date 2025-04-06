@@ -1,0 +1,29 @@
+{
+  "id": 788,
+  "cn": "NOIR",
+  "title": "ノワール",
+  "cover": "https://image.xinu.ink/pic/data/37/images/788.jpg",
+  "color": "#232a32",
+  "geo": [
+    25.036890999999997,
+    121.51721499999996
+  ],
+  "zoom": 16,
+  "modified": 1723799796790,
+  "litePoints": [
+    {
+      "id": "n9t4izpsv",
+      "name": "中山南路",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/788/points/n9t4izpsv-1723797454318.jpg?plan=h160",
+      "ep": 15,
+      "s": 422,
+      "geo": [
+        25.0368,
+        121.5172
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 37
+}

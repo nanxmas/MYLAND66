@@ -1,0 +1,42 @@
+{
+  "id": 793,
+  "cn": "Code Geass 反叛的鲁路修",
+  "title": "コードギアス 反逆のルルーシュ",
+  "cover": "https://image.xinu.ink/pic/data/38/images/793_3y432.jpg",
+  "cp": "MBS",
+  "modified": 1741600585490,
+  "litePoints": [
+    {
+      "id": "tkxmm2q8f",
+      "name": "成田山顶",
+      "image": "https://image.anitabi.cn/points/793/tkxmm2q8f_1741600266163.jpg?plan=h160",
+      "ep": 10,
+      "s": 526,
+      "geo": [
+        35.7865,
+        140.3201
+      ]
+    },
+    {
+      "id": "tkxixdwxq",
+      "name": "东京塔",
+      "image": "https://image.anitabi.cn/user/0/bangumi/793/points/tkxixdwxq-1741595702898.jpg?plan=h160",
+      "geo": [
+        35.6587,
+        139.7454
+      ]
+    },
+    {
+      "id": "tkxkwks3h",
+      "name": "天空鸟居",
+      "image": "https://image.anitabi.cn/user/0/bangumi/793/points/tkxkwks3h-1741595853305.jpg?plan=h160",
+      "geo": [
+        35.5342,
+        138.775
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 38
+}

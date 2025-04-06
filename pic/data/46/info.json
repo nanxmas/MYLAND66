@@ -1,0 +1,114 @@
+{
+  "id": 847,
+  "cn": "蜂蜜与四叶草",
+  "title": "ハチミツとクローバー",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/46/images/847.jpg",
+  "color": "#63aaf1",
+  "cp": "ハチクロ",
+  "geo": [
+    35.620466,
+    139.63829
+  ],
+  "zoom": 10,
+  "modified": 1738337248624,
+  "litePoints": [
+    {
+      "id": "sfcdb905y",
+      "name": "札幌",
+      "image": "https://image.anitabi.cn/points/847/sfcdb905y_1738336704233.jpg?plan=h160",
+      "ep": 4,
+      "s": 882,
+      "geo": [
+        43.0692,
+        141.3506
+      ]
+    },
+    {
+      "id": "sfciflsn6",
+      "name": "名鉄名古屋",
+      "image": "https://image.anitabi.cn/points/847/sfciflsn6_1738337013432.jpg?plan=h160",
+      "ep": 26,
+      "s": 323,
+      "geo": [
+        35.1696,
+        136.8841
+      ]
+    },
+    {
+      "id": "4sjkx3bnn",
+      "name": "東京薬科大学",
+      "image": "https://image.anitabi.cn/points/847/4sjkx3bnn.jpg?plan=h160",
+      "geo": [
+        35.6382,
+        139.384
+      ]
+    },
+    {
+      "id": "4sjkx3cfe",
+      "name": "東京海洋大学越中島キャンパス",
+      "image": "https://image.anitabi.cn/points/847/4sjkx3cfe.jpg?plan=h160",
+      "geo": [
+        35.6681,
+        139.7911
+      ]
+    },
+    {
+      "id": "4sjkx3btn",
+      "name": "浴風会本館",
+      "image": "https://image.anitabi.cn/points/847/4sjkx3btn.jpg?plan=h160",
+      "geo": [
+        35.6816,
+        139.6095
+      ]
+    },
+    {
+      "id": "4sjkx3ckf",
+      "name": "桜本商店街",
+      "image": "https://image.anitabi.cn/points/847/4sjkx3ckf.jpg?plan=h160",
+      "geo": [
+        35.5212,
+        139.7214
+      ]
+    },
+    {
+      "id": "4sjkx3c6s",
+      "name": "マスヤ酒店",
+      "image": "https://image.anitabi.cn/points/847/4sjkx3c6s.jpg?plan=h160",
+      "geo": [
+        35.5654,
+        139.6918
+      ]
+    },
+    {
+      "id": "4sjkx3cf6",
+      "name": "ZAIM（旧横浜地方裁判所刑事庁舎）",
+      "image": "https://image.anitabi.cn/points/847/4sjkx3cf6.jpg?plan=h160",
+      "geo": [
+        35.445,
+        139.6415
+      ]
+    },
+    {
+      "id": "4sjkx3d3y",
+      "name": "国立代々木競技場",
+      "image": "https://image.anitabi.cn/points/847/4sjkx3d3y.jpg?plan=h160",
+      "geo": [
+        35.6669,
+        139.7011
+      ]
+    },
+    {
+      "id": "4sjkx3cu4",
+      "name": "麻布食品桜本店",
+      "image": "https://image.anitabi.cn/points/847/4sjkx3cu4.jpg?plan=h160",
+      "geo": [
+        35.5216,
+        139.7213
+      ]
+    }
+  ],
+  "pointsLength": 80,
+  "imagesLength": 44,
+  "local_id": 46
+}

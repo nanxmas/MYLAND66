@@ -1,0 +1,130 @@
+{
+  "id": 605,
+  "cn": "棋魂",
+  "title": "ヒカルの碁",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/35/images/605.jpg",
+  "color": "#c69c8e",
+  "geo": [
+    35.69036200000211,
+    139.73659399999553
+  ],
+  "zoom": 10.107,
+  "modified": 1731994905074,
+  "litePoints": [
+    {
+      "id": "n2gfr29d3",
+      "cn": "日本棋院",
+      "name": "日本棋院会館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/605/points/n2gfr29d3-1723270711507.jpg?plan=h160",
+      "ep": 72,
+      "s": 409,
+      "geo": [
+        35.6903,
+        139.7365
+      ]
+    },
+    {
+      "id": "1a8b7e72",
+      "name": "1.2日本棋院中部総本部",
+      "image": "https://image.anitabi.cn/points/605/1a8b7e72_1730195430701.jpg?plan=h160",
+      "ep": 59,
+      "s": 265,
+      "geo": [
+        35.1793,
+        136.9134
+      ]
+    },
+    {
+      "id": "7b8c940e",
+      "name": "2.1塔矢名人の碁会所",
+      "image": "https://image.anitabi.cn/points/605/7b8c940e_1730195897211.jpg?plan=h160",
+      "ep": 1,
+      "s": 751,
+      "geo": [
+        35.7064,
+        139.6659
+      ]
+    },
+    {
+      "id": "ca0b2006",
+      "name": "2.2修さんの碁会所",
+      "image": "https://image.anitabi.cn/points/605/ca0b2006_1730195917815.jpg?plan=h160",
+      "ep": 10,
+      "s": 445,
+      "geo": [
+        35.6888,
+        139.6975
+      ]
+    },
+    {
+      "id": "4334b32b",
+      "name": "2.3囲碁サロン道玄坂",
+      "image": "https://image.anitabi.cn/points/605/4334b32b_1730195973698.jpg?plan=h160",
+      "ep": 33,
+      "s": 612,
+      "geo": [
+        35.6585,
+        139.6968
+      ]
+    },
+    {
+      "id": "fdfea2f8",
+      "name": "2.4囲碁サロン　クラークソン",
+      "image": "https://image.anitabi.cn/points/605/fdfea2f8_1730197112213.jpg?plan=h160",
+      "ep": 20,
+      "s": 117,
+      "geo": [
+        35.6675,
+        139.7042
+      ]
+    },
+    {
+      "id": "10e23acf",
+      "name": "2.5囲碁クラブ　石心",
+      "image": "https://image.anitabi.cn/points/605/10e23acf_1730197287262.jpg?plan=h160",
+      "ep": 32,
+      "s": 663,
+      "geo": [
+        35.7282,
+        139.7129
+      ]
+    },
+    {
+      "id": "b3f04111",
+      "name": "2.6韓国系碁会所　柳",
+      "image": "https://image.anitabi.cn/points/605/b3f04111_1730197418352.jpg?plan=h160",
+      "ep": 35,
+      "s": 262,
+      "geo": [
+        35.6602,
+        139.6989
+      ]
+    },
+    {
+      "id": "24d976ea",
+      "name": "2.7ふれあいの囲碁サロン天元",
+      "image": "https://image.anitabi.cn/points/605/24d976ea_1730197640262.jpg?plan=h160",
+      "ep": 58,
+      "s": 745,
+      "geo": [
+        35.7026,
+        139.6654
+      ]
+    },
+    {
+      "id": "38b93789",
+      "name": "2.11土屋さんや船橋さんがいる碁会所",
+      "image": "https://image.anitabi.cn/points/605/38b93789_1730199561288.jpg?plan=h160",
+      "ep": 33,
+      "s": 962,
+      "geo": [
+        35.6919,
+        140.0206
+      ]
+    }
+  ],
+  "pointsLength": 93,
+  "imagesLength": 86,
+  "local_id": 35
+}

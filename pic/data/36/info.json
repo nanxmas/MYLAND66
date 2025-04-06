@@ -1,0 +1,35 @@
+{
+  "id": 772,
+  "cn": "福音战士新剧场版：序",
+  "title": "ヱヴァンゲリヲン新劇場版:序",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/36/images/772.jpg",
+  "color": "#8f0000",
+  "modified": 1725969570828,
+  "litePoints": [
+    {
+      "id": "2m71cf19x",
+      "name": "仙石原",
+      "image": "https://image.anitabi.cn/user/0/bangumi/265/points/2m71cf19x-1725816060532.jpg?plan=h160",
+      "s": 2210,
+      "geo": [
+        35.2593,
+        139.0016
+      ]
+    },
+    {
+      "id": "nzk4p26q8",
+      "cn": "芦之湖",
+      "name": "芦ノ湖",
+      "image": "https://image.anitabi.cn/user/0/bangumi/265/points/nzk4p26q8-1725815353501.jpg?plan=h160",
+      "s": 3824,
+      "geo": [
+        35.2313,
+        138.9918
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 36
+}

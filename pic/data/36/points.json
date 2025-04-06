@@ -1,0 +1,27 @@
+[
+  {
+    "id": "2m71cf19x",
+    "name": "仙石原",
+    "image": "https://image.xinu.ink/pic/data/36/images/2m71cf19x-1725816060532.jpg",
+    "ep": null,
+    "s": 2210,
+    "geo": [
+      35.2593,
+      139.0016
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ODFeoYj14UaaLPtuEEvNBxmkJJA&ll=35.259333%2C139.001606&z=17"
+  },
+  {
+    "id": "nzk4p26q8",
+    "cn": "芦之湖",
+    "name": "芦ノ湖",
+    "image": "https://image.xinu.ink/pic/data/36/images/nzk4p26q8-1725815353501.jpg",
+    "ep": null,
+    "s": 3824,
+    "geo": [
+      35.2313,
+      138.9918
+    ]
+  }
+]

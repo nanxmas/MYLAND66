@@ -1,0 +1,109 @@
+{
+  "id": 805,
+  "cn": "濑户的花嫁",
+  "title": "瀬戸の花嫁",
+  "city": "香川县",
+  "cover": "https://image.xinu.ink/pic/data/41/images/805.jpg",
+  "color": "#c69c8e",
+  "geo": [
+    34.687428,
+    134.884644
+  ],
+  "zoom": 7,
+  "modified": 1734539928811,
+  "litePoints": [
+    {
+      "id": "kpx6ot7vy",
+      "name": "仁尾サンビーチ",
+      "image": "https://image.anitabi.cn/points/805/kpx6ot7vy_1734538785450.jpg?plan=h160",
+      "geo": [
+        34.1763,
+        133.6477
+      ]
+    },
+    {
+      "id": "kpx6ot7wh",
+      "name": "「曽保浦の谷」バス停付近",
+      "image": "https://image.anitabi.cn/points/805/kpx6ot7wh_1734539408675.jpg?plan=h160",
+      "geo": [
+        34.177,
+        133.6478
+      ]
+    },
+    {
+      "id": "kpx6ot8oo",
+      "name": "「曽保浦の谷」バス停",
+      "image": "https://image.anitabi.cn/points/805/kpx6ot8oo_1734539422498.jpg?plan=h160",
+      "geo": [
+        34.1771,
+        133.6477
+      ]
+    },
+    {
+      "id": "kpx6ot8de",
+      "name": "「曽保浦の谷」バス停 对面",
+      "image": "https://image.anitabi.cn/points/805/kpx6ot8de_1734539429193.jpg?plan=h160",
+      "geo": [
+        34.1771,
+        133.6479
+      ]
+    },
+    {
+      "id": "kpx6ot8mo",
+      "name": "七宝稲荷神社 门前",
+      "image": "https://image.anitabi.cn/points/805/kpx6ot8mo_1734538905945.jpg?plan=h160",
+      "geo": [
+        34.1582,
+        133.6464
+      ]
+    },
+    {
+      "id": "kpx6ot8yg",
+      "name": "七宝稲荷神社 碑前",
+      "image": "https://image.anitabi.cn/points/805/kpx6ot8yg_1734538968121.jpg?plan=h160",
+      "geo": [
+        34.1582,
+        133.6465
+      ]
+    },
+    {
+      "id": "kpx6otd28",
+      "name": "七宝稲荷神社 殿",
+      "image": "https://image.anitabi.cn/points/805/kpx6otd28_1734538862497.jpg?plan=h160",
+      "geo": [
+        34.1583,
+        133.6467
+      ]
+    },
+    {
+      "id": "kpx6ot90h",
+      "name": "観音寺駅",
+      "image": "https://image.anitabi.cn/points/805/kpx6ot90h_1734538872378.jpg?plan=h160",
+      "geo": [
+        34.1247,
+        133.6556
+      ]
+    },
+    {
+      "id": "kpx6ot93y",
+      "name": "観音寺駅（１番線）",
+      "image": "https://image.anitabi.cn/points/805/kpx6ot93y_1734538878352.jpg?plan=h160",
+      "geo": [
+        34.1246,
+        133.6562
+      ]
+    },
+    {
+      "id": "kpx6ot9vp",
+      "name": "京都駅（新幹線中央口付近）",
+      "image": "https://image.anitabi.cn/points/805/kpx6ot9vp_1734538327833.jpg?plan=h160",
+      "geo": [
+        34.9848,
+        135.7583
+      ]
+    }
+  ],
+  "pointsLength": 22,
+  "imagesLength": 22,
+  "local_id": 41
+}

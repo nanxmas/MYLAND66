@@ -1,0 +1,99 @@
+{
+  "id": 798,
+  "title": "sola",
+  "city": "长崎市",
+  "cover": "https://image.xinu.ink/pic/data/40/images/798.jpg",
+  "color": "#554763",
+  "geo": [
+    32.749745,
+    129.877625
+  ],
+  "modified": 1740555114498,
+  "litePoints": [
+    {
+      "id": "t6bz03jsm",
+      "name": "宗教法人 カトリック・マリア会 海星修道院 海星志願院",
+      "image": "https://image.anitabi.cn/user/0/bangumi/798/points/t6bz03jsm-1740451765477.jpg?plan=h160",
+      "ep": 1,
+      "s": 388,
+      "geo": [
+        32.7364,
+        129.8749
+      ]
+    },
+    {
+      "id": "t6c3ed47i",
+      "cn": "大浦天主堂",
+      "name": "大浦天主堂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/798/points/t6c3ed47i-1740451960282.jpg?plan=h160",
+      "ep": 1,
+      "s": 1256,
+      "geo": [
+        32.7342,
+        129.8701
+      ]
+    },
+    {
+      "id": "t7j06usrp",
+      "cn": "长崎站前",
+      "name": "長崎駅前",
+      "image": "https://image.anitabi.cn/user/0/bangumi/798/points/t7j06usrp-1740545425763.jpg?plan=h160",
+      "ep": 1,
+      "s": 46,
+      "geo": [
+        32.7522,
+        129.8719
+      ]
+    },
+    {
+      "id": "t7j65o30j",
+      "cn": "眼镜桥",
+      "name": "眼鏡橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/798/points/t7j65o30j-1740545754579.jpg?plan=h160",
+      "ep": 2,
+      "s": 45,
+      "geo": [
+        32.7472,
+        129.88
+      ]
+    },
+    {
+      "id": "t7j90eva1",
+      "cn": "稻佐山山顶展望台",
+      "name": "稲佐山山頂展望台",
+      "image": "https://image.anitabi.cn/user/0/bangumi/798/points/t7j90eva1-1740545891374.jpg?plan=h160",
+      "ep": 5,
+      "s": 247,
+      "geo": [
+        32.7525,
+        129.8495
+      ]
+    },
+    {
+      "id": "t7jd6rq73",
+      "name": "Cafe lx 水辺の森店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/798/points/t7jd6rq73-1740546162618.jpg?plan=h160",
+      "ep": 11,
+      "s": 517,
+      "geo": [
+        32.7399,
+        129.8715
+      ]
+    },
+    {
+      "id": "t7jh7xvcs",
+      "cn": "长崎港入口",
+      "name": "長崎港の港口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/798/points/t7jh7xvcs-1740546460118.jpg?plan=h160",
+      "ep": 1,
+      "s": 90,
+      "geo": [
+        32.721,
+        129.8494
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "local_id": 40
+}
