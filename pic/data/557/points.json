@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ko3qiowh3",
+    "name": "七島展望台",
+    "image": "https://image.xinu.ink/pic/data/557/images/ko3qiowh3_1716454412550.jpg",
+    "geo": [
+      34.0692,
+      139.5087
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1RFkyA8UMYhikLp8Lcnkk897pC3pADhE&ll=34.069258%2C139.508732&z=17"
+  },
+  {
+    "id": "ko3qiow7z",
+    "name": "ぶんぶんのパンケーキやさん",
+    "image": "https://image.xinu.ink/pic/data/557/images/ko3qiow7z_1716454412880.jpg",
+    "geo": [
+      34.8469,
+      136.5411
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1RFkyA8UMYhikLp8Lcnkk897pC3pADhE&ll=34.846966%2C136.541178&z=17"
+  },
+  {
+    "id": "ko3qiow1q",
+    "name": "鈴鹿サーキット",
+    "image": "https://image.xinu.ink/pic/data/557/images/ko3qiow1q_1716454413158.jpg",
+    "geo": [
+      34.8437,
+      136.5394
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1RFkyA8UMYhikLp8Lcnkk897pC3pADhE&ll=34.843701%2C136.539492&z=17"
+  }
+]

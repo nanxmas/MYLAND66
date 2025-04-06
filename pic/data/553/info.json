@@ -1,0 +1,130 @@
+{
+  "id": 220375,
+  "cn": "遥的接球",
+  "title": "はるかなレシーブ",
+  "city": "冲绳县",
+  "cover": "https://image.xinu.ink/pic/data/553/images/220375.jpg",
+  "color": "#bd84cd",
+  "cp": "はるかなレシーブ",
+  "geo": [
+    26.2888867335935,
+    127.77944041260503
+  ],
+  "zoom": 9.795,
+  "modified": 1736951923330,
+  "litePoints": [
+    {
+      "id": "8f471798",
+      "name": "あざまサンサンビーチ",
+      "image": "https://image.anitabi.cn/points/220375/8f471798_1726058954600.jpg?plan=h160",
+      "ep": 10,
+      "s": 1014,
+      "geo": [
+        26.1783,
+        127.8291
+      ]
+    },
+    {
+      "id": "6ad8469f",
+      "name": "うるまジェラート",
+      "image": "https://image.anitabi.cn/points/220375/6ad8469f_1726058957296.jpg?plan=h160",
+      "ep": 8,
+      "s": 701,
+      "geo": [
+        26.3384,
+        127.8907
+      ]
+    },
+    {
+      "id": "26799df8",
+      "name": "沖縄県立前原高等学校",
+      "image": "https://image.anitabi.cn/points/220375/26799df8_1726058959328.jpg?plan=h160",
+      "ep": 3,
+      "s": 1,
+      "geo": [
+        26.3718,
+        127.8606
+      ]
+    },
+    {
+      "id": "4b08db0b",
+      "name": "イオンモール沖縄ライカム",
+      "image": "https://image.anitabi.cn/points/220375/4b08db0b_1726058961394.jpg?plan=h160",
+      "ep": 4,
+      "s": 536,
+      "geo": [
+        26.3142,
+        127.796
+      ]
+    },
+    {
+      "id": "05162295",
+      "name": "普天満山 神宮寺",
+      "image": "https://image.anitabi.cn/points/220375/05162295_1726058963460.jpg?plan=h160",
+      "ep": 8,
+      "s": 162,
+      "geo": [
+        26.2927,
+        127.7768
+      ]
+    },
+    {
+      "id": "46637a78",
+      "name": "普天満宮前道路",
+      "image": "https://image.anitabi.cn/points/220375/46637a78_1726058965472.jpg?plan=h160",
+      "ep": 8,
+      "s": 1111,
+      "geo": [
+        26.2935,
+        127.7783
+      ]
+    },
+    {
+      "id": "7246aef1",
+      "name": "ENEOS 白石ＳＳ那覇大橋店",
+      "image": "https://image.anitabi.cn/points/220375/7246aef1_1726058967658.jpg?plan=h160",
+      "ep": 8,
+      "s": 1166,
+      "geo": [
+        26.2023,
+        127.6814
+      ]
+    },
+    {
+      "id": "fbae0162",
+      "name": "那覇大橋整備事業",
+      "image": "https://image.anitabi.cn/points/220375/fbae0162_1726058969607.jpg?plan=h160",
+      "ep": 8,
+      "s": 1213,
+      "geo": [
+        26.2018,
+        127.679
+      ]
+    },
+    {
+      "id": "5c908728",
+      "name": "しーちゃんと話をしているシーン",
+      "image": "https://image.anitabi.cn/points/220375/5c908728_1726058972007.jpg?plan=h160",
+      "ep": 7,
+      "s": 209,
+      "geo": [
+        26.3596,
+        127.8716
+      ]
+    },
+    {
+      "id": "bc4ae81f",
+      "name": "空港へ走るシーン交差点",
+      "image": "https://image.anitabi.cn/points/220375/bc4ae81f_1726058974262.jpg?plan=h160",
+      "ep": 8,
+      "s": 1219,
+      "geo": [
+        26.1972,
+        127.6604
+      ]
+    }
+  ],
+  "pointsLength": 14,
+  "imagesLength": 14,
+  "local_id": 553
+}

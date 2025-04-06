@@ -1,0 +1,134 @@
+{
+  "id": 214265,
+  "cn": "少女☆歌剧 Revue Starlight",
+  "title": "少女☆歌劇レヴュースタァライト",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/532/images/214265.jpg",
+  "color": "#fb5458",
+  "geo": [
+    35.615795519345994,
+    139.7358017460565
+  ],
+  "zoom": 8.626,
+  "modified": 1741897678163,
+  "litePoints": [
+    {
+      "id": "ogoywb759",
+      "name": "津田塾大学前",
+      "image": "https://image.anitabi.cn/points/214265/ogoywb759_1727158059642.jpg?plan=h160",
+      "ep": 1,
+      "s": 558,
+      "geo": [
+        35.7218,
+        139.4649
+      ]
+    },
+    {
+      "id": "oh847fa95",
+      "name": "武蔵野市桜堤三丁目歩道橋",
+      "image": "https://image.anitabi.cn/points/214265/oh847fa95_1727199738234.jpg?plan=h160",
+      "ep": 1,
+      "s": 777,
+      "geo": [
+        35.7126,
+        139.5283
+      ]
+    },
+    {
+      "id": "oh0dsbjxc",
+      "name": "サンフレール",
+      "image": "https://image.anitabi.cn/points/214265/oh0dsbjxc_1727182934109.jpg?plan=h160",
+      "ep": 1,
+      "s": 790,
+      "geo": [
+        35.7019,
+        139.6154
+      ]
+    },
+    {
+      "id": "oh0qlmqxq",
+      "name": "三栄本社ビル",
+      "image": "https://image.anitabi.cn/points/214265/oh0qlmqxq_1727183730996.jpg?plan=h160",
+      "ep": 2,
+      "s": 222,
+      "geo": [
+        35.702,
+        139.6154
+      ]
+    },
+    {
+      "id": "lams7cyow",
+      "name": "津田塾大学",
+      "image": "https://image.anitabi.cn/user/1111/bangumi/214265/points/lams7cyow-1719399864901.jpg?plan=h160",
+      "ep": 2,
+      "s": 408,
+      "geo": [
+        35.7218,
+        139.4655
+      ]
+    },
+    {
+      "id": "ii3ehxlq9",
+      "cn": "JR荻洼站西口",
+      "name": "JR荻窪駅西口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/214265/points/ii3ehxlq9-1710341742478.jpg?plan=h160",
+      "ep": 4,
+      "s": 327,
+      "geo": [
+        35.7042,
+        139.6188
+      ]
+    },
+    {
+      "id": "ii3wuqnvk",
+      "cn": "池袋Sunshine City",
+      "name": "池袋サンシャインシティ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/214265/points/ii3wuqnvk-1710342315313.jpg?plan=h160",
+      "ep": 4,
+      "s": 363,
+      "geo": [
+        35.7295,
+        139.7173
+      ]
+    },
+    {
+      "id": "ii40db32p",
+      "cn": "荻洼站北口",
+      "name": "荻窪駅北口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/214265/points/ii40db32p-1710342615772.jpg?plan=h160",
+      "ep": 4,
+      "s": 371,
+      "geo": [
+        35.7048,
+        139.6206
+      ]
+    },
+    {
+      "id": "o7bwt3spm",
+      "cn": "Sunshine Aquarium 1F招牌",
+      "name": "サンシャイン水族館 1F看板",
+      "image": "https://image.anitabi.cn/points/214265/o7bwt3spm_1726424611592.jpg?plan=h160",
+      "ep": 4,
+      "s": 381,
+      "geo": [
+        35.7295,
+        139.7188
+      ]
+    },
+    {
+      "id": "o7cnhci0e",
+      "cn": "Sunshine Aquarium",
+      "name": "サンシャイン水族館",
+      "image": "https://image.anitabi.cn/points/214265/o7cnhci0e_1726425970451.jpg?plan=h160",
+      "ep": 4,
+      "s": 393,
+      "geo": [
+        35.7289,
+        139.7199
+      ]
+    }
+  ],
+  "pointsLength": 202,
+  "imagesLength": 202,
+  "local_id": 532
+}

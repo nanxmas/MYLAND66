@@ -1,0 +1,68 @@
+{
+  "id": 219141,
+  "title": "我为歌狂之旋律重启",
+  "city": "上海市",
+  "cover": "https://image.xinu.ink/pic/data/548/images/219141.jpg",
+  "color": "#152a40",
+  "modified": 1730654894290,
+  "litePoints": [
+    {
+      "id": "ppafouedv",
+      "name": "外滩",
+      "image": "https://image.anitabi.cn/points/219141/ppafouedv_1730653059692.jpg?plan=h160",
+      "ep": 1,
+      "s": 14,
+      "geo": [
+        31.2389,
+        121.4862
+      ]
+    },
+    {
+      "id": "odol9itt3",
+      "name": "复旦大学附属复兴中学 北门",
+      "image": "https://image.anitabi.cn/user/0/bangumi/219141/points/odol9itt3-1726922201667.jpg?plan=h160",
+      "ep": 1,
+      "s": 728,
+      "geo": [
+        31.2968,
+        121.4774
+      ]
+    },
+    {
+      "id": "odkzqqtfg",
+      "name": "梅赛德斯-奔驰文化中心",
+      "image": "https://image.anitabi.cn/user/0/bangumi/219141/points/odkzqqtfg-1726914331007.jpg?plan=h160",
+      "ep": 1,
+      "s": 1100,
+      "geo": [
+        31.191,
+        121.4886
+      ]
+    },
+    {
+      "id": "ppayuwmpz",
+      "name": "市三女中 西门",
+      "image": "https://image.anitabi.cn/points/219141/ppayuwmpz_1730653981291.jpg?plan=h160",
+      "ep": 2,
+      "s": 1041,
+      "geo": [
+        31.2243,
+        121.4252
+      ]
+    },
+    {
+      "id": "ppb3a337i",
+      "name": "市三女中 东楼",
+      "image": "https://image.anitabi.cn/points/219141/ppb3a337i_1730654285024.jpg?plan=h160",
+      "ep": 2,
+      "s": 1044,
+      "geo": [
+        31.2254,
+        121.4264
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 548
+}

@@ -1,0 +1,51 @@
+{
+  "id": 229182,
+  "title": "我是江小白",
+  "city": "重庆市",
+  "cover": "https://image.xinu.ink/pic/data/576/images/229182.jpg",
+  "color": "#b04a51",
+  "geo": [
+    29.558072928271784,
+    106.57267402345923
+  ],
+  "zoom": 15.007,
+  "modified": 1719323427254,
+  "litePoints": [
+    {
+      "id": "k32pnqr7n",
+      "name": "合景·聚融广场",
+      "image": "https://image.anitabi.cn/user/0/bangumi/229182/points/k32pnqr7n-1714806747484.jpg?plan=h160",
+      "ep": 1,
+      "s": 210,
+      "geo": [
+        29.5568,
+        106.5703
+      ]
+    },
+    {
+      "id": "lo71zqsnd",
+      "cn": "重庆市聚奎中学校",
+      "name": "重庆市聚奎中学校",
+      "image": "https://image.anitabi.cn/user/0/bangumi/229182/points/lo71zqsnd-1719282970931.jpg?plan=h160",
+      "ep": 5,
+      "s": 956,
+      "geo": [
+        29.0416,
+        106.1388
+      ]
+    },
+    {
+      "id": "k31zzs1oh",
+      "cn": "抗战胜利纪功碑暨人民解放纪念碑",
+      "name": "抗战胜利纪功碑暨人民解放纪念碑",
+      "image": "https://image.anitabi.cn/user/0/bangumi/229182/points/k31zzs1oh-1714804948391.jpg?plan=h160",
+      "geo": [
+        29.5599,
+        106.5733
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 576
+}

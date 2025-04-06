@@ -1,0 +1,52 @@
+{
+  "id": 221062,
+  "cn": "女神异闻录5 the Animation",
+  "title": "PERSONA5 the Animation",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/560/images/221062.jpg",
+  "color": "#6a7f95",
+  "geo": [
+    35.64572647986972,
+    139.71903620550484
+  ],
+  "zoom": 10.019,
+  "modified": 1717704910983,
+  "litePoints": [
+    {
+      "id": "idm0bxtde",
+      "name": "New Marina",
+      "image": "https://image.anitabi.cn/user/1042/bangumi/221062/points/idm0bxtde-1709990230475.jpg?plan=h160",
+      "ep": 1,
+      "s": 499,
+      "geo": [
+        35.6428,
+        139.6694
+      ]
+    },
+    {
+      "id": "idnf3q1cs",
+      "cn": "堀越高等学校",
+      "name": "堀越高等学校",
+      "image": "https://image.anitabi.cn/user/1042/bangumi/221062/points/idnf3q1cs-1709992990884.jpg?plan=h160",
+      "ep": 1,
+      "s": 805,
+      "geo": [
+        35.7009,
+        139.6759
+      ]
+    },
+    {
+      "id": "idlgbsz0w",
+      "name": "渋谷スクランブル交差点",
+      "image": "https://image.anitabi.cn/user/1042/bangumi/221062/points/idlgbsz0w-1709988853261.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.6594,
+        139.7005
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 560
+}

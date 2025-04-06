@@ -1,0 +1,134 @@
+{
+  "id": 216310,
+  "cn": "向山进发 第三季",
+  "title": "ヤマノススメ サードシーズン",
+  "city": "饭能市",
+  "cover": "https://image.xinu.ink/pic/data/539/images/216310.jpg",
+  "color": "#634e47",
+  "cp": "『ヤマノススメ サードシーズン』",
+  "geo": [
+    35.856979793829225,
+    139.31085698504552
+  ],
+  "zoom": 15.353,
+  "modified": 1734966567167,
+  "litePoints": [
+    {
+      "id": "ly8ghwif1",
+      "name": "観音寺",
+      "image": "https://image.anitabi.cn/points/216310/ly8ghwif1_1720069356586.jpg?plan=h160",
+      "ep": 1,
+      "s": 747,
+      "geo": [
+        35.856,
+        139.3129
+      ]
+    },
+    {
+      "id": "ly8tew5w7",
+      "name": "飯能河原ステージ広場",
+      "image": "https://image.anitabi.cn/points/216310/ly8tew5w7_1720070143457.jpg?plan=h160",
+      "ep": 13,
+      "s": 611,
+      "geo": [
+        35.8552,
+        139.3123
+      ]
+    },
+    {
+      "id": "ly9iks5dk",
+      "cn": "箕ノ口公園",
+      "name": 8,
+      "image": "https://image.anitabi.cn/points/216310/ly9iks5dk_1720071750855.jpg?plan=h160",
+      "ep": 1,
+      "s": 760,
+      "geo": [
+        35.8586,
+        139.3095
+      ]
+    },
+    {
+      "id": "nrne38kan",
+      "cn": "筑波山",
+      "name": "筑波山",
+      "image": "https://image.anitabi.cn/user/0/bangumi/216310/points/nrne38kan-1725195528099.jpg?plan=h160",
+      "ep": 1,
+      "s": 612,
+      "geo": [
+        36.2253,
+        140.1067
+      ]
+    },
+    {
+      "id": "qdeh2h5pm",
+      "cn": "杜鹃花丘站",
+      "name": "つつじケ丘駅",
+      "image": "https://image.anitabi.cn/points/216310/qdeh2h5pm_1732542374171.jpg?plan=h160",
+      "ep": 1,
+      "s": 345,
+      "geo": [
+        36.2197,
+        140.119
+      ]
+    },
+    {
+      "id": "qdeu0eeab",
+      "cn": "筑波山登山口",
+      "name": "筑波山登山口",
+      "image": "https://image.anitabi.cn/points/216310/qdeu0eeab_1732543136431.jpg?plan=h160",
+      "ep": 1,
+      "s": 348,
+      "geo": [
+        36.2202,
+        140.1187
+      ]
+    },
+    {
+      "id": "qdf121jdu",
+      "name": "母の胎内くぐり",
+      "image": "https://image.anitabi.cn/points/216310/qdf121jdu_1732543558607.jpg?plan=h160",
+      "ep": 1,
+      "s": 470,
+      "geo": [
+        36.2243,
+        140.1114
+      ]
+    },
+    {
+      "id": "qdf9vkxuw",
+      "name": "北斗岩",
+      "image": "https://image.anitabi.cn/points/216310/qdf9vkxuw_1732544145662.jpg?plan=h160",
+      "ep": 1,
+      "s": 499,
+      "geo": [
+        36.2251,
+        140.1088
+      ]
+    },
+    {
+      "id": "qdfeyxori",
+      "name": "東吾野駅",
+      "image": "https://image.anitabi.cn/points/216310/qdfeyxori_1732544437401.jpg?plan=h160",
+      "ep": 3,
+      "s": 182,
+      "geo": [
+        35.8923,
+        139.2603
+      ]
+    },
+    {
+      "id": "qdfm10dv7",
+      "name": "東吾野駅踏切前",
+      "image": "https://image.anitabi.cn/points/216310/qdfm10dv7_1732544828656.jpg?plan=h160",
+      "ep": 3,
+      "s": 206,
+      "geo": [
+        35.893,
+        139.2596
+      ]
+    }
+  ],
+  "pointsLength": 42,
+  "imagesLength": 35,
+  "local_id": 539
+}

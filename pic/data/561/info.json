@@ -1,0 +1,117 @@
+{
+  "id": 221127,
+  "cn": "黄金神威",
+  "title": "ゴールデンカムイ",
+  "city": "北海道",
+  "cover": "https://image.xinu.ink/pic/data/561/images/221127.jpg",
+  "color": "#cc7900",
+  "cp": "ゴールデンカムイ",
+  "geo": [
+    43.04703423061446,
+    143.1877770423813
+  ],
+  "zoom": 7.0137965424358875,
+  "modified": 1733407695336,
+  "litePoints": [
+    {
+      "id": "5qpzrito",
+      "name": "旧浦河支庁庁舎",
+      "image": "https://image.anitabi.cn/user/0/bangumi/221127/points/5qpzrito-1733400685141.jpg?plan=h160",
+      "geo": [
+        43.0479,
+        141.4983
+      ]
+    },
+    {
+      "id": "5qpzrjeg",
+      "name": "車石",
+      "image": "https://image.anitabi.cn/user/0/bangumi/221127/points/5qpzrjeg-1733113716896.jpg?plan=h160",
+      "s": 930,
+      "geo": [
+        43.2782,
+        145.5892
+      ]
+    },
+    {
+      "id": "5qpzrkec",
+      "name": "網走監獄煉瓦門",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/221127/points/5qpzrkec-1717511851751.jpg?plan=h160",
+      "ep": 1,
+      "s": 250,
+      "geo": [
+        43.9959,
+        144.2288
+      ]
+    },
+    {
+      "id": "5qpzrk95",
+      "name": "職員官舎",
+      "image": "https://image.anitabi.cn/user/0/bangumi/221127/points/5qpzrk95-1733314791529.jpg?plan=h160",
+      "s": 776,
+      "geo": [
+        43.9963,
+        144.2295
+      ]
+    },
+    {
+      "id": "qng5x9slp",
+      "name": "教誨堂前",
+      "image": "https://image.anitabi.cn/points/221127/qng5x9slp_1733329693593.jpg?plan=h160",
+      "s": 933,
+      "geo": [
+        43.9956,
+        144.2285
+      ]
+    },
+    {
+      "id": "5qpzrkr3",
+      "name": "教誨堂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/221127/points/5qpzrkr3-1733315925363.jpg?plan=h160",
+      "s": 949,
+      "geo": [
+        43.9956,
+        144.2283
+      ]
+    },
+    {
+      "id": "5qpzrkkm",
+      "name": "五翼放射状平屋舎房",
+      "image": "https://image.anitabi.cn/user/0/bangumi/221127/points/5qpzrkkm-1733314176758.jpg?plan=h160",
+      "s": 1062,
+      "geo": [
+        43.9952,
+        144.2299
+      ]
+    },
+    {
+      "id": "5qpzrja4",
+      "name": "旧小樽倉庫",
+      "image": "https://image.anitabi.cn/user/0/bangumi/221127/points/5qpzrja4-1725151541194.jpg?plan=h160",
+      "geo": [
+        43.2004,
+        141.0006
+      ]
+    },
+    {
+      "id": "5qpzrins",
+      "name": "大正硝子館(旧名取高三郎商店)",
+      "image": "https://image.anitabi.cn/user/0/bangumi/221127/points/5qpzrins-1725151657955.jpg?plan=h160",
+      "geo": [
+        43.1965,
+        141.0025
+      ]
+    },
+    {
+      "id": "5qpzriz5",
+      "name": "小樽浪漫館(旧百十三銀行小樽支店)",
+      "image": "https://image.anitabi.cn/user/0/bangumi/221127/points/5qpzriz5-1725151595546.jpg?plan=h160",
+      "geo": [
+        43.1963,
+        141.0028
+      ]
+    }
+  ],
+  "pointsLength": 83,
+  "imagesLength": 11,
+  "local_id": 561
+}

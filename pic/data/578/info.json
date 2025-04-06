@@ -1,0 +1,119 @@
+{
+  "id": 230968,
+  "cn": "旅行青蛙",
+  "title": "旅かえる",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/578/images/230968_noeca5h47.jpg",
+  "color": "#80aa55",
+  "geo": [
+    38.413288276287375,
+    136.97074490779636
+  ],
+  "zoom": 4.821,
+  "modified": 1727291719614,
+  "litePoints": [
+    {
+      "id": "nobm0v5yf",
+      "cn": "名古屋城",
+      "name": "名古屋城",
+      "image": "https://image.anitabi.cn/1747/2024-08/2ef15c03c3c21b4b29167d846a24c74e.jpeg?plan=h160",
+      "geo": [
+        35.1855,
+        136.899
+      ]
+    },
+    {
+      "id": "nocrqac6p",
+      "cn": "奥入濑溪流苔桥",
+      "name": "奥入濑溪流",
+      "image": "https://image.anitabi.cn/1747/2024-08/e033369ea4084d8d53008c4663d6627e.jpeg?plan=h160",
+      "geo": [
+        40.5219,
+        140.9727
+      ]
+    },
+    {
+      "id": "nobnuxv7p",
+      "cn": "天桥立",
+      "name": "天橋立",
+      "image": "https://image.anitabi.cn/1747/2024-08/72400619f3ba016a8e51d9a9b24a815c.jpeg?plan=h160",
+      "geo": [
+        35.5701,
+        135.1919
+      ]
+    },
+    {
+      "id": "npfsq1z8j",
+      "cn": "雷門",
+      "name": "雷門",
+      "image": "https://image.anitabi.cn/points/230968/npfsq1z8j_1725022268164.jpg?plan=h160",
+      "geo": [
+        35.711,
+        139.7963
+      ]
+    },
+    {
+      "id": "nobpnpzn4",
+      "cn": "善光寺",
+      "name": "善光寺",
+      "image": "https://image.anitabi.cn/1747/2024-08/ad563ba59b724dec7df072e49c698441.jpeg?plan=h160",
+      "geo": [
+        36.6616,
+        138.1876
+      ]
+    },
+    {
+      "id": "npfzrskth",
+      "cn": "出云大社",
+      "name": "Izumo Taisha",
+      "image": "https://image.anitabi.cn/points/230968/npfzrskth_1725022713490.jpg?plan=h160",
+      "geo": [
+        35.4019,
+        132.6855
+      ]
+    },
+    {
+      "id": "nobrueo7n",
+      "cn": "宇治桥",
+      "name": "宇治橋",
+      "image": "https://image.anitabi.cn/1747/2024-08/533bc88cd3864e2f916d50eae479ce0f.jpeg?plan=h160",
+      "geo": [
+        34.8929,
+        135.8061
+      ]
+    },
+    {
+      "id": "nobtdo0xe",
+      "cn": "入道崎灯台",
+      "name": "入道崎灯台",
+      "image": "https://image.anitabi.cn/1747/2024-08/3cef396a37edb1cbf97f062dd3621fbc.jpeg?plan=h160",
+      "geo": [
+        40.005,
+        139.7016
+      ]
+    },
+    {
+      "id": "nobwir65n",
+      "cn": "草津温泉",
+      "name": "湯畑",
+      "image": "https://image.anitabi.cn/1747/2024-08/fb40cb7636706bffe122654a1d5af7b3.jpeg?plan=h160",
+      "geo": [
+        36.6229,
+        138.5967
+      ]
+    },
+    {
+      "id": "noc1of8x8",
+      "cn": "有马温泉",
+      "name": "有馬川親水公園",
+      "image": "https://image.anitabi.cn/1747/2024-08/55d18ac8cc71ffd7d86091b138732b4b.jpeg?plan=h160",
+      "geo": [
+        34.7986,
+        135.247
+      ]
+    }
+  ],
+  "pointsLength": 20,
+  "imagesLength": 20,
+  "local_id": 578
+}

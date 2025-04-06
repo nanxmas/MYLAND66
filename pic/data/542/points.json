@@ -1,0 +1,779 @@
+[
+  {
+    "id": "6ac4004d",
+    "cn": "植物园站",
+    "name": "Babushkinskaya=bothanical gardens",
+    "image": "https://image.xinu.ink/pic/data/542/images/6ac4004d_1717325128363.jpg",
+    "geo": [
+      55.8448,
+      37.6382
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "kyyzuoany",
+    "cn": "莫斯科科学院植物园",
+    "name": "Babushkinskaya=bothanical gardens",
+    "image": "https://image.xinu.ink/pic/data/542/images/kyyzuoany_1717306342317.jpg",
+    "geo": [
+      55.8343,
+      37.6231
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "b9e9a28c",
+    "cn": "展览馆站",
+    "name": "VDNKh=Exhibition",
+    "image": "https://image.xinu.ink/pic/data/542/images/b9e9a28c_1717316578738.jpg",
+    "geo": [
+      55.821,
+      37.6414
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "kz3gz23x8",
+    "cn": "太空征服者纪念碑（莫斯科航天博物馆）",
+    "name": "Мемориальный музей космонавтики",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz3gz23x8_1717316580597.jpg",
+    "geo": [
+      55.8227,
+      37.6397
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kz3dt6pl6",
+    "cn": "全俄展览中心大门",
+    "name": "Главный вход ВДНХ",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz3dt6pl6_1717316581608.jpg",
+    "geo": [
+      55.8262,
+      37.6375
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kz3mi2wd0",
+    "cn": "全俄展览中心",
+    "name": "ВДНХ",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz3mi2wd0_1717316583830.jpg",
+    "geo": [
+      55.8286,
+      37.6335
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kz3inm8ct",
+    "cn": "宇宙酒店",
+    "name": "Hotel Cosmos",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz3inm8ct_1717316585277.jpg",
+    "geo": [
+      55.8222,
+      37.6464
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kyz18qfgj",
+    "cn": "克里姆林宫",
+    "name": "Kremlin",
+    "image": "https://image.xinu.ink/pic/data/542/images/kyz18qfgj_1717307381447.jpg",
+    "geo": [
+      55.7513,
+      37.6173
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kz1z0x5p4",
+    "cn": "亚历山大公园",
+    "name": "Александровский сад",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz1z0x5p4_1717316586256.jpg",
+    "geo": [
+      55.7522,
+      37.6136
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "63decdf4",
+    "cn": "和平大道站",
+    "name": "Prospekt Mira",
+    "image": "https://image.xinu.ink/pic/data/542/images/63decdf4_1717307385253.jpg",
+    "geo": [
+      55.7796,
+      37.6317
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "kz2pind4s",
+    "cn": "里加站",
+    "name": "Рижская",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz2pind4s_1717316587038.jpg",
+    "geo": [
+      55.7924,
+      37.6361
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kz2ss74zu",
+    "cn": "阿列克谢耶夫站",
+    "name": "Алексеевская",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz2ss74zu_1717316587874.jpg",
+    "geo": [
+      55.8078,
+      37.6387
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1167bc05",
+    "cn": "库兹涅茨克桥站",
+    "name": "Kuznetskiy most=Armory",
+    "image": "https://image.xinu.ink/pic/data/542/images/1167bc05_1717307386138.jpg",
+    "geo": [
+      55.7607,
+      37.6261
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "cd828894",
+    "cn": "苏哈列夫站",
+    "name": "Sukharevskaya",
+    "image": "https://image.xinu.ink/pic/data/542/images/cd828894_1717307386335.jpg",
+    "geo": [
+      55.7729,
+      37.6312
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "1c52ede0",
+    "cn": "屠格涅夫站",
+    "name": "Turgenevskaya",
+    "image": "https://image.xinu.ink/pic/data/542/images/1c52ede0_1717325129372.jpg",
+    "geo": [
+      55.7664,
+      37.6374
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "043ba0d1",
+    "cn": "清塘站",
+    "name": "Chistye prudy=Cursed Station",
+    "image": "https://image.xinu.ink/pic/data/542/images/043ba0d1_1717325129644.jpg",
+    "geo": [
+      55.7658,
+      37.639
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "kz4h88w3m",
+    "cn": "剧院站",
+    "name": "Teatralnaya",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz4h88w3m_1717325132195.jpg",
+    "geo": [
+      55.7574,
+      37.6192
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "83afd33c",
+    "cn": "莫斯科大剧院",
+    "name": "Bolshoi Theatre",
+    "image": "https://image.xinu.ink/pic/data/542/images/83afd33c_1717325133207.jpg",
+    "geo": [
+      55.7578,
+      37.6189
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "95ab67c5",
+    "cn": "新库兹涅茨克站",
+    "name": "Novokuznetskaya",
+    "image": "https://image.xinu.ink/pic/data/542/images/95ab67c5_1717325133853.jpg",
+    "geo": [
+      55.7414,
+      37.6292
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "f49fd491",
+    "cn": "特列季亚科夫站",
+    "name": "Tret'yakovskaya=Depot",
+    "image": "https://image.xinu.ink/pic/data/542/images/f49fd491_1717325134694.jpg",
+    "geo": [
+      55.7409,
+      37.6273
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "54c39d30",
+    "cn": "帕维列茨车站",
+    "name": "Paveletskaya=Hole Station",
+    "image": "https://image.xinu.ink/pic/data/542/images/54c39d30_1717325135610.jpg",
+    "geo": [
+      55.7304,
+      37.6378
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "50ab1ca1",
+    "cn": "林地站",
+    "name": "Polyanka=Black Station",
+    "image": "https://image.xinu.ink/pic/data/542/images/50ab1ca1_1717325136249.jpg",
+    "geo": [
+      55.7381,
+      37.6171
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "kz5azll44",
+    "cn": "黑色车站",
+    "name": "Black Station",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz5azll44_1717325136699.jpg",
+    "geo": [
+      55.7378,
+      37.6175
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "bad2d456",
+    "cn": "博罗维茨基站",
+    "name": "Borovitskaya",
+    "image": "https://image.xinu.ink/pic/data/542/images/bad2d456_1717325138653.jpg",
+    "geo": [
+      55.7509,
+      37.607
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "kz6h4oy8m",
+    "cn": "博罗维茨基站出口",
+    "name": "Borovitskaya",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz6h4oy8m_1717325139479.jpg",
+    "geo": [
+      55.7509,
+      37.6074
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "c8ad19c6",
+    "cn": "列宁图书馆站",
+    "name": "Biblioteka imeni Lenina",
+    "image": "https://image.xinu.ink/pic/data/542/images/c8ad19c6_1717325141046.jpg",
+    "geo": [
+      55.7512,
+      37.6101
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "104810e7",
+    "cn": "阿尔巴特站",
+    "name": "Arbatskaya",
+    "image": "https://image.xinu.ink/pic/data/542/images/104810e7_1717325142007.jpg",
+    "geo": [
+      55.752,
+      37.607
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "kz3ub3rl4",
+    "cn": "陀思妥耶夫斯基像",
+    "name": "Ф. М. Достоевскому",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz3ub3rl4_1717316571981.jpg",
+    "geo": [
+      55.752,
+      37.6098
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7dd1113f",
+    "cn": "俄罗斯国立图书馆",
+    "name": "Library",
+    "image": "https://image.xinu.ink/pic/data/542/images/7dd1113f_1717316589807.jpg",
+    "geo": [
+      55.7515,
+      37.6086
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "kz4ka83kw",
+    "cn": "俄罗斯国立图书馆大厅",
+    "name": "Library Hall",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz4ka83kw_1717325142845.jpg",
+    "geo": [
+      55.7514,
+      37.6085
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kz48xxfth",
+    "cn": "卢日尼基地铁桥",
+    "name": "Лужнецкий Метромост",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz48xxfth_1717317697472.jpg",
+    "geo": [
+      55.7103,
+      37.5592
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kz4b4q7lk",
+    "cn": "麻雀山站",
+    "name": "Vorobyovy Gory",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz4b4q7lk_1717317699870.jpg",
+    "geo": [
+      55.7126,
+      37.5641
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "8c8855f9",
+    "cn": "斯巴达基地",
+    "name": "Sparta",
+    "image": "https://image.xinu.ink/pic/data/542/images/8c8855f9_1717325144362.jpg",
+    "geo": [
+      55.7506,
+      37.604
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "kz2xtrlvf",
+    "name": "42号地堡",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz2xtrlvf_1717325145042.jpg",
+    "geo": [
+      55.7416,
+      37.649
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "e18e8268",
+    "name": "D6",
+    "image": "https://image.xinu.ink/pic/data/542/images/e18e8268_1717325145824.jpg",
+    "geo": [
+      55.7696,
+      37.5947
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "e031baf1",
+    "cn": "奥斯坦金诺电视塔",
+    "name": "Ostankino Tower",
+    "image": "https://image.xinu.ink/pic/data/542/images/e031baf1_1717306343371.jpg",
+    "geo": [
+      55.8197,
+      37.6116
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "c297371f",
+    "name": "前线",
+    "image": "https://image.xinu.ink/pic/data/542/images/c297371f_1717325146854.jpg",
+    "geo": [
+      55.7635,
+      37.6171
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "7cf4e53c",
+    "cn": "契诃夫站",
+    "name": "Chekhovskaya",
+    "image": "https://image.xinu.ink/pic/data/542/images/7cf4e53c_1717325147556.jpg",
+    "geo": [
+      55.7648,
+      37.6091
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "kz5m0zf1g",
+    "cn": "普希金站",
+    "name": "Пушкинская",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz5m0zf1g_1717325148187.jpg",
+    "geo": [
+      55.7653,
+      37.6074
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kz5m21xg3",
+    "cn": "特维尔站",
+    "name": "Тверская",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz5m21xg3_1717325149072.jpg",
+    "geo": [
+      55.7648,
+      37.6063
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "a963b9fe",
+    "cn": "革命广场站",
+    "name": "Ploschad Revolyutsii",
+    "image": "https://image.xinu.ink/pic/data/542/images/a963b9fe_1717325149923.jpg",
+    "geo": [
+      55.7566,
+      37.6218
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "2e560e14",
+    "cn": "十月站",
+    "name": "Oktyabr'skaya",
+    "image": "https://image.xinu.ink/pic/data/542/images/2e560e14_1717325151447.jpg",
+    "geo": [
+      55.7305,
+      37.6112
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "32fcf3b3",
+    "cn": "文化公园站",
+    "name": "Park Kultury",
+    "image": "https://image.xinu.ink/pic/data/542/images/32fcf3b3_1717325152397.jpg",
+    "geo": [
+      55.7354,
+      37.5943
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "f2fd3a38",
+    "cn": "克鲁泡特金站",
+    "name": "Kropotkinskaya",
+    "image": "https://image.xinu.ink/pic/data/542/images/f2fd3a38_1717325153165.jpg",
+    "geo": [
+      55.7454,
+      37.6037
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "kyz31zytc",
+    "cn": "斯巴斯克塔",
+    "name": "Спасская башня",
+    "image": "https://image.xinu.ink/pic/data/542/images/kyz31zytc_1717306344072.jpg",
+    "geo": [
+      55.7525,
+      37.6213
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kyz4zx2n6",
+    "cn": "圣瓦西里主教座堂",
+    "name": "Собор Василия Блаженного",
+    "image": "https://image.xinu.ink/pic/data/542/images/kyz4zx2n6_1717306344734.jpg",
+    "geo": [
+      55.7524,
+      37.623
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kyz6n4oiw",
+    "cn": "红场",
+    "name": "Красная Площадь",
+    "image": "https://image.xinu.ink/pic/data/542/images/kyz6n4oiw_1717307019550.jpg",
+    "geo": [
+      55.7539,
+      37.6205
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kyz9zbq37",
+    "cn": "伊伯利亚门",
+    "name": "Воскресенские ворота",
+    "image": "https://image.xinu.ink/pic/data/542/images/kyz9zbq37_1717307021144.jpg",
+    "geo": [
+      55.7556,
+      37.618
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kyzabbyd3",
+    "cn": "俄罗斯国家历史博物馆",
+    "name": "Государственный исторический музей",
+    "image": "https://image.xinu.ink/pic/data/542/images/kyzabbyd3_1717307023130.jpg",
+    "geo": [
+      55.7553,
+      37.6177
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "b00ce1b3",
+    "cn": "萨拉托夫伏尔加河河畔（伏尔加河）",
+    "name": "Volga",
+    "image": "https://image.xinu.ink/pic/data/542/images/b00ce1b3_1717325155058.jpg",
+    "geo": [
+      51.3999,
+      46.0073
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "kz6y41fmi",
+    "cn": "伏尔加铁路桥",
+    "name": "Саратовский железнодорожный мост",
+    "image": "https://image.xinu.ink/pic/data/542/images/b00ce1b3_1717299663720.jpg",
+    "geo": [
+      51.4107,
+      45.9933
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2b5f25e2",
+    "cn": "亚曼托山（亚曼托）",
+    "name": "Yamatau Metro Map Location",
+    "image": "https://image.xinu.ink/pic/data/542/images/6d1a36c0_1717299659469.jpg",
+    "geo": [
+      54.3838,
+      57.7045
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "c38b1231",
+    "cn": "阿特劳（里海）",
+    "name": "Caspian",
+    "image": "https://image.xinu.ink/pic/data/542/images/c38b1231_1717300179523.jpg",
+    "geo": [
+      47.0606,
+      51.8737
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "99ce8cd2",
+    "cn": "坦布拉拜公立国家自然公园（针叶林）",
+    "name": "Taiga",
+    "image": "https://image.xinu.ink/pic/data/542/images/99ce8cd2_1717300180691.jpg",
+    "geo": [
+      52.9587,
+      70.2002
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "640aa3e6",
+    "cn": "新西伯利亚（死城）",
+    "name": "Dead City",
+    "image": "https://image.xinu.ink/pic/data/542/images/640aa3e6_1717300182550.jpg",
+    "geo": [
+      55.0267,
+      82.903
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "kz6rgfvbf",
+    "cn": "新西伯利亚站",
+    "name": "Новосибирск-Главный",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz6rgfvbf_1717325157290.jpg",
+    "geo": [
+      55.0352,
+      82.895
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kz6w91zwj",
+    "cn": "列宁广场站",
+    "name": "Площадь Ленина",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz6w91zwj_1717325158869.jpg",
+    "geo": [
+      55.0301,
+      82.9204
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kz79rqmo4",
+    "cn": "红色大街站",
+    "name": "Красный проспект",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz79rqmo4_1717325159872.jpg",
+    "geo": [
+      55.0413,
+      82.9174
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kz7b956q4",
+    "cn": "西伯利亚站",
+    "name": "Сибирская",
+    "image": "https://image.xinu.ink/pic/data/542/images/kz7b956q4_1717325160588.jpg",
+    "geo": [
+      55.0423,
+      82.9187
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "e0d0ccf2",
+    "cn": "贝加尔湖",
+    "name": "Байкал end point",
+    "image": "https://image.xinu.ink/pic/data/542/images/e0d0ccf2_1717300183983.jpg",
+    "geo": [
+      51.8742,
+      104.7923
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "da2fc8a1",
+    "cn": "山姆的故事（符拉迪沃斯托克/海参崴）",
+    "name": "Sam's Story",
+    "image": "https://image.xinu.ink/pic/data/542/images/kywiof0j8_1717301505477.jpg",
+    "geo": [
+      43.1152,
+      131.8965
+    ],
+    "origin": "MatDS2002",
+    "originLink": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "kywiof0j8",
+    "cn": "金角湾大桥",
+    "name": "Золотой Мост",
+    "image": "https://image.xinu.ink/pic/data/542/images/kywiof0j8_1717302131376.jpg",
+    "geo": [
+      43.1085,
+      131.8964
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kywu5sqbt",
+    "cn": "符拉迪沃斯托克 登山电车站",
+    "name": "Верхняя станция",
+    "image": "https://image.xinu.ink/pic/data/542/images/kywu5sqbt_1717301500893.jpg",
+    "geo": [
+      43.1174,
+      131.9
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kyxaxwnnr",
+    "cn": "列宁像",
+    "name": "Памятник В.И.Ленину",
+    "image": "https://image.xinu.ink/pic/data/542/images/kyxaxwnnr_1717302661083.jpg",
+    "geo": [
+      43.1115,
+      131.8801
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kyx1br5eg",
+    "cn": "金门大桥",
+    "name": "Golden Gate Bridge",
+    "image": "https://image.xinu.ink/pic/data/542/images/kyx1br5eg_1717302131950.jpg",
+    "geo": [
+      37.8199,
+      -122.4786
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  }
+]

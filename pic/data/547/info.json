@@ -1,0 +1,110 @@
+{
+  "id": 218712,
+  "cn": "SSSS.古立特",
+  "title": "SSSS.GRIDMAN",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/547/images/218712.jpg",
+  "color": "#d73e4a",
+  "cp": "GRIDMAN",
+  "geo": [
+    35.69679351153894,
+    139.62809002995698
+  ],
+  "zoom": 10.275,
+  "modified": 1740308559679,
+  "litePoints": [
+    {
+      "id": "51i51tb8g",
+      "name": "リサイクルショップザック 高円寺店1",
+      "image": "https://image.anitabi.cn/points/218712/51i51tb8g_1672369741185.jpg?plan=h160",
+      "geo": [
+        35.6976,
+        139.6446
+      ]
+    },
+    {
+      "id": "51i51tazz",
+      "name": "リサイクルショップザック 高円寺店2",
+      "image": "https://image.anitabi.cn/points/218712/51i51tazz_1672369742195.jpg?plan=h160",
+      "geo": [
+        35.6976,
+        139.6446
+      ]
+    },
+    {
+      "id": "51i51tbf6",
+      "name": "リサイクルショップザック 高円寺店3",
+      "image": "https://image.anitabi.cn/points/218712/51i51tbf6_1672369743414.jpg?plan=h160",
+      "geo": [
+        35.6976,
+        139.6446
+      ]
+    },
+    {
+      "id": "51i51tb2z",
+      "name": "リサイクルショップザック 高円寺店4",
+      "image": "https://image.anitabi.cn/points/218712/51i51tb2z_1672369747579.jpg?plan=h160",
+      "geo": [
+        35.6976,
+        139.6446
+      ]
+    },
+    {
+      "id": "51i51tbld",
+      "name": "リサイクルショップザック 高円寺店5",
+      "image": "https://image.anitabi.cn/points/218712/51i51tbld_1672369748947.jpg?plan=h160",
+      "geo": [
+        35.6976,
+        139.6448
+      ]
+    },
+    {
+      "id": "51i51tb4c",
+      "name": "リサイクルショップザック 高円寺店6",
+      "image": "https://image.anitabi.cn/points/218712/51i51tb4c_1672369750286.jpg?plan=h160",
+      "geo": [
+        35.6978,
+        139.6446
+      ]
+    },
+    {
+      "id": "51i51tc0l",
+      "name": "JR青梅線 御嶽駅ホーム",
+      "image": "https://image.anitabi.cn/points/218712/51i51tc0l_1672369751676.jpg?plan=h160",
+      "geo": [
+        35.8015,
+        139.1827
+      ]
+    },
+    {
+      "id": "51i51tc2k",
+      "name": "御嶽駅周辺1",
+      "image": "https://image.anitabi.cn/points/218712/51i51tc2k_1672369752710.jpg?plan=h160",
+      "geo": [
+        35.8014,
+        139.183
+      ]
+    },
+    {
+      "id": "51i51tc4n",
+      "name": "御嶽駅周辺2",
+      "image": "https://image.anitabi.cn/points/218712/51i51tc4n_1672369754009.jpg?plan=h160",
+      "geo": [
+        35.8012,
+        139.183
+      ]
+    },
+    {
+      "id": "51i51td01",
+      "name": "御嶽駅周辺3",
+      "image": "https://image.anitabi.cn/points/218712/51i51td01_1672369755048.jpg?plan=h160",
+      "geo": [
+        35.8014,
+        139.1828
+      ]
+    }
+  ],
+  "pointsLength": 74,
+  "imagesLength": 74,
+  "local_id": 547
+}

@@ -1,0 +1,30 @@
+{
+  "id": 221227,
+  "title": "我的三体 罗辑传",
+  "cover": "https://image.xinu.ink/pic/data/562/images/221227.jpg",
+  "color": "#152040",
+  "cp": "我的三体制作组",
+  "geo": [
+    -39.82080800000001,
+    -72.09357
+  ],
+  "zoom": 16,
+  "modified": 1724563021910,
+  "litePoints": [
+    {
+      "id": "niz8v2qyx",
+      "cn": "潘吉普伊湖",
+      "name": "潘吉普伊湖",
+      "image": "https://image.anitabi.cn/user/0/bangumi/221227/points/niz8v2qyx-1724516269985.jpg?plan=h160",
+      "ep": 4,
+      "s": 489,
+      "geo": [
+        -39.8209,
+        -72.0936
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 562
+}

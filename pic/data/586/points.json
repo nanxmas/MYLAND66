@@ -1,0 +1,65 @@
+[
+  {
+    "id": "dsbjbezgo",
+    "cn": "宫古机场",
+    "name": "宮古空港",
+    "image": "https://image.xinu.ink/pic/data/586/images/dsbjbezgo-1697037161062.jpg",
+    "ep": 12,
+    "s": 19,
+    "geo": [
+      24.7794,
+      125.2975
+    ],
+    "origin": "Anitabi@pshow",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "dsboo5q89",
+    "name": "東平安名崎灯台",
+    "image": "https://image.xinu.ink/pic/data/586/images/dsboo5q89-1697037314629.jpg",
+    "ep": 12,
+    "geo": [
+      24.7195,
+      125.4685
+    ],
+    "origin": "Anitabi@pshow",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "dsbp5gous",
+    "name": "東平安名崎",
+    "image": "https://image.xinu.ink/pic/data/586/images/dsbp5gous-1697037357465.jpg",
+    "ep": 12,
+    "geo": [
+      24.7203,
+      125.4675
+    ],
+    "origin": "Anitabi@pshow",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "dsbs09mbl",
+    "name": "与那覇前浜",
+    "image": "https://image.xinu.ink/pic/data/586/images/dsbs09mbl-1697037516664.jpg",
+    "ep": 12,
+    "geo": [
+      24.7347,
+      125.2624
+    ],
+    "origin": "Anitabi@pshow",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "dsbtm9rha",
+    "name": "活魚・海の幸",
+    "image": "https://image.xinu.ink/pic/data/586/images/dsbtm9rha-1697037618981.jpg",
+    "ep": 12,
+    "s": null,
+    "geo": [
+      24.8042,
+      125.2732
+    ],
+    "origin": "Anitabi@pshow",
+    "originURL": "https://anitabi.cn/"
+  }
+]

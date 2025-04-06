@@ -1,0 +1,102 @@
+{
+  "id": 220848,
+  "cn": "侧车搭档",
+  "title": "つうかあ",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/557/images/220848.jpg",
+  "color": "#1b9371",
+  "geo": [
+    34.060958742667395,
+    139.52867871439162
+  ],
+  "zoom": 9.331,
+  "modified": 1722518155081,
+  "litePoints": [
+    {
+      "id": "ko3qiowh3",
+      "name": "七島展望台",
+      "image": "https://image.anitabi.cn/points/220848/ko3qiowh3_1716454412550.jpg?plan=h160",
+      "geo": [
+        34.0692,
+        139.5087
+      ]
+    },
+    {
+      "id": "ko3qiow7z",
+      "name": "ぶんぶんのパンケーキやさん",
+      "image": "https://image.anitabi.cn/points/220848/ko3qiow7z_1716454412880.jpg?plan=h160",
+      "geo": [
+        34.8469,
+        136.5411
+      ]
+    },
+    {
+      "id": "ko3qiow1q",
+      "name": "鈴鹿サーキット",
+      "image": "https://image.anitabi.cn/points/220848/ko3qiow1q_1716454413158.jpg?plan=h160",
+      "geo": [
+        34.8437,
+        136.5394
+      ]
+    },
+    {
+      "id": "ko3gyodw9",
+      "name": "三宅島",
+      "geo": [
+        34.0788,
+        139.5178
+      ]
+    },
+    {
+      "id": "ko3gyodb6",
+      "name": "大野原島",
+      "geo": [
+        34.0487,
+        139.384
+      ]
+    },
+    {
+      "id": "ko3gyoduj",
+      "name": "三宅島警察署 阿古駐在所",
+      "geo": [
+        34.0714,
+        139.4807
+      ]
+    },
+    {
+      "id": "ko3gyod6r",
+      "name": "民宿 夕景",
+      "geo": [
+        34.0771,
+        139.4778
+      ]
+    },
+    {
+      "id": "ko3gyodww",
+      "name": "ヤマノベ旅館",
+      "geo": [
+        34.0614,
+        139.4873
+      ]
+    },
+    {
+      "id": "ko3gyod8a",
+      "name": "ティー・ハウス ノン・ノ",
+      "geo": [
+        34.0614,
+        139.4872
+      ]
+    },
+    {
+      "id": "ko3gyodj6",
+      "name": "三宅島一周道路",
+      "geo": [
+        34.0616,
+        139.4853
+      ]
+    }
+  ],
+  "pointsLength": 21,
+  "imagesLength": 3,
+  "local_id": 557
+}

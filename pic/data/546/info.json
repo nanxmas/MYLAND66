@@ -1,0 +1,59 @@
+{
+  "id": 218711,
+  "cn": "DARLING in the FRANXX",
+  "title": "ダーリン・イン・ザ・フランキス",
+  "cover": "https://image.xinu.ink/pic/data/546/images/218711_5Z5t1.jpg",
+  "cp": "フランキス",
+  "modified": 1741597408991,
+  "litePoints": [
+    {
+      "id": "tkxyd9jpg",
+      "name": "宫下公园人行天桥",
+      "image": "https://image.anitabi.cn/user/0/bangumi/218711/points/tkxyd9jpg-1741596646053.jpg?plan=h160",
+      "geo": [
+        35.6614,
+        139.7021
+      ]
+    },
+    {
+      "id": "tky00xs4p",
+      "cn": "人行天桥上",
+      "name": "明治通り",
+      "image": "https://image.anitabi.cn/user/0/bangumi/218711/points/tky00xs4p-1741596797702.jpg?plan=h160",
+      "geo": [
+        35.6614,
+        139.7022
+      ]
+    },
+    {
+      "id": "tky2ca9fp",
+      "name": "涩谷的车下人行洞",
+      "image": "https://image.anitabi.cn/user/0/bangumi/218711/points/tky2ca9fp-1741596917474.jpg?plan=h160",
+      "geo": [
+        35.6603,
+        139.7012
+      ]
+    },
+    {
+      "id": "tky47ugk1",
+      "name": "神泉站罗森",
+      "image": "https://image.anitabi.cn/user/0/bangumi/218711/points/tky47ugk1-1741596999993.jpg?plan=h160",
+      "geo": [
+        35.6573,
+        139.6938
+      ]
+    },
+    {
+      "id": "tkxu1nyay",
+      "name": "t路口",
+      "image": null,
+      "geo": [
+        35.6541,
+        139.7045
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 4,
+  "local_id": 546
+}

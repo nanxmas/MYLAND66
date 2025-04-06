@@ -1,0 +1,88 @@
+{
+  "id": 236196,
+  "cn": "Anima Yell!",
+  "title": "アニマエール！",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/588/images/236196.jpg",
+  "color": "#36aeb3",
+  "cp": "アニマエール！",
+  "geo": [
+    35.66860694777306,
+    139.70816070854835
+  ],
+  "zoom": 13.506,
+  "modified": 1729403075206,
+  "litePoints": [
+    {
+      "id": "51i51pnmw",
+      "cn": "Laforet原宿",
+      "name": "ラフォーレ原宿",
+      "image": "https://image.anitabi.cn/points/236196/51i51pnmw_1729401389667.jpg?plan=h160",
+      "ep": 7,
+      "s": 671,
+      "geo": [
+        35.6688,
+        139.7054
+      ]
+    },
+    {
+      "id": "51i51po2u",
+      "name": "東京メトロ 明治神宮前駅3番出口",
+      "image": "https://image.anitabi.cn/points/236196/51i51po2u_1729401572852.jpg?plan=h160",
+      "ep": 7,
+      "s": 680,
+      "geo": [
+        35.6697,
+        139.7031
+      ]
+    },
+    {
+      "id": "51i51po4p",
+      "cn": "SKECHERS 原宿店",
+      "name": "スケッチャーズ原宿店",
+      "image": "https://image.anitabi.cn/points/236196/51i51po4p_1729401986050.jpg?plan=h160",
+      "ep": 7,
+      "s": 713,
+      "geo": [
+        35.6711,
+        139.703
+      ]
+    },
+    {
+      "id": "51i51powi",
+      "name": "神宮前交差点",
+      "image": "https://image.anitabi.cn/points/236196/51i51powi_1729402670627.jpg?plan=h160",
+      "ep": 7,
+      "s": 1035,
+      "geo": [
+        35.6684,
+        139.7053
+      ]
+    },
+    {
+      "id": "51i51pnrj",
+      "name": "東京メトロ 表参道駅B4出口",
+      "image": "https://image.anitabi.cn/points/236196/51i51pnrj_1729402825406.jpg?plan=h160",
+      "ep": 7,
+      "s": 1067,
+      "geo": [
+        35.6651,
+        139.7123
+      ]
+    },
+    {
+      "id": "51i51ppbz",
+      "name": "駒沢オリンピック公園運動場体育館",
+      "image": "https://image.anitabi.cn/points/236196/51i51ppbz_1729403021603.jpg?plan=h160",
+      "ep": 12,
+      "s": 151,
+      "geo": [
+        35.6249,
+        139.6614
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 588
+}

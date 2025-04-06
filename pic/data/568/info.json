@@ -1,0 +1,54 @@
+{
+  "id": 226750,
+  "cn": "刀剑神域外传 Gun Gale Online",
+  "title": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
+  "city": "带广市",
+  "cover": "https://image.xinu.ink/pic/data/568/images/226750.jpg",
+  "color": "#f280a6",
+  "cp": "GGO Project",
+  "geo": [
+    42.91837632497345,
+    143.2028115021094
+  ],
+  "zoom": 14.681,
+  "modified": 1717705808914,
+  "litePoints": [
+    {
+      "id": "51i53yu51",
+      "name": "手話のオブジェ",
+      "image": "https://image.anitabi.cn/points/226750/51i53yu51_1672382887964.jpg?plan=h160",
+      "geo": [
+        42.919,
+        143.2022
+      ]
+    },
+    {
+      "id": "51i53yui5",
+      "name": "カラオケまねきねこ帯広駅前店",
+      "image": "https://image.anitabi.cn/points/226750/51i53yui5_1672382889593.jpg?plan=h160",
+      "geo": [
+        42.9206,
+        143.2022
+      ]
+    },
+    {
+      "id": "51i53yu47",
+      "name": "ＪＲ帯広駅北口",
+      "geo": [
+        42.9187,
+        143.2015
+      ]
+    },
+    {
+      "id": "51i53yttb",
+      "name": "ペペサーレ帯広店",
+      "geo": [
+        42.9167,
+        143.2057
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 2,
+  "local_id": 568
+}

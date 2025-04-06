@@ -1,0 +1,77 @@
+{
+  "id": 238986,
+  "cn": "肆式青春",
+  "title": "詩季織々",
+  "city": "中国",
+  "cover": "https://image.xinu.ink/pic/data/594/images/238986.jpg",
+  "color": "#5394df",
+  "cp": "詩季織々フィルムパートナーズ",
+  "geo": [
+    23.07937874497756,
+    113.28542336392525
+  ],
+  "zoom": 10.168,
+  "modified": 1739907071536,
+  "litePoints": [
+    {
+      "id": "lnqen7m1r",
+      "cn": "沙面",
+      "name": "沙面",
+      "image": "https://image.anitabi.cn/user/0/bangumi/238986/points/lnqen7m1r-1719246689320.jpg?plan=h160",
+      "ep": 1,
+      "s": 1100,
+      "geo": [
+        23.1099,
+        113.238
+      ]
+    },
+    {
+      "id": "lnqxvitse",
+      "cn": "猎德大桥",
+      "name": "猎德大桥",
+      "image": "https://image.anitabi.cn/user/0/bangumi/238986/points/lnqxvitse-1719247609769.jpg?plan=h160",
+      "ep": 1,
+      "s": 1803,
+      "geo": [
+        23.1138,
+        113.3284
+      ]
+    },
+    {
+      "id": "lnr79kzcm",
+      "cn": "海心沙附近水域",
+      "name": "海心沙附近水域",
+      "image": "https://image.anitabi.cn/user/0/bangumi/238986/points/lnr79kzcm-1719248175340.jpg?plan=h160",
+      "ep": 1,
+      "s": 1962,
+      "geo": [
+        23.1136,
+        113.3255
+      ]
+    },
+    {
+      "id": "lnrbw3l4g",
+      "cn": "花城汇",
+      "name": "花城汇",
+      "image": "https://image.anitabi.cn/user/0/bangumi/238986/points/lnrbw3l4g-1719248426611.jpg?plan=h160",
+      "ep": 1,
+      "s": 2192,
+      "geo": [
+        23.1195,
+        113.3191
+      ]
+    },
+    {
+      "id": "syw89qe0z",
+      "name": "风华初级中学西校",
+      "image": "https://image.anitabi.cn/points/238986/syw89qe0z_1739907065422_c16v9.jpg?plan=h160",
+      "geo": [
+        31.2717,
+        121.4503
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 594
+}

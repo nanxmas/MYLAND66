@@ -1,0 +1,109 @@
+{
+  "id": 228444,
+  "cn": "夏日重现",
+  "title": "サマータイムレンダ",
+  "city": "和歌山市",
+  "cover": "https://image.xinu.ink/pic/data/575/images/228444.jpg",
+  "color": "#2b7fd4",
+  "geo": [
+    34.25323991965158,
+    135.06351801483714
+  ],
+  "zoom": 10.358,
+  "modified": 1726908505860,
+  "litePoints": [
+    {
+      "id": "5plrhssd",
+      "name": "日都ヶ島駐在所",
+      "image": "https://image.anitabi.cn/points/326895/5plrhssd.jpg?plan=h160",
+      "geo": [
+        34.2833,
+        135.0085
+      ]
+    },
+    {
+      "id": "5plrhsnm",
+      "name": "第１砲台跡",
+      "image": "https://image.anitabi.cn/points/326895/5plrhsnm.jpg?plan=h160",
+      "geo": [
+        34.2805,
+        135.0003
+      ]
+    },
+    {
+      "id": "5plrht9l",
+      "name": "第３砲台跡",
+      "image": "https://image.anitabi.cn/points/326895/5plrht9l.jpg?plan=h160",
+      "geo": [
+        34.2801,
+        135.0061
+      ]
+    },
+    {
+      "id": "5plrhtmd",
+      "name": "虎島遠景",
+      "image": "https://image.anitabi.cn/points/326895/5plrhtmd.jpg?plan=h160",
+      "geo": [
+        34.2925,
+        135.0222
+      ]
+    },
+    {
+      "id": "5plrhta7",
+      "name": "虎島",
+      "image": "https://image.anitabi.cn/points/326895/5plrhta7.jpg?plan=h160",
+      "geo": [
+        34.2925,
+        135.0245
+      ]
+    },
+    {
+      "id": "5plrht73",
+      "name": "コバマート",
+      "image": "https://image.anitabi.cn/points/326895/5plrht73.jpg?plan=h160",
+      "geo": [
+        34.2743,
+        135.0706
+      ]
+    },
+    {
+      "id": "5plrhta3",
+      "name": "小嶋一商店付近の路地",
+      "image": "https://image.anitabi.cn/points/326895/5plrhta3.jpg?plan=h160",
+      "geo": [
+        34.2743,
+        135.0704
+      ]
+    },
+    {
+      "id": "5plrhtss",
+      "name": "Y字路",
+      "image": "https://image.anitabi.cn/points/326895/5plrhtss.jpg?plan=h160",
+      "geo": [
+        34.2743,
+        135.0704
+      ]
+    },
+    {
+      "id": "5plrht9t",
+      "name": "キシモト商店付近の路地",
+      "image": "https://image.anitabi.cn/points/326895/5plrht9t.jpg?plan=h160",
+      "geo": [
+        34.2754,
+        135.0745
+      ]
+    },
+    {
+      "id": "5plrht8u",
+      "name": "加太大橋",
+      "image": "https://image.anitabi.cn/points/326895/5plrht8u.jpg?plan=h160",
+      "geo": [
+        34.2752,
+        135.0711
+      ]
+    }
+  ],
+  "pointsLength": 36,
+  "imagesLength": 36,
+  "local_id": 575
+}

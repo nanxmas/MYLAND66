@@ -1,0 +1,124 @@
+{
+  "id": 215618,
+  "cn": "剧场版 悠哉日常大王 Vacation",
+  "title": "劇場版 のんのんびより ばけーしょん",
+  "city": "石垣市",
+  "cover": "https://image.xinu.ink/pic/data/537/images/215618.jpg",
+  "color": "#df66a6",
+  "cp": "旭丘分校管理組合劇場",
+  "geo": [
+    24.36515004500545,
+    124.12194075795082
+  ],
+  "zoom": 9.17,
+  "modified": 1742359418388,
+  "litePoints": [
+    {
+      "id": "8dyofcfz0",
+      "name": "石垣空港",
+      "image": "https://image.anitabi.cn/user/0/bangumi/215618/points/8dyofcfz0-1681806346341.jpg?plan=h160",
+      "s": 848,
+      "geo": [
+        24.3907,
+        124.2462
+      ]
+    },
+    {
+      "id": "8dyqjf166",
+      "name": "やど家たけのこ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/215618/points/8dyqjf166-1681806472705.jpg?plan=h160",
+      "s": 989,
+      "geo": [
+        24.3313,
+        124.0819
+      ]
+    },
+    {
+      "id": "8dzbld3j7",
+      "cn": "CondoIBeach",
+      "name": "コンドイビーチ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/215618/points/8dzbld3j7-1681807752565.jpg?plan=h160",
+      "s": 1309,
+      "geo": [
+        24.3255,
+        124.0775
+      ]
+    },
+    {
+      "id": "8dz4stwc3",
+      "name": "西桟橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/215618/points/8dz4stwc3-1681807497008.jpg?plan=h160",
+      "s": 1392,
+      "geo": [
+        24.3315,
+        124.0798
+      ]
+    },
+    {
+      "id": "8e0f7h978",
+      "name": "ピナイサーラ滝",
+      "image": "https://image.anitabi.cn/user/0/bangumi/215618/points/8e0f7h978-1681810160707.jpg?plan=h160",
+      "s": 2315,
+      "geo": [
+        24.3824,
+        123.8207
+      ]
+    },
+    {
+      "id": "8e132y27e",
+      "name": "平久保崎灯台",
+      "image": "https://image.anitabi.cn/user/0/bangumi/215618/points/8e132y27e-1681811588121.jpg?plan=h160",
+      "s": 2404,
+      "geo": [
+        24.6108,
+        124.3157
+      ]
+    },
+    {
+      "id": "8e27c73x3",
+      "name": "なごみの塔",
+      "image": "https://image.anitabi.cn/user/0/bangumi/215618/points/8e27c73x3-1681814021109.jpg?plan=h160",
+      "s": 2881,
+      "geo": [
+        24.3308,
+        124.0855
+      ]
+    },
+    {
+      "id": "8e1zblkn6",
+      "cn": "竹富邮政局",
+      "name": "竹富郵便局",
+      "image": "https://image.anitabi.cn/user/0/bangumi/215618/points/8e1zblkn6-1681813535280.jpg?plan=h160",
+      "s": 2899,
+      "geo": [
+        24.3298,
+        124.088
+      ]
+    },
+    {
+      "id": "8e2apf0vn",
+      "cn": "竹富中学校门口",
+      "name": "竹富中",
+      "image": "https://image.anitabi.cn/user/0/bangumi/215618/points/8e2apf0vn-1681814224243.jpg?plan=h160",
+      "s": 2911,
+      "geo": [
+        24.3288,
+        124.0869
+      ]
+    },
+    {
+      "id": "p0omq1e8z",
+      "cn": "竹富中学后操场",
+      "name": "竹富中",
+      "image": "https://image.anitabi.cn/points/215618/p0omq1e8z_1728724761699.jpg?plan=h160",
+      "s": 2944,
+      "geo": [
+        24.3289,
+        124.0858
+      ]
+    }
+  ],
+  "pointsLength": 17,
+  "imagesLength": 17,
+  "local_id": 537
+}

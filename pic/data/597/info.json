@@ -1,0 +1,109 @@
+{
+  "id": 239664,
+  "cn": "恬淡晴天",
+  "title": "徒然日和",
+  "city": "熊野市",
+  "cover": "https://image.xinu.ink/pic/data/597/images/239664.jpg",
+  "color": "#321201",
+  "geo": [
+    33.88876151496953,
+    136.07385893887056
+  ],
+  "zoom": 11.549,
+  "modified": 1726751591703,
+  "litePoints": [
+    {
+      "id": "eby8u55bi",
+      "name": "熊野市駅",
+      "image": "https://image.anitabi.cn/user/1012/bangumi/239664/points/eby8u55bi-1698575891713.jpg?plan=h160",
+      "geo": [
+        33.8896,
+        136.0988
+      ]
+    },
+    {
+      "id": "eby8u54u8",
+      "name": "三重県立木本高等学校",
+      "image": "https://image.anitabi.cn/points/239664/eby8u54u8_1698575361475.jpg?plan=h160",
+      "geo": [
+        33.8963,
+        136.1055
+      ]
+    },
+    {
+      "id": "eby8u551v",
+      "name": "神上中学校前",
+      "image": "https://image.anitabi.cn/points/239664/eby8u551v_1698575362810.jpg?plan=h160",
+      "geo": [
+        33.9499,
+        136.0045
+      ]
+    },
+    {
+      "id": "eby8u54oe",
+      "name": "神上リバーサイドトイレ付近",
+      "image": "https://image.anitabi.cn/points/239664/eby8u54oe_1698575363839.jpg?plan=h160",
+      "geo": [
+        33.9524,
+        136.0031
+      ]
+    },
+    {
+      "id": "eby8u552v",
+      "name": "ローソン 熊野木本町店",
+      "image": "https://image.anitabi.cn/points/239664/eby8u552v_1698575365238.jpg?plan=h160",
+      "geo": [
+        33.8912,
+        136.1012
+      ]
+    },
+    {
+      "id": "eby8u55a1",
+      "name": "紀伊市木駅前（旧駅舎反転）",
+      "image": "https://image.anitabi.cn/points/239664/eby8u55a1_1698575365751.jpg?plan=h160",
+      "geo": [
+        33.8281,
+        136.0551
+      ]
+    },
+    {
+      "id": "eby8u551d",
+      "name": "神志山駅",
+      "image": "https://image.anitabi.cn/points/239664/eby8u551d_1698575366750.jpg?plan=h160",
+      "geo": [
+        33.84,
+        136.0625
+      ]
+    },
+    {
+      "id": "eby8u54rn",
+      "name": "木本高校前",
+      "image": "https://image.anitabi.cn/points/239664/eby8u54rn_1698575367682.jpg?plan=h160",
+      "geo": [
+        33.8944,
+        136.1053
+      ]
+    },
+    {
+      "id": "eby8u54pi",
+      "name": "木本高校付近",
+      "image": "https://image.anitabi.cn/points/239664/eby8u54pi_1698575368194.jpg?plan=h160",
+      "geo": [
+        33.894,
+        136.1057
+      ]
+    },
+    {
+      "id": "lqfm25dmz",
+      "name": "岩倉稲荷大明神付近交差点",
+      "image": "https://image.anitabi.cn/points/239664/eby8u551v_1698575368717.jpg?plan=h160",
+      "geo": [
+        33.8935,
+        136.1058
+      ]
+    }
+  ],
+  "pointsLength": 38,
+  "imagesLength": 38,
+  "local_id": 597
+}

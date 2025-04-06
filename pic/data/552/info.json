@@ -1,0 +1,30 @@
+{
+  "id": 220188,
+  "cn": "巴加的工作室",
+  "title": "バジャのスタジオ",
+  "city": "宇治市",
+  "cover": "https://image.xinu.ink/pic/data/552/images/220188.jpg",
+  "color": "#ffae00",
+  "geo": [
+    34.92470199815055,
+    135.79864200004886
+  ],
+  "zoom": 15.873,
+  "modified": 1719518630461,
+  "litePoints": [
+    {
+      "id": "5gr3r7z9n",
+      "cn": "京都动画本社",
+      "name": "京都动画本社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/220188/points/5gr3r7z9n-1673561736637.jpg?plan=h160",
+      "s": 13,
+      "geo": [
+        34.9247,
+        135.7986
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 552
+}

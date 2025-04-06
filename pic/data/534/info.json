@@ -1,0 +1,139 @@
+{
+  "id": 214671,
+  "cn": "Slow Start",
+  "title": "スロウスタート",
+  "city": "长野县",
+  "cover": "https://image.xinu.ink/pic/data/534/images/214671.jpg",
+  "color": "#ab6c7d",
+  "geo": [
+    35.91304528204887,
+    139.11641808266063
+  ],
+  "zoom": 7.676,
+  "modified": 1721644503479,
+  "litePoints": [
+    {
+      "id": "8d9496b4",
+      "cn": "旧轻井泽银座街",
+      "name": "旧軽井沢銀座通り",
+      "image": "https://image.anitabi.cn/points/214671/8d9496b4_1721191123881.jpg?plan=h160",
+      "ep": 1,
+      "s": 778,
+      "geo": [
+        36.3576,
+        138.6345
+      ]
+    },
+    {
+      "id": "0f47cec5",
+      "cn": "轻井泽站 北口平台",
+      "name": "軽井沢駅 北口デッキ",
+      "image": "https://image.anitabi.cn/points/214671/0f47cec5_1721140101783.jpg?plan=h160",
+      "ep": 3,
+      "s": 736,
+      "geo": [
+        36.3431,
+        138.6353
+      ]
+    },
+    {
+      "id": "c591440e",
+      "cn": "轻井泽站 北口东侧阶梯尽头",
+      "name": "軽井沢駅 北口デッキ階段東側",
+      "image": "https://image.anitabi.cn/points/214671/c591440e_1721140144152.jpg?plan=h160",
+      "ep": 3,
+      "s": 730,
+      "geo": [
+        36.3435,
+        138.6357
+      ]
+    },
+    {
+      "id": "46c4358e",
+      "cn": "Church Street 轻井泽",
+      "name": "チャーチストリート軽井沢",
+      "image": "https://image.anitabi.cn/points/214671/46c4358e_1721191333458.jpg?plan=h160",
+      "ep": 5,
+      "s": 912,
+      "geo": [
+        36.359,
+        138.6347
+      ]
+    },
+    {
+      "id": "8c713a72",
+      "cn": "Tree Mall 草坪广场",
+      "name": "ツリーモール しばふの広場",
+      "image": "https://image.anitabi.cn/points/214671/8c713a72_1721193888902.jpg?plan=h160",
+      "ep": 4,
+      "s": 1145,
+      "geo": [
+        36.3403,
+        138.633
+      ]
+    },
+    {
+      "id": "9a8cc4b1",
+      "cn": "Tree Mall",
+      "name": "ツリーモール",
+      "image": "https://image.anitabi.cn/points/214671/9a8cc4b1_1721198301397.jpg?plan=h160",
+      "ep": 4,
+      "s": 1181,
+      "geo": [
+        36.3404,
+        138.6325
+      ]
+    },
+    {
+      "id": "1a25caaa",
+      "cn": "Graden Mall",
+      "name": "ガーデンモール",
+      "image": "https://image.anitabi.cn/points/214671/1a25caaa_1721197398908.jpg?plan=h160",
+      "ep": 8,
+      "s": 1064,
+      "geo": [
+        36.3405,
+        138.6352
+      ]
+    },
+    {
+      "id": "8f03080c",
+      "cn": "晴空露台",
+      "name": "晴れた空のテラス",
+      "image": "https://image.anitabi.cn/points/214671/8f03080c_1721195058975.jpg?plan=h160",
+      "ep": 12,
+      "s": 773,
+      "geo": [
+        36.3408,
+        138.6368
+      ]
+    },
+    {
+      "id": "bbff7260",
+      "cn": "轻井泽Prince Shopping Plaza 进出口",
+      "name": "軽井沢プリンスショッピングプラザ 出入口",
+      "image": "https://image.anitabi.cn/points/214671/bbff7260_1721184525990.jpg?plan=h160",
+      "ep": 8,
+      "s": 1092,
+      "geo": [
+        36.3415,
+        138.6346
+      ]
+    },
+    {
+      "id": "mcgj7yao1",
+      "cn": "Tree Mall COACH门前",
+      "name": "ツリーモール COACH前",
+      "image": "https://image.anitabi.cn/points/214671/mcgj7yao1_1721193919491.jpg?plan=h160",
+      "ep": 4,
+      "s": 1145,
+      "geo": [
+        36.3408,
+        138.6332
+      ]
+    }
+  ],
+  "pointsLength": 21,
+  "imagesLength": 21,
+  "local_id": 534
+}

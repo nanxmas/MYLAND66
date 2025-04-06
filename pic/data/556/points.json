@@ -1,0 +1,332 @@
+[
+  {
+    "id": "fd65824d",
+    "name": "千光寺新道",
+    "image": "https://image.xinu.ink/pic/data/556/images/fd65824d_1742550363464.jpg",
+    "geo": [
+      34.4091,
+      133.1991
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.409138%2C133.199154&z=17"
+  },
+  {
+    "id": "5ae17cf2",
+    "name": "尾道駅",
+    "image": "https://image.xinu.ink/pic/data/556/images/5ae17cf2_1742550380143.jpg",
+    "geo": [
+      34.4047,
+      133.1929
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.404763%2C133.192957&z=17"
+  },
+  {
+    "id": "63eaae94",
+    "name": "東第一踏切前",
+    "image": "https://image.xinu.ink/pic/data/556/images/63eaae94_1742551945091.jpg",
+    "geo": [
+      34.4055,
+      133.1951
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.405583%2C133.195164&z=17"
+  },
+  {
+    "id": "c4cabee3",
+    "name": "時光寺参道",
+    "image": "https://image.xinu.ink/pic/data/556/images/c4cabee3_1742551965964.jpg",
+    "geo": [
+      34.406,
+      133.1964
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.406086%2C133.19643&z=17"
+  },
+  {
+    "id": "75da9f00",
+    "name": "大和湯",
+    "image": "https://image.xinu.ink/pic/data/556/images/75da9f00_1742550488743.jpg",
+    "geo": [
+      34.4067,
+      133.1984
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.406794%2C133.19843&z=17"
+  },
+  {
+    "id": "4dd40340",
+    "name": "尾道商業会議所",
+    "image": "https://image.xinu.ink/pic/data/556/images/4dd40340_1742550517407.jpg",
+    "geo": [
+      34.4065,
+      133.1981
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.406526%2C133.198141&z=17"
+  },
+  {
+    "id": "db1494ff",
+    "name": "おのみち帆布",
+    "image": "https://image.xinu.ink/pic/data/556/images/db1494ff_1742551983820.jpg",
+    "geo": [
+      34.4079,
+      133.2007
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.407957%2C133.200757&z=17"
+  },
+  {
+    "id": "af24e168",
+    "name": "海沿いの木道",
+    "image": "https://image.xinu.ink/pic/data/556/images/af24e168_1742551897856.jpg",
+    "geo": [
+      34.4046,
+      133.1957
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.404627%2C133.19574&z=17"
+  },
+  {
+    "id": "78b1f5ed",
+    "name": "住吉神社前",
+    "image": "https://image.xinu.ink/pic/data/556/images/78b1f5ed_1742550875605.jpg",
+    "geo": [
+      34.408,
+      133.2027
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.408072%2C133.202717&z=17"
+  },
+  {
+    "id": "c6cee523",
+    "name": "尾道市役所",
+    "image": "https://image.xinu.ink/pic/data/556/images/c6cee523_1742550595966.jpg",
+    "geo": [
+      34.409,
+      133.2048
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.409037%2C133.204868&z=17"
+  },
+  {
+    "id": "c9928cc5",
+    "name": "絵のまち通りアーケード",
+    "image": "https://image.xinu.ink/pic/data/556/images/c9928cc5_1742550698933.jpg",
+    "geo": [
+      34.4101,
+      133.2026
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.410184%2C133.202697&z=17"
+  },
+  {
+    "id": "c846304d",
+    "name": "居酒屋モデル",
+    "image": "https://image.xinu.ink/pic/data/556/images/c846304d_1742550640559.jpg",
+    "geo": [
+      34.4104,
+      133.2057
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.410455%2C133.205738&z=17"
+  },
+  {
+    "id": "147b29ce",
+    "name": "海龍寺",
+    "image": "https://image.xinu.ink/pic/data/556/images/147b29ce_1742552319277.jpg",
+    "geo": [
+      34.4119,
+      133.2114
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.411942%2C133.211421&z=17"
+  },
+  {
+    "id": "4f7e240b",
+    "name": "御袖天満宮",
+    "image": "https://image.xinu.ink/pic/data/556/images/4f7e240b_1742550853926.jpg",
+    "geo": [
+      34.4132,
+      133.2021
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.413292%2C133.202128&z=17"
+  },
+  {
+    "id": "fc058fb0",
+    "name": "艮神社",
+    "image": "https://image.xinu.ink/pic/data/556/images/fc058fb0_1742550742687.jpg",
+    "geo": [
+      34.4106,
+      133.2013
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.410616%2C133.20131&z=17"
+  },
+  {
+    "id": "fe12aa4b",
+    "name": "猫の細道",
+    "image": "https://image.xinu.ink/pic/data/556/images/fe12aa4b_1742552172212.jpg",
+    "geo": [
+      34.4102,
+      133.1997
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.410241%2C133.199757&z=17"
+  },
+  {
+    "id": "0a5a8c39",
+    "name": "天寧寺三重塔",
+    "image": "https://image.xinu.ink/pic/data/556/images/0a5a8c39_1742551044940.jpg",
+    "geo": [
+      34.4101,
+      133.1998
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.410168%2C133.199803&z=17"
+  },
+  {
+    "id": "20fb55b4",
+    "name": "天寧寺三重塔前の道",
+    "image": "https://image.xinu.ink/pic/data/556/images/20fb55b4_1742552245211.jpg",
+    "geo": [
+      34.41,
+      133.1995
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.410036%2C133.199598&z=17"
+  },
+  {
+    "id": "86a93bf6",
+    "name": "共楽園",
+    "image": "https://image.xinu.ink/pic/data/556/images/86a93bf6_1742551205870.jpg",
+    "geo": [
+      34.4098,
+      133.1991
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.409805%2C133.199195&z=17"
+  },
+  {
+    "id": "4c445524",
+    "name": "鼓岩",
+    "image": "https://image.xinu.ink/pic/data/556/images/4c445524_1742552109020.jpg",
+    "geo": [
+      34.4097,
+      133.1977
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.409763%2C133.197711&z=17"
+  },
+  {
+    "id": "9ae3b531",
+    "name": "石碑前",
+    "image": "https://image.xinu.ink/pic/data/556/images/9ae3b531_1742551387628.jpg",
+    "geo": [
+      34.4098,
+      133.1976
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.409827%2C133.19768&z=17"
+  },
+  {
+    "id": "32db20c0",
+    "name": "トンネル",
+    "image": "https://image.xinu.ink/pic/data/556/images/32db20c0_1742552086293.jpg",
+    "geo": [
+      34.4088,
+      133.1944
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.4088%2C133.194479&z=17"
+  },
+  {
+    "id": "ab44d569",
+    "name": "千光寺公園の分岐",
+    "image": "https://image.xinu.ink/pic/data/556/images/ab44d569_1742552606826.jpg",
+    "geo": [
+      34.4106,
+      133.1965
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.410633%2C133.196576&z=17"
+  },
+  {
+    "id": "47e71b7b",
+    "name": "展望台",
+    "image": "https://image.xinu.ink/pic/data/556/images/47e71b7b_1742552035347.jpg",
+    "geo": [
+      34.4106,
+      133.1969
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.410694%2C133.196939&z=17"
+  },
+  {
+    "id": "a5997ebd",
+    "name": "島居邸",
+    "image": "https://image.xinu.ink/pic/data/556/images/a5997ebd_1742552158588.jpg",
+    "geo": [
+      34.4092,
+      133.2001
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.409287%2C133.200184&z=17"
+  },
+  {
+    "id": "590ddeba",
+    "name": "ONOMICHI U2",
+    "image": "https://image.xinu.ink/pic/data/556/images/590ddeba_1742551123795.jpg",
+    "geo": [
+      34.402,
+      133.19
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.402019%2C133.19007&z=17"
+  },
+  {
+    "id": "69eb2f8d",
+    "name": "護国神社前の踏切",
+    "image": "https://image.xinu.ink/pic/data/556/images/69eb2f8d_1742551164298.jpg",
+    "geo": [
+      34.4583,
+      133.2755
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.458308%2C133.275537&z=17"
+  },
+  {
+    "id": "27ab6313",
+    "name": "因島水軍城",
+    "image": "https://image.xinu.ink/pic/data/556/images/27ab6313_1742552779042.jpg",
+    "geo": [
+      34.3278,
+      133.1664
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.327894%2C133.16641&z=17"
+  },
+  {
+    "id": "6d27a152",
+    "name": "多々羅大橋",
+    "image": "https://image.xinu.ink/pic/data/556/images/6d27a152_1742552211547.jpg",
+    "geo": [
+      34.2599,
+      133.0639
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.259903%2C133.063968&z=17"
+  },
+  {
+    "id": "85f63139",
+    "name": "亀老山展望公園",
+    "image": "https://image.xinu.ink/pic/data/556/images/85f63139_1742552731915.jpg",
+    "geo": [
+      34.1199,
+      133.0331
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12knoMwET3PK-esyJlzOGesZXej-Qf1Ln&ll=34.119914%2C133.033153&z=17"
+  }
+]

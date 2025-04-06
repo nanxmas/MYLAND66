@@ -1,0 +1,101 @@
+{
+  "id": 216371,
+  "cn": "莉兹与青鸟",
+  "title": "リズと青い鳥",
+  "city": "宇治市",
+  "cover": "https://image.xinu.ink/pic/data/540/images/216371.jpg",
+  "color": "#aad480",
+  "cp": "『響け！』",
+  "geo": [
+    34.90851249952871,
+    135.8153599996922
+  ],
+  "zoom": 17.393,
+  "modified": 1733755050636,
+  "litePoints": [
+    {
+      "id": "nrfjuqzn5",
+      "name": "莵道高 正门",
+      "image": "https://image.anitabi.cn/user/2099/bangumi/216371/points/nrfjuqzn5-1725178522813.jpg?plan=h160",
+      "s": 4972,
+      "geo": [
+        34.9088,
+        135.8156
+      ]
+    },
+    {
+      "id": "nrfmh05ar",
+      "name": "莵道高等学校付近",
+      "image": "https://image.anitabi.cn/user/2099/bangumi/216371/points/nrfmh05ar-1725178642211.jpg?plan=h160",
+      "s": 4990,
+      "geo": [
+        34.908,
+        135.8152
+      ]
+    },
+    {
+      "id": "nrfnpl2bd",
+      "name": "莵道高等学校附近",
+      "image": "https://image.anitabi.cn/user/2099/bangumi/216371/points/nrfnpl2bd-1725178703291.jpg?plan=h160",
+      "s": 5024,
+      "geo": [
+        34.908,
+        135.8151
+      ]
+    },
+    {
+      "id": "nrfs8ooru",
+      "name": "羽户山第三儿童公园",
+      "image": "https://image.anitabi.cn/user/2099/bangumi/216371/points/nrfs8ooru-1725178967955.jpg?plan=h160",
+      "s": 5031,
+      "geo": [
+        34.9081,
+        135.815
+      ]
+    },
+    {
+      "id": "nrfsvrz7q",
+      "name": "菟道高等学校附近",
+      "image": "https://image.anitabi.cn/user/2099/bangumi/216371/points/nrfsvrz7q-1725179003771.jpg?plan=h160",
+      "s": 5039,
+      "geo": [
+        34.9081,
+        135.815
+      ]
+    },
+    {
+      "id": "nrfuarioh",
+      "name": "京都府立菟道高校(校外)",
+      "image": "https://image.anitabi.cn/user/2099/bangumi/216371/points/nrfuarioh-1725179085831.jpg?plan=h160",
+      "s": 4976,
+      "geo": [
+        34.9089,
+        135.8156
+      ]
+    },
+    {
+      "id": "nrfutdtet",
+      "name": "京都府立菟道高校(门口)",
+      "image": "https://image.anitabi.cn/user/2099/bangumi/216371/points/nrfutdtet-1725179122975.jpg?plan=h160",
+      "s": 4958,
+      "geo": [
+        34.9089,
+        135.8156
+      ]
+    },
+    {
+      "id": "qsvgzxk98",
+      "cn": "宇治淀线",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/216371/qsvgzxk98_1733754959799.jpg?plan=h160",
+      "s": 401,
+      "geo": [
+        34.8741,
+        135.7662
+      ]
+    }
+  ],
+  "pointsLength": 10,
+  "imagesLength": 10,
+  "local_id": 540
+}

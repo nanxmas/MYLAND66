@@ -1,0 +1,119 @@
+{
+  "id": 234295,
+  "cn": "LoveLive! Sunshine!! 学园偶像 电影 彩虹彼端",
+  "title": "ラブライブ!サンシャイン!! The School Idol Movie Over the Rainbow",
+  "city": "沼津市",
+  "cover": "https://image.xinu.ink/pic/data/583/images/234295.jpg",
+  "color": "#002657",
+  "geo": [
+    35.09354342674726,
+    138.8514004460115
+  ],
+  "zoom": 10.35,
+  "modified": 1722519035878,
+  "litePoints": [
+    {
+      "id": "kqnb3b4fy",
+      "name": "浦の星女学院校門",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/234295/points/kqnb3b4fy-1716653658571.jpg?plan=h160",
+      "s": 96,
+      "geo": [
+        35.0212,
+        138.8837
+      ]
+    },
+    {
+      "id": "krda12xgu",
+      "name": "三の浦総合案内所",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/234295/points/krda12xgu-1716710217179.jpg?plan=h160",
+      "s": 176,
+      "geo": [
+        35.0176,
+        138.8932
+      ]
+    },
+    {
+      "id": "krdcy1jxm",
+      "name": "松月",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/234295/points/krdcy1jxm-1716710357017.jpg?plan=h160",
+      "s": 192,
+      "geo": [
+        35.0222,
+        138.8978
+      ]
+    },
+    {
+      "id": "krddv2evc",
+      "name": "辻宗商店",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/234295/points/krddv2evc-1716710428301.jpg?plan=h160",
+      "s": 194,
+      "geo": [
+        35.0253,
+        138.8983
+      ]
+    },
+    {
+      "id": "krcdct62j",
+      "name": "ドールハウスKIMURA",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/234295/points/krcdct62j-1716708252368.jpg?plan=h160",
+      "s": 311,
+      "geo": [
+        35.1001,
+        138.8574
+      ]
+    },
+    {
+      "id": "krchenvey",
+      "name": "水門びゅうお　北側",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/234295/points/krchenvey-1716708446659.jpg?plan=h160",
+      "s": 314,
+      "geo": [
+        35.0817,
+        138.8549
+      ]
+    },
+    {
+      "id": "krck2mhmc",
+      "name": "松浦酒店",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/234295/points/krck2mhmc-1716708608257.jpg?plan=h160",
+      "s": 318,
+      "geo": [
+        35.0995,
+        138.859
+      ]
+    },
+    {
+      "id": "krctdilkt",
+      "name": "Grandma 上土本店",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/234295/points/krctdilkt-1716709177158.jpg?plan=h160",
+      "s": 323,
+      "geo": [
+        35.0975,
+        138.8581
+      ]
+    },
+    {
+      "id": "krcv755au",
+      "name": "つじ写真館",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/234295/points/krcv755au-1716709323231.jpg?plan=h160",
+      "s": 324,
+      "geo": [
+        35.097,
+        138.8573
+      ]
+    },
+    {
+      "id": "krcxw0oh3",
+      "name": "仲見世商店街",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/234295/points/krcxw0oh3-1716709442179.jpg?plan=h160",
+      "s": 328,
+      "geo": [
+        35.1011,
+        138.8582
+      ]
+    }
+  ],
+  "pointsLength": 58,
+  "imagesLength": 58,
+  "local_id": 583
+}

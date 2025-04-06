@@ -1,0 +1,129 @@
+{
+  "id": 236103,
+  "cn": "道口时间",
+  "title": "踏切時間",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/587/images/236103.jpg",
+  "color": "#e9b951",
+  "geo": [
+    35.72303224404217,
+    139.75322470498367
+  ],
+  "zoom": 11.143,
+  "modified": 1724697061380,
+  "litePoints": [
+    {
+      "id": "ljz7o3911",
+      "name": "西武池袋線池袋第2号踏切",
+      "image": "https://image.anitabi.cn/points/236103/ljz7o3911_1718955753750.jpg?plan=h160",
+      "ep": 1,
+      "s": 186,
+      "geo": [
+        35.7249,
+        139.7058
+      ]
+    },
+    {
+      "id": "ljz9yc1su",
+      "name": "西武2000系電車",
+      "image": "https://image.anitabi.cn/points/236103/ljz9yc1su_1718955754809.jpg?plan=h160",
+      "ep": 1,
+      "s": 113,
+      "geo": [
+        35.7248,
+        139.7058
+      ]
+    },
+    {
+      "id": "ljzdhcucq",
+      "name": "東武東上線第23号踏切",
+      "image": "https://image.anitabi.cn/points/236103/ljzdhcucq_1718955755405.jpg?plan=h160",
+      "ep": 11,
+      "s": 29,
+      "geo": [
+        35.7596,
+        139.6864
+      ]
+    },
+    {
+      "id": "ljzgs6z8h",
+      "name": "東武10000系電車",
+      "image": "https://image.anitabi.cn/points/236103/ljzgs6z8h_1718955756728.jpg?plan=h160",
+      "ep": 2,
+      "s": 94,
+      "geo": [
+        35.7595,
+        139.6864
+      ]
+    },
+    {
+      "id": "ljzi3ohoz",
+      "name": "第二中里踏切",
+      "image": "https://image.anitabi.cn/points/236103/ljzi3ohoz_1718955759069.jpg?plan=h160",
+      "ep": 3,
+      "s": 144,
+      "geo": [
+        35.739,
+        139.7526
+      ]
+    },
+    {
+      "id": "ljzt0pklg",
+      "name": "JR東日本E235系電車",
+      "image": "https://image.anitabi.cn/points/236103/ljzt0pklg_1718955759465.jpg?plan=h160",
+      "ep": 3,
+      "s": 190,
+      "geo": [
+        35.7391,
+        139.7525
+      ]
+    },
+    {
+      "id": "ljzu2z9k6",
+      "name": "中井第4号踏切",
+      "image": "https://image.anitabi.cn/points/236103/ljzu2z9k6_1718955759868.jpg?plan=h160",
+      "ep": 4,
+      "s": 75,
+      "geo": [
+        35.7149,
+        139.6817
+      ]
+    },
+    {
+      "id": "ljzzlwfef",
+      "name": "亀第17号踏切",
+      "image": "https://image.anitabi.cn/points/236103/ljzzlwfef_1718955760512.jpg?plan=h160",
+      "ep": 5,
+      "s": 56,
+      "geo": [
+        35.7027,
+        139.8331
+      ]
+    },
+    {
+      "id": "lk02dnue3",
+      "name": "東武8000系8577F（昭和30年代車両再現塗装）",
+      "image": "https://image.anitabi.cn/points/236103/lk02dnue3_1718955760855.jpg?plan=h160",
+      "ep": 5,
+      "s": 99,
+      "geo": [
+        35.7027,
+        139.8331
+      ]
+    },
+    {
+      "id": "lk02z4tx6",
+      "name": "東武8000系8568F（昭和30年代試験塗装）",
+      "image": "https://image.anitabi.cn/points/236103/lk02z4tx6_1718955761318.jpg?plan=h160",
+      "ep": 5,
+      "s": 195,
+      "geo": [
+        35.7027,
+        139.8332
+      ]
+    }
+  ],
+  "pointsLength": 21,
+  "imagesLength": 21,
+  "local_id": 587
+}

@@ -1,0 +1,47 @@
+{
+  "id": 214272,
+  "cn": "欢迎来到实力至上主义教室",
+  "title": "ようこそ実力至上主義の教室へ",
+  "cover": "https://image.xinu.ink/pic/data/533/images/214272.jpg",
+  "color": "#aaaaaa",
+  "cp": "ようこそ実力至上主義の教室へ",
+  "modified": 1727159733853,
+  "litePoints": [
+    {
+      "id": "oex0gzgbn",
+      "name": "千葉市立美濱打瀨小學校",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/214272/points/oex0gzgbn-1727018894032.jpg?plan=h160",
+      "ep": 1,
+      "s": 692,
+      "geo": [
+        35.6375,
+        140.0443
+      ]
+    },
+    {
+      "id": "oex51810w",
+      "name": "国际教养大学",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/214272/points/oex51810w-1727019545803.jpg?plan=h160",
+      "ep": 2,
+      "s": 900,
+      "geo": [
+        39.6267,
+        140.1981
+      ]
+    },
+    {
+      "id": "oexhv9b34",
+      "name": "国际教养大学中嶋記念図書館",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/214272/points/oexhv9b34-1727020231779.jpg?plan=h160",
+      "ep": 2,
+      "s": 894,
+      "geo": [
+        39.6267,
+        140.1981
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 533
+}

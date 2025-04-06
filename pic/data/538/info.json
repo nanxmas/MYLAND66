@@ -1,0 +1,109 @@
+{
+  "id": 216228,
+  "cn": "孤独的美食家",
+  "title": "孤独のグルメ",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/538/images/216228.jpg",
+  "color": "#aaaaaa",
+  "geo": [
+    35.78798862249994,
+    139.7102307058741
+  ],
+  "zoom": 7.321,
+  "modified": 1726751623609,
+  "litePoints": [
+    {
+      "id": "4ui7mhgea",
+      "name": "居酒屋/焼き鳥屋「庄助」",
+      "image": "https://image.anitabi.cn/points/216228/4ui7mhgea.jpg?plan=h160",
+      "geo": [
+        35.671,
+        139.7963
+      ]
+    },
+    {
+      "id": "4ui7mhg47",
+      "name": "食堂「和食亭」",
+      "image": "https://image.anitabi.cn/points/216228/4ui7mhg47.jpg?plan=h160",
+      "geo": [
+        35.737,
+        139.7499
+      ]
+    },
+    {
+      "id": "4ui7mhgff",
+      "name": "中華料理屋「中国家庭料理 楊 2号店」",
+      "image": "https://image.anitabi.cn/points/216228/4ui7mhgff.jpg?plan=h160",
+      "geo": [
+        35.73,
+        139.7072
+      ]
+    },
+    {
+      "id": "4ui7mhfxp",
+      "name": "カフェ「Loco dish」",
+      "image": "https://image.anitabi.cn/points/216228/4ui7mhfxp.jpg?plan=h160",
+      "geo": [
+        35.6398,
+        139.9287
+      ]
+    },
+    {
+      "id": "4ui7mhfw4",
+      "name": "釣り堀武蔵野園の食堂",
+      "image": "https://image.anitabi.cn/points/216228/4ui7mhfw4.jpg?plan=h160",
+      "geo": [
+        35.6858,
+        139.6396
+      ]
+    },
+    {
+      "id": "4ui7mhg23",
+      "name": "とんかつ　みやこや",
+      "image": "https://image.anitabi.cn/points/216228/4ui7mhg23.jpg?plan=h160",
+      "geo": [
+        35.7236,
+        139.6387
+      ]
+    },
+    {
+      "id": "4ui7mhgag",
+      "name": "食事処/居酒屋「カヤシマ」",
+      "image": "https://image.anitabi.cn/points/216228/4ui7mhgag.jpg?plan=h160",
+      "geo": [
+        35.706,
+        139.5789
+      ]
+    },
+    {
+      "id": "4ui7mhfw7",
+      "name": "焼肉屋「つるや」",
+      "image": "https://image.anitabi.cn/points/216228/4ui7mhfw7.jpg?plan=h160",
+      "geo": [
+        35.5249,
+        139.6948
+      ]
+    },
+    {
+      "id": "4ui7mhfq9",
+      "name": "広島のお好み焼 鉄板焼 HIROKI",
+      "image": "https://image.anitabi.cn/points/216228/4ui7mhfq9.jpg?plan=h160",
+      "geo": [
+        35.66,
+        139.6677
+      ]
+    },
+    {
+      "id": "4ui7mhfoo",
+      "name": "せきざわ食堂",
+      "image": "https://image.anitabi.cn/points/216228/4ui7mhfoo.jpg?plan=h160",
+      "geo": [
+        35.731,
+        139.6846
+      ]
+    }
+  ],
+  "pointsLength": 36,
+  "imagesLength": 29,
+  "local_id": 538
+}

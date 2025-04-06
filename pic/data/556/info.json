@@ -1,0 +1,110 @@
+{
+  "id": 220658,
+  "cn": "天空与海洋之间",
+  "title": "ソラとウミのアイダ",
+  "city": "尾道市",
+  "cover": "https://image.xinu.ink/pic/data/556/images/220658.jpg",
+  "color": "#b19cb8",
+  "cp": "ソラウミ",
+  "geo": [
+    34.269247204974164,
+    133.08064474546495
+  ],
+  "zoom": 8.577,
+  "modified": 1742552903806,
+  "litePoints": [
+    {
+      "id": "fd65824d",
+      "name": "千光寺新道",
+      "image": "https://image.anitabi.cn/points/220658/fd65824d_1742550363464.jpg?plan=h160",
+      "geo": [
+        34.4091,
+        133.1991
+      ]
+    },
+    {
+      "id": "5ae17cf2",
+      "name": "尾道駅",
+      "image": "https://image.anitabi.cn/points/220658/5ae17cf2_1742550380143.jpg?plan=h160",
+      "geo": [
+        34.4047,
+        133.1929
+      ]
+    },
+    {
+      "id": "63eaae94",
+      "name": "東第一踏切前",
+      "image": "https://image.anitabi.cn/points/220658/63eaae94_1742551945091.jpg?plan=h160",
+      "geo": [
+        34.4055,
+        133.1951
+      ]
+    },
+    {
+      "id": "c4cabee3",
+      "name": "時光寺参道",
+      "image": "https://image.anitabi.cn/points/220658/c4cabee3_1742551965964.jpg?plan=h160",
+      "geo": [
+        34.406,
+        133.1964
+      ]
+    },
+    {
+      "id": "75da9f00",
+      "name": "大和湯",
+      "image": "https://image.anitabi.cn/points/220658/75da9f00_1742550488743.jpg?plan=h160",
+      "geo": [
+        34.4067,
+        133.1984
+      ]
+    },
+    {
+      "id": "4dd40340",
+      "name": "尾道商業会議所",
+      "image": "https://image.anitabi.cn/points/220658/4dd40340_1742550517407.jpg?plan=h160",
+      "geo": [
+        34.4065,
+        133.1981
+      ]
+    },
+    {
+      "id": "db1494ff",
+      "name": "おのみち帆布",
+      "image": "https://image.anitabi.cn/points/220658/db1494ff_1742551983820.jpg?plan=h160",
+      "geo": [
+        34.4079,
+        133.2007
+      ]
+    },
+    {
+      "id": "af24e168",
+      "name": "海沿いの木道",
+      "image": "https://image.anitabi.cn/points/220658/af24e168_1742551897856.jpg?plan=h160",
+      "geo": [
+        34.4046,
+        133.1957
+      ]
+    },
+    {
+      "id": "78b1f5ed",
+      "name": "住吉神社前",
+      "image": "https://image.anitabi.cn/points/220658/78b1f5ed_1742550875605.jpg?plan=h160",
+      "geo": [
+        34.408,
+        133.2027
+      ]
+    },
+    {
+      "id": "c6cee523",
+      "name": "尾道市役所",
+      "image": "https://image.anitabi.cn/points/220658/c6cee523_1742550595966.jpg?plan=h160",
+      "geo": [
+        34.409,
+        133.2048
+      ]
+    }
+  ],
+  "pointsLength": 33,
+  "imagesLength": 30,
+  "local_id": 556
+}

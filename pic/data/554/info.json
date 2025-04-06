@@ -1,0 +1,111 @@
+{
+  "id": 220445,
+  "title": "22/7",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/554/images/220445.jpg",
+  "color": "#eabfd5",
+  "cp": "7",
+  "geo": [
+    35.331371967079036,
+    137.6692599076972
+  ],
+  "zoom": 6.455,
+  "modified": 1724218204091,
+  "litePoints": [
+    {
+      "id": "51i52jcdr",
+      "name": "UENO3153屋上",
+      "image": "https://image.anitabi.cn/points/220445/51i52jcdr_1724216508710.jpg?plan=h160",
+      "ep": 10,
+      "s": 121,
+      "geo": [
+        35.7118,
+        139.7742
+      ]
+    },
+    {
+      "id": "51i52jc74",
+      "name": "みずほ台駅ホーム",
+      "image": "https://image.anitabi.cn/points/220445/51i52jc74_1724216695589.jpg?plan=h160",
+      "geo": [
+        35.8382,
+        139.5508
+      ]
+    },
+    {
+      "id": "nf5qp7i32",
+      "name": "サンマルク​カフェ​東武​みずほ​台​店",
+      "image": "https://image.anitabi.cn/points/220445/nf5qp7i32_1724216728101.jpg?plan=h160",
+      "geo": [
+        35.8382,
+        139.5511
+      ]
+    },
+    {
+      "id": "51i52jbs5",
+      "name": "みずほ台駅前",
+      "image": "https://image.anitabi.cn/points/220445/51i52jbs5_1724216679417.jpg?plan=h160",
+      "geo": [
+        35.8376,
+        139.5503
+      ]
+    },
+    {
+      "id": "51i52jcc8",
+      "name": "恩賜上野動物園 弁天門周辺",
+      "image": "https://image.anitabi.cn/points/220445/51i52jcc8_1724216852749.jpg?plan=h160",
+      "geo": [
+        35.7127,
+        139.7725
+      ]
+    },
+    {
+      "id": "nf5vmglmz",
+      "name": "恩賜上野動物園",
+      "image": "https://image.anitabi.cn/points/220445/nf5vmglmz_1724217024600.jpg?plan=h160",
+      "geo": [
+        35.714,
+        139.7741
+      ]
+    },
+    {
+      "id": "51i52jc7a",
+      "name": "クアーズテック秦野カルチャーホール（秦野市文化会館）",
+      "image": "https://image.anitabi.cn/points/220445/51i52jc7a_1724216899269.jpg?plan=h160",
+      "geo": [
+        35.3803,
+        139.1972
+      ]
+    },
+    {
+      "id": "51i52jco5",
+      "name": "Pasar三芳 (上り)",
+      "image": "https://image.anitabi.cn/points/220445/51i52jco5_1724216987652.jpg?plan=h160",
+      "geo": [
+        35.8428,
+        139.5047
+      ]
+    },
+    {
+      "id": "51i52jd2t",
+      "name": "タワーレコード 渋谷店",
+      "image": "https://image.anitabi.cn/points/220445/51i52jd2t_1724217073570.jpg?plan=h160",
+      "geo": [
+        35.6619,
+        139.7009
+      ]
+    },
+    {
+      "id": "51i52jcsm",
+      "name": "不忍口の高架下",
+      "image": "https://image.anitabi.cn/points/220445/51i52jcsm_1724217098814.jpg?plan=h160",
+      "geo": [
+        35.7114,
+        139.7753
+      ]
+    }
+  ],
+  "pointsLength": 32,
+  "imagesLength": 32,
+  "local_id": 554
+}

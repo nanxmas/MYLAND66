@@ -1,0 +1,110 @@
+{
+  "id": 226956,
+  "cn": "",
+  "title": "SeaBed",
+  "city": "神户市",
+  "cover": "https://image.xinu.ink/pic/data/569/images/226956.jpg",
+  "color": "#53abb2",
+  "geo": [
+    6.19643012872362,
+    134.09968762400894
+  ],
+  "zoom": 1.117,
+  "modified": 1731301737677,
+  "litePoints": [
+    {
+      "id": "px5cef6f8",
+      "name": "白滝陸橋北交差点",
+      "image": "https://image.anitabi.cn/points/226956/px5cef6f8_1731268659718.jpg?plan=h160",
+      "geo": [
+        33.2424,
+        131.6463
+      ]
+    },
+    {
+      "id": "px5d6gfim",
+      "name": "ヤノメガネ 萩原店",
+      "image": "https://image.anitabi.cn/points/226956/px5d6gfim_1731268708001.jpg?plan=h160",
+      "geo": [
+        33.2425,
+        131.6465
+      ]
+    },
+    {
+      "id": "px5h623s9",
+      "cn": "普罗奇达岛",
+      "name": "Procida",
+      "image": "https://image.anitabi.cn/points/226956/px5h623s9_1731268985316.jpg?plan=h160",
+      "geo": [
+        40.7601,
+        14.0304
+      ]
+    },
+    {
+      "id": "px5ha3q1g",
+      "name": "Santuario S. Maria delle Grazie Incoronata",
+      "image": "https://image.anitabi.cn/points/226956/px5ha3q1g_1731269000871.jpg?plan=h160",
+      "geo": [
+        40.7618,
+        14.0309
+      ]
+    },
+    {
+      "id": "px4uew3ug",
+      "name": "大東橋",
+      "image": "https://image.anitabi.cn/points/226956/px4uew3ug_1731267629924.jpg?plan=h160",
+      "geo": [
+        33.238,
+        131.6336
+      ]
+    },
+    {
+      "id": "px4zg3h0a",
+      "name": "日豊本線 種畜場踏切",
+      "image": "https://image.anitabi.cn/points/226956/px4zg3h0a_1731268024130.jpg?plan=h160",
+      "geo": [
+        33.2423,
+        131.6536
+      ]
+    },
+    {
+      "id": "px45geral",
+      "name": "高城駅前",
+      "image": "https://image.anitabi.cn/points/226956/px45geral_1731266058938.jpg?plan=h160",
+      "geo": [
+        33.243,
+        131.6549
+      ]
+    },
+    {
+      "id": "px47v7pzr",
+      "name": "高城駅",
+      "image": "https://image.anitabi.cn/points/226956/px47v7pzr_1731266188696.jpg?plan=h160",
+      "geo": [
+        33.2427,
+        131.6555
+      ]
+    },
+    {
+      "id": "px4cz7k92",
+      "name": "高城駅 駅員室",
+      "image": "https://image.anitabi.cn/points/226956/px4cz7k92_1731266534276.jpg?plan=h160",
+      "geo": [
+        33.2427,
+        131.6553
+      ]
+    },
+    {
+      "id": "px486kcxp",
+      "name": "高城駅 跨線橋",
+      "image": "https://image.anitabi.cn/points/226956/px486kcxp_1731266203417.jpg?plan=h160",
+      "geo": [
+        33.2426,
+        131.655
+      ]
+    }
+  ],
+  "pointsLength": 59,
+  "imagesLength": 59,
+  "local_id": 569
+}

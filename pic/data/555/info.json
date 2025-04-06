@@ -1,0 +1,39 @@
+{
+  "id": 220514,
+  "cn": "致我深爱的每个你",
+  "title": "僕が愛したすべての君へ",
+  "cover": "https://image.xinu.ink/pic/data/555/images/220514.jpg",
+  "color": "#6a7f95",
+  "geo": [
+    33.541312507635126,
+    130.9938790505521
+  ],
+  "zoom": 6.356,
+  "modified": 1719254743655,
+  "litePoints": [
+    {
+      "id": "jvlurjb37",
+      "cn": "叶秀仓库",
+      "name": "葉秀倉庫",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/220514/points/jvlurjb37-1714221361360.jpg?plan=h160",
+      "geo": [
+        33.2615,
+        131.615
+      ]
+    },
+    {
+      "id": "jvmegt6mw",
+      "cn": "九州大学伊都校区",
+      "name": "九州大学伊都キャンパス",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/220514/points/jvmegt6mw-1714222546166.jpg?plan=h160",
+      "s": 2762,
+      "geo": [
+        33.5968,
+        130.222
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 555
+}

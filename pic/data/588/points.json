@@ -1,0 +1,82 @@
+[
+  {
+    "id": "51i51pnmw",
+    "cn": "Laforet原宿",
+    "name": "ラフォーレ原宿",
+    "image": "https://image.xinu.ink/pic/data/588/images/51i51pnmw_1729401389667.jpg",
+    "ep": 7,
+    "s": 671,
+    "geo": [
+      35.6688,
+      139.7054
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=184Ifmnz0t94Aj0v4XUg-LISqgcPNhDfq&ll=35.668888%2C139.705429&z=17"
+  },
+  {
+    "id": "51i51po2u",
+    "name": "東京メトロ 明治神宮前駅3番出口",
+    "image": "https://image.xinu.ink/pic/data/588/images/51i51po2u_1729401572852.jpg",
+    "ep": 7,
+    "s": 680,
+    "geo": [
+      35.6697,
+      139.7031
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=184Ifmnz0t94Aj0v4XUg-LISqgcPNhDfq&ll=35.669727%2C139.703124&z=17"
+  },
+  {
+    "id": "51i51po4p",
+    "cn": "SKECHERS 原宿店",
+    "name": "スケッチャーズ原宿店",
+    "image": "https://image.xinu.ink/pic/data/588/images/51i51po4p_1729401986050.jpg",
+    "ep": 7,
+    "s": 713,
+    "geo": [
+      35.6711,
+      139.703
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=184Ifmnz0t94Aj0v4XUg-LISqgcPNhDfq&ll=35.67111%2C139.703041&z=17"
+  },
+  {
+    "id": "51i51powi",
+    "name": "神宮前交差点",
+    "image": "https://image.xinu.ink/pic/data/588/images/51i51powi_1729402670627.jpg",
+    "ep": 7,
+    "s": 1035,
+    "geo": [
+      35.6684,
+      139.7053
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=184Ifmnz0t94Aj0v4XUg-LISqgcPNhDfq&ll=35.668479%2C139.705366&z=17"
+  },
+  {
+    "id": "51i51pnrj",
+    "name": "東京メトロ 表参道駅B4出口",
+    "image": "https://image.xinu.ink/pic/data/588/images/51i51pnrj_1729402825406.jpg",
+    "ep": 7,
+    "s": 1067,
+    "geo": [
+      35.6651,
+      139.7123
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=184Ifmnz0t94Aj0v4XUg-LISqgcPNhDfq&ll=35.665184%2C139.712301&z=17"
+  },
+  {
+    "id": "51i51ppbz",
+    "name": "駒沢オリンピック公園運動場体育館",
+    "image": "https://image.xinu.ink/pic/data/588/images/51i51ppbz_1729403021603.jpg",
+    "ep": 12,
+    "s": 151,
+    "geo": [
+      35.6249,
+      139.6614
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=184Ifmnz0t94Aj0v4XUg-LISqgcPNhDfq&ll=35.624993%2C139.661439&z=17"
+  }
+]

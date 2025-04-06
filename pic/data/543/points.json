@@ -1,0 +1,107 @@
+[
+  {
+    "id": "51i53vgw4",
+    "name": "境の明神前",
+    "image": "https://image.xinu.ink/pic/data/543/images/51i53vgw4_1727588662370.jpg",
+    "ep": 1,
+    "s": 13,
+    "geo": [
+      37.0689,
+      140.1858
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1LmjWI46K5WWGNP7saTiZ9jkol4HOqbrt&ll=37.068946%2C140.185873&z=17"
+  },
+  {
+    "id": "51i53vgxk",
+    "name": "白河の関バス停",
+    "image": "https://image.xinu.ink/pic/data/543/images/51i53vgxk_1727588247624.jpg",
+    "ep": 1,
+    "s": 37,
+    "geo": [
+      37.0471,
+      140.2276
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1LmjWI46K5WWGNP7saTiZ9jkol4HOqbrt&ll=37.047184%2C140.227685&z=17"
+  },
+  {
+    "id": "51i53vhja",
+    "name": "白河神社",
+    "image": "https://image.xinu.ink/pic/data/543/images/51i53vhja_1727588419680.jpg",
+    "ep": 1,
+    "s": 81,
+    "geo": [
+      37.0471,
+      140.2287
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1LmjWI46K5WWGNP7saTiZ9jkol4HOqbrt&ll=37.047182%2C140.228728&z=17"
+  },
+  {
+    "id": "51i53vidp",
+    "name": "芳文社",
+    "image": "https://image.xinu.ink/pic/data/543/images/51i53vidp_1727520561419.jpg",
+    "ep": 1,
+    "s": 155,
+    "geo": [
+      35.7028,
+      139.7516
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1LmjWI46K5WWGNP7saTiZ9jkol4HOqbrt&ll=35.70284%2C139.751694&z=17"
+  },
+  {
+    "id": "om5nt4a1c",
+    "name": "文京区立清和公園西",
+    "image": "https://image.xinu.ink/pic/data/543/images/om5nt4a1c_1727586259447.jpg",
+    "ep": 1,
+    "s": 157,
+    "geo": [
+      35.7097,
+      139.7543
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "om5qdhvqm",
+    "name": "文京区立清和公園東",
+    "image": "https://image.xinu.ink/pic/data/543/images/om5qdhvqm_1727586393780.jpg",
+    "ep": 1,
+    "s": 166,
+    "geo": [
+      35.7099,
+      139.7544
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "om5untfyj",
+    "cn": "Thunder Dolphin",
+    "name": "サンダードルフィン",
+    "image": "https://image.xinu.ink/pic/data/543/images/om5untfyj_1727586644278.jpg",
+    "ep": 1,
+    "s": 174,
+    "geo": [
+      35.7062,
+      139.7537
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "olbj6fmx7",
+    "name": "新白河駅",
+    "image": "https://image.xinu.ink/pic/data/543/images/olbj6fmx7_1727520652924.jpg",
+    "ep": 1,
+    "s": 301,
+    "geo": [
+      37.1229,
+      140.1886
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

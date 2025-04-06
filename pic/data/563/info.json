@@ -1,0 +1,63 @@
+{
+  "id": 221333,
+  "title": "昨日青空",
+  "city": "浙江省",
+  "cover": "https://image.xinu.ink/pic/data/563/images/221333.jpg",
+  "color": "#407fbf",
+  "geo": [
+    29.207086277447672,
+    119.47787889616649
+  ],
+  "zoom": 13.336,
+  "modified": 1727512512161,
+  "litePoints": [
+    {
+      "id": "lpaa5zaxy",
+      "name": "西门城楼",
+      "image": "https://image.anitabi.cn/user/1120/bangumi/221333/points/lpaa5zaxy-1719368046529.jpg?plan=h160",
+      "geo": [
+        29.2112,
+        119.4697
+      ]
+    },
+    {
+      "id": "lpamtckgv",
+      "name": "兰江浮桥",
+      "image": "https://image.anitabi.cn/user/1120/bangumi/221333/points/lpamtckgv-1719368904147.jpg?plan=h160",
+      "geo": [
+        29.2107,
+        119.47
+      ]
+    },
+    {
+      "id": "lpa38jcvq",
+      "name": "兰溪火车站",
+      "image": "https://image.anitabi.cn/user/1120/bangumi/221333/points/lpa38jcvq-1719367766146.jpg?plan=h160",
+      "geo": [
+        29.216,
+        119.475
+      ]
+    },
+    {
+      "id": "lpakowb2y",
+      "name": "云山电视塔",
+      "image": "https://image.anitabi.cn/user/1120/bangumi/221333/points/lpakowb2y-1719368674708.jpg?plan=h160",
+      "geo": [
+        29.2054,
+        119.4799
+      ]
+    },
+    {
+      "id": "lpg5ptu1a",
+      "name": "昨日青空文化墙",
+      "image": "https://image.anitabi.cn/user/1120/bangumi/221333/points/lpg5ptu1a-1719380874527.jpg?plan=h160",
+      "geo": [
+        29.209,
+        119.4778
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 563
+}

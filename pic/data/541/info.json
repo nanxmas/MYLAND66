@@ -1,0 +1,123 @@
+{
+  "id": 216372,
+  "cn": "吹响吧！上低音号～誓言的终章～",
+  "title": "劇場版 響け！ユーフォニアム～誓いのフィナーレ～",
+  "city": "宇治市",
+  "cover": "https://image.xinu.ink/pic/data/541/images/216372.jpg",
+  "color": "#80552a",
+  "cp": "『響け！』",
+  "geo": [
+    34.89811061537483,
+    135.80740906783404
+  ],
+  "zoom": 13,
+  "modified": 1742411521228,
+  "litePoints": [
+    {
+      "id": "lv897yopa",
+      "cn": "萨莉亚宇治里尻店",
+      "name": "サイゼリヤ\n宇治​里​尻​店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/152091/points/lv897yopa-1719833820242.jpg?plan=h160",
+      "ep": 1,
+      "s": 3368,
+      "geo": [
+        34.8925,
+        135.8048
+      ]
+    },
+    {
+      "id": "sfey62s91",
+      "name": "水管桥",
+      "image": "https://image.anitabi.cn/points/216372/sfey62s91_1738342318632.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.9004,
+        135.8014
+      ]
+    },
+    {
+      "id": "hsfz2u84q",
+      "cn": "喜撰茶屋",
+      "name": "喜撰茶屋",
+      "image": "https://image.anitabi.cn/points/216372/hsfz2u84q_1716641920345.jpg?plan=h160",
+      "s": 2890,
+      "geo": [
+        34.888,
+        135.8097
+      ]
+    },
+    {
+      "id": "kqg6kaya1",
+      "name": "喜撰桥",
+      "image": "https://image.anitabi.cn/points/216372/kqg6kaya1_1716638132855.jpg?plan=h160",
+      "s": 57,
+      "geo": [
+        34.888,
+        135.8097
+      ]
+    },
+    {
+      "id": "kqhylwcti",
+      "name": "宇治神社 第一鸟居",
+      "image": "https://image.anitabi.cn/points/216372/kqhylwcti_1716642010670.jpg?plan=h160",
+      "s": 2950,
+      "geo": [
+        34.8904,
+        135.8099
+      ]
+    },
+    {
+      "id": "kqhz650z3",
+      "name": "大吉山展望台",
+      "image": "https://image.anitabi.cn/points/216372/kqhz650z3_1716642041909.jpg?plan=h160",
+      "s": 2982,
+      "geo": [
+        34.8925,
+        135.8121
+      ]
+    },
+    {
+      "id": "kqi06wpdm",
+      "name": "大吉山展望台 远眺宇治",
+      "image": "https://image.anitabi.cn/points/216372/kqi06wpdm_1716642096526.jpg?plan=h160",
+      "s": 3018,
+      "geo": [
+        34.8924,
+        135.812
+      ]
+    },
+    {
+      "id": "kqi28iqbf",
+      "name": "宇治橋西詰",
+      "image": "https://image.anitabi.cn/points/216372/kqi28iqbf_1716642222223.jpg?plan=h160",
+      "s": 3087,
+      "geo": [
+        34.8922,
+        135.8058
+      ]
+    },
+    {
+      "id": "kqgcxao2m",
+      "name": "羽户山东南步行道",
+      "image": "https://image.anitabi.cn/points/216372/kqgcxao2m_1716638540124.jpg?plan=h160",
+      "s": 121,
+      "geo": [
+        34.9063,
+        135.8146
+      ]
+    },
+    {
+      "id": "kqgeuztmt",
+      "name": "莵道高",
+      "image": "https://image.anitabi.cn/points/216372/kqgeuztmt_1716638634832.jpg?plan=h160",
+      "s": 130,
+      "geo": [
+        34.909,
+        135.8157
+      ]
+    }
+  ],
+  "pointsLength": 264,
+  "imagesLength": 264,
+  "local_id": 541
+}

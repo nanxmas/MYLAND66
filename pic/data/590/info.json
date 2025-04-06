@@ -1,0 +1,111 @@
+{
+  "id": 236626,
+  "cn": "谜语小丑",
+  "title": "RIDDLE JOKER",
+  "city": "京都市",
+  "cover": "https://image.xinu.ink/pic/data/590/images/236626.jpg",
+  "color": "#802a55",
+  "geo": [
+    34.98229500007058,
+    135.67891800021528
+  ],
+  "zoom": 15.993,
+  "modified": 1742893360346,
+  "litePoints": [
+    {
+      "id": "l6qlj0fph",
+      "name": "京都大学 ローム記念館",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/236626/points/l6qlj0fph-1717915121315.jpg?plan=h160",
+      "geo": [
+        34.979,
+        135.6837
+      ]
+    },
+    {
+      "id": "lx1b9x7g4",
+      "name": "京都大学桂キャンパス",
+      "image": "https://image.anitabi.cn/points/236626/lx1b9x7g4_1719975431865.jpg?plan=h160",
+      "geo": [
+        34.982,
+        135.679
+      ]
+    },
+    {
+      "id": "lx1cjno3y",
+      "name": "京都大学桂キャンパス Cクラスター",
+      "image": "https://image.anitabi.cn/points/236626/lx1cjno3y_1719975500617.jpg?plan=h160",
+      "geo": [
+        34.983,
+        135.6773
+      ]
+    },
+    {
+      "id": "lx193oltu",
+      "name": "京都大学工学研究科 管理課",
+      "image": "https://image.anitabi.cn/points/236626/lx193oltu_1719975291758.jpg?plan=h160",
+      "geo": [
+        34.9807,
+        135.6801
+      ]
+    },
+    {
+      "id": "lx0hgxgmw",
+      "name": "新京極",
+      "image": "https://image.anitabi.cn/points/236626/lx0hgxgmw_1719973621562.jpg?plan=h160",
+      "geo": [
+        35.0072,
+        135.7672
+      ]
+    },
+    {
+      "id": "lx0n3414r",
+      "name": "京都府立植物園",
+      "image": "https://image.anitabi.cn/points/236626/lx0n3414r_1719973963610.jpg?plan=h160",
+      "geo": [
+        35.05,
+        135.764
+      ]
+    },
+    {
+      "id": "lx1ff80m2",
+      "name": "大淀中公園",
+      "image": "https://image.anitabi.cn/points/236626/lx1ff80m2_1719975677560.jpg?plan=h160",
+      "geo": [
+        34.7052,
+        135.4889
+      ]
+    },
+    {
+      "id": "lx0a807q5",
+      "name": "けやき通り前",
+      "image": "https://image.anitabi.cn/points/236626/lx0a807q5_1719973185690.jpg?plan=h160",
+      "geo": [
+        35.4572,
+        139.633
+      ]
+    },
+    {
+      "id": "lx0d205hv",
+      "cn": "横滨皇后广场",
+      "name": "クイーンズスクエア横浜",
+      "image": "https://image.anitabi.cn/points/236626/lx0d205hv_1719973356937.jpg?plan=h160",
+      "geo": [
+        35.4564,
+        139.6344
+      ]
+    },
+    {
+      "id": "lx0ezm4p7",
+      "cn": "横滨地标大厦2楼",
+      "name": "ランドマークタワー2F",
+      "image": "https://image.anitabi.cn/points/236626/lx0ezm4p7_1719973516458.jpg?plan=h160",
+      "geo": [
+        35.4551,
+        139.6311
+      ]
+    }
+  ],
+  "pointsLength": 13,
+  "imagesLength": 13,
+  "local_id": 590
+}

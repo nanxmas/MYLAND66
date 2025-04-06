@@ -1,0 +1,915 @@
+[
+  {
+    "id": "4w397pntq",
+    "name": "エンジェルロード",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397pntq.jpg",
+    "ep": 4,
+    "s": 100,
+    "geo": [
+      34.4775,
+      134.1886
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.477517%2C134.188648&z=17"
+  },
+  {
+    "id": "4w397pnsq",
+    "name": "エンジェルロードの丘(展望台)",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397pnsq.jpg",
+    "ep": 12,
+    "s": 67,
+    "geo": [
+      34.4779,
+      134.1889
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.477904%2C134.188962&z=17"
+  },
+  {
+    "id": "4w397po80",
+    "name": "弁天島(中与島)",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397po80.jpg",
+    "ep": 8,
+    "s": 85,
+    "geo": [
+      34.4766,
+      134.1885
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.476617%2C134.188529&z=17"
+  },
+  {
+    "id": "tlz7wrrca",
+    "name": "寒霞溪路牌",
+    "image": "https://image.xinu.ink/pic/data/549/images/tlz7wrrca_1741677766124_c16v9.jpg",
+    "ep": 12,
+    "s": 1059,
+    "geo": [
+      34.5427,
+      134.3436
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tlzifq8ck",
+    "name": "福田港站",
+    "image": "https://image.xinu.ink/pic/data/549/images/tlzifq8ck_1741678409315.jpg",
+    "ep": 12,
+    "s": 1077,
+    "geo": [
+      34.5428,
+      134.3436
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tlzanysdp",
+    "name": "福田港自动贩卖机",
+    "image": "https://image.xinu.ink/pic/data/549/images/tlzanysdp_1741677915220_c16v9.jpg",
+    "ep": 12,
+    "s": 1082,
+    "geo": [
+      34.5427,
+      134.3437
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4w397po0y",
+    "name": "福田港",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397po0y.jpg",
+    "ep": 12,
+    "s": 1067,
+    "geo": [
+      34.5426,
+      134.3442
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.542603%2C134.34422&z=17"
+  },
+  {
+    "id": "4w397pnv7",
+    "name": "福田港前",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397pnv7.jpg",
+    "ep": 12,
+    "s": 1047,
+    "geo": [
+      34.5427,
+      134.3436
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.542771%2C134.343635&z=17"
+  },
+  {
+    "id": "4w397pobg",
+    "name": "福田海岸",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397pobg.jpg",
+    "ep": 12,
+    "s": 1119,
+    "geo": [
+      34.5375,
+      134.3546
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.537585%2C134.354662&z=17"
+  },
+  {
+    "id": "4w397po2z",
+    "name": "土庄港",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397po2z.jpg",
+    "ep": 21,
+    "s": 390,
+    "geo": [
+      34.4893,
+      134.1736
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.489314%2C134.173619&z=17"
+  },
+  {
+    "id": "4w397po0d",
+    "name": "倉敷駅北口 アンデルセン広場",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397po0d.jpg",
+    "ep": 9,
+    "s": 291,
+    "geo": [
+      34.6028,
+      133.7647
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.602825%2C133.764708&z=17"
+  },
+  {
+    "id": "4w397poek",
+    "name": "倉敷美観地区１",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397poek.jpg",
+    "ep": 9,
+    "s": 892,
+    "geo": [
+      34.5957,
+      133.7719
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.595741%2C133.77195&z=17"
+  },
+  {
+    "id": "4w397po8q",
+    "name": "イオンモール倉敷",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397po8q.jpg",
+    "ep": 9,
+    "s": 293,
+    "geo": [
+      34.6039,
+      133.746
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.603938%2C133.746051&z=17"
+  },
+  {
+    "id": "4w397po0u",
+    "name": "倉敷美観地区２",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397po0u.jpg",
+    "ep": 9,
+    "s": 908,
+    "geo": [
+      34.5966,
+      133.7704
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.596667%2C133.7704&z=17"
+  },
+  {
+    "id": "4w397pnxj",
+    "name": "倉敷美観地区３",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397pnxj.jpg",
+    "ep": 9,
+    "s": 941,
+    "geo": [
+      34.5976,
+      133.7704
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.597646%2C133.770408&z=17"
+  },
+  {
+    "id": "4w397pnu7",
+    "name": "「オリーブ発祥の地碑」前",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397pnu7.jpg",
+    "ep": 1,
+    "s": 116,
+    "geo": [
+      34.4715,
+      134.2713
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.471533%2C134.271349&z=17"
+  },
+  {
+    "id": "tm0pc4lfn",
+    "name": "駐車場からギリシャ風車に向かう途中の道",
+    "image": "https://image.xinu.ink/pic/data/549/images/tm0pc4lfn_1741681012275.jpg",
+    "ep": 7,
+    "s": 376,
+    "geo": [
+      34.4717,
+      134.2732
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4w397pocl",
+    "name": "オリーブポスト(オリーブ公園)",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397pocl.jpg",
+    "ep": 15,
+    "s": 575,
+    "geo": [
+      34.4726,
+      134.2736
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.472632%2C134.273661&z=17"
+  },
+  {
+    "id": "4w397pnyq",
+    "name": "姫路港",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397pnyq.jpg",
+    "ep": 12,
+    "s": 579,
+    "geo": [
+      34.7846,
+      134.6627
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.784693%2C134.662731&z=17"
+  },
+  {
+    "id": "4w397po3v",
+    "name": "自販機がある空き地",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397po3v-1727003418969.jpg",
+    "ep": 3,
+    "s": 458,
+    "geo": [
+      34.4741,
+      134.1708
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.474154%2C134.170898&z=17"
+  },
+  {
+    "id": "4w397poen",
+    "name": "西光寺西侧",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397poen.jpg",
+    "ep": 4,
+    "s": 836,
+    "geo": [
+      34.4822,
+      134.1863
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.482235%2C134.186309&z=17"
+  },
+  {
+    "id": "4w397pog6",
+    "name": "妖怪美術館01号館付近の路地",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397pog6.jpg",
+    "ep": 7,
+    "s": 464,
+    "geo": [
+      34.4845,
+      134.1855
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.484576%2C134.185581&z=17"
+  },
+  {
+    "id": "4w397pnz5",
+    "name": "大川商店前",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397pnz5.jpg",
+    "ep": 5,
+    "s": 621,
+    "geo": [
+      34.4842,
+      134.1864
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.484234%2C134.186419&z=17"
+  },
+  {
+    "id": "4w397pnwv",
+    "name": "光現寺付近",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397pnwv.jpg",
+    "ep": 2,
+    "s": 205,
+    "geo": [
+      34.4891,
+      134.1904
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.489155%2C134.190401&z=17"
+  },
+  {
+    "id": "u41l2r3rl",
+    "name": "鹿島明神社（鸟居）",
+    "image": "https://image.xinu.ink/pic/data/549/images/u41l2r3rl_1743093447021.jpg",
+    "ep": 7,
+    "geo": [
+      34.4736,
+      134.1702
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3r2p6n3b",
+    "name": "鹿島明神社前公园",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3r2p6n3b_1743070562271.jpg",
+    "ep": 3,
+    "geo": [
+      34.4737,
+      134.1701
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3t87nivh",
+    "name": "富丘八幡神社",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3t87nivh_1743075255919.jpg",
+    "ep": 12,
+    "geo": [
+      34.4855,
+      134.1953
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3vqojfqp",
+    "name": "土庄中学校操场（俯瞰）",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3vqojfqp_1743080720198.jpg",
+    "ep": "OP1",
+    "geo": [
+      34.4855,
+      134.1945
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3swm8qca",
+    "name": "重岩",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3swm8qca_1743074549654.jpg",
+    "ep": 8,
+    "geo": [
+      34.4787,
+      134.1486
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3svxa1x7",
+    "name": "重岩（入口）",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3svxa1x7_1743074506536.jpg",
+    "ep": 8,
+    "geo": [
+      34.4782,
+      134.1476
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3sw5ofa8",
+    "name": "重岩（台阶中途）",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3sw5ofa8_1743074520453.jpg",
+    "ep": 8,
+    "geo": [
+      34.4785,
+      134.148
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3szgcq1y",
+    "name": "玉光神社前",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3szgcq1y_1743074719594.jpg",
+    "ep": 5,
+    "geo": [
+      34.494,
+      134.1976
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3wp8rae3",
+    "name": "北山荒神社前",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3wp8rae3_1743082814435.jpg",
+    "ep": 7,
+    "geo": [
+      34.4933,
+      134.1997
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3t1a325j",
+    "name": "土庄中学校",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3t1a325j_1743074832122.jpg",
+    "ep": 1,
+    "geo": [
+      34.4868,
+      134.1927
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3t3p6wev",
+    "name": "春日神社バス停",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3t3p6wev_1743074978695.jpg",
+    "ep": 24,
+    "geo": [
+      34.5034,
+      134.2396
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3uefl6y3",
+    "name": "千軒海岸",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3uefl6y3_1743077802533.jpg",
+    "ep": 2,
+    "geo": [
+      34.4658,
+      134.1497
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3ugb9hm7",
+    "name": "柳隧道附近",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3ugb9hm7_1743077915856.jpg",
+    "ep": "OP1",
+    "geo": [
+      34.4662,
+      134.1633
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3uh0fxbl",
+    "name": "柳隧道",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3uh0fxbl_1743077958000.jpg",
+    "ep": 6,
+    "geo": [
+      34.4665,
+      134.1635
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3ukogx23",
+    "name": "味​の​よろず​や​なぎさ前",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3ukogx23_1743078179645.jpg",
+    "ep": 8,
+    "geo": [
+      34.4743,
+      134.1715
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3unobvsy",
+    "name": "マルナカ新土庄店",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3unobvsy_1743078369962.jpg",
+    "ep": 6,
+    "geo": [
+      34.4762,
+      134.1794
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3vy257hm",
+    "name": "西光寺西侧小巷",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3vy257hm_1743081166588.jpg",
+    "ep": 4,
+    "geo": [
+      34.4832,
+      134.1869
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3w200urr",
+    "name": "DAISO 小豆岛土庄店附近",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3w200urr_1743081404574.jpg",
+    "ep": 2,
+    "geo": [
+      34.4822,
+      134.1876
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3w3lplso",
+    "name": "西光寺东侧",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3w3lplso_1743081505522.jpg",
+    "ep": 4,
+    "geo": [
+      34.4828,
+      134.1879
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3w4f1b6n",
+    "name": "西光寺北侧正门",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3w4f1b6n_1743081550226.jpg",
+    "ep": 11,
+    "geo": [
+      34.4835,
+      134.187
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3w5cgxtf",
+    "name": "西光寺北侧",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3w5cgxtf_1743081607601.jpg",
+    "ep": 2,
+    "geo": [
+      34.484,
+      134.1873
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3w6kuyup",
+    "name": "Books Kotobuki",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3w6kuyup_1743081683262.jpg",
+    "ep": 5,
+    "geo": [
+      34.4819,
+      134.1887
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3wa3gfoa",
+    "name": "インテリア​坂井​本店附近",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3wa3gfoa_1743081893190.jpg",
+    "ep": 4,
+    "geo": [
+      34.4844,
+      134.1841
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3wakn41n",
+    "name": "土庄町​総合​福祉​会館附近",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3wakn41n_1743081964530.jpg",
+    "ep": 11,
+    "geo": [
+      34.4851,
+      134.1843
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3wceqkuo",
+    "name": "笠井書房附近",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3wceqkuo_1743082038278.jpg",
+    "ep": 1,
+    "geo": [
+      34.4852,
+      134.1849
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3wcuctd0",
+    "name": "土庄本町バス停",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3wcuctd0_1743082063893.jpg",
+    "ep": 12,
+    "geo": [
+      34.4852,
+      134.1865
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3wg5nqib",
+    "name": "小豆島​青果物​(株)",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3wg5nqib_1743082263873.jpg",
+    "ep": 1,
+    "geo": [
+      34.4866,
+      134.1833
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3wf5t13o",
+    "name": "土渕海峡",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3wf5t13o_1743082199566.jpg",
+    "ep": 11,
+    "geo": [
+      34.4864,
+      134.1861
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3wh5njbl",
+    "name": "迷路のまち 入口",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3wh5njbl_1743082319871.jpg",
+    "ep": 4,
+    "geo": [
+      34.4859,
+      134.1865
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3wk2dac4",
+    "name": "町立中央図書館",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3wk2dac4_1743082498896.jpg",
+    "ep": 11,
+    "geo": [
+      34.4863,
+      134.1896
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3wkme8p3",
+    "name": "土庄町北侧居民区",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3wkme8p3_1743082530021.jpg",
+    "ep": 5,
+    "geo": [
+      34.4888,
+      134.1843
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3wnn3lb6",
+    "name": "八幡桥",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3wnn3lb6_1743082712140.jpg",
+    "ep": 2,
+    "geo": [
+      34.4882,
+      134.1908
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3qz210j5",
+    "name": "鹿島明神社",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3qz210j5_1743070350439.jpg",
+    "geo": [
+      34.474,
+      134.1699
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3utwal52",
+    "name": "天空ホテル海廬",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3utwal52_1743078741706.jpg",
+    "geo": [
+      34.4803,
+      134.185
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tm0xz177a",
+    "name": "从土庄港向岛内街道眺望",
+    "image": "https://image.xinu.ink/pic/data/549/images/tm0xz177a_1741681491392.jpg",
+    "geo": [
+      34.4888,
+      134.1734
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3r7m9igg",
+    "name": "小豆島​観光​総合​案内​所",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3r7m9igg_1743070870175.jpg",
+    "geo": [
+      34.4893,
+      134.1741
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4w397pohs",
+    "name": "小豆島ふるさと村ファミリープール",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397pohs.jpg",
+    "geo": [
+      34.4702,
+      134.2329
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.470239%2C134.23296&z=17"
+  },
+  {
+    "id": "u3td27tdm",
+    "name": "ギリシャ風車付近",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3td27tdm_1743075542214.jpg",
+    "geo": [
+      34.4717,
+      134.2728
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4w397poh9",
+    "name": "「なかぶ庵」付近",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397poh9.jpg",
+    "ep": null,
+    "s": 2625,
+    "geo": [
+      34.4828,
+      134.3223
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.482806%2C134.322373&z=17"
+  },
+  {
+    "id": "4w397pocx",
+    "name": "西大寺港九蟠東一号防波堤灯台",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397pocx.jpg",
+    "ep": null,
+    "s": 3131,
+    "geo": [
+      34.604,
+      134.0308
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.604088%2C134.0308&z=17"
+  },
+  {
+    "id": "4w397po6y",
+    "name": "中山千枚田(下から)",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397po6y.jpg",
+    "ep": null,
+    "s": 1389,
+    "geo": [
+      34.5026,
+      134.2404
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.502665%2C134.240491&z=17"
+  },
+  {
+    "id": "u41n50pqe",
+    "name": "中山千枚田",
+    "image": "https://image.xinu.ink/pic/data/549/images/u41n50pqe_1743093577411.jpg",
+    "geo": [
+      34.5037,
+      134.2401
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3t5x9463",
+    "name": "湯船山（小豆島​霊場​第四十四​番​湯船山​蓮華寺）",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3t5x9463_1743075110818.jpg",
+    "geo": [
+      34.5057,
+      134.2422
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3uip6djn",
+    "name": "樹齢千年のオリーヴ大樹",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3uip6djn_1743078062032.jpg",
+    "geo": [
+      34.4668,
+      134.1684
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4w397po1l",
+    "name": "鹿島の海岸",
+    "image": "https://image.xinu.ink/pic/data/549/images/4w397po1l-1726929377623.jpg",
+    "ep": "",
+    "s": 1935,
+    "geo": [
+      34.4738,
+      134.1711
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1axdTlJqkTbLTJMWAK0RdzlDInB4yfPBj&ll=34.473857%2C134.171177&z=17"
+  },
+  {
+    "id": "u3umlbba8",
+    "name": "水明​鹿島​荘​海​の​家",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3umlbba8_1743078295885.jpg",
+    "geo": [
+      34.4769,
+      134.1771
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3un6ifa8",
+    "name": "みかん選果場前",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3un6ifa8_1743078333532.jpg",
+    "geo": [
+      34.4767,
+      134.1785
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3vww39gl",
+    "name": "西光寺 誓願之塔",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3vww39gl_1743081097934.jpg",
+    "geo": [
+      34.4827,
+      134.1871
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3w716597",
+    "name": "Books Kotobuki北向（王子大桥北侧）",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3w716597_1743081708392.jpg",
+    "geo": [
+      34.4822,
+      134.1888
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3vtninsl",
+    "name": "妖怪美术馆01号馆前的小路",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3vtninsl_1743080900621.jpg",
+    "geo": [
+      34.4844,
+      134.1859
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3wdktsmi",
+    "name": "軽食​喫茶​バジリコ",
+    "image": "https://image.xinu.ink/pic/data/549/images/u3wdktsmi_1743082104617.jpg",
+    "geo": [
+      34.4844,
+      134.1824
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  }
+]

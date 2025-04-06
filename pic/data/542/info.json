@@ -1,0 +1,119 @@
+{
+  "id": 216894,
+  "cn": "地铁系列",
+  "title": "",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/542/images/216894.jpg",
+  "color": "#3a3c48",
+  "geo": [
+    58.51141045607531,
+    84.8733211206602
+  ],
+  "zoom": 2.273,
+  "modified": 1737290964588,
+  "litePoints": [
+    {
+      "id": "6ac4004d",
+      "cn": "植物园站",
+      "name": "Babushkinskaya=bothanical gardens",
+      "image": "https://image.anitabi.cn/points/216894/6ac4004d_1717325128363.jpg?plan=h160",
+      "geo": [
+        55.8448,
+        37.6382
+      ]
+    },
+    {
+      "id": "kyyzuoany",
+      "cn": "莫斯科科学院植物园",
+      "name": "Babushkinskaya=bothanical gardens",
+      "image": "https://image.anitabi.cn/points/216894/kyyzuoany_1717306342317.jpg?plan=h160",
+      "geo": [
+        55.8343,
+        37.6231
+      ]
+    },
+    {
+      "id": "b9e9a28c",
+      "cn": "展览馆站",
+      "name": "VDNKh=Exhibition",
+      "image": "https://image.anitabi.cn/points/216894/b9e9a28c_1717316578738.jpg?plan=h160",
+      "geo": [
+        55.821,
+        37.6414
+      ]
+    },
+    {
+      "id": "kz3gz23x8",
+      "cn": "太空征服者纪念碑（莫斯科航天博物馆）",
+      "name": "Мемориальный музей космонавтики",
+      "image": "https://image.anitabi.cn/points/216894/kz3gz23x8_1717316580597.jpg?plan=h160",
+      "geo": [
+        55.8227,
+        37.6397
+      ]
+    },
+    {
+      "id": "kz3dt6pl6",
+      "cn": "全俄展览中心大门",
+      "name": "Главный вход ВДНХ",
+      "image": "https://image.anitabi.cn/points/216894/kz3dt6pl6_1717316581608.jpg?plan=h160",
+      "geo": [
+        55.8262,
+        37.6375
+      ]
+    },
+    {
+      "id": "kz3mi2wd0",
+      "cn": "全俄展览中心",
+      "name": "ВДНХ",
+      "image": "https://image.anitabi.cn/points/216894/kz3mi2wd0_1717316583830.jpg?plan=h160",
+      "geo": [
+        55.8286,
+        37.6335
+      ]
+    },
+    {
+      "id": "kz3inm8ct",
+      "cn": "宇宙酒店",
+      "name": "Hotel Cosmos",
+      "image": "https://image.anitabi.cn/points/216894/kz3inm8ct_1717316585277.jpg?plan=h160",
+      "geo": [
+        55.8222,
+        37.6464
+      ]
+    },
+    {
+      "id": "kyz18qfgj",
+      "cn": "克里姆林宫",
+      "name": "Kremlin",
+      "image": "https://image.anitabi.cn/points/216894/kyz18qfgj_1717307381447.jpg?plan=h160",
+      "geo": [
+        55.7513,
+        37.6173
+      ]
+    },
+    {
+      "id": "kz1z0x5p4",
+      "cn": "亚历山大公园",
+      "name": "Александровский сад",
+      "image": "https://image.anitabi.cn/points/216894/kz1z0x5p4_1717316586256.jpg?plan=h160",
+      "geo": [
+        55.7522,
+        37.6136
+      ]
+    },
+    {
+      "id": "63decdf4",
+      "cn": "和平大道站",
+      "name": "Prospekt Mira",
+      "image": "https://image.anitabi.cn/points/216894/63decdf4_1717307385253.jpg?plan=h160",
+      "geo": [
+        55.7796,
+        37.6317
+      ]
+    }
+  ],
+  "pointsLength": 72,
+  "imagesLength": 65,
+  "local_id": 542
+}

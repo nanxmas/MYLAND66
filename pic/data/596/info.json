@@ -1,0 +1,129 @@
+{
+  "id": 239646,
+  "cn": "皿三昧",
+  "title": "さらざんまい",
+  "city": "台东区",
+  "cover": "https://image.xinu.ink/pic/data/596/images/239646.jpg",
+  "color": "#407fbf",
+  "geo": [
+    35.707384528202226,
+    139.79240509661622
+  ],
+  "zoom": 12.722,
+  "modified": 1722519131709,
+  "litePoints": [
+    {
+      "id": "m343biil9",
+      "name": "吾妻桥",
+      "image": "https://image.anitabi.cn/user/0/bangumi/239646/points/m343biil9-1720451971257.jpg?plan=h160",
+      "ep": 3,
+      "s": 38,
+      "geo": [
+        35.7104,
+        139.7984
+      ]
+    },
+    {
+      "id": "m34fo80pr",
+      "name": "松屋浅草",
+      "image": "https://image.anitabi.cn/user/0/bangumi/239646/points/m34fo80pr-1720452440412.jpg?plan=h160",
+      "ep": 11,
+      "s": 1289,
+      "geo": [
+        35.7107,
+        139.7977
+      ]
+    },
+    {
+      "id": "m34hhygy5",
+      "name": "雷门",
+      "image": "https://image.anitabi.cn/user/0/bangumi/239646/points/m34hhygy5-1720452543065.jpg?plan=h160",
+      "ep": 11,
+      "s": 1150,
+      "geo": [
+        35.7109,
+        139.7962
+      ]
+    },
+    {
+      "id": "m34nkzooy",
+      "name": "合羽橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/239646/points/m34nkzooy-1720452907937.jpg?plan=h160",
+      "ep": 1,
+      "s": 27,
+      "geo": [
+        35.7145,
+        139.7888
+      ]
+    },
+    {
+      "id": "m34wtdv2l",
+      "name": "河童广场",
+      "image": "https://image.anitabi.cn/user/0/bangumi/239646/points/m34wtdv2l-1720453540619.jpg?plan=h160",
+      "ep": 1,
+      "s": 359,
+      "geo": [
+        35.7143,
+        139.7887
+      ]
+    },
+    {
+      "id": "m363htp1u",
+      "name": "花屋敷 浅草门",
+      "image": "https://image.anitabi.cn/user/0/bangumi/239646/points/m363htp1u-1720456029676.jpg?plan=h160",
+      "ep": 2,
+      "s": 576,
+      "geo": [
+        35.7151,
+        139.795
+      ]
+    },
+    {
+      "id": "m372rpr4t",
+      "name": "雷5656会馆（握手会）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/239646/points/m372rpr4t-1720458207300.jpg?plan=h160",
+      "ep": 5,
+      "s": 179,
+      "geo": [
+        35.7165,
+        139.7959
+      ]
+    },
+    {
+      "id": "m37hlbdjh",
+      "name": "浅草站8口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/239646/points/m37hlbdjh-1720459106688.jpg?plan=h160",
+      "ep": 7,
+      "s": 14,
+      "geo": [
+        35.711,
+        139.7978
+      ]
+    },
+    {
+      "id": "m38ejeb8j",
+      "name": "警署",
+      "image": "https://image.anitabi.cn/user/0/bangumi/239646/points/m38ejeb8j-1720461182197.jpg?plan=h160",
+      "ep": 1,
+      "s": 476,
+      "geo": [
+        35.7103,
+        139.7882
+      ]
+    },
+    {
+      "id": "m38n9u4p5",
+      "name": "宝藏门",
+      "image": "https://image.anitabi.cn/user/0/bangumi/239646/points/m38n9u4p5-1720461580434.jpg?plan=h160",
+      "ep": 1,
+      "s": 808,
+      "geo": [
+        35.7139,
+        139.7966
+      ]
+    }
+  ],
+  "pointsLength": 12,
+  "imagesLength": 12,
+  "local_id": 596
+}

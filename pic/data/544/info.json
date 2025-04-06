@@ -1,0 +1,38 @@
+{
+  "id": 217833,
+  "cn": "蓝色时期",
+  "title": "ブルーピリオド",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/544/images/217833.jpg",
+  "color": "#0055aa",
+  "geo": [
+    35.6576797435674,
+    139.75006895929954
+  ],
+  "zoom": 10.541,
+  "modified": 1672153332236,
+  "litePoints": [
+    {
+      "id": "4yr1ytrl1",
+      "name": "渋谷スクランブル交差点",
+      "image": "https://image.anitabi.cn/user/0/bangumi/217833/points/4yr1ytrl1.jpg?plan=h160",
+      "geo": [
+        35.6594,
+        139.7005
+      ]
+    },
+    {
+      "id": "4yrccytmh",
+      "cn": "东京都美术馆",
+      "name": "東京都美術館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/217833/points/4yrccytmh.jpg?plan=h160",
+      "geo": [
+        35.7171,
+        139.7727
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 544
+}

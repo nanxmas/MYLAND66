@@ -1,0 +1,131 @@
+{
+  "id": 231474,
+  "cn": "桧曾根与间租谭",
+  "title": "ひそねとまそたん",
+  "city": "各务原市",
+  "cover": "https://image.xinu.ink/pic/data/579/images/231474.jpg",
+  "color": "#0080aa",
+  "cp": "ひそねとまそたん飛実団",
+  "geo": [
+    35.394931631356414,
+    136.85997010558214
+  ],
+  "zoom": 13.942,
+  "modified": 1723458959558,
+  "litePoints": [
+    {
+      "id": "n4xfhetkd",
+      "name": "岐阜基地南地区建物",
+      "image": "https://image.anitabi.cn/points/231474/n4xfhetkd_1723415008903.jpg?plan=h160",
+      "ep": 1,
+      "s": 156,
+      "geo": [
+        35.3914,
+        136.8529
+      ]
+    },
+    {
+      "id": "n4pvd58r6",
+      "name": "北地区案内図",
+      "image": "https://image.anitabi.cn/points/231474/n4pvd58r6_1723398597898.jpg?plan=h160",
+      "ep": 1,
+      "s": 170,
+      "geo": [
+        35.3987,
+        136.8723
+      ]
+    },
+    {
+      "id": "n4pkvyfwv",
+      "name": "第8格納庫",
+      "image": "https://image.anitabi.cn/points/231474/n4pkvyfwv_1723399204925.jpg?plan=h160",
+      "ep": 1,
+      "s": 208,
+      "geo": [
+        35.3898,
+        136.8549
+      ]
+    },
+    {
+      "id": "n5gm638qu",
+      "name": "自衛隊岐阜病院",
+      "image": "https://image.anitabi.cn/points/231474/n5gm638qu_1723456774633.jpg?plan=h160",
+      "ep": 1,
+      "s": 324,
+      "geo": [
+        35.389,
+        136.8502
+      ]
+    },
+    {
+      "id": "n4pym0tek",
+      "name": "第8格納庫（位置）",
+      "image": "https://image.anitabi.cn/points/231474/n4pym0tek_1723398742832.jpg?plan=h160",
+      "ep": 1,
+      "s": 384,
+      "geo": [
+        35.3985,
+        136.8743
+      ]
+    },
+    {
+      "id": "n4q5m9bk6",
+      "name": "喫煙所",
+      "image": "https://image.anitabi.cn/points/231474/n4q5m9bk6_1723399160817.jpg?plan=h160",
+      "ep": 1,
+      "s": 814,
+      "geo": [
+        35.3915,
+        136.8521
+      ]
+    },
+    {
+      "id": "n4r7r0c1b",
+      "name": "駐輪場",
+      "image": "https://image.anitabi.cn/points/231474/n4r7r0c1b_1723401484320.jpg?plan=h160",
+      "ep": 1,
+      "s": 1068,
+      "geo": [
+        35.3984,
+        136.8704
+      ]
+    },
+    {
+      "id": "n4r8nlx9u",
+      "name": "送電塔",
+      "image": "https://image.anitabi.cn/points/231474/n4r8nlx9u_1723401523255.jpg?plan=h160",
+      "ep": 1,
+      "s": 1071,
+      "geo": [
+        35.3987,
+        136.8705
+      ]
+    },
+    {
+      "id": "5grnq0j2n",
+      "cn": "航空自卫队 岐阜基地",
+      "name": "航空​自衛隊 ​岐阜​基地",
+      "image": "https://image.anitabi.cn/points/231474/5grnq0j2n_1723444289034.jpg?plan=h160",
+      "ep": 1,
+      "s": 1113,
+      "geo": [
+        35.394,
+        136.8683
+      ]
+    },
+    {
+      "id": "n4ramfezd",
+      "name": "飛行隊指揮所",
+      "image": "https://image.anitabi.cn/points/231474/n4ramfezd_1723401645861.jpg?plan=h160",
+      "ep": 1,
+      "s": 1209,
+      "geo": [
+        35.3981,
+        136.8701
+      ]
+    }
+  ],
+  "pointsLength": 81,
+  "imagesLength": 81,
+  "local_id": 579
+}

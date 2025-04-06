@@ -1,0 +1,130 @@
+{
+  "id": 215158,
+  "cn": "刀使的巫女",
+  "title": "刀使ノ巫女",
+  "city": "镰仓市",
+  "cover": "https://image.xinu.ink/pic/data/535/images/215158.jpg",
+  "color": "#be9083",
+  "cp": "刀使ノ巫女",
+  "geo": [
+    34.9771393974999,
+    138.1892534067324
+  ],
+  "zoom": 6.069,
+  "modified": 1719939179887,
+  "litePoints": [
+    {
+      "id": "51i53xg83",
+      "name": "鎌倉駅西口",
+      "image": "https://image.anitabi.cn/points/215158/51i53xg83_1672367527771.jpg?plan=h160",
+      "ep": 1,
+      "s": 501,
+      "geo": [
+        35.3187,
+        139.5499
+      ]
+    },
+    {
+      "id": "51i53xglf",
+      "name": "江ノ電鎌倉駅の改札",
+      "image": "https://image.anitabi.cn/points/215158/51i53xglf_1672367528942.jpg?plan=h160",
+      "ep": 1,
+      "s": 513,
+      "geo": [
+        35.3188,
+        139.5501
+      ]
+    },
+    {
+      "id": "51i53xgqc",
+      "name": "西口時計台（三角公園）",
+      "image": "https://image.anitabi.cn/points/215158/51i53xgqc_1672367530033.jpg?plan=h160",
+      "ep": 1,
+      "s": 521,
+      "geo": [
+        35.3193,
+        139.55
+      ]
+    },
+    {
+      "id": "51i53xgj2",
+      "name": "鎌倉駅西口周辺",
+      "image": "https://image.anitabi.cn/points/215158/51i53xgj2_1672367532230.jpg?plan=h160",
+      "ep": 1,
+      "s": 519,
+      "geo": [
+        35.3191,
+        139.5498
+      ]
+    },
+    {
+      "id": "51i53xgzt",
+      "name": "鎌倉靴",
+      "image": "https://image.anitabi.cn/points/215158/51i53xgzt_1672367534818.jpg?plan=h160",
+      "ep": 1,
+      "s": 533,
+      "geo": [
+        35.3192,
+        139.5497
+      ]
+    },
+    {
+      "id": "51i53xgv4",
+      "name": "八坂大神社の鳥居前",
+      "image": "https://image.anitabi.cn/points/215158/51i53xgv4_1672367537664.jpg?plan=h160",
+      "ep": 2,
+      "s": 116,
+      "geo": [
+        35.3237,
+        139.5504
+      ]
+    },
+    {
+      "id": "51i53xgil",
+      "name": "八坂大神社",
+      "image": "https://image.anitabi.cn/points/215158/51i53xgil_1672367539109.jpg?plan=h160",
+      "ep": 2,
+      "s": 120,
+      "geo": [
+        35.3237,
+        139.55
+      ]
+    },
+    {
+      "id": "51i53xgsl",
+      "name": "由比ヶ浜海岸",
+      "image": "https://image.anitabi.cn/points/215158/51i53xgsl_1672367540371.jpg?plan=h160",
+      "ep": 4,
+      "s": 206,
+      "geo": [
+        35.3091,
+        139.5433
+      ]
+    },
+    {
+      "id": "51i53xgnq",
+      "name": "小町のコンビニ",
+      "image": "https://image.anitabi.cn/points/215158/51i53xgnq_1672367542092.jpg?plan=h160",
+      "ep": 7,
+      "s": 697,
+      "geo": [
+        35.3168,
+        139.551
+      ]
+    },
+    {
+      "id": "51i53xgd2",
+      "name": "鎌倉駅東口",
+      "image": "https://image.anitabi.cn/points/215158/51i53xgd2_1672367543279.jpg?plan=h160",
+      "ep": 7,
+      "s": 889,
+      "geo": [
+        35.3188,
+        139.5513
+      ]
+    }
+  ],
+  "pointsLength": 70,
+  "imagesLength": 69,
+  "local_id": 535
+}

@@ -1,0 +1,70 @@
+{
+  "id": 235130,
+  "cn": "碧蓝之海",
+  "title": "ぐらんぶる",
+  "cover": "https://image.xinu.ink/pic/data/586/images/235130.jpg",
+  "color": "#0055aa",
+  "geo": [
+    24.79502808918481,
+    125.32481832529993
+  ],
+  "zoom": 10.375,
+  "modified": 1727512457412,
+  "litePoints": [
+    {
+      "id": "dsbjbezgo",
+      "cn": "宫古机场",
+      "name": "宮古空港",
+      "image": "https://image.anitabi.cn/user/1028/bangumi/235130/points/dsbjbezgo-1697037161062.jpg?plan=h160",
+      "ep": 12,
+      "s": 19,
+      "geo": [
+        24.7794,
+        125.2975
+      ]
+    },
+    {
+      "id": "dsboo5q89",
+      "name": "東平安名崎灯台",
+      "image": "https://image.anitabi.cn/user/1028/bangumi/235130/points/dsboo5q89-1697037314629.jpg?plan=h160",
+      "ep": 12,
+      "geo": [
+        24.7195,
+        125.4685
+      ]
+    },
+    {
+      "id": "dsbp5gous",
+      "name": "東平安名崎",
+      "image": "https://image.anitabi.cn/user/1028/bangumi/235130/points/dsbp5gous-1697037357465.jpg?plan=h160",
+      "ep": 12,
+      "geo": [
+        24.7203,
+        125.4675
+      ]
+    },
+    {
+      "id": "dsbs09mbl",
+      "name": "与那覇前浜",
+      "image": "https://image.anitabi.cn/user/1028/bangumi/235130/points/dsbs09mbl-1697037516664.jpg?plan=h160",
+      "ep": 12,
+      "geo": [
+        24.7347,
+        125.2624
+      ]
+    },
+    {
+      "id": "dsbtm9rha",
+      "name": "活魚・海の幸",
+      "image": "https://image.anitabi.cn/user/1028/bangumi/235130/points/dsbtm9rha-1697037618981.jpg?plan=h160",
+      "ep": 12,
+      "geo": [
+        24.8042,
+        125.2732
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 586
+}

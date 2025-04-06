@@ -1,0 +1,118 @@
+{
+  "id": 236488,
+  "cn": "偶像大师 闪耀色彩",
+  "title": "アイドルマスター シャイニーカラーズ",
+  "city": "多摩市",
+  "cover": "https://image.xinu.ink/pic/data/589/images/236488.jpg",
+  "color": "#8dbbff",
+  "cp": "THE IDOLM@STER™&…",
+  "geo": [
+    35.649816999999985,
+    139.44864400000006
+  ],
+  "zoom": 17.916,
+  "modified": 1743006418263,
+  "litePoints": [
+    {
+      "id": "nm04jnnr6",
+      "cn": "圣迹樱丘西口邮箱",
+      "name": "聖蹟桜ヶ丘西口郵便ポスト",
+      "image": "https://image.anitabi.cn/user/1100/bangumi/236488/points/nm04jnnr6-1724753142386.jpg?plan=h160",
+      "geo": [
+        35.6508,
+        139.4464
+      ]
+    },
+    {
+      "id": "kv2mqopdk",
+      "cn": "圣迹樱丘站前交叉点",
+      "name": "聖蹟桜ヶ丘駅前交差点",
+      "image": "https://image.anitabi.cn/user/0/bangumi/236488/points/kv2mqopdk-1717000552517.jpg?plan=h160",
+      "geo": [
+        35.6501,
+        139.4464
+      ]
+    },
+    {
+      "id": "l09ilq03t",
+      "cn": "圣迹樱丘站前",
+      "name": "聖蹟桜ヶ丘駅前",
+      "image": "https://image.anitabi.cn/points/236488/l09ilq03t_1717407483774.jpg?plan=h160",
+      "geo": [
+        35.6498,
+        139.4486
+      ]
+    },
+    {
+      "id": "kv2sr9urf",
+      "cn": "伊吕波坂",
+      "name": "いろは坂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/236488/points/kv2sr9urf-1717000844865.jpg?plan=h160",
+      "geo": [
+        35.646,
+        139.4456
+      ]
+    },
+    {
+      "id": "kv2ujt6l4",
+      "cn": "伊吕波坂樱公园",
+      "name": "いろは坂桜公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/236488/points/kv2ujt6l4-1717000932609.jpg?plan=h160",
+      "geo": [
+        35.6457,
+        139.445
+      ]
+    },
+    {
+      "id": "l07prsb5r",
+      "cn": "樱丘公园 夕阳之丘 展望台",
+      "name": "桜ヶ丘公園 ゆうひの丘 展望台",
+      "image": "https://image.anitabi.cn/points/236488/l07prsb5r_1717403383282.jpg?plan=h160",
+      "geo": [
+        35.6416,
+        139.4609
+      ]
+    },
+    {
+      "id": "l05x5njmk",
+      "cn": "涩谷站八公前广场",
+      "name": "渋谷駅ハチ公前広場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/236488/points/l05x5njmk-1717399474337.jpg?plan=h160",
+      "geo": [
+        35.6591,
+        139.7006
+      ]
+    },
+    {
+      "id": "l73cq431r",
+      "name": "地下道 (仮称)",
+      "image": "https://image.anitabi.cn/points/236488/l73cq431r_1717942396201.jpg?plan=h160",
+      "geo": [
+        35.6593,
+        139.701
+      ]
+    },
+    {
+      "id": "l068xeknu",
+      "cn": "涩谷中央街（旧HMV前）",
+      "name": "渋谷センター街（旧HMV前）",
+      "image": "https://image.anitabi.cn/user/1100/bangumi/236488/points/l068xeknu-1717400207011.jpg?plan=h160",
+      "geo": [
+        35.66,
+        139.6998
+      ]
+    },
+    {
+      "id": "l720vpka6",
+      "name": "聖蹟桜ヶ丘駅 西口改札",
+      "image": "https://image.anitabi.cn/points/236488/l720vpka6_1717939507460.jpg?plan=h160",
+      "geo": [
+        35.6507,
+        139.4468
+      ]
+    }
+  ],
+  "pointsLength": 78,
+  "imagesLength": 78,
+  "local_id": 589
+}

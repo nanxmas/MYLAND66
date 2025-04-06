@@ -1,0 +1,109 @@
+{
+  "id": 224173,
+  "cn": "能帮我弄干净吗？",
+  "title": "綺麗にしてもらえますか。",
+  "city": "热海市",
+  "cover": "https://image.xinu.ink/pic/data/565/images/224173.jpg",
+  "color": "#8eaac6",
+  "geo": [
+    35.10172666828389,
+    139.1933497450069
+  ],
+  "zoom": 10.63,
+  "modified": 1726751724525,
+  "litePoints": [
+    {
+      "id": "5oy8l32ds",
+      "name": "伊豆山神社",
+      "image": "https://image.anitabi.cn/points/224173/5oy8l32ds_1674204220976.jpg?plan=h160",
+      "geo": [
+        35.1149,
+        139.0831
+      ]
+    },
+    {
+      "id": "5oy8l32au",
+      "name": "網代駅",
+      "image": "https://image.anitabi.cn/points/224173/5oy8l32au_1674204223667.jpg?plan=h160",
+      "geo": [
+        35.0435,
+        139.0815
+      ]
+    },
+    {
+      "id": "5oy8l32s7",
+      "name": "旧網代中学校",
+      "image": "https://image.anitabi.cn/points/224173/5oy8l32s7_1674204225449.jpg?plan=h160",
+      "geo": [
+        35.0444,
+        139.0958
+      ]
+    },
+    {
+      "id": "5oy8l32h9",
+      "name": "「ようこそ初島へ」看板",
+      "image": "https://image.anitabi.cn/points/224173/5oy8l32h9_1674204227978.jpg?plan=h160",
+      "geo": [
+        35.0424,
+        139.1696
+      ]
+    },
+    {
+      "id": "5oy8l322n",
+      "name": "初島港",
+      "image": "https://image.anitabi.cn/points/224173/5oy8l322n_1674204232190.jpg?plan=h160",
+      "geo": [
+        35.0428,
+        139.1696
+      ]
+    },
+    {
+      "id": "5oy8l325m",
+      "name": "食堂街",
+      "image": "https://image.anitabi.cn/points/224173/5oy8l325m_1674204238458.jpg?plan=h160",
+      "geo": [
+        35.0425,
+        139.1707
+      ]
+    },
+    {
+      "id": "5oy8l32gw",
+      "name": "島の湯",
+      "image": "https://image.anitabi.cn/points/224173/5oy8l32gw_1674204241158.jpg?plan=h160",
+      "geo": [
+        35.0392,
+        139.1753
+      ]
+    },
+    {
+      "id": "5oy8l32io",
+      "name": "アジアンガーデンＲ－Ａｓｉａ",
+      "image": "https://image.anitabi.cn/points/224173/5oy8l32io_1674204249484.jpg?plan=h160",
+      "geo": [
+        35.0395,
+        139.1739
+      ]
+    },
+    {
+      "id": "5oy8l326o",
+      "name": "初木神社前の集落",
+      "image": "https://image.anitabi.cn/points/224173/5oy8l326o_1674204252112.jpg?plan=h160",
+      "geo": [
+        35.0417,
+        139.1693
+      ]
+    },
+    {
+      "id": "5oy8l32hn",
+      "name": "初島漁協スーパー",
+      "image": "https://image.anitabi.cn/points/224173/5oy8l32hn_1674204255338.jpg?plan=h160",
+      "geo": [
+        35.0422,
+        139.1692
+      ]
+    }
+  ],
+  "pointsLength": 168,
+  "imagesLength": 20,
+  "local_id": 565
+}

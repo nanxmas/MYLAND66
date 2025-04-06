@@ -1,0 +1,54 @@
+[
+  {
+    "id": "79cffc30",
+    "cn": "松下製麺所",
+    "name": "中野町２−２",
+    "image": "https://image.xinu.ink/pic/data/577/images/79cffc30_1741428040687.jpg",
+    "s": 529,
+    "geo": [
+      34.335,
+      134.0448
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZGp_IT4APyxp5RA-Gcdqe_KaP-STUAw&ll=34.335002%2C134.044849&z=17"
+  },
+  {
+    "id": "829e85b3",
+    "cn": "さかな工房丸万",
+    "name": "祇園町３−２１",
+    "image": "https://image.xinu.ink/pic/data/577/images/829e85b3_1741428221998.jpg",
+    "s": 1394,
+    "geo": [
+      33.83,
+      132.7734
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZGp_IT4APyxp5RA-Gcdqe_KaP-STUAw&ll=33.830056%2C132.773409&z=17"
+  },
+  {
+    "id": "82d59ce6",
+    "cn": "焼肉ラーメンみっちゃん",
+    "name": "牛田南１丁目７−１",
+    "image": "https://image.xinu.ink/pic/data/577/images/82d59ce6_1741428475194.jpg",
+    "s": 2921,
+    "geo": [
+      34.4072,
+      132.4707
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZGp_IT4APyxp5RA-Gcdqe_KaP-STUAw&ll=34.407247%2C132.470741&z=17"
+  },
+  {
+    "id": "4403a2f8",
+    "cn": "成田山新勝寺",
+    "name": "本町３４５",
+    "image": "https://image.xinu.ink/pic/data/577/images/4403a2f8_1741428681739.jpg",
+    "s": 146,
+    "geo": [
+      35.7842,
+      140.3184
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZGp_IT4APyxp5RA-Gcdqe_KaP-STUAw&ll=35.784268%2C140.318452&z=17"
+  }
+]

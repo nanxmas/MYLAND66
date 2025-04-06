@@ -1,0 +1,262 @@
+[
+  {
+    "id": "ljz7o3911",
+    "name": "西武池袋線池袋第2号踏切",
+    "image": "https://image.xinu.ink/pic/data/587/images/ljz7o3911_1718955753750.jpg",
+    "ep": 1,
+    "s": 186,
+    "geo": [
+      35.7249,
+      139.7058
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ljz9yc1su",
+    "name": "西武2000系電車",
+    "image": "https://image.xinu.ink/pic/data/587/images/ljz9yc1su_1718955754809.jpg",
+    "ep": 1,
+    "s": 113,
+    "geo": [
+      35.7248,
+      139.7058
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ljzdhcucq",
+    "name": "東武東上線第23号踏切",
+    "image": "https://image.xinu.ink/pic/data/587/images/ljzdhcucq_1718955755405.jpg",
+    "ep": 11,
+    "s": 29,
+    "geo": [
+      35.7596,
+      139.6864
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ljzgs6z8h",
+    "name": "東武10000系電車",
+    "image": "https://image.xinu.ink/pic/data/587/images/ljzgs6z8h_1718955756728.jpg",
+    "ep": 2,
+    "s": 94,
+    "geo": [
+      35.7595,
+      139.6864
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ljzi3ohoz",
+    "name": "第二中里踏切",
+    "image": "https://image.xinu.ink/pic/data/587/images/ljzi3ohoz_1718955759069.jpg",
+    "ep": 3,
+    "s": 144,
+    "geo": [
+      35.739,
+      139.7526
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ljzt0pklg",
+    "name": "JR東日本E235系電車",
+    "image": "https://image.xinu.ink/pic/data/587/images/ljzt0pklg_1718955759465.jpg",
+    "ep": 3,
+    "s": 190,
+    "geo": [
+      35.7391,
+      139.7525
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ljzu2z9k6",
+    "name": "中井第4号踏切",
+    "image": "https://image.xinu.ink/pic/data/587/images/ljzu2z9k6_1718955759868.jpg",
+    "ep": 4,
+    "s": 75,
+    "geo": [
+      35.7149,
+      139.6817
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ljzzlwfef",
+    "name": "亀第17号踏切",
+    "image": "https://image.xinu.ink/pic/data/587/images/ljzzlwfef_1718955760512.jpg",
+    "ep": 5,
+    "s": 56,
+    "geo": [
+      35.7027,
+      139.8331
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lk02dnue3",
+    "name": "東武8000系8577F（昭和30年代車両再現塗装）",
+    "image": "https://image.xinu.ink/pic/data/587/images/lk02dnue3_1718955760855.jpg",
+    "ep": 5,
+    "s": 99,
+    "geo": [
+      35.7027,
+      139.8331
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lk02z4tx6",
+    "name": "東武8000系8568F（昭和30年代試験塗装）",
+    "image": "https://image.xinu.ink/pic/data/587/images/lk02z4tx6_1718955761318.jpg",
+    "ep": 5,
+    "s": 195,
+    "geo": [
+      35.7027,
+      139.8332
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lk07981bv",
+    "name": "伊勢崎第20号踏切",
+    "image": "https://image.xinu.ink/pic/data/587/images/lk07981bv_1718955761606.jpg",
+    "ep": 6,
+    "s": 29,
+    "geo": [
+      35.7443,
+      139.8104
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lk083ti2i",
+    "name": "東稲荷神社",
+    "image": "https://image.xinu.ink/pic/data/587/images/lk083ti2i_1718955762044.jpg",
+    "ep": 6,
+    "s": 119,
+    "geo": [
+      35.7443,
+      139.8106
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lk08v8s02",
+    "name": "東武500系電車",
+    "image": "https://image.xinu.ink/pic/data/587/images/lk08v8s02_1718955762467.jpg",
+    "ep": 6,
+    "s": 181,
+    "geo": [
+      35.7443,
+      139.8104
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lk0aguk33",
+    "name": "青山街道踏切",
+    "image": "https://image.xinu.ink/pic/data/587/images/lk0aguk33_1718955762754.jpg",
+    "ep": 7,
+    "s": 129,
+    "geo": [
+      35.682,
+      139.7029
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lk0ezon2j",
+    "name": "「清酒・金陵」看板",
+    "image": "https://image.xinu.ink/pic/data/587/images/lk0ezon2j_1718955763058.jpg",
+    "ep": 7,
+    "s": 60,
+    "geo": [
+      35.6819,
+      139.703
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lk0gc82eq",
+    "name": "JR東日本E231系電車",
+    "image": "https://image.xinu.ink/pic/data/587/images/lk0gc82eq_1718955763623.jpg",
+    "ep": 7,
+    "s": 207,
+    "geo": [
+      35.682,
+      139.7029
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lk0k7fjpo",
+    "name": "学習院下踏切",
+    "image": "https://image.xinu.ink/pic/data/587/images/lk0k7fjpo_1718955764035.jpg",
+    "ep": 9,
+    "s": 39,
+    "geo": [
+      35.7163,
+      139.7124
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lk0nxd27j",
+    "name": "東京都交通局7000形電車（えんじ色）",
+    "image": "https://image.xinu.ink/pic/data/587/images/lk0nxd27j_1718955764438.jpg",
+    "ep": 9,
+    "s": 43,
+    "geo": [
+      35.7163,
+      139.7125
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lk0sksup6",
+    "name": "東京都交通局6000形電車6212号",
+    "image": "https://image.xinu.ink/pic/data/587/images/lk0sksup6_1718955764763.jpg",
+    "ep": 9,
+    "s": 88,
+    "geo": [
+      35.7163,
+      139.7125
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lk0utzmek",
+    "name": "学習院下停留場",
+    "image": "https://image.xinu.ink/pic/data/587/images/lk0utzmek_1718955765295.jpg",
+    "ep": 10,
+    "s": 89,
+    "geo": [
+      35.7165,
+      139.7125
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  }
+]

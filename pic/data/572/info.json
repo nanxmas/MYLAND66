@@ -1,0 +1,131 @@
+{
+  "id": 228350,
+  "cn": "战栗杀机",
+  "title": "BANANA FISH",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/572/images/228350.jpg",
+  "color": "#dfbc0c",
+  "cp": "Project BANANA F…",
+  "geo": [
+    40.737835444125864,
+    -74.00961632602639
+  ],
+  "zoom": 11.886,
+  "modified": 1726751589192,
+  "litePoints": [
+    {
+      "id": "9v39x7y66",
+      "cn": "纽约公共图书馆",
+      "name": "New York Public Library",
+      "image": "https://image.anitabi.cn/user/0/bangumi/228350/points/9v39x7y66-1685969724199.jpg?plan=h160",
+      "ep": 12,
+      "s": 870,
+      "geo": [
+        40.7531,
+        -73.9823
+      ]
+    },
+    {
+      "id": "hstu97q5a",
+      "name": "美国自然历史博物馆",
+      "image": "https://image.anitabi.cn/points/228350/hstu97q5a_1708361310967.jpg?plan=h160",
+      "ep": 20,
+      "s": 908,
+      "geo": [
+        40.7813,
+        -73.974
+      ]
+    },
+    {
+      "id": "hstu97qgs",
+      "name": "索罗门·古根汉美术馆",
+      "image": "https://image.anitabi.cn/points/228350/hstu97qgs_1708361323813.jpg?plan=h160",
+      "ep": 16,
+      "s": 1260,
+      "geo": [
+        40.7829,
+        -73.959
+      ]
+    },
+    {
+      "id": "hstu97ptw",
+      "name": "卡内基大厅",
+      "image": "https://image.anitabi.cn/points/228350/hstu97ptw_1708361364321.jpg?plan=h160",
+      "ep": 19,
+      "s": 580,
+      "geo": [
+        40.7651,
+        -73.98
+      ]
+    },
+    {
+      "id": "hstu97q7i",
+      "name": "One Columbus Place",
+      "image": "https://image.anitabi.cn/points/228350/hstu97q7i_1708361375454.jpg?plan=h160",
+      "ep": 42,
+      "s": 459,
+      "geo": [
+        40.7693,
+        -73.9855
+      ]
+    },
+    {
+      "id": "hstu97qe6",
+      "name": "Mount Sinai West Cardiovascular Ambulatory Center",
+      "image": "https://image.anitabi.cn/points/228350/hstu97qe6_1708361378642.jpg?plan=h160",
+      "ep": 21,
+      "s": 459,
+      "geo": [
+        40.7699,
+        -73.9875
+      ]
+    },
+    {
+      "id": "hstu97qa5",
+      "name": "时报广场",
+      "image": "https://image.anitabi.cn/points/228350/hstu97qa5_1708361389187.jpg?plan=h160",
+      "ep": 19,
+      "s": 615,
+      "geo": [
+        40.7579,
+        -73.9856
+      ]
+    },
+    {
+      "id": "hstu97pul",
+      "name": "59 St - Columbus Circle 地铁站入口",
+      "image": "https://image.anitabi.cn/points/228350/hstu97pul_1708361401483.jpg?plan=h160",
+      "ep": 11,
+      "s": 1267,
+      "geo": [
+        40.7684,
+        -73.9819
+      ]
+    },
+    {
+      "id": "hstu97q53",
+      "name": "NewYork-Presbyterian / Weill Cornell Medical Center Emergency Department",
+      "image": "https://image.anitabi.cn/points/228350/hstu97q53_1708361431332.jpg?plan=h160",
+      "ep": 2,
+      "s": 519,
+      "geo": [
+        40.7643,
+        -73.9543
+      ]
+    },
+    {
+      "id": "hstu97pz2",
+      "name": "中央公园",
+      "image": "https://image.anitabi.cn/points/228350/hstu97pz2_1708361446392.jpg?plan=h160",
+      "ep": 24,
+      "s": 1445,
+      "geo": [
+        40.7723,
+        -73.9716
+      ]
+    }
+  ],
+  "pointsLength": 44,
+  "imagesLength": 44,
+  "local_id": 572
+}

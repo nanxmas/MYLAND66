@@ -1,0 +1,110 @@
+{
+  "id": 239270,
+  "cn": "企鹅公路",
+  "title": "ペンギン・ハイウェイ",
+  "city": "奈良县",
+  "cover": "https://image.xinu.ink/pic/data/595/images/239270.jpg",
+  "color": "#2baad4",
+  "cp": "ハイウェイ",
+  "geo": [
+    34.71544031204486,
+    135.73621844117383
+  ],
+  "zoom": 13.665,
+  "modified": 1727782487305,
+  "litePoints": [
+    {
+      "id": "51i52cyl3",
+      "name": "新石切駅",
+      "image": "https://image.anitabi.cn/points/239270/51i52cyl3_1672368185117.jpg?plan=h160",
+      "geo": [
+        34.68,
+        135.6405
+      ]
+    },
+    {
+      "id": "51i52cyqo",
+      "name": "学研北生駒駅",
+      "image": "https://image.anitabi.cn/points/239270/51i52cyqo_1672368186022.jpg?plan=h160",
+      "geo": [
+        34.7248,
+        135.7234
+      ]
+    },
+    {
+      "id": "51i52cyp5",
+      "name": "真弓小学校",
+      "image": "https://image.anitabi.cn/points/239270/51i52cyp5_1672368186902.jpg?plan=h160",
+      "geo": [
+        34.7199,
+        135.726
+      ]
+    },
+    {
+      "id": "51i52cyp2",
+      "name": "ともだ歯科医院",
+      "image": "https://image.anitabi.cn/points/239270/51i52cyp2_1672368188135.jpg?plan=h160",
+      "geo": [
+        34.7178,
+        135.7329
+      ]
+    },
+    {
+      "id": "51i52cyrz",
+      "name": "ドイツ菓子ゲベック本店",
+      "image": "https://image.anitabi.cn/points/239270/51i52cyrz_1672368189054.jpg?plan=h160",
+      "geo": [
+        34.7166,
+        135.7349
+      ]
+    },
+    {
+      "id": "51i52cz1w",
+      "name": "真弓配水場",
+      "image": "https://image.anitabi.cn/points/239270/51i52cz1w_1672368189992.jpg?plan=h160",
+      "geo": [
+        34.7208,
+        135.7348
+      ]
+    },
+    {
+      "id": "51i52cyzu",
+      "name": "北大和グランド沿の小道",
+      "image": "https://image.anitabi.cn/points/239270/51i52cyzu_1672368191432.jpg?plan=h160",
+      "geo": [
+        34.7213,
+        135.7361
+      ]
+    },
+    {
+      "id": "51i52czla",
+      "name": "北五丁目バス回転広場",
+      "image": "https://image.anitabi.cn/points/239270/51i52czla_1672368193439.jpg?plan=h160",
+      "geo": [
+        34.7244,
+        135.7364
+      ]
+    },
+    {
+      "id": "51i52czp3",
+      "name": "イオン登美ヶ丘店",
+      "image": "https://image.anitabi.cn/points/239270/51i52czp3_1672368194632.jpg?plan=h160",
+      "geo": [
+        34.7258,
+        135.7502
+      ]
+    },
+    {
+      "id": "51i52czpo",
+      "name": "梨風庵",
+      "image": "https://image.anitabi.cn/points/239270/51i52czpo_1672368196633.jpg?plan=h160",
+      "geo": [
+        34.7103,
+        135.7497
+      ]
+    }
+  ],
+  "pointsLength": 11,
+  "imagesLength": 10,
+  "local_id": 595
+}

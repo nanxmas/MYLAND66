@@ -1,0 +1,456 @@
+[
+  {
+    "id": "ly8ghwif1",
+    "name": "観音寺",
+    "image": "https://image.xinu.ink/pic/data/539/images/ly8ghwif1_1720069356586.jpg",
+    "ep": 1,
+    "s": 747,
+    "geo": [
+      35.856,
+      139.3129
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ly8tew5w7",
+    "name": "飯能河原ステージ広場",
+    "image": "https://image.xinu.ink/pic/data/539/images/ly8tew5w7_1720070143457.jpg",
+    "ep": 13,
+    "s": 611,
+    "geo": [
+      35.8552,
+      139.3123
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ly9iks5dk",
+    "cn": "箕ノ口公園",
+    "name": 8,
+    "image": "https://image.xinu.ink/pic/data/539/images/ly9iks5dk_1720071750855.jpg",
+    "ep": 1,
+    "s": 760,
+    "geo": [
+      35.8586,
+      139.3095
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nrne38kan",
+    "cn": "筑波山",
+    "name": "筑波山",
+    "image": "https://image.xinu.ink/pic/data/539/images/nrne38kan-1725195528099.jpg",
+    "ep": 1,
+    "s": 612,
+    "geo": [
+      36.2253,
+      140.1067
+    ]
+  },
+  {
+    "id": "qdeh2h5pm",
+    "cn": "杜鹃花丘站",
+    "name": "つつじケ丘駅",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdeh2h5pm_1732542374171.jpg",
+    "ep": 1,
+    "s": 345,
+    "geo": [
+      36.2197,
+      140.119
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdeu0eeab",
+    "cn": "筑波山登山口",
+    "name": "筑波山登山口",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdeu0eeab_1732543136431.jpg",
+    "ep": 1,
+    "s": 348,
+    "geo": [
+      36.2202,
+      140.1187
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdf121jdu",
+    "name": "母の胎内くぐり",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdf121jdu_1732543558607.jpg",
+    "ep": 1,
+    "s": 470,
+    "geo": [
+      36.2243,
+      140.1114
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdf9vkxuw",
+    "name": "北斗岩",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdf9vkxuw_1732544145662.jpg",
+    "ep": 1,
+    "s": 499,
+    "geo": [
+      36.2251,
+      140.1088
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdfeyxori",
+    "name": "東吾野駅",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdfeyxori_1732544437401.jpg",
+    "ep": 3,
+    "s": 182,
+    "geo": [
+      35.8923,
+      139.2603
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdfm10dv7",
+    "name": "東吾野駅踏切前",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdfm10dv7_1732544828656.jpg",
+    "ep": 3,
+    "s": 206,
+    "geo": [
+      35.893,
+      139.2596
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdg5u91mg",
+    "name": "天覚山",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdg5u91mg_1732546891815.jpg",
+    "ep": 3,
+    "s": 391,
+    "geo": [
+      35.8867,
+      139.249
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdgpkg8ji",
+    "name": "大岩",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdgpkg8ji_1732547276778.jpg",
+    "ep": 3,
+    "s": 513,
+    "geo": [
+      35.895,
+      139.2345
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdgrn7lr5",
+    "name": "大高山",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdgrn7lr5_1732547401930.jpg",
+    "ep": 3,
+    "s": 568,
+    "geo": [
+      35.8981,
+      139.2329
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdgw8uzaa",
+    "cn": "子之权现天龙寺 仁王像",
+    "name": "子の権現天龍寺 仁王像",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdgw8uzaa_1732547629545.jpg",
+    "ep": 3,
+    "s": 619,
+    "geo": [
+      35.9071,
+      139.1896
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdgymhqyn",
+    "cn": "子之权现天龙寺 本堂",
+    "name": "子の権現天龍寺 本堂",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdgymhqyn_1732547852176.jpg",
+    "ep": 3,
+    "s": 625,
+    "geo": [
+      35.9073,
+      139.189
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdh1ubcj0",
+    "cn": "子之权现天龙寺 大草鞋",
+    "name": "子の権現天龍寺 鉄わらじ",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdh1ubcj0_1732547955065.jpg",
+    "ep": 3,
+    "s": 629,
+    "geo": [
+      35.9072,
+      139.1889
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdhjf3shv",
+    "name": "前橋​駅​北口",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdhjf3shv_1732549497980.jpg",
+    "ep": 8,
+    "s": 428,
+    "geo": [
+      36.3834,
+      139.0726
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdhmc9ba9",
+    "name": "赤城山大洞バス停",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdhmc9ba9_1732549580840.jpg",
+    "ep": 8,
+    "s": 521,
+    "geo": [
+      36.5462,
+      139.1838
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdhuw6kyj",
+    "name": "赤城神社 啄木鳥橋",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdhuw6kyj_1732549735489.jpg",
+    "ep": 8,
+    "s": 548,
+    "geo": [
+      36.5516,
+      139.1849
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdhzow673",
+    "name": "地蔵岳（赤城山）",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdhzow673_1732550127667.jpg",
+    "ep": 9,
+    "s": 340,
+    "geo": [
+      36.5409,
+      139.1773
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdi6zmn1p",
+    "name": "猫岩",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdi6zmn1p_1732550636769.jpg",
+    "ep": 9,
+    "s": 546,
+    "geo": [
+      36.5572,
+      139.1848
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdibg628a",
+    "name": "赤城神社 鳥居",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdibg628a_1732550817345.jpg",
+    "ep": 9,
+    "s": 548,
+    "geo": [
+      36.5516,
+      139.1843
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdife6cn3",
+    "name": "赤城神社",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdife6cn3_1732550966544.jpg",
+    "ep": 9,
+    "s": 557,
+    "geo": [
+      36.5525,
+      139.1835
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "po6pumcgn",
+    "cn": "瑞墙山庄",
+    "name": "瑞牆山荘",
+    "image": "https://image.xinu.ink/pic/data/539/images/po6pumcgn-1730566564097.jpg",
+    "ep": 11,
+    "s": 447,
+    "geo": [
+      35.8786,
+      138.5783
+    ]
+  },
+  {
+    "id": "po6v4ysgn",
+    "cn": "富士见平小屋",
+    "name": "富士見平小屋",
+    "image": "https://image.xinu.ink/pic/data/539/images/po6v4ysgn-1730566696185.jpg",
+    "ep": 11,
+    "s": 474,
+    "geo": [
+      35.8824,
+      138.5875
+    ]
+  },
+  {
+    "id": "po6wzau7s",
+    "cn": "桃太郎岩",
+    "name": "桃太郎岩",
+    "image": "https://image.xinu.ink/pic/data/539/images/po6wzau7s-1730566800820.jpg",
+    "ep": 11,
+    "s": 525,
+    "geo": [
+      35.8874,
+      138.5921
+    ]
+  },
+  {
+    "id": "po6y8lbn0",
+    "cn": "瑞墙山",
+    "name": "瑞牆山",
+    "image": "https://image.xinu.ink/pic/data/539/images/po6y8lbn0-1730567024976.jpg",
+    "ep": 11,
+    "s": 662,
+    "geo": [
+      35.8934,
+      138.592
+    ]
+  },
+  {
+    "id": "qdj7j7dg4",
+    "name": "金峰山 五丈岩",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdj7j7dg4_1732554074210.jpg",
+    "ep": 12,
+    "s": 649,
+    "geo": [
+      35.8708,
+      138.6247
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdjiu4ta7",
+    "name": "金峰山 千代ノ吹上",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdjiu4ta7_1732553383944.jpg",
+    "ep": 12,
+    "s": 367,
+    "geo": [
+      35.8703,
+      138.6214
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdjz8e9u0",
+    "name": "金峰山 砂払ノ頭",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdjz8e9u0_1732554328537.jpg",
+    "ep": 12,
+    "s": 427,
+    "geo": [
+      35.8719,
+      138.6156
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdjrkf2tm",
+    "name": "大日岩",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdjrkf2tm_1732554085153.jpg",
+    "ep": 12,
+    "s": 548,
+    "geo": [
+      35.8803,
+      138.6067
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ly97thy6u",
+    "name": "飯能河原水天宮付近",
+    "image": "https://image.xinu.ink/pic/data/539/images/ly97thy6u_1720071011778.jpg",
+    "ep": 13,
+    "s": 272,
+    "geo": [
+      35.8562,
+      139.3109
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m267ner8m",
+    "cn": "圣望学园正门",
+    "name": "聖望學園正門",
+    "image": "https://image.xinu.ink/pic/data/539/images/m267ner8m-1720377964402.jpg",
+    "ep": 13,
+    "s": 430,
+    "geo": [
+      35.8591,
+      139.3247
+    ]
+  },
+  {
+    "id": "ly9ab3mqt",
+    "name": "飯能河原 北侧",
+    "image": "https://image.xinu.ink/pic/data/539/images/ly9ab3mqt_1720071148429.jpg",
+    "ep": 13,
+    "s": 513,
+    "geo": [
+      35.8559,
+      139.3115
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qdiptzzrj",
+    "name": "高崎駅3番ホーム",
+    "image": "https://image.xinu.ink/pic/data/539/images/qdiptzzrj_1732551601232.jpg",
+    "ep": 9,
+    "geo": [
+      36.3215,
+      139.0124
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

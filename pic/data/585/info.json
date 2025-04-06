@@ -1,0 +1,117 @@
+{
+  "id": 235128,
+  "cn": "JOJO的奇妙冒险 黄金之风",
+  "title": "ジョジョの奇妙な冒険 黄金の風",
+  "city": "欧洲",
+  "cover": "https://image.xinu.ink/pic/data/585/images/235128.jpg",
+  "color": "#cf2f7d",
+  "geo": [
+    40.75114352326423,
+    14.496956028753516
+  ],
+  "zoom": 8.853,
+  "modified": 1725443396491,
+  "litePoints": [
+    {
+      "id": "lswo9t93b",
+      "cn": "罗马竞技场",
+      "name": "Colosseum-in-Rome",
+      "image": "https://image.anitabi.cn/user/0/bangumi/235128/points/lswo9t93b-1719651933575.jpg?plan=h160",
+      "ep": 7,
+      "s": 676,
+      "geo": [
+        41.8903,
+        12.4918
+      ]
+    },
+    {
+      "id": "igx410nlz",
+      "cn": "庞贝",
+      "name": "ポンペイ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/235128/points/igx410nlz-1710249142599.jpg?plan=h160",
+      "geo": [
+        40.7514,
+        14.4908
+      ]
+    },
+    {
+      "id": "igxa4gfs6",
+      "cn": "圣塔露西亚车站",
+      "name": "ヴェネツィア・​サンタ・​ルチーア",
+      "image": "https://image.anitabi.cn/user/0/bangumi/235128/points/igxa4gfs6-1710249519623.jpg?plan=h160",
+      "geo": [
+        45.4411,
+        12.3214
+      ]
+    },
+    {
+      "id": "igxbfbd7g",
+      "cn": "宪法桥",
+      "name": "Scalzi Bridge",
+      "image": "https://image.anitabi.cn/user/0/bangumi/235128/points/igxbfbd7g-1710249620143.jpg?plan=h160",
+      "geo": [
+        45.4391,
+        12.3196
+      ]
+    },
+    {
+      "id": "igxq4vkgo",
+      "cn": "那不勒斯国际机场",
+      "name": "ナポリ・​カポディキーノ​国際​空港",
+      "image": "https://image.anitabi.cn/user/0/bangumi/235128/points/igxq4vkgo-1710250462546.jpg?plan=h160",
+      "geo": [
+        40.8839,
+        14.287
+      ]
+    },
+    {
+      "id": "igy03cnq5",
+      "name": "Chiesa di Sant'Antonio a Posillipo",
+      "image": "https://image.anitabi.cn/user/0/bangumi/235128/points/igy03cnq5-1710251081252.jpg?plan=h160",
+      "geo": [
+        40.8271,
+        14.2176
+      ]
+    },
+    {
+      "id": "igy5udtvm",
+      "name": "那不列斯电车",
+      "image": "https://image.anitabi.cn/user/0/bangumi/235128/points/igy5udtvm-1710251465389.jpg?plan=h160",
+      "geo": [
+        40.8487,
+        14.2496
+      ]
+    },
+    {
+      "id": "igyetqnfn",
+      "name": "Margellian站码头",
+      "image": "https://image.anitabi.cn/user/0/bangumi/235128/points/igyetqnfn-1710251973543.jpg?plan=h160",
+      "geo": [
+        40.8256,
+        14.2211
+      ]
+    },
+    {
+      "id": "igyl156n8",
+      "name": "Piazza Giovanni Bovio",
+      "image": "https://image.anitabi.cn/user/0/bangumi/235128/points/igyl156n8-1710252337834.jpg?plan=h160",
+      "geo": [
+        40.8436,
+        14.2555
+      ]
+    },
+    {
+      "id": "igyo34hpi",
+      "cn": "新堡",
+      "name": "新堡",
+      "image": "https://image.anitabi.cn/user/0/bangumi/235128/points/igyo34hpi-1710252529096.jpg?plan=h160",
+      "geo": [
+        40.8383,
+        14.2536
+      ]
+    }
+  ],
+  "pointsLength": 16,
+  "imagesLength": 16,
+  "local_id": 585
+}

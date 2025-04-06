@@ -1,0 +1,42 @@
+[
+  {
+    "id": "idm0bxtde",
+    "name": "New Marina",
+    "image": "https://image.xinu.ink/pic/data/560/images/idm0bxtde-1709990230475.jpg",
+    "ep": 1,
+    "s": 499,
+    "geo": [
+      35.6428,
+      139.6694
+    ],
+    "origin": "Anitabi@萝可穗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "idnf3q1cs",
+    "cn": "堀越高等学校",
+    "name": "堀越高等学校",
+    "image": "https://image.xinu.ink/pic/data/560/images/idnf3q1cs-1709992990884.jpg",
+    "ep": 1,
+    "s": 805,
+    "geo": [
+      35.7009,
+      139.6759
+    ],
+    "origin": "Anitabi@萝可穗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "idlgbsz0w",
+    "name": "渋谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/560/images/idlgbsz0w-1709988853261.jpg",
+    "ep": "5",
+    "s": "",
+    "geo": [
+      35.6594,
+      139.7005
+    ],
+    "origin": "Anitabi@萝可穗",
+    "originURL": "https://anitabi.cn/"
+  }
+]

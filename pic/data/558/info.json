@@ -1,0 +1,53 @@
+{
+  "id": 220921,
+  "cn": "樱之刻 - 于樱花之森下漫步",
+  "title": "サクラノ刻 -櫻の森の下を歩む-",
+  "cover": "https://image.xinu.ink/pic/data/558/images/220921_njufbziez.jpg",
+  "color": "#956a75",
+  "modified": 1739091885314,
+  "litePoints": [
+    {
+      "id": "soshawim8",
+      "cn": "谷保站",
+      "name": "歌木駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/220921/points/soshawim8-1739077358774.jpg?plan=h160",
+      "geo": [
+        35.6818,
+        139.4466
+      ]
+    },
+    {
+      "id": "sosoxg5id",
+      "cn": "夏目家",
+      "name": "夏目家の屋敷",
+      "image": "https://image.anitabi.cn/user/0/bangumi/220921/points/sosoxg5id-1739077595212.jpg?plan=h160",
+      "geo": [
+        35.2756,
+        136.2564
+      ]
+    },
+    {
+      "id": "soswpdc78",
+      "cn": "弓张学园",
+      "name": "弓張学園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/220921/points/soswpdc78-1739078080621.jpg?plan=h160",
+      "geo": [
+        48.4472,
+        1.4877
+      ]
+    },
+    {
+      "id": "sot6cz6ds",
+      "cn": "卧樱",
+      "name": "横たわる櫻",
+      "image": "https://image.anitabi.cn/user/0/bangumi/220921/points/sot6cz6ds-1739078650128.jpg?plan=h160",
+      "geo": [
+        35.7803,
+        138.3679
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 558
+}

@@ -1,0 +1,130 @@
+{
+  "id": 219200,
+  "cn": "擅长捉弄的高木同学",
+  "title": "からかい上手の高木さん",
+  "city": "香川县",
+  "cover": "https://image.xinu.ink/pic/data/549/images/219200.jpg",
+  "color": "#5ad5f7",
+  "cp": "からかい上手の高木さん",
+  "geo": [
+    34.51017958443586,
+    134.20335054974862
+  ],
+  "zoom": 10.142,
+  "modified": 1743241823809,
+  "litePoints": [
+    {
+      "id": "4w397pntq",
+      "name": "エンジェルロード",
+      "image": "https://image.anitabi.cn/points/219200/4w397pntq.jpg?plan=h160",
+      "ep": 4,
+      "s": 100,
+      "geo": [
+        34.4775,
+        134.1886
+      ]
+    },
+    {
+      "id": "4w397pnsq",
+      "name": "エンジェルロードの丘(展望台)",
+      "image": "https://image.anitabi.cn/points/219200/4w397pnsq.jpg?plan=h160",
+      "ep": 12,
+      "s": 67,
+      "geo": [
+        34.4779,
+        134.1889
+      ]
+    },
+    {
+      "id": "4w397po80",
+      "name": "弁天島(中与島)",
+      "image": "https://image.anitabi.cn/points/219200/4w397po80.jpg?plan=h160",
+      "ep": 8,
+      "s": 85,
+      "geo": [
+        34.4766,
+        134.1885
+      ]
+    },
+    {
+      "id": "tlz7wrrca",
+      "name": "寒霞溪路牌",
+      "image": "https://image.anitabi.cn/points/219200/tlz7wrrca_1741677766124_c16v9.jpg?plan=h160",
+      "ep": 12,
+      "s": 1059,
+      "geo": [
+        34.5427,
+        134.3436
+      ]
+    },
+    {
+      "id": "tlzifq8ck",
+      "name": "福田港站",
+      "image": "https://image.anitabi.cn/points/219200/tlzifq8ck_1741678409315.jpg?plan=h160",
+      "ep": 12,
+      "s": 1077,
+      "geo": [
+        34.5428,
+        134.3436
+      ]
+    },
+    {
+      "id": "tlzanysdp",
+      "name": "福田港自动贩卖机",
+      "image": "https://image.anitabi.cn/points/219200/tlzanysdp_1741677915220_c16v9.jpg?plan=h160",
+      "ep": 12,
+      "s": 1082,
+      "geo": [
+        34.5427,
+        134.3437
+      ]
+    },
+    {
+      "id": "4w397po0y",
+      "name": "福田港",
+      "image": "https://image.anitabi.cn/points/219200/4w397po0y.jpg?plan=h160",
+      "ep": 12,
+      "s": 1067,
+      "geo": [
+        34.5426,
+        134.3442
+      ]
+    },
+    {
+      "id": "4w397pnv7",
+      "name": "福田港前",
+      "image": "https://image.anitabi.cn/points/219200/4w397pnv7.jpg?plan=h160",
+      "ep": 12,
+      "s": 1047,
+      "geo": [
+        34.5427,
+        134.3436
+      ]
+    },
+    {
+      "id": "4w397pobg",
+      "name": "福田海岸",
+      "image": "https://image.anitabi.cn/points/219200/4w397pobg.jpg?plan=h160",
+      "ep": 12,
+      "s": 1119,
+      "geo": [
+        34.5375,
+        134.3546
+      ]
+    },
+    {
+      "id": "4w397po2z",
+      "name": "土庄港",
+      "image": "https://image.anitabi.cn/points/219200/4w397po2z.jpg?plan=h160",
+      "ep": 21,
+      "s": 390,
+      "geo": [
+        34.4893,
+        134.1736
+      ]
+    }
+  ],
+  "pointsLength": 135,
+  "imagesLength": 134,
+  "local_id": 549
+}

@@ -1,0 +1,125 @@
+{
+  "id": 217249,
+  "cn": "漫画女孩",
+  "title": "こみっくがーるず",
+  "city": "白河市",
+  "cover": "https://image.xinu.ink/pic/data/543/images/217249.jpg",
+  "color": "#fb4d7a",
+  "cp": "こみっくがーるず",
+  "geo": [
+    37.09011158258194,
+    140.21332096126986
+  ],
+  "zoom": 10.985,
+  "modified": 1727588946450,
+  "litePoints": [
+    {
+      "id": "51i53vgw4",
+      "name": "境の明神前",
+      "image": "https://image.anitabi.cn/points/217249/51i53vgw4_1727588662370.jpg?plan=h160",
+      "ep": 1,
+      "s": 13,
+      "geo": [
+        37.0689,
+        140.1858
+      ]
+    },
+    {
+      "id": "51i53vgxk",
+      "name": "白河の関バス停",
+      "image": "https://image.anitabi.cn/points/217249/51i53vgxk_1727588247624.jpg?plan=h160",
+      "ep": 1,
+      "s": 37,
+      "geo": [
+        37.0471,
+        140.2276
+      ]
+    },
+    {
+      "id": "51i53vhja",
+      "name": "白河神社",
+      "image": "https://image.anitabi.cn/points/217249/51i53vhja_1727588419680.jpg?plan=h160",
+      "ep": 1,
+      "s": 81,
+      "geo": [
+        37.0471,
+        140.2287
+      ]
+    },
+    {
+      "id": "51i53vidp",
+      "name": "芳文社",
+      "image": "https://image.anitabi.cn/points/217249/51i53vidp_1727520561419.jpg?plan=h160",
+      "ep": 1,
+      "s": 155,
+      "geo": [
+        35.7028,
+        139.7516
+      ]
+    },
+    {
+      "id": "om5nt4a1c",
+      "name": "文京区立清和公園西",
+      "image": "https://image.anitabi.cn/points/217249/om5nt4a1c_1727586259447.jpg?plan=h160",
+      "ep": 1,
+      "s": 157,
+      "geo": [
+        35.7097,
+        139.7543
+      ]
+    },
+    {
+      "id": "om5qdhvqm",
+      "name": "文京区立清和公園東",
+      "image": "https://image.anitabi.cn/points/217249/om5qdhvqm_1727586393780.jpg?plan=h160",
+      "ep": 1,
+      "s": 166,
+      "geo": [
+        35.7099,
+        139.7544
+      ]
+    },
+    {
+      "id": "om5untfyj",
+      "cn": "Thunder Dolphin",
+      "name": "サンダードルフィン",
+      "image": "https://image.anitabi.cn/points/217249/om5untfyj_1727586644278.jpg?plan=h160",
+      "ep": 1,
+      "s": 174,
+      "geo": [
+        35.7062,
+        139.7537
+      ]
+    },
+    {
+      "id": "olbj6fmx7",
+      "name": "新白河駅",
+      "image": "https://image.anitabi.cn/points/217249/olbj6fmx7_1727520652924.jpg?plan=h160",
+      "ep": 1,
+      "s": 301,
+      "geo": [
+        37.1229,
+        140.1886
+      ]
+    },
+    {
+      "id": "51i53vgt2",
+      "name": "白河実業高校前",
+      "geo": [
+        37.1022,
+        140.2288
+      ]
+    },
+    {
+      "id": "51i53vicj",
+      "name": "新宿駅B7B8",
+      "geo": [
+        35.6918,
+        139.7027
+      ]
+    }
+  ],
+  "pointsLength": 10,
+  "imagesLength": 8,
+  "local_id": 543
+}

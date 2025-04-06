@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ppafouedv",
+    "name": "外滩",
+    "image": "https://image.xinu.ink/pic/data/548/images/ppafouedv_1730653059692.jpg",
+    "ep": 1,
+    "s": 14,
+    "geo": [
+      31.2389,
+      121.4862
+    ],
+    "origin": "@哔哩哔哩国创",
+    "originLink": "https://www.bilibili.com/video/BV1ia4y157US?t=14.5"
+  },
+  {
+    "id": "odol9itt3",
+    "name": "复旦大学附属复兴中学 北门",
+    "image": "https://image.xinu.ink/pic/data/548/images/odol9itt3-1726922201667.jpg",
+    "ep": 1,
+    "s": 728,
+    "geo": [
+      31.2968,
+      121.4774
+    ],
+    "origin": "@哔哩哔哩国创",
+    "originLink": "https://www.bilibili.com/video/BV1ia4y157US?t=727.5"
+  },
+  {
+    "id": "odkzqqtfg",
+    "name": "梅赛德斯-奔驰文化中心",
+    "image": "https://image.xinu.ink/pic/data/548/images/odkzqqtfg-1726914331007.jpg",
+    "ep": 1,
+    "s": 1100,
+    "geo": [
+      31.191,
+      121.4886
+    ],
+    "origin": "@哔哩哔哩国创",
+    "originLink": "https://www.bilibili.com/video/BV1ia4y157US?t=1099.9"
+  },
+  {
+    "id": "ppayuwmpz",
+    "name": "市三女中 西门",
+    "image": "https://image.xinu.ink/pic/data/548/images/ppayuwmpz_1730653981291.jpg",
+    "ep": 2,
+    "s": 1041,
+    "geo": [
+      31.2243,
+      121.4252
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ppb3a337i",
+    "name": "市三女中 东楼",
+    "image": "https://image.xinu.ink/pic/data/548/images/ppb3a337i_1730654285024.jpg",
+    "ep": 2,
+    "s": 1044,
+    "geo": [
+      31.2254,
+      121.4264
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

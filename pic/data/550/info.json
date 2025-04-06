@@ -1,0 +1,130 @@
+{
+  "id": 219568,
+  "cn": "博多豚骨拉面",
+  "title": "博多豚骨ラーメンズ",
+  "city": "福冈市",
+  "cover": "https://image.xinu.ink/pic/data/550/images/219568.jpg",
+  "color": "#2d6c73",
+  "cp": "博多豚骨ラーメンズ",
+  "geo": [
+    33.58129390322732,
+    130.42089441481494
+  ],
+  "zoom": 10.875,
+  "modified": 1724661711228,
+  "litePoints": [
+    {
+      "id": "51i53uttt",
+      "name": "博多駅博多口①",
+      "image": "https://image.anitabi.cn/points/219568/51i53uttt_1672369184494.jpg?plan=h160",
+      "ep": 10,
+      "s": 977,
+      "geo": [
+        33.5894,
+        130.4191
+      ]
+    },
+    {
+      "id": "51i53uuyo",
+      "name": "博多駅博多口②",
+      "image": "https://image.anitabi.cn/points/219568/51i53uuyo_1672369187332.jpg?plan=h160",
+      "ep": 6,
+      "s": 892,
+      "geo": [
+        33.5896,
+        130.419
+      ]
+    },
+    {
+      "id": "51i53uurd",
+      "name": "博多駅博多口④",
+      "image": "https://image.anitabi.cn/points/219568/51i53uurd_1672369193192.jpg?plan=h160",
+      "ep": 5,
+      "s": 1092,
+      "geo": [
+        33.5899,
+        130.4192
+      ]
+    },
+    {
+      "id": "51i53uuw1",
+      "name": "エンジェルポスト",
+      "image": "https://image.anitabi.cn/points/219568/51i53uuw1_1672369195207.jpg?plan=h160",
+      "ep": 5,
+      "s": 1099,
+      "geo": [
+        33.5891,
+        130.4193
+      ]
+    },
+    {
+      "id": "51i53uumn",
+      "name": "CANTINA SICILIANA",
+      "image": "https://image.anitabi.cn/points/219568/51i53uumn_1672369197192.jpg?plan=h160",
+      "ep": 7,
+      "s": 141,
+      "geo": [
+        33.5895,
+        130.4202
+      ]
+    },
+    {
+      "id": "51i53uuvu",
+      "name": "博多駅前広場のベンチ",
+      "image": "https://image.anitabi.cn/points/219568/51i53uuvu_1672369199188.jpg?plan=h160",
+      "ep": 8,
+      "s": 1000,
+      "geo": [
+        33.5901,
+        130.4191
+      ]
+    },
+    {
+      "id": "51i53uujm",
+      "name": "博多駅筑紫口①",
+      "image": "https://image.anitabi.cn/points/219568/51i53uujm_1672369200188.jpg?plan=h160",
+      "ep": 3,
+      "s": 1204,
+      "geo": [
+        33.5902,
+        130.4214
+      ]
+    },
+    {
+      "id": "51i53uuet",
+      "name": "博多駅北改札口",
+      "image": "https://image.anitabi.cn/points/219568/51i53uuet_1672369203188.jpg?plan=h160",
+      "ep": 5,
+      "s": 1094,
+      "geo": [
+        33.5903,
+        130.4206
+      ]
+    },
+    {
+      "id": "51i53uvov",
+      "name": "馬場の事務所の前",
+      "image": "https://image.anitabi.cn/points/219568/51i53uvov_1672369206190.jpg?plan=h160",
+      "ep": 7,
+      "s": 565,
+      "geo": [
+        33.5888,
+        130.4237
+      ]
+    },
+    {
+      "id": "51i53uvjp",
+      "name": "はかた駅前通り",
+      "image": "https://image.anitabi.cn/points/219568/51i53uvjp_1672369208186.jpg?plan=h160",
+      "ep": 5,
+      "s": 1094,
+      "geo": [
+        33.5897,
+        130.4155
+      ]
+    }
+  ],
+  "pointsLength": 84,
+  "imagesLength": 84,
+  "local_id": 550
+}

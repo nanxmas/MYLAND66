@@ -1,0 +1,75 @@
+{
+  "id": 231722,
+  "cn": "邪神与厨二病少女",
+  "title": "邪神ちゃんドロップキック",
+  "city": "千代田区",
+  "cover": "https://image.xinu.ink/pic/data/581/images/231722.jpg",
+  "color": "#4f935a",
+  "cp": "邪神ちゃんドロップキック",
+  "geo": [
+    35.69585050197094,
+    139.7586009997376
+  ],
+  "zoom": 16.836,
+  "modified": 1737552133031,
+  "litePoints": [
+    {
+      "id": "s240jmp7x",
+      "name": "書泉グランデ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/231722/points/s240jmp7x-1737299861548.jpg?plan=h160",
+      "ep": 11,
+      "s": 581,
+      "geo": [
+        35.6957,
+        139.7597
+      ]
+    },
+    {
+      "id": "s249yb68y",
+      "name": "神田すずらん通り",
+      "image": "https://image.anitabi.cn/user/0/bangumi/231722/points/s249yb68y-1737300517675.jpg?plan=h160",
+      "ep": 10,
+      "s": 250,
+      "geo": [
+        35.6953,
+        139.7584
+      ]
+    },
+    {
+      "id": "s24g0pr6h",
+      "name": " JINSEI GEKIJYO",
+      "image": "https://image.anitabi.cn/user/0/bangumi/231722/points/s24g0pr6h-1737300820609.jpg?plan=h160",
+      "ep": 8,
+      "s": 133,
+      "geo": [
+        35.6964,
+        139.7598
+      ]
+    },
+    {
+      "id": "s24obo62w",
+      "name": "橘昌文銭堂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/231722/points/s24obo62w-1737301237316.jpg?plan=h160",
+      "ep": 4,
+      "s": 987,
+      "geo": [
+        35.6952,
+        139.7588
+      ]
+    },
+    {
+      "id": "s24pi6d2c",
+      "name": "欧風カレー　ボンディ　神保町本店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/231722/points/s24pi6d2c-1737301360438.jpg?plan=h160",
+      "ep": 2,
+      "s": 557,
+      "geo": [
+        35.6955,
+        139.7573
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 581
+}

@@ -1,0 +1,133 @@
+{
+  "id": 239910,
+  "cn": "Ingress",
+  "title": "イングレス",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/598/images/239910_I1i7x.jpg",
+  "cp": "『イングレス』",
+  "modified": 1740310577111,
+  "litePoints": [
+    {
+      "id": "pvd2t6yna",
+      "name": "新港南橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/239910/points/pvd2t6yna-1731128832276.jpg?plan=h160",
+      "ep": 6,
+      "s": 217,
+      "geo": [
+        35.6316,
+        139.7462
+      ]
+    },
+    {
+      "id": "pvdeokn3a",
+      "cn": "东京塔",
+      "name": "東京タワー",
+      "image": "https://image.anitabi.cn/user/0/bangumi/239910/points/pvdeokn3a-1731129489656.jpg?plan=h160",
+      "ep": 1,
+      "s": 1290,
+      "geo": [
+        35.6586,
+        139.7453
+      ]
+    },
+    {
+      "id": "pvea8ci12",
+      "cn": "佛罗伦萨旧宫",
+      "name": "Palazzo Vecchio",
+      "image": "https://image.anitabi.cn/user/0/bangumi/239910/points/pvea8ci12-1731131382208.jpg?plan=h160",
+      "ep": 9,
+      "s": 1294,
+      "geo": [
+        43.7692,
+        11.2566
+      ]
+    },
+    {
+      "id": "pvemib2rk",
+      "cn": "福赛斯公园",
+      "name": "Forsyth Park",
+      "image": "https://image.anitabi.cn/user/0/bangumi/239910/points/pvemib2rk-1731132146090.jpg?plan=h160",
+      "ep": 10,
+      "s": 1294,
+      "geo": [
+        32.0672,
+        -81.0964
+      ]
+    },
+    {
+      "id": "pvf4mbb0n",
+      "cn": "华沙美人鱼",
+      "name": "Warsaw Mermaid",
+      "image": "https://image.anitabi.cn/user/0/bangumi/239910/points/pvf4mbb0n-1731133239971.jpg?plan=h160",
+      "ep": 9,
+      "s": 1292,
+      "geo": [
+        52.2497,
+        21.0121
+      ]
+    },
+    {
+      "id": "pvf8ea4rt",
+      "cn": "华盛顿纪念碑",
+      "name": "Washington Monument",
+      "image": "https://image.anitabi.cn/user/0/bangumi/239910/points/pvf8ea4rt-1731133453547.jpg?plan=h160",
+      "ep": 8,
+      "s": 1293,
+      "geo": [
+        38.8894,
+        -77.0353
+      ]
+    },
+    {
+      "id": "pvfi2a498",
+      "cn": "毕士达喷泉",
+      "name": "Bethesda Fountain",
+      "image": "https://image.anitabi.cn/user/0/bangumi/239910/points/pvfi2a498-1731134040983.jpg?plan=h160",
+      "ep": 10,
+      "s": 1297,
+      "geo": [
+        40.7743,
+        -73.9709
+      ]
+    },
+    {
+      "id": "pvfuwmql8",
+      "cn": "时报广场",
+      "name": "Times Square",
+      "image": "https://image.anitabi.cn/user/0/bangumi/239910/points/pvfuwmql8-1731134815959.jpg?plan=h160",
+      "ep": 4,
+      "s": 1352,
+      "geo": [
+        40.7571,
+        -73.986
+      ]
+    },
+    {
+      "id": "pvg69tz0y",
+      "cn": "独立纪念碑",
+      "name": "Ángel de la Independencia",
+      "image": "https://image.anitabi.cn/user/0/bangumi/239910/points/pvg69tz0y-1731135485251.jpg?plan=h160",
+      "ep": 7,
+      "s": 1350,
+      "geo": [
+        21.0199,
+        -101.2635
+      ]
+    },
+    {
+      "id": "pvgbfiw02",
+      "cn": "歌剧院广场",
+      "name": "Opéra",
+      "image": "https://image.anitabi.cn/user/0/bangumi/239910/points/pvgbfiw02-1731135811279.jpg?plan=h160",
+      "ep": 1,
+      "s": 1357,
+      "geo": [
+        48.8706,
+        2.3323
+      ]
+    }
+  ],
+  "pointsLength": 11,
+  "imagesLength": 11,
+  "local_id": 598
+}

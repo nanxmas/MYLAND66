@@ -1,0 +1,131 @@
+{
+  "id": 226540,
+  "cn": "魔法禁书目录 第三季",
+  "title": "とある魔術の禁書目録Ⅲ",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/567/images/226540.jpg",
+  "color": "#8fc7ff",
+  "cp": "PROJECT-INDEX Ⅲ",
+  "geo": [
+    35.55192983687475,
+    139.58160507131902
+  ],
+  "zoom": 8.448,
+  "modified": 1724930196852,
+  "litePoints": [
+    {
+      "id": "n81fe4jkk",
+      "name": "多摩モノレール立川北駅下",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/226540/points/n81fe4jkk-1723658805735.jpg?plan=h160",
+      "ep": 11,
+      "s": 113,
+      "geo": [
+        35.699,
+        139.4134
+      ]
+    },
+    {
+      "id": "n81hayxlv",
+      "name": "パレスホテル立川付近",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/226540/points/n81hayxlv-1723658911603.jpg?plan=h160",
+      "ep": 11,
+      "s": 36,
+      "geo": [
+        35.7019,
+        139.4129
+      ]
+    },
+    {
+      "id": "n81k6t7gw",
+      "name": "中組公園",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/226540/points/n81k6t7gw-1723659084108.jpg?plan=h160",
+      "ep": 1,
+      "s": 1057,
+      "geo": [
+        35.6218,
+        139.417
+      ]
+    },
+    {
+      "id": "n81mq99d8",
+      "name": "立川駅北口",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/226540/points/n81mq99d8-1723659236290.jpg?plan=h160",
+      "ep": 1,
+      "s": 1016,
+      "geo": [
+        35.6989,
+        139.4132
+      ]
+    },
+    {
+      "id": "n81qyzxd4",
+      "name": "立川駅北改札",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/226540/points/n81qyzxd4-1723659487832.jpg?plan=h160",
+      "ep": 1,
+      "s": 189,
+      "geo": [
+        35.6983,
+        139.4139
+      ]
+    },
+    {
+      "id": "n81sun1ow",
+      "name": "汐留シティセンター横",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/226540/points/n81sun1ow-1723659610299.jpg?plan=h160",
+      "ep": 1,
+      "s": 723,
+      "geo": [
+        35.6651,
+        139.7615
+      ]
+    },
+    {
+      "id": "n81zgasmr",
+      "name": "汐留北交差点",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/226540/points/n81zgasmr-1723660006019.jpg?plan=h160",
+      "ep": 1,
+      "s": 675,
+      "geo": [
+        35.6664,
+        139.7631
+      ]
+    },
+    {
+      "id": "n820icu2w",
+      "name": "イタリア公園",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/226540/points/n820icu2w-1723660071260.jpg?plan=h160",
+      "ep": 1,
+      "s": 793,
+      "geo": [
+        35.6593,
+        139.7589
+      ]
+    },
+    {
+      "id": "n823w8w8v",
+      "name": "東京ビッグサイト(西)",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/226540/points/n823w8w8v-1723660276667.jpg?plan=h160",
+      "ep": 1,
+      "s": 485,
+      "geo": [
+        35.6296,
+        139.794
+      ]
+    },
+    {
+      "id": "nnx308aem",
+      "cn": "伦敦塔",
+      "name": "Tower of London",
+      "image": "https://image.anitabi.cn/user/0/bangumi/226540/points/nnx308aem-1724903172861.jpg?plan=h160",
+      "ep": 2,
+      "s": 1,
+      "geo": [
+        51.5081,
+        -0.0762
+      ]
+    }
+  ],
+  "pointsLength": 30,
+  "imagesLength": 30,
+  "local_id": 567
+}
