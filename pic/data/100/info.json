@@ -1,0 +1,39 @@
+{
+  "id": 2504,
+  "cn": "剧场版 超时空要塞F 虚空歌姬",
+  "title": "劇場版 マクロスF 虚空歌姫〜イツワリノウタヒメ〜",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/100/images/2504.jpg",
+  "color": "#96adda",
+  "geo": [
+    37.82671211666019,
+    -122.42283760283578
+  ],
+  "zoom": 11.659,
+  "modified": 1722515777387,
+  "litePoints": [
+    {
+      "id": "kuv0xq7t8",
+      "cn": "恶魔岛",
+      "name": "Alcatraz Island",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2504/points/kuv0xq7t8-1716984316398.jpg?plan=h160",
+      "geo": [
+        37.8267,
+        -122.4229
+      ]
+    },
+    {
+      "id": "kuvddoptx",
+      "cn": "九曲花街",
+      "name": "Lombard Street",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2504/points/kuvddoptx-1716985419225.jpg?plan=h160",
+      "geo": [
+        37.8018,
+        -122.4193
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 100
+}

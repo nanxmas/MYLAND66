@@ -1,0 +1,78 @@
+{
+  "id": 2790,
+  "cn": "好想告诉你",
+  "title": "君に届け",
+  "city": "北海道",
+  "cover": "https://image.xinu.ink/pic/data/106/images/2790.jpg",
+  "color": "#ead5bf",
+  "geo": [
+    44.36453416146614,
+    141.70724833546973
+  ],
+  "zoom": 13.656,
+  "modified": 1728287416123,
+  "litePoints": [
+    {
+      "id": "kpx6omjxf",
+      "cn": "羽幌神社",
+      "name": "羽幌神社",
+      "image": "https://image.anitabi.cn/points/2790/kpx6omjxf_1728287351389_cblack.jpg?plan=h160",
+      "geo": [
+        44.3625,
+        141.6971
+      ]
+    },
+    {
+      "id": "kpx6omjrb",
+      "name": "羽幌高校",
+      "image": "https://image.anitabi.cn/points/2790/kpx6omjrb_1725001655913_cut.jpg?plan=h160",
+      "geo": [
+        44.3575,
+        141.6952
+      ]
+    },
+    {
+      "id": "kpx6omjao",
+      "name": "朝日大橋",
+      "geo": [
+        44.3669,
+        141.7211
+      ]
+    },
+    {
+      "id": "kpx6omj9s",
+      "name": "羽幌大橋",
+      "geo": [
+        44.3754,
+        141.7111
+      ]
+    },
+    {
+      "id": "kpx6omj25",
+      "name": "羽幌橋",
+      "geo": [
+        44.368,
+        141.705
+      ]
+    },
+    {
+      "id": "kpx6omiq4",
+      "name": "サンセットビーチ",
+      "geo": [
+        44.3665,
+        141.6933
+      ]
+    },
+    {
+      "id": "kpx6omjhh",
+      "name": "勤労青少年ホーム",
+      "geo": [
+        44.3619,
+        141.7061
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 2,
+  "local_id": 106
+}

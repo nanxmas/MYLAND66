@@ -1,0 +1,140 @@
+{
+  "id": 2973,
+  "cn": "名侦探柯南 迷宫的十字路口",
+  "title": "名探偵コナン 迷宮の十字路",
+  "city": "京都市",
+  "cover": "https://image.xinu.ink/pic/data/109/images/2973.jpg",
+  "color": "#bf6040",
+  "cp": "名探偵コナン",
+  "geo": [
+    35.039778923638195,
+    135.7833127495029
+  ],
+  "zoom": 10.021,
+  "modified": 1735592334102,
+  "litePoints": [
+    {
+      "id": "nw88kvo26",
+      "cn": "京都塔",
+      "name": "京都塔",
+      "image": "https://image.anitabi.cn/user/2104/bangumi/2973/points/nw88kvo26-1725554359068.jpg?plan=h160",
+      "ep": 1,
+      "s": 378,
+      "geo": [
+        34.9873,
+        135.7593
+      ]
+    },
+    {
+      "id": "ntd3rvvng",
+      "cn": "五条大桥",
+      "name": "五条大橋",
+      "image": "https://image.anitabi.cn/user/2104/bangumi/2973/points/ntd3rvvng-1725329865193.jpg?plan=h160",
+      "ep": 1,
+      "s": 1119,
+      "geo": [
+        34.9956,
+        135.7681
+      ]
+    },
+    {
+      "id": "nw8baid6l",
+      "cn": "五条大桥下",
+      "name": "五条大桥下",
+      "image": "https://image.anitabi.cn/user/2104/bangumi/2973/points/nw8baid6l-1725554533700.jpg?plan=h160",
+      "ep": 1,
+      "s": 1184,
+      "geo": [
+        34.996,
+        135.7676
+      ]
+    },
+    {
+      "id": "ntd62brjn",
+      "cn": "五条天神宫",
+      "name": "五條天神宮",
+      "image": "https://image.anitabi.cn/user/2104/bangumi/2973/points/ntd62brjn-1725329995936.jpg?plan=h160",
+      "ep": 1,
+      "s": 1236,
+      "geo": [
+        34.9985,
+        135.7548
+      ]
+    },
+    {
+      "id": "ntde1gz0b",
+      "cn": "弁庆石",
+      "name": "弁慶石",
+      "image": "https://image.anitabi.cn/user/2104/bangumi/2973/points/ntde1gz0b-1725330489639.jpg?plan=h160",
+      "ep": 1,
+      "s": 1289,
+      "geo": [
+        35.0087,
+        135.7658
+      ]
+    },
+    {
+      "id": "ntdfsgbo4",
+      "cn": "清水寺",
+      "name": "清水寺",
+      "image": "https://image.anitabi.cn/user/2104/bangumi/2973/points/ntdfsgbo4-1725330584392.jpg?plan=h160",
+      "ep": 1,
+      "s": 1342,
+      "geo": [
+        34.9948,
+        135.785
+      ]
+    },
+    {
+      "id": "nuwynci5r",
+      "cn": "蹴上义经地蔵",
+      "name": "蹴上義経地蔵",
+      "image": "https://image.anitabi.cn/user/2104/bangumi/2973/points/nuwynci5r-1725451461610.jpg?plan=h160",
+      "ep": 1,
+      "s": 1386,
+      "geo": [
+        35.0074,
+        135.7909
+      ]
+    },
+    {
+      "id": "nw8dz8fyw",
+      "cn": "鞍马寺西门口",
+      "name": "鞍马寺西门口",
+      "image": "https://image.anitabi.cn/user/2104/bangumi/2973/points/nw8dz8fyw-1725554686182.jpg?plan=h160",
+      "ep": 1,
+      "s": 1645,
+      "geo": [
+        35.1206,
+        135.7626
+      ]
+    },
+    {
+      "id": "ntcz4kwcc",
+      "cn": "鞍马寺",
+      "name": "鞍馬寺",
+      "image": "https://image.anitabi.cn/user/2104/bangumi/2973/points/ntcz4kwcc-1725452258422.jpg?plan=h160",
+      "ep": 1,
+      "s": 1661,
+      "geo": [
+        35.118,
+        135.7707
+      ]
+    },
+    {
+      "id": "nuwb7kq1h",
+      "cn": "鞍马寺西门路标",
+      "name": "鞍马寺西门路标",
+      "image": "https://image.anitabi.cn/user/2104/bangumi/2973/points/nuwb7kq1h-1725450154354.jpg?plan=h160",
+      "ep": 1,
+      "s": 1662,
+      "geo": [
+        35.1208,
+        135.7628
+      ]
+    }
+  ],
+  "pointsLength": 27,
+  "imagesLength": 27,
+  "local_id": 109
+}

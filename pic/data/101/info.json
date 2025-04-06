@@ -1,0 +1,130 @@
+{
+  "id": 2582,
+  "cn": "玲音",
+  "title": "Serial Experiments Lain",
+  "city": "涩谷区",
+  "cover": "https://image.xinu.ink/pic/data/101/images/2582.jpg",
+  "color": "#5e4c94",
+  "geo": [
+    35.66184475959675,
+    139.692294793845
+  ],
+  "zoom": 11.773,
+  "modified": 1720121507131,
+  "litePoints": [
+    {
+      "id": "lkymzqmnp",
+      "name": "荻窪駅北口青梅街道歩道橋",
+      "image": "https://image.anitabi.cn/points/2582/lkymzqmnp_1719029499822.jpg?plan=h160",
+      "ep": 1,
+      "s": 16,
+      "geo": [
+        35.7055,
+        139.6199
+      ]
+    },
+    {
+      "id": "kpx6ollkw",
+      "name": "渋谷パルコ前",
+      "image": "https://image.anitabi.cn/points/2582/kpx6ollkw_1719024419548.jpg?plan=h160",
+      "ep": 1,
+      "s": 120,
+      "geo": [
+        35.6623,
+        139.6992
+      ]
+    },
+    {
+      "id": "kpx6olm19",
+      "name": "渋谷センター街",
+      "image": "https://image.anitabi.cn/points/2582/kpx6olm19_1719024408069.jpg?plan=h160",
+      "ep": 1,
+      "s": 173,
+      "geo": [
+        35.6601,
+        139.6994
+      ]
+    },
+    {
+      "id": "ll1p6kgbv",
+      "cn": "鷗友学園女子中学校・高等学校",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/2582/ll1p6kgbv_1719036341400.jpg?plan=h160",
+      "ep": 1,
+      "s": 383,
+      "geo": [
+        35.6472,
+        139.64
+      ]
+    },
+    {
+      "id": "ll145thkc",
+      "name": "世田谷区美杜ヶ坂",
+      "image": "https://image.anitabi.cn/points/2582/ll145thkc_1719034886124.jpg?plan=h160",
+      "ep": 2,
+      "s": 810,
+      "geo": [
+        35.6554,
+        139.647
+      ]
+    },
+    {
+      "id": "lkz3luufs",
+      "name": "Cafe & Club Fura",
+      "image": "https://image.anitabi.cn/points/2582/lkz3luufs_1719031432054.jpg?plan=h160",
+      "ep": 3,
+      "s": 126,
+      "geo": [
+        35.6552,
+        139.7048
+      ]
+    },
+    {
+      "id": "kpx6olmn8",
+      "name": "渋谷警察署",
+      "image": "https://image.anitabi.cn/points/2582/kpx6olmn8_1719034527241.jpg?plan=h160",
+      "ep": 3,
+      "s": 150,
+      "geo": [
+        35.6577,
+        139.7037
+      ]
+    },
+    {
+      "id": "ll0r9bqlp",
+      "name": "渋谷センター街入り口",
+      "image": "https://image.anitabi.cn/points/2582/ll0r9bqlp_1719033850415.jpg?plan=h160",
+      "ep": 5,
+      "s": 165,
+      "geo": [
+        35.6597,
+        139.7003
+      ]
+    },
+    {
+      "id": "ll0gcxzzr",
+      "name": "忠犬ハチ公",
+      "image": "https://image.anitabi.cn/points/2582/ll0gcxzzr_1719033188005.jpg?plan=h160",
+      "ep": 5,
+      "s": 170,
+      "geo": [
+        35.659,
+        139.7005
+      ]
+    },
+    {
+      "id": "ll0di6nt9",
+      "name": "渋谷スクランブル交差点",
+      "image": "https://image.anitabi.cn/points/2582/ll0di6nt9_1719033022183.jpg?plan=h160",
+      "ep": 5,
+      "s": 179,
+      "geo": [
+        35.6594,
+        139.7003
+      ]
+    }
+  ],
+  "pointsLength": 33,
+  "imagesLength": 33,
+  "local_id": 101
+}

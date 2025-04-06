@@ -1,0 +1,130 @@
+{
+  "id": 2603,
+  "cn": "狱・再见绝望先生",
+  "title": "獄・さよなら絶望先生",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/103/images/2603.jpg",
+  "color": "#ff0000",
+  "geo": [
+    35.68904612623186,
+    139.77579576552898
+  ],
+  "zoom": 11.995,
+  "modified": 1722511880446,
+  "litePoints": [
+    {
+      "id": "lnad72mbs",
+      "name": "江戸川橋電停",
+      "image": "https://image.anitabi.cn/points/2603/lnad72mbs_1719211838507.jpg?plan=h160",
+      "ep": 2,
+      "s": 118,
+      "geo": [
+        35.7099,
+        139.7323
+      ]
+    },
+    {
+      "id": "ln954srye",
+      "name": "真砂町電停",
+      "image": "https://image.anitabi.cn/points/2603/ln954srye_1719211835107.jpg?plan=h160",
+      "ep": 2,
+      "s": 119,
+      "geo": [
+        35.7074,
+        139.7571
+      ]
+    },
+    {
+      "id": "ln93jnetu",
+      "name": "宇都木家具店",
+      "image": "https://image.anitabi.cn/points/2603/ln93jnetu_1719211393007.jpg?plan=h160",
+      "ep": 2,
+      "s": 119,
+      "geo": [
+        35.7075,
+        139.7571
+      ]
+    },
+    {
+      "id": "lnbk7ux99",
+      "name": "小石川区 富坂町",
+      "image": "https://image.anitabi.cn/points/2603/lnbk7ux99_1719214136663.jpg?plan=h160",
+      "ep": 2,
+      "s": 120,
+      "geo": [
+        35.712,
+        139.7507
+      ]
+    },
+    {
+      "id": "lnbg641ua",
+      "name": "神田区 麹町",
+      "image": "https://image.anitabi.cn/points/2603/lnbg641ua_1719213888752.jpg?plan=h160",
+      "ep": 2,
+      "s": 121,
+      "geo": [
+        35.6839,
+        139.736
+      ]
+    },
+    {
+      "id": "lnb9ncjw7",
+      "name": "赤坂区 氷川町",
+      "image": "https://image.anitabi.cn/points/2603/lnb9ncjw7_1719213516902.jpg?plan=h160",
+      "ep": 2,
+      "s": 123,
+      "geo": [
+        35.6681,
+        139.7355
+      ]
+    },
+    {
+      "id": "lnbbegzc7",
+      "cn": "国会议事堂",
+      "name": "国会議事堂",
+      "image": "https://image.anitabi.cn/points/2603/lnbbegzc7_1719213558592.jpg?plan=h160",
+      "ep": 2,
+      "s": 124,
+      "geo": [
+        35.6761,
+        139.746
+      ]
+    },
+    {
+      "id": "lnbbz06yt",
+      "name": "京橋区 八丁堀",
+      "image": "https://image.anitabi.cn/points/2603/lnbbz06yt_1719213626880.jpg?plan=h160",
+      "ep": 2,
+      "s": 130,
+      "geo": [
+        35.6755,
+        139.7768
+      ]
+    },
+    {
+      "id": "lnau0bnjl",
+      "name": "新坂（外記坂）",
+      "image": "https://image.anitabi.cn/points/2603/lnau0bnjl_1719212519837.jpg?plan=h160",
+      "ep": 2,
+      "s": 131,
+      "geo": [
+        35.7056,
+        139.7553
+      ]
+    },
+    {
+      "id": "lnaoi65yj",
+      "name": "三河稲荷神社",
+      "image": "https://image.anitabi.cn/points/2603/lnaoi65yj_1719212174751.jpg?plan=h160",
+      "ep": 2,
+      "s": 133,
+      "geo": [
+        35.7047,
+        139.7591
+      ]
+    }
+  ],
+  "pointsLength": 10,
+  "imagesLength": 10,
+  "local_id": 103
+}

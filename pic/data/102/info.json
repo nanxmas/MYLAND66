@@ -1,0 +1,96 @@
+{
+  "id": 2585,
+  "cn": "某科学的超电磁炮",
+  "title": "とある科学の超電磁砲",
+  "city": "立川市",
+  "cover": "https://image.xinu.ink/pic/data/102/images/2585.jpg",
+  "color": "#f58300",
+  "geo": [
+    35.59615407821926,
+    139.5213678351456
+  ],
+  "zoom": 9.973,
+  "modified": 1736057636891,
+  "litePoints": [
+    {
+      "id": "o3ujzi0u4",
+      "name": "朝日生命保険相互会社",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/2585/points/o3ujzi0u4-1726151487868.jpg?plan=h160",
+      "ep": 1,
+      "s": 849,
+      "geo": [
+        35.6229,
+        139.4223
+      ]
+    },
+    {
+      "id": "odv838rg1",
+      "name": "立川駅北口",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/2585/points/odv838rg1-1726936594474.jpg?plan=h160",
+      "ep": 17,
+      "s": 79,
+      "geo": [
+        35.6987,
+        139.4142
+      ]
+    },
+    {
+      "id": "odvdblwek",
+      "name": "中組公園",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/2585/points/odvdblwek-1726936905062.jpg?plan=h160",
+      "ep": 9,
+      "s": 428,
+      "geo": [
+        35.622,
+        139.417
+      ]
+    },
+    {
+      "id": "odviett43",
+      "name": "井の頭公園",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/2585/points/odviett43-1726937206047.jpg?plan=h160",
+      "ep": 21,
+      "s": 670,
+      "geo": [
+        35.6989,
+        139.5786
+      ]
+    },
+    {
+      "id": "pu97csmbt",
+      "name": "桃菜 多摩センター駅前店",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/2585/points/pu97csmbt-1731041967611.jpg?plan=h160",
+      "ep": 8,
+      "s": 691,
+      "geo": [
+        35.6245,
+        139.4225
+      ]
+    },
+    {
+      "id": "pup8nz454",
+      "name": "モスバーガー立川南口店",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/2585/points/pup8nz454-1731076868361.jpg?plan=h160",
+      "ep": 4,
+      "s": 266,
+      "geo": [
+        35.6962,
+        139.4153
+      ]
+    },
+    {
+      "id": "rm3jq6vd7",
+      "name": "ゆうゆう桥",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/2585/points/rm3jq6vd7-1736044971890.jpg?plan=h160",
+      "ep": 1,
+      "s": 8,
+      "geo": [
+        35.6221,
+        139.4224
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "local_id": 102
+}

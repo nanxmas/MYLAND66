@@ -1,0 +1,121 @@
+{
+  "id": 1773,
+  "cn": "死亡笔记",
+  "title": "DEATH NOTE",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/82/images/1773.jpg",
+  "color": "#2c0405",
+  "geo": [
+    35.58702530513973,
+    139.6925208072555
+  ],
+  "zoom": 10.06,
+  "modified": 1726751629522,
+  "litePoints": [
+    {
+      "id": "kysm1rtng",
+      "name": "渋谷駅東口バス停",
+      "image": "https://image.anitabi.cn/points/1773/kysm1rtng_1717292592086.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6584,
+        139.7029
+      ]
+    },
+    {
+      "id": "kysocn6vl",
+      "name": "渋谷スクランブル交差点（京王井の頭線とJR線の連絡通路から撮影）",
+      "image": "https://image.anitabi.cn/points/1773/kysocn6vl_1717292592804.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6592,
+        139.7011
+      ]
+    },
+    {
+      "id": "kysqvnw6u",
+      "name": "109フォーラムビジョン",
+      "image": "https://image.anitabi.cn/points/1773/kysqvnw6u_1717292593421.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6595,
+        139.7009
+      ]
+    },
+    {
+      "id": "kysrjrtdr",
+      "name": "小田急エース 南館",
+      "image": "https://image.anitabi.cn/points/1773/kysrjrtdr_1717292594265.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.6901,
+        139.6986
+      ]
+    },
+    {
+      "id": "kystg6qdl",
+      "name": "ロッテリア 新宿小田急エース",
+      "image": "https://image.anitabi.cn/points/1773/kystg6qdl_1717292594983.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.6904,
+        139.6984
+      ]
+    },
+    {
+      "id": "kysspl28c",
+      "name": "とんかつ新宿さぼてん 本店小田急エース南館店",
+      "image": "https://image.anitabi.cn/points/1773/kysspl28c_1717292595690.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.6902,
+        139.6991
+      ]
+    },
+    {
+      "id": "fc7fc4b0",
+      "name": "帝国ホテル",
+      "image": "https://image.anitabi.cn/points/1773/fc7fc4b0_1717290038537.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.6724,
+        139.7575
+      ]
+    },
+    {
+      "id": "bi45aipxs",
+      "cn": "国家公安委员会·警察厅",
+      "name": "中央合同庁舎第2号館 警察庁・国家公安委員会",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1773/points/bi45aipxs-1690595077309.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        35.6753,
+        139.7511
+      ]
+    },
+    {
+      "id": "ff3d9fc6",
+      "name": "中央合同庁舎第2号館 交差点角",
+      "image": "https://image.anitabi.cn/points/1773/ff3d9fc6_1717290017354.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        35.6748,
+        139.7513
+      ]
+    },
+    {
+      "id": "kyrez73i6",
+      "cn": "从霞关1丁目十字路口望向东京高等裁判所",
+      "name": "霞が関1丁目交差点から東京高等裁判所",
+      "image": "https://image.anitabi.cn/points/1773/kyrez73i6_1717290019997.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        35.6747,
+        139.7513
+      ]
+    }
+  ],
+  "pointsLength": 26,
+  "imagesLength": 26,
+  "local_id": 82
+}

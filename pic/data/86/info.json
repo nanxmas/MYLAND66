@@ -1,0 +1,52 @@
+{
+  "id": 1852,
+  "cn": "拜托了双子星",
+  "title": "おねがい☆ツインズ",
+  "cover": "https://image.xinu.ink/pic/data/86/images/1852_8b66L.jpg",
+  "modified": 1734406180288,
+  "litePoints": [
+    {
+      "id": "r13po2xuf",
+      "cn": "稻尾",
+      "name": "稲尾",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1852/points/r13po2xuf-1734399711127.jpg?plan=h160",
+      "s": 4,
+      "geo": [
+        36.5548,
+        137.8425
+      ]
+    },
+    {
+      "id": "r13v2bumq",
+      "name": "鸭子游船",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1852/points/r13v2bumq-1734400009251.jpg?plan=h160",
+      "s": 5,
+      "geo": [
+        36.5442,
+        137.8412
+      ]
+    },
+    {
+      "id": "r13x7c33l",
+      "name": "千国街道(糸魚川街道)",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1852/points/r13x7c33l-1734400142416.jpg?plan=h160",
+      "s": 454457,
+      "geo": [
+        36.5463,
+        137.8418
+      ]
+    },
+    {
+      "id": "r13u4h3qw",
+      "name": "滑梯",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1852/points/r13u4h3qw-1734399943520.jpg?plan=h160",
+      "geo": [
+        36.5439,
+        137.8413
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 86
+}

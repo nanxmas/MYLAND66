@@ -1,0 +1,29 @@
+{
+  "id": 2970,
+  "cn": "名侦探柯南 世纪末的魔术师",
+  "title": "名探偵コナン 世紀末の魔術師",
+  "city": "大阪府",
+  "cover": "https://image.xinu.ink/pic/data/107/images/2970.jpg",
+  "color": "#1c398e",
+  "geo": [
+    34.668508,
+    135.50466700000004
+  ],
+  "zoom": 16,
+  "modified": 1725355889364,
+  "litePoints": [
+    {
+      "id": "m76erooya",
+      "name": "ウインズ道頓堀",
+      "image": "https://image.anitabi.cn/user/0/bangumi/899/points/m76erooya-1720770173788.jpg?plan=h160",
+      "s": 1537,
+      "geo": [
+        34.6685,
+        135.5046
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 107
+}

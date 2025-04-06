@@ -1,0 +1,51 @@
+{
+  "id": 2412,
+  "cn": "湾岸MIDNIGHT",
+  "title": "湾岸ミッドナイト",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/98/images/2412.jpg",
+  "color": "#184177",
+  "geo": [
+    35.46161600000001,
+    139.68036099999995
+  ],
+  "zoom": 16,
+  "modified": 1734412869160,
+  "litePoints": [
+    {
+      "id": "r18cf0c94",
+      "cn": "首都高速湾岸线辰巳休息停车场",
+      "name": "首都高速湾岸線辰巳JCT 辰巳PA",
+      "image": "https://image.anitabi.cn/2153/2024-12/43f3a344687f3141be5a23b29b852344.jpeg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.643,
+        139.8091
+      ]
+    },
+    {
+      "id": "r18k02226",
+      "cn": "首都高速湾岸线鹤见翼桥",
+      "name": "首都高速湾岸線鶴見つばさ橋",
+      "image": "https://image.anitabi.cn/user/2153/bangumi/2412/points/r18k02226-1734410275332.jpg?plan=h160",
+      "ep": 12,
+      "geo": [
+        35.4746,
+        139.7051
+      ]
+    },
+    {
+      "id": "ltccbd7dt",
+      "cn": "大黑PA",
+      "name": "大黒パーキングエリア",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2412/points/ltccbd7dt-1719686102849.jpg?plan=h160",
+      "geo": [
+        35.4616,
+        139.6803
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 98
+}

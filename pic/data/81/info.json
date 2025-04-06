@@ -1,0 +1,110 @@
+{
+  "id": 1743,
+  "cn": "东京地震8.0",
+  "title": "東京マグニチュード8.0",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/81/images/1743.jpg",
+  "color": "#475563",
+  "cp": "東京マグニチュード8.0",
+  "geo": [
+    35.640557,
+    139.711933
+  ],
+  "zoom": 12,
+  "modified": 1720626382776,
+  "litePoints": [
+    {
+      "id": "kpx6oihmd",
+      "cn": "地震发生时的位置",
+      "name": "地震発生時の所在",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1743/points/kpx6oihmd-1720608288162.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6275,
+        139.7723
+      ]
+    },
+    {
+      "id": "kpx6oij00",
+      "cn": "许多玻璃碎掉的酒店",
+      "name": "ガラスいっぱい割れてた",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1743/points/kpx6oij00-1720608464318.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6264,
+        139.7708
+      ]
+    },
+    {
+      "id": "kpx6oiisg",
+      "cn": "被震塌的天桥上受伤的人",
+      "name": "本震で壊れて怪我人出た",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1743/points/kpx6oiisg-1720608826694.jpg?plan=h160",
+      "ep": 2,
+      "s": 205,
+      "geo": [
+        35.6273,
+        139.772
+      ]
+    },
+    {
+      "id": "kpx6oihzv",
+      "name": "ガンダム跡地",
+      "geo": [
+        35.624,
+        139.7684
+      ]
+    },
+    {
+      "id": "kpx6oiiuy",
+      "name": "雨宿り地点",
+      "geo": [
+        35.6264,
+        139.7736
+      ]
+    },
+    {
+      "id": "kpx6oiicz",
+      "name": "タンクローリーが炎上してたあたり",
+      "geo": [
+        35.6352,
+        139.7676
+      ]
+    },
+    {
+      "id": "kpx6oijir",
+      "name": "水上バスに乗った桟橋",
+      "geo": [
+        35.6324,
+        139.7799
+      ]
+    },
+    {
+      "id": "kpx6oijob",
+      "name": "アイス引っ掛けた親子が居た 崩壊",
+      "geo": [
+        35.6276,
+        139.7718
+      ]
+    },
+    {
+      "id": "kpx6oijq9",
+      "name": "人がいっぱい出てきたゲート 3F",
+      "geo": [
+        35.6269,
+        139.7725
+      ]
+    },
+    {
+      "id": "kpx6oika2",
+      "name": "1Fトイザラス",
+      "geo": [
+        35.6274,
+        139.7727
+      ]
+    }
+  ],
+  "pointsLength": 55,
+  "imagesLength": 3,
+  "local_id": 81
+}

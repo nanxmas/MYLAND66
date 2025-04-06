@@ -1,0 +1,106 @@
+{
+  "id": 1931,
+  "cn": "最终兵器彼女",
+  "title": "最終兵器彼女",
+  "city": "北海道",
+  "cover": "https://image.xinu.ink/pic/data/89/images/1931.jpg",
+  "color": "#9cb1b8",
+  "geo": [
+    39.24276384786634,
+    141.01987530319548
+  ],
+  "zoom": 5.351,
+  "modified": 1722154173462,
+  "litePoints": [
+    {
+      "id": "50vjonq60",
+      "cn": "地狱坡",
+      "name": "地獄坂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1931/points/50vjonq60-1722135104856.jpg?plan=h160",
+      "ep": 1,
+      "s": 131,
+      "geo": [
+        43.1918,
+        140.9872
+      ]
+    },
+    {
+      "id": "molexhm2b",
+      "name": "旭展望台",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1931/points/molexhm2b-1722135038213.jpg?plan=h160",
+      "ep": 1,
+      "s": 622,
+      "geo": [
+        43.197,
+        140.9846
+      ]
+    },
+    {
+      "id": "50vjonpog",
+      "name": "登別漁港",
+      "geo": [
+        42.4534,
+        141.184
+      ]
+    },
+    {
+      "id": "50vjonq4h",
+      "name": "三越、パルコ、4丁目プラザ",
+      "geo": [
+        43.059,
+        141.3522
+      ]
+    },
+    {
+      "id": "50vjonps8",
+      "name": "丸井今井、オッペン化粧品",
+      "geo": [
+        43.0605,
+        141.3534
+      ]
+    },
+    {
+      "id": "50vjonpte",
+      "name": "テレビ塔",
+      "geo": [
+        43.0611,
+        141.3558
+      ]
+    },
+    {
+      "id": "50vjonpu6",
+      "name": "丸井今井",
+      "geo": [
+        43.0604,
+        141.3539
+      ]
+    },
+    {
+      "id": "50vjonq21",
+      "name": "小樽駅",
+      "geo": [
+        43.1977,
+        140.9938
+      ]
+    },
+    {
+      "id": "50vjonpzt",
+      "name": "小樽商業高校",
+      "geo": [
+        43.1903,
+        140.9825
+      ]
+    },
+    {
+      "id": "50vjonq50",
+      "name": "モスバーガー小樽静屋通店",
+      "geo": [
+        43.1954,
+        140.9969
+      ]
+    }
+  ],
+  "pointsLength": 55,
+  "imagesLength": 3,
+  "local_id": 89
+}

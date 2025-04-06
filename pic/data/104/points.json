@@ -1,0 +1,63 @@
+[
+  {
+    "id": "nzgrcbd58",
+    "name": "ファッションセンターしまむら 甘木店",
+    "image": "https://image.xinu.ink/pic/data/104/images/nzgrcbd58-1725808024156.jpg",
+    "ep": 2,
+    "s": 1241,
+    "geo": [
+      33.4125,
+      130.6569
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nzhjjsnwc",
+    "name": "宇奈月ダム",
+    "image": "https://image.xinu.ink/pic/data/104/images/nzhjjsnwc-1725809728079.jpg",
+    "ep": 6,
+    "s": 34,
+    "geo": [
+      36.8099,
+      137.5904
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nyu6ycfvd",
+    "cn": "小泽的樱花树",
+    "name": "小沢の桜",
+    "image": "https://image.xinu.ink/pic/data/104/images/nyu6ycfvd-1725758905801.jpg",
+    "ep": null,
+    "geo": [
+      37.4198,
+      140.584
+    ]
+  },
+  {
+    "id": "nzgln7om2",
+    "name": "柳野橋 浮羽町東隈上",
+    "image": "https://image.xinu.ink/pic/data/104/images/nzgln7om2-1725807689247.jpg",
+    "ep": null,
+    "geo": [
+      33.3333,
+      130.8027
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nzhfqma9w",
+    "name": "ジョイフル 甘木店",
+    "image": "https://image.xinu.ink/pic/data/104/images/nzhfqma9w-1725809571822.jpg",
+    "ep": null,
+    "geo": [
+      33.4143,
+      130.6746
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

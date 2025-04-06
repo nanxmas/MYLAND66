@@ -1,0 +1,109 @@
+{
+  "id": 1731,
+  "cn": "大正野球娘。",
+  "title": "大正野球娘。",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/79/images/1731.jpg",
+  "color": "#55aa55",
+  "cp": "東邦星華桜花会",
+  "geo": [
+    35.659214,
+    139.734614
+  ],
+  "modified": 1734255016567,
+  "litePoints": [
+    {
+      "id": "kpx6oid52",
+      "name": "銀座中央通り",
+      "image": "https://image.anitabi.cn/points/1731/kpx6oid52_1734254529306.jpg?plan=h160",
+      "geo": [
+        35.6682,
+        139.7619
+      ]
+    },
+    {
+      "id": "kpx6oie5p",
+      "name": "日本橋",
+      "image": "https://image.anitabi.cn/points/1731/kpx6oie5p_1734254338653.jpg?plan=h160",
+      "geo": [
+        35.6839,
+        139.7744
+      ]
+    },
+    {
+      "id": "kpx6oidww",
+      "name": "日比谷公園",
+      "image": "https://image.anitabi.cn/points/1731/kpx6oidww_1734254320448.jpg?plan=h160",
+      "geo": [
+        35.6733,
+        139.7549
+      ]
+    },
+    {
+      "id": "kpx6oierh",
+      "name": "両議院",
+      "image": "https://image.anitabi.cn/points/1731/kpx6oierh_1734254395026.jpg?plan=h160",
+      "geo": [
+        35.6722,
+        139.7506
+      ]
+    },
+    {
+      "id": "kpx6oiejb",
+      "name": "帝国劇場",
+      "image": "https://image.anitabi.cn/points/1731/kpx6oiejb_1734254351072.jpg?plan=h160",
+      "geo": [
+        35.6764,
+        139.7607
+      ]
+    },
+    {
+      "id": "kpx6oieyl",
+      "name": "警視庁仮庁舎跡",
+      "image": "https://image.anitabi.cn/points/1731/kpx6oieyl_1734254417659.jpg?plan=h160",
+      "geo": [
+        35.6792,
+        139.7594
+      ]
+    },
+    {
+      "id": "kpx6oieyh",
+      "name": "三菱1号館",
+      "image": "https://image.anitabi.cn/points/1731/kpx6oieyh_1734254425979.jpg?plan=h160",
+      "geo": [
+        35.6782,
+        139.7632
+      ]
+    },
+    {
+      "id": "kpx6oifk3",
+      "name": "東京海上ビルディング",
+      "image": "https://image.anitabi.cn/points/1731/kpx6oifk3_1734254433972.jpg?plan=h160",
+      "geo": [
+        35.6824,
+        139.7629
+      ]
+    },
+    {
+      "id": "kpx6oifrv",
+      "name": "東京駅",
+      "image": "https://image.anitabi.cn/points/1731/kpx6oifrv_1734254441525.jpg?plan=h160",
+      "geo": [
+        35.6817,
+        139.7661
+      ]
+    },
+    {
+      "id": "kpx6oif8i",
+      "name": "浅草寺",
+      "image": "https://image.anitabi.cn/points/1731/kpx6oif8i_1734254544262.jpg?plan=h160",
+      "geo": [
+        35.7141,
+        139.7966
+      ]
+    }
+  ],
+  "pointsLength": 18,
+  "imagesLength": 13,
+  "local_id": 79
+}

@@ -1,0 +1,108 @@
+{
+  "id": 1733,
+  "cn": "秋之回忆2",
+  "title": "Memories Off 2nd",
+  "city": "镰仓市",
+  "cover": "https://image.xinu.ink/pic/data/80/images/1733_TH86i.jpg",
+  "geo": [
+    35.311157795956206,
+    139.51674936897507
+  ],
+  "zoom": 11.862,
+  "modified": 1742409588574,
+  "litePoints": [
+    {
+      "id": "eea357e0",
+      "name": "（疑误）登波离桥——亚由美桥",
+      "image": "https://image.anitabi.cn/points/1733/eea357e0_1734158452054.jpg?plan=h160",
+      "geo": [
+        35.4452,
+        139.3718
+      ]
+    },
+    {
+      "id": "a7d85fef",
+      "name": "芦鹿岛电铁：樱峰站——江之岛电铁：镰仓高校前站",
+      "image": "https://image.anitabi.cn/points/1733/a7d85fef_1734158194842.jpg?plan=h160",
+      "geo": [
+        35.3066,
+        139.5005
+      ]
+    },
+    {
+      "id": "9dba9827",
+      "name": "海边散步处——湘南海岸公园（疑似）",
+      "image": "https://image.anitabi.cn/points/1733/9dba9827_1734158613239.jpg?plan=h160",
+      "geo": [
+        35.3113,
+        139.4773
+      ]
+    },
+    {
+      "id": "4fe97b50",
+      "name": "芦鹿岛电铁：澄空站——江之岛电铁：镰仓站",
+      "image": "https://image.anitabi.cn/points/1733/4fe97b50_1734158335199.jpg?plan=h160",
+      "geo": [
+        35.3188,
+        139.55
+      ]
+    },
+    {
+      "id": "65e36ad4",
+      "name": "文诚堂书店——公文堂书店",
+      "image": "https://image.anitabi.cn/points/1733/65e36ad4_1734159354825.jpg?plan=h160",
+      "geo": [
+        35.3157,
+        139.5475
+      ]
+    },
+    {
+      "id": "ef47b7c2",
+      "name": "星恋之丘——江之岛：龍恋の鐘",
+      "image": "https://image.anitabi.cn/points/1733/ef47b7c2_1734158369998.jpg?plan=h160",
+      "geo": [
+        35.2987,
+        139.4768
+      ]
+    },
+    {
+      "id": "a965d3ee",
+      "name": "芦鹿岛电铁：浜咲站——江之岛电铁：江之岛站",
+      "image": "https://image.anitabi.cn/points/1733/a965d3ee_1734158287396.jpg?plan=h160",
+      "geo": [
+        35.3111,
+        139.4871
+      ]
+    },
+    {
+      "id": "bc859a03",
+      "name": "朝凪庄——圣路加看护学校",
+      "image": "https://image.anitabi.cn/points/1733/bc859a03_1734158544103.jpg?plan=h160",
+      "geo": [
+        35.3036,
+        139.5208
+      ]
+    },
+    {
+      "id": "814d6756",
+      "name": "芦鹿岛入口鸟居——江之岛入口鸟居",
+      "image": "https://image.anitabi.cn/points/1733/814d6756_1734159398545.jpg?plan=h160",
+      "geo": [
+        35.3021,
+        139.481
+      ]
+    },
+    {
+      "id": "fb4a6a69",
+      "name": "罗萨克餐厅——J's Garden江之岛店",
+      "image": "https://image.anitabi.cn/points/1733/fb4a6a69_1734159525630.jpg?plan=h160",
+      "geo": [
+        35.3133,
+        139.4772
+      ]
+    }
+  ],
+  "pointsLength": 22,
+  "imagesLength": 22,
+  "local_id": 80
+}

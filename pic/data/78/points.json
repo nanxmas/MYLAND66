@@ -1,0 +1,78 @@
+[
+  {
+    "id": "kpx6oiciv",
+    "name": "階段国道",
+    "image": "https://image.xinu.ink/pic/data/78/images/kpx6oiciv-1727946018132.jpg",
+    "ep": null,
+    "s": 4771,
+    "geo": [
+      41.2595,
+      140.3451
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uuxQ-SlQXIODE_TLKArJ_of1vlY&ll=41.259545%2C140.345109&z=17"
+  },
+  {
+    "id": "kpx6oicfq",
+    "name": "三厩駅",
+    "image": "https://image.xinu.ink/pic/data/78/images/kpx6oicfq-1728036627080.jpg",
+    "ep": null,
+    "s": 850,
+    "geo": [
+      41.1854,
+      140.4444
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uuxQ-SlQXIODE_TLKArJ_of1vlY&ll=41.185404%2C140.444477&z=17"
+  },
+  {
+    "id": "kpx6oictt",
+    "name": "蟹田海岸",
+    "image": "https://image.xinu.ink/pic/data/78/images/kpx6oictt-1727946117670.jpg",
+    "ep": null,
+    "s": 890,
+    "geo": [
+      41.0363,
+      140.6458
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uuxQ-SlQXIODE_TLKArJ_of1vlY&ll=41.036332%2C140.645868&z=17"
+  },
+  {
+    "id": "kpx6oida1",
+    "name": "青森駅",
+    "image": "https://image.xinu.ink/pic/data/78/images/kpx6oida1-1727946203301.jpg",
+    "ep": "",
+    "s": 715,
+    "geo": [
+      40.8286,
+      140.7348
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uuxQ-SlQXIODE_TLKArJ_of1vlY&ll=40.828618%2C140.73485&z=17"
+  },
+  {
+    "id": "oqr240ghw",
+    "cn": "今别站",
+    "name": "今别駅",
+    "image": "https://image.xinu.ink/pic/data/78/images/oqr240ghw-1727946451778.jpg",
+    "ep": null,
+    "s": 449,
+    "geo": [
+      41.1795,
+      140.4906
+    ]
+  },
+  {
+    "id": "p36bobc9q",
+    "cn": "濑边地站附近桥下",
+    "name": "濑边地站附近桥下",
+    "image": "https://image.xinu.ink/pic/data/78/images/p36bobc9q-1728919878753.jpg",
+    "ep": null,
+    "s": 50,
+    "geo": [
+      41.007,
+      140.6488
+    ]
+  }
+]

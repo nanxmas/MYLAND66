@@ -1,0 +1,36 @@
+[
+  {
+    "id": "nwgex1nrc",
+    "cn": "查令十字车站",
+    "name": "London Charing Cross",
+    "image": "https://image.xinu.ink/pic/data/108/images/nwgex1nrc_1725582949852_c16v9.jpg",
+    "ep": null,
+    "geo": [
+      51.5071,
+      -0.1241
+    ]
+  },
+  {
+    "id": "nwgnoyx1e",
+    "cn": "白教堂",
+    "name": "Whitechapel",
+    "image": "https://image.xinu.ink/pic/data/108/images/nwgnoyx1e_1725582959617_c16v9.jpg",
+    "ep": null,
+    "geo": [
+      51.5195,
+      -0.0609
+    ]
+  },
+  {
+    "id": "r74pmkydz",
+    "cn": "幕张展览馆",
+    "name": "幕張​イベント​ホール​アリーナ",
+    "image": "https://image.xinu.ink/pic/data/108/images/r74pmkydz-1734872042209.jpg",
+    "ep": null,
+    "geo": [
+      35.6481,
+      140.0346
+    ],
+    "originLink": "https://conan-diary.com/holy-data/kanto/chiba/%e5%b9%95%e5%bc%b5%e3%83%a1%e3%83%83%e3%82%bb/"
+  }
+]

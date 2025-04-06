@@ -1,0 +1,49 @@
+[
+  {
+    "id": "kkfsf6q9e",
+    "cn": "SHIBUYA109",
+    "name": "SHIBUYA 109",
+    "image": "https://image.xinu.ink/pic/data/85/images/kkfsf6q9e-1716167149440.jpg",
+    "ep": 13,
+    "s": 1434,
+    "geo": [
+      35.6594,
+      139.6985
+    ]
+  },
+  {
+    "id": "n34gbnxa5",
+    "cn": "国立金泽大学",
+    "name": "金沢大",
+    "image": "https://image.xinu.ink/pic/data/85/images/n34gbnxa5-1723273721928.jpg",
+    "ep": 13,
+    "s": 1375,
+    "geo": [
+      36.5461,
+      136.7087
+    ]
+  },
+  {
+    "id": "n7la51ybb",
+    "cn": "舊弘兼家住宅",
+    "name": "広兼邸",
+    "image": "https://image.xinu.ink/pic/data/85/images/n7la51ybb-1723623697367.jpg",
+    "ep": "第6集",
+    "geo": [
+      34.8389,
+      133.467
+    ]
+  },
+  {
+    "id": "n7zunh4aj",
+    "name": "金沢大学",
+    "image": "https://image.xinu.ink/pic/data/85/images/n7zunh4aj-1723655364149.jpg",
+    "ep": null,
+    "geo": [
+      36.5456,
+      136.7071
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  }
+]

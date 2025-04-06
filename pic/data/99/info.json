@@ -1,0 +1,128 @@
+{
+  "id": 2463,
+  "cn": "无头骑士异闻录",
+  "title": "デュラララ!!",
+  "city": "丰岛区",
+  "cover": "https://image.xinu.ink/pic/data/99/images/2463.jpg",
+  "color": "#585750",
+  "geo": [
+    35.57847404299102,
+    139.6452524255941
+  ],
+  "zoom": 8.967,
+  "modified": 1740985601380,
+  "litePoints": [
+    {
+      "id": "kpx6ol2eh",
+      "name": "アドアーズ（ゲーセン）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2463/points/kpx6ol2eh-1720273464630.jpg?plan=h160",
+      "ep": 12.5,
+      "s": 18,
+      "geo": [
+        35.7298,
+        139.7147
+      ]
+    },
+    {
+      "id": "kpx6ol2q3",
+      "name": "静雄が水浸しでぶち当たる自販機",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2463/points/kpx6ol2q3-1720269192368.jpg?plan=h160",
+      "ep": 9.5,
+      "s": 35,
+      "geo": [
+        35.73,
+        139.7146
+      ]
+    },
+    {
+      "id": "kpx6ol3e5",
+      "name": "夕日のきれいな歩道橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2463/points/kpx6ol3e5-1720269234429.jpg?plan=h160",
+      "ep": 9.5,
+      "s": 56,
+      "geo": [
+        35.7345,
+        139.7157
+      ]
+    },
+    {
+      "id": "kpx6ol2z6",
+      "name": "スポルト",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2463/points/kpx6ol2z6-1738309475187.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7307,
+        139.7161
+      ]
+    },
+    {
+      "id": "kpx6ol30i",
+      "cn": "露西亚寿司",
+      "name": "露西亜寿司",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2463/points/kpx6ol30i-1738309629629.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7306,
+        139.7161
+      ]
+    },
+    {
+      "id": "kpx6ol3sx",
+      "name": "南池袋公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2463/points/kpx6ol3sx-1720284629990.jpg?plan=h160",
+      "ep": 17,
+      "s": 162,
+      "geo": [
+        35.7275,
+        139.7144
+      ]
+    },
+    {
+      "id": "kpx6ol4bg",
+      "name": "立体駐車場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2463/points/kpx6ol4bg-1720285672317.jpg?plan=h160",
+      "ep": 18,
+      "s": 969,
+      "geo": [
+        35.7287,
+        139.7174
+      ]
+    },
+    {
+      "id": "kpx6ol6hm",
+      "name": "携帯踏み潰し現場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2463/points/kpx6ol6hm-1720287608537.jpg?plan=h160",
+      "ep": 3,
+      "s": 865,
+      "geo": [
+        35.733,
+        139.7141
+      ]
+    },
+    {
+      "id": "kpx6ol6sj",
+      "name": "東池袋中央公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2463/points/kpx6ol6sj-1720278771623.jpg?plan=h160",
+      "ep": 3,
+      "s": 1233,
+      "geo": [
+        35.73,
+        139.7186
+      ]
+    },
+    {
+      "id": "kpx6ol7z0",
+      "name": "サイモンvs静雄",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2463/points/kpx6ol7z0-1720287272222.jpg?plan=h160",
+      "ep": 3,
+      "s": 1188,
+      "geo": [
+        35.7327,
+        139.7146
+      ]
+    }
+  ],
+  "pointsLength": 77,
+  "imagesLength": 19,
+  "local_id": 99
+}

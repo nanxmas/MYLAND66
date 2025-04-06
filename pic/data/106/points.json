@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kpx6omjxf",
+    "cn": "羽幌神社",
+    "name": "羽幌神社",
+    "image": "https://image.xinu.ink/pic/data/106/images/kpx6omjxf_1728287351389_cblack.jpg",
+    "ep": null,
+    "geo": [
+      44.3625,
+      141.6971
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1iQhFNl5ku_NX1aR4CnjuQ20CJDc&ll=44.362596%2C141.697197&z=17"
+  },
+  {
+    "id": "kpx6omjrb",
+    "name": "羽幌高校",
+    "image": "https://image.xinu.ink/pic/data/106/images/kpx6omjrb_1725001655913_cut.jpg",
+    "ep": null,
+    "geo": [
+      44.3575,
+      141.6952
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1iQhFNl5ku_NX1aR4CnjuQ20CJDc&ll=44.357534%2C141.695244&z=17"
+  }
+]

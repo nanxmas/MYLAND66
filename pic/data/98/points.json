@@ -1,0 +1,42 @@
+[
+  {
+    "id": "r18cf0c94",
+    "cn": "首都高速湾岸线辰巳休息停车场",
+    "name": "首都高速湾岸線辰巳JCT 辰巳PA",
+    "image": "https://image.xinu.ink/pic/data/98/images/43f3a344687f3141be5a23b29b852344.jpeg",
+    "ep": "1",
+    "s": "5:00",
+    "geo": [
+      35.643,
+      139.8091
+    ],
+    "origin": "Anitabi@大耗子先生",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "r18k02226",
+    "cn": "首都高速湾岸线鹤见翼桥",
+    "name": "首都高速湾岸線鶴見つばさ橋",
+    "image": "https://image.xinu.ink/pic/data/98/images/r18k02226-1734410275332.jpg",
+    "ep": "12",
+    "s": "23:06",
+    "geo": [
+      35.4746,
+      139.7051
+    ],
+    "origin": "Anitabi@大耗子先生",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ltccbd7dt",
+    "cn": "大黑PA",
+    "name": "大黒パーキングエリア",
+    "image": "https://image.xinu.ink/pic/data/98/images/ltccbd7dt-1719686102849.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      35.4616,
+      139.6803
+    ]
+  }
+]

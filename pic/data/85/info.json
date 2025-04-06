@@ -1,0 +1,63 @@
+{
+  "id": 1851,
+  "cn": "天使的心跳！",
+  "title": "Angel Beats!",
+  "city": "金泽市",
+  "cover": "https://image.xinu.ink/pic/data/85/images/1851.jpg",
+  "color": "#9c8ec6",
+  "cp": "Angel Beats! Pro…",
+  "geo": [
+    35.85319486654764,
+    138.78673345822222
+  ],
+  "zoom": 6.689,
+  "modified": 1725876639544,
+  "litePoints": [
+    {
+      "id": "kkfsf6q9e",
+      "cn": "SHIBUYA109",
+      "name": "SHIBUYA 109",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1851/points/kkfsf6q9e-1716167149440.jpg?plan=h160",
+      "ep": 13,
+      "s": 1434,
+      "geo": [
+        35.6594,
+        139.6985
+      ]
+    },
+    {
+      "id": "n34gbnxa5",
+      "cn": "国立金泽大学",
+      "name": "金沢大",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1851/points/n34gbnxa5-1723273721928.jpg?plan=h160",
+      "ep": 13,
+      "s": 1375,
+      "geo": [
+        36.5461,
+        136.7087
+      ]
+    },
+    {
+      "id": "n7la51ybb",
+      "cn": "舊弘兼家住宅",
+      "name": "広兼邸",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1851/points/n7la51ybb-1723623697367.jpg?plan=h160",
+      "geo": [
+        34.8389,
+        133.467
+      ]
+    },
+    {
+      "id": "n7zunh4aj",
+      "name": "金沢大学",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/1851/points/n7zunh4aj-1723655364149.jpg?plan=h160",
+      "geo": [
+        36.5456,
+        136.7071
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 85
+}

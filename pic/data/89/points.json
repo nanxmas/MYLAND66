@@ -1,0 +1,27 @@
+[
+  {
+    "id": "50vjonq60",
+    "cn": "地狱坡",
+    "name": "地獄坂",
+    "image": "https://image.xinu.ink/pic/data/89/images/50vjonq60-1722135104856.jpg",
+    "ep": 1,
+    "s": 131,
+    "geo": [
+      43.1918,
+      140.9872
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ViQ8Ac25mEBFd5CxZ-kPrcSa5TM&ll=43.191802%2C140.987238&z=17"
+  },
+  {
+    "id": "molexhm2b",
+    "name": "旭展望台",
+    "image": "https://image.xinu.ink/pic/data/89/images/molexhm2b-1722135038213.jpg",
+    "ep": 1,
+    "s": 622,
+    "geo": [
+      43.197,
+      140.9846
+    ]
+  }
+]

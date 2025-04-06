@@ -1,0 +1,30 @@
+{
+  "id": 2734,
+  "cn": "星空清理者",
+  "title": "プラネテス",
+  "cover": "https://image.xinu.ink/pic/data/105/images/2734_QoV4j.jpg",
+  "cp": "NEP",
+  "modified": 1740318884193,
+  "litePoints": [
+    {
+      "id": "5594bcf5",
+      "name": "苫前町風車（ 上平・力昼バスターミナル間）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2734/points/5594bcf5-1740316787956.jpg?plan=h160",
+      "geo": [
+        44.2457,
+        141.657
+      ]
+    },
+    {
+      "id": "04397e31",
+      "name": "風車１",
+      "geo": [
+        43.2034,
+        141.331
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 1,
+  "local_id": 105
+}

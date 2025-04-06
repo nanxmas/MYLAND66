@@ -1,0 +1,28 @@
+{
+  "id": 1930,
+  "title": "PEACE MAKER 鐵",
+  "city": "京都市",
+  "cover": "https://image.xinu.ink/pic/data/88/images/1930.jpg",
+  "color": "#9e2000",
+  "geo": [
+    35.04314236326603,
+    135.7814084141757
+  ],
+  "zoom": 8.403,
+  "modified": 1720269785859,
+  "litePoints": [
+    {
+      "id": "lzu2x6wzo",
+      "cn": "壬生寺",
+      "name": "壬生寺",
+      "image": "https://image.anitabi.cn/points/1930/lzu2x6wzo_1720243707326.jpg?plan=h160",
+      "geo": [
+        35.0015,
+        135.7434
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 88
+}

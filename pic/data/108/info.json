@@ -1,0 +1,44 @@
+{
+  "id": 2972,
+  "cn": "名侦探柯南 贝克街的亡灵",
+  "title": "名探偵コナン ベイカー街の亡霊",
+  "cover": "https://image.xinu.ink/pic/data/108/images/2972.jpg",
+  "color": "#8e391c",
+  "cp": "名探偵コナン",
+  "modified": 1734875575292,
+  "litePoints": [
+    {
+      "id": "nwgex1nrc",
+      "cn": "查令十字车站",
+      "name": "London Charing Cross",
+      "image": "https://image.anitabi.cn/points/2972/nwgex1nrc_1725582949852_c16v9.jpg?plan=h160",
+      "geo": [
+        51.5071,
+        -0.1241
+      ]
+    },
+    {
+      "id": "nwgnoyx1e",
+      "cn": "白教堂",
+      "name": "Whitechapel",
+      "image": "https://image.anitabi.cn/points/2972/nwgnoyx1e_1725582959617_c16v9.jpg?plan=h160",
+      "geo": [
+        51.5195,
+        -0.0609
+      ]
+    },
+    {
+      "id": "r74pmkydz",
+      "cn": "幕张展览馆",
+      "name": "幕張​イベント​ホール​アリーナ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2972/points/r74pmkydz-1734872042209.jpg?plan=h160",
+      "geo": [
+        35.6481,
+        140.0346
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 108
+}

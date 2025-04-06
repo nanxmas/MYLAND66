@@ -1,0 +1,134 @@
+{
+  "id": 1848,
+  "cn": "读或死 OVA",
+  "title": "R.O.D -READ OR DIE-",
+  "cover": "https://image.xinu.ink/pic/data/84/images/1848.jpg",
+  "color": "#d5d5d5",
+  "geo": [
+    35.69551334379999,
+    139.75817448739627
+  ],
+  "zoom": 15.109,
+  "modified": 1732610820027,
+  "litePoints": [
+    {
+      "id": "qdevqum31",
+      "cn": "白宫",
+      "name": "The White House",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1848/points/qdevqum31-1732543281042.jpg?plan=h160",
+      "ep": 1,
+      "s": 10,
+      "geo": [
+        38.8976,
+        -77.0366
+      ]
+    },
+    {
+      "id": "qdfr0wkjw",
+      "cn": "美国国会图书馆",
+      "name": "Library of Congress",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1848/points/qdfr0wkjw-1732545143398.jpg?plan=h160",
+      "ep": 1,
+      "s": 937,
+      "geo": [
+        38.8887,
+        -77.0047
+      ]
+    },
+    {
+      "id": "qdfv90l3h",
+      "name": "Brooklyn Bridge",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1848/points/qdfv90l3h-1732545376971.jpg?plan=h160",
+      "ep": 1,
+      "s": 1330,
+      "geo": [
+        40.7058,
+        -73.9964
+      ]
+    },
+    {
+      "id": "qdfznqdi3",
+      "cn": "世界贸易中心北塔",
+      "name": "1 World Trade Center",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1848/points/qdfznqdi3-1732545729154.jpg?plan=h160",
+      "ep": 1,
+      "s": 1373,
+      "geo": [
+        40.7121,
+        -74.0133
+      ]
+    },
+    {
+      "id": "qdg4a5801",
+      "cn": "帝国大厦",
+      "name": "Empire State Building",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1848/points/qdg4a5801-1732545934776.jpg?plan=h160",
+      "ep": 1,
+      "s": 1488,
+      "geo": [
+        40.7484,
+        -73.9857
+      ]
+    },
+    {
+      "id": "qdgi11lc2",
+      "cn": "自由女神像",
+      "name": "Statue of Liberty",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1848/points/qdgi11lc2-1732546757296.jpg?plan=h160",
+      "ep": 1,
+      "s": 1740,
+      "geo": [
+        40.6891,
+        -74.0445
+      ]
+    },
+    {
+      "id": "qdfmo0t8k",
+      "cn": "大英博物馆",
+      "name": "The British Museum",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1848/points/qdfmo0t8k-1732544873744.jpg?plan=h160",
+      "ep": 1,
+      "s": 655,
+      "geo": [
+        51.5192,
+        -0.1268
+      ]
+    },
+    {
+      "id": "qdf4cyqw3",
+      "name": "悠久堂書店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1848/points/qdf4cyqw3-1732543768352.jpg?plan=h160",
+      "ep": 1,
+      "s": 315,
+      "geo": [
+        35.6957,
+        139.7599
+      ]
+    },
+    {
+      "id": "qdf5zxt5z",
+      "name": "一心堂書店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1848/points/qdf5zxt5z-1732543858094.jpg?plan=h160",
+      "ep": 1,
+      "s": 321,
+      "geo": [
+        35.6957,
+        139.7598
+      ]
+    },
+    {
+      "id": "qdf8edrlr",
+      "name": "神保町​センター",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1848/points/qdf8edrlr-1732544004837.jpg?plan=h160",
+      "ep": 1,
+      "s": 357,
+      "geo": [
+        35.6956,
+        139.7565
+      ]
+    }
+  ],
+  "pointsLength": 11,
+  "imagesLength": 11,
+  "local_id": 84
+}

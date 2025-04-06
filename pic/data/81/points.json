@@ -1,0 +1,44 @@
+[
+  {
+    "id": "kpx6oihmd",
+    "cn": "地震发生时的位置",
+    "name": "地震発生時の所在",
+    "image": "https://image.xinu.ink/pic/data/81/images/kpx6oihmd-1720608288162.jpg",
+    "ep": "1",
+    "s": "20:54",
+    "geo": [
+      35.6275,
+      139.7723
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nz9H1xWT0RzFEReZ75vCaSbDhRs&ll=35.627599%2C139.772347&z=17"
+  },
+  {
+    "id": "kpx6oij00",
+    "cn": "许多玻璃碎掉的酒店",
+    "name": "ガラスいっぱい割れてた",
+    "image": "https://image.xinu.ink/pic/data/81/images/kpx6oij00-1720608464318.jpg",
+    "ep": "1",
+    "s": "20:41",
+    "geo": [
+      35.6264,
+      139.7708
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nz9H1xWT0RzFEReZ75vCaSbDhRs&ll=35.626474%2C139.770808&z=17"
+  },
+  {
+    "id": "kpx6oiisg",
+    "cn": "被震塌的天桥上受伤的人",
+    "name": "本震で壊れて怪我人出た",
+    "image": "https://image.xinu.ink/pic/data/81/images/kpx6oiisg-1720608826694.jpg",
+    "ep": "2",
+    "s": "205",
+    "geo": [
+      35.6273,
+      139.772
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nz9H1xWT0RzFEReZ75vCaSbDhRs&ll=35.627325%2C139.772041&z=17"
+  }
+]

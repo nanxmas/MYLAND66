@@ -1,0 +1,109 @@
+{
+  "id": 1977,
+  "cn": "向北",
+  "title": "北へ。〜Diamond Dust Drops〜",
+  "city": "北海道",
+  "cover": "https://image.xinu.ink/pic/data/94/images/1977.jpg",
+  "color": "#c6dce3",
+  "geo": [
+    43.19337918762568,
+    142.27801013998538
+  ],
+  "zoom": 6.334877409688832,
+  "modified": 1741799635771,
+  "litePoints": [
+    {
+      "id": "5qy1vzdb",
+      "name": "襟裳岬 風の館",
+      "image": "https://image.anitabi.cn/points/1977/5qy1vzdb_1730879866355.jpg?plan=h160",
+      "geo": [
+        41.9259,
+        143.2447
+      ]
+    },
+    {
+      "id": "5qy1vyyy",
+      "name": "北海道百年記念塔",
+      "image": "https://image.anitabi.cn/points/1977/5qy1vyyy_1741776569754.jpg?plan=h160",
+      "geo": [
+        43.0549,
+        141.4933
+      ]
+    },
+    {
+      "id": "5qy1vzbx",
+      "name": "北大農学部",
+      "image": "https://image.anitabi.cn/points/1977/5qy1vzbx_1741776700282.jpg?plan=h160",
+      "geo": [
+        43.0705,
+        141.3409
+      ]
+    },
+    {
+      "id": "5qy1vz04",
+      "name": "旧北海道庁赤レンガ庁舎",
+      "image": "https://image.anitabi.cn/points/1977/5qy1vz04_1741776500962.jpg?plan=h160",
+      "geo": [
+        43.0638,
+        141.3483
+      ]
+    },
+    {
+      "id": "5qy1vz0v",
+      "name": "札幌市時計台",
+      "image": "https://image.anitabi.cn/points/1977/5qy1vz0v_1741776745594.jpg?plan=h160",
+      "geo": [
+        43.0625,
+        141.3533
+      ]
+    },
+    {
+      "id": "5qy1vz0d",
+      "name": "サッポロファクトリー アトリウム",
+      "image": "https://image.anitabi.cn/points/1977/5qy1vz0d_1741776877618.jpg?plan=h160",
+      "geo": [
+        43.0654,
+        141.3629
+      ]
+    },
+    {
+      "id": "5qy1vyon",
+      "name": "札幌テレビ放送本社",
+      "image": "https://image.anitabi.cn/points/1977/5qy1vyon_1741776937163.jpg?plan=h160",
+      "geo": [
+        43.0616,
+        141.3449
+      ]
+    },
+    {
+      "id": "5qy1vz82",
+      "name": "大通公園3丁目（テレビ塔）",
+      "image": "https://image.anitabi.cn/points/1977/5qy1vz82_1741777140275.jpg?plan=h160",
+      "geo": [
+        43.0604,
+        141.3523
+      ]
+    },
+    {
+      "id": "5qy1vz9q",
+      "name": "大通公園3丁目",
+      "image": "https://image.anitabi.cn/points/1977/5qy1vz9q_1741777236115.jpg?plan=h160",
+      "geo": [
+        43.0607,
+        141.3525
+      ]
+    },
+    {
+      "id": "5qy1vyz5",
+      "name": "オーロラタウン",
+      "image": "https://image.anitabi.cn/points/1977/5qy1vyz5_1741777088003.jpg?plan=h160",
+      "geo": [
+        43.0605,
+        141.3528
+      ]
+    }
+  ],
+  "pointsLength": 38,
+  "imagesLength": 27,
+  "local_id": 94
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2310,
+  "cn": "麦兜响当当",
+  "title": "麥兜响噹噹",
+  "city": "中国",
+  "cover": "https://image.xinu.ink/pic/data/97/images/2310.jpg",
+  "color": "#55aaff",
+  "geo": [
+    22.331555923887294,
+    114.10662403065265
+  ],
+  "zoom": 9.826,
+  "modified": 1722576258207,
+  "litePoints": [
+    {
+      "id": "mszlr5fkf",
+      "cn": "长青隧道",
+      "name": "長青隧道",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2310/points/mszlr5fkf-1722479539310.jpg?plan=h160",
+      "s": 1275,
+      "geo": [
+        22.3484,
+        114.1111
+      ]
+    },
+    {
+      "id": "mszx7tunb",
+      "cn": "青马大桥",
+      "name": "青馬大橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2310/points/mszx7tunb-1722480075682.jpg?plan=h160",
+      "s": 1302,
+      "geo": [
+        22.3511,
+        114.0736
+      ]
+    },
+    {
+      "id": "mt01zjnfs",
+      "name": "武汉客运港",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2310/points/mt01zjnfs-1722480364662.jpg?plan=h160",
+      "s": 1380,
+      "geo": [
+        30.5804,
+        114.2961
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 97
+}

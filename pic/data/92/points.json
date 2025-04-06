@@ -1,0 +1,98 @@
+[
+  {
+    "id": "5c45grtvm",
+    "cn": "九曲桥广场",
+    "name": "九曲桥广场",
+    "image": "https://image.xinu.ink/pic/data/92/images/5c45grtvm-1673198201906.jpg",
+    "ep": 13,
+    "s": 861,
+    "geo": [
+      31.2283,
+      121.4872
+    ]
+  },
+  {
+    "id": "5c3vl83mt",
+    "cn": "大世界人行天桥",
+    "name": "大世界人行天桥",
+    "image": "https://image.xinu.ink/pic/data/92/images/5c3vl83mt-1673197732931.jpg",
+    "ep": 13,
+    "s": 1007,
+    "geo": [
+      31.2306,
+      121.4744
+    ]
+  },
+  {
+    "id": "iciexaoqd",
+    "cn": "外滩",
+    "name": "外滩",
+    "image": "https://image.xinu.ink/pic/data/92/images/iciexaoqd-1709903715382.jpg",
+    "ep": 3,
+    "s": 615,
+    "geo": [
+      31.2385,
+      121.4863
+    ]
+  },
+  {
+    "id": "iciat68fc",
+    "cn": "东方明珠电视塔",
+    "name": "东方明珠电视塔",
+    "image": "https://image.xinu.ink/pic/data/92/images/iciat68fc-1709903455169.jpg",
+    "ep": 3,
+    "s": 556,
+    "geo": [
+      31.2418,
+      121.4952
+    ]
+  },
+  {
+    "id": "ichr3hjtv",
+    "cn": "老凤祥银楼",
+    "name": "老凤祥银楼（紫锦城商厦店）",
+    "image": "https://image.xinu.ink/pic/data/92/images/ichr3hjtv-1709902414171.jpg",
+    "ep": 4,
+    "s": 803,
+    "geo": [
+      31.23,
+      121.4862
+    ]
+  },
+  {
+    "id": "idqvescag",
+    "cn": "上海国际会议中心",
+    "name": "上海国际会议中心",
+    "image": "https://image.xinu.ink/pic/data/92/images/idqvescag-1710000482370.jpg",
+    "ep": 6,
+    "s": 250,
+    "geo": [
+      31.2414,
+      121.4924
+    ]
+  },
+  {
+    "id": "l1o5pxe66",
+    "cn": "恒丰路桥",
+    "name": "光复路恒丰路",
+    "image": "https://image.xinu.ink/pic/data/92/images/l1o5pxe66-1717517807193.jpg",
+    "ep": "OP",
+    "s": 52,
+    "geo": [
+      31.2404,
+      121.4536
+    ]
+  },
+  {
+    "id": "l1oz6x4gg",
+    "cn": "中华大楼",
+    "name": "西藏中路福州路",
+    "image": "https://image.xinu.ink/pic/data/92/images/l1oz6x4gg-1717519289592.jpg",
+    "ep": 4,
+    "s": 530,
+    "geo": [
+      31.2335,
+      121.4719
+    ]
+  }
+]

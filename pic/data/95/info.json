@@ -1,0 +1,39 @@
+{
+  "id": 2042,
+  "cn": "橙路",
+  "title": "きまぐれオレンジ☆ロード",
+  "cover": "https://image.xinu.ink/pic/data/95/images/2042.jpg",
+  "color": "#5555aa",
+  "geo": [
+    36.2302197,
+    137.9836463
+  ],
+  "modified": 1719247871164,
+  "litePoints": [
+    {
+      "id": "lnnrny3cg",
+      "cn": "山下公园",
+      "name": "石のステージ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2042/points/lnnrny3cg-1719241376760.jpg?plan=h160",
+      "ep": 224,
+      "s": 393,
+      "geo": [
+        35.4444,
+        139.6519
+      ]
+    },
+    {
+      "id": "lnnhcu89h",
+      "cn": "中華街",
+      "name": "中華街",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2042/points/lnnhcu89h-1719240308056.jpg?plan=h160",
+      "geo": [
+        35.443,
+        139.6469
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 95
+}
