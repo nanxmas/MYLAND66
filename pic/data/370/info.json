@@ -1,0 +1,137 @@
+{
+  "id": 100444,
+  "cn": "四月是你的谎言",
+  "title": "四月は君の嘘",
+  "city": "练马区",
+  "cover": "https://image.xinu.ink/pic/data/370/images/100444.jpg",
+  "color": "#f28697",
+  "geo": [
+    35.698194219593844,
+    139.6184629800859
+  ],
+  "zoom": 9.991,
+  "modified": 1740813720701,
+  "litePoints": [
+    {
+      "id": "51i51ymjb",
+      "name": "宮園かをりが黒猫を発見した場所",
+      "image": "https://image.anitabi.cn/user/1130/bangumi/100444/points/51i51ymjb-1719991258366.jpg?plan=h160",
+      "ep": 1,
+      "s": 12,
+      "geo": [
+        35.7392,
+        139.5998
+      ]
+    },
+    {
+      "id": "51i51ymcf",
+      "cn": "石神井公园管理所",
+      "name": "１話（～00:30）宮園かをりが猫を探すシーン",
+      "image": "https://image.anitabi.cn/user/1130/bangumi/100444/points/51i51ymcf-1720017335431.jpg?plan=h160",
+      "ep": 1,
+      "s": 24,
+      "geo": [
+        35.7388,
+        139.5973
+      ]
+    },
+    {
+      "id": "51i51yogb",
+      "cn": "前通り橋",
+      "name": "前通り橋",
+      "image": "https://image.anitabi.cn/user/1130/bangumi/100444/points/51i51yogb-1720020143619.jpg?plan=h160",
+      "ep": 1,
+      "s": 84,
+      "geo": [
+        35.7664,
+        139.551
+      ]
+    },
+    {
+      "id": "59p7s6u8p",
+      "cn": "死海",
+      "name": "البحر الميت ים המלח",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/100444/points/59p7s6u8p-1673008972460.jpg?plan=h160",
+      "ep": 1,
+      "s": 102,
+      "geo": [
+        31.5397,
+        35.4915
+      ]
+    },
+    {
+      "id": "51i51ym7c",
+      "cn": "是政桥",
+      "name": "１話（06:16)有馬公生、澤部椿、渡亮太が学校帰りにコンビニへ寄り道",
+      "image": "https://image.anitabi.cn/user/0/bangumi/100444/points/51i51ym7c-1710126068313.jpg?plan=h160",
+      "ep": 1,
+      "s": 380,
+      "geo": [
+        35.6536,
+        139.4879
+      ]
+    },
+    {
+      "id": "lxn4vdr03",
+      "cn": "大泉中学校",
+      "name": "練馬区立大泉中学校 大泉学園通り",
+      "image": "https://image.anitabi.cn/user/1130/bangumi/100444/points/lxn4vdr03-1720023053137.jpg?plan=h160",
+      "ep": 1,
+      "s": 688,
+      "geo": [
+        35.753,
+        139.586
+      ]
+    },
+    {
+      "id": "m5apj708r",
+      "cn": "练马文化中心公园",
+      "name": "平成つつじ公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/100444/points/m5apj708r-1720623010082.jpg?plan=h160",
+      "ep": 1,
+      "s": 901,
+      "geo": [
+        35.739,
+        139.653
+      ]
+    },
+    {
+      "id": "51i51ymmi",
+      "name": "待ち合わせ場所と演奏場所になります",
+      "image": "https://image.anitabi.cn/user/1130/bangumi/100444/points/51i51ymmi-1720018430933.jpg?plan=h160",
+      "ep": 1,
+      "s": 942,
+      "geo": [
+        35.7382,
+        139.6533
+      ]
+    },
+    {
+      "id": "51i51ynk8",
+      "cn": "练马文化中心",
+      "name": "練馬文化センター",
+      "image": "https://image.anitabi.cn/user/1130/bangumi/100444/points/51i51ynk8-1719991574072.jpg?plan=h160",
+      "ep": 2,
+      "s": 359,
+      "geo": [
+        35.739,
+        139.6541
+      ]
+    },
+    {
+      "id": "nfdr68q4b",
+      "cn": "上石神井站附近，铁路边的道路",
+      "name": "線路脇の道路　上石神井駅付近",
+      "image": "https://image.anitabi.cn/user/0/bangumi/100444/points/nfdr68q4b-1724234284298.jpg?plan=h160",
+      "ep": 2,
+      "s": 1128,
+      "geo": [
+        35.7268,
+        139.5869
+      ]
+    }
+  ],
+  "pointsLength": 41,
+  "imagesLength": 32,
+  "local_id": 370
+}

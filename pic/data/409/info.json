@@ -1,0 +1,23 @@
+{
+  "id": 123222,
+  "title": "魔幻手机",
+  "cover": "https://image.xinu.ink/pic/data/409/images/123222_N1sFU.jpg",
+  "modified": 1729475910241,
+  "litePoints": [
+    {
+      "id": "p9xy9yztq",
+      "cn": "上海沙龙",
+      "name": "上海沙龙",
+      "image": "https://image.anitabi.cn/user/0/bangumi/123222/points/p9xy9yztq-1729450626884.jpg?plan=h160",
+      "ep": 2,
+      "s": 746,
+      "geo": [
+        39.7903,
+        116.4922
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 409
+}

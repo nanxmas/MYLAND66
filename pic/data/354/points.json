@@ -1,0 +1,319 @@
+[
+  {
+    "id": "kjen8ir61",
+    "cn": "樱丘乡村俱乐部",
+    "name": "桜ヶ丘カントリークラブ",
+    "image": "https://image.xinu.ink/pic/data/354/images/kjen8ir61-1730706248175.jpg",
+    "ep": "OP",
+    "s": 61,
+    "geo": [
+      35.6422,
+      139.4648
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WRRbe1Jfuvz-USvr0ZpLZ90pT94&ll=35.642214%2C139.464827&z=17"
+  },
+  {
+    "id": "kpwl1ngfy",
+    "name": "三沢川沿い",
+    "image": "https://image.xinu.ink/pic/data/354/images/kpwl1ngfy-1730646063982.jpg",
+    "ep": "OP",
+    "s": 13,
+    "geo": [
+      35.6369,
+      139.5093
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WRRbe1Jfuvz-USvr0ZpLZ90pT94&ll=35.636939%2C139.509335&z=17"
+  },
+  {
+    "id": "kpwl3aiyp",
+    "cn": "京王相模原線-稲城駅",
+    "name": "稲城駅",
+    "image": "https://image.xinu.ink/pic/data/354/images/kpwl3aiyp-1730707176748.jpg",
+    "ep": 1,
+    "s": 138,
+    "geo": [
+      35.6358,
+      139.5
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WRRbe1Jfuvz-USvr0ZpLZ90pT94&ll=35.63584%2C139.500067&z=17"
+  },
+  {
+    "id": "kjen8irpj",
+    "name": "經堂CORTY",
+    "image": "https://image.xinu.ink/pic/data/354/images/kjen8irpj-1730707440142.jpg",
+    "ep": 1,
+    "s": 177,
+    "geo": [
+      35.6517,
+      139.6372
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WRRbe1Jfuvz-USvr0ZpLZ90pT94&ll=35.651767%2C139.637215&z=17"
+  },
+  {
+    "id": "pq0k3tf6z",
+    "name": "京王​リトナード​稲城",
+    "image": "https://image.xinu.ink/pic/data/354/images/pq0k3tf6z-1730709749549.jpg",
+    "ep": 1,
+    "s": 178,
+    "geo": [
+      35.6365,
+      139.5001
+    ]
+  },
+  {
+    "id": "pr1cj2gsv",
+    "cn": "軽食・売店 ミルクホール",
+    "name": "軽食・売店 ミルクホール",
+    "image": "https://image.xinu.ink/pic/data/354/images/pr1cj2gsv-1730789858557.jpg",
+    "ep": 1,
+    "s": 899,
+    "geo": [
+      35.7682,
+      139.4425
+    ]
+  },
+  {
+    "id": "kpwl1nfuu",
+    "cn": "京王相模原線-京王读卖乐园站-一号站台",
+    "name": "京王よみうりランド駅（１番線）",
+    "image": "https://image.xinu.ink/pic/data/354/images/kpwl1nfuu-1730646350800.jpg",
+    "ep": 2,
+    "s": 16,
+    "geo": [
+      35.6329,
+      139.5172
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WRRbe1Jfuvz-USvr0ZpLZ90pT94&ll=35.632938%2C139.517264&z=17"
+  },
+  {
+    "id": "kpwl1ng2e",
+    "cn": "京王相模原线-京王读卖乐园駅-二号站台",
+    "name": "京王よみうりランド駅（２番線）",
+    "image": "https://image.xinu.ink/pic/data/354/images/kpwl1ng2e-1730646724577.jpg",
+    "ep": 2,
+    "s": 31,
+    "geo": [
+      35.633,
+      139.5172
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WRRbe1Jfuvz-USvr0ZpLZ90pT94&ll=35.633058%2C139.517261&z=17"
+  },
+  {
+    "id": "pq0azg1vd",
+    "name": "ストリームサイドスズキビル",
+    "image": "https://image.xinu.ink/pic/data/354/images/pq0azg1vd-1730709472861.jpg",
+    "ep": 2,
+    "s": 1231,
+    "geo": [
+      35.6353,
+      139.5172
+    ]
+  },
+  {
+    "id": "ppzx69e2b",
+    "cn": "経堂铃兰商店街",
+    "name": "経堂すずらん通り",
+    "image": "https://image.xinu.ink/pic/data/354/images/ppzx69e2b-1730708787815.jpg",
+    "ep": 2,
+    "s": 1239,
+    "geo": [
+      35.6517,
+      139.6371
+    ]
+  },
+  {
+    "id": "pq8kw23v2",
+    "cn": "肯德基経堂店",
+    "name": "ケンタッキーフライドチキン経堂店",
+    "image": "https://image.xinu.ink/pic/data/354/images/pq8kw23v2-1730727216637.jpg",
+    "ep": 4,
+    "s": 829,
+    "geo": [
+      35.6518,
+      139.6363
+    ],
+    "origin": "SkyieLovk48",
+    "originLink": "http://hk-loc.cocolog-nifty.com/photos/amaburi/0402.html"
+  },
+  {
+    "id": "pq50h8ju1",
+    "cn": "西武园游乐园",
+    "name": "西武園​ゆうえん​ち",
+    "image": "https://image.xinu.ink/pic/data/354/images/pq50h8ju1-1730719675086.jpg",
+    "ep": 6,
+    "s": 1302,
+    "geo": [
+      35.7683,
+      139.4429
+    ]
+  },
+  {
+    "id": "pq1661pv4",
+    "cn": "东京SummerLand",
+    "name": "東京​サマー​ランド",
+    "image": "https://image.xinu.ink/pic/data/354/images/pq1661pv4-1730711013427.jpg",
+    "ep": 7,
+    "s": 17,
+    "geo": [
+      35.718,
+      139.2748
+    ]
+  },
+  {
+    "id": "ppyfavj9a",
+    "cn": "京王读卖乐园",
+    "name": "よみうりランド",
+    "image": "https://image.xinu.ink/pic/data/354/images/ppyfavj9a-1730705256841.jpg",
+    "ep": 8,
+    "s": 35,
+    "geo": [
+      35.6255,
+      139.5189
+    ]
+  },
+  {
+    "id": "pq8cabjzj",
+    "name": "デイ･ホーム赤堤前",
+    "image": "https://image.xinu.ink/pic/data/354/images/pq8cabjzj-1730726664593.jpg",
+    "ep": 8,
+    "s": 324,
+    "geo": [
+      35.6553,
+      139.6379
+    ],
+    "origin": "SkyieLovk48",
+    "originLink": "http://hk-loc.cocolog-nifty.com/photos/amaburi/"
+  },
+  {
+    "id": "pq7q3oc2c",
+    "cn": "世田谷区立赤堤小学校",
+    "name": "世田谷区立赤堤小学校",
+    "image": "https://image.xinu.ink/pic/data/354/images/pq7q3oc2c-1730725299981.jpg",
+    "ep": 8,
+    "s": 337,
+    "geo": [
+      35.6555,
+      139.6378
+    ],
+    "origin": "SkyieLovk48",
+    "originLink": "http://hk-loc.cocolog-nifty.com/blog/amaburi.html"
+  },
+  {
+    "id": "pq5pgt6qf",
+    "cn": "西乡亭可乐饼",
+    "name": "コロッケ西郷亭 ",
+    "image": "https://image.xinu.ink/pic/data/354/images/pq5pgt6qf-1730721069612.jpg",
+    "ep": 10,
+    "s": 420,
+    "geo": [
+      35.6337,
+      139.6609
+    ],
+    "origin": "SkyieLovk48",
+    "originLink": "https://saigoutei.stores.jp/items/5970233c428f2d7b3a006b64"
+  },
+  {
+    "id": "pq9growsg",
+    "cn": "横滨站-十一号站台",
+    "name": "横浜",
+    "image": "https://image.xinu.ink/pic/data/354/images/pq9growsg-1730729142836.jpg",
+    "ep": "第三卷",
+    "s": "前往魔法之国",
+    "geo": [
+      35.4661,
+      139.6227
+    ]
+  },
+  {
+    "id": "pqxeo6eky",
+    "cn": "味之素体育场",
+    "name": "味の素​スタジアム",
+    "image": "https://image.xinu.ink/pic/data/354/images/pqxeo6eky-1730781503936.jpg",
+    "ep": 12,
+    "s": 4,
+    "geo": [
+      35.6642,
+      139.527
+    ]
+  },
+  {
+    "id": "pqxqo51fa",
+    "cn": "味之素体育场入口",
+    "name": "味の素スタジアム",
+    "image": "https://image.xinu.ink/pic/data/354/images/pqxqo51fa-1730781918983.jpg",
+    "ep": 12,
+    "s": 7,
+    "geo": [
+      35.663,
+      139.5281
+    ]
+  },
+  {
+    "id": "pr2w4tx1k",
+    "cn": "西武园游乐园-过山车",
+    "name": "西武園",
+    "image": "https://image.xinu.ink/pic/data/354/images/pr2w4tx1k-1730793233116.jpg",
+    "ep": 1,
+    "s": 721,
+    "geo": [
+      35.7682,
+      139.4402
+    ]
+  },
+  {
+    "id": "pr2zqqofn",
+    "cn": "西武园游乐园-富士見展望塔",
+    "name": "富士見展望塔",
+    "image": "https://image.xinu.ink/pic/data/354/images/pr2zqqofn-1730793380337.jpg",
+    "ep": 1,
+    "s": 760,
+    "geo": [
+      35.7672,
+      139.4412
+    ]
+  },
+  {
+    "id": "pr3eooal8",
+    "cn": "西武园游乐园-摩天轮",
+    "name": "西武园游乐园",
+    "image": "https://image.xinu.ink/pic/data/354/images/pr3eooal8-1730794283491.jpg",
+    "ep": 4,
+    "s": 678,
+    "geo": [
+      35.7676,
+      139.4443
+    ]
+  },
+  {
+    "id": "pr3k5kdif",
+    "cn": "夕日の丘商店街",
+    "name": "夕日の丘商店街",
+    "image": "https://image.xinu.ink/pic/data/354/images/pr3k5kdif-1730794580358.jpg",
+    "ep": 1,
+    "s": 746,
+    "geo": [
+      35.769,
+      139.4405
+    ]
+  },
+  {
+    "id": "r2ehcby36",
+    "cn": "相模湖度假村游乐森林",
+    "name": "さがみ​湖​リゾート\nプレジャー​フォレスト",
+    "image": "https://image.xinu.ink/pic/data/354/images/r2ehcby36_1734501697970.jpg",
+    "ep": "第八卷",
+    "s": "",
+    "geo": [
+      35.6048,
+      139.2063
+    ],
+    "origin": "Anitabi@SkyieLovk48",
+    "originURL": "https://anitabi.cn/"
+  }
+]

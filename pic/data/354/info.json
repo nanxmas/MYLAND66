@@ -1,0 +1,133 @@
+{
+  "id": 93545,
+  "cn": "甘城光辉游乐园",
+  "title": "甘城ブリリアントパーク",
+  "city": "多摩市",
+  "cover": "https://image.xinu.ink/pic/data/354/images/93545_pr9bgoilg.jpg",
+  "color": "#c83c3c",
+  "geo": [
+    35.63697317787231,
+    139.5003149411168
+  ],
+  "zoom": 12.24186838486969,
+  "modified": 1734501707290,
+  "litePoints": [
+    {
+      "id": "kjen8ir61",
+      "cn": "樱丘乡村俱乐部",
+      "name": "桜ヶ丘カントリークラブ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/93545/points/kjen8ir61-1730706248175.jpg?plan=h160",
+      "s": 61,
+      "geo": [
+        35.6422,
+        139.4648
+      ]
+    },
+    {
+      "id": "kpwl1ngfy",
+      "name": "三沢川沿い",
+      "image": "https://image.anitabi.cn/user/0/bangumi/93545/points/kpwl1ngfy-1730646063982.jpg?plan=h160",
+      "s": 13,
+      "geo": [
+        35.6369,
+        139.5093
+      ]
+    },
+    {
+      "id": "kpwl3aiyp",
+      "cn": "京王相模原線-稲城駅",
+      "name": "稲城駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/93545/points/kpwl3aiyp-1730707176748.jpg?plan=h160",
+      "ep": 1,
+      "s": 138,
+      "geo": [
+        35.6358,
+        139.5
+      ]
+    },
+    {
+      "id": "kjen8irpj",
+      "name": "經堂CORTY",
+      "image": "https://image.anitabi.cn/user/0/bangumi/93545/points/kjen8irpj-1730707440142.jpg?plan=h160",
+      "ep": 1,
+      "s": 177,
+      "geo": [
+        35.6517,
+        139.6372
+      ]
+    },
+    {
+      "id": "pq0k3tf6z",
+      "name": "京王​リトナード​稲城",
+      "image": "https://image.anitabi.cn/user/0/bangumi/93545/points/pq0k3tf6z-1730709749549.jpg?plan=h160",
+      "ep": 1,
+      "s": 178,
+      "geo": [
+        35.6365,
+        139.5001
+      ]
+    },
+    {
+      "id": "pr1cj2gsv",
+      "cn": "軽食・売店 ミルクホール",
+      "name": "軽食・売店 ミルクホール",
+      "image": "https://image.anitabi.cn/user/0/bangumi/93545/points/pr1cj2gsv-1730789858557.jpg?plan=h160",
+      "ep": 1,
+      "s": 899,
+      "geo": [
+        35.7682,
+        139.4425
+      ]
+    },
+    {
+      "id": "kpwl1nfuu",
+      "cn": "京王相模原線-京王读卖乐园站-一号站台",
+      "name": "京王よみうりランド駅（１番線）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/93545/points/kpwl1nfuu-1730646350800.jpg?plan=h160",
+      "ep": 2,
+      "s": 16,
+      "geo": [
+        35.6329,
+        139.5172
+      ]
+    },
+    {
+      "id": "kpwl1ng2e",
+      "cn": "京王相模原线-京王读卖乐园駅-二号站台",
+      "name": "京王よみうりランド駅（２番線）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/93545/points/kpwl1ng2e-1730646724577.jpg?plan=h160",
+      "ep": 2,
+      "s": 31,
+      "geo": [
+        35.633,
+        139.5172
+      ]
+    },
+    {
+      "id": "pq0azg1vd",
+      "name": "ストリームサイドスズキビル",
+      "image": "https://image.anitabi.cn/user/0/bangumi/93545/points/pq0azg1vd-1730709472861.jpg?plan=h160",
+      "ep": 2,
+      "s": 1231,
+      "geo": [
+        35.6353,
+        139.5172
+      ]
+    },
+    {
+      "id": "ppzx69e2b",
+      "cn": "経堂铃兰商店街",
+      "name": "経堂すずらん通り",
+      "image": "https://image.anitabi.cn/user/0/bangumi/93545/points/ppzx69e2b-1730708787815.jpg?plan=h160",
+      "ep": 2,
+      "s": 1239,
+      "geo": [
+        35.6517,
+        139.6371
+      ]
+    }
+  ],
+  "pointsLength": 31,
+  "imagesLength": 31,
+  "local_id": 354
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "i3k17cmph",
+    "cn": "西班牙阶梯",
+    "name": "Scalinata della Trinità dei Monti",
+    "image": "https://image.xinu.ink/pic/data/360/images/i3k17cmph-1723565893631.jpg",
+    "ep": null,
+    "s": 10,
+    "geo": [
+      41.9059,
+      12.4825
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "i3kbj50l3",
+    "cn": "山上天主圣三一教堂",
+    "name": "Trinita dei Monti",
+    "image": "https://image.xinu.ink/pic/data/360/images/i3kbj50l3-1723565848352.jpg",
+    "ep": null,
+    "s": 297,
+    "geo": [
+      41.9061,
+      12.4833
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "i3kivo4od",
+    "cn": "罗马斗兽场",
+    "name": "Colosseo",
+    "image": "https://image.xinu.ink/pic/data/360/images/i3kivo4od-1723565925685.jpg",
+    "ep": null,
+    "s": 307,
+    "geo": [
+      41.8897,
+      12.4915
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "51i53hvvl",
+    "name": "釧路仏舎利",
+    "image": "https://image.xinu.ink/pic/data/400/images/51i53hvvl_1730614715350.jpg",
+    "geo": [
+      42.9837,
+      144.3982
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1wJewT8Sf6WexN33BabPV65a6TgM&ll=42.983797%2C144.398202&z=17"
+  },
+  {
+    "id": "51i53hw4r",
+    "name": "幣舞橋",
+    "image": "https://image.xinu.ink/pic/data/400/images/51i53hw4r_1730614764389.jpg",
+    "geo": [
+      42.9809,
+      144.3853
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1wJewT8Sf6WexN33BabPV65a6TgM&ll=42.980985%2C144.385387&z=17"
+  },
+  {
+    "id": "51i53hvj0",
+    "name": "函館山展望台",
+    "image": "https://image.xinu.ink/pic/data/400/images/51i53hvj0_1730614783361.jpg",
+    "geo": [
+      41.7594,
+      140.7047
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1wJewT8Sf6WexN33BabPV65a6TgM&ll=41.759402%2C140.704723&z=17"
+  }
+]

@@ -1,0 +1,137 @@
+{
+  "id": 120925,
+  "cn": "夏洛特",
+  "title": "Charlotte",
+  "city": "北九州市",
+  "cover": "https://image.xinu.ink/pic/data/405/images/120925.jpg",
+  "color": "#07194e",
+  "geo": [
+    34.88983355152672,
+    135.88724602040094
+  ],
+  "zoom": 5.25,
+  "modified": 1730130381756,
+  "litePoints": [
+    {
+      "id": "lpjz8mpb7",
+      "cn": "涩谷站前",
+      "name": "渋谷駅前",
+      "image": "https://image.anitabi.cn/user/1118/bangumi/120925/points/lpjz8mpb7-1719389159147.jpg?plan=h160",
+      "ep": 1,
+      "s": 25,
+      "geo": [
+        35.6593,
+        139.7005
+      ]
+    },
+    {
+      "id": "lotnzxzag",
+      "cn": "一橋大學前",
+      "name": "一橋大學前",
+      "image": "https://image.anitabi.cn/user/1118/bangumi/120925/points/lotnzxzag-1719331901481.jpg?plan=h160",
+      "ep": 1,
+      "s": 314,
+      "geo": [
+        35.695,
+        139.4467
+      ]
+    },
+    {
+      "id": "lotut1ybq",
+      "cn": "兼松講堂",
+      "name": "兼松講堂",
+      "image": "https://image.anitabi.cn/user/1118/bangumi/120925/points/lotut1ybq-1719332351119.jpg?plan=h160",
+      "ep": 1,
+      "s": 508,
+      "geo": [
+        35.6946,
+        139.4453
+      ]
+    },
+    {
+      "id": "lpij5rjw5",
+      "cn": "国立站前邮局",
+      "name": "國立駅前郵便局",
+      "image": "https://image.anitabi.cn/user/1118/bangumi/120925/points/lpij5rjw5-1719386051872.jpg?plan=h160",
+      "ep": 1,
+      "s": 719,
+      "geo": [
+        35.6967,
+        139.4463
+      ]
+    },
+    {
+      "id": "lpiafo5i3",
+      "cn": "一橋大学走廊",
+      "name": "一橋大学走廊",
+      "image": "https://image.anitabi.cn/user/1118/bangumi/120925/points/lpiafo5i3-1719385566262.jpg?plan=h160",
+      "ep": 1,
+      "s": 1416,
+      "geo": [
+        35.6937,
+        139.4447
+      ]
+    },
+    {
+      "id": "lqy0gh3ma",
+      "cn": "爪木崎",
+      "name": "爪木崎",
+      "image": "https://image.anitabi.cn/points/120925/lqy0gh3ma_1719498065298.jpg?plan=h160",
+      "ep": 2,
+      "s": 107,
+      "geo": [
+        34.6598,
+        138.9858
+      ]
+    },
+    {
+      "id": "lqoo9rjks",
+      "cn": "町田駅",
+      "name": "町田駅",
+      "image": "https://image.anitabi.cn/user/1118/bangumi/120925/points/lqoo9rjks-1719477733901.jpg?plan=h160",
+      "ep": 2,
+      "s": 845,
+      "geo": [
+        35.5416,
+        139.4456
+      ]
+    },
+    {
+      "id": "lqo3xjkpf",
+      "cn": "莲台寺駅",
+      "name": "蓮台寺駅",
+      "image": "https://image.anitabi.cn/user/1118/bangumi/120925/points/lqo3xjkpf-1719476615233.jpg?plan=h160",
+      "ep": 2,
+      "s": 882,
+      "geo": [
+        34.6996,
+        138.9408
+      ]
+    },
+    {
+      "id": "825kkuubl",
+      "name": "皿倉山頂展望台",
+      "image": "https://image.anitabi.cn/user/0/bangumi/120925/points/825kkuubl-1711366148553.jpg?plan=h160",
+      "ep": 2,
+      "s": 1408,
+      "geo": [
+        33.8467,
+        130.7968
+      ]
+    },
+    {
+      "id": "pikpm91oo",
+      "name": "スターダスト",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/120925/points/pikpm91oo-1730126724858.jpg?plan=h160",
+      "ep": 3,
+      "s": 592,
+      "geo": [
+        35.4724,
+        139.6412
+      ]
+    }
+  ],
+  "pointsLength": 36,
+  "imagesLength": 36,
+  "local_id": 405
+}

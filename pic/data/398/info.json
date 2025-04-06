@@ -1,0 +1,102 @@
+{
+  "id": 119344,
+  "cn": "心灵想要大声呼喊。",
+  "title": "心が叫びたがってるんだ。",
+  "city": "秩父市",
+  "cover": "https://image.xinu.ink/pic/data/398/images/119344.jpg",
+  "color": "#4db837",
+  "cp": "KOKOSAKE PROJECT",
+  "geo": [
+    35.992442495808234,
+    139.0904828288535
+  ],
+  "zoom": 13.52,
+  "modified": 1719744951547,
+  "litePoints": [
+    {
+      "id": "kpx6ogomw",
+      "name": "横瀬駅のホーム",
+      "image": "https://image.anitabi.cn/user/0/bangumi/119344/points/kpx6ogomw-1719732977163.jpg?plan=h160",
+      "geo": [
+        35.9851,
+        139.0978
+      ]
+    },
+    {
+      "id": "kpx6ogp6k",
+      "name": "横瀬駅の外観",
+      "image": "https://image.anitabi.cn/user/0/bangumi/119344/points/kpx6ogp6k-1719732820904.jpg?plan=h160",
+      "geo": [
+        35.9849,
+        139.0982
+      ]
+    },
+    {
+      "id": "kpx6ogo6z",
+      "name": "横瀬駅前のロータリー",
+      "geo": [
+        35.9856,
+        139.0979
+      ]
+    },
+    {
+      "id": "kpx6ogpaa",
+      "name": "順の転倒シーン",
+      "geo": [
+        35.9917,
+        139.0971
+      ]
+    },
+    {
+      "id": "kpx6ogpbf",
+      "name": "お城への坂道（坂氷交差点）",
+      "geo": [
+        35.9912,
+        139.093
+      ]
+    },
+    {
+      "id": "kpx6ogpgi",
+      "name": "下校時の風景",
+      "geo": [
+        35.9949,
+        139.0972
+      ]
+    },
+    {
+      "id": "kpx6ogpod",
+      "name": "セーブオン秩父横瀬町店",
+      "geo": [
+        35.9954,
+        139.0963
+      ]
+    },
+    {
+      "id": "kpx6ogq8v",
+      "name": "秩父札所十番・大慈寺",
+      "geo": [
+        35.997,
+        139.0961
+      ]
+    },
+    {
+      "id": "kpx6ogpyn",
+      "name": "旧やおうめ商店（モンマート）",
+      "geo": [
+        35.9989,
+        139.1002
+      ]
+    },
+    {
+      "id": "kpx6ogq9t",
+      "name": "「本当の自分」行きバス停",
+      "geo": [
+        35.999,
+        139.1004
+      ]
+    }
+  ],
+  "pointsLength": 29,
+  "imagesLength": 2,
+  "local_id": 398
+}

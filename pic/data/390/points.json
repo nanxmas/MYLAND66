@@ -1,0 +1,54 @@
+[
+  {
+    "id": "o1fcnz6fe",
+    "name": "浦和駅付近交差点",
+    "image": "https://image.xinu.ink/pic/data/390/images/o1fcnz6fe-1725961979829.jpg",
+    "ep": 1,
+    "s": 61,
+    "geo": [
+      35.8599,
+      139.6544
+    ],
+    "origin": "トシロウのマニアック旅行記",
+    "originLink": "https://blog.goo.ne.jp/toshirouworld/e/cfd49ebc449b39f83a6192c327c270b2"
+  },
+  {
+    "id": "o1ftmd8cf",
+    "name": "調神社の前",
+    "image": "https://image.xinu.ink/pic/data/390/images/o1ftmd8cf-1725962701955.jpg",
+    "ep": 1,
+    "s": 31,
+    "geo": [
+      35.8536,
+      139.655
+    ],
+    "origin": "神兎研究会",
+    "originLink": "https://www.shintoken.jp/kenkyu/2015/05/2015anime_usagi/"
+  },
+  {
+    "id": "o1fvp68mm",
+    "name": "調神社の狛兎",
+    "image": "https://image.xinu.ink/pic/data/390/images/o1fvp68mm-1725962909996.jpg",
+    "ep": 1,
+    "s": 35,
+    "geo": [
+      35.8534,
+      139.6552
+    ],
+    "origin": "神兎研究会",
+    "originLink": "https://www.shintoken.jp/kenkyu/2015/05/2015anime_usagi/"
+  },
+  {
+    "id": "o1g0k5gf2",
+    "name": "調神社の本殿",
+    "image": "https://image.xinu.ink/pic/data/390/images/o1g0k5gf2-1725963130921.jpg",
+    "ep": 1,
+    "s": 54,
+    "geo": [
+      35.8534,
+      139.6556
+    ],
+    "origin": "神兎研究会",
+    "originLink": "https://www.shintoken.jp/kenkyu/2015/05/2015anime_usagi/"
+  }
+]

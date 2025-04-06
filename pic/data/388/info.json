@@ -1,0 +1,137 @@
+{
+  "id": 114685,
+  "cn": "可塑性记忆",
+  "title": "プラスティック・メモリーズ",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/388/images/114685.jpg",
+  "color": "#77c3ee",
+  "geo": [
+    1.2970202001137778,
+    103.83198356968688
+  ],
+  "zoom": 12.227,
+  "modified": 1722515599212,
+  "litePoints": [
+    {
+      "id": "m12r4xelh",
+      "cn": "武吉士+ 购物中心入口",
+      "name": "Bugis+ Entrance",
+      "image": "https://image.anitabi.cn/user/0/bangumi/114685/points/m12r4xelh-1720292276233.jpg?plan=h160",
+      "ep": 1,
+      "s": 7,
+      "geo": [
+        1.2996,
+        103.8546
+      ]
+    },
+    {
+      "id": "m13066ml8",
+      "name": "The Coffee Bean & Tea Leaf",
+      "image": "https://image.anitabi.cn/user/0/bangumi/114685/points/m13066ml8-1720292664070.jpg?plan=h160",
+      "ep": 1,
+      "s": 10,
+      "geo": [
+        1.2995,
+        103.854
+      ]
+    },
+    {
+      "id": "m13d4yhqo",
+      "cn": "武吉士+ 购物中心",
+      "name": "Bugis+ Shopping Mall",
+      "image": "https://image.anitabi.cn/user/0/bangumi/114685/points/m13d4yhqo-1720293446884.jpg?plan=h160",
+      "ep": 3,
+      "s": 975,
+      "geo": [
+        1.2997,
+        103.8548
+      ]
+    },
+    {
+      "id": "m135kea0q",
+      "name": "The Shoppes at Marina Bay Sands",
+      "image": "https://image.anitabi.cn/user/0/bangumi/114685/points/m135kea0q-1720293176346.jpg?plan=h160",
+      "ep": 3,
+      "s": 1040,
+      "geo": [
+        1.2845,
+        103.8599
+      ]
+    },
+    {
+      "id": "m13sofhs8",
+      "cn": "荷兰路购物中心",
+      "name": "Holland Road Shopping Centre",
+      "image": "https://image.anitabi.cn/user/0/bangumi/114685/points/m13sofhs8-1720294528205.jpg?plan=h160",
+      "ep": 5,
+      "s": 298,
+      "geo": [
+        1.3108,
+        103.7957
+      ]
+    },
+    {
+      "id": "m140fi5c4",
+      "cn": "唐人街地铁站 E出口",
+      "name": "Chinatown MRT Exit E",
+      "image": "https://image.anitabi.cn/user/0/bangumi/114685/points/m140fi5c4-1720294874412.jpg?plan=h160",
+      "ep": 5,
+      "s": 273,
+      "geo": [
+        1.2848,
+        103.8443
+      ]
+    },
+    {
+      "id": "m14586hoi",
+      "cn": "唐城坊 购物中心",
+      "name": "Chinatown Point Shopping Mall",
+      "image": "https://image.anitabi.cn/user/0/bangumi/114685/points/m14586hoi-1720295168849.jpg?plan=h160",
+      "ep": 5,
+      "s": 275,
+      "geo": [
+        1.2849,
+        103.8447
+      ]
+    },
+    {
+      "id": "m14aq3r4f",
+      "cn": "客纳街",
+      "name": "Club Street",
+      "image": "https://image.anitabi.cn/user/0/bangumi/114685/points/m14aq3r4f-1720295506821.jpg?plan=h160",
+      "ep": 5,
+      "s": 358,
+      "geo": [
+        1.2819,
+        103.8457
+      ]
+    },
+    {
+      "id": "m14opa07x",
+      "cn": "芳林苑",
+      "name": "Hong Lim Complex",
+      "image": "https://image.anitabi.cn/user/0/bangumi/114685/points/m14opa07x-1720296354434.jpg?plan=h160",
+      "ep": 5,
+      "s": 270,
+      "geo": [
+        1.2835,
+        103.8461
+      ]
+    },
+    {
+      "id": "m14j753z2",
+      "cn": "乌节路",
+      "name": "Orchard Road",
+      "image": "https://image.anitabi.cn/user/0/bangumi/114685/points/m14j753z2-1720296067964.jpg?plan=h160",
+      "ep": 5,
+      "s": 294,
+      "geo": [
+        1.3053,
+        103.8308
+      ]
+    }
+  ],
+  "pointsLength": 17,
+  "imagesLength": 17,
+  "local_id": 388
+}

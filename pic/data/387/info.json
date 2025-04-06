@@ -1,0 +1,114 @@
+{
+  "id": 112151,
+  "cn": "终结的炽天使",
+  "title": "終わりのセラフ",
+  "cover": "https://image.xinu.ink/pic/data/387/images/112151_qJg8v.jpg",
+  "cp": "終わりのセラフ",
+  "geo": [
+    35.43342815408157,
+    139.11928533353785
+  ],
+  "zoom": 7.286,
+  "modified": 1742409694526,
+  "litePoints": [
+    {
+      "id": "tkwohu4bp",
+      "name": "涩谷十字路口",
+      "image": "https://image.anitabi.cn/points/112151/tkwohu4bp_1741601446367.jpg?plan=h160",
+      "ep": 1,
+      "s": 1316,
+      "geo": [
+        35.6593,
+        139.7003
+      ]
+    },
+    {
+      "id": "tkvpujgso",
+      "cn": "富士顶上浅间神社",
+      "name": "富士顶上浅见神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/112151/points/tkvpujgso-1741591981589.jpg?plan=h160",
+      "geo": [
+        35.362,
+        138.7324
+      ]
+    },
+    {
+      "id": "tkvxs0tz6",
+      "cn": "新宿西口人行天桥",
+      "name": "青梅街道",
+      "image": "https://image.anitabi.cn/user/0/bangumi/112151/points/tkvxs0tz6-1741592265472.jpg?plan=h160",
+      "geo": [
+        35.6932,
+        139.6973
+      ]
+    },
+    {
+      "id": "tkw2fn17d",
+      "cn": "北表参道",
+      "name": "明治通り",
+      "image": "https://image.anitabi.cn/user/0/bangumi/112151/points/tkw2fn17d-1741592544353.jpg?plan=h160",
+      "geo": [
+        35.6782,
+        139.7055
+      ]
+    },
+    {
+      "id": "tkw9b6k79",
+      "cn": "名古屋市政府",
+      "name": "名古屋市政府",
+      "image": "https://image.anitabi.cn/user/0/bangumi/112151/points/tkw9b6k79-1741592971677.jpg?plan=h160",
+      "geo": [
+        35.1819,
+        136.9055
+      ]
+    },
+    {
+      "id": "tkwds69iz",
+      "name": "出来町通",
+      "image": "https://image.anitabi.cn/user/0/bangumi/112151/points/tkwds69iz-1741593219228.jpg?plan=h160",
+      "geo": [
+        35.183,
+        136.9109
+      ]
+    },
+    {
+      "id": "tkwf90uwa",
+      "name": "清水橋東",
+      "image": "https://image.anitabi.cn/user/0/bangumi/112151/points/tkwf90uwa-1741593300830.jpg?plan=h160",
+      "geo": [
+        35.1828,
+        136.909
+      ]
+    },
+    {
+      "id": "tkwgs23c0",
+      "name": "名古屋塔",
+      "image": "https://image.anitabi.cn/user/0/bangumi/112151/points/tkwgs23c0-1741593407409.jpg?plan=h160",
+      "geo": [
+        35.1724,
+        136.9083
+      ]
+    },
+    {
+      "id": "tkwik7ukb",
+      "name": "地下商场",
+      "image": "https://image.anitabi.cn/user/0/bangumi/112151/points/tkwik7ukb-1741593504783.jpg?plan=h160",
+      "geo": [
+        35.1705,
+        136.9086
+      ]
+    },
+    {
+      "id": "tkwjv3mn4",
+      "name": "广场",
+      "image": "https://image.anitabi.cn/user/0/bangumi/112151/points/tkwjv3mn4-1741593584549.jpg?plan=h160",
+      "geo": [
+        35.1695,
+        136.9086
+      ]
+    }
+  ],
+  "pointsLength": 16,
+  "imagesLength": 15,
+  "local_id": 387
+}

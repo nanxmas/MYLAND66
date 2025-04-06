@@ -1,0 +1,132 @@
+[
+  {
+    "id": "ko2idskh0",
+    "name": "田無駅",
+    "image": "https://image.xinu.ink/pic/data/365/images/ko2idskh0_1716452396491.jpg",
+    "ep": 32,
+    "s": 442,
+    "geo": [
+      35.7276,
+      139.5392
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ko2qzfbq1",
+    "name": "アスタビル",
+    "image": "https://image.xinu.ink/pic/data/365/images/ko2qzfbq1_1716452397004.jpg",
+    "ep": 78,
+    "s": 72,
+    "geo": [
+      35.7284,
+      139.5401
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ko2omcmsu",
+    "name": "米沢駅",
+    "image": "https://image.xinu.ink/pic/data/365/images/ko2omcmsu_1716452397485.jpg",
+    "ep": 97,
+    "s": 523,
+    "geo": [
+      37.9095,
+      140.128
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kvo8vlg25",
+    "name": "立石寺納経堂",
+    "image": "https://image.xinu.ink/pic/data/365/images/kvo8vlg25_1717047633776.jpg",
+    "ep": 97,
+    "s": 562,
+    "geo": [
+      38.3136,
+      140.4348
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kvoaj6okw",
+    "name": "蔵王御釜",
+    "image": "https://image.xinu.ink/pic/data/365/images/kvoaj6okw_1717047634261.jpg",
+    "ep": 97,
+    "s": 564,
+    "geo": [
+      38.1363,
+      140.4494
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kvnzh8jh5",
+    "name": "海遊館",
+    "image": "https://image.xinu.ink/pic/data/365/images/kvnzh8jh5_1717047034249.jpg",
+    "ep": "剧场版",
+    "s": 732,
+    "geo": [
+      34.6545,
+      135.4289
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kvol3ryvz",
+    "name": "祖師谷​区民​集会​所",
+    "image": "https://image.xinu.ink/pic/data/365/images/kvol3ryvz_1717048261358.jpg",
+    "ep": "IT10",
+    "s": 410,
+    "geo": [
+      35.6469,
+      139.6081
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kvos8lwcb",
+    "name": "祖師ヶ谷大蔵駅",
+    "image": "https://image.xinu.ink/pic/data/365/images/kvos8lwcb_1717048942574.jpg",
+    "ep": "IT10",
+    "s": 887,
+    "geo": [
+      35.6433,
+      139.6093
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kvp5g2gix",
+    "name": "青い池",
+    "image": "https://image.xinu.ink/pic/data/365/images/kvp5g2gix_1725851442770.jpg",
+    "ep": "IT20",
+    "s": 449,
+    "geo": [
+      43.4933,
+      142.6138
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kvogn8ryi",
+    "name": "地獄谷",
+    "image": "https://image.xinu.ink/pic/data/365/images/kvogn8ryi_1717048260609.jpg",
+    "ep": "IT23",
+    "s": 323,
+    "geo": [
+      36.584,
+      137.5948
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  }
+]

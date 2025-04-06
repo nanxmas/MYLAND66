@@ -1,0 +1,45 @@
+{
+  "id": 98330,
+  "title": "高考恋爱100天",
+  "city": "湖北省",
+  "cover": "https://image.xinu.ink/pic/data/362/images/98330.jpg",
+  "color": "#ff6b6b",
+  "geo": [
+    30.504610487110213,
+    114.33877138997599
+  ],
+  "zoom": 11.545,
+  "modified": 1728702547871,
+  "litePoints": [
+    {
+      "id": "n8ok169q5",
+      "name": "华中师范大学第一附属中学",
+      "image": "https://image.anitabi.cn/points/98330/n8ok169q5_1723709144066.jpg?plan=h160",
+      "geo": [
+        30.4557,
+        114.385
+      ]
+    },
+    {
+      "id": "n8okifn0a",
+      "name": "武汉长江大桥",
+      "image": "https://image.anitabi.cn/points/98330/n8okifn0a_1723709174945.jpg?plan=h160",
+      "geo": [
+        30.5496,
+        114.2874
+      ]
+    },
+    {
+      "id": "p0c7ldbw2",
+      "name": "5号教学楼",
+      "image": "https://image.anitabi.cn/user/2130/bangumi/98330/points/p0c7ldbw2-1728697666614.jpg?plan=h160",
+      "geo": [
+        30.4565,
+        114.384
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 362
+}

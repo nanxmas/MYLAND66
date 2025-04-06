@@ -1,0 +1,139 @@
+{
+  "id": 120445,
+  "cn": "GATE 奇幻自卫队",
+  "title": "GATE 自衛隊 彼の地にて、斯く戦えり",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/404/images/120445.jpg",
+  "color": "#67260a",
+  "cp": "ゲート",
+  "geo": [
+    35.67394831302353,
+    139.73696202338243
+  ],
+  "zoom": 11.393,
+  "modified": 1731720902698,
+  "litePoints": [
+    {
+      "id": "pzqekiw4i",
+      "cn": "東京站",
+      "name": "東京駅（丸の内駅舎）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/120445/points/pzqekiw4i-1731471237612.jpg?plan=h160",
+      "ep": 1,
+      "s": 555,
+      "geo": [
+        35.6817,
+        139.7642
+      ]
+    },
+    {
+      "id": "pzqoww0jj",
+      "cn": "丸之内警察署 祝田町見張所",
+      "name": "丸の内​警察署​祝田​町​見張​所",
+      "image": "https://image.anitabi.cn/user/0/bangumi/120445/points/pzqoww0jj-1731471861835.jpg?plan=h160",
+      "ep": 1,
+      "s": 521,
+      "geo": [
+        35.6798,
+        139.7555
+      ]
+    },
+    {
+      "id": "pzq4vn9sn",
+      "cn": "銀座中央通",
+      "name": "中央通り",
+      "image": "https://image.anitabi.cn/user/0/bangumi/120445/points/pzq4vn9sn-1731470654564.jpg?plan=h160",
+      "s": 45,
+      "geo": [
+        35.6696,
+        139.7634
+      ]
+    },
+    {
+      "id": "pzqkmrdlb",
+      "cn": "築地警察署 土橋地域安全中心 ",
+      "name": "築地警察署 土橋地域安全センター",
+      "image": "https://image.anitabi.cn/user/0/bangumi/120445/points/pzqkmrdlb-1731471636350.jpg?plan=h160",
+      "ep": 1,
+      "s": 512,
+      "geo": [
+        35.6683,
+        139.7587
+      ]
+    },
+    {
+      "id": "pzrcoi6fw",
+      "cn": "東京地下鐵 國會議事堂前站 丸之內線月台",
+      "name": "東京メトロ国会議事堂前駅 丸ノ内線ホーム",
+      "image": "https://image.anitabi.cn/user/0/bangumi/120445/points/pzrcoi6fw-1731473379605.jpg?plan=h160",
+      "ep": 8,
+      "s": 1048,
+      "geo": [
+        35.6744,
+        139.7454
+      ]
+    },
+    {
+      "id": "pzrnbdfzq",
+      "cn": "東京地下鐵丸之内線銀座站西銀座出口",
+      "name": "東京メトロ丸ノ内線銀座駅西銀座口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/120445/points/pzrnbdfzq-1731473976690.jpg?plan=h160",
+      "ep": 8,
+      "s": 1235,
+      "geo": [
+        35.6727,
+        139.7632
+      ]
+    },
+    {
+      "id": "pzr5s2l3b",
+      "cn": "國會議事堂 眾議院第一委員室",
+      "name": "国会議事堂 衆議院第一委員室",
+      "image": "https://image.anitabi.cn/user/0/bangumi/120445/points/pzr5s2l3b-1731472914638.jpg?plan=h160",
+      "ep": 8,
+      "s": 831,
+      "geo": [
+        35.6754,
+        139.7446
+      ]
+    },
+    {
+      "id": "q1cm47lhj",
+      "cn": "東京臨海新交通臨海線 新橋站",
+      "name": "東京臨海新交通臨海線 新橋駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/120445/points/q1cm47lhj-1731598072200.jpg?plan=h160",
+      "ep": 1,
+      "s": 439,
+      "geo": [
+        35.6656,
+        139.7594
+      ]
+    },
+    {
+      "id": "q1crq6pvu",
+      "cn": "新橋車站",
+      "name": "新橋駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/120445/points/q1crq6pvu-1731598287460.jpg?plan=h160",
+      "ep": 1,
+      "s": 459,
+      "geo": [
+        35.6659,
+        139.7587
+      ]
+    },
+    {
+      "id": "q1cuof6gh",
+      "cn": "警視廳",
+      "name": "警視庁",
+      "image": "https://image.anitabi.cn/user/0/bangumi/120445/points/q1cuof6gh-1731598453249.jpg?plan=h160",
+      "ep": 1,
+      "s": 559,
+      "geo": [
+        35.6775,
+        139.7531
+      ]
+    }
+  ],
+  "pointsLength": 18,
+  "imagesLength": 18,
+  "local_id": 404
+}

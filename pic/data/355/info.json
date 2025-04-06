@@ -1,0 +1,124 @@
+{
+  "id": 93714,
+  "cn": "东京喰种",
+  "title": "東京喰種トーキョーグール",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/355/images/93714.jpg",
+  "color": "#232a32",
+  "modified": 1737340892351,
+  "litePoints": [
+    {
+      "id": "p8c1uwvz7",
+      "name": "新宿区役所",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/93714/points/p8c1uwvz7-1729324139657.jpg?plan=h160",
+      "ep": 1,
+      "s": 318,
+      "geo": [
+        35.695,
+        139.7044
+      ]
+    },
+    {
+      "id": "p8cbpec80",
+      "name": "ジョルジオ アルマーニ / アルマーニカフェ 表参道店",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/93714/points/p8cbpec80-1729324891008.jpg?plan=h160",
+      "ep": 1,
+      "s": 423,
+      "geo": [
+        35.6657,
+        139.711
+      ]
+    },
+    {
+      "id": "p8c5fxklq",
+      "name": "ルイ･ヴィトン 表参道店",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/93714/points/p8c5fxklq-1729324574432.jpg?plan=h160",
+      "ep": 1,
+      "s": 451,
+      "geo": [
+        35.6666,
+        139.7091
+      ]
+    },
+    {
+      "id": "p8cgw1d6f",
+      "name": "MM6 Maison Margiela Omotesando",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/93714/points/p8cgw1d6f-1729325092063.jpg?plan=h160",
+      "ep": 1,
+      "s": 454,
+      "geo": [
+        35.6671,
+        139.7082
+      ]
+    },
+    {
+      "id": "p8fljbzuc",
+      "name": "丸の内室町線",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/93714/points/p8fljbzuc-1729331899175.jpg?plan=h160",
+      "ep": 1,
+      "s": 465,
+      "geo": [
+        35.6841,
+        139.7676
+      ]
+    },
+    {
+      "id": "p8fatlvk0",
+      "name": "武蔵野警察署 吉祥寺駅東口交番",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/93714/points/p8fatlvk0-1729331218767.jpg?plan=h160",
+      "ep": 1,
+      "s": 820,
+      "geo": [
+        35.7033,
+        139.5805
+      ]
+    },
+    {
+      "id": "p8cmzth4a",
+      "name": "歌舞伎町一番街前",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/93714/points/p8cmzth4a-1729325494961.jpg?plan=h160",
+      "ep": 1,
+      "s": 1013,
+      "geo": [
+        35.6937,
+        139.7009
+      ]
+    },
+    {
+      "id": "p8ne3iffw",
+      "name": "立教大学11号馆",
+      "image": "https://image.anitabi.cn/points/93714/p8ne3iffw_1729351440240.jpg?plan=h160",
+      "ep": 2,
+      "s": 554,
+      "geo": [
+        35.7302,
+        139.7036
+      ]
+    },
+    {
+      "id": "p8ezqghym",
+      "name": "アシックスウォーキング 吉祥寺",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/93714/points/p8ezqghym-1729330538412.jpg?plan=h160",
+      "ep": 2,
+      "s": 680,
+      "geo": [
+        35.7034,
+        139.5781
+      ]
+    },
+    {
+      "id": "p8f7f7uox",
+      "name": "吉祥寺駅",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/93714/points/p8f7f7uox-1729331003858.jpg?plan=h160",
+      "ep": 2,
+      "s": 722,
+      "geo": [
+        35.7034,
+        139.5797
+      ]
+    }
+  ],
+  "pointsLength": 34,
+  "imagesLength": 34,
+  "local_id": 355
+}

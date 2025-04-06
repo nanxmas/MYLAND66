@@ -1,0 +1,131 @@
+{
+  "id": 92382,
+  "cn": "刀剑神域Ⅱ",
+  "title": "ソードアート・オンラインII",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/353/images/92382.jpg",
+  "color": "#00ddff",
+  "cp": "SAOII Project",
+  "geo": [
+    35.691461,
+    139.755707
+  ],
+  "zoom": 13,
+  "modified": 1732973756141,
+  "litePoints": [
+    {
+      "id": "kpwobjgm6",
+      "name": "大手町駅C10出入口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/92382/points/kpwobjgm6-1725701901422.jpg?plan=h160",
+      "ep": 1,
+      "s": 227,
+      "geo": [
+        35.6856,
+        139.7625
+      ]
+    },
+    {
+      "id": "kpwobjgoe",
+      "name": "「大手門」交差点",
+      "image": "https://image.anitabi.cn/user/0/bangumi/92382/points/kpwobjgoe-1725701972541.jpg?plan=h160",
+      "ep": 1,
+      "s": 253,
+      "geo": [
+        35.6856,
+        139.7609
+      ]
+    },
+    {
+      "id": "kpwobjgsy",
+      "name": "皇居（本丸入口）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/92382/points/kpwobjgsy-1725705317959.jpg?plan=h160",
+      "ep": 1,
+      "s": 360,
+      "geo": [
+        35.6854,
+        139.7566
+      ]
+    },
+    {
+      "id": "kpwobjgn9",
+      "name": "皇居（天守台）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/92382/points/kpwobjgn9-1725705478322.jpg?plan=h160",
+      "ep": 1,
+      "s": 377,
+      "geo": [
+        35.6877,
+        139.7549
+      ]
+    },
+    {
+      "id": "kpwobjh1s",
+      "name": "資生堂パーラー 銀座本店レストラン",
+      "image": "https://image.anitabi.cn/points/92382/kpwobjh1s_1726905692520.jpg?plan=h160",
+      "ep": 14,
+      "s": 950,
+      "geo": [
+        35.6685,
+        139.7623
+      ]
+    },
+    {
+      "id": "kpwobjgrk",
+      "name": "有楽町センタービル(有楽町マリオン)前",
+      "image": "https://image.anitabi.cn/user/0/bangumi/92382/points/kpwobjgrk-1725705385786.jpg?plan=h160",
+      "ep": 1,
+      "s": 218,
+      "geo": [
+        35.6731,
+        139.7624
+      ]
+    },
+    {
+      "id": "qhynot81q",
+      "name": "星川駅",
+      "image": "https://image.anitabi.cn/points/23686/qhynot81q_1732899744264.jpg?plan=h160",
+      "ep": 23,
+      "s": 433,
+      "geo": [
+        35.4586,
+        139.5945
+      ]
+    },
+    {
+      "id": "qhzbncxlb",
+      "name": "星川一丁目",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/23686/points/qhzbncxlb-1732901191753.jpg?plan=h160",
+      "ep": 23,
+      "s": 465,
+      "geo": [
+        35.457,
+        139.5929
+      ]
+    },
+    {
+      "id": "qhzn2urrl",
+      "name": "星川",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/23686/points/qhzn2urrl-1732902016726.jpg?plan=h160",
+      "ep": 23,
+      "s": 477,
+      "geo": [
+        35.4565,
+        139.5919
+      ]
+    },
+    {
+      "id": "pxn84vlg7",
+      "cn": "JR京都站 中央口",
+      "name": "JR京都站 中央口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/92382/points/pxn84vlg7-1731307587245.jpg?plan=h160",
+      "ep": 24,
+      "s": 124,
+      "geo": [
+        34.9861,
+        135.7587
+      ]
+    }
+  ],
+  "pointsLength": 33,
+  "imagesLength": 33,
+  "local_id": 353
+}

@@ -1,0 +1,564 @@
+[
+  {
+    "id": "51i51xcuu",
+    "name": "観音寺港",
+    "image": "https://image.xinu.ink/pic/data/380/images/51i51xcuu-1716803564406.jpg",
+    "ep": 1,
+    "s": 9,
+    "geo": [
+      34.1254,
+      133.635
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.125412%2C133.635013&z=17"
+  },
+  {
+    "id": "r6316lya1",
+    "cn": "坂出市乡土资料馆",
+    "name": "坂出市​郷土​資料館",
+    "image": "https://image.xinu.ink/pic/data/380/images/r6316lya1-1734790335377.jpg",
+    "ep": 1,
+    "s": 92,
+    "geo": [
+      34.3139,
+      133.8499
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.313946%2C133.849904&z=17"
+  },
+  {
+    "id": "t6wu4vdgt",
+    "cn": "镰田池",
+    "name": "鎌田池",
+    "image": "https://image.xinu.ink/pic/data/380/images/t6wu4vdgt_1740543583675.jpg",
+    "ep": 4,
+    "s": 770,
+    "geo": [
+      34.3019,
+      133.8509
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.301996%2C133.850915&z=17"
+  },
+  {
+    "id": "51i51xbqm",
+    "name": "１．三架橋",
+    "image": "https://image.xinu.ink/pic/data/380/images/51i51xbqm-1720013541497.jpg",
+    "ep": null,
+    "geo": [
+      34.1318,
+      133.6501
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.131877%2C133.65014&z=17"
+  },
+  {
+    "id": "51i51xbm2",
+    "name": "２．琴弾八幡宮",
+    "image": "https://image.xinu.ink/pic/data/380/images/51i51xbm2-1720013599374.jpg",
+    "ep": null,
+    "s": 1,
+    "geo": [
+      34.1319,
+      133.6491
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.131904%2C133.649185&z=17"
+  },
+  {
+    "id": "51i51xblr",
+    "name": "３．有明浜",
+    "image": "https://image.xinu.ink/pic/data/380/images/51i51xblr-1734686728044.jpg",
+    "ep": null,
+    "geo": [
+      34.1332,
+      133.6405
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.133298%2C133.640527&z=17"
+  },
+  {
+    "id": "51i51xbu8",
+    "name": "５．観音寺駅",
+    "image": "https://image.xinu.ink/pic/data/380/images/51i51xbu8-1720013705947.jpg",
+    "ep": null,
+    "s": 1,
+    "geo": [
+      34.1249,
+      133.6566
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.12495%2C133.656664&z=17"
+  },
+  {
+    "id": "51i51xck0",
+    "name": "６．観音寺駅前",
+    "image": "https://image.xinu.ink/pic/data/380/images/51i51xck0-1734687740786.jpg",
+    "ep": null,
+    "geo": [
+      34.1252,
+      133.6553
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.125261%2C133.655397&z=17"
+  },
+  {
+    "id": "51i51xccv",
+    "name": "７．つるや",
+    "image": "https://image.xinu.ink/pic/data/380/images/51i51xccv-1734684868105.jpg",
+    "ep": null,
+    "geo": [
+      34.1269,
+      133.6671
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.126991%2C133.6671&z=17"
+  },
+  {
+    "id": "51i51xbxj",
+    "cn": "中學校",
+    "name": "観音寺中学校",
+    "image": "https://image.xinu.ink/pic/data/380/images/51i51xbxj-1734837830223.jpg",
+    "ep": null,
+    "geo": [
+      34.1376,
+      133.6454
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.137659%2C133.645442&z=17"
+  },
+  {
+    "id": "51i51xcle",
+    "name": "１０．まねきねこ観音寺店",
+    "image": "https://image.xinu.ink/pic/data/380/images/51i51xcle-1734687105732.jpg",
+    "ep": null,
+    "geo": [
+      34.1259,
+      133.6597
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.125927%2C133.659773&z=17"
+  },
+  {
+    "id": "51i51xcjj",
+    "name": "１１．三架橋南東",
+    "image": "https://image.xinu.ink/pic/data/380/images/51i51xcjj-1734684947322.jpg",
+    "ep": null,
+    "geo": [
+      34.1315,
+      133.6511
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.131558%2C133.651128&z=17"
+  },
+  {
+    "id": "51i51xdbe",
+    "name": "１５．瀬戸大橋記念館展望台",
+    "image": "https://image.xinu.ink/pic/data/380/images/51i51xdbe-1734851035118.jpg",
+    "ep": null,
+    "geo": [
+      34.3527,
+      133.8261
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.35279%2C133.826136&z=17"
+  },
+  {
+    "id": "51i51xcxj",
+    "name": "２０．丸亀城",
+    "image": "https://image.xinu.ink/pic/data/380/images/51i51xcxj-1693667205277.jpg",
+    "ep": null,
+    "geo": [
+      34.2865,
+      133.8001
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.286581%2C133.80013&z=17"
+  },
+  {
+    "id": "51i51xe4v",
+    "name": "坂元踏切",
+    "image": "https://image.xinu.ink/pic/data/380/images/51i51xe4v-1734687195553.jpg",
+    "ep": null,
+    "geo": [
+      34.126,
+      133.6612
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.126029%2C133.661245&z=17"
+  },
+  {
+    "id": "51i51xe7p",
+    "name": "銭形展望台",
+    "image": "https://image.xinu.ink/pic/data/380/images/51i51xe7p-1734684980430.jpg",
+    "ep": null,
+    "geo": [
+      34.1337,
+      133.6455
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.13376%2C133.645544&z=17"
+  },
+  {
+    "id": "51i51xdij",
+    "name": "高屋神社",
+    "image": "https://image.xinu.ink/pic/data/380/images/51i51xdij-1734687882637.jpg",
+    "ep": null,
+    "geo": [
+      34.1604,
+      133.6548
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.160416%2C133.654823&z=17"
+  },
+  {
+    "id": "clb9nff3x",
+    "name": "沙弥ナカンダ浜",
+    "image": "https://image.xinu.ink/pic/data/380/images/clb9nff3x-1693666793719.jpg",
+    "ep": null,
+    "geo": [
+      34.351,
+      133.8211
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.351078%2C133.821154&z=17"
+  },
+  {
+    "id": "clbbkyuwf",
+    "name": "天の泉",
+    "image": "https://image.xinu.ink/pic/data/380/images/clbbkyuwf-1693666872312.jpg",
+    "ep": null,
+    "geo": [
+      34.3517,
+      133.8263
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.351792%2C133.826318&z=17"
+  },
+  {
+    "id": "clbce949p",
+    "name": "マリンドーム",
+    "image": "https://image.xinu.ink/pic/data/380/images/clbce949p-1693666913834.jpg",
+    "ep": null,
+    "geo": [
+      34.3533,
+      133.8269
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.353321%2C133.82691&z=17"
+  },
+  {
+    "id": "clbdqb7fz",
+    "name": "太助燈籠",
+    "image": "https://image.xinu.ink/pic/data/380/images/clbdqb7fz-1693667004834.jpg",
+    "ep": null,
+    "geo": [
+      34.2947,
+      133.7932
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.294797%2C133.793292&z=17"
+  },
+  {
+    "id": "clbfdbmbr",
+    "name": "峰山公園 展望台",
+    "image": "https://image.xinu.ink/pic/data/380/images/clbfdbmbr-1693667088023.jpg",
+    "ep": null,
+    "geo": [
+      34.3382,
+      134.0228
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.338239%2C134.022883&z=17"
+  },
+  {
+    "id": "clbfylzgs",
+    "name": " 峰山公園 は にわっ子広場",
+    "image": "https://image.xinu.ink/pic/data/380/images/clbfylzgs-1693667153101.jpg",
+    "ep": null,
+    "geo": [
+      34.3357,
+      134.0222
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.335702%2C134.022248&z=17"
+  },
+  {
+    "id": "clbiktr5g",
+    "name": "香風園",
+    "image": "https://image.xinu.ink/pic/data/380/images/clbiktr5g-1693667285808.jpg",
+    "ep": null,
+    "geo": [
+      34.3132,
+      133.8527
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.313276%2C133.852796&z=17"
+  },
+  {
+    "id": "clbjhg5s1",
+    "cn": "宇夫阶神社",
+    "name": "宇夫階神社",
+    "image": "https://image.xinu.ink/pic/data/380/images/clbjhg5s1-1693667363605.jpg",
+    "ep": null,
+    "geo": [
+      34.3081,
+      133.8207
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.308129%2C133.820731&z=17"
+  },
+  {
+    "id": "r6omtadps",
+    "name": "大守門前",
+    "image": "https://image.xinu.ink/pic/data/380/images/r6omtadps-1734837078212.jpg",
+    "ep": null,
+    "geo": [
+      34.2878,
+      133.7993
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.287845%2C133.799311&z=17"
+  },
+  {
+    "id": "r6opn1kig",
+    "name": "丸亀駅",
+    "image": "https://image.xinu.ink/pic/data/380/images/r6opn1kig-1734837198676.jpg",
+    "ep": null,
+    "geo": [
+      34.2919,
+      133.793
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.291949%2C133.793097&z=17"
+  },
+  {
+    "id": "r6orridxy",
+    "name": "肉烏龍麵",
+    "image": "https://image.xinu.ink/pic/data/380/images/r6orridxy-1734837588112.jpg",
+    "ep": null,
+    "geo": [
+      34.127,
+      133.667
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.12701%2C133.667081&z=17"
+  },
+  {
+    "id": "r6p2h84iv",
+    "name": "三架橋旁",
+    "image": "https://image.xinu.ink/pic/data/380/images/r6p2h84iv-1734838040537.jpg",
+    "ep": null,
+    "geo": [
+      34.1312,
+      133.6506
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.131268%2C133.650626&z=17"
+  },
+  {
+    "id": "r6p4cqxqg",
+    "name": "三架橋上",
+    "image": "https://image.xinu.ink/pic/data/380/images/r6p4cqxqg-1734838102191.jpg",
+    "ep": null,
+    "geo": [
+      34.1313,
+      133.6506
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.131317%2C133.650695&z=17"
+  },
+  {
+    "id": "r6tkifx5e",
+    "name": "琴​弾​八幡宮​神幸​殿",
+    "image": "https://image.xinu.ink/pic/data/380/images/r6tkifx5e-1734847819317.jpg",
+    "ep": null,
+    "geo": [
+      34.1315,
+      133.6477
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.131517%2C133.647764&z=17"
+  },
+  {
+    "id": "r6v3kulnb",
+    "cn": "濑户大桥",
+    "name": "瀬戸大橋",
+    "image": "https://image.xinu.ink/pic/data/380/images/r6v3kulnb-1734851136927.jpg",
+    "ep": null,
+    "geo": [
+      34.359,
+      133.8273
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.359015%2C133.827377&z=17"
+  },
+  {
+    "id": "r6v56ftx2",
+    "name": "瀬戸大橋記念館右側",
+    "image": "https://image.xinu.ink/pic/data/380/images/r6v56ftx2-1734851207469.jpg",
+    "ep": null,
+    "geo": [
+      34.3526,
+      133.8261
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.352616%2C133.82611&z=17"
+  },
+  {
+    "id": "r6vahh5h4",
+    "name": "瀨戶大橋紀念館前",
+    "image": "https://image.xinu.ink/pic/data/380/images/r6vahh5h4-1734851616571.jpg",
+    "ep": null,
+    "geo": [
+      34.3522,
+      133.8262
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.3522%2C133.826226&z=17"
+  },
+  {
+    "id": "r6vhlf7ox",
+    "name": "眺望マリンドーム",
+    "image": "https://image.xinu.ink/pic/data/380/images/r6vhlf7ox-1734851951901.jpg",
+    "ep": null,
+    "geo": [
+      34.3529,
+      133.8263
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.352983%2C133.826347&z=17"
+  },
+  {
+    "id": "r6vlmxlzz",
+    "name": "マリンドーム內部",
+    "image": "https://image.xinu.ink/pic/data/380/images/r6vlmxlzz-1734852199534.jpg",
+    "ep": null,
+    "geo": [
+      34.3532,
+      133.8268
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.353272%2C133.82685&z=17"
+  },
+  {
+    "id": "r6vrpamib",
+    "name": "瀬戸​大橋​記念​公園",
+    "image": "https://image.xinu.ink/pic/data/380/images/r6vrpamib-1734852589174.jpg",
+    "ep": null,
+    "geo": [
+      34.3517,
+      133.8269
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.351723%2C133.826937&z=17"
+  },
+  {
+    "id": "r7se0fb2f",
+    "name": "丸龜站前巴士亭",
+    "image": "https://image.xinu.ink/pic/data/380/images/r7se0fb2f-1734923631107.jpg",
+    "ep": null,
+    "geo": [
+      34.292,
+      133.7937
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.292017%2C133.793733&z=17"
+  },
+  {
+    "id": "r7sgtxhgd",
+    "name": "丸亀城天守",
+    "image": "https://image.xinu.ink/pic/data/380/images/r7sgtxhgd-1734923766874.jpg",
+    "ep": null,
+    "geo": [
+      34.2861,
+      133.8003
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.286154%2C133.80039&z=17"
+  },
+  {
+    "id": "r7sis3ng7",
+    "name": "亀山公園",
+    "image": "https://image.xinu.ink/pic/data/380/images/r7sis3ng7-1734923994912.jpg",
+    "ep": null,
+    "geo": [
+      34.285,
+      133.8007
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.285097%2C133.800749&z=17"
+  },
+  {
+    "id": "r7slz62os",
+    "name": "丸亀城天守旁",
+    "image": "https://image.xinu.ink/pic/data/380/images/r7slz62os-1734924138600.jpg",
+    "ep": null,
+    "geo": [
+      34.2862,
+      133.8
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.286254%2C133.800085&z=17"
+  },
+  {
+    "id": "r7sodm99y",
+    "name": "丸龜城前",
+    "image": "https://image.xinu.ink/pic/data/380/images/r7sodm99y-1734924230839.jpg",
+    "ep": null,
+    "geo": [
+      34.2877,
+      133.7993
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.287746%2C133.799377&z=17"
+  },
+  {
+    "id": "r8uq7bj6d",
+    "name": "天空鳥居一覽觀音寺",
+    "image": "https://image.xinu.ink/pic/data/380/images/r8uq7bj6d-1735007054302.jpg",
+    "ep": null,
+    "geo": [
+      34.1604,
+      133.6549
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.16044%2C133.654969&z=17"
+  },
+  {
+    "id": "r8uurrdry",
+    "name": "拝み石",
+    "image": "https://image.xinu.ink/pic/data/380/images/r8uurrdry-1735007329784.jpg",
+    "ep": null,
+    "geo": [
+      34.132,
+      133.6498
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.132028%2C133.64981&z=17"
+  },
+  {
+    "id": "r8uxn2cpv",
+    "name": "病院",
+    "image": "https://image.xinu.ink/pic/data/380/images/r8uxn2cpv-1735007465171.jpg",
+    "ep": null,
+    "geo": [
+      34.125,
+      133.6553
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.125089%2C133.655376&z=17"
+  },
+  {
+    "id": "r8uz7o0v7",
+    "name": "手打うどんつるや店內",
+    "image": "https://image.xinu.ink/pic/data/380/images/r8uz7o0v7-1735007617238.jpg",
+    "ep": null,
+    "geo": [
+      34.127,
+      133.667
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=z_PK56cAHdAw.k0IM6LeJ7Lck&ll=34.127004%2C133.667094&z=17"
+  }
+]

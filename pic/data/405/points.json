@@ -1,0 +1,315 @@
+[
+  {
+    "id": "lpjz8mpb7",
+    "cn": "涩谷站前",
+    "name": "渋谷駅前",
+    "image": "https://image.xinu.ink/pic/data/405/images/lpjz8mpb7-1719389159147.jpg",
+    "ep": 1,
+    "s": 25,
+    "geo": [
+      35.6593,
+      139.7005
+    ],
+    "origin": "Anitabi@面白い",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lotnzxzag",
+    "cn": "一橋大學前",
+    "name": "一橋大學前",
+    "image": "https://image.xinu.ink/pic/data/405/images/lotnzxzag-1719331901481.jpg",
+    "ep": 1,
+    "s": 314,
+    "geo": [
+      35.695,
+      139.4467
+    ],
+    "origin": "Anitabi@面白い",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lotut1ybq",
+    "cn": "兼松講堂",
+    "name": "兼松講堂",
+    "image": "https://image.xinu.ink/pic/data/405/images/lotut1ybq-1719332351119.jpg",
+    "ep": 1,
+    "s": 508,
+    "geo": [
+      35.6946,
+      139.4453
+    ],
+    "origin": "Anitabi@面白い",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lpij5rjw5",
+    "cn": "国立站前邮局",
+    "name": "國立駅前郵便局",
+    "image": "https://image.xinu.ink/pic/data/405/images/lpij5rjw5-1719386051872.jpg",
+    "ep": 1,
+    "s": 719,
+    "geo": [
+      35.6967,
+      139.4463
+    ],
+    "origin": "Anitabi@面白い",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lpiafo5i3",
+    "cn": "一橋大学走廊",
+    "name": "一橋大学走廊",
+    "image": "https://image.xinu.ink/pic/data/405/images/lpiafo5i3-1719385566262.jpg",
+    "ep": 1,
+    "s": 1416,
+    "geo": [
+      35.6937,
+      139.4447
+    ],
+    "origin": "Anitabi@面白い",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lqy0gh3ma",
+    "cn": "爪木崎",
+    "name": "爪木崎",
+    "image": "https://image.xinu.ink/pic/data/405/images/lqy0gh3ma_1719498065298.jpg",
+    "ep": 2,
+    "s": 107,
+    "geo": [
+      34.6598,
+      138.9858
+    ],
+    "origin": "Anitabi@面白い",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lqoo9rjks",
+    "cn": "町田駅",
+    "name": "町田駅",
+    "image": "https://image.xinu.ink/pic/data/405/images/lqoo9rjks-1719477733901.jpg",
+    "ep": 2,
+    "s": 845,
+    "geo": [
+      35.5416,
+      139.4456
+    ],
+    "origin": "Anitabi@面白い",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lqo3xjkpf",
+    "cn": "莲台寺駅",
+    "name": "蓮台寺駅",
+    "image": "https://image.xinu.ink/pic/data/405/images/lqo3xjkpf-1719476615233.jpg",
+    "ep": 2,
+    "s": 882,
+    "geo": [
+      34.6996,
+      138.9408
+    ],
+    "origin": "Anitabi@面白い",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "825kkuubl",
+    "name": "皿倉山頂展望台",
+    "image": "https://image.xinu.ink/pic/data/405/images/825kkuubl-1711366148553.jpg",
+    "ep": 2,
+    "s": 1408,
+    "geo": [
+      33.8467,
+      130.7968
+    ],
+    "originLink": "https://www.bilibili.com/video/BV1Bs411m7Ka"
+  },
+  {
+    "id": "pikpm91oo",
+    "name": "スターダスト",
+    "image": "https://image.xinu.ink/pic/data/405/images/pikpm91oo-1730126724858.jpg",
+    "ep": 3,
+    "s": 592,
+    "geo": [
+      35.4724,
+      139.6412
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lqnqegawt",
+    "cn": "How-Low-Hello PV",
+    "name": "How-Low-Hello PV",
+    "image": "https://image.xinu.ink/pic/data/405/images/lqnqegawt-1719475859736.jpg",
+    "ep": 3,
+    "s": 1306,
+    "geo": [
+      35.6361,
+      139.773
+    ],
+    "origin": "Anitabi@面白い",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pik4vy6st",
+    "name": "取手駅",
+    "image": "https://image.xinu.ink/pic/data/405/images/pik4vy6st-1730125482239.jpg",
+    "ep": 7,
+    "s": 634,
+    "geo": [
+      35.8953,
+      140.0633
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pikd0t95a",
+    "name": "ローソン 取手駅東口バスターミナル店",
+    "image": "https://image.xinu.ink/pic/data/405/images/pikd0t95a-1730125889957.jpg",
+    "ep": 7,
+    "s": 638,
+    "geo": [
+      35.895,
+      140.063
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lqktrgq2t",
+    "cn": "爪木崎灯塔",
+    "name": "爪木崎灯台",
+    "image": "https://image.xinu.ink/pic/data/405/images/lqktrgq2t-1724968493565.jpg",
+    "ep": 8,
+    "s": 1273,
+    "geo": [
+      34.6588,
+      138.9868
+    ],
+    "origin": "Anitabi@面白い",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lpjk4yzg2",
+    "cn": "新木場駅",
+    "name": "新木場駅",
+    "image": "https://image.xinu.ink/pic/data/405/images/lpjk4yzg2-1719388313614.jpg",
+    "ep": 9,
+    "s": 114,
+    "geo": [
+      35.6456,
+      139.8262
+    ],
+    "origin": "Anitabi@面白い",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pikj1uym8",
+    "name": "蕎麦処 うずら家",
+    "image": "https://image.xinu.ink/pic/data/405/images/pikj1uym8-1730126248189.jpg",
+    "ep": 12,
+    "s": 616,
+    "geo": [
+      36.7415,
+      138.0853
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p43bt5wrk",
+    "cn": "成田国际机场 T1航站楼 展望台",
+    "name": "成田国際空港 第1ターミナル 展望デッキ",
+    "image": "https://image.xinu.ink/pic/data/405/images/p43bt5wrk-1728991866314.jpg",
+    "ep": 13,
+    "s": 2,
+    "geo": [
+      35.7643,
+      140.3831
+    ]
+  },
+  {
+    "id": "lylx91px6",
+    "cn": "新加坡樟宜国际机场 T2航站楼 入境大厅",
+    "name": "Singapore Changi Airport Terminal 2 Arrival Hall",
+    "image": "https://image.xinu.ink/pic/data/405/images/lylx91px6-1720098949429.jpg",
+    "ep": 13,
+    "s": 106,
+    "geo": [
+      1.3539,
+      103.9888
+    ]
+  },
+  {
+    "id": "phijspb5a",
+    "cn": "马尼拉步行街",
+    "name": "Quezon Boulevard",
+    "image": "https://image.xinu.ink/pic/data/405/images/phijspb5a-1730043592988.jpg",
+    "ep": 13,
+    "s": 147,
+    "geo": [
+      14.6006,
+      120.9844
+    ]
+  },
+  {
+    "id": "phinc4xq7",
+    "cn": "南非北部",
+    "name": "Northern Republic of South Africa",
+    "image": "https://image.xinu.ink/pic/data/405/images/phinc4xq7-1730043817437.jpg",
+    "ep": 13,
+    "s": 278,
+    "geo": [
+      -26.1394,
+      23.9116
+    ]
+  },
+  {
+    "id": "phir4aurp",
+    "cn": "契里斯饭馆",
+    "name": "Chili's",
+    "image": "https://image.xinu.ink/pic/data/405/images/phir4aurp-1730044072578.jpg",
+    "ep": 13,
+    "s": 322,
+    "geo": [
+      30.1731,
+      31.4761
+    ]
+  },
+  {
+    "id": "phiu4mpz5",
+    "cn": "阿富汗山区",
+    "name": "山区",
+    "image": "https://image.xinu.ink/pic/data/405/images/phiu4mpz5-1730044194935.jpg",
+    "ep": 13,
+    "s": 410,
+    "geo": [
+      35.9153,
+      69.388
+    ]
+  },
+  {
+    "id": "phiwkkn17",
+    "cn": "秘鲁",
+    "name": "Carretera Central",
+    "image": "https://image.xinu.ink/pic/data/405/images/phiwkkn17-1730044343958.jpg",
+    "ep": 13,
+    "s": 531,
+    "geo": [
+      -11.8345,
+      -76.3749
+    ]
+  },
+  {
+    "id": "idnrcu68e",
+    "name": "金盏南桥",
+    "image": "https://image.xinu.ink/pic/data/405/images/idnrcu68e-1709993746501.jpg",
+    "ep": 13,
+    "s": 1042,
+    "geo": [
+      39.9838,
+      116.5729
+    ]
+  }
+]

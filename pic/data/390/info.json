@@ -1,0 +1,64 @@
+{
+  "id": 115339,
+  "cn": "浦和小调",
+  "title": "浦和の調ちゃん",
+  "city": "埼玉市",
+  "cover": "https://image.xinu.ink/pic/data/390/images/115339.jpg",
+  "color": "#556aaa",
+  "cp": "浦和の調ちゃん",
+  "geo": [
+    35.8566685863497,
+    139.6549180976043
+  ],
+  "zoom": 14.659,
+  "modified": 1726224849230,
+  "litePoints": [
+    {
+      "id": "o1fcnz6fe",
+      "name": "浦和駅付近交差点",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/115339/points/o1fcnz6fe-1725961979829.jpg?plan=h160",
+      "ep": 1,
+      "s": 61,
+      "geo": [
+        35.8599,
+        139.6544
+      ]
+    },
+    {
+      "id": "o1ftmd8cf",
+      "name": "調神社の前",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/115339/points/o1ftmd8cf-1725962701955.jpg?plan=h160",
+      "ep": 1,
+      "s": 31,
+      "geo": [
+        35.8536,
+        139.655
+      ]
+    },
+    {
+      "id": "o1fvp68mm",
+      "name": "調神社の狛兎",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/115339/points/o1fvp68mm-1725962909996.jpg?plan=h160",
+      "ep": 1,
+      "s": 35,
+      "geo": [
+        35.8534,
+        139.6552
+      ]
+    },
+    {
+      "id": "o1g0k5gf2",
+      "name": "調神社の本殿",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/115339/points/o1g0k5gf2-1725963130921.jpg?plan=h160",
+      "ep": 1,
+      "s": 54,
+      "geo": [
+        35.8534,
+        139.6556
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 390
+}

@@ -1,0 +1,46 @@
+{
+  "id": 119889,
+  "cn": "我老婆是学生会长",
+  "title": "おくさまが生徒会長!",
+  "city": "钏路市",
+  "cover": "https://image.xinu.ink/pic/data/400/images/119889.jpg",
+  "color": "#962eff",
+  "geo": [
+    42.97896424862475,
+    144.3773612921574
+  ],
+  "zoom": 11.571,
+  "modified": 1742410358962,
+  "litePoints": [
+    {
+      "id": "51i53hvvl",
+      "name": "釧路仏舎利",
+      "image": "https://image.anitabi.cn/points/119889/51i53hvvl_1730614715350.jpg?plan=h160",
+      "geo": [
+        42.9837,
+        144.3982
+      ]
+    },
+    {
+      "id": "51i53hw4r",
+      "name": "幣舞橋",
+      "image": "https://image.anitabi.cn/points/119889/51i53hw4r_1730614764389.jpg?plan=h160",
+      "geo": [
+        42.9809,
+        144.3853
+      ]
+    },
+    {
+      "id": "51i53hvj0",
+      "name": "函館山展望台",
+      "image": "https://image.anitabi.cn/points/119889/51i53hvj0_1730614783361.jpg?plan=h160",
+      "geo": [
+        41.7594,
+        140.7047
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 400
+}

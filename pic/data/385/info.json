@@ -1,0 +1,129 @@
+{
+  "id": 110600,
+  "cn": "旋转少女",
+  "title": "ローリング☆ガールズ",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/385/images/110600.jpg",
+  "color": "#ff1414",
+  "geo": [
+    31.443224459940353,
+    135.81423897610614
+  ],
+  "zoom": 5.169,
+  "modified": 1722515224716,
+  "litePoints": [
+    {
+      "id": "imnd294ok",
+      "name": "八国山公園の西入口広場",
+      "image": "https://image.anitabi.cn/points/110600/imnd294ok_1710698105448.jpg?plan=h160",
+      "ep": 1,
+      "s": 79,
+      "geo": [
+        35.7674,
+        139.452
+      ]
+    },
+    {
+      "id": "imnd295jw",
+      "name": "埼玉県立所沢中央高等学校",
+      "image": "https://image.anitabi.cn/points/110600/imnd295jw_1710698106587.jpg?plan=h160",
+      "ep": 1,
+      "s": 218,
+      "geo": [
+        35.8116,
+        139.474
+      ]
+    },
+    {
+      "id": "imnd295rs",
+      "name": "まぼろし軒",
+      "image": "https://image.anitabi.cn/points/110600/imnd295rs_1710698107543.jpg?plan=h160",
+      "ep": 1,
+      "s": 1001,
+      "geo": [
+        35.7841,
+        139.467
+      ]
+    },
+    {
+      "id": "imnd295mm",
+      "name": "ファルマン通り交差点",
+      "image": "https://image.anitabi.cn/points/110600/imnd295mm_1710698108943.jpg?plan=h160",
+      "ep": 1,
+      "s": 368,
+      "geo": [
+        35.7908,
+        139.4699
+      ]
+    },
+    {
+      "id": "imnd2955q",
+      "name": "所沢ゆうえんち",
+      "image": "https://image.anitabi.cn/points/110600/imnd2955q_1710698110211.jpg?plan=h160",
+      "ep": 2,
+      "s": 1142,
+      "geo": [
+        35.7682,
+        139.4417
+      ]
+    },
+    {
+      "id": "imnd295jm",
+      "name": "所沢大統領府",
+      "image": "https://image.anitabi.cn/points/110600/imnd295jm_1710698111200.jpg?plan=h160",
+      "ep": 1,
+      "s": 861,
+      "geo": [
+        35.817,
+        139.355
+      ]
+    },
+    {
+      "id": "imnd295o8",
+      "name": "プロぺ通り（日吉町プロペラーズ本部）",
+      "image": "https://image.anitabi.cn/points/110600/imnd295o8_1710698112256.jpg?plan=h160",
+      "ep": 1,
+      "s": 948,
+      "geo": [
+        35.788,
+        139.472
+      ]
+    },
+    {
+      "id": "imnd29542",
+      "name": "所沢防衛大病院",
+      "image": "https://image.anitabi.cn/points/110600/imnd29542_1710698113175.jpg?plan=h160",
+      "ep": 2,
+      "s": 1175,
+      "geo": [
+        35.8103,
+        139.4277
+      ]
+    },
+    {
+      "id": "imnd295hd",
+      "name": "所沢航空記念公園",
+      "image": "https://image.anitabi.cn/points/110600/imnd295hd_1710698114635.jpg?plan=h160",
+      "ep": 2,
+      "s": 1459,
+      "geo": [
+        35.7979,
+        139.4737
+      ]
+    },
+    {
+      "id": "imnd295a6",
+      "name": "国道463号線",
+      "image": "https://image.anitabi.cn/points/110600/imnd295a6_1710698115947.jpg?plan=h160",
+      "ep": 3,
+      "s": 347,
+      "geo": [
+        35.7954,
+        139.4743
+      ]
+    }
+  ],
+  "pointsLength": 48,
+  "imagesLength": 46,
+  "local_id": 385
+}

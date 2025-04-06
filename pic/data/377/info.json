@@ -1,0 +1,129 @@
+{
+  "id": 106818,
+  "cn": "暗杀教室",
+  "title": "暗殺教室",
+  "city": "八王子市",
+  "cover": "https://image.xinu.ink/pic/data/377/images/106818.jpg",
+  "color": "#e6c700",
+  "geo": [
+    35.683223999995434,
+    139.29399400001444
+  ],
+  "zoom": 12.036,
+  "modified": 1736749486867,
+  "litePoints": [
+    {
+      "id": "51i52agkb",
+      "name": "八王子駅南口",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/106818/points/51i52agkb-1726149354039.jpg?plan=h160",
+      "ep": 3,
+      "s": 647,
+      "geo": [
+        35.6543,
+        139.3384
+      ]
+    },
+    {
+      "id": "51i52agbt",
+      "name": "東京駅",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/106818/points/51i52agbt-1726147677250.jpg?plan=h160",
+      "ep": 7,
+      "s": 298,
+      "geo": [
+        35.6811,
+        139.7674
+      ]
+    },
+    {
+      "id": "51i52aghe",
+      "name": "京都駅",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/106818/points/51i52aghe-1726147751682.jpg?plan=h160",
+      "ep": 7,
+      "s": 480,
+      "geo": [
+        34.9854,
+        135.7578
+      ]
+    },
+    {
+      "id": "51i52ah4n",
+      "name": "旅館三賀",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/106818/points/51i52ah4n-1726147774992.jpg?plan=h160",
+      "ep": 7,
+      "s": 482,
+      "geo": [
+        35.0082,
+        135.7649
+      ]
+    },
+    {
+      "id": "51i52ah1f",
+      "name": "四条大橋",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/106818/points/51i52ah1f-1726147798028.jpg?plan=h160",
+      "ep": 7,
+      "s": 573,
+      "geo": [
+        35.0039,
+        135.7714
+      ]
+    },
+    {
+      "id": "51i52ahj4",
+      "name": "祇園 小袖小路",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/106818/points/51i52ahj4-1726147978132.jpg?plan=h160",
+      "ep": 7,
+      "s": 657,
+      "geo": [
+        35.0024,
+        135.775
+      ]
+    },
+    {
+      "id": "51i52ahme",
+      "name": "竜馬坂",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/106818/points/51i52ahme-1726147997828.jpg?plan=h160",
+      "ep": 7,
+      "s": 1272,
+      "geo": [
+        34.9987,
+        135.7819
+      ]
+    },
+    {
+      "id": "51i52ah14",
+      "name": "保津川橋梁",
+      "image": "https://image.anitabi.cn/user/0/bangumi/106818/points/51i52ah14-1722153259755.jpg?plan=h160",
+      "ep": 8,
+      "s": 186,
+      "geo": [
+        35.027,
+        135.6532
+      ]
+    },
+    {
+      "id": "51i52ahhy",
+      "name": "三年坂",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/106818/points/51i52ahhy-1726149169382.jpg?plan=h160",
+      "ep": 8,
+      "s": 346,
+      "geo": [
+        34.9962,
+        135.7808
+      ]
+    },
+    {
+      "id": "o293mc019",
+      "name": "八王子市川口町，楢原町など",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/106818/points/o293mc019-1726026507688.jpg?plan=h160",
+      "ep": 1,
+      "s": 1104,
+      "geo": [
+        35.6832,
+        139.2939
+      ]
+    }
+  ],
+  "pointsLength": 31,
+  "imagesLength": 30,
+  "local_id": 377
+}

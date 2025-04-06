@@ -1,0 +1,115 @@
+{
+  "id": 117777,
+  "cn": "声之形",
+  "title": "映画 聲の形",
+  "city": "大垣市",
+  "cover": "https://image.xinu.ink/pic/data/397/images/117777.jpg",
+  "color": "#63cdf1",
+  "cp": "映画聲の形",
+  "geo": [
+    35.35057828907287,
+    136.64762462990257
+  ],
+  "zoom": 10.391,
+  "modified": 1740672168799,
+  "litePoints": [
+    {
+      "id": "5c3zjlepj",
+      "name": "硝子の通う福祉会館",
+      "image": "https://image.anitabi.cn/points/117777/5c3zjlepj_1677317119552.jpg?plan=h160",
+      "geo": [
+        35.3574,
+        136.6122
+      ]
+    },
+    {
+      "id": "5c3zjlfvp",
+      "name": "キービジュアル",
+      "image": "https://image.anitabi.cn/points/117777/5c3zjlfvp_1673197983447.jpg?plan=h160",
+      "geo": [
+        35.3577,
+        136.6118
+      ]
+    },
+    {
+      "id": "6soet8o7o",
+      "name": "美登鯉橋",
+      "image": "https://image.anitabi.cn/points/117777/6soet8o7o_1677317263773.jpg?plan=h160",
+      "geo": [
+        35.3577,
+        136.6118
+      ]
+    },
+    {
+      "id": "5c3zjlfpy",
+      "name": "結絃公園",
+      "image": "https://image.anitabi.cn/points/117777/5c3zjlfpy_1673197984689.jpg?plan=h160",
+      "s": 2753,
+      "geo": [
+        35.3608,
+        136.615
+      ]
+    },
+    {
+      "id": "5c3zjlfsm",
+      "name": "硝子告白",
+      "image": "https://image.anitabi.cn/points/117777/5c3zjlfsm_1673197985783.jpg?plan=h160",
+      "s": 4011,
+      "geo": [
+        35.3634,
+        136.617
+      ]
+    },
+    {
+      "id": "5c3zjlg25",
+      "name": "上野と合う",
+      "image": "https://image.anitabi.cn/points/117777/5c3zjlg25_1673197986727.jpg?plan=h160",
+      "s": 3786,
+      "geo": [
+        35.362,
+        136.6172
+      ]
+    },
+    {
+      "id": "5c3zjlg3a",
+      "name": "改札",
+      "image": "https://image.anitabi.cn/points/117777/5c3zjlg3a_1673197987647.jpg?plan=h160",
+      "s": 3315,
+      "geo": [
+        35.3668,
+        136.6175
+      ]
+    },
+    {
+      "id": "5c3zjlfq3",
+      "name": "将也自殺",
+      "image": "https://image.anitabi.cn/points/117777/5c3zjlfq3_1673197989377.jpg?plan=h160",
+      "s": 101,
+      "geo": [
+        35.3609,
+        136.6579
+      ]
+    },
+    {
+      "id": "5c3zjlfbu",
+      "name": "滝のトンネル",
+      "image": "https://image.anitabi.cn/user/1006/bangumi/117777/points/5c3zjlfbu-1677317019106.jpg?plan=h160",
+      "geo": [
+        35.3576,
+        136.6123
+      ]
+    },
+    {
+      "id": "5c3zjlenj",
+      "name": "虹の橋 ハーピアン",
+      "image": "https://image.anitabi.cn/points/117777/5c3zjlenj_1677317254925.jpg?plan=h160",
+      "geo": [
+        35.3576,
+        136.6126
+      ]
+    }
+  ],
+  "pointsLength": 59,
+  "imagesLength": 27,
+  "local_id": 397
+}

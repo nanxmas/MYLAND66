@@ -1,0 +1,50 @@
+[
+  {
+    "id": "mtnss7wkb",
+    "cn": "文佐食堂（海猫食堂）",
+    "name": "文佐食堂",
+    "image": "https://image.xinu.ink/pic/data/373/images/mtnss7wkb_1725133061393.jpg",
+    "geo": [
+      35.2999,
+      139.4819
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mtnuks21k",
+    "cn": "腰越渔港",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/373/images/mtnuks21k_1722532163561.jpg",
+    "geo": [
+      35.3054,
+      139.4924
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mtnx5ji7d",
+    "cn": "七里滨站南侧道路",
+    "name": 2,
+    "image": "https://image.xinu.ink/pic/data/373/images/mtnx5ji7d_1722532299764.jpg",
+    "geo": [
+      35.3057,
+      139.5106
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mtnxy46bu",
+    "cn": "七里滨站南侧沙滩（仅出现于剧照）",
+    "name": 2,
+    "image": "https://image.xinu.ink/pic/data/373/images/mtnxy46bu_1722532383603.jpg",
+    "geo": [
+      35.3051,
+      139.5103
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  }
+]

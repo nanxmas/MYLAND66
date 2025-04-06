@@ -1,0 +1,113 @@
+{
+  "id": 109378,
+  "cn": "命运-冠位指定",
+  "title": "Fate/Grand Order",
+  "cover": "https://image.xinu.ink/pic/data/382/images/109378.jpg",
+  "color": "#e3aa71",
+  "geo": [
+    37.29880009055182,
+    136.99717762765118
+  ],
+  "zoom": 5.303,
+  "modified": 1742409290465,
+  "litePoints": [
+    {
+      "id": "o3teh8i7i",
+      "cn": "索尔兹伯里大教堂",
+      "name": "Salisbury Cathedral",
+      "image": "https://image.anitabi.cn/user/0/bangumi/109378/points/o3teh8i7i-1726149037059.jpg?plan=h160",
+      "geo": [
+        51.0649,
+        -1.7973
+      ]
+    },
+    {
+      "id": "o3tk1gy26",
+      "cn": "索尔兹伯里教堂大回廊",
+      "name": "The Cloisters",
+      "image": "https://image.anitabi.cn/user/0/bangumi/109378/points/o3tk1gy26-1726149319744.jpg?plan=h160",
+      "geo": [
+        51.0644,
+        -1.7979
+      ]
+    },
+    {
+      "id": "tczpha8f1",
+      "name": "Kalākaua Ave",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/109378/points/tczpha8f1-1740973542760.jpg?plan=h160",
+      "geo": [
+        21.2765,
+        -157.8261
+      ]
+    },
+    {
+      "id": "sbh176wfl",
+      "cn": "姬路城",
+      "name": "姬路城",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/109378/points/sbh176wfl-1738033433423.jpg?plan=h160",
+      "geo": [
+        34.8394,
+        134.6939
+      ]
+    },
+    {
+      "id": "sbhsofqhk",
+      "name": "浅草寺",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/109378/points/sbhsofqhk-1738035112854.jpg?plan=h160",
+      "geo": [
+        35.7147,
+        139.7966
+      ]
+    },
+    {
+      "id": "td126so0d",
+      "name": "立山有料道路",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/109378/points/td126so0d-1740976470908.jpg?plan=h160",
+      "geo": [
+        36.5769,
+        137.5905
+      ]
+    },
+    {
+      "id": "td1aernqe",
+      "cn": "白米千枚田",
+      "name": "白米千枚田",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/109378/points/td1aernqe-1740976976275.jpg?plan=h160",
+      "geo": [
+        37.4258,
+        136.9997
+      ]
+    },
+    {
+      "id": "td1da209f",
+      "cn": "东寻坊",
+      "name": "東尋坊",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/109378/points/td1da209f-1740977147859.jpg?plan=h160",
+      "geo": [
+        36.2376,
+        136.1255
+      ]
+    },
+    {
+      "id": "td1lzm99u",
+      "name": "富田農場",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/109378/points/td1lzm99u-1740977673738.jpg?plan=h160",
+      "geo": [
+        43.4182,
+        142.4258
+      ]
+    },
+    {
+      "id": "td1q32jtf",
+      "name": " 十和田湖",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/109378/points/td1q32jtf-1740977930020.jpg?plan=h160",
+      "geo": [
+        40.4656,
+        140.8794
+      ]
+    }
+  ],
+  "pointsLength": 53,
+  "imagesLength": 53,
+  "local_id": 382
+}

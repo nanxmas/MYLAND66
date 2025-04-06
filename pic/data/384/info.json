@@ -1,0 +1,130 @@
+{
+  "id": 110568,
+  "cn": "灵感少女！",
+  "title": "レーカン！",
+  "city": "草加市",
+  "cover": "https://image.xinu.ink/pic/data/384/images/110568.jpg",
+  "color": "#802a40",
+  "cp": "レーカン！",
+  "geo": [
+    35.805497999998906,
+    139.7963360000026
+  ],
+  "zoom": 12.127,
+  "modified": 1729650394045,
+  "litePoints": [
+    {
+      "id": "ad3df94f",
+      "name": "⑮歩道",
+      "image": "https://image.anitabi.cn/points/110568/ad3df94f_1729650139113.jpg?plan=h160",
+      "ep": 11,
+      "s": 126,
+      "geo": [
+        35.8429,
+        139.7985
+      ]
+    },
+    {
+      "id": "5d71b0da",
+      "name": "⑭市立図書館",
+      "image": "https://image.anitabi.cn/points/110568/5d71b0da_1729650103919.jpg?plan=h160",
+      "ep": 3,
+      "s": 775,
+      "geo": [
+        35.8427,
+        139.7998
+      ]
+    },
+    {
+      "id": "b8b4c964",
+      "name": "⑬松原団地西口公園",
+      "image": "https://image.anitabi.cn/points/110568/b8b4c964_1729650049092.jpg?plan=h160",
+      "ep": 6,
+      "s": 558,
+      "geo": [
+        35.8424,
+        139.7985
+      ]
+    },
+    {
+      "id": "46035e74",
+      "name": "⑫稲荷神社",
+      "image": "https://image.anitabi.cn/points/110568/46035e74_1729649947905.jpg?plan=h160",
+      "ep": 3,
+      "s": 60,
+      "geo": [
+        35.8433,
+        139.7972
+      ]
+    },
+    {
+      "id": "50094933",
+      "name": "⑪高架下公園",
+      "image": "https://image.anitabi.cn/points/110568/50094933_1729649872773.jpg?plan=h160",
+      "ep": 2,
+      "s": 798,
+      "geo": [
+        35.8481,
+        139.7983
+      ]
+    },
+    {
+      "id": "e5d544d9",
+      "name": "⑩札場河岸公園北部",
+      "image": "https://image.anitabi.cn/points/110568/e5d544d9_1729649847017.jpg?plan=h160",
+      "ep": 1,
+      "s": 61,
+      "geo": [
+        35.8488,
+        139.8025
+      ]
+    },
+    {
+      "id": "b3ccec55",
+      "name": "⑧はーぷ橋",
+      "image": "https://image.anitabi.cn/points/110568/b3ccec55_1729649777872.jpg?plan=h160",
+      "ep": 1,
+      "s": 82,
+      "geo": [
+        35.841,
+        139.8054
+      ]
+    },
+    {
+      "id": "3e775861",
+      "name": "⑦矢立橋",
+      "image": "https://image.anitabi.cn/points/110568/3e775861_1729649744328.jpg?plan=h160",
+      "ep": 1,
+      "s": 71,
+      "geo": [
+        35.8374,
+        139.8065
+      ]
+    },
+    {
+      "id": "8ba3850a",
+      "name": "⑥松尾芭蕉像",
+      "image": "https://image.anitabi.cn/points/110568/8ba3850a_1729649693779.jpg?plan=h160",
+      "ep": 1,
+      "s": 95,
+      "geo": [
+        35.8367,
+        139.8068
+      ]
+    },
+    {
+      "id": "93e7d529",
+      "name": "③休憩所",
+      "image": "https://image.anitabi.cn/points/110568/93e7d529_1729649592482.jpg?plan=h160",
+      "ep": 5,
+      "s": 334,
+      "geo": [
+        35.8328,
+        139.8065
+      ]
+    }
+  ],
+  "pointsLength": 17,
+  "imagesLength": 17,
+  "local_id": 384
+}

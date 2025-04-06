@@ -1,0 +1,102 @@
+{
+  "id": 94040,
+  "cn": "无彩限的怪灵世界",
+  "title": "無彩限のファントム・ワールド",
+  "city": "镰仓市",
+  "cover": "https://image.xinu.ink/pic/data/357/images/94040.jpg",
+  "color": "#80bfd4",
+  "cp": "ワールド",
+  "geo": [
+    35.311693,
+    139.500232
+  ],
+  "zoom": 14,
+  "modified": 1716595454034,
+  "litePoints": [
+    {
+      "id": "imka2go4o",
+      "cn": "京都府庁",
+      "name": "京都府庁",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/94040/points/imka2go4o-1711817734168.jpg?plan=h160",
+      "geo": [
+        35.0199,
+        135.7556
+      ]
+    },
+    {
+      "id": "kpwkqh3vo",
+      "name": "【PV編】極楽寺駅付近",
+      "geo": [
+        35.3095,
+        139.5292
+      ]
+    },
+    {
+      "id": "kpwkqh3ti",
+      "name": "【PV編】キービジュアル背景",
+      "geo": [
+        35.319,
+        139.5048
+      ]
+    },
+    {
+      "id": "kpwkqh3n3",
+      "name": "【PV編】江ノ島駅付近",
+      "geo": [
+        35.3113,
+        139.4872
+      ]
+    },
+    {
+      "id": "kpwkqh39d",
+      "name": "【PV編】片瀬東浜海水浴場",
+      "geo": [
+        35.3065,
+        139.4843
+      ]
+    },
+    {
+      "id": "kpwkqh3ev",
+      "name": "【PV編】長谷駅付近",
+      "geo": [
+        35.31,
+        139.5352
+      ]
+    },
+    {
+      "id": "kpwkqh3j9",
+      "name": "OPカット(船)、OP(水無瀬カット）",
+      "geo": [
+        35.3095,
+        139.536
+      ]
+    },
+    {
+      "id": "kpwkqh3i3",
+      "name": "OP（ルルが手押し相撲）",
+      "geo": [
+        35.319,
+        139.5045
+      ]
+    },
+    {
+      "id": "kpwkqh3ou",
+      "name": "龍口寺",
+      "geo": [
+        35.3117,
+        139.4893
+      ]
+    },
+    {
+      "id": "kpwkqh3jt",
+      "name": "OP（川神舞）",
+      "geo": [
+        35.3066,
+        139.4844
+      ]
+    }
+  ],
+  "pointsLength": 17,
+  "imagesLength": 1,
+  "local_id": 357
+}

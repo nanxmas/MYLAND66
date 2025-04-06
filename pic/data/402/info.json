@@ -1,0 +1,129 @@
+{
+  "id": 120187,
+  "cn": "干物妹！小埋",
+  "title": "干物妹! うまるちゃん",
+  "city": "八王子市",
+  "cover": "https://image.xinu.ink/pic/data/402/images/120187.jpg",
+  "color": "#f18763",
+  "geo": [
+    35.385141152323285,
+    139.50567699794317
+  ],
+  "zoom": 8.26,
+  "modified": 1735204410138,
+  "litePoints": [
+    {
+      "id": "5e9f8fglu",
+      "name": "ヨドバシカメラ八王子店",
+      "image": "https://image.anitabi.cn/points/120187/5e9f8fglu_1673366440493.jpg?plan=h160",
+      "ep": 2,
+      "s": 515,
+      "geo": [
+        35.6578,
+        139.3394
+      ]
+    },
+    {
+      "id": "5e9f8fgt8",
+      "name": "JR八王子駅北口商店街",
+      "image": "https://image.anitabi.cn/points/120187/5e9f8fgt8_1673366444292.jpg?plan=h160",
+      "ep": 2,
+      "s": 575,
+      "geo": [
+        35.6573,
+        139.3383
+      ]
+    },
+    {
+      "id": "5e9f8fgrh",
+      "name": "アミューズメントスペース パーラライオン八王子店",
+      "image": "https://image.anitabi.cn/points/120187/5e9f8fgrh_1673366500200.jpg?plan=h160",
+      "ep": 2,
+      "s": 622,
+      "geo": [
+        35.6584,
+        139.3378
+      ]
+    },
+    {
+      "id": "5e9f8fgb3",
+      "name": "JR八王子駅 ４番ホーム",
+      "image": "https://image.anitabi.cn/points/120187/5e9f8fgb3_1673366516864.jpg?plan=h160",
+      "ep": 2,
+      "s": 783,
+      "geo": [
+        35.6557,
+        139.3383
+      ]
+    },
+    {
+      "id": "5e9f8fg74",
+      "name": "JR八王子駅 北口",
+      "image": "https://image.anitabi.cn/points/120187/5e9f8fg74_1673366510671.jpg?plan=h160",
+      "ep": 2,
+      "s": 1150,
+      "geo": [
+        35.6559,
+        139.3389
+      ]
+    },
+    {
+      "id": "5e9f8fgel",
+      "name": "JR新宿駅中央通路",
+      "image": "https://image.anitabi.cn/points/120187/5e9f8fgel_1673366456336.jpg?plan=h160",
+      "ep": 2,
+      "s": 1191,
+      "geo": [
+        35.6902,
+        139.7004
+      ]
+    },
+    {
+      "id": "d5a48ivz7",
+      "name": "品川駅新幹線乗り場北口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/120187/points/d5a48ivz7-1695231663421.jpg?plan=h160",
+      "ep": 5,
+      "s": 255,
+      "geo": [
+        35.6298,
+        139.7399
+      ]
+    },
+    {
+      "id": "5e9f8fgcx",
+      "name": "多賀神社",
+      "image": "https://image.anitabi.cn/points/120187/5e9f8fgcx_1673366524801.jpg?plan=h160",
+      "ep": 8,
+      "s": 935,
+      "geo": [
+        35.6637,
+        139.3136
+      ]
+    },
+    {
+      "id": "5e9f8fgeg",
+      "name": "江ノ島弁天橋",
+      "image": "https://image.anitabi.cn/points/120187/5e9f8fgeg_1673366562199.jpg?plan=h160",
+      "ep": 12,
+      "s": 710,
+      "geo": [
+        35.304,
+        139.482
+      ]
+    },
+    {
+      "id": "5e9f8fgb8",
+      "name": "江の島展望灯台",
+      "image": "https://image.anitabi.cn/points/120187/5e9f8fgb8_1673366627397.jpg?plan=h160",
+      "ep": 12,
+      "s": 738,
+      "geo": [
+        35.2996,
+        139.4786
+      ]
+    }
+  ],
+  "pointsLength": 29,
+  "imagesLength": 29,
+  "local_id": 402
+}

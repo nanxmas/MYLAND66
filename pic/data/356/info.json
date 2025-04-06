@@ -1,0 +1,132 @@
+{
+  "id": 93739,
+  "cn": "乒乓",
+  "title": "ピンポン THE ANIMATION",
+  "city": "镰仓市",
+  "cover": "https://image.xinu.ink/pic/data/356/images/93739.jpg",
+  "color": "#4aea15",
+  "cp": "アニメピンポン",
+  "geo": [
+    35.50118003535381,
+    139.63724103451483
+  ],
+  "zoom": 8.813,
+  "modified": 1741197167079,
+  "litePoints": [
+    {
+      "id": "4yc0q0euu",
+      "name": "板橋站 (日本)",
+      "image": "https://image.anitabi.cn/points/93739/4yc0q0euu.jpg?plan=h160",
+      "ep": 7,
+      "s": 571,
+      "geo": [
+        35.7455,
+        139.7193
+      ]
+    },
+    {
+      "id": "391f1pis",
+      "name": "藤沢市秋葉台文化体育館",
+      "image": "https://image.anitabi.cn/points/93739/391f1pis.jpg?plan=h160",
+      "ep": 9,
+      "s": 78,
+      "geo": [
+        35.3884,
+        139.4444
+      ]
+    },
+    {
+      "id": "391f1qbx",
+      "name": "高田馬場駅前",
+      "image": "https://image.anitabi.cn/points/93739/391f1qbx.jpg?plan=h160",
+      "ep": 1,
+      "s": 629,
+      "geo": [
+        35.7136,
+        139.7043
+      ]
+    },
+    {
+      "id": "4ybnrmb0b",
+      "cn": "江之岛​大桥",
+      "name": "江ノ島\n大橋",
+      "image": "https://image.anitabi.cn/points/93739/4ybnrmb0b.jpg?plan=h160",
+      "ep": 1,
+      "s": 1290,
+      "geo": [
+        35.3039,
+        139.482
+      ]
+    },
+    {
+      "id": "n1044k4w3",
+      "name": "南京路步行街",
+      "image": "https://image.anitabi.cn/points/93739/n1044k4w3_1723107397757.jpg?plan=h160",
+      "ep": 1,
+      "s": 1151,
+      "geo": [
+        31.2377,
+        121.4758
+      ]
+    },
+    {
+      "id": "n10h9efo3",
+      "name": "上海新世界城",
+      "image": "https://image.anitabi.cn/points/93739/n10h9efo3_1723108235228.jpg?plan=h160",
+      "ep": 1,
+      "s": 1177,
+      "geo": [
+        31.2379,
+        121.4693
+      ]
+    },
+    {
+      "id": "4ybndy2ht",
+      "cn": "东滨海滨浴场",
+      "name": "東浜海水浴場",
+      "image": "https://image.anitabi.cn/points/93739/4ybndy2ht.jpg?plan=h160",
+      "ep": 2,
+      "s": 545,
+      "geo": [
+        35.3076,
+        139.4872
+      ]
+    },
+    {
+      "id": "4ybtk51pd",
+      "name": "むすびの樹",
+      "image": "https://image.anitabi.cn/points/93739/4ybtk51pd.jpg?plan=h160",
+      "ep": 2,
+      "s": 561,
+      "geo": [
+        35.3001,
+        139.4801
+      ]
+    },
+    {
+      "id": "4ybu5ypkn",
+      "name": "江島神社",
+      "image": "https://image.anitabi.cn/points/93739/4ybu5ypkn.jpg?plan=h160",
+      "ep": 2,
+      "s": 568,
+      "geo": [
+        35.3004,
+        139.4796
+      ]
+    },
+    {
+      "id": "4ybz00dos",
+      "name": "稚儿渊",
+      "image": "https://image.anitabi.cn/points/93739/4ybz00dos.jpg?plan=h160",
+      "ep": 2,
+      "s": 572,
+      "geo": [
+        35.2988,
+        139.4745
+      ]
+    }
+  ],
+  "pointsLength": 51,
+  "imagesLength": 42,
+  "local_id": 356
+}

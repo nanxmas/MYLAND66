@@ -1,0 +1,27 @@
+{
+  "id": 100405,
+  "cn": "HELLO!! 黄金拼图",
+  "title": "ハロー!!きんいろモザイク",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/368/images/100405.jpg",
+  "color": "#395571",
+  "cp": "ハロー！！きんいろモザイク",
+  "modified": 1740044661365,
+  "litePoints": [
+    {
+      "id": "t0y182p5j",
+      "cn": "Lalaport Tokyo-bay",
+      "name": "Lalaport Tokyo-bay",
+      "image": "https://image.anitabi.cn/user/0/bangumi/57978/points/t0y182p5j-1740029565091.jpg?plan=h160",
+      "ep": 5,
+      "s": 5,
+      "geo": [
+        35.6864,
+        139.9901
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 368
+}

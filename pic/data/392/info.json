@@ -1,0 +1,121 @@
+{
+  "id": 115732,
+  "cn": "花与爱丽丝杀人事件",
+  "title": "花とアリス 殺人事件",
+  "city": "目黑区",
+  "cover": "https://image.xinu.ink/pic/data/392/images/115732.jpg",
+  "color": "#ed7f68",
+  "geo": [
+    35.7873131417786,
+    139.61620794815406
+  ],
+  "zoom": 8.114,
+  "modified": 1738340343926,
+  "litePoints": [
+    {
+      "id": "5ef29a47",
+      "name": "佐野市立南中学校",
+      "image": "https://image.anitabi.cn/points/115732/5ef29a47_1716732383138.jpg?plan=h160",
+      "s": 199,
+      "geo": [
+        36.2997,
+        139.5821
+      ]
+    },
+    {
+      "id": "4d6f6853",
+      "name": "古書コンコ堂",
+      "image": "https://image.anitabi.cn/points/115732/95f1e70e_1716731953175.jpg?plan=h160",
+      "s": 675,
+      "geo": [
+        35.7077,
+        139.6348
+      ]
+    },
+    {
+      "id": "95f1e70e",
+      "name": "弘明寺かんのん通り商店街",
+      "image": "https://image.anitabi.cn/points/115732/95f1e70e_1716731963266.jpg?plan=h160",
+      "s": 701,
+      "geo": [
+        35.4238,
+        139.5984
+      ]
+    },
+    {
+      "id": "krn3rtq3c",
+      "name": "小牧バレエ学園（洗足会館）",
+      "image": "https://image.anitabi.cn/points/115732/krn3rtq3c_1716731579833.jpg?plan=h160",
+      "s": 738,
+      "geo": [
+        35.6117,
+        139.6959
+      ]
+    },
+    {
+      "id": "d251bc9e",
+      "cn": "小田急线旁边的坡道",
+      "name": "小田急線沿いの道路",
+      "image": "https://image.anitabi.cn/points/115732/47bc5d5c_1716733013330.jpg?plan=h160",
+      "s": 1309,
+      "geo": [
+        35.6008,
+        139.5034
+      ]
+    },
+    {
+      "id": "c8160f4e",
+      "name": "アドリーム新百合ヶ丘",
+      "image": "https://image.anitabi.cn/points/115732/c8160f4e_1716733045900.jpg?plan=h160",
+      "s": 1343,
+      "geo": [
+        35.601,
+        139.5034
+      ]
+    },
+    {
+      "id": "be8fadf2",
+      "cn": "小田急线旁边的草地",
+      "name": "小田急線脇",
+      "image": "https://image.anitabi.cn/points/115732/be8fadf2_1716733056139.jpg?plan=h160",
+      "s": 1346,
+      "geo": [
+        35.6008,
+        139.5036
+      ]
+    },
+    {
+      "id": "8b6b3e53",
+      "name": "鶴岡八幡宮 舞殿",
+      "image": "https://image.anitabi.cn/points/115732/8b6b3e53_1716731633514.jpg?plan=h160",
+      "s": 1685,
+      "geo": [
+        35.3252,
+        139.556
+      ]
+    },
+    {
+      "id": "cb095bb9",
+      "name": "鶴岡八幡宮 橋",
+      "image": "https://image.anitabi.cn/points/115732/cb095bb9_1716731974094.jpg?plan=h160",
+      "s": 1699,
+      "geo": [
+        35.324,
+        139.5556
+      ]
+    },
+    {
+      "id": "90e27fc2",
+      "name": "鶴岡八幡宮前",
+      "image": "https://image.anitabi.cn/points/115732/90e27fc2_1716731638098.jpg?plan=h160",
+      "s": 1742,
+      "geo": [
+        35.3236,
+        139.5549
+      ]
+    }
+  ],
+  "pointsLength": 52,
+  "imagesLength": 52,
+  "local_id": 392
+}

@@ -1,0 +1,125 @@
+{
+  "id": 99748,
+  "cn": "美妙天堂",
+  "title": "プリパラ",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/365/images/99748.jpg",
+  "color": "#dfbfea",
+  "cp": "PP",
+  "geo": [
+    35.72769426126192,
+    139.53926108355904
+  ],
+  "zoom": 15.901,
+  "modified": 1725851448647,
+  "litePoints": [
+    {
+      "id": "ko2idskh0",
+      "name": "田無駅",
+      "image": "https://image.anitabi.cn/points/99748/ko2idskh0_1716452396491.jpg?plan=h160",
+      "ep": 32,
+      "s": 442,
+      "geo": [
+        35.7276,
+        139.5392
+      ]
+    },
+    {
+      "id": "ko2qzfbq1",
+      "name": "アスタビル",
+      "image": "https://image.anitabi.cn/points/99748/ko2qzfbq1_1716452397004.jpg?plan=h160",
+      "ep": 78,
+      "s": 72,
+      "geo": [
+        35.7284,
+        139.5401
+      ]
+    },
+    {
+      "id": "ko2omcmsu",
+      "name": "米沢駅",
+      "image": "https://image.anitabi.cn/points/99748/ko2omcmsu_1716452397485.jpg?plan=h160",
+      "ep": 97,
+      "s": 523,
+      "geo": [
+        37.9095,
+        140.128
+      ]
+    },
+    {
+      "id": "kvo8vlg25",
+      "name": "立石寺納経堂",
+      "image": "https://image.anitabi.cn/points/99748/kvo8vlg25_1717047633776.jpg?plan=h160",
+      "ep": 97,
+      "s": 562,
+      "geo": [
+        38.3136,
+        140.4348
+      ]
+    },
+    {
+      "id": "kvoaj6okw",
+      "name": "蔵王御釜",
+      "image": "https://image.anitabi.cn/points/99748/kvoaj6okw_1717047634261.jpg?plan=h160",
+      "ep": 97,
+      "s": 564,
+      "geo": [
+        38.1363,
+        140.4494
+      ]
+    },
+    {
+      "id": "kvnzh8jh5",
+      "name": "海遊館",
+      "image": "https://image.anitabi.cn/points/99748/kvnzh8jh5_1717047034249.jpg?plan=h160",
+      "s": 732,
+      "geo": [
+        34.6545,
+        135.4289
+      ]
+    },
+    {
+      "id": "kvol3ryvz",
+      "name": "祖師谷​区民​集会​所",
+      "image": "https://image.anitabi.cn/points/99748/kvol3ryvz_1717048261358.jpg?plan=h160",
+      "s": 410,
+      "geo": [
+        35.6469,
+        139.6081
+      ]
+    },
+    {
+      "id": "kvos8lwcb",
+      "name": "祖師ヶ谷大蔵駅",
+      "image": "https://image.anitabi.cn/points/99748/kvos8lwcb_1717048942574.jpg?plan=h160",
+      "s": 887,
+      "geo": [
+        35.6433,
+        139.6093
+      ]
+    },
+    {
+      "id": "kvp5g2gix",
+      "name": "青い池",
+      "image": "https://image.anitabi.cn/points/99748/kvp5g2gix_1725851442770.jpg?plan=h160",
+      "s": 449,
+      "geo": [
+        43.4933,
+        142.6138
+      ]
+    },
+    {
+      "id": "kvogn8ryi",
+      "name": "地獄谷",
+      "image": "https://image.anitabi.cn/points/99748/kvogn8ryi_1717048260609.jpg?plan=h160",
+      "s": 323,
+      "geo": [
+        36.584,
+        137.5948
+      ]
+    }
+  ],
+  "pointsLength": 10,
+  "imagesLength": 10,
+  "local_id": 365
+}

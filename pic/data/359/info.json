@@ -1,0 +1,118 @@
+{
+  "id": 95225,
+  "cn": "命运守护夜 无限剑制",
+  "title": "Fate/stay night [Unlimited Blade Works]",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/359/images/95225.jpg",
+  "color": "#771a22",
+  "cp": "FSNPC　©TYPE-MOON",
+  "geo": [
+    35.44747403467254,
+    139.80392911871343
+  ],
+  "zoom": 8.4,
+  "modified": 1731070921297,
+  "litePoints": [
+    {
+      "id": "kntc0kopr",
+      "cn": "弓道馆",
+      "name": "県立弓道場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/95225/points/kntc0kopr-1725267435139.jpg?plan=h160",
+      "ep": 1,
+      "s": 1185,
+      "geo": [
+        34.6586,
+        134.9969
+      ]
+    },
+    {
+      "id": "kntgphu2b",
+      "cn": "卫宫家家门外景",
+      "name": "织田家长屋门",
+      "image": "https://image.anitabi.cn/user/0/bangumi/95225/points/kntgphu2b-1725267283217.jpg?plan=h160",
+      "ep": 1,
+      "s": 254,
+      "geo": [
+        34.6501,
+        134.9884
+      ]
+    },
+    {
+      "id": "llf3fdhrv",
+      "name": "亚瑟王墓",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/109386/points/ktb9gqfat-1716869413450.jpg?plan=h160",
+      "ep": 25,
+      "s": 493,
+      "geo": [
+        51.1467,
+        -2.7149
+      ]
+    },
+    {
+      "id": "51i528yvc",
+      "name": "海浜幕張駅南口",
+      "image": "https://image.anitabi.cn/points/95225/51i528yvc_1730969926363.jpg?plan=h160",
+      "geo": [
+        35.6481,
+        140.0416
+      ]
+    },
+    {
+      "id": "51i528yo5",
+      "name": "海浜幕張駅南口にある交差点",
+      "image": "https://image.anitabi.cn/points/95225/51i528yo5_1730969981498.jpg?plan=h160",
+      "geo": [
+        35.6487,
+        140.0408
+      ]
+    },
+    {
+      "id": "51i528y7t",
+      "name": "海浜幕張駅北口ペデストリアンデッキ",
+      "image": "https://image.anitabi.cn/points/95225/51i528y7t_1730969964122.jpg?plan=h160",
+      "geo": [
+        35.6493,
+        140.0413
+      ]
+    },
+    {
+      "id": "51i528ytv",
+      "name": "海浜幕張駅北口",
+      "image": "https://image.anitabi.cn/points/95225/51i528ytv_1730970032721.jpg?plan=h160",
+      "geo": [
+        35.6489,
+        140.0417
+      ]
+    },
+    {
+      "id": "51i528ynf",
+      "name": "「海浜幕張駅北口」交差点",
+      "image": "https://image.anitabi.cn/points/95225/51i528ynf_1730970040554.jpg?plan=h160",
+      "geo": [
+        35.6498,
+        140.0414
+      ]
+    },
+    {
+      "id": "51i5290vy",
+      "name": "若洲海浜公園",
+      "image": "https://image.anitabi.cn/points/95225/51i5290vy_1730971250634.jpg?plan=h160",
+      "geo": [
+        35.6141,
+        139.8347
+      ]
+    },
+    {
+      "id": "51i528yxu",
+      "name": "旧豊田佐助邸",
+      "image": "https://image.anitabi.cn/user/0/bangumi/95225/points/51i528yxu-1725018440985.jpg?plan=h160",
+      "geo": [
+        35.181,
+        136.9159
+      ]
+    }
+  ],
+  "pointsLength": 61,
+  "imagesLength": 57,
+  "local_id": 359
+}

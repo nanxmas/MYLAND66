@@ -1,0 +1,120 @@
+{
+  "id": 109375,
+  "cn": "命运之夜 天之杯：恶兆之花",
+  "title": "劇場版 Fate/stay night [Heaven's Feel] I.presage flower",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/381/images/109375.jpg",
+  "color": "#912ca5",
+  "cp": "FSNPC",
+  "geo": [
+    35.075487401737945,
+    138.00815690323628
+  ],
+  "zoom": 6.043,
+  "modified": 1726161324551,
+  "litePoints": [
+    {
+      "id": "n83m24ve9",
+      "name": "見晴橋",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/132555/points/n83m24ve9-1723663596704.jpg?plan=h160",
+      "s": 291,
+      "geo": [
+        35.3788,
+        139.5491
+      ]
+    },
+    {
+      "id": "n83km9ngq",
+      "name": "JR戸塚駅",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/132555/points/n83km9ngq-1723663464508.jpg?plan=h160",
+      "s": 314,
+      "geo": [
+        35.4014,
+        139.5339
+      ]
+    },
+    {
+      "id": "n83sil8r1",
+      "name": "東雲駅",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/132555/points/n83sil8r1-1723663944059.jpg?plan=h160",
+      "s": 320,
+      "geo": [
+        35.6406,
+        139.8035
+      ]
+    },
+    {
+      "id": "n83g79ula",
+      "name": "中瀬児童遊園",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/132555/points/n83g79ula-1723663195110.jpg?plan=h160",
+      "s": 383,
+      "geo": [
+        35.7201,
+        139.619
+      ]
+    },
+    {
+      "id": "n83pu2m18",
+      "name": "風見鶏の館",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/132555/points/n83pu2m18-1723663772735.jpg?plan=h160",
+      "s": 557,
+      "geo": [
+        34.7013,
+        135.1895
+      ]
+    },
+    {
+      "id": "n833czgr8",
+      "name": "下井草3丁目",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/132555/points/n833czgr8-1723662414175.jpg?plan=h160",
+      "s": 769,
+      "geo": [
+        35.7188,
+        139.6243
+      ]
+    },
+    {
+      "id": "n835izj4y",
+      "name": "下倉田第二公園付近",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/132555/points/n835izj4y-1723662550797.jpg?plan=h160",
+      "s": 786,
+      "geo": [
+        35.3813,
+        139.5492
+      ]
+    },
+    {
+      "id": "n82q99o2u",
+      "name": "下井草4丁目",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/132555/points/n82q99o2u-1723661657583.jpg?plan=h160",
+      "s": 798,
+      "geo": [
+        35.724,
+        139.618
+      ]
+    },
+    {
+      "id": "n838m48ho",
+      "name": "珈琲 琵琶湖",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/132555/points/n838m48ho-1723662744152.jpg?plan=h160",
+      "s": 1446,
+      "geo": [
+        35.5679,
+        139.7248
+      ]
+    },
+    {
+      "id": "n836pdlsv",
+      "name": "パウパウアクアガーデン 銀座店",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/132555/points/n836pdlsv-1723662616248.jpg?plan=h160",
+      "s": 1454,
+      "geo": [
+        35.6662,
+        139.7657
+      ]
+    }
+  ],
+  "pointsLength": 38,
+  "imagesLength": 38,
+  "local_id": 381
+}

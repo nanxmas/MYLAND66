@@ -1,0 +1,69 @@
+[
+  {
+    "id": "51i525gl1",
+    "name": "竹下通り",
+    "image": "https://image.xinu.ink/pic/data/371/images/51i525gl1-1726300961568.jpg",
+    "ep": 10,
+    "s": 504,
+    "geo": [
+      35.6715,
+      139.7031
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zdM6qTIlrilQ.kYyYg6QOsbeY&ll=35.671565%2C139.703124&z=17"
+  },
+  {
+    "id": "51i525h93",
+    "name": "原宿駅",
+    "image": "https://image.xinu.ink/pic/data/371/images/51i525h93-1726300527582.jpg",
+    "ep": 10,
+    "s": 499,
+    "geo": [
+      35.6702,
+      139.7027
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zdM6qTIlrilQ.kYyYg6QOsbeY&ll=35.670236%2C139.702727&z=17"
+  },
+  {
+    "id": "51i525k6u",
+    "cn": "アドアーズ涩谷店",
+    "name": "アドアーズ渋谷店",
+    "image": "https://image.xinu.ink/pic/data/371/images/51i525k6u-1725032439331.jpg",
+    "ep": 17,
+    "s": 1371,
+    "geo": [
+      35.6611,
+      139.6981
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zdM6qTIlrilQ.kYyYg6QOsbeY&ll=35.661192%2C139.698184&z=17"
+  },
+  {
+    "id": "51i525k7a",
+    "cn": "星巴克 涩谷店",
+    "name": "スターバックスコーヒー",
+    "image": "https://image.xinu.ink/pic/data/371/images/51i525k7a-1725283036661.jpg",
+    "ep": 17,
+    "s": 1074,
+    "geo": [
+      35.6597,
+      139.7003
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zdM6qTIlrilQ.kYyYg6QOsbeY&ll=35.659776%2C139.700335&z=17"
+  },
+  {
+    "id": "51i525jfx",
+    "name": "代々木公園 ベンチ",
+    "image": "https://image.xinu.ink/pic/data/371/images/51i525jfx-1725032756004.jpg",
+    "ep": 17,
+    "s": 1174,
+    "geo": [
+      35.6676,
+      139.6973
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zdM6qTIlrilQ.kYyYg6QOsbeY&ll=35.667678%2C139.697358&z=17"
+  }
+]

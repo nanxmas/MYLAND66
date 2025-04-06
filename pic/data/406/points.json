@@ -1,0 +1,49 @@
+[
+  {
+    "id": "ssg478vur",
+    "name": "天津科技大学",
+    "image": "https://image.xinu.ink/pic/data/406/images/ssg478vur-1739364016249.jpg",
+    "ep": "42",
+    "s": "2:23",
+    "geo": [
+      39.084,
+      117.7029
+    ]
+  },
+  {
+    "id": "ssghzhnku",
+    "cn": "尚家快捷酒店",
+    "name": "尚家快捷酒店",
+    "image": "https://image.xinu.ink/pic/data/406/images/ssghzhnku-1739364464064.jpg",
+    "ep": "1",
+    "s": "1:11",
+    "geo": [
+      39.0849,
+      117.6953
+    ]
+  },
+  {
+    "id": "ssgmc4kqx",
+    "cn": "天津国际生物医药联合研究院",
+    "name": "天津国际生物医药联合研究院",
+    "image": "https://image.xinu.ink/pic/data/406/images/ssgmc4kqx-1739364765963.jpg",
+    "ep": "3",
+    "s": "16:05",
+    "geo": [
+      39.08,
+      117.6976
+    ]
+  },
+  {
+    "id": "ssgqii2ri",
+    "cn": "大学城电影院",
+    "name": "大学城电影院",
+    "image": "https://image.xinu.ink/pic/data/406/images/ssgqii2ri-1739364977030.jpg",
+    "ep": "6",
+    "s": "12:00",
+    "geo": [
+      39.0851,
+      117.6957
+    ]
+  }
+]

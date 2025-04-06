@@ -1,0 +1,131 @@
+{
+  "id": 115908,
+  "cn": "吹响吧！上低音号",
+  "title": "響け！ユーフォニアム",
+  "city": "宇治市",
+  "cover": "https://image.xinu.ink/pic/data/393/images/115908.jpg",
+  "color": "#02a7bd",
+  "geo": [
+    34.90775317926564,
+    135.80603154594849
+  ],
+  "zoom": 12.383,
+  "modified": 1742620702405,
+  "litePoints": [
+    {
+      "id": "qys7fu",
+      "cn": "京都音乐厅",
+      "name": "京都コンサートホール",
+      "image": "https://image.anitabi.cn/points/115908/qys7fu.jpg?plan=h160",
+      "ep": 1,
+      "s": 1,
+      "geo": [
+        35.0503,
+        135.7664
+      ]
+    },
+    {
+      "id": "7evkbmy2",
+      "cn": "井用机前步行道",
+      "name": "あじろぎの道",
+      "image": "https://image.anitabi.cn/points/115908/7evkbmy2.jpg?plan=h160",
+      "ep": 1,
+      "s": 128,
+      "geo": [
+        34.8899,
+        135.8081
+      ]
+    },
+    {
+      "id": "7eyih3xg",
+      "name": "莵道高",
+      "image": "https://image.anitabi.cn/points/115908/7eyih3xg.jpg?plan=h160",
+      "ep": 1,
+      "s": 147,
+      "geo": [
+        34.9089,
+        135.8157
+      ]
+    },
+    {
+      "id": "7jni2zmz",
+      "name": "莵道高 正门 拂晓",
+      "image": "https://image.anitabi.cn/points/115908/7jni2zmz.jpg?plan=h160",
+      "ep": 5,
+      "s": 764,
+      "geo": [
+        34.9089,
+        135.8157
+      ]
+    },
+    {
+      "id": "7p4c142r",
+      "name": "莵道高 正门 清晨 雨",
+      "image": "https://image.anitabi.cn/points/115908/7p4c142r.jpg?plan=h160",
+      "ep": 8,
+      "s": 447,
+      "geo": [
+        34.9089,
+        135.8156
+      ]
+    },
+    {
+      "id": "kq10bkhew",
+      "name": "莵道高 正门 清晨 夏 更近",
+      "image": "https://image.anitabi.cn/points/115908/kq10bkhew_1716605106659.jpg?plan=h160",
+      "ep": 11,
+      "s": 553,
+      "geo": [
+        34.9089,
+        135.8157
+      ]
+    },
+    {
+      "id": "kq229b8cb",
+      "name": "莵道高 正门 清晨 夏",
+      "image": "https://image.anitabi.cn/points/115908/kq229b8cb_1716607394132.jpg?plan=h160",
+      "ep": 12,
+      "s": 553,
+      "geo": [
+        34.9089,
+        135.8156
+      ]
+    },
+    {
+      "id": "kq29r2enh",
+      "name": "莵道高 正门 早晨 夏",
+      "image": "https://image.anitabi.cn/points/115908/kq29r2enh_1716607845853.jpg?plan=h160",
+      "ep": 12,
+      "s": 739,
+      "geo": [
+        34.9087,
+        135.8156
+      ]
+    },
+    {
+      "id": "kq2q99z04",
+      "name": "莵道高 正门 深夜",
+      "image": "https://image.anitabi.cn/points/115908/kq2q99z04_1716608849669.jpg?plan=h160",
+      "ep": 12,
+      "s": 1151,
+      "geo": [
+        34.9087,
+        135.8156
+      ]
+    },
+    {
+      "id": "kq2tp6ejv",
+      "name": "莵道高 校门最近教学楼 入口 深夜",
+      "image": "https://image.anitabi.cn/points/115908/kq2tp6ejv_1716609097495.jpg?plan=h160",
+      "ep": 12,
+      "s": 1234,
+      "geo": [
+        34.9093,
+        135.8161
+      ]
+    }
+  ],
+  "pointsLength": 557,
+  "imagesLength": 552,
+  "local_id": 393
+}

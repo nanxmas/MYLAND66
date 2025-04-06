@@ -1,0 +1,30 @@
+{
+  "id": 106693,
+  "cn": "学园孤岛",
+  "title": "がっこうぐらし！",
+  "cover": "https://image.xinu.ink/pic/data/376/images/106693.jpg",
+  "color": "#db7676",
+  "cp": "がっこうぐらし！",
+  "geo": [
+    35.41582065493921,
+    139.63632525354075
+  ],
+  "zoom": 13.925,
+  "modified": 1719518473492,
+  "litePoints": [
+    {
+      "id": "7vn2jxgul",
+      "cn": "根岸车站",
+      "name": "根岸駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/106693/points/7vn2jxgul-1680370561533.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        35.4158,
+        139.635
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 376
+}

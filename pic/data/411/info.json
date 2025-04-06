@@ -1,0 +1,36 @@
+{
+  "id": 126173,
+  "title": "ReLIFE",
+  "city": "大分市",
+  "cover": "https://image.xinu.ink/pic/data/411/images/126173.jpg",
+  "color": "#c6dce3",
+  "cp": "リライフ研究所",
+  "geo": [
+    33.2221657,
+    131.6116297
+  ],
+  "modified": 1713617539074,
+  "litePoints": [
+    {
+      "id": "51i52zi9l",
+      "name": "大分県立大分上野丘高等学校",
+      "image": "https://image.anitabi.cn/user/0/bangumi/126173/points/51i52zi9l-1713444997746.jpg?plan=h160",
+      "geo": [
+        33.2221,
+        131.6116
+      ]
+    },
+    {
+      "id": "51i52zioi",
+      "name": "路地",
+      "image": "https://image.anitabi.cn/user/0/bangumi/126173/points/51i52zioi-1713445099686.jpg?plan=h160",
+      "geo": [
+        33.2221,
+        131.6113
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 411
+}

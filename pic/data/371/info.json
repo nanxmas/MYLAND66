@@ -1,0 +1,118 @@
+{
+  "id": 101399,
+  "cn": "偶像大师 灰姑娘女孩",
+  "title": "アイドルマスター シンデレラガールズ",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/371/images/101399.jpg",
+  "color": "#2582c4",
+  "cp": "PROJECT CINDEREL…",
+  "geo": [
+    35.539681224212686,
+    139.78687129654264
+  ],
+  "zoom": 8.471,
+  "modified": 1728552842760,
+  "litePoints": [
+    {
+      "id": "51i525gl1",
+      "name": "竹下通り",
+      "image": "https://image.anitabi.cn/user/0/bangumi/101399/points/51i525gl1-1726300961568.jpg?plan=h160",
+      "ep": 10,
+      "s": 504,
+      "geo": [
+        35.6715,
+        139.7031
+      ]
+    },
+    {
+      "id": "51i525h93",
+      "name": "原宿駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/101399/points/51i525h93-1726300527582.jpg?plan=h160",
+      "ep": 10,
+      "s": 499,
+      "geo": [
+        35.6702,
+        139.7027
+      ]
+    },
+    {
+      "id": "51i525k6u",
+      "cn": "アドアーズ涩谷店",
+      "name": "アドアーズ渋谷店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/101399/points/51i525k6u-1725032439331.jpg?plan=h160",
+      "ep": 17,
+      "s": 1371,
+      "geo": [
+        35.6611,
+        139.6981
+      ]
+    },
+    {
+      "id": "51i525k7a",
+      "cn": "星巴克 涩谷店",
+      "name": "スターバックスコーヒー",
+      "image": "https://image.anitabi.cn/user/0/bangumi/101399/points/51i525k7a-1725283036661.jpg?plan=h160",
+      "ep": 17,
+      "s": 1074,
+      "geo": [
+        35.6597,
+        139.7003
+      ]
+    },
+    {
+      "id": "51i525jfx",
+      "name": "代々木公園 ベンチ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/101399/points/51i525jfx-1725032756004.jpg?plan=h160",
+      "ep": 17,
+      "s": 1174,
+      "geo": [
+        35.6676,
+        139.6973
+      ]
+    },
+    {
+      "id": "51i525g3n",
+      "cn": "涩谷站前交叉点",
+      "name": "渋谷駅前交差点",
+      "geo": [
+        35.6593,
+        139.7008
+      ]
+    },
+    {
+      "id": "51i525fse",
+      "name": "スタジオアルタ前",
+      "geo": [
+        35.6923,
+        139.701
+      ]
+    },
+    {
+      "id": "51i525gqp",
+      "name": "ハチ公前",
+      "geo": [
+        35.659,
+        139.7006
+      ]
+    },
+    {
+      "id": "51i525gkt",
+      "name": "歩道橋",
+      "geo": [
+        35.658,
+        139.7031
+      ]
+    },
+    {
+      "id": "51i525gx4",
+      "name": "玉造稲荷神社",
+      "geo": [
+        35.6572,
+        139.7063
+      ]
+    }
+  ],
+  "pointsLength": 73,
+  "imagesLength": 5,
+  "local_id": 371
+}

@@ -1,0 +1,120 @@
+{
+  "id": 109328,
+  "cn": "结城友奈是勇者",
+  "title": "結城友奈は勇者である",
+  "city": "观音寺市",
+  "cover": "https://image.xinu.ink/pic/data/380/images/109328.jpg",
+  "color": "#f8b1b1",
+  "geo": [
+    34.23565192450566,
+    133.8327738111907
+  ],
+  "zoom": 9.326,
+  "modified": 1740543623830,
+  "litePoints": [
+    {
+      "id": "51i51xcuu",
+      "name": "観音寺港",
+      "image": "https://image.anitabi.cn/user/0/bangumi/109328/points/51i51xcuu-1716803564406.jpg?plan=h160",
+      "ep": 1,
+      "s": 9,
+      "geo": [
+        34.1254,
+        133.635
+      ]
+    },
+    {
+      "id": "r6316lya1",
+      "cn": "坂出市乡土资料馆",
+      "name": "坂出市​郷土​資料館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/109328/points/r6316lya1-1734790335377.jpg?plan=h160",
+      "ep": 1,
+      "s": 92,
+      "geo": [
+        34.3139,
+        133.8499
+      ]
+    },
+    {
+      "id": "t6wu4vdgt",
+      "cn": "镰田池",
+      "name": "鎌田池",
+      "image": "https://image.anitabi.cn/points/109328/t6wu4vdgt_1740543583675.jpg?plan=h160",
+      "ep": 4,
+      "s": 770,
+      "geo": [
+        34.3019,
+        133.8509
+      ]
+    },
+    {
+      "id": "51i51xbqm",
+      "name": "１．三架橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/109328/points/51i51xbqm-1720013541497.jpg?plan=h160",
+      "geo": [
+        34.1318,
+        133.6501
+      ]
+    },
+    {
+      "id": "51i51xbm2",
+      "name": "２．琴弾八幡宮",
+      "image": "https://image.anitabi.cn/user/0/bangumi/109328/points/51i51xbm2-1720013599374.jpg?plan=h160",
+      "s": 1,
+      "geo": [
+        34.1319,
+        133.6491
+      ]
+    },
+    {
+      "id": "51i51xblr",
+      "name": "３．有明浜",
+      "image": "https://image.anitabi.cn/user/0/bangumi/109328/points/51i51xblr-1734686728044.jpg?plan=h160",
+      "geo": [
+        34.1332,
+        133.6405
+      ]
+    },
+    {
+      "id": "51i51xbu8",
+      "name": "５．観音寺駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/109328/points/51i51xbu8-1720013705947.jpg?plan=h160",
+      "s": 1,
+      "geo": [
+        34.1249,
+        133.6566
+      ]
+    },
+    {
+      "id": "51i51xck0",
+      "name": "６．観音寺駅前",
+      "image": "https://image.anitabi.cn/user/0/bangumi/109328/points/51i51xck0-1734687740786.jpg?plan=h160",
+      "geo": [
+        34.1252,
+        133.6553
+      ]
+    },
+    {
+      "id": "51i51xccv",
+      "name": "７．つるや",
+      "image": "https://image.anitabi.cn/user/0/bangumi/109328/points/51i51xccv-1734684868105.jpg?plan=h160",
+      "geo": [
+        34.1269,
+        133.6671
+      ]
+    },
+    {
+      "id": "51i51xbxj",
+      "cn": "中學校",
+      "name": "観音寺中学校",
+      "image": "https://image.anitabi.cn/user/0/bangumi/109328/points/51i51xbxj-1734837830223.jpg?plan=h160",
+      "geo": [
+        34.1376,
+        133.6454
+      ]
+    }
+  ],
+  "pointsLength": 68,
+  "imagesLength": 47,
+  "local_id": 380
+}

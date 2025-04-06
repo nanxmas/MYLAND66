@@ -1,0 +1,35 @@
+{
+  "id": 115292,
+  "cn": "东京喰种√A",
+  "title": "東京喰種トーキョーグール √A",
+  "cover": "https://image.xinu.ink/pic/data/389/images/115292_RnE82.jpg",
+  "cp": "東京喰種",
+  "modified": 1731509863972,
+  "litePoints": [
+    {
+      "id": "q018vcaf8",
+      "name": "喫茶アンデス",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/115292/points/q018vcaf8-1731494909088.jpg?plan=h160",
+      "ep": 9,
+      "s": 592,
+      "geo": [
+        35.7372,
+        139.6547
+      ]
+    },
+    {
+      "id": "q083tjzuv",
+      "name": "渋谷スクランブル交差点",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/115292/points/q083tjzuv-1731509772709.jpg?plan=h160",
+      "ep": 9,
+      "s": 426,
+      "geo": [
+        35.6594,
+        139.7005
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 389
+}

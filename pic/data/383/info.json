@@ -1,0 +1,129 @@
+{
+  "id": 110467,
+  "cn": "白箱",
+  "title": "SHIROBAKO",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/383/images/110467.jpg",
+  "color": "#edb488",
+  "geo": [
+    35.69845704200333,
+    139.6422615458689
+  ],
+  "zoom": 10.290160265654714,
+  "modified": 1738585733535,
+  "litePoints": [
+    {
+      "id": "5q87582w",
+      "name": "武蔵境駅",
+      "image": "https://image.anitabi.cn/points/110467/5q87582w_1731428069465.jpg?plan=h160",
+      "ep": 4,
+      "s": 1241,
+      "geo": [
+        35.702,
+        139.5433
+      ]
+    },
+    {
+      "id": "5q8757tu",
+      "cn": "武藏野站前（武藏野图书馆）",
+      "name": "武蔵野プレイス",
+      "image": "https://image.anitabi.cn/points/110467/5q8757tu_1724563111494_cut.jpg?plan=h160",
+      "ep": 6,
+      "s": 515,
+      "geo": [
+        35.7013,
+        139.5437
+      ]
+    },
+    {
+      "id": "5q87590s",
+      "name": "武蔵野スイングホール",
+      "image": "https://image.anitabi.cn/points/110467/5q87590s_1731427957977.jpg?plan=h160",
+      "ep": 10,
+      "s": 164,
+      "geo": [
+        35.7024,
+        139.5429
+      ]
+    },
+    {
+      "id": "5q875a07",
+      "name": "スキップ通り",
+      "image": "https://image.anitabi.cn/points/110467/5q875a07_1731428034537.jpg?plan=h160",
+      "ep": 4,
+      "s": 1250,
+      "geo": [
+        35.7031,
+        139.5441
+      ]
+    },
+    {
+      "id": "5q875b22",
+      "name": "ベーカリーズカフェクラウン武蔵境店",
+      "image": "https://image.anitabi.cn/points/110467/5q875b22_1731427915584.jpg?plan=h160",
+      "ep": 1,
+      "s": 1354,
+      "geo": [
+        35.7027,
+        139.5419
+      ]
+    },
+    {
+      "id": "5q875aon",
+      "name": "さかい亭",
+      "image": "https://image.anitabi.cn/points/110467/5q875aon_1731427835316.jpg?plan=h160",
+      "ep": 18,
+      "s": 1091,
+      "geo": [
+        35.7046,
+        139.5422
+      ]
+    },
+    {
+      "id": "pz76mfsof",
+      "cn": "东京女子大学正门",
+      "name": "東京女子大学正門",
+      "image": "https://image.anitabi.cn/points/110467/pz76mfsof_1731429428107.jpg?plan=h160",
+      "ep": 10,
+      "s": 216,
+      "geo": [
+        35.7092,
+        139.5914
+      ]
+    },
+    {
+      "id": "5q875em2",
+      "name": "くら寿司小金井店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/110467/points/5q875em2-1732980863439.jpg?plan=h160",
+      "ep": 19,
+      "s": 383,
+      "geo": [
+        35.7127,
+        139.5112
+      ]
+    },
+    {
+      "id": "5q875kmm",
+      "name": "神戸市民広場駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/110467/points/5q875kmm-1697878440574.jpg?plan=h160",
+      "ep": 24,
+      "s": 815,
+      "geo": [
+        34.665,
+        135.2125
+      ]
+    },
+    {
+      "id": "5q875btn",
+      "name": "ウルソン武蔵境店",
+      "image": "https://image.anitabi.cn/points/110467/5q875btn_1731427856749.jpg?plan=h160",
+      "geo": [
+        35.7045,
+        139.5396
+      ]
+    }
+  ],
+  "pointsLength": 89,
+  "imagesLength": 87,
+  "local_id": 383
+}

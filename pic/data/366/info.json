@@ -1,0 +1,130 @@
+{
+  "id": 100040,
+  "cn": "天体的秩序",
+  "title": "天体のメソッド",
+  "city": "北海道伊达市",
+  "cover": "https://image.xinu.ink/pic/data/366/images/100040.jpg",
+  "color": "#1fbcff",
+  "cp": "霧弥湖町観光協会",
+  "geo": [
+    42.592896425052146,
+    140.85683648060353
+  ],
+  "zoom": 11.788,
+  "modified": 1719939335850,
+  "litePoints": [
+    {
+      "id": "586xj6b3j",
+      "name": "洞爺国道",
+      "image": "https://image.anitabi.cn/points/100040/586xj6b3j_1672890791129.jpg?plan=h160",
+      "ep": 1,
+      "s": 35,
+      "geo": [
+        42.5697,
+        140.7985
+      ]
+    },
+    {
+      "id": "31a9od0",
+      "name": "札幌駅バスターミナル10番乗り場",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/100040/points/31a9od0-1672891813833.jpg?plan=h160",
+      "ep": 1,
+      "s": 545,
+      "geo": [
+        43.0676,
+        141.3527
+      ]
+    },
+    {
+      "id": "587fdo0tf",
+      "name": "札幌站前巴士总站",
+      "image": "https://image.anitabi.cn/points/100040/587fdo0tf_1672891866525.jpg?plan=h160",
+      "ep": 1,
+      "s": 516,
+      "geo": [
+        43.0675,
+        141.3522
+      ]
+    },
+    {
+      "id": "31a9oeh",
+      "name": "北海道庁旧本庁舎",
+      "image": "https://image.anitabi.cn/points/100040/31a9oeh_1672893054666.jpg?plan=h160",
+      "ep": 2,
+      "s": 359,
+      "geo": [
+        43.064,
+        141.3484
+      ]
+    },
+    {
+      "id": "31a9oee",
+      "name": "道南バスターミナル",
+      "image": "https://image.anitabi.cn/points/100040/31a9oee_1672900012297.jpg?plan=h160",
+      "ep": 2,
+      "s": 302,
+      "geo": [
+        42.5644,
+        140.8175
+      ]
+    },
+    {
+      "id": "31a9oct",
+      "name": "出湯橋",
+      "image": "https://image.anitabi.cn/points/100040/31a9oct_1672899924492.jpg?plan=h160",
+      "ep": 2,
+      "s": 818,
+      "geo": [
+        42.5652,
+        140.8166
+      ]
+    },
+    {
+      "id": "31a9oew",
+      "name": "彫刻「回生」",
+      "image": "https://image.anitabi.cn/points/100040/31a9oew_1672898797392.jpg?plan=h160",
+      "ep": 2,
+      "s": 744,
+      "geo": [
+        42.5661,
+        140.8171
+      ]
+    },
+    {
+      "id": "31a9ocm",
+      "name": "桟橋2付近",
+      "image": "https://image.anitabi.cn/points/100040/31a9ocm_1672899825495.jpg?plan=h160",
+      "ep": 2,
+      "s": 998,
+      "geo": [
+        42.5662,
+        140.8181
+      ]
+    },
+    {
+      "id": "58auj69g9",
+      "name": "彫刻「旅ひとり」",
+      "image": "https://image.anitabi.cn/points/100040/58auj69g9_1672899316840.jpg?plan=h160",
+      "ep": 2,
+      "s": 433,
+      "geo": [
+        42.566,
+        140.82
+      ]
+    },
+    {
+      "id": "31a9oe2",
+      "name": "セイコーマート洞爺たなか店",
+      "image": "https://image.anitabi.cn/points/100040/31a9oe2_1672891923634.jpg?plan=h160",
+      "ep": 1,
+      "s": 660,
+      "geo": [
+        42.565,
+        140.8211
+      ]
+    }
+  ],
+  "pointsLength": 84,
+  "imagesLength": 64,
+  "local_id": 366
+}

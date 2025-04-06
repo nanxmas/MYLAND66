@@ -1,0 +1,39 @@
+[
+  {
+    "id": "oblu98183",
+    "cn": "幾寅駅站台",
+    "name": "幾寅駅ホーム",
+    "image": "https://image.xinu.ink/pic/data/401/images/oblu98183_1726806397432_cblack.jpg",
+    "ep": null,
+    "geo": [
+      43.1616,
+      142.5696
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "obm44tt0y",
+    "name": "幾寅駅の外",
+    "image": "https://image.xinu.ink/pic/data/401/images/obm44tt0y-1726760033675.jpg",
+    "ep": null,
+    "geo": [
+      43.1618,
+      142.5699
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "obm1um4fo",
+    "name": "だるま食堂",
+    "image": "https://image.xinu.ink/pic/data/401/images/obm1um4fo_1726806393162_cblack.jpg",
+    "ep": null,
+    "geo": [
+      43.1618,
+      142.57
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  }
+]

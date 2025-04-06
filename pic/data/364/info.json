@@ -1,0 +1,110 @@
+{
+  "id": 99505,
+  "cn": "玻璃之唇",
+  "title": "グラスリップ",
+  "city": "福井市",
+  "cover": "https://image.xinu.ink/pic/data/364/images/99505.jpg",
+  "color": "#474763",
+  "cp": "glasslip project",
+  "geo": [
+    36.215695126758604,
+    136.1496136093565
+  ],
+  "zoom": 13.120277753117541,
+  "modified": 1742556498633,
+  "litePoints": [
+    {
+      "id": "kpwk3kqfl",
+      "name": "三国港駅",
+      "image": "https://image.anitabi.cn/points/99505/kpwk3kqfl_1742553525938.jpg?plan=h160",
+      "geo": [
+        36.2202,
+        136.1398
+      ]
+    },
+    {
+      "id": "kpwk3kqy3",
+      "name": "めがね橋",
+      "image": "https://image.anitabi.cn/points/99505/kpwk3kqy3_1742553561210.jpg?plan=h160",
+      "geo": [
+        36.2199,
+        136.1412
+      ]
+    },
+    {
+      "id": "kpwk3kqg2",
+      "name": "白山神社",
+      "image": "https://image.anitabi.cn/points/99505/kpwk3kqg2_1742553701778.jpg?plan=h160",
+      "geo": [
+        36.2255,
+        136.1342
+      ]
+    },
+    {
+      "id": "kpwk3kqt9",
+      "name": "三国サンセットビーチ",
+      "image": "https://image.anitabi.cn/points/99505/kpwk3kqt9_1742554009235.jpg?plan=h160",
+      "geo": [
+        36.2212,
+        136.1352
+      ]
+    },
+    {
+      "id": "kpwk3kqkj",
+      "name": "三国港突堤",
+      "image": "https://image.anitabi.cn/points/99505/kpwk3kqkj_1742554189723.jpg?plan=h160",
+      "geo": [
+        36.2197,
+        136.1312
+      ]
+    },
+    {
+      "id": "kpwk3kr0p",
+      "name": "突堤から町並みを望む",
+      "image": "https://image.anitabi.cn/points/99505/kpwk3kr0p_1742554159126.jpg?plan=h160",
+      "geo": [
+        36.2178,
+        136.1275
+      ]
+    },
+    {
+      "id": "kpwk3kr01",
+      "name": "三国港",
+      "image": "https://image.anitabi.cn/points/99505/kpwk3kr01_1742554238625.jpg?plan=h160",
+      "geo": [
+        36.2162,
+        136.1434
+      ]
+    },
+    {
+      "id": "kpwk3kqz9",
+      "name": "真砂郵便局付近",
+      "image": "https://image.anitabi.cn/points/99505/kpwk3kqz9_1742554280524.jpg?plan=h160",
+      "geo": [
+        36.216,
+        136.1436
+      ]
+    },
+    {
+      "id": "kpwk3kqon",
+      "name": "三国駅西側踏切",
+      "image": "https://image.anitabi.cn/points/99505/kpwk3kqon_1742554488609.jpg?plan=h160",
+      "geo": [
+        36.2184,
+        136.1474
+      ]
+    },
+    {
+      "id": "kpwk3kqyf",
+      "name": "みくに龍翔館への坂道",
+      "image": "https://image.anitabi.cn/points/99505/kpwk3kqyf_1742554561693.jpg?plan=h160",
+      "geo": [
+        36.2188,
+        136.1484
+      ]
+    }
+  ],
+  "pointsLength": 35,
+  "imagesLength": 35,
+  "local_id": 364
+}

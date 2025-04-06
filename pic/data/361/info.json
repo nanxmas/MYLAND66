@@ -1,0 +1,65 @@
+{
+  "id": 96918,
+  "cn": "ALDNOAH.ZERO",
+  "title": "アルドノア・ゼロ",
+  "cover": "https://image.xinu.ink/pic/data/361/images/96918_l2HJN.jpg",
+  "cp": "Aniplex･Project …",
+  "modified": 1730047134975,
+  "litePoints": [
+    {
+      "id": "pgg88aigh",
+      "cn": "新月城大桥，90号公路",
+      "name": "Cr City Connection",
+      "image": "https://image.anitabi.cn/user/0/bangumi/96918/points/pgg88aigh-1729960586887.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        29.9389,
+        -90.0548
+      ]
+    },
+    {
+      "id": "pghj9ncn3",
+      "cn": "北京国贸",
+      "name": "东三环",
+      "image": "https://image.anitabi.cn/user/0/bangumi/96918/points/pghj9ncn3-1729963081255.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        39.9071,
+        116.4555
+      ]
+    },
+    {
+      "id": "phgndo10i",
+      "cn": "马普托国际机场",
+      "name": "Maputo International Airport",
+      "image": "https://image.anitabi.cn/user/0/bangumi/96918/points/phgndo10i-1730039500759.jpg?plan=h160",
+      "geo": [
+        -25.9155,
+        32.5757
+      ]
+    },
+    {
+      "id": "phgys7uie",
+      "cn": "新芦原市",
+      "name": "フエリ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/96918/points/phgys7uie-1730040264629.jpg?plan=h160",
+      "geo": [
+        36.2147,
+        136.2316
+      ]
+    },
+    {
+      "id": "phhj1gs89",
+      "cn": "种子岛",
+      "name": "種子島",
+      "image": "https://image.anitabi.cn/user/0/bangumi/96918/points/phhj1gs89-1730041365534.jpg?plan=h160",
+      "geo": [
+        30.549,
+        131.0191
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 361
+}

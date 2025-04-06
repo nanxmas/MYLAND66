@@ -1,0 +1,68 @@
+{
+  "id": 105045,
+  "cn": "海街日记",
+  "title": "海街diary",
+  "city": "镰仓市",
+  "cover": "https://image.xinu.ink/pic/data/373/images/105045.jpg",
+  "color": "#232e32",
+  "geo": [
+    35.2988007150593,
+    139.50977621939398
+  ],
+  "zoom": 11.28,
+  "modified": 1725133150170,
+  "litePoints": [
+    {
+      "id": "mtnss7wkb",
+      "cn": "文佐食堂（海猫食堂）",
+      "name": "文佐食堂",
+      "image": "https://image.anitabi.cn/points/105045/mtnss7wkb_1725133061393.jpg?plan=h160",
+      "geo": [
+        35.2999,
+        139.4819
+      ]
+    },
+    {
+      "id": "mtnuks21k",
+      "cn": "腰越渔港",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/105045/mtnuks21k_1722532163561.jpg?plan=h160",
+      "geo": [
+        35.3054,
+        139.4924
+      ]
+    },
+    {
+      "id": "mtnx5ji7d",
+      "cn": "七里滨站南侧道路",
+      "name": 2,
+      "image": "https://image.anitabi.cn/points/105045/mtnx5ji7d_1722532299764.jpg?plan=h160",
+      "geo": [
+        35.3057,
+        139.5106
+      ]
+    },
+    {
+      "id": "mtnxy46bu",
+      "cn": "七里滨站南侧沙滩（仅出现于剧照）",
+      "name": 2,
+      "image": "https://image.anitabi.cn/points/105045/mtnxy46bu_1722532383603.jpg?plan=h160",
+      "geo": [
+        35.3051,
+        139.5103
+      ]
+    },
+    {
+      "id": "mto59yuzt",
+      "cn": "稻村崎南 TAVERNA RONADINO西南侧临海阶梯",
+      "name": 2,
+      "geo": [
+        35.3033,
+        139.5213
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 4,
+  "local_id": 373
+}

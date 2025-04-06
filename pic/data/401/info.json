@@ -1,0 +1,47 @@
+{
+  "id": 119967,
+  "cn": "铁道员",
+  "title": "鉄道員",
+  "city": "北海道",
+  "cover": "https://image.xinu.ink/pic/data/401/images/119967.jpg",
+  "color": "#642b21",
+  "geo": [
+    43.1616606896298,
+    142.5697795498072
+  ],
+  "zoom": 10.551,
+  "modified": 1726809231615,
+  "litePoints": [
+    {
+      "id": "oblu98183",
+      "cn": "幾寅駅站台",
+      "name": "幾寅駅ホーム",
+      "image": "https://image.anitabi.cn/points/119967/oblu98183_1726806397432_cblack.jpg?plan=h160",
+      "geo": [
+        43.1616,
+        142.5696
+      ]
+    },
+    {
+      "id": "obm44tt0y",
+      "name": "幾寅駅の外",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/119967/points/obm44tt0y-1726760033675.jpg?plan=h160",
+      "geo": [
+        43.1618,
+        142.5699
+      ]
+    },
+    {
+      "id": "obm1um4fo",
+      "name": "だるま食堂",
+      "image": "https://image.anitabi.cn/points/119967/obm1um4fo_1726806393162_cblack.jpg?plan=h160",
+      "geo": [
+        43.1618,
+        142.57
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 401
+}

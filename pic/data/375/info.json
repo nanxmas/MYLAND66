@@ -1,0 +1,109 @@
+{
+  "id": 106372,
+  "cn": "栞与纸鱼子",
+  "title": "栞と紙魚子",
+  "city": "三鹰市",
+  "cover": "https://image.xinu.ink/pic/data/375/images/106372.jpg",
+  "color": "#714739",
+  "geo": [
+    35.69239588373185,
+    139.54343027736894
+  ],
+  "zoom": 12.413,
+  "modified": 1725342953859,
+  "litePoints": [
+    {
+      "id": "nstqa5i3w",
+      "name": "散歩道",
+      "image": "https://image.anitabi.cn/points/106372/nstqa5i3w_1725289880776.jpg?plan=h160",
+      "geo": [
+        35.6889,
+        139.5892
+      ]
+    },
+    {
+      "id": "nst7h72cr",
+      "name": "ためらい坂",
+      "image": "https://image.anitabi.cn/points/106372/nst7h72cr_1725289888467.jpg?plan=h160",
+      "geo": [
+        35.6924,
+        139.5873
+      ]
+    },
+    {
+      "id": "nst10sc34",
+      "name": "股川上水歩道",
+      "image": "https://image.anitabi.cn/points/106372/nst10sc34_1725289890545.jpg?plan=h160",
+      "geo": [
+        35.6888,
+        139.5853
+      ]
+    },
+    {
+      "id": "nst0e6pt9",
+      "name": "股川上水沿いの小公園",
+      "image": "https://image.anitabi.cn/points/106372/nst0e6pt9_1725289892375.jpg?plan=h160",
+      "geo": [
+        35.6887,
+        139.5856
+      ]
+    },
+    {
+      "id": "nssxgwkyd",
+      "name": "長助橋",
+      "image": "https://image.anitabi.cn/points/106372/nssxgwkyd_1725289912716.jpg?plan=h160",
+      "geo": [
+        35.6864,
+        139.5888
+      ]
+    },
+    {
+      "id": "nsrwbks9u",
+      "name": "身肩台保育園前",
+      "image": "https://image.anitabi.cn/points/106372/nsrwbks9u_1725283722904.jpg?plan=h160",
+      "geo": [
+        35.6912,
+        139.5848
+      ]
+    },
+    {
+      "id": "nsrrwf2a4",
+      "name": "身肩台保育園",
+      "image": "https://image.anitabi.cn/points/106372/nsrrwf2a4_1725283726088.jpg?plan=h160",
+      "geo": [
+        35.6914,
+        139.5846
+      ]
+    },
+    {
+      "id": "nss1a9smy",
+      "name": "小さな公園",
+      "image": "https://image.anitabi.cn/points/106372/nss1a9smy_1725284636013.jpg?plan=h160",
+      "geo": [
+        35.689,
+        139.5899
+      ]
+    },
+    {
+      "id": "nss4swreb",
+      "name": "小さな公園 入口",
+      "image": "https://image.anitabi.cn/points/106372/nss4swreb_1725284644883.jpg?plan=h160",
+      "geo": [
+        35.6889,
+        139.5905
+      ]
+    },
+    {
+      "id": "nssney2s5",
+      "name": "三鷹台変電所",
+      "image": "https://image.anitabi.cn/points/106372/nssney2s5_1725285353198.jpg?plan=h160",
+      "geo": [
+        35.6882,
+        139.5879
+      ]
+    }
+  ],
+  "pointsLength": 29,
+  "imagesLength": 26,
+  "local_id": 375
+}
