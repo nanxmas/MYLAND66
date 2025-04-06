@@ -1,0 +1,28 @@
+{
+  "id": 11602,
+  "cn": "飞屋环游记",
+  "title": "UP",
+  "cover": "https://image.xinu.ink/pic/data/181/images/11602.jpg",
+  "color": "#80aad4",
+  "geo": [
+    5.968914071586795,
+    -62.536715371700836
+  ],
+  "zoom": 15.401,
+  "modified": 1719518717231,
+  "litePoints": [
+    {
+      "id": "ks4wpgqzr",
+      "cn": "安赫尔瀑布",
+      "name": "Salto Ángel",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/11602/points/ks4wpgqzr-1716770360230.jpg?plan=h160",
+      "geo": [
+        5.9689,
+        -62.5368
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 181
+}

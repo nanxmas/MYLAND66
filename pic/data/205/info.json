@@ -1,0 +1,128 @@
+{
+  "id": 18624,
+  "cn": "回转企鹅罐",
+  "title": "輪るピングドラム",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/205/images/18624.jpg",
+  "color": "#d42b2b",
+  "geo": [
+    35.705558,
+    139.620017
+  ],
+  "modified": 1728608453029,
+  "litePoints": [
+    {
+      "id": "lnf2ngqox",
+      "name": "壁",
+      "image": "https://image.anitabi.cn/points/18624/lnf2ngqox_1719221968394.jpg?plan=h160",
+      "ep": 1,
+      "s": 161,
+      "geo": [
+        35.6986,
+        139.621
+      ]
+    },
+    {
+      "id": "koc6zdyr6",
+      "name": "ぎぼ材/おぎくぼ画材",
+      "image": "https://image.anitabi.cn/points/18624/koc6zdyr6_1719221968776.jpg?plan=h160",
+      "ep": 1,
+      "s": 161,
+      "geo": [
+        35.7039,
+        139.6206
+      ]
+    },
+    {
+      "id": "koc6zdy4t",
+      "name": "キリンとブタ",
+      "image": "https://image.anitabi.cn/points/18624/koc6zdy4t_1719222662637.jpg?plan=h160",
+      "ep": 1,
+      "s": 337,
+      "geo": [
+        35.6987,
+        139.6207
+      ]
+    },
+    {
+      "id": "lnfa0ovc1",
+      "name": "招き猫のオブジェ",
+      "image": "https://image.anitabi.cn/points/18624/lnfa0ovc1_1719222673191.jpg?plan=h160",
+      "ep": 1,
+      "s": 345,
+      "geo": [
+        35.7055,
+        139.6199
+      ]
+    },
+    {
+      "id": "koc6zdyxs",
+      "name": "荻窪駅南口B出口",
+      "image": "https://image.anitabi.cn/points/18624/koc6zdyxs_1716474117062.jpg?plan=h160",
+      "ep": 1,
+      "s": 397,
+      "geo": [
+        35.7042,
+        139.6212
+      ]
+    },
+    {
+      "id": "koc6zdy9o",
+      "name": "都立新宿高校",
+      "image": "https://image.anitabi.cn/points/18624/koc6zdy9o_1716474117778.jpg?plan=h160",
+      "ep": 1,
+      "s": 896,
+      "geo": [
+        35.6899,
+        139.7055
+      ]
+    },
+    {
+      "id": "koc6zdypj",
+      "name": "ドトールコーヒーショップ新宿１丁目店付近",
+      "image": "https://image.anitabi.cn/points/18624/koc6zdypj_1716474118582.jpg?plan=h160",
+      "ep": 1,
+      "s": 915,
+      "geo": [
+        35.6906,
+        139.7124
+      ]
+    },
+    {
+      "id": "koc6zdyzq",
+      "name": "ファミリーマート新宿御苑駅前店付近",
+      "image": "https://image.anitabi.cn/points/18624/koc6zdyzq_1716474119260.jpg?plan=h160",
+      "ep": 1,
+      "s": 919,
+      "geo": [
+        35.6888,
+        139.712
+      ]
+    },
+    {
+      "id": "koc6zdyjw",
+      "name": "東京メトロ丸ノ内線新宿御苑前駅２出口",
+      "image": "https://image.anitabi.cn/points/18624/koc6zdyjw_1716474119786.jpg?plan=h160",
+      "ep": 1,
+      "s": 962,
+      "geo": [
+        35.6884,
+        139.7116
+      ]
+    },
+    {
+      "id": "koc6zdyhn",
+      "name": "オーケーストア荻窪店付近",
+      "image": "https://image.anitabi.cn/points/18624/koc6zdyhn_1716474121200.jpg?plan=h160",
+      "ep": 1,
+      "s": 999,
+      "geo": [
+        35.7001,
+        139.617
+      ]
+    }
+  ],
+  "pointsLength": 73,
+  "imagesLength": 73,
+  "local_id": 205
+}

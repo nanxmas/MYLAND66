@@ -1,0 +1,136 @@
+{
+  "id": 11304,
+  "cn": "迪迦奥特曼",
+  "title": "ウルトラマンティガ",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/179/images/11304.jpg",
+  "color": "#990069",
+  "geo": [
+    35.618414171506515,
+    139.7795356844178
+  ],
+  "zoom": 11.683,
+  "modified": 1739212135045,
+  "litePoints": [
+    {
+      "id": "p8r0oqoqs",
+      "cn": "曙桥",
+      "name": "曙橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/11304/points/p8r0oqoqs-1729356952450.jpg?plan=h160",
+      "ep": 36,
+      "s": 444,
+      "geo": [
+        35.6923,
+        139.7237
+      ]
+    },
+    {
+      "id": "q6vo4ipse",
+      "cn": "通润桥",
+      "name": "通潤橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/11304/points/q6vo4ipse-1732031343273.jpg?plan=h160",
+      "ep": 44,
+      "s": 1208,
+      "geo": [
+        32.6817,
+        130.9936
+      ]
+    },
+    {
+      "id": "q6vveovpy",
+      "cn": "DS海岸大厦",
+      "name": "DS海岸ビル",
+      "image": "https://image.anitabi.cn/user/0/bangumi/11304/points/q6vveovpy-1732031843808.jpg?plan=h160",
+      "ep": 39,
+      "s": 170,
+      "geo": [
+        35.6486,
+        139.7577
+      ]
+    },
+    {
+      "id": "q6wek1lf9",
+      "cn": "水之广场公园",
+      "name": "カスケード広場 (水の広場公園)",
+      "image": "https://image.anitabi.cn/user/0/bangumi/11304/points/q6wek1lf9-1732032872947.jpg?plan=h160",
+      "ep": 39,
+      "s": 542,
+      "geo": [
+        35.6283,
+        139.7864
+      ]
+    },
+    {
+      "id": "q6wi2ld9i",
+      "name": "天王洲 T33 Terrace",
+      "image": "https://image.anitabi.cn/user/0/bangumi/11304/points/q6wi2ld9i-1732033060491.jpg?plan=h160",
+      "ep": 45,
+      "s": 963,
+      "geo": [
+        35.6234,
+        139.7479
+      ]
+    },
+    {
+      "id": "q7ddpyct6",
+      "cn": "通卡拉铃",
+      "name": "トンカラリン 七段の階段",
+      "image": "https://image.anitabi.cn/user/0/bangumi/11304/points/q7ddpyct6-1732069849696.jpg?plan=h160",
+      "s": 464,
+      "geo": [
+        32.9685,
+        130.6044
+      ]
+    },
+    {
+      "id": "r8zvub7yu",
+      "name": "八达岭长城",
+      "image": "https://image.anitabi.cn/user/0/bangumi/11304/points/r8zvub7yu-1735018244489.jpg?plan=h160",
+      "ep": 51,
+      "s": 259,
+      "geo": [
+        40.3603,
+        116.005
+      ]
+    },
+    {
+      "id": "r8zytk81p",
+      "cn": "自由女神像",
+      "name": "Statue of liberty",
+      "image": "https://image.anitabi.cn/user/0/bangumi/11304/points/r8zytk81p-1735018452280.jpg?plan=h160",
+      "ep": 51,
+      "s": 266,
+      "geo": [
+        40.6891,
+        -74.0446
+      ]
+    },
+    {
+      "id": "r903qf4fc",
+      "cn": "克里姆林宫",
+      "name": "Патриаршие палаты",
+      "image": "https://image.anitabi.cn/user/0/bangumi/11304/points/r903qf4fc-1735018728812.jpg?plan=h160",
+      "ep": 51,
+      "s": 262,
+      "geo": [
+        55.7513,
+        37.6172
+      ]
+    },
+    {
+      "id": "r90g0q25n",
+      "cn": "圣家堂",
+      "name": "Basílica de la Sagrada Família",
+      "image": "https://image.anitabi.cn/user/0/bangumi/11304/points/r90g0q25n-1735019463594.jpg?plan=h160",
+      "ep": 51,
+      "s": 264,
+      "geo": [
+        41.4035,
+        2.1743
+      ]
+    }
+  ],
+  "pointsLength": 18,
+  "imagesLength": 18,
+  "local_id": 179
+}

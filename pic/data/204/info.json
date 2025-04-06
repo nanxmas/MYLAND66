@@ -1,0 +1,40 @@
+{
+  "id": 18294,
+  "cn": "歌牌情缘",
+  "title": "ちはやふる",
+  "city": "大津市",
+  "cover": "https://image.xinu.ink/pic/data/204/images/18294.jpg",
+  "color": "#80bf40",
+  "geo": [
+    35.03288215862635,
+    135.85245522273112
+  ],
+  "zoom": 17.699,
+  "modified": 1737826061884,
+  "litePoints": [
+    {
+      "id": "s8rpg09wj",
+      "name": "近江勧学館",
+      "image": "https://image.anitabi.cn/user/2168/bangumi/18294/points/s8rpg09wj-1737821560092.jpg?plan=h160",
+      "ep": 13,
+      "geo": [
+        35.0335,
+        135.8527
+      ]
+    },
+    {
+      "id": "s8rs7i8y2",
+      "cn": "近江神宫",
+      "name": "近江神宫",
+      "image": "https://image.anitabi.cn/user/2168/bangumi/18294/points/s8rs7i8y2-1737821708720.jpg?plan=h160",
+      "ep": 13,
+      "geo": [
+        35.0321,
+        135.8523
+      ]
+    }
+  ],
+  "pointsLength": 11,
+  "imagesLength": 10,
+  "local_id": 204
+}

@@ -1,0 +1,24 @@
+{
+  "id": 16437,
+  "cn": "里约大冒险",
+  "title": "Rio",
+  "cover": "https://image.xinu.ink/pic/data/199/images/16437_3fT1P.jpg",
+  "modified": 1730180408116,
+  "litePoints": [
+    {
+      "id": "pj8buk22h",
+      "cn": "里约热内卢基督像",
+      "name": "Cristo Redentor",
+      "image": "https://image.anitabi.cn/user/0/bangumi/16437/points/pj8buk22h-1730178076363.jpg?plan=h160",
+      "ep": 46,
+      "s": 898,
+      "geo": [
+        -22.952,
+        -43.2105
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 199
+}

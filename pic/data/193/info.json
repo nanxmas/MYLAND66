@@ -1,0 +1,119 @@
+{
+  "id": 14761,
+  "cn": "镰鼬之夜",
+  "title": "かまいたちの夜",
+  "city": "长野县",
+  "cover": "https://image.xinu.ink/pic/data/193/images/14761_oKoyO.jpg",
+  "color": "#2764b4",
+  "geo": [
+    36.716707150749116,
+    137.83151260648378
+  ],
+  "zoom": 18.697,
+  "modified": 1728229487740,
+  "litePoints": [
+    {
+      "id": "oubjpxs60",
+      "cn": "白马八方尾根滑雪场",
+      "name": "白馬八方尾根スキー場",
+      "image": "https://image.anitabi.cn/points/14761/oubjpxs60_1728226736978.jpg?plan=h160",
+      "geo": [
+        36.7035,
+        137.831
+      ]
+    },
+    {
+      "id": "oud094ano",
+      "cn": "Pension Knulp",
+      "name": "ペンション クヌルプ",
+      "image": "https://image.anitabi.cn/points/14761/oud094ano_1728229115369.jpg?plan=h160",
+      "geo": [
+        36.7165,
+        137.8314
+      ]
+    },
+    {
+      "id": "oubs0d1f5",
+      "cn": "Knulp正门",
+      "name": "クヌルプ玄関のドア",
+      "image": "https://image.anitabi.cn/points/14761/oubs0d1f5_1728226724312.jpg?plan=h160",
+      "geo": [
+        36.7167,
+        137.8316
+      ]
+    },
+    {
+      "id": "ouczw9zic",
+      "cn": "Knulp门口",
+      "name": "クヌルプ室外",
+      "image": "https://image.anitabi.cn/points/14761/ouczw9zic_1728229099451.jpg?plan=h160",
+      "geo": [
+        36.7167,
+        137.8316
+      ]
+    },
+    {
+      "id": "oucxr63ks",
+      "cn": "Knulp地下室",
+      "name": "クヌルプ地下室",
+      "image": "https://image.anitabi.cn/points/14761/oucxr63ks_1728229014254.jpg?plan=h160",
+      "geo": [
+        36.7167,
+        137.8316
+      ]
+    },
+    {
+      "id": "oubyj4sjq",
+      "cn": "Knulp谈话室",
+      "name": "クヌルプ談話室",
+      "image": "https://image.anitabi.cn/points/14761/oubyj4sjq_1728226860650.jpg?plan=h160",
+      "geo": [
+        36.7167,
+        137.8316
+      ]
+    },
+    {
+      "id": "ouc2v3hcf",
+      "cn": "Knulp玄关",
+      "name": "クヌルプ玄関",
+      "image": "https://image.anitabi.cn/points/14761/ouc2v3hcf_1728227094715.jpg?plan=h160",
+      "geo": [
+        36.7167,
+        137.8316
+      ]
+    },
+    {
+      "id": "ouc382z59",
+      "cn": "Knulp谈话室前台",
+      "name": "クヌルプ談話室のフロント",
+      "image": "https://image.anitabi.cn/points/14761/ouc382z59_1728227121393.jpg?plan=h160",
+      "geo": [
+        36.7167,
+        137.8316
+      ]
+    },
+    {
+      "id": "ouc2d77z6",
+      "cn": "Knulp谈话室窗户",
+      "name": "クヌルプ窓",
+      "image": "https://image.anitabi.cn/points/14761/ouc2d77z6_1728227065080.jpg?plan=h160",
+      "geo": [
+        36.7167,
+        137.8316
+      ]
+    },
+    {
+      "id": "oubmq2pj5",
+      "cn": "Knulp后门",
+      "name": "クヌルプ裏口",
+      "image": "https://image.anitabi.cn/points/14761/oubmq2pj5_1728226411912.jpg?plan=h160",
+      "geo": [
+        36.7168,
+        137.8318
+      ]
+    }
+  ],
+  "pointsLength": 38,
+  "imagesLength": 38,
+  "local_id": 193
+}

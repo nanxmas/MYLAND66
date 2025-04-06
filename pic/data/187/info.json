@@ -1,0 +1,128 @@
+{
+  "id": 12886,
+  "cn": "情书",
+  "title": "ラヴレター",
+  "city": "小樽市",
+  "cover": "https://image.xinu.ink/pic/data/187/images/12886.jpg",
+  "color": "#270c0c",
+  "geo": [
+    43.1986006809918,
+    140.99353981472416
+  ],
+  "zoom": 11.337,
+  "modified": 1742409981391,
+  "litePoints": [
+    {
+      "id": "a2625806",
+      "name": "Love Letter はじまり",
+      "image": "https://image.anitabi.cn/points/12886/a2625806_1729778153339.jpg?plan=h160",
+      "s": 1,
+      "geo": [
+        43.1791,
+        140.973
+      ]
+    },
+    {
+      "id": "f807f021",
+      "cn": "旧寿原邸",
+      "name": "8-1 Shinonomechō",
+      "image": "https://image.anitabi.cn/points/12886/f807f021_1729778193502.jpg?plan=h160",
+      "s": 419,
+      "geo": [
+        43.1931,
+        141.0038
+      ]
+    },
+    {
+      "id": "115db24c",
+      "cn": "船见坂",
+      "name": "Funamizaka",
+      "image": "https://image.anitabi.cn/points/12886/115db24c_1729778441754.jpg?plan=h160",
+      "s": 654,
+      "geo": [
+        43.1986,
+        140.9911
+      ]
+    },
+    {
+      "id": "ac2b044c",
+      "cn": "旧日本邮船小樽分店",
+      "name": "旧日本郵船小樽支店",
+      "image": "https://image.anitabi.cn/points/12886/ac2b044c_1729778522486.jpg?plan=h160",
+      "s": 1008,
+      "geo": [
+        43.2072,
+        140.9983
+      ]
+    },
+    {
+      "id": "4058e079",
+      "cn": "小樽玻璃工作室",
+      "name": "ザ・グラススタジオ・イン・オタル",
+      "image": "https://image.anitabi.cn/points/12886/4058e079_1729778755767.jpg?plan=h160",
+      "s": 1020,
+      "geo": [
+        43.1785,
+        140.9754
+      ]
+    },
+    {
+      "id": "d2e458ee",
+      "cn": "小樽市综合博物馆运河馆旁",
+      "name": "Otaru Museum of History and Nature",
+      "image": "https://image.anitabi.cn/points/12886/d2e458ee_1729778891811.jpg?plan=h160",
+      "s": 1932,
+      "geo": [
+        43.2007,
+        141.0004
+      ]
+    },
+    {
+      "id": "2a700692",
+      "cn": "小樽 Il Ponte",
+      "name": "Otaru Il Ponte",
+      "image": "https://image.anitabi.cn/points/12886/2a700692_1729778972658.jpg?plan=h160",
+      "s": 2021,
+      "geo": [
+        43.2009,
+        141.0003
+      ]
+    },
+    {
+      "id": "782af5ab",
+      "cn": "小樽市政厅",
+      "name": "センチュリー・プラザ・オタル",
+      "image": "https://image.anitabi.cn/points/12886/782af5ab_1729779128262.jpg?plan=h160",
+      "s": 2173,
+      "geo": [
+        43.1906,
+        140.9944
+      ]
+    },
+    {
+      "id": "aa3ec58a",
+      "cn": "小樽公园",
+      "name": "Otaru Park",
+      "image": "https://image.anitabi.cn/points/12886/aa3ec58a_1729779234120.jpg?plan=h160",
+      "s": 2673,
+      "geo": [
+        43.1874,
+        140.9928
+      ]
+    },
+    {
+      "id": "0e8997cc",
+      "cn": "旧三菱银行小樽分店",
+      "name": "旧三菱銀行小樽支店",
+      "image": "https://image.anitabi.cn/points/12886/0e8997cc_1729779314917.jpg?plan=h160",
+      "s": 2711,
+      "geo": [
+        43.197,
+        141.0022
+      ]
+    }
+  ],
+  "pointsLength": 17,
+  "imagesLength": 17,
+  "local_id": 187
+}

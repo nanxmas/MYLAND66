@@ -1,0 +1,95 @@
+{
+  "id": 12703,
+  "cn": "境界线上的地平线",
+  "title": "境界線上のホライゾン",
+  "city": "爱知县",
+  "cover": "https://image.xinu.ink/pic/data/186/images/12703.jpg",
+  "geo": [
+    35.182572100472015,
+    136.84431686939791
+  ],
+  "zoom": 11.578,
+  "modified": 1726752612305,
+  "litePoints": [
+    {
+      "id": "lk2wt2aze",
+      "name": "沖之島歩道橋",
+      "image": "https://image.anitabi.cn/points/12703/lk2wt2aze_1718960474491.jpg?plan=h160",
+      "ep": 4,
+      "s": 1184,
+      "geo": [
+        35.1841,
+        136.8067
+      ]
+    },
+    {
+      "id": "lk1rc08h4",
+      "name": "名古屋第二環状自動車道",
+      "image": "https://image.anitabi.cn/points/12703/lk1rc08h4_1718957688939.jpg?plan=h160",
+      "ep": 5,
+      "s": 69,
+      "geo": [
+        35.184,
+        136.8166
+      ]
+    },
+    {
+      "id": "lk1vehv7p",
+      "name": "カーコンビニ倶楽部 甚目寺南インター店",
+      "image": "https://image.anitabi.cn/points/12703/lk1vehv7p_1718957979169.jpg?plan=h160",
+      "ep": 5,
+      "s": 72,
+      "geo": [
+        35.1842,
+        136.8178
+      ]
+    },
+    {
+      "id": "lk1b6kzyw",
+      "name": "カラオケJOYJOY 甚目寺店",
+      "image": "https://image.anitabi.cn/points/12703/lk1b6kzyw_1718957450231.jpg?plan=h160",
+      "ep": 5,
+      "s": 82,
+      "geo": [
+        35.184,
+        136.8367
+      ]
+    },
+    {
+      "id": "lk25uewvl",
+      "name": "モス​バーガー\n甚目寺​店",
+      "image": "https://image.anitabi.cn/points/12703/lk25uewvl_1718958548086.jpg?plan=h160",
+      "ep": 5,
+      "s": 112,
+      "geo": [
+        35.184,
+        136.8369
+      ]
+    },
+    {
+      "id": "lk23ap8zi",
+      "name": "ゲーム選隊 甚目寺店",
+      "image": "https://image.anitabi.cn/points/12703/lk23ap8zi_1718958486330.jpg?plan=h160",
+      "ep": 5,
+      "s": 155,
+      "geo": [
+        35.1841,
+        136.8357
+      ]
+    },
+    {
+      "id": "lk29mlm07",
+      "name": "名古屋城",
+      "image": "https://image.anitabi.cn/points/12703/lk29mlm07_1718958900752.jpg?plan=h160",
+      "ep": 5,
+      "s": 422,
+      "geo": [
+        35.1855,
+        136.8988
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "local_id": 186
+}

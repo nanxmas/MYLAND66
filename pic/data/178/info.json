@@ -1,0 +1,105 @@
+{
+  "id": 11180,
+  "cn": "美妙旋律 极光之梦",
+  "title": "プリティーリズム・オーロラドリーム",
+  "city": "横滨市",
+  "cover": "https://image.xinu.ink/pic/data/178/images/11180.jpg",
+  "color": "#ca5240",
+  "geo": [
+    35.451944911780586,
+    139.6443365737273
+  ],
+  "zoom": 13.371,
+  "modified": 1725839338762,
+  "litePoints": [
+    {
+      "id": "ko2dmcany",
+      "name": "山下公園：ガールスカウト像",
+      "image": "https://image.anitabi.cn/user/0/bangumi/11180/points/ko2dmcany-1725816504649.jpg?plan=h160",
+      "ep": 9,
+      "s": 625,
+      "geo": [
+        35.4456,
+        139.6506
+      ]
+    },
+    {
+      "id": "ko2dmcaoc",
+      "name": "パシフィコ横浜：サマークイーンカップ練習場所",
+      "image": "https://image.anitabi.cn/points/11180/ko2dmcaoc_1716451383011.jpg?plan=h160",
+      "ep": 21,
+      "s": 173,
+      "geo": [
+        35.4581,
+        139.6361
+      ]
+    },
+    {
+      "id": "ko2dmca9z",
+      "name": "石川町：りずむの家（マンション）",
+      "geo": [
+        35.4369,
+        139.6407
+      ]
+    },
+    {
+      "id": "ko2dmcalk",
+      "name": "元町：ポンパドウル",
+      "geo": [
+        35.4396,
+        139.6467
+      ]
+    },
+    {
+      "id": "ko2dmcakx",
+      "name": "元町：喜久屋",
+      "geo": [
+        35.4406,
+        139.6486
+      ]
+    },
+    {
+      "id": "ko2dmcav1",
+      "name": "元町：ウチキパン",
+      "geo": [
+        35.4409,
+        139.6506
+      ]
+    },
+    {
+      "id": "ko2dmca6w",
+      "name": "元町：あいらの家（Haru no Soraoto）",
+      "geo": [
+        35.4409,
+        139.6508
+      ]
+    },
+    {
+      "id": "ko2dmcat8",
+      "name": "港の見える丘公園",
+      "geo": [
+        35.4404,
+        139.6546
+      ]
+    },
+    {
+      "id": "ko2dmcafb",
+      "name": "元町：高架下",
+      "geo": [
+        35.4424,
+        139.6522
+      ]
+    },
+    {
+      "id": "ko2dmcauo",
+      "name": "中華街：門",
+      "geo": [
+        35.4425,
+        139.6479
+      ]
+    }
+  ],
+  "pointsLength": 25,
+  "imagesLength": 2,
+  "local_id": 178
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "r974uk8su",
+    "cn": "胡夫金字塔",
+    "name": "هرم خوفو",
+    "image": "https://image.xinu.ink/pic/data/201/images/r974uk8su-1735034020544.jpg",
+    "ep": "39",
+    "s": "670",
+    "geo": [
+      29.9789,
+      31.1342
+    ]
+  },
+  {
+    "id": "r978puins",
+    "cn": "埃菲尔铁塔",
+    "name": "Tour Eiffel",
+    "image": "https://image.xinu.ink/pic/data/201/images/r978puins-1735034256666.jpg",
+    "ep": "39",
+    "s": "672",
+    "geo": [
+      48.8581,
+      2.2945
+    ]
+  },
+  {
+    "id": "r97a2h4f3",
+    "cn": "红场",
+    "name": "Красная площадь",
+    "image": "https://image.xinu.ink/pic/data/201/images/r97a2h4f3-1735034334260.jpg",
+    "ep": "39",
+    "s": "674",
+    "geo": [
+      55.7537,
+      37.6208
+    ]
+  }
+]

@@ -1,0 +1,115 @@
+{
+  "id": 12981,
+  "cn": "鬼的捉迷藏！",
+  "title": "鬼ごっこ！",
+  "city": "冈山县",
+  "cover": "https://image.xinu.ink/pic/data/188/images/12981.jpg",
+  "color": "#ca5d40",
+  "geo": [
+    34.601861365030544,
+    134.00832460262643
+  ],
+  "zoom": 9.254,
+  "modified": 1720502120366,
+  "litePoints": [
+    {
+      "id": "k2ck3hlcl",
+      "cn": "大沼国定公园",
+      "name": "大沼国定公園 公園広場",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/12981/points/k2ck3hlcl-1714749572171.jpg?plan=h160",
+      "geo": [
+        41.9839,
+        140.6723
+      ]
+    },
+    {
+      "id": "k2cmepd9m",
+      "cn": "大谷资料馆",
+      "name": "大谷資料館",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/12981/points/k2cmepd9m-1714749652804.jpg?plan=h160",
+      "geo": [
+        36.5999,
+        139.8247
+      ]
+    },
+    {
+      "id": "k2cp3q2oh",
+      "cn": "龙安寺",
+      "name": "龍安寺",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/12981/points/k2cp3q2oh-1714749909018.jpg?plan=h160",
+      "geo": [
+        35.0344,
+        135.7182
+      ]
+    },
+    {
+      "id": "k2cukusdk",
+      "cn": "冈山城不明门",
+      "name": "岡山城 不明門",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/12981/points/k2cukusdk-1714750157770.jpg?plan=h160",
+      "geo": [
+        34.6643,
+        133.9358
+      ]
+    },
+    {
+      "id": "k2cwfwbq7",
+      "name": "オランダ通り",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/12981/points/k2cwfwbq7-1714750451897.jpg?plan=h160",
+      "geo": [
+        34.6623,
+        133.9297
+      ]
+    },
+    {
+      "id": "k2d1gepo6",
+      "name": "鬼ノ城 角楼",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/12981/points/k2d1gepo6-1714750588490.jpg?plan=h160",
+      "geo": [
+        34.7265,
+        133.7629
+      ]
+    },
+    {
+      "id": "k2d6p974g",
+      "name": "入船山記念館",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/12981/points/k2d6p974g-1714750878688.jpg?plan=h160",
+      "geo": [
+        34.2403,
+        132.5639
+      ]
+    },
+    {
+      "id": "k2dbcpjn2",
+      "cn": "天使之路",
+      "name": "エンジェル​ロード",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/12981/points/k2dbcpjn2-1714751165352.jpg?plan=h160",
+      "geo": [
+        34.4777,
+        134.1886
+      ]
+    },
+    {
+      "id": "k2dcwhdya",
+      "name": "約束の丘展望台",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/12981/points/k2dcwhdya-1714751282720.jpg?plan=h160",
+      "geo": [
+        34.4779,
+        134.1889
+      ]
+    },
+    {
+      "id": "k2dgxcidl",
+      "cn": "岬之分教场",
+      "name": "岬の分教場",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/12981/points/k2dgxcidl-1714751506296.jpg?plan=h160",
+      "geo": [
+        34.4522,
+        134.286
+      ]
+    }
+  ],
+  "pointsLength": 14,
+  "imagesLength": 14,
+  "local_id": 188
+}

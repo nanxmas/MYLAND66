@@ -1,0 +1,24 @@
+[
+  {
+    "id": "p4c67t1dn",
+    "cn": "清水寺",
+    "name": "Kiyomizu Temple",
+    "image": "https://image.xinu.ink/pic/data/196/images/p4c67t1dn-1729011062498.jpg",
+    "ep": 12,
+    "geo": [
+      34.9947,
+      135.7852
+    ]
+  },
+  {
+    "id": "p4cbozvj6",
+    "cn": "渡月桥",
+    "name": "渡月橋",
+    "image": "https://image.xinu.ink/pic/data/196/images/p4cbozvj6-1729011428439.jpg",
+    "ep": "S4 12",
+    "geo": [
+      35.0135,
+      135.6782
+    ]
+  }
+]

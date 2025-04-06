@@ -1,0 +1,138 @@
+{
+  "id": 13938,
+  "cn": "东京爱情故事",
+  "title": "東京ラブストーリー",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/191/images/13938_Ys7ZI.jpg",
+  "geo": [
+    35.660901236300305,
+    139.72126339932186
+  ],
+  "zoom": 11.591,
+  "modified": 1740308494620,
+  "litePoints": [
+    {
+      "id": "d595cd30",
+      "cn": "东京国际空港",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/13938/d595cd30_1730816133773.jpg?plan=h160",
+      "ep": 1,
+      "s": 1,
+      "geo": [
+        35.5511,
+        139.789
+      ]
+    },
+    {
+      "id": "bd778778",
+      "cn": "山田仓库",
+      "name": "Dépot Tokyo Lease",
+      "image": "https://image.anitabi.cn/points/13938/bd778778_1730816248370.jpg?plan=h160",
+      "ep": 1,
+      "s": 66,
+      "geo": [
+        35.6383,
+        139.7539
+      ]
+    },
+    {
+      "id": "1bf9a3c4",
+      "cn": "TSP 太阳公司",
+      "name": "TSP Taiyo",
+      "image": "https://image.anitabi.cn/points/13938/1bf9a3c4_1730816311121.jpg?plan=h160",
+      "ep": 1,
+      "s": 155,
+      "geo": [
+        35.6465,
+        139.6941
+      ]
+    },
+    {
+      "id": "b8dcb448",
+      "cn": "安藤纪念幼儿园",
+      "name": "Andō Memorial Kindergarten",
+      "image": "https://image.anitabi.cn/points/13938/b8dcb448_1730816423356.jpg?plan=h160",
+      "ep": 1,
+      "s": 427,
+      "geo": [
+        35.6524,
+        139.7302
+      ]
+    },
+    {
+      "id": "17ee6897",
+      "cn": "天竺屋台",
+      "name": "Tenjiku Yatai",
+      "image": "https://image.anitabi.cn/points/13938/17ee6897_1730816522445.jpg?plan=h160",
+      "ep": 1,
+      "s": 540,
+      "geo": [
+        35.6472,
+        139.6944
+      ]
+    },
+    {
+      "id": "8f4d169d",
+      "cn": "青山花茂总店",
+      "name": "AOYAMA HANAMO Aoyama Branch",
+      "image": "https://image.anitabi.cn/points/13938/8f4d169d_1730816571977.jpg?plan=h160",
+      "ep": 1,
+      "s": 752,
+      "geo": [
+        35.6632,
+        139.7102
+      ]
+    },
+    {
+      "id": "55801cf0",
+      "cn": "传之书签居酒屋",
+      "name": "Dennoshiori",
+      "image": "https://image.anitabi.cn/points/13938/55801cf0_1730816653502.jpg?plan=h160",
+      "ep": 2,
+      "s": 1140,
+      "geo": [
+        35.6646,
+        139.7125
+      ]
+    },
+    {
+      "id": "fdf66782",
+      "cn": "目黑长者丸科斯莫住宅",
+      "name": "恵比寿長者丸電停跡",
+      "image": "https://image.anitabi.cn/points/13938/fdf66782_1730816843255.jpg?plan=h160",
+      "ep": 1,
+      "s": 1188,
+      "geo": [
+        35.6407,
+        139.7157
+      ]
+    },
+    {
+      "id": "f1db5762",
+      "cn": "文京区体育中心",
+      "name": "文京区体育中心",
+      "image": "https://image.anitabi.cn/points/13938/f1db5762_1730817092321.jpg?plan=h160",
+      "ep": 1,
+      "s": 1334,
+      "geo": [
+        35.7205,
+        139.7364
+      ]
+    },
+    {
+      "id": "590d4b53",
+      "cn": "教育森林公园",
+      "name": "Bunkyo City Kyoiku-no-mori Park",
+      "image": "https://image.anitabi.cn/points/13938/590d4b53_1730816998343.jpg?plan=h160",
+      "ep": 1,
+      "s": 1361,
+      "geo": [
+        35.7199,
+        139.736
+      ]
+    }
+  ],
+  "pointsLength": 20,
+  "imagesLength": 20,
+  "local_id": 191
+}

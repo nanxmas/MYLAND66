@@ -1,0 +1,359 @@
+[
+  {
+    "id": "kpx6oiwyb",
+    "name": "スズラン百貨店高崎店付近",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oiwyb_1735404718746.jpg",
+    "ep": 1,
+    "s": 664,
+    "geo": [
+      36.3243,
+      139.0044
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=36.324314%2C139.004436&z=17"
+  },
+  {
+    "id": "kpx6oiwdx",
+    "cn": "长良公园",
+    "name": "長良公園",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oiwdx-1721918801406.jpg",
+    "ep": 3,
+    "s": 120,
+    "geo": [
+      35.4469,
+      136.7842
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=35.446966%2C136.78427&z=17"
+  },
+  {
+    "id": "kpx6oiwz3",
+    "name": "高崎駅西口",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oiwz3_1735404729409.jpg",
+    "ep": 3,
+    "s": 680,
+    "geo": [
+      36.3227,
+      139.0117
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=36.322717%2C139.011718&z=17"
+  },
+  {
+    "id": "kpx6oixff",
+    "name": "高崎駅西口バス５番乗り場",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oixff_1735404760722.jpg",
+    "ep": 3,
+    "s": 689,
+    "geo": [
+      36.3222,
+      139.0114
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=36.322259%2C139.011407&z=17"
+  },
+  {
+    "id": "kpx6oiwzg",
+    "name": "高崎駅西口駅ビル（モントレー）５Ｆのエスカレーター",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oiwzg_1735404770025.jpg",
+    "ep": 3,
+    "s": 1084,
+    "geo": [
+      36.3222,
+      139.012
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=36.322281%2C139.012005&z=17"
+  },
+  {
+    "id": "kpx6oixsm",
+    "name": "西岐阜駅",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oixsm_1735404997313.jpg",
+    "ep": 6,
+    "s": 542,
+    "geo": [
+      35.4047,
+      136.7237
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=35.404786%2C136.723762&z=17"
+  },
+  {
+    "id": "kpx6oj0gx",
+    "name": "高崎駅西口（８話）",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oj0gx_1735404823305.jpg",
+    "ep": 6,
+    "s": 1154,
+    "geo": [
+      36.3222,
+      139.0118
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=36.322287%2C139.011855&z=17"
+  },
+  {
+    "id": "kpx6oiz5z",
+    "name": "穂積駅",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oiz5z_1735405143025.jpg",
+    "ep": 8,
+    "s": 1,
+    "geo": [
+      35.3961,
+      136.6933
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=35.396161%2C136.69334&z=17"
+  },
+  {
+    "id": "kpx6oizdj",
+    "name": "高崎駅改札口",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oizdj_1735404801977.jpg",
+    "ep": 8,
+    "s": 781,
+    "geo": [
+      36.3224,
+      139.0127
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=36.322475%2C139.012772&z=17"
+  },
+  {
+    "id": "kpx6oizkq",
+    "name": "高崎駅西口方面",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oizkq_1735404810777.jpg",
+    "ep": 8,
+    "s": 791,
+    "geo": [
+      36.3224,
+      139.012
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=36.322417%2C139.012003&z=17"
+  },
+  {
+    "id": "kpx6oix6p",
+    "name": "カリビアンビーチ",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oix6p_1735404703457.jpg",
+    "ep": 8,
+    "s": 1300,
+    "geo": [
+      36.3993,
+      139.237
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=36.399329%2C139.237067&z=17"
+  },
+  {
+    "id": "kpx6oj0o8",
+    "name": "旧前田侯爵邸内",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oj0o8_1735405526850.jpg",
+    "ep": 9,
+    "s": 526,
+    "geo": [
+      35.6621,
+      139.6801
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=35.662115%2C139.680162&z=17"
+  },
+  {
+    "id": "kpx6oj0jd",
+    "name": "旧前田侯爵邸",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oj0jd_1735405540835.jpg",
+    "ep": 9,
+    "s": 612,
+    "geo": [
+      35.6622,
+      139.6795
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=35.662269%2C139.67958&z=17"
+  },
+  {
+    "id": "kpx6oj0be",
+    "name": "旧前田侯爵邸正門",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oj0be_1735405611868.jpg",
+    "ep": 9,
+    "s": 1226,
+    "geo": [
+      35.6621,
+      139.6799
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=35.662141%2C139.679908&z=17"
+  },
+  {
+    "id": "kpx6oj1do",
+    "name": "犬山橋",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oj1do_1735404927465.jpg",
+    "ep": 10,
+    "s": 6,
+    "geo": [
+      35.392,
+      136.9463
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=35.392059%2C136.946366&z=17"
+  },
+  {
+    "id": "kpx6oj15x",
+    "name": "中京競馬場（パノラマカー広場）",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oj15x_1735404582690.jpg",
+    "ep": 10,
+    "s": 8,
+    "geo": [
+      35.0674,
+      136.9914
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=35.067409%2C136.991406&z=17"
+  },
+  {
+    "id": "kpx6oj1bv",
+    "name": "小田原駅（13番線）",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oj1bv_1735404543241.jpg",
+    "ep": 10,
+    "s": 9,
+    "geo": [
+      35.257,
+      139.1555
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=35.257013%2C139.155552&z=17"
+  },
+  {
+    "id": "kpx6oj1jk",
+    "name": "根府川駅",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oj1jk_1735404532594.jpg",
+    "ep": 10,
+    "s": 173,
+    "geo": [
+      35.2028,
+      139.1383
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=35.202812%2C139.138362&z=17"
+  },
+  {
+    "id": "kpx6oj11h",
+    "name": "東京ビッグサイト",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oj11h_1735404652249.jpg",
+    "ep": 11,
+    "s": 244,
+    "geo": [
+      35.6301,
+      139.7938
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=35.630137%2C139.793853&z=17"
+  },
+  {
+    "id": "kpx6oj1yh",
+    "name": "高崎駅西口（11話）",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oj1yh_1735404840176.jpg",
+    "ep": 11,
+    "s": 410,
+    "geo": [
+      36.3221,
+      139.0118
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=36.322164%2C139.011834&z=17"
+  },
+  {
+    "id": "kpx6oj1pk",
+    "name": "高崎駅西口自転車駐車場付近1",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oj1pk_1735404874729.jpg",
+    "ep": 11,
+    "s": 411,
+    "geo": [
+      36.3213,
+      139.0118
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=36.321319%2C139.011826&z=17"
+  },
+  {
+    "id": "kpx6oj2wz",
+    "name": "高崎駅西口自転車駐車場付近2",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oj2wz_1735404897538.jpg",
+    "ep": 11,
+    "s": 461,
+    "geo": [
+      36.3211,
+      139.0116
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=36.321198%2C139.011678&z=17"
+  },
+  {
+    "id": "kpx6oj2rg",
+    "name": "加納天満宮",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oj2rg_1735404943090.jpg",
+    "ep": 11,
+    "s": 662,
+    "geo": [
+      35.4067,
+      136.7586
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=35.406777%2C136.758628&z=17"
+  },
+  {
+    "id": "kpx6oj2rc",
+    "name": "加納天満宮門",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oj2rc_1735404953698.jpg",
+    "ep": 11,
+    "s": 1008,
+    "geo": [
+      35.4063,
+      136.7583
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=35.406397%2C136.758311&z=17"
+  },
+  {
+    "id": "kpx6oj2k0",
+    "name": "横浜英和女学院",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oj2k0_1735406407315.jpg",
+    "geo": [
+      35.427,
+      139.6096
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1m9b0hbW3RyFNWac57ArqZPhxQG4&ll=35.427062%2C139.609687&z=17"
+  },
+  {
+    "id": "rdy4gp0lh",
+    "name": "横浜英和女学院　校舎",
+    "image": "https://image.xinu.ink/pic/data/202/images/rdy4gp0lh_1735406391988.jpg",
+    "geo": [
+      35.4266,
+      139.6095
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rdy25vc5l",
+    "name": "横浜英和女学院　ブリテンホール",
+    "image": "https://image.xinu.ink/pic/data/202/images/rdy25vc5l_1735406400660.jpg",
+    "geo": [
+      35.4261,
+      139.6096
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rdy0713kd",
+    "name": "横浜英和女学院　体育館",
+    "image": "https://image.xinu.ink/pic/data/202/images/rdy0713kd_1735405975403.jpg",
+    "geo": [
+      35.4267,
+      139.609
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

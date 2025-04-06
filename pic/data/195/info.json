@@ -1,0 +1,109 @@
+{
+  "id": 14830,
+  "cn": "大鱼·海棠",
+  "title": "",
+  "city": "福建省",
+  "cover": "https://image.xinu.ink/pic/data/195/images/14830.jpg",
+  "color": "#9b2d2a",
+  "geo": [
+    24.346593687725317,
+    116.95583638335819
+  ],
+  "zoom": 8.906,
+  "modified": 1726751907503,
+  "litePoints": [
+    {
+      "id": "kte0yiamu",
+      "name": "衍香楼",
+      "image": "https://image.anitabi.cn/points/14830/kte0yiamu_1716870275218.jpg?plan=h160",
+      "geo": [
+        24.6091,
+        116.9706
+      ]
+    },
+    {
+      "id": "ktf1qjt3j",
+      "name": "衍香楼天井",
+      "image": "https://image.anitabi.cn/points/14830/ktf1qjt3j_1716870756164.jpg?plan=h160",
+      "geo": [
+        24.6091,
+        116.9705
+      ]
+    },
+    {
+      "id": "kte1oz6m4",
+      "name": "衍香楼后的废墟",
+      "image": "https://image.anitabi.cn/points/14830/kte1oz6m4_1716870323026.jpg?plan=h160",
+      "geo": [
+        24.6086,
+        116.9711
+      ]
+    },
+    {
+      "id": "kte4amah1",
+      "name": "济行桥",
+      "image": "https://image.anitabi.cn/points/14830/kte4amah1_1716870329463.jpg?plan=h160",
+      "geo": [
+        24.6081,
+        116.9698
+      ]
+    },
+    {
+      "id": "kte669rlh",
+      "name": "承启楼",
+      "image": "https://image.anitabi.cn/points/14830/kte669rlh_1716870601669.jpg?plan=h160",
+      "geo": [
+        24.6635,
+        117.0042
+      ]
+    },
+    {
+      "id": "kte6u3oax",
+      "name": "云水谣古道",
+      "image": "https://image.anitabi.cn/points/14830/kte6u3oax_1716870714111.jpg?plan=h160",
+      "geo": [
+        24.6642,
+        117.088
+      ]
+    },
+    {
+      "id": "kte7f47a2",
+      "name": "和贵楼",
+      "image": "https://image.anitabi.cn/points/14830/kte7f47a2_1716870618131.jpg?plan=h160",
+      "geo": [
+        24.661,
+        117.0885
+      ]
+    },
+    {
+      "id": "kte8kx2ee",
+      "name": "田螺坑土楼群",
+      "image": "https://image.anitabi.cn/points/14830/kte8kx2ee_1716870627274.jpg?plan=h160",
+      "geo": [
+        24.5869,
+        117.0559
+      ]
+    },
+    {
+      "id": "kteb5oenv",
+      "name": "绳武楼",
+      "image": "https://image.anitabi.cn/points/14830/kteb5oenv_1716870647029.jpg?plan=h160",
+      "geo": [
+        24.4808,
+        117.046
+      ]
+    },
+    {
+      "id": "ktf3uh1q8",
+      "name": "朝源楼（存疑）",
+      "image": "https://image.anitabi.cn/points/14830/ktf3uh1q8_1716870994497.jpg?plan=h160",
+      "geo": [
+        24.0395,
+        117.0549
+      ]
+    }
+  ],
+  "pointsLength": 10,
+  "imagesLength": 10,
+  "local_id": 195
+}

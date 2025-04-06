@@ -1,0 +1,123 @@
+{
+  "id": 11577,
+  "cn": "偶像大师",
+  "title": "THE iDOLM@STER",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/180/images/11577.jpg",
+  "color": "#ff74b8",
+  "cp": "PROJECT iM@S",
+  "geo": [
+    35.6761919,
+    139.6503106
+  ],
+  "modified": 1741596904595,
+  "litePoints": [
+    {
+      "id": "a857o82c",
+      "name": "吾妻山公園 第２展望台",
+      "image": "https://image.anitabi.cn/user/0/bangumi/11577/points/a857o82c-1741591109448.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.2993,
+        139.2541
+      ]
+    },
+    {
+      "id": "a857o848",
+      "name": "二宮駅南口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/11577/points/a857o848-1741591468237.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.2986,
+        139.2581
+      ]
+    },
+    {
+      "id": "a857o8d4",
+      "cn": "二宫站",
+      "name": "二宮駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/11577/points/a857o8d4-1741591356100.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.2988,
+        139.2577
+      ]
+    },
+    {
+      "id": "a857o8xw",
+      "cn": "TBS",
+      "name": "赤坂駅１出口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/11577/points/a857o8xw-1676900751907.jpg?plan=h160",
+      "ep": 14,
+      "s": 534,
+      "geo": [
+        35.6728,
+        139.737
+      ]
+    },
+    {
+      "id": "a857o8uu",
+      "name": "東京ドームシティホール",
+      "image": "https://image.anitabi.cn/user/0/bangumi/11577/points/a857o8uu-1741591723696.jpg?plan=h160",
+      "ep": 24,
+      "geo": [
+        35.7031,
+        139.7542
+      ]
+    },
+    {
+      "id": "tkv19mmab",
+      "cn": "胜负前游园地",
+      "name": "勝負前遊園地",
+      "image": "https://image.anitabi.cn/user/0/bangumi/11577/points/tkv19mmab-1741590542772.jpg?plan=h160",
+      "ep": 24,
+      "geo": [
+        35.3002,
+        139.2554
+      ]
+    },
+    {
+      "id": "tkvr1370h",
+      "name": "二宮町役場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/11577/points/tkvr1370h-1741591860741.jpg?plan=h160",
+      "ep": 24,
+      "geo": [
+        35.2994,
+        139.2558
+      ]
+    },
+    {
+      "id": "tkvwsp3sz",
+      "name": "二宮駅南口（バス）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/11577/points/tkvwsp3sz-1741592180647.jpg?plan=h160",
+      "ep": 24,
+      "geo": [
+        35.2986,
+        139.2581
+      ]
+    },
+    {
+      "id": "a857o8dc",
+      "name": "事務所",
+      "image": "https://image.anitabi.cn/points/11577/a857o8dc_1717934477577.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7005,
+        139.6325
+      ]
+    },
+    {
+      "id": "a857o8no",
+      "name": "旅館西郊付近",
+      "image": "https://image.anitabi.cn/points/11577/a857o8no_1717936170529.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.703,
+        139.6252
+      ]
+    }
+  ],
+  "pointsLength": 47,
+  "imagesLength": 27,
+  "local_id": 180
+}

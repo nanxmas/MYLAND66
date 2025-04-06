@@ -1,0 +1,124 @@
+{
+  "id": 10380,
+  "cn": "命运石之门",
+  "title": "STEINS;GATE",
+  "city": "千代田区",
+  "cover": "https://image.xinu.ink/pic/data/174/images/10380.jpg",
+  "color": "#8e8ec6",
+  "cp": "Nitroplus 未来ガジェッ…",
+  "geo": [
+    35.69878,
+    139.771392
+  ],
+  "zoom": 15,
+  "modified": 1739177777121,
+  "litePoints": [
+    {
+      "id": "kpx6og70a",
+      "cn": "秋叶原广播会馆",
+      "name": "秋葉原ラジオ会館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/10380/points/kovdimeor-1716514541178.jpg?plan=h160",
+      "ep": 24,
+      "s": 1405,
+      "geo": [
+        35.6981,
+        139.7719
+      ]
+    },
+    {
+      "id": "kpx6oga1r",
+      "cn": "秋叶神社",
+      "name": "秋葉神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/10380/points/kpx6oga1r-1720000739021.jpg?plan=h160",
+      "ep": 2,
+      "s": 324,
+      "geo": [
+        35.7165,
+        139.7858
+      ]
+    },
+    {
+      "id": "kpx6og9ug",
+      "name": "柳森神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/10380/points/kpx6og9ug-1725816320801.jpg?plan=h160",
+      "ep": 12,
+      "s": 1212,
+      "geo": [
+        35.6967,
+        139.7734
+      ]
+    },
+    {
+      "id": "kconuuxcc",
+      "name": "神田ふわあい桥",
+      "image": "https://image.anitabi.cn/user/0/bangumi/10380/points/kconuuxcc-1715559557937.jpg?plan=h160",
+      "ep": 2,
+      "s": 487,
+      "geo": [
+        35.6974,
+        139.7734
+      ]
+    },
+    {
+      "id": "nzk0qmsv1",
+      "cn": "秋葉原駅電気街口（西側）",
+      "name": "秋葉原駅電気街口（西側）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/10380/points/nzk0qmsv1-1725815160341.jpg?plan=h160",
+      "ep": 14,
+      "s": 673,
+      "geo": [
+        35.6992,
+        139.7725
+      ]
+    },
+    {
+      "id": "spwogmkmy",
+      "cn": "秋叶原站",
+      "name": "秋葉原駅電気街口（西側）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/10380/points/spwogmkmy-1739164625034.jpg?plan=h160",
+      "geo": [
+        35.6991,
+        139.7725
+      ]
+    },
+    {
+      "id": "kpx6og6ii",
+      "name": "液晶工房（閉店）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/10380/points/kpx6og6ii-1729181624798.jpg?plan=h160",
+      "geo": [
+        35.7025,
+        139.77
+      ]
+    },
+    {
+      "id": "kpx6og6hd",
+      "name": "カフェ メイリッシュ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/10380/points/kpx6og6hd-1723882310009.jpg?plan=h160",
+      "geo": [
+        35.7023,
+        139.7695
+      ]
+    },
+    {
+      "id": "lwfmxfmdk",
+      "name": "秋葉原駅（電気街口）",
+      "image": "https://image.anitabi.cn/points/10380/lwfmxfmdk_1719928240284.jpg?plan=h160",
+      "geo": [
+        35.6993,
+        139.7726
+      ]
+    },
+    {
+      "id": "kpx6og7r6",
+      "name": "アキハバラデパート",
+      "image": "https://image.anitabi.cn/points/10380/kpx6og7r6_1719928380668.jpg?plan=h160",
+      "geo": [
+        35.6982,
+        139.7726
+      ]
+    }
+  ],
+  "pointsLength": 29,
+  "imagesLength": 12,
+  "local_id": 174
+}

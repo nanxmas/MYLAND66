@@ -1,0 +1,109 @@
+{
+  "id": 13485,
+  "cn": "萝球社！",
+  "title": "ロウきゅーぶ！",
+  "city": "松户市",
+  "cover": "https://image.xinu.ink/pic/data/190/images/13485.jpg",
+  "color": "#c69c8e",
+  "cp": "TEAM RO-KYU-BU!",
+  "geo": [
+    35.784677,
+    139.899817
+  ],
+  "modified": 1742557604925,
+  "litePoints": [
+    {
+      "id": "kpx6oh4zf",
+      "name": "松戸駅西口付近１",
+      "image": "https://image.anitabi.cn/points/13485/kpx6oh4zf_1742557021254.jpg?plan=h160",
+      "geo": [
+        35.7844,
+        139.8999
+      ]
+    },
+    {
+      "id": "kpx6oh5l8",
+      "name": "松戸駅西口付近２",
+      "image": "https://image.anitabi.cn/points/13485/kpx6oh5l8_1742557561157.jpg?plan=h160",
+      "geo": [
+        35.7844,
+        139.9
+      ]
+    },
+    {
+      "id": "kpx6oh5f3",
+      "name": "松戸駅西口付近３",
+      "image": "https://image.anitabi.cn/points/13485/kpx6oh5f3_1742557281645.jpg?plan=h160",
+      "geo": [
+        35.7842,
+        139.8999
+      ]
+    },
+    {
+      "id": "kpx6oh5d4",
+      "name": "松戸駅西口付近（7話）",
+      "image": "https://image.anitabi.cn/points/13485/kpx6oh5d4_1742557087133.jpg?plan=h160",
+      "geo": [
+        35.7844,
+        139.9002
+      ]
+    },
+    {
+      "id": "kpx6oh5zc",
+      "name": "ケンタッキーフライドチキン松戸店付近",
+      "image": "https://image.anitabi.cn/points/13485/kpx6oh5zc_1742557103341.jpg?plan=h160",
+      "geo": [
+        35.7846,
+        139.8993
+      ]
+    },
+    {
+      "id": "kpx6oh68z",
+      "name": "マツモトキヨシ松戸西口店",
+      "image": "https://image.anitabi.cn/points/13485/kpx6oh68z_1742557115285.jpg?plan=h160",
+      "geo": [
+        35.7842,
+        139.8994
+      ]
+    },
+    {
+      "id": "kpx6oh6vl",
+      "name": "TSUTAYA松戸駅前店付近",
+      "image": "https://image.anitabi.cn/points/13485/kpx6oh6vl_1742557126005.jpg?plan=h160",
+      "geo": [
+        35.7845,
+        139.8992
+      ]
+    },
+    {
+      "id": "kpx6oh6q1",
+      "name": "居酒屋大都会",
+      "image": "https://image.anitabi.cn/points/13485/kpx6oh6q1_1742557171597.jpg?plan=h160",
+      "geo": [
+        35.7845,
+        139.8994
+      ]
+    },
+    {
+      "id": "kpx6oh7io",
+      "name": "BURGER KING松戸西口店付近",
+      "image": "https://image.anitabi.cn/points/13485/kpx6oh7io_1742556872822.jpg?plan=h160",
+      "geo": [
+        35.7841,
+        139.8995
+      ]
+    },
+    {
+      "id": "kpx6oh7ld",
+      "name": "松戸駅西口バス乗り場１",
+      "image": "https://image.anitabi.cn/points/13485/kpx6oh7ld_1742556883654.jpg?plan=h160",
+      "geo": [
+        35.7842,
+        139.8997
+      ]
+    }
+  ],
+  "pointsLength": 12,
+  "imagesLength": 12,
+  "local_id": 190
+}

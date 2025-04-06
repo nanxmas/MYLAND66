@@ -1,0 +1,131 @@
+{
+  "id": 14772,
+  "cn": "跳跃大搜查线",
+  "title": "踊る大捜査線",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/194/images/14772.jpg",
+  "color": "#2b6b00",
+  "geo": [
+    35.63486261498815,
+    139.8056066016286
+  ],
+  "zoom": 11.883,
+  "modified": 1725890897303,
+  "litePoints": [
+    {
+      "id": "m756hsb6s",
+      "cn": "东京电讯港站",
+      "name": "東京テレポート駅 A出口",
+      "image": "https://image.anitabi.cn/points/14772/m756hsb6s_1720767711393.jpg?plan=h160",
+      "ep": 1,
+      "s": 331,
+      "geo": [
+        35.6272,
+        139.7795
+      ]
+    },
+    {
+      "id": "m75ldi64m",
+      "name": "都立​シンボル​プロムナード​公園",
+      "image": "https://image.anitabi.cn/points/14772/m75ldi64m_1720768383083.jpg?plan=h160",
+      "ep": 1,
+      "s": 356,
+      "geo": [
+        35.6269,
+        139.7803
+      ]
+    },
+    {
+      "id": "m75hpogte",
+      "cn": "梦之大桥",
+      "name": "夢の大橋",
+      "image": "https://image.anitabi.cn/points/14772/m75hpogte_1720768160167.jpg?plan=h160",
+      "ep": 1,
+      "s": 381,
+      "geo": [
+        35.6283,
+        139.7834
+      ]
+    },
+    {
+      "id": "m77et7l4o",
+      "name": "湾岸署旁的空地",
+      "image": "https://image.anitabi.cn/points/14772/m77et7l4o_1720772369913.jpg?plan=h160",
+      "ep": 1,
+      "s": 405,
+      "geo": [
+        35.6562,
+        139.8175
+      ]
+    },
+    {
+      "id": "m75qs4np3",
+      "name": "湾岸署",
+      "image": "https://image.anitabi.cn/points/14772/m75qs4np3_1720768716114.jpg?plan=h160",
+      "ep": 1,
+      "s": 425,
+      "geo": [
+        35.6563,
+        139.8182
+      ]
+    },
+    {
+      "id": "m76v3np2c",
+      "name": "テクノウェイブ100",
+      "image": "https://image.anitabi.cn/points/14772/m76v3np2c_1720771161755.jpg?plan=h160",
+      "ep": 1,
+      "s": 696,
+      "geo": [
+        35.4813,
+        139.6443
+      ]
+    },
+    {
+      "id": "m76yyf6s8",
+      "name": "フェリーふ頭入り口交差点",
+      "image": "https://image.anitabi.cn/points/14772/m76yyf6s8_1720771387960.jpg?plan=h160",
+      "ep": 1,
+      "s": 1121,
+      "geo": [
+        35.6288,
+        139.7887
+      ]
+    },
+    {
+      "id": "m76bhgmm8",
+      "name": "タイム24ビル",
+      "image": "https://image.anitabi.cn/points/14772/m76bhgmm8_1720769969041.jpg?plan=h160",
+      "ep": 1,
+      "s": 1566,
+      "geo": [
+        35.6176,
+        139.7769
+      ]
+    },
+    {
+      "id": "m771f5yjn",
+      "name": "船の科学館入口交差点",
+      "image": "https://image.anitabi.cn/points/14772/m771f5yjn_1720771534803.jpg?plan=h160",
+      "ep": 1,
+      "s": 2011,
+      "geo": [
+        35.6206,
+        139.7737
+      ]
+    },
+    {
+      "id": "m772waiuf",
+      "name": "台場青海線タイム24南側カーブ",
+      "image": "https://image.anitabi.cn/points/14772/m772waiuf_1720771619265.jpg?plan=h160",
+      "ep": 1,
+      "s": 2217,
+      "geo": [
+        35.6165,
+        139.7771
+      ]
+    }
+  ],
+  "pointsLength": 91,
+  "imagesLength": 91,
+  "local_id": 194
+}

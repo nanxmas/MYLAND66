@@ -1,0 +1,35 @@
+{
+  "id": 14878,
+  "cn": "小魔女DoReMi 大合奏",
+  "title": "おジャ魔女どれみドッカ～ン!",
+  "cover": "https://image.xinu.ink/pic/data/196/images/14878.jpg",
+  "color": "#bf9f40",
+  "cp": "東映アニメーション",
+  "modified": 1729033854327,
+  "litePoints": [
+    {
+      "id": "p4c67t1dn",
+      "cn": "清水寺",
+      "name": "Kiyomizu Temple",
+      "image": "https://image.anitabi.cn/user/0/bangumi/14878/points/p4c67t1dn-1729011062498.jpg?plan=h160",
+      "ep": 12,
+      "geo": [
+        34.9947,
+        135.7852
+      ]
+    },
+    {
+      "id": "p4cbozvj6",
+      "cn": "渡月桥",
+      "name": "渡月橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/14878/points/p4cbozvj6-1729011428439.jpg?plan=h160",
+      "geo": [
+        35.0135,
+        135.6782
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 196
+}

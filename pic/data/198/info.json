@@ -1,0 +1,23 @@
+{
+  "id": 16245,
+  "cn": "世界上最NG的恋爱",
+  "title": "世界でいちばんNG（だめ）な恋",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/198/images/16245_p7qpo0znn.jpg",
+  "color": "#ff809f",
+  "modified": 1729359203049,
+  "litePoints": [
+    {
+      "id": "p7r7fk8tm",
+      "name": "JR上野駅 広小路口",
+      "image": "https://image.anitabi.cn/points/16245/p7r7fk8tm_1729278779822.jpg?plan=h160",
+      "geo": [
+        35.7114,
+        139.7761
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 198
+}

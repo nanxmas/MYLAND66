@@ -1,0 +1,130 @@
+{
+  "id": 10440,
+  "cn": "我们仍未知道那天所看见的花的名字。",
+  "title": "あの日見た花の名前を僕達はまだ知らない。",
+  "city": "秩父市",
+  "cover": "https://image.xinu.ink/pic/data/175/images/10440.jpg",
+  "color": "#002aaa",
+  "geo": [
+    36.002118203748466,
+    139.08757320322388
+  ],
+  "zoom": 13.517,
+  "modified": 1742460472694,
+  "litePoints": [
+    {
+      "id": "a4yyy6kt",
+      "cn": "旧秩父桥",
+      "name": "旧秩父橋",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/10440/points/a4yyy6kt-1673007748617.jpg?plan=h160",
+      "ep": 1,
+      "s": 230,
+      "geo": [
+        36.0187,
+        139.0863
+      ]
+    },
+    {
+      "id": "a4yyy74a",
+      "name": "羊山公園 見晴しの丘",
+      "image": "https://image.anitabi.cn/user/0/bangumi/10440/points/a.jpg?plan=h160",
+      "ep": 1,
+      "s": 257,
+      "geo": [
+        35.9901,
+        139.0901
+      ]
+    },
+    {
+      "id": "a4yyy6k9",
+      "name": "定林寺脇",
+      "image": "https://image.anitabi.cn/user/1019/bangumi/10440/points/a4yyy6k9-1672841804374.jpg?plan=h160",
+      "ep": 1,
+      "s": 259,
+      "geo": [
+        36.0056,
+        139.0841
+      ]
+    },
+    {
+      "id": "a4yyy6kq",
+      "name": "鶴見歯科脇 十字路",
+      "image": "https://image.anitabi.cn/points/10440/a4yyy6kq_1672646646367.jpg?plan=h160",
+      "ep": 1,
+      "s": 501,
+      "geo": [
+        36.0038,
+        139.0849
+      ]
+    },
+    {
+      "id": "a4yyy6ol",
+      "name": "秩父ふるさと館前 信号",
+      "image": "https://image.anitabi.cn/user/1019/bangumi/10440/points/1.jpg?plan=h160",
+      "ep": 1,
+      "s": 652,
+      "geo": [
+        35.9969,
+        139.0828
+      ]
+    },
+    {
+      "id": "a4yyy6xj",
+      "name": "浅野靴店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/10440/points/2.jpg?plan=h160",
+      "ep": 1,
+      "s": 921,
+      "geo": [
+        35.9956,
+        139.0839
+      ]
+    },
+    {
+      "id": "a4yyy756",
+      "name": "キンカ堂跡地正面の路地",
+      "image": "https://image.anitabi.cn/points/10440/a4yyy756_1672644800544.jpg?plan=h160",
+      "ep": 1,
+      "s": 923,
+      "geo": [
+        36.0006,
+        139.085
+      ]
+    },
+    {
+      "id": "a4yyy7jo",
+      "name": "公園",
+      "image": "https://image.anitabi.cn/points/10440/a4yyy7jo_1672644575655.jpg?plan=h160",
+      "ep": 1,
+      "s": 934,
+      "geo": [
+        36.0002,
+        139.0853
+      ]
+    },
+    {
+      "id": "a4yyy7we",
+      "name": "浦島歯科医院向かいの歩道",
+      "image": "https://image.anitabi.cn/points/10440/a4yyy7we_1672643399692.jpg?plan=h160",
+      "ep": 1,
+      "s": 1289,
+      "geo": [
+        35.9995,
+        139.0841
+      ]
+    },
+    {
+      "id": "a4yyy82c",
+      "name": "羊山公園内　芝桜の丘",
+      "image": "https://image.anitabi.cn/user/0/bangumi/10440/points/c.jpg?plan=h160",
+      "ep": 2,
+      "s": 96,
+      "geo": [
+        35.9811,
+        139.0885
+      ]
+    }
+  ],
+  "pointsLength": 96,
+  "imagesLength": 79,
+  "local_id": 175
+}

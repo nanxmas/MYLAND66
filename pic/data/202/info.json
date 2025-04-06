@@ -1,0 +1,131 @@
+{
+  "id": 17883,
+  "cn": "我的朋友很少",
+  "title": "僕は友達が少ない",
+  "city": "高崎市",
+  "cover": "https://image.xinu.ink/pic/data/202/images/17883.jpg",
+  "color": "#47635c",
+  "cp": "",
+  "geo": [
+    36.321903,
+    139.012118
+  ],
+  "zoom": 17,
+  "modified": 1735406440238,
+  "litePoints": [
+    {
+      "id": "kpx6oiwyb",
+      "name": "スズラン百貨店高崎店付近",
+      "image": "https://image.anitabi.cn/points/17883/kpx6oiwyb_1735404718746.jpg?plan=h160",
+      "ep": 1,
+      "s": 664,
+      "geo": [
+        36.3243,
+        139.0044
+      ]
+    },
+    {
+      "id": "kpx6oiwdx",
+      "cn": "长良公园",
+      "name": "長良公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/17883/points/kpx6oiwdx-1721918801406.jpg?plan=h160",
+      "ep": 3,
+      "s": 120,
+      "geo": [
+        35.4469,
+        136.7842
+      ]
+    },
+    {
+      "id": "kpx6oiwz3",
+      "name": "高崎駅西口",
+      "image": "https://image.anitabi.cn/points/17883/kpx6oiwz3_1735404729409.jpg?plan=h160",
+      "ep": 3,
+      "s": 680,
+      "geo": [
+        36.3227,
+        139.0117
+      ]
+    },
+    {
+      "id": "kpx6oixff",
+      "name": "高崎駅西口バス５番乗り場",
+      "image": "https://image.anitabi.cn/points/17883/kpx6oixff_1735404760722.jpg?plan=h160",
+      "ep": 3,
+      "s": 689,
+      "geo": [
+        36.3222,
+        139.0114
+      ]
+    },
+    {
+      "id": "kpx6oiwzg",
+      "name": "高崎駅西口駅ビル（モントレー）５Ｆのエスカレーター",
+      "image": "https://image.anitabi.cn/points/17883/kpx6oiwzg_1735404770025.jpg?plan=h160",
+      "ep": 3,
+      "s": 1084,
+      "geo": [
+        36.3222,
+        139.012
+      ]
+    },
+    {
+      "id": "kpx6oixsm",
+      "name": "西岐阜駅",
+      "image": "https://image.anitabi.cn/points/17883/kpx6oixsm_1735404997313.jpg?plan=h160",
+      "ep": 6,
+      "s": 542,
+      "geo": [
+        35.4047,
+        136.7237
+      ]
+    },
+    {
+      "id": "kpx6oj0gx",
+      "name": "高崎駅西口（８話）",
+      "image": "https://image.anitabi.cn/points/17883/kpx6oj0gx_1735404823305.jpg?plan=h160",
+      "ep": 6,
+      "s": 1154,
+      "geo": [
+        36.3222,
+        139.0118
+      ]
+    },
+    {
+      "id": "kpx6oiz5z",
+      "name": "穂積駅",
+      "image": "https://image.anitabi.cn/points/17883/kpx6oiz5z_1735405143025.jpg?plan=h160",
+      "ep": 8,
+      "s": 1,
+      "geo": [
+        35.3961,
+        136.6933
+      ]
+    },
+    {
+      "id": "kpx6oizdj",
+      "name": "高崎駅改札口",
+      "image": "https://image.anitabi.cn/points/17883/kpx6oizdj_1735404801977.jpg?plan=h160",
+      "ep": 8,
+      "s": 781,
+      "geo": [
+        36.3224,
+        139.0127
+      ]
+    },
+    {
+      "id": "kpx6oizkq",
+      "name": "高崎駅西口方面",
+      "image": "https://image.anitabi.cn/points/17883/kpx6oizkq_1735404810777.jpg?plan=h160",
+      "ep": 8,
+      "s": 791,
+      "geo": [
+        36.3224,
+        139.012
+      ]
+    }
+  ],
+  "pointsLength": 41,
+  "imagesLength": 41,
+  "local_id": 202
+}

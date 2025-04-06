@@ -1,0 +1,120 @@
+[
+  {
+    "id": "ieocelr4k",
+    "name": "新天鹅堡",
+    "image": "https://image.xinu.ink/pic/data/177/images/ieocelr4k-1710073449704.jpg",
+    "ep": 2,
+    "s": 485,
+    "geo": [
+      47.5575,
+      10.7497
+    ]
+  },
+  {
+    "id": "iepamaiwz",
+    "cn": "圣萨维尔天主堂",
+    "name": "聖ザビエル天主堂",
+    "image": "https://image.xinu.ink/pic/data/177/images/iepamaiwz-1710075431737.jpg",
+    "ep": 1,
+    "s": 1391,
+    "geo": [
+      35.3415,
+      136.9917
+    ]
+  },
+  {
+    "id": "ii16barsu",
+    "cn": "帝国酒店中央大门",
+    "name": "帝国ホテル中央玄関",
+    "image": "https://image.xinu.ink/pic/data/177/images/ii16barsu-1710336427219.jpg",
+    "ep": 1,
+    "s": "213",
+    "geo": [
+      35.3472,
+      136.9887
+    ]
+  },
+  {
+    "id": "lqflx37np",
+    "cn": "首都圈外郭放水路",
+    "name": "地底​探険​ミュージアム​龍Q館",
+    "image": "https://image.xinu.ink/pic/data/177/images/lqflx37np-1719458423329.jpg",
+    "ep": 9,
+    "s": 1047,
+    "geo": [
+      35.997,
+      139.8117
+    ]
+  },
+  {
+    "id": "rgalhtxom",
+    "cn": "横滨外国人墓地",
+    "name": "横浜外国人墓地",
+    "image": "https://image.xinu.ink/pic/data/177/images/rgalhtxom-1735590340816.jpg",
+    "ep": 12,
+    "s": 989,
+    "geo": [
+      35.4395,
+      139.6523
+    ],
+    "origin": "ぱふぇ (id:paffue)",
+    "originLink": "https://btsoken.hatenablog.com/entry/20131030/1383149121"
+  },
+  {
+    "id": "4yd5jp8pb",
+    "cn": "神户蒙特利酒店",
+    "name": "ホテル​モン​トレ​神戸",
+    "image": "https://image.xinu.ink/pic/data/177/images/4yd5jp8pb-1673346161565.jpg",
+    "ep": 1,
+    "s": null,
+    "geo": [
+      34.6936,
+      135.1899
+    ]
+  },
+  {
+    "id": "ift0reghl",
+    "cn": "神户大桥",
+    "name": "神戸大橋",
+    "image": "https://image.xinu.ink/pic/data/177/images/ift0reghl-1710162034933.jpg",
+    "ep": "",
+    "s": 46,
+    "geo": [
+      34.6781,
+      135.2036
+    ]
+  },
+  {
+    "id": "ii0usk8pk",
+    "cn": "旧三重县厅舍",
+    "name": "三重県庁舎",
+    "image": "https://image.xinu.ink/pic/data/177/images/ii0usk8pk-1710335745544.jpg",
+    "ep": null,
+    "geo": [
+      35.3409,
+      136.9891
+    ]
+  },
+  {
+    "id": "ii11bepv3",
+    "cn": "西乡从道旧邸",
+    "name": "西郷從道邸",
+    "image": "https://image.xinu.ink/pic/data/177/images/ii11bepv3-1710336067192.jpg",
+    "ep": null,
+    "geo": [
+      35.34,
+      136.9902
+    ]
+  },
+  {
+    "id": "oyw8era06",
+    "cn": "港灣人工島北公園",
+    "name": "ポートアイランド 北公園",
+    "image": "https://image.xinu.ink/pic/data/177/images/oyw8era06-1728584489868.jpg",
+    "ep": null,
+    "geo": [
+      34.6775,
+      135.2049
+    ]
+  }
+]

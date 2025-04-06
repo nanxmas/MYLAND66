@@ -1,0 +1,28 @@
+{
+  "id": 12544,
+  "cn": "萤火之森",
+  "title": "蛍火の杜へ",
+  "city": "熊本县",
+  "cover": "https://image.xinu.ink/pic/data/184/images/12544.jpg",
+  "color": "#80956a",
+  "geo": [
+    32.853924500137964,
+    131.1585265003141
+  ],
+  "zoom": 21.631,
+  "modified": 1739907116640,
+  "litePoints": [
+    {
+      "id": "szboig5in",
+      "name": "上色見熊野神社",
+      "image": "https://image.anitabi.cn/points/12544/szboig5in_1739902489504.jpg?plan=h160",
+      "geo": [
+        32.8538,
+        131.1585
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 184
+}

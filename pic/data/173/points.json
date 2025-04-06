@@ -1,0 +1,138 @@
+[
+  {
+    "id": "ikcx862zq",
+    "name": "郡上大和駅",
+    "image": "https://image.xinu.ink/pic/data/173/images/ikcx862zq_1710585713344.jpg",
+    "ep": 1,
+    "s": 140,
+    "geo": [
+      35.8151,
+      136.895
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=19kn8JGKfGNI0GGseFXg-LsUT6CnJiMI&ll=35.815107%2C136.895072&z=17"
+  },
+  {
+    "id": "il860vxgh",
+    "cn": "岐阜站",
+    "name": "岐阜駅",
+    "image": "https://image.xinu.ink/pic/data/173/images/il860vxgh_1710586692557.jpg",
+    "ep": 1,
+    "s": 171,
+    "geo": [
+      35.4094,
+      136.7566
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "il7vxm88m",
+    "cn": "名古屋站",
+    "name": "名古屋駅",
+    "image": "https://image.xinu.ink/pic/data/173/images/il7vxm88m_1710586435070.jpg",
+    "ep": 1,
+    "s": 243,
+    "geo": [
+      35.1705,
+      136.8816
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "il7vimg78",
+    "cn": "名古屋站 金时钟",
+    "name": "名古屋駅 金時計",
+    "image": "https://image.xinu.ink/pic/data/173/images/il7vimg78_1710586043347.jpg",
+    "ep": 1,
+    "s": 293,
+    "geo": [
+      35.1708,
+      136.8828
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "il7ssfrnm",
+    "cn": "名古屋站 樱出口 出租车乘车点",
+    "name": "名古屋駅 桜通口 タクシーのりば",
+    "image": "https://image.xinu.ink/pic/data/173/images/il7ssfrnm_1710585883776.jpg",
+    "ep": 1,
+    "s": 303,
+    "geo": [
+      35.1712,
+      136.8845
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "il7y8soiv",
+    "cn": "纪念艺术品「飛翔」",
+    "name": "モニュメント「飛翔」",
+    "image": "https://image.xinu.ink/pic/data/173/images/il7y8soiv_1710586323088.jpg",
+    "ep": 1,
+    "s": 310,
+    "geo": [
+      35.1712,
+      136.8842
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ikcx862sk",
+    "name": "錦通本町交差点",
+    "image": "https://image.xinu.ink/pic/data/173/images/ikcx862sk_1710587269623.jpg",
+    "ep": 1,
+    "s": 313,
+    "geo": [
+      35.1695,
+      136.902
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=19kn8JGKfGNI0GGseFXg-LsUT6CnJiMI&ll=35.169528%2C136.90201&z=17"
+  },
+  {
+    "id": "il8g7fkgq",
+    "name": "矢場町交差点",
+    "image": "https://image.xinu.ink/pic/data/173/images/il8g7fkgq_1710587279443.jpg",
+    "ep": 4,
+    "s": 974,
+    "geo": [
+      35.1625,
+      136.9066
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "il83g3e3n",
+    "cn": "デニーズ名駅西口店",
+    "name": "Denny's 名站西口店",
+    "image": "https://image.xinu.ink/pic/data/173/images/il83g3e3n_1710587352165.jpg",
+    "ep": 3,
+    "s": 313,
+    "geo": [
+      35.1691,
+      136.8806
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ikczle1rw",
+    "name": "菅原城北大橋",
+    "image": "https://image.xinu.ink/pic/data/173/images/ikczle1rw_1710587398879.jpg",
+    "ep": 12,
+    "s": 758,
+    "geo": [
+      34.7334,
+      135.5362
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  }
+]

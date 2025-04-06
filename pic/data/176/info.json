@@ -1,0 +1,30 @@
+{
+  "id": 10609,
+  "cn": "架向星空之桥",
+  "title": "星空へ架かる橋",
+  "cover": "https://image.xinu.ink/pic/data/176/images/10609.jpg",
+  "color": "#ff9500",
+  "geo": [
+    36.076112904437935,
+    137.21821988493002
+  ],
+  "zoom": 15.785,
+  "modified": 1732123642883,
+  "litePoints": [
+    {
+      "id": "mjrpg4yo3",
+      "cn": "旅馆万代旧馆原型，主人公住所",
+      "name": "民宿甚左衛門",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/10609/points/mjrpg4yo3-1732123543151.jpg?plan=h160",
+      "ep": 1,
+      "s": 897,
+      "geo": [
+        36.0761,
+        137.2182
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 176
+}

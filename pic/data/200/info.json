@@ -1,0 +1,94 @@
+{
+  "id": 16777,
+  "cn": "浪漫追星社",
+  "title": "宙のまにまに",
+  "cover": "https://image.xinu.ink/pic/data/200/images/16777_AKF84.jpg",
+  "color": "#095dab",
+  "modified": 1728476369787,
+  "litePoints": [
+    {
+      "id": "oxh4u78vn",
+      "name": "釧路湿原展望台",
+      "image": "https://image.anitabi.cn/points/16777/oxh4u78vn_1728473211235.jpg?plan=h160",
+      "geo": [
+        43.0734,
+        144.3202
+      ]
+    },
+    {
+      "id": "oxhc4xzrb",
+      "name": "阿寒​国際​ツルセンター",
+      "image": "https://image.anitabi.cn/points/16777/oxhc4xzrb_1728473646565.jpg?plan=h160",
+      "geo": [
+        43.1433,
+        144.149
+      ]
+    },
+    {
+      "id": "oxhe3of7w",
+      "name": "道​の​駅​阿寒​丹頂​の​里",
+      "image": "https://image.anitabi.cn/points/16777/oxhe3of7w_1728473760889.jpg?plan=h160",
+      "geo": [
+        43.1439,
+        144.1454
+      ]
+    },
+    {
+      "id": "oxhhtjj17",
+      "name": "阿寒湖",
+      "image": "https://image.anitabi.cn/points/16777/oxhhtjj17_1728473997156.jpg?plan=h160",
+      "geo": [
+        43.4384,
+        144.103
+      ]
+    },
+    {
+      "id": "oxhn6gbej",
+      "name": "阿寒湖アイヌコタン",
+      "image": "https://image.anitabi.cn/points/16777/oxhn6gbej_1728474333629.jpg?plan=h160",
+      "geo": [
+        43.4334,
+        144.0903
+      ]
+    },
+    {
+      "id": "oxhv1n5q3",
+      "name": "JR高尾駅",
+      "image": "https://image.anitabi.cn/points/16777/oxhv1n5q3_1728474778187.jpg?plan=h160",
+      "geo": [
+        35.6421,
+        139.2818
+      ]
+    },
+    {
+      "id": "oxhz7sy05",
+      "name": "猪苗代湖畔駅",
+      "image": "https://image.anitabi.cn/points/16777/oxhz7sy05_1728475030522.jpg?plan=h160",
+      "geo": [
+        37.5,
+        140.1474
+      ]
+    },
+    {
+      "id": "oxi2ux4cv",
+      "name": "猪苗代駅",
+      "image": "https://image.anitabi.cn/points/16777/oxi2ux4cv_1728475327100.jpg?plan=h160",
+      "geo": [
+        37.5465,
+        140.103
+      ]
+    },
+    {
+      "id": "oxie43pbw",
+      "name": "猪苗代湖 天神浜",
+      "image": "https://image.anitabi.cn/points/16777/oxie43pbw_1728475951624.jpg?plan=h160",
+      "geo": [
+        37.5215,
+        140.1159
+      ]
+    }
+  ],
+  "pointsLength": 11,
+  "imagesLength": 11,
+  "local_id": 200
+}
