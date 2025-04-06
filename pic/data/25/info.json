@@ -1,0 +1,43 @@
+{
+  "id": 326,
+  "cn": "攻壳机动队 S.A.C. 2nd GIG",
+  "title": "攻殻機動隊 S.A.C. 2nd GIG",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/25/images/326.jpg",
+  "color": "#2b2b2b",
+  "geo": [
+    24.979642394129783,
+    121.373931544507
+  ],
+  "zoom": 9.056,
+  "modified": 1724968797713,
+  "litePoints": [
+    {
+      "id": "5guc3mnnn",
+      "cn": "圆山大饭店",
+      "name": "圓山大飯店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/326/points/5guc3mnnn-1673568757457.jpg?plan=h160",
+      "ep": 17,
+      "s": 687,
+      "geo": [
+        25.0787,
+        121.5262
+      ]
+    },
+    {
+      "id": "ienlvhxgh",
+      "cn": "航站南路",
+      "name": "台北桃园国际机场",
+      "image": "https://image.anitabi.cn/user/0/bangumi/326/points/ienlvhxgh-1710071803490.jpg?plan=h160",
+      "ep": 17,
+      "s": 1322,
+      "geo": [
+        25.0833,
+        121.2398
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 25
+}

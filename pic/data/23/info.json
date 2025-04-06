@@ -1,0 +1,127 @@
+{
+  "id": 321,
+  "cn": "机动警察 2 和平保卫战",
+  "title": "機動警察パトレイバー 2 the Movie",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/23/images/321.jpg",
+  "color": "#9cb8aa",
+  "geo": [
+    35.66459526157247,
+    139.77535884073546
+  ],
+  "zoom": 10.815,
+  "modified": 1722578510507,
+  "litePoints": [
+    {
+      "id": "5gs46yzoo",
+      "cn": "国会议事堂",
+      "name": "国会議事堂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/321/points/5gs46yzoo-1673563869387.jpg?plan=h160",
+      "ep": 5,
+      "s": 296,
+      "geo": [
+        35.6762,
+        139.7468
+      ]
+    },
+    {
+      "id": "5gs9am480",
+      "cn": "东京都厅舍",
+      "name": "東京都庁舎",
+      "image": "https://image.anitabi.cn/user/0/bangumi/321/points/5gs9am480-1673564153622.jpg?plan=h160",
+      "ep": 5,
+      "s": 947,
+      "geo": [
+        35.6895,
+        139.6916
+      ]
+    },
+    {
+      "id": "5gtonzkhm",
+      "cn": "东京站",
+      "name": "東京駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/321/points/5gtonzkhm-1673567283170.jpg?plan=h160",
+      "ep": 15,
+      "s": 1355,
+      "geo": [
+        35.6812,
+        139.766
+      ]
+    },
+    {
+      "id": "jopeuhhsa",
+      "cn": "防卫省",
+      "name": "防衛省",
+      "image": "https://image.anitabi.cn/user/0/bangumi/321/points/jopeuhhsa-1713680397984.jpg?plan=h160",
+      "ep": 1,
+      "s": 3418,
+      "geo": [
+        35.6928,
+        139.7283
+      ]
+    },
+    {
+      "id": "jhco8lja7",
+      "cn": "横滨港湾桥",
+      "name": "横浜​ベイ​ブリッジ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/321/points/jhco8lja7-1713104118470.jpg?plan=h160",
+      "s": 1008,
+      "geo": [
+        35.4538,
+        139.6735
+      ]
+    },
+    {
+      "id": "jopjxqqt9",
+      "name": "NHK​放送​センター",
+      "image": "https://image.anitabi.cn/user/0/bangumi/321/points/jopjxqqt9-1713680691930.jpg?plan=h160",
+      "geo": [
+        35.6647,
+        139.6967
+      ]
+    },
+    {
+      "id": "jopqea92c",
+      "name": "ALTA Vision",
+      "image": "https://image.anitabi.cn/user/0/bangumi/321/points/jopqea92c-1713681084599.jpg?plan=h160",
+      "geo": [
+        35.6926,
+        139.7012
+      ]
+    },
+    {
+      "id": "jopy6wgjx",
+      "name": "109フォーラムビジョン",
+      "image": "https://image.anitabi.cn/user/0/bangumi/321/points/jopy6wgjx-1713681556792.jpg?plan=h160",
+      "geo": [
+        35.6598,
+        139.7008
+      ]
+    },
+    {
+      "id": "jhd35e2gr",
+      "cn": "胜哄桥",
+      "name": "勝鬨橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/321/points/jhd35e2gr-1713105010407.jpg?plan=h160",
+      "s": 4551,
+      "geo": [
+        35.662,
+        139.775
+      ]
+    },
+    {
+      "id": "jhd6bvo97",
+      "cn": "佃大桥",
+      "name": "佃大橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/321/points/jhd6bvo97-1713105201681.jpg?plan=h160",
+      "s": 4556,
+      "geo": [
+        35.6675,
+        139.7812
+      ]
+    }
+  ],
+  "pointsLength": 23,
+  "imagesLength": 23,
+  "local_id": 23
+}

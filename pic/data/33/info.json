@@ -1,0 +1,119 @@
+{
+  "id": 531,
+  "cn": "水星领航员",
+  "title": "ARIA The ANIMATION",
+  "city": "欧洲",
+  "cover": "https://image.xinu.ink/pic/data/33/images/531.jpg",
+  "color": "#1ae6ea",
+  "geo": [
+    45.435288980813624,
+    12.340209573933748
+  ],
+  "zoom": 12.492,
+  "modified": 1725382567201,
+  "litePoints": [
+    {
+      "id": "huvuk38qx",
+      "name": "(1-6)　サン・マルコ広場６",
+      "image": "https://image.anitabi.cn/points/531/huvuk38qx_1708522382428.jpg?plan=h160",
+      "ep": 11,
+      "geo": [
+        45.4314,
+        12.3363
+      ]
+    },
+    {
+      "id": "huvuk38ol",
+      "name": "(1-7)　サン・マルコ広場７",
+      "image": "https://image.anitabi.cn/points/531/huvuk38ol_1708525620629.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        45.4314,
+        12.3407
+      ]
+    },
+    {
+      "id": "huvuk38ry",
+      "name": "(2-2)　サン・マルコ寺院２",
+      "image": "https://image.anitabi.cn/points/531/huvuk38ry_1708528496386.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        45.4344,
+        12.3388
+      ]
+    },
+    {
+      "id": "huvuk38e5",
+      "name": "(3-5)　ドゥカーレ宮殿５",
+      "image": "https://image.anitabi.cn/points/531/huvuk38e5_1708656687861.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        45.4334,
+        12.3404
+      ]
+    },
+    {
+      "id": "huvuk3892",
+      "name": "(3-6)　ドゥカーレ宮殿６　★",
+      "image": "https://image.anitabi.cn/points/531/huvuk3892_1708656764629.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        45.4336,
+        12.34
+      ]
+    },
+    {
+      "id": "huvuk385h",
+      "name": "(3-11)　ドゥカーレ宮殿１１　★",
+      "image": "https://image.anitabi.cn/points/531/huvuk385h_1708657231805.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        45.4341,
+        12.3396
+      ]
+    },
+    {
+      "id": "huvuk38bb",
+      "name": "(4-7)　鐘楼７",
+      "image": "https://image.anitabi.cn/points/531/huvuk38bb_1708657588019.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        45.4338,
+        12.3398
+      ]
+    },
+    {
+      "id": "huvuk38d9",
+      "name": "(5-5)　鐘楼展望台から５",
+      "image": "https://image.anitabi.cn/points/531/huvuk38d9_1708657940956.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        45.4342,
+        12.3391
+      ]
+    },
+    {
+      "id": "huvuk38or",
+      "name": "(5-6)　鐘楼展望台から６",
+      "image": "https://image.anitabi.cn/points/531/huvuk38or_1708658011499.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        45.4341,
+        12.3389
+      ]
+    },
+    {
+      "id": "huvuk382b",
+      "name": "(5-7)　鐘楼展望台から７",
+      "image": "https://image.anitabi.cn/points/531/huvuk382b_1708658840893.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        45.4341,
+        12.3391
+      ]
+    }
+  ],
+  "pointsLength": 188,
+  "imagesLength": 186,
+  "local_id": 33
+}

@@ -1,0 +1,39 @@
+{
+  "id": 502,
+  "cn": "再见绝望先生",
+  "title": "さよなら絶望先生",
+  "city": "杉并区",
+  "cover": "https://image.xinu.ink/pic/data/30/images/502.jpg",
+  "color": "#ff0000",
+  "geo": [
+    34.985324051753906,
+    135.78602744585191
+  ],
+  "zoom": 9.476,
+  "modified": 1719254657449,
+  "litePoints": [
+    {
+      "id": "ln81avk03",
+      "name": "下井草駅付近",
+      "image": "https://image.anitabi.cn/points/502/ln81avk03_1719206567124.jpg?plan=h160",
+      "ep": 4,
+      "s": 223,
+      "geo": [
+        35.7247,
+        139.6254
+      ]
+    },
+    {
+      "id": "ln8jx38ke",
+      "name": "三十三間堂",
+      "image": "https://image.anitabi.cn/points/502/ln8jx38ke_1719207736648.jpg?plan=h160",
+      "geo": [
+        34.9878,
+        135.7717
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 30
+}

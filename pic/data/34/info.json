@@ -1,0 +1,64 @@
+{
+  "id": 534,
+  "cn": "她和她的猫",
+  "title": "彼女と彼女の猫",
+  "city": "大阪市",
+  "cover": "https://image.xinu.ink/pic/data/34/images/534.jpg",
+  "color": "#685462",
+  "geo": [
+    34.71154180381684,
+    135.46951139700963
+  ],
+  "zoom": 15.025,
+  "modified": 1726434477083,
+  "litePoints": [
+    {
+      "id": "51i52uhgn",
+      "name": "淀川右岸河川敷（下淀川橋梁上流側）",
+      "image": "https://image.anitabi.cn/points/534/51i52uhgn_1672368344286.jpg?plan=h160",
+      "geo": [
+        34.7094,
+        135.4729
+      ]
+    },
+    {
+      "id": "51i52uhjw",
+      "name": "塚本幼稚園（飛び出し坊や）",
+      "image": "https://image.anitabi.cn/points/534/51i52uhjw_1672368344793.jpg?plan=h160",
+      "geo": [
+        34.7128,
+        135.4731
+      ]
+    },
+    {
+      "id": "51i52uh4l",
+      "name": "ヘアサロンハシモト",
+      "image": "https://image.anitabi.cn/points/534/51i52uh4l_1672368345153.jpg?plan=h160",
+      "geo": [
+        34.7115,
+        135.4693
+      ]
+    },
+    {
+      "id": "51i52uh6g",
+      "name": "豊ガスケット裏手の道路",
+      "image": "https://image.anitabi.cn/points/534/51i52uh6g_1672368345513.jpg?plan=h160",
+      "geo": [
+        34.711,
+        135.4663
+      ]
+    },
+    {
+      "id": "51i52uh62",
+      "name": "花川公園",
+      "image": "https://image.anitabi.cn/points/534/51i52uh62_1672368345904.jpg?plan=h160",
+      "geo": [
+        34.7098,
+        135.4696
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 34
+}

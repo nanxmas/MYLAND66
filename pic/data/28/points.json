@@ -1,0 +1,41 @@
+[
+  {
+    "id": "pvr3dngfi",
+    "name": "大栄橋(たいえいばし)",
+    "image": "https://image.xinu.ink/pic/data/28/images/pvr3dngfi-1731159339974.jpg",
+    "ep": 1,
+    "s": 766,
+    "geo": [
+      35.9091,
+      139.6234
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pvrwuuzz3",
+    "name": "JR大宮駅 中央改札（北）",
+    "image": "https://image.xinu.ink/pic/data/28/images/pvrwuuzz3-1731161205104.jpg",
+    "ep": 8,
+    "s": 156,
+    "geo": [
+      35.9065,
+      139.6243
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pvrv69m68",
+    "name": "行きかう・線 まめの木",
+    "image": "https://image.xinu.ink/pic/data/28/images/pvrv69m68-1731160974995.jpg",
+    "ep": 8,
+    "s": 133,
+    "geo": [
+      35.9062,
+      139.624
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "id": "51rcqe7d8",
+    "name": "明石海峡大桥",
+    "image": "https://image.xinu.ink/pic/data/24/images/51rcqe7d8_1727774414984_half.jpg",
+    "ep": 2,
+    "s": 859,
+    "geo": [
+      34.6258,
+      135.0421
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "51r4ysl33",
+    "name": "大型​放射光​施設\nSPring​-​8",
+    "image": "https://image.xinu.ink/pic/data/24/images/2.jpg",
+    "ep": null,
+    "geo": [
+      34.9303,
+      134.4324
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "51r8yha5e",
+    "name": "大型​放射光​施設 ​SPring​-​8",
+    "image": "https://image.xinu.ink/pic/data/24/images/7.jpg",
+    "ep": null,
+    "geo": [
+      34.945,
+      134.4267
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  }
+]

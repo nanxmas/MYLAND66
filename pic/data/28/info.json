@@ -1,0 +1,46 @@
+{
+  "id": 491,
+  "cn": "灼眼的夏娜II",
+  "title": "灼眼のシャナII",
+  "cover": "https://image.xinu.ink/pic/data/28/images/491_r0MnB.jpg",
+  "cp": "ＭＢＳ",
+  "modified": 1733196243881,
+  "litePoints": [
+    {
+      "id": "pvr3dngfi",
+      "name": "大栄橋(たいえいばし)",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/491/points/pvr3dngfi-1731159339974.jpg?plan=h160",
+      "ep": 1,
+      "s": 766,
+      "geo": [
+        35.9091,
+        139.6234
+      ]
+    },
+    {
+      "id": "pvrwuuzz3",
+      "name": "JR大宮駅 中央改札（北）",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/491/points/pvrwuuzz3-1731161205104.jpg?plan=h160",
+      "ep": 8,
+      "s": 156,
+      "geo": [
+        35.9065,
+        139.6243
+      ]
+    },
+    {
+      "id": "pvrv69m68",
+      "name": "行きかう・線 まめの木",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/491/points/pvrv69m68-1731160974995.jpg?plan=h160",
+      "ep": 8,
+      "s": 133,
+      "geo": [
+        35.9062,
+        139.624
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 28
+}

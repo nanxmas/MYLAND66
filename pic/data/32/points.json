@@ -1,0 +1,40 @@
+[
+  {
+    "id": "kpx6oppzh",
+    "cn": "高知机场",
+    "name": "高知空港",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6oppzh-1724774654749.jpg",
+    "ep": null,
+    "geo": [
+      33.5476,
+      133.6744
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=33.547682%2C133.674448&z=17"
+  },
+  {
+    "id": "kpx6opqz4",
+    "cn": "高知城夜景",
+    "name": "高知城夜景",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opqz4-1724774828557.jpg",
+    "ep": null,
+    "geo": [
+      33.5605,
+      133.5338
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=33.560524%2C133.533834&z=17"
+  },
+  {
+    "id": "kpx6opy1u",
+    "name": "吉祥寺駅",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opy1u-1724774991862.jpg",
+    "ep": null,
+    "geo": [
+      35.7031,
+      139.5796
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=35.703127%2C139.579622&z=17"
+  }
+]

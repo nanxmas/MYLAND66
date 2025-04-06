@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ln81avk03",
+    "name": "下井草駅付近",
+    "image": "https://image.xinu.ink/pic/data/30/images/ln81avk03_1719206567124.jpg",
+    "ep": 4,
+    "s": 223,
+    "geo": [
+      35.7247,
+      139.6254
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ln8jx38ke",
+    "name": "三十三間堂",
+    "image": "https://image.xinu.ink/pic/data/30/images/ln8jx38ke_1719207736648.jpg",
+    "s": "",
+    "geo": [
+      34.9878,
+      135.7717
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  }
+]

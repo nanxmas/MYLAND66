@@ -1,0 +1,136 @@
+{
+  "id": 485,
+  "cn": "凉宫春日的忧郁",
+  "title": "涼宮ハルヒの憂鬱",
+  "city": "西宫市",
+  "cover": "https://image.xinu.ink/pic/data/27/images/485.jpg",
+  "color": "#e7170c",
+  "geo": [
+    34.757551,
+    135.334826
+  ],
+  "zoom": 13,
+  "modified": 1741481415903,
+  "litePoints": [
+    {
+      "id": "kgnluxehw",
+      "cn": "春日上学的坡",
+      "name": "ハルヒ坂",
+      "image": "https://image.anitabi.cn/points/485/kgnluxehw_1730139317990.jpg?plan=h160",
+      "ep": 2,
+      "s": 14,
+      "geo": [
+        34.7618,
+        135.3132
+      ]
+    },
+    {
+      "id": "kgnri41s9",
+      "cn": "阿虚非法停放自行车处",
+      "name": "キョンの違法駐輪処",
+      "image": "https://image.anitabi.cn/points/485/kgnri41s9_1729064622993.jpg?plan=h160",
+      "ep": 3,
+      "s": 672,
+      "geo": [
+        34.7466,
+        135.3561
+      ]
+    },
+    {
+      "id": "kgnr26sbj",
+      "cn": "西宫北口站前时钟塔",
+      "name": "西宮北口駅前の時計塔",
+      "image": "https://image.anitabi.cn/points/485/kgnr26sbj_1729064612370.jpg?plan=h160",
+      "ep": 3,
+      "s": 678,
+      "geo": [
+        34.7464,
+        135.3562
+      ]
+    },
+    {
+      "id": "kgnqjm2vg",
+      "cn": "夙川公园",
+      "name": "夙川公園",
+      "image": "https://image.anitabi.cn/points/485/kgnqjm2vg_1730138913489.jpg?plan=h160",
+      "ep": 5,
+      "s": 771,
+      "geo": [
+        34.7476,
+        135.3292
+      ]
+    },
+    {
+      "id": "piqo3hl5b",
+      "cn": "禁止事项椅",
+      "name": "夙川公園",
+      "image": "https://image.anitabi.cn/points/485/piqo3hl5b_1730139639129.jpg?plan=h160",
+      "ep": 5,
+      "s": 985,
+      "geo": [
+        34.7485,
+        135.3295
+      ]
+    },
+    {
+      "id": "kgnxh323v",
+      "cn": "剧中的咖啡店",
+      "name": "珈琲屋　ドリーム",
+      "image": "https://image.anitabi.cn/user/0/bangumi/485/points/kgnxh323v-1721197025241.jpg?plan=h160",
+      "ep": 12,
+      "s": 373,
+      "geo": [
+        34.7484,
+        135.356
+      ]
+    },
+    {
+      "id": "kgooqc71u",
+      "cn": "阪急西宫北口车站",
+      "name": "​阪急​西宮​北口​駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/485/points/kgooqc71u-1717518987766.jpg?plan=h160",
+      "ep": 14,
+      "s": 96,
+      "geo": [
+        34.7458,
+        135.3566
+      ]
+    },
+    {
+      "id": "kgo8n7pyf",
+      "cn": "广田神社",
+      "name": "広田神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/485/points/kgo8n7pyf-1734243114092.jpg?plan=h160",
+      "ep": 22,
+      "geo": [
+        34.7528,
+        135.34
+      ]
+    },
+    {
+      "id": "kgo9otg0g",
+      "cn": "新池",
+      "name": "新池",
+      "image": "https://image.anitabi.cn/user/0/bangumi/485/points/kgo9otg0g-1734242567814.jpg?plan=h160",
+      "ep": 23,
+      "geo": [
+        34.754,
+        135.3433
+      ]
+    },
+    {
+      "id": "kgomdk8zj",
+      "cn": "西宮市立中央图书馆",
+      "name": "西宮市立中央図書館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/485/points/kgomdk8zj-1734241776887.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        34.7308,
+        135.3297
+      ]
+    }
+  ],
+  "pointsLength": 23,
+  "imagesLength": 14,
+  "local_id": 27
+}

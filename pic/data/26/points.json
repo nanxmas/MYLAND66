@@ -1,0 +1,50 @@
+[
+  {
+    "id": "sjyc26eoc",
+    "cn": "海底隧道港島入口",
+    "name": "海底隧道港島入口",
+    "image": "https://image.xinu.ink/pic/data/26/images/sjyc26eoc_1739179171221.jpg",
+    "ep": 10,
+    "s": 983,
+    "geo": [
+      22.2827,
+      114.1819
+    ]
+  },
+  {
+    "id": "sjymcolrl",
+    "cn": "輝煌豪園",
+    "name": "輝煌豪園 Palatial Crest",
+    "image": "https://image.xinu.ink/pic/data/26/images/sjymcolrl_1739178425597.jpg",
+    "ep": 10,
+    "s": 882,
+    "geo": [
+      22.2805,
+      114.1509
+    ]
+  },
+  {
+    "id": "sp6d89itk",
+    "cn": "九龙寨城公园",
+    "name": "九龍寨城公園 Kowloon Walled City Park",
+    "image": "https://image.xinu.ink/pic/data/26/images/sp6d89itk_1739180727194.jpg",
+    "ep": 13,
+    "s": 1115,
+    "geo": [
+      22.3315,
+      114.1906
+    ]
+  },
+  {
+    "id": "sp6kg12le",
+    "cn": "九龙公园",
+    "name": "九龍公園 kowloon park",
+    "image": "https://image.xinu.ink/pic/data/26/images/sp6kg12le_1739180753887.jpg",
+    "ep": 12,
+    "s": 262,
+    "geo": [
+      22.3012,
+      114.1702
+    ]
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "id": 513,
+  "cn": "听到涛声",
+  "title": "海がきこえる",
+  "city": "高知市",
+  "cover": "https://image.xinu.ink/pic/data/32/images/513.jpg",
+  "color": "#b89ca3",
+  "geo": [
+    33.558491,
+    133.541994
+  ],
+  "zoom": 14,
+  "modified": 1724775087661,
+  "litePoints": [
+    {
+      "id": "kpx6oppzh",
+      "cn": "高知机场",
+      "name": "高知空港",
+      "image": "https://image.anitabi.cn/user/0/bangumi/513/points/kpx6oppzh-1724774654749.jpg?plan=h160",
+      "geo": [
+        33.5476,
+        133.6744
+      ]
+    },
+    {
+      "id": "kpx6opqz4",
+      "cn": "高知城夜景",
+      "name": "高知城夜景",
+      "image": "https://image.anitabi.cn/user/0/bangumi/513/points/kpx6opqz4-1724774828557.jpg?plan=h160",
+      "geo": [
+        33.5605,
+        133.5338
+      ]
+    },
+    {
+      "id": "kpx6opy1u",
+      "name": "吉祥寺駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/513/points/kpx6opy1u-1724774991862.jpg?plan=h160",
+      "geo": [
+        35.7031,
+        139.5796
+      ]
+    },
+    {
+      "id": "kpx6opqk2",
+      "name": "久礼新港",
+      "geo": [
+        33.3225,
+        133.2342
+      ]
+    },
+    {
+      "id": "kpx6opqyg",
+      "name": "導入部のお城",
+      "geo": [
+        33.5615,
+        133.5329
+      ]
+    },
+    {
+      "id": "kpx6opqkn",
+      "name": "正門",
+      "geo": [
+        33.5613,
+        133.5366
+      ]
+    },
+    {
+      "id": "kpx6oprjx",
+      "name": "人物像アーケード",
+      "geo": [
+        33.56,
+        133.5361
+      ]
+    },
+    {
+      "id": "kpx6oprhv",
+      "name": "大橋道り沿い",
+      "geo": [
+        33.5591,
+        133.5368
+      ]
+    },
+    {
+      "id": "kpx6oprfk",
+      "name": "金高堂書店",
+      "geo": [
+        33.5601,
+        133.538
+      ]
+    },
+    {
+      "id": "kpx6oprws",
+      "name": "ポポロ東宝小径",
+      "geo": [
+        33.5613,
+        133.5402
+      ]
+    }
+  ],
+  "pointsLength": 33,
+  "imagesLength": 3,
+  "local_id": 32
+}

@@ -1,0 +1,48 @@
+{
+  "id": 324,
+  "cn": "攻壳机动队 STAND ALONE COMPLEX",
+  "title": "攻殻機動隊 STAND ALONE COMPLEX",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/24/images/324.jpg",
+  "color": "#3d8dc2",
+  "geo": [
+    34.68489625804823,
+    134.67794129079698
+  ],
+  "zoom": 8.055,
+  "modified": 1727774471747,
+  "litePoints": [
+    {
+      "id": "51rcqe7d8",
+      "name": "明石海峡大桥",
+      "image": "https://image.anitabi.cn/points/324/51rcqe7d8_1727774414984_half.jpg?plan=h160",
+      "ep": 2,
+      "s": 859,
+      "geo": [
+        34.6258,
+        135.0421
+      ]
+    },
+    {
+      "id": "51r4ysl33",
+      "name": "大型​放射光​施設\nSPring​-​8",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/324/points/2.jpg?plan=h160",
+      "geo": [
+        34.9303,
+        134.4324
+      ]
+    },
+    {
+      "id": "51r8yha5e",
+      "name": "大型​放射光​施設 ​SPring​-​8",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/324/points/7.jpg?plan=h160",
+      "geo": [
+        34.945,
+        134.4267
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 24
+}
