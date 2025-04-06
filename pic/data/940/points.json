@@ -1,0 +1,34 @@
+[
+  {
+    "id": "skmirsgft",
+    "cn": "伊予市站",
+    "name": "伊予市站",
+    "image": "https://image.xinu.ink/pic/data/940/images/skmirsgft-1738750672421.jpg",
+    "ep": "13话",
+    "geo": [
+      33.7554,
+      132.7023
+    ]
+  },
+  {
+    "id": "qif48aamg",
+    "cn": "川口大桥",
+    "name": "川口大橋",
+    "image": "https://image.xinu.ink/pic/data/940/images/qif48aamg-1732935896144.jpg",
+    "ep": null,
+    "geo": [
+      33.805,
+      132.7008
+    ]
+  },
+  {
+    "id": "tfrket83r",
+    "name": "伊予農高",
+    "image": "https://image.xinu.ink/pic/data/940/images/tfrket83r-1741191443156.jpg",
+    "ep": null,
+    "geo": [
+      33.7645,
+      132.7048
+    ]
+  }
+]

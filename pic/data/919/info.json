@@ -1,0 +1,78 @@
+{
+  "id": 485154,
+  "cn": "我的鬼女孩",
+  "title": "好きでも嫌いなあまのじゃく",
+  "city": "米泽市",
+  "cover": "https://image.xinu.ink/pic/data/919/images/485154.jpg",
+  "color": "#407fbf",
+  "geo": [
+    37.909529496642165,
+    140.12799799504842
+  ],
+  "zoom": 19.553,
+  "modified": 1730534185694,
+  "litePoints": [
+    {
+      "id": "pks41nvab",
+      "cn": "York Benimaru 米泽店",
+      "name": "ヨークベニマル 米沢店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/485154/points/pks41nvab-1730299525435.jpg?plan=h160",
+      "ep": 1,
+      "s": 80,
+      "geo": [
+        37.9133,
+        140.1252
+      ]
+    },
+    {
+      "id": "pksaus3zx",
+      "cn": "大山祇神社",
+      "name": "大山祇神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/485154/points/pksaus3zx-1730299891560.jpg?plan=h160",
+      "ep": 1,
+      "s": 78,
+      "geo": [
+        37.9116,
+        140.1245
+      ]
+    },
+    {
+      "id": "pkshawp9n",
+      "cn": "县道6号（住之江町通り）",
+      "name": "県道6号（住之江町通り）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/485154/points/pkshawp9n-1730300377163.jpg?plan=h160",
+      "ep": 1,
+      "s": 93,
+      "geo": [
+        37.9109,
+        140.1203
+      ]
+    },
+    {
+      "id": "pksqu335e",
+      "cn": "住之江桥",
+      "name": "住之江橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/485154/points/pksqu335e-1730300847420.jpg?plan=h160",
+      "ep": 1,
+      "s": 114,
+      "geo": [
+        37.911,
+        140.1193
+      ]
+    },
+    {
+      "id": "oqb6wmqlz",
+      "cn": "米泽站",
+      "name": "米沢駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/485154/points/oqb6wmqlz-1727911837011.jpg?plan=h160",
+      "s": 89,
+      "geo": [
+        37.9094,
+        140.1279
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 919
+}

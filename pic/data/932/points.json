@@ -1,0 +1,59 @@
+[
+  {
+    "id": "sik9q2x4u",
+    "cn": "新京成电铁 习志野站",
+    "name": "新京成電鉄　習志野駅",
+    "image": "https://image.xinu.ink/pic/data/932/images/sik9q2x4u-1739650181204.jpg",
+    "ep": "剧场版",
+    "s": 532,
+    "geo": [
+      35.7148,
+      140.0428
+    ]
+  },
+  {
+    "id": "sinkeydw3",
+    "cn": "Tower record 涩谷店",
+    "name": "タワーレコード 渋谷店",
+    "image": "https://image.xinu.ink/pic/data/932/images/sinkeydw3-1738596217828.jpg",
+    "ep": "剧场版",
+    "s": 321,
+    "geo": [
+      35.6617,
+      139.701
+    ]
+  },
+  {
+    "id": "sinqflja7",
+    "cn": "涩谷站前十字路口",
+    "name": "渋谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/932/images/sinqflja7-1738596580545.jpg",
+    "ep": "主视觉图",
+    "geo": [
+      35.6594,
+      139.7005
+    ]
+  },
+  {
+    "id": "sjy1q0qka",
+    "cn": "岡山站东口站前广场",
+    "name": "岡山駅東口駅前広場",
+    "image": "https://image.xinu.ink/pic/data/932/images/sjy1q0qka-1738697500625.jpg",
+    "ep": "剧场版",
+    "geo": [
+      34.6658,
+      133.9186
+    ]
+  },
+  {
+    "id": "sjy7sq1xd",
+    "cn": "涩谷站南口 东急Plaza歩道桥",
+    "name": "渋谷駅南口東急プラザ歩道橋",
+    "image": "https://image.xinu.ink/pic/data/932/images/sjy7sq1xd-1738697767629.jpg",
+    "ep": "剧场版",
+    "geo": [
+      35.6574,
+      139.7006
+    ]
+  }
+]

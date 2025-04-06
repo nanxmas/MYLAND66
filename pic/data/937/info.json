@@ -1,0 +1,68 @@
+{
+  "id": 513793,
+  "cn": "姐妹星再闪耀～siSTAR resiSTAR～",
+  "title": "しすたれじすた",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/937/images/513793.jpg",
+  "color": "#63474e",
+  "geo": [
+    35.42419727934319,
+    139.42003764396566
+  ],
+  "zoom": 9.224,
+  "modified": 1729803834778,
+  "litePoints": [
+    {
+      "id": "oxm9dg36n",
+      "name": "クロス新宿スペース",
+      "image": "https://image.anitabi.cn/points/513793/oxm9dg36n_1728484432012.jpg?plan=h160",
+      "geo": [
+        35.6926,
+        139.7007
+      ]
+    },
+    {
+      "id": "oxmma9w2q",
+      "cn": "LUMINE EST新宿东 新宿站出入口",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/513793/oxmma9w2q_1728485203329.jpg?plan=h160",
+      "geo": [
+        35.6913,
+        139.7016
+      ]
+    },
+    {
+      "id": "p2i8ohf6d",
+      "cn": "真鹤",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/513793/p2i8ohf6d_1728867425831.jpg?plan=h160",
+      "geo": [
+        35.1551,
+        139.1402
+      ]
+    },
+    {
+      "id": "p2j120mlt",
+      "cn": "小学校下［まなづる小］公交站",
+      "name": "小学校下［まなづる小］（バス）",
+      "image": "https://image.anitabi.cn/points/513793/p2j120mlt_1728869177492.jpg?plan=h160",
+      "geo": [
+        35.1549,
+        139.1397
+      ]
+    },
+    {
+      "id": "p2j28j4zu",
+      "cn": "公交站上段台阶",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/513793/p2j28j4zu_1728869356726.jpg?plan=h160",
+      "geo": [
+        35.1553,
+        139.1395
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 937
+}

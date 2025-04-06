@@ -1,0 +1,45 @@
+{
+  "id": 502499,
+  "title": "GROTESQUE（仮）",
+  "city": "涩谷区",
+  "cover": "https://image.xinu.ink/pic/data/931/images/502499.jpg",
+  "color": "#00d19d",
+  "geo": [
+    35.65929252554943,
+    139.70555294256081
+  ],
+  "zoom": 14.025,
+  "modified": 1725002335503,
+  "litePoints": [
+    {
+      "id": "m0wf5vffi",
+      "name": "SHIBUYA109",
+      "image": "https://image.anitabi.cn/points/502499/m0wf5vffi_1720278230990.jpg?plan=h160",
+      "geo": [
+        35.6595,
+        139.6997
+      ]
+    },
+    {
+      "id": "m15p7f3pm",
+      "name": "渋谷駅前",
+      "image": "https://image.anitabi.cn/points/502499/m15p7f3pm_1720298434390.jpg?plan=h160",
+      "geo": [
+        35.6594,
+        139.7004
+      ]
+    },
+    {
+      "id": "m15qdcse8",
+      "name": "首都高速3号渋谷線",
+      "image": "https://image.anitabi.cn/points/502499/m15qdcse8_1720298525217.jpg?plan=h160",
+      "geo": [
+        35.6587,
+        139.7119
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 931
+}

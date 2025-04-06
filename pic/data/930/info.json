@@ -1,0 +1,81 @@
+{
+  "id": 501023,
+  "cn": "我和班上最讨厌的女生结婚了。",
+  "title": "クラスの大嫌いな女子と結婚することになった。",
+  "city": "朝霞市",
+  "cover": "https://image.xinu.ink/pic/data/930/images/501023.jpg",
+  "color": "#e8307a",
+  "cp": "クラ婚",
+  "modified": 1742754529600,
+  "litePoints": [
+    {
+      "id": "rq45tjs8y",
+      "name": "朝霞台駅北口",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/501023/points/rq45tjs8y-1736359871467.jpg?plan=h160",
+      "ep": 1,
+      "s": 874,
+      "geo": [
+        35.8149,
+        139.5869
+      ]
+    },
+    {
+      "id": "rq49jhpoe",
+      "name": "浜崎黒目橋侧",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/501023/points/rq49jhpoe-1736359981738.jpg?plan=h160",
+      "ep": 1,
+      "s": 889,
+      "geo": [
+        35.8126,
+        139.5921
+      ]
+    },
+    {
+      "id": "rq4avy1s2",
+      "name": "浜崎黒目橋",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/501023/points/rq4avy1s2-1736360093137.jpg?plan=h160",
+      "ep": 1,
+      "s": 1413,
+      "geo": [
+        35.8127,
+        139.5921
+      ]
+    },
+    {
+      "id": "rrio1mwek",
+      "name": "埼玉県朝霞市東弁財2丁目7‐13",
+      "image": "https://image.anitabi.cn/points/501023/rrio1mwek_1736469702370_c16v9.jpg?plan=h160",
+      "ep": 2,
+      "s": 185,
+      "geo": [
+        35.8121,
+        139.5846
+      ]
+    },
+    {
+      "id": "tqr8vqx8q",
+      "name": "朝霞台駅付近の陸橋",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/501023/points/tqr8vqx8q-1742052212453.jpg?plan=h160",
+      "ep": 6,
+      "s": 1266,
+      "geo": [
+        35.8141,
+        139.5876
+      ]
+    },
+    {
+      "id": "ta9l0uy79",
+      "name": "朝霞警察署 北朝霞駅前交番",
+      "image": "https://image.anitabi.cn/points/501023/ta9l0uy79_1740759944679.jpg?plan=h160",
+      "ep": 7,
+      "s": 946,
+      "geo": [
+        35.8147,
+        139.587
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 930
+}

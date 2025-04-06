@@ -1,0 +1,24 @@
+{
+  "id": 493453,
+  "cn": "BIBBIDIBA",
+  "title": "ビビデバ",
+  "city": "港区",
+  "cover": "https://image.xinu.ink/pic/data/927/images/493453_5wfTY.jpg",
+  "color": "#388ecc",
+  "modified": 1731163174469,
+  "litePoints": [
+    {
+      "id": "pvsqijidc",
+      "name": "新橋駅",
+      "image": "https://image.anitabi.cn/points/493453/pvsqijidc_1731163168981.jpg?plan=h160",
+      "s": 148,
+      "geo": [
+        35.6649,
+        139.7608
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 927
+}

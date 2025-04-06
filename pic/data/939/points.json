@@ -1,0 +1,95 @@
+[
+  {
+    "id": "txiig0stw",
+    "cn": "仙台站东口",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/939/images/txiig0stw_1742582090201.jpg",
+    "geo": [
+      38.2596,
+      140.8838
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "txit75o1i",
+    "cn": "ハローワーク仙台",
+    "name": 1,
+    "image": "https://image.xinu.ink/pic/data/939/images/txit75o1i_1742582399315.jpg",
+    "geo": [
+      38.259,
+      140.888
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "txj9vqlwk",
+    "name": "麦当劳 マクドナルド 仙台駅東口店",
+    "image": "https://image.xinu.ink/pic/data/939/images/txj9vqlwk_1742583409443.jpg",
+    "geo": [
+      38.2608,
+      140.8836
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tyh4z5sk4",
+    "cn": "Q&A宫城体育场",
+    "name": "キューアンドエースタジアム\nみやぎ",
+    "image": "https://image.xinu.ink/pic/data/939/images/tyh4z5sk4_1742657124666.jpg",
+    "geo": [
+      38.3351,
+      140.9505
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tyh59g0xm",
+    "name": "キューアンドエースタジアム\nみやぎ",
+    "image": "https://image.xinu.ink/pic/data/939/images/tyh59g0xm_1742657130556.jpg",
+    "geo": [
+      38.335,
+      140.95
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tyhawgpd2",
+    "name": "弘進ゴム アスリートパーク仙台",
+    "image": "https://image.xinu.ink/pic/data/939/images/tyhawgpd2_1742657474994.jpg",
+    "geo": [
+      38.2582,
+      140.9036
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tyj5w8zmb",
+    "cn": "Daily 仙台宮城野店前",
+    "name": "デイリー​ヤマザキ\n仙台​宮城野​店",
+    "image": "https://image.xinu.ink/pic/data/939/images/tyj5w8zmb_1742661561289.jpg",
+    "geo": [
+      38.2589,
+      140.9021
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3928l2z8",
+    "cn": "Lawson仙台小田原三丁目店",
+    "name": "ローソン\n仙台​小田原​3丁目​店",
+    "image": "https://image.xinu.ink/pic/data/939/images/u3928l2z8_1743031378753.jpg",
+    "geo": [
+      38.2666,
+      140.896
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  }
+]

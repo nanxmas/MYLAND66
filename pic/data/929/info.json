@@ -1,0 +1,130 @@
+{
+  "id": 498934,
+  "cn": "群花绽放，彷如修罗",
+  "title": "花は咲く、修羅の如く",
+  "city": "舞鹤市",
+  "cover": "https://image.xinu.ink/pic/data/929/images/498934_KffF9.jpg",
+  "color": "#586274",
+  "cp": "すももが丘高校放送部",
+  "geo": [
+    35.49554186431121,
+    135.35767877969306
+  ],
+  "zoom": 11.373,
+  "modified": 1743438585535,
+  "litePoints": [
+    {
+      "id": "rp3j0bzxs",
+      "name": "府​立​嵯峨野​高等​学校",
+      "image": "https://image.anitabi.cn/points/498934/rp3j0bzxs_1736279990832.jpg?plan=h160",
+      "s": 86,
+      "geo": [
+        35.0195,
+        135.7036
+      ]
+    },
+    {
+      "id": "rp3gevrss",
+      "name": "舞鶴水産流通協同組合",
+      "image": "https://image.anitabi.cn/user/2135/bangumi/498934/points/rp3gevrss-1736279990471.jpg?plan=h160",
+      "ep": 1,
+      "s": 4,
+      "geo": [
+        35.4545,
+        135.328
+      ]
+    },
+    {
+      "id": "rp4p28913",
+      "name": "破れたフェンス",
+      "image": "https://image.anitabi.cn/points/498934/rp4p28913_1736282552825.jpg?plan=h160",
+      "ep": 1,
+      "s": 442,
+      "geo": [
+        35.4548,
+        135.3296
+      ]
+    },
+    {
+      "id": "rp3mqmu99",
+      "cn": "大和桥",
+      "name": "大和橋",
+      "image": "https://image.anitabi.cn/points/498934/rp3mqmu99_1736280219873.jpg?plan=h160",
+      "ep": 1,
+      "s": 460,
+      "geo": [
+        35.454,
+        135.3285
+      ]
+    },
+    {
+      "id": "rp4q2wkkz",
+      "name": "府​立​嵯峨野​高等​学校 正门",
+      "image": "https://image.anitabi.cn/points/498934/rp4q2wkkz_1736282598406.jpg?plan=h160",
+      "ep": 1,
+      "s": 505,
+      "geo": [
+        35.0209,
+        135.7036
+      ]
+    },
+    {
+      "id": "rp80dhmki",
+      "name": "府​立​嵯峨野​高等​学校 时钟塔",
+      "image": "https://image.anitabi.cn/points/498934/rp80dhmki_1736289753808.jpg?plan=h160",
+      "ep": 1,
+      "s": 1256,
+      "geo": [
+        35.0198,
+        135.7037
+      ]
+    },
+    {
+      "id": "rp3qg8rs5",
+      "cn": "舞鹤Crane Bridge",
+      "name": "舞鶴クレインブリッジ",
+      "image": "https://image.anitabi.cn/points/498934/rp3qg8rs5_1736280557365.jpg?plan=h160",
+      "s": 73,
+      "geo": [
+        35.5168,
+        135.3905
+      ]
+    },
+    {
+      "id": "tlyc9bth5",
+      "name": "舞鶴七条通り",
+      "image": "https://image.anitabi.cn/points/498934/tlyc9bth5_1741675882309.jpg?plan=h160",
+      "ep": 6,
+      "s": 45,
+      "geo": [
+        35.4736,
+        135.3958
+      ]
+    },
+    {
+      "id": "tlym2tejw",
+      "name": "神崎海水浴場",
+      "image": "https://image.anitabi.cn/points/498934/tlym2tejw_1741676467108.jpg?plan=h160",
+      "ep": 7,
+      "s": 725,
+      "geo": [
+        35.5144,
+        135.2989
+      ]
+    },
+    {
+      "id": "t1acbmiq4",
+      "name": "宇治文化センター",
+      "image": "https://image.anitabi.cn/points/498934/t1acbmiq4_1740056472198.jpg?plan=h160",
+      "ep": 7,
+      "s": 1074,
+      "geo": [
+        34.8797,
+        135.8046
+      ]
+    }
+  ],
+  "pointsLength": 28,
+  "imagesLength": 28,
+  "local_id": 929
+}

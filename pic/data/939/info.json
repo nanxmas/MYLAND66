@@ -1,0 +1,96 @@
+{
+  "id": 520498,
+  "cn": "千早再起跑！",
+  "title": "チハヤリスタート！",
+  "city": "仙台市",
+  "cover": "https://image.xinu.ink/pic/data/939/images/520498.jpg",
+  "color": "#ea154a",
+  "geo": [
+    38.296736193622934,
+    140.91712099999995
+  ],
+  "zoom": 12.865,
+  "modified": 1743055597467,
+  "litePoints": [
+    {
+      "id": "txiig0stw",
+      "cn": "仙台站东口",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/520498/txiig0stw_1742582090201.jpg?plan=h160",
+      "geo": [
+        38.2596,
+        140.8838
+      ]
+    },
+    {
+      "id": "txit75o1i",
+      "cn": "ハローワーク仙台",
+      "name": 1,
+      "image": "https://image.anitabi.cn/points/520498/txit75o1i_1742582399315.jpg?plan=h160",
+      "geo": [
+        38.259,
+        140.888
+      ]
+    },
+    {
+      "id": "txj9vqlwk",
+      "name": "麦当劳 マクドナルド 仙台駅東口店",
+      "image": "https://image.anitabi.cn/points/520498/txj9vqlwk_1742583409443.jpg?plan=h160",
+      "geo": [
+        38.2608,
+        140.8836
+      ]
+    },
+    {
+      "id": "tyh4z5sk4",
+      "cn": "Q&A宫城体育场",
+      "name": "キューアンドエースタジアム\nみやぎ",
+      "image": "https://image.anitabi.cn/points/520498/tyh4z5sk4_1742657124666.jpg?plan=h160",
+      "geo": [
+        38.3351,
+        140.9505
+      ]
+    },
+    {
+      "id": "tyh59g0xm",
+      "name": "キューアンドエースタジアム\nみやぎ",
+      "image": "https://image.anitabi.cn/points/520498/tyh59g0xm_1742657130556.jpg?plan=h160",
+      "geo": [
+        38.335,
+        140.95
+      ]
+    },
+    {
+      "id": "tyhawgpd2",
+      "name": "弘進ゴム アスリートパーク仙台",
+      "image": "https://image.anitabi.cn/points/520498/tyhawgpd2_1742657474994.jpg?plan=h160",
+      "geo": [
+        38.2582,
+        140.9036
+      ]
+    },
+    {
+      "id": "tyj5w8zmb",
+      "cn": "Daily 仙台宮城野店前",
+      "name": "デイリー​ヤマザキ\n仙台​宮城野​店",
+      "image": "https://image.anitabi.cn/points/520498/tyj5w8zmb_1742661561289.jpg?plan=h160",
+      "geo": [
+        38.2589,
+        140.9021
+      ]
+    },
+    {
+      "id": "u3928l2z8",
+      "cn": "Lawson仙台小田原三丁目店",
+      "name": "ローソン\n仙台​小田原​3丁目​店",
+      "image": "https://image.anitabi.cn/points/520498/u3928l2z8_1743031378753.jpg?plan=h160",
+      "geo": [
+        38.2666,
+        140.896
+      ]
+    }
+  ],
+  "pointsLength": 12,
+  "imagesLength": 12,
+  "local_id": 939
+}

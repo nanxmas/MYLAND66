@@ -1,0 +1,97 @@
+{
+  "id": 507806,
+  "cn": "收银台之星！",
+  "title": "レジスタ！",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/934/images/507806.jpg",
+  "color": "#b8aa9c",
+  "geo": [
+    35.736656882538526,
+    139.85527084065689
+  ],
+  "zoom": 15.644,
+  "modified": 1734066411256,
+  "litePoints": [
+    {
+      "id": "p67ebwmct",
+      "cn": "雷门交口 东眺",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/507806/p67ebwmct_1729157306318.jpg?plan=h160",
+      "geo": [
+        35.7107,
+        139.7963
+      ]
+    },
+    {
+      "id": "p65myizcb",
+      "cn": "中川西岸 长椅",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/507806/p65myizcb_1729153593135.jpg?plan=h160",
+      "geo": [
+        35.7379,
+        139.8528
+      ]
+    },
+    {
+      "id": "p65pm1qmf",
+      "cn": "中川西岸 长椅 东眺",
+      "name": 8,
+      "image": "https://image.anitabi.cn/points/507806/p65pm1qmf_1729153645387.jpg?plan=h160",
+      "geo": [
+        35.7379,
+        139.8528
+      ]
+    },
+    {
+      "id": "p38gx8quu",
+      "cn": "本奥户桥附近",
+      "name": "本奥戸橋",
+      "image": "https://image.anitabi.cn/points/507806/p38gx8quu_1728924536146.jpg?plan=h160",
+      "geo": [
+        35.7374,
+        139.8545
+      ]
+    },
+    {
+      "id": "p38asj17o",
+      "cn": "本奥户桥西端",
+      "name": "本奥戸橋西詰",
+      "image": "https://image.anitabi.cn/points/507806/p38asj17o_1728924175106.jpg?plan=h160",
+      "geo": [
+        35.7375,
+        139.8524
+      ]
+    },
+    {
+      "id": "p38dtv3q9",
+      "cn": "本奥户桥",
+      "name": "本奥戸橋",
+      "image": "https://image.anitabi.cn/points/507806/p38dtv3q9_1728924347384.jpg?plan=h160",
+      "geo": [
+        35.7372,
+        139.853
+      ]
+    },
+    {
+      "id": "p38boi6k7",
+      "name": "LIFE ライフ奥戸街道店",
+      "image": "https://image.anitabi.cn/points/507806/p38boi6k7_1728924239011.jpg?plan=h160",
+      "geo": [
+        35.736,
+        139.8569
+      ]
+    },
+    {
+      "id": "p38jucbr8",
+      "name": "LIFE ライフ奥戸街道店 内部",
+      "image": "https://image.anitabi.cn/points/507806/p38jucbr8_1728924692400.jpg?plan=h160",
+      "geo": [
+        35.7361,
+        139.8569
+      ]
+    }
+  ],
+  "pointsLength": 10,
+  "imagesLength": 10,
+  "local_id": 934
+}

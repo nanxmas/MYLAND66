@@ -1,0 +1,60 @@
+{
+  "id": 524263,
+  "cn": "五等分的新娘【春夏秋冬】",
+  "title": "五等分の花嫁【春夏秋冬】",
+  "city": "名古屋市",
+  "cover": "https://image.xinu.ink/pic/data/941/images/524263_u3ew8w2k0.jpg",
+  "color": "#d4552b",
+  "cp": "あさのハジメ 2025",
+  "geo": [
+    35.1350574574231,
+    136.90981065446522
+  ],
+  "zoom": 24,
+  "modified": 1743067557750,
+  "litePoints": [
+    {
+      "id": "saaq290p1",
+      "name": "ザ・ライオンズミッドキャピタルタワー",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/524263/points/saaq290p1-1738031077371.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.1349,
+        136.9097
+      ]
+    },
+    {
+      "id": "sbg19bl28",
+      "name": "Sorato太田川",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/524263/points/sbg19bl28-1738031250394.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.0195,
+        136.8938
+      ]
+    },
+    {
+      "id": "srthzxl9z",
+      "name": "日本​福祉​大​東海​キャンパス 左侧入口",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/524263/points/srthzxl9z-1739314389560.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.0215,
+        136.8887
+      ]
+    },
+    {
+      "id": "srtkqerke",
+      "name": "中ノ池公園",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/524263/points/srtkqerke-1739314555647.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.0029,
+        136.8946
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 941
+}

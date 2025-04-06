@@ -1,0 +1,83 @@
+{
+  "id": 488177,
+  "cn": "天久鹰央的推理病历表",
+  "title": "天久鷹央の推理カルテ",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/921/images/488177.jpg",
+  "color": "#b8aa9c",
+  "cp": "天久鷹央の推理カルテ",
+  "geo": [
+    35.742083246484526,
+    139.5239065401551
+  ],
+  "zoom": 11.07,
+  "modified": 1738893174936,
+  "litePoints": [
+    {
+      "id": "rj0ean0t2",
+      "name": "東京病院",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/488177/points/rj0ean0t2-1735803006789.jpg?plan=h160",
+      "ep": 1,
+      "s": 32,
+      "geo": [
+        35.7676,
+        139.5061
+      ]
+    },
+    {
+      "id": "s7qhbrvt0",
+      "name": "朝比奈料金所出口",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/488177/points/s7qhbrvt0-1737740584098.jpg?plan=h160",
+      "ep": 4,
+      "s": 571,
+      "geo": [
+        35.3325,
+        139.5937
+      ]
+    },
+    {
+      "id": "sllh3o8fq",
+      "name": "田無警察署前",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/488177/points/sllh3o8fq-1738826726085.jpg?plan=h160",
+      "ep": 6,
+      "s": 158,
+      "geo": [
+        35.7299,
+        139.5384
+      ]
+    },
+    {
+      "id": "rjka4td2k",
+      "name": "小金井公園 道標",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/488177/points/rjka4td2k-1735846361910.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.7143,
+        139.5125
+      ]
+    },
+    {
+      "id": "rjkist7w4",
+      "name": "小金井公園 ",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/488177/points/rjkist7w4-1735846834019.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.7129,
+        139.518
+      ]
+    },
+    {
+      "id": "rjkz69bc0",
+      "name": "秋津駅",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/488177/points/rjkz69bc0-1735847813344.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.7785,
+        139.4962
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 921
+}

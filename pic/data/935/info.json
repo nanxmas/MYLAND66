@@ -1,0 +1,105 @@
+{
+  "id": 511207,
+  "cn": "前桥魔女",
+  "title": "前橋ウィッチーズ",
+  "city": "前桥市",
+  "cover": "https://image.xinu.ink/pic/data/935/images/511207.jpg",
+  "color": "#756a95",
+  "cp": "PROJECT MBW",
+  "geo": [
+    36.402269651577,
+    139.1095991472555
+  ],
+  "zoom": 11.49,
+  "modified": 1742754756497,
+  "litePoints": [
+    {
+      "id": "pnp0kl0vb",
+      "name": "群馬県庁",
+      "image": "https://image.anitabi.cn/points/511207/pnp0kl0vb_1730527837078.jpg?plan=h160",
+      "geo": [
+        36.3907,
+        139.0604
+      ]
+    },
+    {
+      "id": "t6eb17xdx",
+      "cn": "前桥市中央儿童游园 lunapark",
+      "name": "前橋市中央児童遊園 るなぱあくLUNA PARK",
+      "image": "https://image.anitabi.cn/user/0/bangumi/511207/points/t6eb17xdx-1740456870313.jpg?plan=h160",
+      "geo": [
+        36.3952,
+        139.0629
+      ]
+    },
+    {
+      "id": "pnp2ytsip",
+      "cn": "大胡站",
+      "name": "大胡駅",
+      "image": "https://image.anitabi.cn/points/511207/pnp2ytsip_1730527970602.jpg?plan=h160",
+      "geo": [
+        36.413,
+        139.1565
+      ]
+    },
+    {
+      "id": "pnpay980b",
+      "name": "宮関橋",
+      "image": "https://image.anitabi.cn/points/511207/pnpay980b_1730528450676_c16v9.jpg?plan=h160",
+      "geo": [
+        36.4138,
+        139.1587
+      ]
+    },
+    {
+      "id": "pnp47lne2",
+      "cn": "广瀬川（比刀根桥附近）",
+      "name": "広瀬川（比刀根橋付近）",
+      "image": "https://image.anitabi.cn/points/511207/pnp47lne2_1730528208090_c16v9.jpg?plan=h160",
+      "geo": [
+        36.3952,
+        139.0704
+      ]
+    },
+    {
+      "id": "pnp81gwjy",
+      "cn": "弁天通商店街",
+      "name": "弁天通商店街",
+      "image": "https://image.anitabi.cn/points/511207/pnp81gwjy_1730528333931_c16v9.jpg?plan=h160",
+      "geo": [
+        36.3938,
+        139.0698
+      ]
+    },
+    {
+      "id": "pnp9jmmmv",
+      "name": "中央通り商店街",
+      "image": "https://image.anitabi.cn/points/511207/pnp9jmmmv_1730528389814_c16v9.jpg?plan=h160",
+      "geo": [
+        36.3932,
+        139.0696
+      ]
+    },
+    {
+      "id": "pnp6k4ac8",
+      "name": "オリオン通り商店街",
+      "image": "https://image.anitabi.cn/points/511207/pnp6k4ac8_1730528206403_c16v9.jpg?plan=h160",
+      "geo": [
+        36.3932,
+        139.0711
+      ]
+    },
+    {
+      "id": "t6epkl4k2",
+      "name": "けやき​ウォーク​前橋（（Keyaki Walk Maebashi））",
+      "image": "https://image.anitabi.cn/user/0/bangumi/511207/points/t6epkl4k2-1740457721824.jpg?plan=h160",
+      "geo": [
+        36.3795,
+        139.0779
+      ]
+    }
+  ],
+  "pointsLength": 9,
+  "imagesLength": 9,
+  "local_id": 935
+}

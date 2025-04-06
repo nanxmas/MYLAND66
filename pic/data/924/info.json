@@ -1,0 +1,104 @@
+{
+  "id": 490141,
+  "cn": "对马岛之魂",
+  "title": "Ghost of Tsushima",
+  "city": "对马市",
+  "cover": "https://image.xinu.ink/pic/data/924/images/490141.jpg",
+  "color": "#bd0000",
+  "geo": [
+    34.19904881588771,
+    129.57554094610157
+  ],
+  "zoom": 8.246,
+  "modified": 1725577455055,
+  "litePoints": [
+    {
+      "id": "lrik9ztcf",
+      "name": "小島神社[仲嶌神社]",
+      "image": "https://image.anitabi.cn/points/490141/lrik9ztcf_1719543161566.jpg?plan=h160",
+      "geo": [
+        33.78,
+        129.7645
+      ]
+    },
+    {
+      "id": "lrilb9d6g",
+      "name": "猿岩",
+      "image": "https://image.anitabi.cn/points/490141/lrilb9d6g_1719543158581.jpg?plan=h160",
+      "geo": [
+        33.812,
+        129.6557
+      ]
+    },
+    {
+      "id": "lriluucuu",
+      "name": "鬼の足跡",
+      "image": "https://image.anitabi.cn/points/490141/lriluucuu_1719543165368.jpg?plan=h160",
+      "geo": [
+        33.772,
+        129.6456
+      ]
+    },
+    {
+      "id": "lrinym5js",
+      "name": "原の辻遺跡",
+      "image": "https://image.anitabi.cn/points/490141/lrinym5js_1719543187396.jpg?plan=h160",
+      "geo": [
+        33.7613,
+        129.7518
+      ]
+    },
+    {
+      "id": "lrip2pilw",
+      "name": "新城古戦場",
+      "image": "https://image.anitabi.cn/points/490141/lrip2pilw_1719543190704.jpg?plan=h160",
+      "geo": [
+        33.8334,
+        129.7198
+      ]
+    },
+    {
+      "id": "kn5j320gv",
+      "name": "万松院",
+      "geo": [
+        34.2042,
+        129.284
+      ]
+    },
+    {
+      "id": "kn5j320oj",
+      "name": "豆酘崎",
+      "geo": [
+        34.1027,
+        129.1682
+      ]
+    },
+    {
+      "id": "kn5j320zc",
+      "name": "和多都美神社",
+      "geo": [
+        34.3791,
+        129.3118
+      ]
+    },
+    {
+      "id": "kn5j3212j",
+      "name": "金田城",
+      "geo": [
+        34.3008,
+        129.2734
+      ]
+    },
+    {
+      "id": "kn5j320tp",
+      "name": "白嶽",
+      "geo": [
+        34.2642,
+        129.25
+      ]
+    }
+  ],
+  "pointsLength": 32,
+  "imagesLength": 5,
+  "local_id": 924
+}

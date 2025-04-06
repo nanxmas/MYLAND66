@@ -1,0 +1,61 @@
+[
+  {
+    "id": "pks41nvab",
+    "cn": "York Benimaru 米泽店",
+    "name": "ヨークベニマル 米沢店",
+    "image": "https://image.xinu.ink/pic/data/919/images/pks41nvab-1730299525435.jpg",
+    "ep": "1",
+    "s": "80",
+    "geo": [
+      37.9133,
+      140.1252
+    ]
+  },
+  {
+    "id": "pksaus3zx",
+    "cn": "大山祇神社",
+    "name": "大山祇神社",
+    "image": "https://image.xinu.ink/pic/data/919/images/pksaus3zx-1730299891560.jpg",
+    "ep": "1",
+    "s": "78",
+    "geo": [
+      37.9116,
+      140.1245
+    ]
+  },
+  {
+    "id": "pkshawp9n",
+    "cn": "县道6号（住之江町通り）",
+    "name": "県道6号（住之江町通り）",
+    "image": "https://image.xinu.ink/pic/data/919/images/pkshawp9n-1730300377163.jpg",
+    "ep": "1",
+    "s": "93",
+    "geo": [
+      37.9109,
+      140.1203
+    ]
+  },
+  {
+    "id": "pksqu335e",
+    "cn": "住之江桥",
+    "name": "住之江橋",
+    "image": "https://image.xinu.ink/pic/data/919/images/pksqu335e-1730300847420.jpg",
+    "ep": "1",
+    "s": "114",
+    "geo": [
+      37.911,
+      140.1193
+    ]
+  },
+  {
+    "id": "oqb6wmqlz",
+    "cn": "米泽站",
+    "name": "米沢駅",
+    "image": "https://image.xinu.ink/pic/data/919/images/oqb6wmqlz-1727911837011.jpg",
+    "s": 89,
+    "geo": [
+      37.9094,
+      140.1279
+    ]
+  }
+]

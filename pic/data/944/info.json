@@ -1,0 +1,33 @@
+{
+  "id": 531159,
+  "cn": "时光流逝，饭菜依旧美味",
+  "title": "日々は過ぎれど飯うまし",
+  "city": "八王子市",
+  "cover": "https://image.xinu.ink/pic/data/944/images/531159.jpg",
+  "color": "#00bd74",
+  "cp": "ひびめし",
+  "modified": 1742755019998,
+  "litePoints": [
+    {
+      "id": "rr205kq10",
+      "name": "やまびこ茶屋",
+      "image": "https://image.anitabi.cn/points/531159/rr205kq10_1736433440652_c16v9.jpg?plan=h160",
+      "geo": [
+        35.6255,
+        139.2437
+      ]
+    },
+    {
+      "id": "rr2lql1gy",
+      "name": "たかお食堂",
+      "image": "https://image.anitabi.cn/points/531159/rr2lql1gy_1736434709355.jpg?plan=h160",
+      "geo": [
+        35.6415,
+        139.2823
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 944
+}

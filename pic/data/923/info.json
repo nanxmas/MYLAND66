@@ -1,0 +1,86 @@
+{
+  "id": 489053,
+  "cn": "柚木家的四兄弟。",
+  "title": "柚木さんちの四兄弟。",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/923/images/489053.jpg",
+  "color": "#db8000",
+  "geo": [
+    35.717993045765525,
+    139.9911038428309
+  ],
+  "zoom": 8.691,
+  "modified": 1725002352766,
+  "litePoints": [
+    {
+      "id": "m8bc3lzib",
+      "cn": "神奈川县叶山公园",
+      "name": "神奈川県立葉山公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/489053/points/m8bc3lzib-1720859352046.jpg?plan=h160",
+      "s": 482,
+      "geo": [
+        35.2583,
+        139.5791
+      ]
+    },
+    {
+      "id": "mbezf3qx7",
+      "name": "いばらきフラワーパーク",
+      "image": "https://image.anitabi.cn/user/0/bangumi/489053/points/mbezf3qx7-1721102379753.jpg?plan=h160",
+      "ep": 4,
+      "s": 221,
+      "geo": [
+        36.2128,
+        140.1719
+      ]
+    },
+    {
+      "id": "merceiiux",
+      "cn": "落合南公园",
+      "name": "落合南公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/489053/points/merceiiux-1721364326199.jpg?plan=h160",
+      "ep": 27,
+      "s": 454,
+      "geo": [
+        35.6163,
+        139.4292
+      ]
+    },
+    {
+      "id": "mesyuk1pz",
+      "name": "森浅間神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/489053/points/mesyuk1pz-1721367928195.jpg?plan=h160",
+      "ep": 10,
+      "s": 325,
+      "geo": [
+        35.3984,
+        139.6126
+      ]
+    },
+    {
+      "id": "merlfbt8a",
+      "name": "佃小橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/489053/points/merlfbt8a-1721364936550.jpg?plan=h160",
+      "ep": 20,
+      "s": 278,
+      "geo": [
+        35.6672,
+        139.7833
+      ]
+    },
+    {
+      "id": "mj6acbf3j",
+      "name": "柚木家原址",
+      "image": "https://image.anitabi.cn/user/0/bangumi/489053/points/mj6acbf3j-1721710396243.jpg?plan=h160",
+      "ep": 32,
+      "s": 836,
+      "geo": [
+        35.6459,
+        139.3059
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 923
+}

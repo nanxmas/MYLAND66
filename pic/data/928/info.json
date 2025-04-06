@@ -1,0 +1,134 @@
+{
+  "id": 495562,
+  "cn": "DDDD 恶魔的破坏",
+  "title": "デッドデッドデーモンズデデデデデストラクション",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/928/images/495562.jpg",
+  "color": "#00bfff",
+  "geo": [
+    35.418469250845774,
+    139.78196279712085
+  ],
+  "zoom": 8.687,
+  "modified": 1734929161157,
+  "litePoints": [
+    {
+      "id": "mbks8ekek",
+      "cn": "海上自卫队​馆山航空基地",
+      "name": "海上​自衛隊\n館山​航空​基地",
+      "image": "https://image.anitabi.cn/user/0/bangumi/495562/points/mbks8ekek-1721114930372.jpg?plan=h160",
+      "ep": 1,
+      "s": 445,
+      "geo": [
+        34.9876,
+        139.8344
+      ]
+    },
+    {
+      "id": "mbkwz25n1",
+      "name": "平和島",
+      "image": "https://image.anitabi.cn/user/0/bangumi/495562/points/mbkwz25n1-1721115195635.jpg?plan=h160",
+      "ep": 1,
+      "s": 547,
+      "geo": [
+        35.5863,
+        139.7421
+      ]
+    },
+    {
+      "id": "mbu3ol1me",
+      "name": "陸上​自衛隊\n市ヶ谷​駐屯地",
+      "image": "https://image.anitabi.cn/user/0/bangumi/495562/points/mbu3ol1me-1721135209245.jpg?plan=h160",
+      "ep": 2,
+      "s": 130,
+      "geo": [
+        35.6928,
+        139.7266
+      ]
+    },
+    {
+      "id": "mbv18gh33",
+      "cn": "梦之大桥",
+      "name": "夢の大橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/495562/points/mbv18gh33-1721137319224.jpg?plan=h160",
+      "ep": 2,
+      "s": 1265,
+      "geo": [
+        35.6283,
+        139.7839
+      ]
+    },
+    {
+      "id": "p79qvuu19",
+      "cn": "鸟贵族",
+      "name": "鳥貴族 笹塚南口店",
+      "image": "https://image.anitabi.cn/points/495562/p79qvuu19_1729240757647.jpg?plan=h160",
+      "ep": 4,
+      "s": 1728,
+      "geo": [
+        35.6727,
+        139.6658
+      ]
+    },
+    {
+      "id": "p79s4zh2v",
+      "cn": "下高井户站内",
+      "name": "下高井户站内",
+      "image": "https://image.anitabi.cn/points/495562/p79s4zh2v_1729240835290.jpg?plan=h160",
+      "ep": 7,
+      "s": 1115,
+      "geo": [
+        35.6661,
+        139.642
+      ]
+    },
+    {
+      "id": "mbv5rh03w",
+      "name": "ALTA Vision",
+      "image": "https://image.anitabi.cn/user/0/bangumi/495562/points/mbv5rh03w-1721137536565.jpg?plan=h160",
+      "ep": 2,
+      "s": 1300,
+      "geo": [
+        35.6924,
+        139.7011
+      ]
+    },
+    {
+      "id": "mbvtny3nr",
+      "name": "下北沢南口商店街",
+      "image": "https://image.anitabi.cn/user/0/bangumi/495562/points/mbvtny3nr-1721139032519.jpg?plan=h160",
+      "ep": 3,
+      "s": 681,
+      "geo": [
+        35.6612,
+        139.6676
+      ]
+    },
+    {
+      "id": "p4b8emp6k",
+      "cn": "玉川上水公园",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/495562/p4b8emp6k_1729008972071.jpg?plan=h160",
+      "ep": 9,
+      "s": 70,
+      "geo": [
+        35.6713,
+        139.6511
+      ]
+    },
+    {
+      "id": "p7ag8eqjr",
+      "name": "首都高速4号新宿線",
+      "image": "https://image.anitabi.cn/points/495562/p7ag8eqjr_1729242284899.jpg?plan=h160",
+      "ep": 12,
+      "s": 682,
+      "geo": [
+        35.6706,
+        139.6531
+      ]
+    }
+  ],
+  "pointsLength": 71,
+  "imagesLength": 71,
+  "local_id": 928
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "rq45tjs8y",
+    "name": "朝霞台駅北口",
+    "image": "https://image.xinu.ink/pic/data/930/images/rq45tjs8y-1736359871467.jpg",
+    "ep": 1,
+    "s": 874,
+    "geo": [
+      35.8149,
+      139.5869
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rq49jhpoe",
+    "name": "浜崎黒目橋侧",
+    "image": "https://image.xinu.ink/pic/data/930/images/rq49jhpoe-1736359981738.jpg",
+    "ep": 1,
+    "s": 889,
+    "geo": [
+      35.8126,
+      139.5921
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rq4avy1s2",
+    "name": "浜崎黒目橋",
+    "image": "https://image.xinu.ink/pic/data/930/images/rq4avy1s2-1736360093137.jpg",
+    "ep": 1,
+    "s": 1413,
+    "geo": [
+      35.8127,
+      139.5921
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rrio1mwek",
+    "name": "埼玉県朝霞市東弁財2丁目7‐13",
+    "image": "https://image.xinu.ink/pic/data/930/images/rrio1mwek_1736469702370_c16v9.jpg",
+    "ep": 2,
+    "s": 185,
+    "geo": [
+      35.8121,
+      139.5846
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tqr8vqx8q",
+    "name": "朝霞台駅付近の陸橋",
+    "image": "https://image.xinu.ink/pic/data/930/images/tqr8vqx8q-1742052212453.jpg",
+    "ep": 6,
+    "s": 1266,
+    "geo": [
+      35.8141,
+      139.5876
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ta9l0uy79",
+    "name": "朝霞警察署 北朝霞駅前交番",
+    "image": "https://image.xinu.ink/pic/data/930/images/ta9l0uy79_1740759944679.jpg",
+    "ep": 7,
+    "s": 946,
+    "geo": [
+      35.8147,
+      139.587
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

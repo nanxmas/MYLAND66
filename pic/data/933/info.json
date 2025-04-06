@@ -1,0 +1,137 @@
+{
+  "id": 505895,
+  "cn": "悲喜渔生",
+  "title": "ネガポジアングラー",
+  "city": "中央区",
+  "cover": "https://image.xinu.ink/pic/data/933/images/505895.jpg",
+  "color": "#6a7f95",
+  "cp": "NEGAPOSI-ANGLER …",
+  "geo": [
+    35.665576,
+    139.76977899999997
+  ],
+  "zoom": 16,
+  "modified": 1734164987122,
+  "litePoints": [
+    {
+      "id": "orf5i2yhc",
+      "cn": "住吉小桥",
+      "name": "住吉小橋",
+      "image": "https://image.anitabi.cn/points/505895/orf5i2yhc_1727998729126.jpg?plan=h160",
+      "ep": 1,
+      "s": 1341,
+      "geo": [
+        35.6685,
+        139.7825
+      ]
+    },
+    {
+      "id": "orjmy9zz1",
+      "name": "辰巳JCB",
+      "image": "https://image.anitabi.cn/points/505895/orjmy9zz1_1728008482494_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 1381,
+      "geo": [
+        35.6446,
+        139.8127
+      ]
+    },
+    {
+      "id": "org8iz2c2",
+      "cn": "勝鬨橋与築地大橋之间",
+      "name": "勝鬨橋と築地大橋の間",
+      "image": "https://image.anitabi.cn/points/505895/org8iz2c2_1728001138374_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 1284,
+      "geo": [
+        35.6614,
+        139.7737
+      ]
+    },
+    {
+      "id": "orf6llcvr",
+      "cn": "住吉水门",
+      "name": "住吉水門",
+      "image": "https://image.anitabi.cn/points/505895/orf6llcvr_1727998833497_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 1332,
+      "geo": [
+        35.6685,
+        139.7823
+      ]
+    },
+    {
+      "id": "orf96ua8g",
+      "cn": "日の出湯附近",
+      "name": "日の出湯 のあたり",
+      "image": "https://image.anitabi.cn/points/505895/orf96ua8g_1728003257466_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 1349,
+      "geo": [
+        35.6675,
+        139.7831
+      ]
+    },
+    {
+      "id": "oreq2fge1",
+      "name": "佃大橋",
+      "image": "https://image.anitabi.cn/points/505895/oreq2fge1_1727997794743_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 84,
+      "geo": [
+        35.6677,
+        139.7812
+      ]
+    },
+    {
+      "id": "orfds7cqn",
+      "cn": "佃公园",
+      "name": "中央区立佃公園",
+      "image": "https://image.anitabi.cn/points/505895/orfds7cqn_1727999207416_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 266,
+      "geo": [
+        35.6692,
+        139.7825
+      ]
+    },
+    {
+      "id": "p0die8nap",
+      "cn": "中央大桥",
+      "name": "中央大橋",
+      "image": "https://image.anitabi.cn/points/505895/p0die8nap_1728700405785.jpg?plan=h160",
+      "ep": 1,
+      "s": 303,
+      "geo": [
+        35.6716,
+        139.7844
+      ]
+    },
+    {
+      "id": "p0djh3yzj",
+      "name": "佃麗江",
+      "image": "https://image.anitabi.cn/points/505895/p0djh3yzj_1728700490716.jpg?plan=h160",
+      "ep": 1,
+      "s": 1376,
+      "geo": [
+        35.6673,
+        139.7831
+      ]
+    },
+    {
+      "id": "p6vozsj5c",
+      "cn": "丰岛游乐园 前钓鱼区",
+      "name": "としまえんフィッシングエリア（閉業）",
+      "image": "https://image.anitabi.cn/points/505895/p6vozsj5c_1729210182267.jpg?plan=h160",
+      "ep": 2,
+      "s": 698,
+      "geo": [
+        35.7438,
+        139.6438
+      ]
+    }
+  ],
+  "pointsLength": 77,
+  "imagesLength": 77,
+  "local_id": 933
+}
