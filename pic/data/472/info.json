@@ -1,0 +1,109 @@
+{
+  "id": 176086,
+  "cn": "真 流行之神2",
+  "title": "真 流行り神2",
+  "city": "岐阜县",
+  "cover": "https://image.xinu.ink/pic/data/472/images/176086_RJ0J1.jpg",
+  "color": "#e32024",
+  "geo": [
+    35.436552462470345,
+    136.78362810335398
+  ],
+  "zoom": 10.77,
+  "modified": 1742409503987,
+  "litePoints": [
+    {
+      "id": "p0mvb3xm0",
+      "name": "岐阜県警察本部",
+      "image": "https://image.anitabi.cn/points/176086/p0mvb3xm0_1728720881689.jpg?plan=h160",
+      "geo": [
+        35.3908,
+        136.7207
+      ]
+    },
+    {
+      "id": "p0qh00g2m",
+      "name": "鶯谷トンネル",
+      "image": "https://image.anitabi.cn/points/176086/p0qh00g2m_1728728610684.jpg?plan=h160",
+      "geo": [
+        35.4216,
+        136.7708
+      ]
+    },
+    {
+      "id": "p0nm725s6",
+      "name": "岐阜ファミリーパーク公園",
+      "image": "https://image.anitabi.cn/points/176086/p0nm725s6_1728722408470.jpg?plan=h160",
+      "geo": [
+        35.5203,
+        136.831
+      ]
+    },
+    {
+      "id": "p0o36seh9",
+      "name": "伊奈波神社",
+      "image": "https://image.anitabi.cn/points/176086/p0o36seh9_1728724064064.jpg?plan=h160",
+      "geo": [
+        35.4275,
+        136.77
+      ]
+    },
+    {
+      "id": "p0oigz0fa",
+      "name": "柳ケ瀬商店街",
+      "image": "https://image.anitabi.cn/points/176086/p0oigz0fa_1728724407313.jpg?plan=h160",
+      "geo": [
+        35.4194,
+        136.757
+      ]
+    },
+    {
+      "id": "p0ow84ldl",
+      "name": "東京都庁",
+      "image": "https://image.anitabi.cn/points/176086/p0ow84ldl_1728725183558.jpg?plan=h160",
+      "geo": [
+        35.6907,
+        139.6934
+      ]
+    },
+    {
+      "id": "p0oxjtivq",
+      "name": "岐阜駅南口",
+      "image": "https://image.anitabi.cn/points/176086/p0oxjtivq_1728725363687.jpg?plan=h160",
+      "geo": [
+        35.409,
+        136.7566
+      ]
+    },
+    {
+      "id": "p0oy3mner",
+      "name": "岐阜駅南口のロータリー",
+      "image": "https://image.anitabi.cn/points/176086/p0oy3mner_1728725380597.jpg?plan=h160",
+      "geo": [
+        35.409,
+        136.7565
+      ]
+    },
+    {
+      "id": "p0oymsk92",
+      "name": "岐阜駅 黄金の信長像",
+      "image": "https://image.anitabi.cn/points/176086/p0oymsk92_1728725396096.jpg?plan=h160",
+      "geo": [
+        35.4103,
+        136.7568
+      ]
+    },
+    {
+      "id": "p0p227vrx",
+      "name": "打越橋",
+      "image": "https://image.anitabi.cn/points/176086/p0p227vrx_1728725541310.jpg?plan=h160",
+      "geo": [
+        35.4333,
+        139.6389
+      ]
+    }
+  ],
+  "pointsLength": 28,
+  "imagesLength": 28,
+  "local_id": 472
+}

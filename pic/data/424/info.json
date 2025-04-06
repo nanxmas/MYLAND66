@@ -1,0 +1,106 @@
+{
+  "id": 136213,
+  "cn": "春&夏推理事件簿～春太与千夏的青春～",
+  "title": "ハルチカ～ハルタとチカは青春する～",
+  "city": "静冈市",
+  "cover": "https://image.xinu.ink/pic/data/424/images/136213.jpg",
+  "color": "#71637a",
+  "cp": "ハルチカ",
+  "geo": [
+    34.96778555092371,
+    138.47525660570818
+  ],
+  "zoom": 10.556,
+  "modified": 1717704544167,
+  "litePoints": [
+    {
+      "id": "51i52qtdi",
+      "name": "2話　学校前の風景",
+      "image": "https://image.anitabi.cn/points/136213/51i52qtdi_1672367821351.jpg?plan=h160",
+      "geo": [
+        35.0107,
+        138.5298
+      ]
+    },
+    {
+      "id": "51i52qx8t",
+      "name": "10話　渡邊さんと会話→謎解きをした場所",
+      "image": "https://image.anitabi.cn/points/136213/51i52qx8t_1672367916030.jpg?plan=h160",
+      "geo": [
+        34.9803,
+        138.3838
+      ]
+    },
+    {
+      "id": "51i52qx0v",
+      "name": "11話　港祭り（大川印舗）",
+      "image": "https://image.anitabi.cn/points/136213/51i52qx0v_1672367919654.jpg?plan=h160",
+      "geo": [
+        35.0151,
+        138.4882
+      ]
+    },
+    {
+      "id": "51i52qzut",
+      "name": "大和屋（聖地巡礼ノート、マップ、パネル）",
+      "image": "https://image.anitabi.cn/points/136213/51i52qzut_1672367952358.jpg?plan=h160",
+      "geo": [
+        35.0237,
+        138.4877
+      ]
+    },
+    {
+      "id": "51i52qzv7",
+      "name": "清水産業・情報プラザ1F（ハルチカ企画展示）",
+      "image": "https://image.anitabi.cn/points/136213/51i52qzv7_1672367955462.jpg?plan=h160",
+      "geo": [
+        35.0141,
+        138.489
+      ]
+    },
+    {
+      "id": "51i52r0jr",
+      "name": "みやもと河岸の市店（チラシ配布）",
+      "image": "https://image.anitabi.cn/points/136213/51i52r0jr_1672367957391.jpg?plan=h160",
+      "geo": [
+        35.0203,
+        138.4906
+      ]
+    },
+    {
+      "id": "51i52qpcx",
+      "name": "1話　清水南高校",
+      "geo": [
+        34.984,
+        138.5106
+      ]
+    },
+    {
+      "id": "51i52qpg5",
+      "name": "1話　チカの家",
+      "geo": [
+        35.0016,
+        138.5165
+      ]
+    },
+    {
+      "id": "51i52qt0y",
+      "name": "1話　大正橋",
+      "geo": [
+        35.0175,
+        138.4851
+      ]
+    },
+    {
+      "id": "51i52qt5y",
+      "name": "1話　芝生公園",
+      "geo": [
+        34.9948,
+        138.4437
+      ]
+    }
+  ],
+  "pointsLength": 73,
+  "imagesLength": 6,
+  "local_id": 424
+}

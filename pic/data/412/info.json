@@ -1,0 +1,129 @@
+{
+  "id": 126461,
+  "cn": "樱子小姐的脚下埋着尸体",
+  "title": "櫻子さんの足下には死体が埋まっている",
+  "city": "旭川市",
+  "cover": "https://image.xinu.ink/pic/data/412/images/126461.jpg",
+  "color": "#b03faf",
+  "geo": [
+    43.57802544577169,
+    142.43752783350482
+  ],
+  "zoom": 7.305,
+  "modified": 1727507338234,
+  "litePoints": [
+    {
+      "id": "5qypywi9",
+      "name": "第二箸別バス停前（箸別駅西側）",
+      "image": "https://image.anitabi.cn/points/126461/5qypywi9.jpg?plan=h160",
+      "ep": 1,
+      "s": 282,
+      "geo": [
+        43.8578,
+        141.5462
+      ]
+    },
+    {
+      "id": "5qypywou",
+      "name": "中歌地区その１",
+      "image": "https://image.anitabi.cn/points/126461/5qypywou.jpg?plan=h160",
+      "ep": 3,
+      "s": 1273,
+      "geo": [
+        43.8568,
+        141.5455
+      ]
+    },
+    {
+      "id": "5qypyx6y",
+      "name": "中歌地区その２（ノールマリーナ増毛東側）",
+      "image": "https://image.anitabi.cn/points/126461/5qypyx6y.jpg?plan=h160",
+      "ep": 1,
+      "s": 414,
+      "geo": [
+        43.8524,
+        141.5394
+      ]
+    },
+    {
+      "id": "5qypywrb",
+      "name": "暑寒海浜キャンプ場（暑寒海岸）",
+      "image": "https://image.anitabi.cn/points/126461/5qypywrb.jpg?plan=h160",
+      "ep": 1,
+      "s": 423,
+      "geo": [
+        43.8551,
+        141.5115
+      ]
+    },
+    {
+      "id": "5qypywlw",
+      "name": "セイコーマートいとう増毛店",
+      "image": "https://image.anitabi.cn/points/126461/5qypywlw.jpg?plan=h160",
+      "ep": 1,
+      "s": 1029,
+      "geo": [
+        43.8722,
+        141.5823
+      ]
+    },
+    {
+      "id": "5qypywxx",
+      "name": "増毛駐在所",
+      "image": "https://image.anitabi.cn/points/126461/5qypywxx.jpg?plan=h160",
+      "ep": 1,
+      "s": 995,
+      "geo": [
+        43.856,
+        141.517
+      ]
+    },
+    {
+      "id": "5qypyx1q",
+      "name": "旭川駅北口その２（駅舎側）",
+      "image": "https://image.anitabi.cn/points/126461/5qypyx1q.jpg?plan=h160",
+      "ep": 4,
+      "s": 979,
+      "geo": [
+        43.7632,
+        142.3585
+      ]
+    },
+    {
+      "id": "5qypywj3",
+      "name": "旭川駅北口その３",
+      "image": "https://image.anitabi.cn/points/126461/5qypywj3.jpg?plan=h160",
+      "ep": 6,
+      "s": 162,
+      "geo": [
+        43.7631,
+        142.358
+      ]
+    },
+    {
+      "id": "5qypyxh0",
+      "name": "イオンモール旭川駅前",
+      "image": "https://image.anitabi.cn/points/126461/5qypyxh0.jpg?plan=h160",
+      "ep": 6,
+      "s": 6,
+      "geo": [
+        43.7631,
+        142.3574
+      ]
+    },
+    {
+      "id": "5qypyxkr",
+      "name": "旭川キタノビル",
+      "image": "https://image.anitabi.cn/points/126461/5qypyxkr.jpg?plan=h160",
+      "ep": 10,
+      "s": 377,
+      "geo": [
+        43.7636,
+        142.3617
+      ]
+    }
+  ],
+  "pointsLength": 67,
+  "imagesLength": 52,
+  "local_id": 412
+}

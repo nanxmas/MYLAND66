@@ -1,0 +1,110 @@
+{
+  "id": 175404,
+  "cn": "ISLAND",
+  "title": "ISLAND",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/471/images/175404.jpg",
+  "color": "#b6bed9",
+  "cp": "アニメISLAND",
+  "geo": [
+    34.37686017972838,
+    139.2696847611167
+  ],
+  "zoom": 11.743,
+  "modified": 1733390055845,
+  "litePoints": [
+    {
+      "id": "cbd3ede0",
+      "name": "勤労福祉会館",
+      "image": "https://image.anitabi.cn/points/175404/cbd3ede0_1733389419871.jpg?plan=h160",
+      "geo": [
+        34.3727,
+        139.2552
+      ]
+    },
+    {
+      "id": "df4efe8b",
+      "name": "十字路",
+      "image": "https://image.anitabi.cn/points/175404/df4efe8b_1733389434032.jpg?plan=h160",
+      "geo": [
+        34.3715,
+        139.2557
+      ]
+    },
+    {
+      "id": "33fc8516",
+      "name": "森田商店",
+      "image": "https://image.anitabi.cn/points/175404/33fc8516_1733389450062.jpg?plan=h160",
+      "geo": [
+        34.3742,
+        139.2554
+      ]
+    },
+    {
+      "id": "b5dce3c5",
+      "name": "栄寿司",
+      "image": "https://image.anitabi.cn/points/175404/b5dce3c5_1733389463496.jpg?plan=h160",
+      "geo": [
+        34.3748,
+        139.255
+      ]
+    },
+    {
+      "id": "529f2c8a",
+      "name": "エレガンス",
+      "image": "https://image.anitabi.cn/points/175404/529f2c8a_1733389477159.jpg?plan=h160",
+      "geo": [
+        34.3749,
+        139.2547
+      ]
+    },
+    {
+      "id": "8bc9669e",
+      "name": "MARUMAN",
+      "image": "https://image.anitabi.cn/points/175404/8bc9669e_1733389488764.jpg?plan=h160",
+      "geo": [
+        34.3731,
+        139.254
+      ]
+    },
+    {
+      "id": "5085f48a",
+      "name": "Jレンタ",
+      "image": "https://image.anitabi.cn/points/175404/5085f48a_1733389501454.jpg?plan=h160",
+      "geo": [
+        34.3724,
+        139.2528
+      ]
+    },
+    {
+      "id": "655e2c93",
+      "name": "十三社神社近く①",
+      "image": "https://image.anitabi.cn/points/175404/655e2c93_1733389513368.jpg?plan=h160",
+      "geo": [
+        34.379,
+        139.2569
+      ]
+    },
+    {
+      "id": "ce356a4a",
+      "name": "十三社神社近く②",
+      "image": "https://image.anitabi.cn/points/175404/ce356a4a_1733389524871.jpg?plan=h160",
+      "geo": [
+        34.3792,
+        139.2558
+      ]
+    },
+    {
+      "id": "60c42499",
+      "name": "コーガ石波ロード",
+      "image": "https://image.anitabi.cn/points/175404/60c42499_1733389540906.jpg?plan=h160",
+      "geo": [
+        34.3751,
+        139.2595
+      ]
+    }
+  ],
+  "pointsLength": 37,
+  "imagesLength": 30,
+  "local_id": 471
+}

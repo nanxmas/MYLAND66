@@ -1,0 +1,43 @@
+[
+  {
+    "id": "r0n0ownyn",
+    "name": "秋田駅東口",
+    "image": "https://image.xinu.ink/pic/data/414/images/r0n0ownyn-1734363327233.jpg",
+    "ep": 3,
+    "geo": [
+      39.7166,
+      140.1311
+    ]
+  },
+  {
+    "id": "r0mo6axds",
+    "name": "仙台​空港​旅客​ターミナルビル",
+    "image": "https://image.xinu.ink/pic/data/414/images/r0mo6axds-1734362779823.jpg",
+    "ep": "",
+    "s": "",
+    "geo": [
+      38.1381,
+      140.9301
+    ]
+  },
+  {
+    "id": "r0mvjho17",
+    "name": "山形駅西口",
+    "image": "https://image.xinu.ink/pic/data/414/images/r0mvjho17-1734363018343.jpg",
+    "ep": "",
+    "geo": [
+      38.2492,
+      140.3269
+    ]
+  },
+  {
+    "id": "r0myp9ulz",
+    "name": "山形駅東口",
+    "image": "https://image.xinu.ink/pic/data/414/images/r0myp9ulz-1734363209743.jpg",
+    "ep": "",
+    "geo": [
+      38.2482,
+      140.3283
+    ]
+  }
+]

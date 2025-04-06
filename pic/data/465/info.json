@@ -1,0 +1,72 @@
+{
+  "id": 170261,
+  "cn": "天真与闪电",
+  "title": "甘々と稲妻",
+  "city": "武藏野市",
+  "cover": "https://image.xinu.ink/pic/data/465/images/170261.jpg",
+  "color": "#63aaf1",
+  "cp": "甘々と稲妻",
+  "geo": [
+    35.7026137,
+    139.543705
+  ],
+  "modified": 1729360067461,
+  "litePoints": [
+    {
+      "id": "kpx6oibbl",
+      "name": "すきっぷ通り商店街入り口",
+      "image": "https://image.anitabi.cn/points/170261/kpx6oibbl_1729359103168.jpg?plan=h160",
+      "geo": [
+        35.7025,
+        139.5442
+      ]
+    },
+    {
+      "id": "kpx6oiauw",
+      "name": "境南ふれあい広場公園",
+      "image": "https://image.anitabi.cn/points/170261/kpx6oiauw_1729359300462.jpg?plan=h160",
+      "geo": [
+        35.7017,
+        139.5436
+      ]
+    },
+    {
+      "id": "kpx6oib4l",
+      "name": "武蔵野プレイス",
+      "image": "https://image.anitabi.cn/points/170261/kpx6oib4l_1729359393909.jpg?plan=h160",
+      "geo": [
+        35.7013,
+        139.5437
+      ]
+    },
+    {
+      "id": "kpx6oibo6",
+      "name": "EDのお肉屋さん買い物シーン",
+      "image": "https://image.anitabi.cn/points/170261/kpx6oibo6_1729359651407.jpg?plan=h160",
+      "geo": [
+        35.703,
+        139.5442
+      ]
+    },
+    {
+      "id": "kpx6oiagt",
+      "name": "武蔵境駅北口",
+      "image": "https://image.anitabi.cn/points/170261/kpx6oiagt_1729359793875.jpg?plan=h160",
+      "geo": [
+        35.7024,
+        139.5442
+      ]
+    },
+    {
+      "id": "kpx6oibgm",
+      "name": "第一話おんぶして走った横断歩道",
+      "geo": [
+        35.7043,
+        139.5442
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 5,
+  "local_id": 465
+}

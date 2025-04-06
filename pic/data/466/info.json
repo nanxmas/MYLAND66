@@ -1,0 +1,132 @@
+{
+  "id": 172498,
+  "cn": "埃罗芒阿老师",
+  "title": "エロマンガ先生",
+  "city": "足立区",
+  "cover": "https://image.xinu.ink/pic/data/466/images/172498.jpg",
+  "color": "#55aaff",
+  "cp": "EMP",
+  "geo": [
+    35.76313988889673,
+    139.80735680277854
+  ],
+  "zoom": 14.28,
+  "modified": 1737503855434,
+  "litePoints": [
+    {
+      "id": "51i5dy6xf",
+      "name": "五反野駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/172498/points/51i5dy6xf-1725606247631.jpg?plan=h160",
+      "ep": 1,
+      "s": 760,
+      "geo": [
+        35.7662,
+        139.8093
+      ]
+    },
+    {
+      "id": "51i5dy6r3",
+      "name": "高砂野球場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/172498/points/51i5dy6r3-1725605456394.jpg?plan=h160",
+      "ep": 2,
+      "s": 149,
+      "geo": [
+        35.7609,
+        139.8046
+      ]
+    },
+    {
+      "id": "ocqzxa3en",
+      "cn": "正華五反野店",
+      "name": "Seika Gotanno",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/172498/points/ocqzxa3en-1726849033101.jpg?plan=h160",
+      "ep": 1,
+      "s": 250,
+      "geo": [
+        35.7664,
+        139.8092
+      ]
+    },
+    {
+      "id": "ocrha9c1g",
+      "name": "荒川千住新橋緑地",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/172498/points/ocrha9c1g-1726850149999.jpg?plan=h160",
+      "ep": 1,
+      "s": 141,
+      "geo": [
+        35.759,
+        139.8088
+      ]
+    },
+    {
+      "id": "ocrqa96b2",
+      "name": "放送大学 東京足立学習センター",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/172498/points/ocrqa96b2-1726850611458.jpg?plan=h160",
+      "ep": 1,
+      "s": 146,
+      "geo": [
+        35.7572,
+        139.8019
+      ]
+    },
+    {
+      "id": "ocsgzl3mm",
+      "name": "飯田橋駅 B2a",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/172498/points/ocsgzl3mm-1726852332055.jpg?plan=h160",
+      "ep": 6,
+      "s": 912,
+      "geo": [
+        35.7005,
+        139.7429
+      ]
+    },
+    {
+      "id": "ocsnp1drk",
+      "name": "Canal Cafe Boutique",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/172498/points/ocsnp1drk-1726852630398.jpg?plan=h160",
+      "ep": 6,
+      "s": 908,
+      "geo": [
+        35.7002,
+        139.7428
+      ]
+    },
+    {
+      "id": "ocsxcpde3",
+      "name": "万世橋",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/172498/points/ocsxcpde3-1726853301323.jpg?plan=h160",
+      "ep": 11,
+      "s": 1190,
+      "geo": [
+        35.6971,
+        139.7712
+      ]
+    },
+    {
+      "id": "odd7ubw99",
+      "name": "住友不動産千代田富士見ビル",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/172498/points/odd7ubw99-1726897470942.jpg?plan=h160",
+      "ep": 6,
+      "s": 1059,
+      "geo": [
+        35.6985,
+        139.7455
+      ]
+    },
+    {
+      "id": "oddgeztrl",
+      "cn": "秋叶原",
+      "name": "秋葉原ラジオ会館前",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/172498/points/oddgeztrl-1726897995975.jpg?plan=h160",
+      "ep": 11,
+      "s": 1177,
+      "geo": [
+        35.6981,
+        139.7722
+      ]
+    }
+  ],
+  "pointsLength": 15,
+  "imagesLength": 15,
+  "local_id": 466
+}

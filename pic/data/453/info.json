@@ -1,0 +1,53 @@
+{
+  "id": 159690,
+  "cn": "魔法纪录 魔法少女小圆外传",
+  "title": "マギアレコード 魔法少女まどか☆マギカ外伝",
+  "cover": "https://image.xinu.ink/pic/data/453/images/159690.jpg",
+  "color": "#fc85bd",
+  "geo": [
+    39.157113743197925,
+    117.15811971221365
+  ],
+  "zoom": 11.163,
+  "modified": 1722515708265,
+  "litePoints": [
+    {
+      "id": "ieaqfxrf7",
+      "cn": "天津西站",
+      "name": "天津西站",
+      "image": "https://image.anitabi.cn/user/0/bangumi/159690/points/ieaqfxrf7-1710043989383.jpg?plan=h160",
+      "ep": 10,
+      "s": 412,
+      "geo": [
+        39.1573,
+        117.157
+      ]
+    },
+    {
+      "id": "ieazprkmo",
+      "name": "天津滨海图书馆",
+      "image": "https://image.anitabi.cn/user/0/bangumi/159690/points/ieazprkmo-1710044275831.jpg?plan=h160",
+      "ep": 10,
+      "s": 859,
+      "geo": [
+        39.0159,
+        117.6811
+      ]
+    },
+    {
+      "id": "ieb5ehbfe",
+      "cn": "耶莱巴坦地下水宫",
+      "name": "Yerabatan Sarnıcı",
+      "image": "https://image.anitabi.cn/user/0/bangumi/159690/points/ieb5ehbfe-1710044713895.jpg?plan=h160",
+      "ep": 7,
+      "s": 211,
+      "geo": [
+        41.0083,
+        28.9779
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 453
+}

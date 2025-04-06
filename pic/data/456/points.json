@@ -1,0 +1,28 @@
+[
+  {
+    "id": "63149cbf",
+    "cn": "独酌 三四郎",
+    "name": "５丁目",
+    "image": "https://image.xinu.ink/pic/data/456/images/63149cbf_1741372483157.jpg",
+    "s": 432,
+    "geo": [
+      43.7681,
+      142.3564
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1w1GKYAlLTvcSAf3ax5D522-nYUJ8OSY&ll=43.768189%2C142.356432&z=17"
+  },
+  {
+    "id": "3bdc0685",
+    "cn": "自由軒",
+    "name": "８丁目",
+    "image": "https://image.xinu.ink/pic/data/456/images/3bdc0685_1741372496222.jpg",
+    "s": 2704,
+    "geo": [
+      43.7703,
+      142.362
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1w1GKYAlLTvcSAf3ax5D522-nYUJ8OSY&ll=43.770301%2C142.362084&z=17"
+  }
+]

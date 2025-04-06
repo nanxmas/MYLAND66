@@ -1,0 +1,119 @@
+{
+  "id": 147568,
+  "cn": "",
+  "title": "Rewrite",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/444/images/147568.jpg",
+  "color": "#71ddc3",
+  "cp": "Rewrite Project",
+  "geo": [
+    38.44863933313425,
+    137.77087214947687
+  ],
+  "zoom": 5.437,
+  "modified": 1720436105345,
+  "litePoints": [
+    {
+      "id": "lxqd6sldz",
+      "cn": "成田国际机场T1航站楼北到达出口 1F",
+      "name": "JALエービーシー成田空港第1ターミナル北ウイング到着階（1F）カウンター",
+      "image": "https://image.anitabi.cn/user/0/bangumi/147568/points/lxqd6sldz-1720030082250.jpg?plan=h160",
+      "ep": 19,
+      "geo": [
+        35.7652,
+        140.386
+      ]
+    },
+    {
+      "id": "m1kdr6t6m",
+      "cn": "埃菲尔铁塔",
+      "name": "La Tour Eiffel",
+      "image": "https://image.anitabi.cn/user/0/bangumi/147568/points/m1kdr6t6m-1720330414842.jpg?plan=h160",
+      "geo": [
+        48.8578,
+        2.2952
+      ]
+    },
+    {
+      "id": "m1ka3vl0a",
+      "cn": "时代广场",
+      "name": "Times Square",
+      "image": "https://image.anitabi.cn/user/0/bangumi/147568/points/m1ka3vl0a-1720330189111.jpg?plan=h160",
+      "s": 848,
+      "geo": [
+        40.7571,
+        -73.986
+      ]
+    },
+    {
+      "id": "m1j4zn58q",
+      "cn": "自由女神像",
+      "name": "Statue of Liberty",
+      "image": "https://image.anitabi.cn/user/0/bangumi/147568/points/m1j4zn58q-1720327740149.jpg?plan=h160",
+      "geo": [
+        40.6892,
+        -74.0445
+      ]
+    },
+    {
+      "id": "m1ht5gf9n",
+      "cn": "阿库罗斯福冈",
+      "name": "アクロス福岡",
+      "image": "https://image.anitabi.cn/user/0/bangumi/147568/points/m1ht5gf9n-1720327361979.jpg?plan=h160",
+      "geo": [
+        33.5905,
+        130.4028
+      ]
+    },
+    {
+      "id": "m1k5fdbe2",
+      "cn": "圣瓦西里主教座堂",
+      "name": "Собор Василия Блаженного",
+      "image": "https://image.anitabi.cn/user/0/bangumi/147568/points/m1k5fdbe2-1720329912022.jpg?plan=h160",
+      "s": 854,
+      "geo": [
+        55.7525,
+        37.623
+      ]
+    },
+    {
+      "id": "m1jpp9och",
+      "cn": "风祭市街2（大阪市中津市）",
+      "name": "風祭市街２（大阪市中津）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/147568/points/m1jpp9och-1720329015428.jpg?plan=h160",
+      "geo": [
+        34.7131,
+        135.4981
+      ]
+    },
+    {
+      "id": "m2wxok4sq",
+      "cn": "圣伯多禄大殿",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/147568/m2wxok4sq_1720436080798.jpg?plan=h160",
+      "geo": [
+        41.9023,
+        12.459
+      ]
+    },
+    {
+      "id": "51i51xxvr",
+      "name": "うろこの家",
+      "geo": [
+        34.7028,
+        135.1906
+      ]
+    },
+    {
+      "id": "51i51xy3h",
+      "name": "石山緑地公園",
+      "geo": [
+        42.9687,
+        141.341
+      ]
+    }
+  ],
+  "pointsLength": 15,
+  "imagesLength": 8,
+  "local_id": 444
+}

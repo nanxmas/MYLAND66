@@ -1,0 +1,130 @@
+{
+  "id": 155704,
+  "cn": "田中君总是如此慵懒",
+  "title": "田中くんはいつもけだるげ",
+  "city": "广岛市",
+  "cover": "https://image.xinu.ink/pic/data/450/images/155704.jpg",
+  "color": "#695e54",
+  "cp": "",
+  "geo": [
+    34.3947465744879,
+    132.46014654150326
+  ],
+  "zoom": 13.072,
+  "modified": 1726751606130,
+  "litePoints": [
+    {
+      "id": "5fdmz43wy",
+      "name": "OP 基町高校",
+      "image": "https://image.anitabi.cn/points/155704/5fdmz43wy_1673543730093.jpg?plan=h160",
+      "ep": 1,
+      "s": 197,
+      "geo": [
+        34.4041,
+        132.4593
+      ]
+    },
+    {
+      "id": "5fdmz443x",
+      "name": "OP 堀川町交差点",
+      "image": "https://image.anitabi.cn/points/155704/5fdmz443x_1673543731257.jpg?plan=h160",
+      "ep": 3,
+      "s": 300,
+      "geo": [
+        34.3923,
+        132.4629
+      ]
+    },
+    {
+      "id": "5fdmz43wx",
+      "name": "OP McDonald's広島本通店",
+      "image": "https://image.anitabi.cn/points/155704/5fdmz43wx_1673543732397.jpg?plan=h160",
+      "ep": 2,
+      "s": 150,
+      "geo": [
+        34.3934,
+        132.4578
+      ]
+    },
+    {
+      "id": "5fdmz44fa",
+      "name": "健診センター前",
+      "image": "https://image.anitabi.cn/points/155704/5fdmz44fa_1673543733791.jpg?plan=h160",
+      "ep": 1,
+      "s": 760,
+      "geo": [
+        34.3942,
+        132.4548
+      ]
+    },
+    {
+      "id": "5fdmz44es",
+      "name": "八天堂 港町創業店",
+      "image": "https://image.anitabi.cn/points/155704/5fdmz44es_1673543735003.jpg?plan=h160",
+      "ep": 1,
+      "s": 1276,
+      "geo": [
+        34.3991,
+        133.0803
+      ]
+    },
+    {
+      "id": "5fdmz43r6",
+      "name": "浅草富士浅間神社",
+      "image": "https://image.anitabi.cn/points/155704/5fdmz43r6_1673543736645.jpg?plan=h160",
+      "ep": 2,
+      "s": 14,
+      "geo": [
+        35.719,
+        139.7982
+      ]
+    },
+    {
+      "id": "5fdmz43xm",
+      "name": "基町高校前",
+      "image": "https://image.anitabi.cn/points/155704/5fdmz43xm_1673543737725.jpg?plan=h160",
+      "ep": 2,
+      "s": 59,
+      "geo": [
+        34.4038,
+        132.4597
+      ]
+    },
+    {
+      "id": "5fdmz44cl",
+      "name": "新白島駅",
+      "image": "https://image.anitabi.cn/points/155704/5fdmz44cl_1673543739120.jpg?plan=h160",
+      "ep": 2,
+      "s": 891,
+      "geo": [
+        34.4079,
+        132.4606
+      ]
+    },
+    {
+      "id": "5fdmz43x7",
+      "name": "平和記念公園",
+      "image": "https://image.anitabi.cn/points/155704/5fdmz43x7_1673543740353.jpg?plan=h160",
+      "ep": 5,
+      "s": 163,
+      "geo": [
+        34.3937,
+        132.4527
+      ]
+    },
+    {
+      "id": "5fdmz43vf",
+      "name": "本川橋西",
+      "image": "https://image.anitabi.cn/points/155704/5fdmz43vf_1673543741449.jpg?plan=h160",
+      "ep": 5,
+      "s": 540,
+      "geo": [
+        34.3939,
+        132.4501
+      ]
+    }
+  ],
+  "pointsLength": 36,
+  "imagesLength": 36,
+  "local_id": 450
+}

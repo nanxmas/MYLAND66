@@ -1,0 +1,131 @@
+{
+  "id": 137722,
+  "cn": "只有我不存在的城市",
+  "title": "僕だけがいない街",
+  "city": "苫小牧市",
+  "cover": "https://image.xinu.ink/pic/data/426/images/137722.jpg",
+  "color": "#634e47",
+  "cp": "アニメ僕街",
+  "geo": [
+    42.639286157027044,
+    141.59795560005227
+  ],
+  "zoom": 11.902906553146241,
+  "modified": 1729064142169,
+  "litePoints": [
+    {
+      "id": "v4swh2",
+      "name": "苫小牧市立美園小学校",
+      "image": "https://image.anitabi.cn/points/137722/v4swh2.jpg?plan=h160",
+      "ep": 1,
+      "s": 101,
+      "geo": [
+        42.663,
+        141.6144
+      ]
+    },
+    {
+      "id": "v4swfm",
+      "cn": "绿丘公园展望台",
+      "name": "緑ケ丘公園展望台",
+      "image": "https://image.anitabi.cn/points/137722/v4swfm.jpg?plan=h160",
+      "ep": 11,
+      "s": 212,
+      "geo": [
+        42.6532,
+        141.602
+      ]
+    },
+    {
+      "id": "v4swgk",
+      "name": "清水歩道橋",
+      "image": "https://image.anitabi.cn/points/137722/v4swgk.jpg?plan=h160",
+      "ep": 7,
+      "s": 886,
+      "geo": [
+        42.6487,
+        141.599
+      ]
+    },
+    {
+      "id": "v4swga",
+      "name": "苫小牧駅南口",
+      "image": "https://image.anitabi.cn/points/137722/v4swga.jpg?plan=h160",
+      "ep": 4,
+      "s": 874,
+      "geo": [
+        42.6393,
+        141.5975
+      ]
+    },
+    {
+      "id": "v4swfs",
+      "name": "苫小牧駅前通商店街（王子町1-6交差点）",
+      "image": "https://image.anitabi.cn/points/137722/v4swfs.jpg?plan=h160",
+      "ep": 12,
+      "s": 1086,
+      "geo": [
+        42.6362,
+        141.5982
+      ]
+    },
+    {
+      "id": "v4swgw",
+      "name": "セレクトショップ＆カフェRegent",
+      "image": "https://image.anitabi.cn/points/137722/v4swgw.jpg?plan=h160",
+      "ep": 4,
+      "s": 764,
+      "geo": [
+        42.6362,
+        141.5989
+      ]
+    },
+    {
+      "id": "v4swho",
+      "name": "福士商店",
+      "image": "https://image.anitabi.cn/points/137722/v4swho.jpg?plan=h160",
+      "ep": 4,
+      "s": 867,
+      "geo": [
+        42.6325,
+        141.5978
+      ]
+    },
+    {
+      "id": "v4swf4",
+      "name": "新一條通り飲食店街",
+      "image": "https://image.anitabi.cn/points/137722/v4swf4.jpg?plan=h160",
+      "ep": 4,
+      "s": 891,
+      "geo": [
+        42.6319,
+        141.5983
+      ]
+    },
+    {
+      "id": "v4swfo",
+      "name": "大町一条通り（？）",
+      "image": "https://image.anitabi.cn/points/137722/v4swfo.jpg?plan=h160",
+      "ep": 12,
+      "s": 790,
+      "geo": [
+        42.6312,
+        141.5958
+      ]
+    },
+    {
+      "id": "v4swf2",
+      "name": "苫小牧警察署",
+      "image": "https://image.anitabi.cn/points/137722/v4swf2.jpg?plan=h160",
+      "ep": 5,
+      "s": 355,
+      "geo": [
+        42.6342,
+        141.6033
+      ]
+    }
+  ],
+  "pointsLength": 28,
+  "imagesLength": 27,
+  "local_id": 426
+}

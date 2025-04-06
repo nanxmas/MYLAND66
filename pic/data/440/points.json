@@ -1,0 +1,224 @@
+[
+  {
+    "id": "51i52vhk2",
+    "cn": "海上自卫队第1术科学校",
+    "name": "海上自衛隊第1術科学校",
+    "image": "https://image.xinu.ink/pic/data/440/images/51i52vhk2_1675697956914.jpg",
+    "ep": 1,
+    "s": 179,
+    "geo": [
+      34.2445,
+      132.474
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=34.244528%2C132.474034&z=17"
+  },
+  {
+    "id": "51i52vhxm",
+    "cn": "旧吴镇守府厅舍",
+    "name": "旧呉鎮守府庁舎",
+    "image": "https://image.xinu.ink/pic/data/440/images/51i52vhxm_1675698899651.jpg",
+    "ep": 1,
+    "s": 188,
+    "geo": [
+      34.2369,
+      132.5602
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=34.236969%2C132.560288&z=17"
+  },
+  {
+    "id": "51i52vil4",
+    "cn": "JR横须贺站",
+    "name": "JR横須賀駅",
+    "image": "https://image.xinu.ink/pic/data/440/images/51i52vil4_1675696336641.jpg",
+    "ep": 2,
+    "s": 230,
+    "geo": [
+      35.2841,
+      139.6562
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=35.284141%2C139.656234&z=17"
+  },
+  {
+    "id": "51i52via0",
+    "cn": "诹访大神社",
+    "name": "諏訪大神社",
+    "image": "https://image.xinu.ink/pic/data/440/images/51i52via0_1725434842854.jpg",
+    "ep": 2,
+    "s": 268,
+    "geo": [
+      35.2806,
+      139.6654
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=35.280693%2C139.665497&z=17"
+  },
+  {
+    "id": "51i52vid7",
+    "cn": "诹访大神社 门牌楼",
+    "name": "諏訪大神社の門",
+    "image": "https://image.xinu.ink/pic/data/440/images/51i52vid7_1725434860133.jpg",
+    "ep": 2,
+    "s": 233,
+    "geo": [
+      35.2814,
+      139.6664
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=35.281463%2C139.666497&z=17"
+  },
+  {
+    "id": "6807q4m56",
+    "cn": "诹访大神社 楼梯",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/440/images/6807q4m56_1725434883923.jpg",
+    "ep": 2,
+    "s": 242,
+    "geo": [
+      35.2806,
+      139.6655
+    ],
+    "origin": "Anitabi@Kd树上的叶子",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6809n3ygi",
+    "cn": "诹访大神社 石牌",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/440/images/6809n3ygi_1725434901172.jpg",
+    "ep": 2,
+    "s": 236,
+    "geo": [
+      35.2807,
+      139.6656
+    ],
+    "origin": "Anitabi@Kd树上的叶子",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kwwrv33xo",
+    "cn": "法拉洛普岛",
+    "name": "Falalop",
+    "image": "https://image.xinu.ink/pic/data/440/images/kwwrv33xo-1717144475080.jpg",
+    "ep": 7,
+    "s": 617,
+    "geo": [
+      10.0194,
+      139.791
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=10.019412%2C139.79101&z=17"
+  },
+  {
+    "id": "kwx2vk143",
+    "cn": "亚松森岛",
+    "name": "Asuncion Island",
+    "image": "https://image.xinu.ink/pic/data/440/images/kwx2vk143-1717145139566.jpg",
+    "ep": 2,
+    "s": 1331,
+    "geo": [
+      19.6913,
+      145.4041
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=19.691362%2C145.404152&z=17"
+  },
+  {
+    "id": "kwxabclln",
+    "cn": "韦诺(丘克群岛)",
+    "name": "Weno",
+    "image": "https://image.xinu.ink/pic/data/440/images/kwxabclln-1717145580802.jpg",
+    "ep": 8,
+    "s": 245,
+    "geo": [
+      7.443,
+      151.8589
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=7.443053%2C151.858957&z=17"
+  },
+  {
+    "id": "kwxeo5tyo",
+    "name": "西之島",
+    "image": "https://image.xinu.ink/pic/data/440/images/kwxeo5tyo-1717145822078.jpg",
+    "ep": 8,
+    "s": 363,
+    "geo": [
+      27.244,
+      140.8791
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=27.244054%2C140.879124&z=17"
+  },
+  {
+    "id": "kwy2h2gsb",
+    "cn": "洛伦高(阿德默勒尔蒂群岛)",
+    "name": "Lorengau",
+    "image": "https://image.xinu.ink/pic/data/440/images/kwy2h2gsb-1717147256937.jpg",
+    "ep": 9,
+    "s": 48,
+    "geo": [
+      -2.0335,
+      147.2789
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=-2.03345%2C147.278996&z=17"
+  },
+  {
+    "id": "kwymdkfc3",
+    "cn": "席亚德勒湾",
+    "name": "Lombrum Naval Base",
+    "image": "https://image.xinu.ink/pic/data/440/images/kwymdkfc3-1717148461765.jpg",
+    "ep": 9,
+    "s": 1072,
+    "geo": [
+      -2.0404,
+      147.3729
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=-2.040383%2C147.372944&z=17"
+  },
+  {
+    "id": "kwz4h7qd0",
+    "name": "Guruapin",
+    "image": "https://image.xinu.ink/pic/data/440/images/kwz4h7qd0-1717149599804.jpg",
+    "ep": 10,
+    "s": 28,
+    "geo": [
+      0.0131,
+      127.4088
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=0.013111%2C127.408825&z=17"
+  },
+  {
+    "id": "kwzabcff5",
+    "cn": "科洛尼亚(雅浦岛)",
+    "name": "Colonia",
+    "image": "https://image.xinu.ink/pic/data/440/images/kwzabcff5-1717149927972.jpg",
+    "ep": 10,
+    "s": 301,
+    "geo": [
+      9.5158,
+      138.1198
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=9.51582%2C138.119855&z=17"
+  },
+  {
+    "id": "o8at6l6f6",
+    "cn": "猿岛基地",
+    "name": "猿島",
+    "image": "https://image.xinu.ink/pic/data/440/images/o8at6l6f6-1726500973299.jpg",
+    "ep": "01",
+    "s": "13:50",
+    "geo": [
+      35.2854,
+      139.6958
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=35.285404%2C139.69588&z=17"
+  }
+]

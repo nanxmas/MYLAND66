@@ -1,0 +1,30 @@
+{
+  "id": 159661,
+  "cn": "黑色残骸",
+  "title": "クロムクロ",
+  "cover": "https://image.xinu.ink/pic/data/452/images/159661.jpg",
+  "color": "#232332",
+  "cp": "クロムクロ",
+  "geo": [
+    36.6934573,
+    137.2110844
+  ],
+  "modified": 1710078496591,
+  "litePoints": [
+    {
+      "id": "ie8uwld2l",
+      "cn": "故宫（太和门）",
+      "name": "故宫（太和门）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/159661/points/ie8uwld2l-1710039670063.jpg?plan=h160",
+      "ep": 26,
+      "s": 1414,
+      "geo": [
+        39.9138,
+        116.391
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 452
+}

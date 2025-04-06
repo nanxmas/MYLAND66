@@ -1,0 +1,139 @@
+{
+  "id": 174998,
+  "cn": "冰上的尤里",
+  "title": "ユーリ!!! on ICE",
+  "city": "唐津市",
+  "cover": "https://image.xinu.ink/pic/data/470/images/174998.jpg",
+  "color": "#0676f7",
+  "cp": "ユーリ!!! on ICE",
+  "geo": [
+    33.443881194341444,
+    129.9761050126449
+  ],
+  "zoom": 13.249,
+  "modified": 1728961268345,
+  "litePoints": [
+    {
+      "id": "jvbl7lkf5",
+      "cn": "东京代代木国立体育馆",
+      "name": "国立代々木競技場 ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/174998/points/jvbl7lkf5-1714198924786.jpg?plan=h160",
+      "ep": 1,
+      "s": 469,
+      "geo": [
+        35.6672,
+        139.6992
+      ]
+    },
+    {
+      "id": "51i535vq0",
+      "name": "国立代々木競技場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/174998/points/51i535vq0-1714193646813.jpg?plan=h160",
+      "ep": 1,
+      "s": 478,
+      "geo": [
+        35.6677,
+        139.6999
+      ]
+    },
+    {
+      "id": "897gy66ek",
+      "cn": "圣母百花圣殿",
+      "name": "Santa Maria del Fiore",
+      "image": "https://image.anitabi.cn/user/0/bangumi/174998/points/897gy66ek-1681433722938.jpg?plan=h160",
+      "ep": 1,
+      "s": 1316,
+      "geo": [
+        43.7731,
+        11.2555
+      ]
+    },
+    {
+      "id": "89866yndf",
+      "cn": "莱佛士酒店",
+      "name": "ラッフルズ・ホテル",
+      "image": "https://image.anitabi.cn/user/0/bangumi/174998/points/89866yndf-1681435215534.jpg?plan=h160",
+      "ep": 1,
+      "s": 1320,
+      "geo": [
+        1.2949,
+        103.8542
+      ]
+    },
+    {
+      "id": "897xo09zy",
+      "cn": "阿拉木图地铁站",
+      "name": "ст.Алмалы",
+      "image": "https://image.anitabi.cn/user/0/bangumi/174998/points/897xo09zy-1681434935411.jpg?plan=h160",
+      "ep": 1,
+      "s": 1325,
+      "geo": [
+        43.2508,
+        76.9455
+      ]
+    },
+    {
+      "id": "897nucs5s",
+      "cn": "俄罗斯博物馆",
+      "name": "Государственный Русский Музей",
+      "image": "https://image.anitabi.cn/user/0/bangumi/174998/points/897nucs5s-1681434127607.jpg?plan=h160",
+      "ep": 1,
+      "s": 1338,
+      "geo": [
+        59.9384,
+        30.3322
+      ]
+    },
+    {
+      "id": "8942kjfvr",
+      "cn": "萨兰斯克冰宫",
+      "name": "Ледовый дворец",
+      "image": "https://image.anitabi.cn/user/0/bangumi/174998/points/8942kjfvr-1681426334022.jpg?plan=h160",
+      "ep": 2,
+      "s": 642,
+      "geo": [
+        54.1776,
+        45.1908
+      ]
+    },
+    {
+      "id": "893tyokk8",
+      "cn": "中央陆军俱乐部游泳馆",
+      "name": "CSKA Бассейн",
+      "image": "https://image.anitabi.cn/user/0/bangumi/174998/points/893tyokk8-1681425944717.jpg?plan=h160",
+      "ep": 4,
+      "s": 334,
+      "geo": [
+        55.795,
+        37.5405
+      ]
+    },
+    {
+      "id": "8939k5jbo",
+      "cn": "杜奇科夫桥",
+      "name": "Тучков мост",
+      "image": "https://image.anitabi.cn/user/0/bangumi/174998/points/8939k5jbo-1681424713574.jpg?plan=h160",
+      "ep": 4,
+      "s": 468,
+      "geo": [
+        59.9488,
+        30.2855
+      ]
+    },
+    {
+      "id": "89591cxqi",
+      "cn": "底特律滑冰俱乐部",
+      "name": "Detroit Skating Club",
+      "image": "https://image.anitabi.cn/user/0/bangumi/174998/points/89591cxqi-1681428902957.jpg?plan=h160",
+      "ep": 4,
+      "s": 567,
+      "geo": [
+        42.6075,
+        -83.2916
+      ]
+    }
+  ],
+  "pointsLength": 48,
+  "imagesLength": 44,
+  "local_id": 470
+}

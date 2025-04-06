@@ -1,0 +1,129 @@
+{
+  "id": 174584,
+  "cn": "轻拍翻转小魔女",
+  "title": "フリップフラッパーズ",
+  "city": "福岛县",
+  "cover": "https://image.xinu.ink/pic/data/468/images/174584.jpg",
+  "color": "#f6a1b6",
+  "geo": [
+    37.4053956316659,
+    140.30603062228965
+  ],
+  "zoom": 10.026,
+  "modified": 1722515456336,
+  "litePoints": [
+    {
+      "id": "372a0c35",
+      "name": "郡山布引高原風力発電所（？）",
+      "image": "https://image.anitabi.cn/points/174584/372a0c35_1720209462029.jpg?plan=h160",
+      "ep": 1,
+      "s": 181,
+      "geo": [
+        37.3373,
+        140.0549
+      ]
+    },
+    {
+      "id": "3c62a739",
+      "name": "ロミオ イトーヨーカ堂郡山店",
+      "image": "https://image.anitabi.cn/points/174584/3c62a739_1720209461560.jpg?plan=h160",
+      "ep": 4,
+      "s": 504,
+      "geo": [
+        37.4075,
+        140.3643
+      ]
+    },
+    {
+      "id": "a28e1516",
+      "name": "ロミオ アンジェロ開成店",
+      "image": "https://image.anitabi.cn/points/174584/a28e1516_1720209461774.jpg?plan=h160",
+      "ep": 4,
+      "s": 504,
+      "geo": [
+        37.3985,
+        140.3627
+      ]
+    },
+    {
+      "id": "m00ra45vb",
+      "name": "安達太良神社",
+      "image": "https://image.anitabi.cn/points/174584/m00ra45vb_1720209460161.jpg?plan=h160",
+      "ep": 6,
+      "s": 1412,
+      "geo": [
+        37.5211,
+        140.4044
+      ]
+    },
+    {
+      "id": "fd4cc0fd",
+      "name": "本陣通り交差点",
+      "image": "https://image.anitabi.cn/points/174584/fd4cc0fd_1720208082456.jpg?plan=h160",
+      "ep": 7,
+      "s": 771,
+      "geo": [
+        37.5138,
+        140.4022
+      ]
+    },
+    {
+      "id": "m00bu4sod",
+      "name": "みずいろ公園",
+      "image": "https://image.anitabi.cn/points/174584/m00bu4sod_1720209458299.jpg?plan=h160",
+      "ep": 7,
+      "s": 771,
+      "geo": [
+        37.5185,
+        140.4007
+      ]
+    },
+    {
+      "id": "f07fc5e7",
+      "name": "ムラヤマベーカリー",
+      "image": "https://image.anitabi.cn/points/174584/f07fc5e7_1720209457031.jpg?plan=h160",
+      "ep": 7,
+      "s": 779,
+      "geo": [
+        37.5119,
+        140.4008
+      ]
+    },
+    {
+      "id": "m00cqu9ee",
+      "name": "みずいろ公園 わらしっ子広場",
+      "image": "https://image.anitabi.cn/points/174584/m00cqu9ee_1720209458696.jpg?plan=h160",
+      "ep": 7,
+      "s": 779,
+      "geo": [
+        37.5183,
+        140.4015
+      ]
+    },
+    {
+      "id": "ca21c460",
+      "name": "ファッションセンターしまむら 本宮店",
+      "image": "https://image.anitabi.cn/points/174584/ca21c460_1720208084374.jpg?plan=h160",
+      "ep": 7,
+      "s": 802,
+      "geo": [
+        37.5187,
+        140.395
+      ]
+    },
+    {
+      "id": "m00dekd3t",
+      "name": "ファッションセンターしまむら 本宮店北側の駐車場",
+      "image": "https://image.anitabi.cn/points/174584/m00dekd3t_1720209461065.jpg?plan=h160",
+      "ep": 7,
+      "s": 814,
+      "geo": [
+        37.5188,
+        140.3946
+      ]
+    }
+  ],
+  "pointsLength": 27,
+  "imagesLength": 27,
+  "local_id": 468
+}

@@ -1,0 +1,130 @@
+{
+  "id": 152091,
+  "cn": "吹响吧！上低音号 2",
+  "title": "響け！ユーフォニアム2",
+  "city": "宇治市",
+  "cover": "https://image.xinu.ink/pic/data/449/images/152091.jpg",
+  "color": "#2a5580",
+  "cp": "『響け！』",
+  "geo": [
+    34.91796628803695,
+    135.82388099890204
+  ],
+  "zoom": 13.126,
+  "modified": 1742411513470,
+  "litePoints": [
+    {
+      "id": "atdmu5ot3",
+      "name": "京坂六地藏前 リバティビル",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/152091/points/atdmu5ot3-1688656590089.jpg?plan=h160",
+      "ep": 9,
+      "s": 154,
+      "geo": [
+        34.9322,
+        135.7932
+      ]
+    },
+    {
+      "id": "kq5gkb5y5",
+      "name": "京阪宇治站 前",
+      "image": "https://image.anitabi.cn/points/152091/kq5gkb5y5_1716614800422.jpg?plan=h160",
+      "ep": 1,
+      "s": 742,
+      "geo": [
+        34.8939,
+        135.8065
+      ]
+    },
+    {
+      "id": "kq5h19o6l",
+      "name": "宇治桥东",
+      "image": "https://image.anitabi.cn/points/152091/kq5h19o6l_1716614824979.jpg?plan=h160",
+      "ep": 1,
+      "s": 746,
+      "geo": [
+        34.8934,
+        135.8068
+      ]
+    },
+    {
+      "id": "kq6qqpdzb",
+      "name": "宇治桥西",
+      "image": "https://image.anitabi.cn/points/152091/kq6qqpdzb_1716617585537.jpg?plan=h160",
+      "ep": 1,
+      "s": 1973,
+      "geo": [
+        34.8926,
+        135.8055
+      ]
+    },
+    {
+      "id": "kq5y9d6d9",
+      "name": "菊桥 远眺宇治桥",
+      "image": "https://image.anitabi.cn/points/152091/kq5y9d6d9_1716615878186.jpg?plan=h160",
+      "ep": 1,
+      "s": 768,
+      "geo": [
+        34.8906,
+        135.8079
+      ]
+    },
+    {
+      "id": "kq61a7s69",
+      "name": "宇治公园附近",
+      "image": "https://image.anitabi.cn/points/152091/kq61a7s69_1716616055079.jpg?plan=h160",
+      "ep": 1,
+      "s": 775,
+      "geo": [
+        34.888,
+        135.8088
+      ]
+    },
+    {
+      "id": "kq6q8y88o",
+      "name": "宇治公园附近 黄昏 夏",
+      "image": "https://image.anitabi.cn/points/152091/kq6q8y88o_1716617550555.jpg?plan=h160",
+      "ep": 1,
+      "s": 1935,
+      "geo": [
+        34.888,
+        135.8088
+      ]
+    },
+    {
+      "id": "kq9z46d0e",
+      "name": "宇治公园附近 夜晚 夏",
+      "image": "https://image.anitabi.cn/points/152091/kq9z46d0e_1716624622833.jpg?plan=h160",
+      "ep": 4,
+      "s": 263,
+      "geo": [
+        34.8879,
+        135.8088
+      ]
+    },
+    {
+      "id": "kq57b68zu",
+      "name": "京坂黄檗站 前",
+      "image": "https://image.anitabi.cn/points/152091/kq57b68zu_1716614239240.jpg?plan=h160",
+      "ep": 1,
+      "s": 685,
+      "geo": [
+        34.9142,
+        135.8022
+      ]
+    },
+    {
+      "id": "kq6prakfb",
+      "name": "京坂黄檗站 内",
+      "image": "https://image.anitabi.cn/points/152091/kq6prakfb_1716617521881.jpg?plan=h160",
+      "ep": 1,
+      "s": 1888,
+      "geo": [
+        34.9143,
+        135.8026
+      ]
+    }
+  ],
+  "pointsLength": 392,
+  "imagesLength": 389,
+  "local_id": 449
+}

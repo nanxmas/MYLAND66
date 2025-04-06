@@ -1,0 +1,109 @@
+{
+  "id": 138960,
+  "cn": "温泉幼精箱根酱",
+  "title": "温泉幼精ハコネちゃん",
+  "city": "小田原市",
+  "cover": "https://image.xinu.ink/pic/data/428/images/138960.jpg",
+  "color": "#d3382b",
+  "cp": "ハコネちゃん",
+  "geo": [
+    35.20269675010262,
+    139.06640207225416
+  ],
+  "zoom": 10.631,
+  "modified": 1734343175005,
+  "litePoints": [
+    {
+      "id": "51i52minr",
+      "cn": "箱根小涌园",
+      "name": "箱根小涌園ユネッサン",
+      "image": "https://image.anitabi.cn/user/0/bangumi/138960/points/51i52minr-1734340497756.jpg?plan=h160",
+      "ep": 7,
+      "geo": [
+        35.2393,
+        139.0454
+      ]
+    },
+    {
+      "id": "51i52mmfs",
+      "cn": "箱根神社 神门",
+      "name": "箱根神社 神門",
+      "image": "https://image.anitabi.cn/user/0/bangumi/138960/points/51i52mmfs-1721983638175.jpg?plan=h160",
+      "ep": 13,
+      "s": 12,
+      "geo": [
+        35.2046,
+        139.0253
+      ]
+    },
+    {
+      "id": "51i52mivm",
+      "name": "湯本橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/138960/points/51i52mivm-1731939535208.jpg?plan=h160",
+      "geo": [
+        35.2313,
+        139.1003
+      ]
+    },
+    {
+      "id": "51i52mjx6",
+      "name": "大涌谷黒たまご舘",
+      "image": "https://image.anitabi.cn/user/0/bangumi/138960/points/51i52mjx6-1732023296227.jpg?plan=h160",
+      "geo": [
+        35.2435,
+        139.0195
+      ]
+    },
+    {
+      "id": "51i52mgfq",
+      "name": "湯本大橋",
+      "geo": [
+        35.2334,
+        139.1051
+      ]
+    },
+    {
+      "id": "51i52mg9q",
+      "name": "湯本大橋撮影ポイント",
+      "geo": [
+        35.2339,
+        139.1074
+      ]
+    },
+    {
+      "id": "51i52mgy7",
+      "name": "熊野神社前階段",
+      "geo": [
+        35.2313,
+        139.0991
+      ]
+    },
+    {
+      "id": "51i52mgbr",
+      "name": "小金井公園 江戸東京たてもの園 高橋是清邸",
+      "geo": [
+        35.7161,
+        139.5132
+      ]
+    },
+    {
+      "id": "51i52mgh6",
+      "name": "お玉ケ池",
+      "geo": [
+        35.2055,
+        139.0407
+      ]
+    },
+    {
+      "id": "51i52mge4",
+      "name": "箱根神社",
+      "geo": [
+        35.2036,
+        139.0255
+      ]
+    }
+  ],
+  "pointsLength": 50,
+  "imagesLength": 4,
+  "local_id": 428
+}

@@ -1,0 +1,114 @@
+{
+  "id": 133383,
+  "cn": "攻壳机动队",
+  "title": "Ghost in the Shell",
+  "city": "中国",
+  "cover": "https://image.xinu.ink/pic/data/423/images/133383.jpg",
+  "color": "#1236c4",
+  "geo": [
+    22.30076360497985,
+    114.17093665556672
+  ],
+  "zoom": 10.775,
+  "modified": 1727698640610,
+  "litePoints": [
+    {
+      "id": "51qlsl0x1",
+      "cn": "金钟",
+      "name": "金鐘 Admiralty",
+      "image": "https://image.anitabi.cn/points/133383/51qlsl0x1_1672385067628.jpg?plan=h160",
+      "geo": [
+        22.278,
+        114.1667
+      ]
+    },
+    {
+      "id": "51qmyqi09",
+      "cn": "租庇利街",
+      "name": "租庇利街 Jubilee Street",
+      "image": "https://image.anitabi.cn/points/133383/51qmyqi09_1672385137227.jpg?plan=h160",
+      "geo": [
+        22.2845,
+        114.1557
+      ]
+    },
+    {
+      "id": "51qn6z476",
+      "name": "香港文化中心",
+      "image": "https://image.anitabi.cn/points/133383/51qn6z476_1672385153701.jpg?plan=h160",
+      "geo": [
+        22.2939,
+        114.1702
+      ]
+    },
+    {
+      "id": "51qnegvu4",
+      "name": "油麻地街市",
+      "image": "https://image.anitabi.cn/points/133383/51qnegvu4_1672385164339.jpg?plan=h160",
+      "geo": [
+        22.3071,
+        114.1694
+      ]
+    },
+    {
+      "id": "51qnn86gi",
+      "cn": "上海街",
+      "name": "上海街 Shanghai St",
+      "image": "https://image.anitabi.cn/points/133383/51qnn86gi_1672385176612.jpg?plan=h160",
+      "geo": [
+        22.3074,
+        114.1697
+      ]
+    },
+    {
+      "id": "51qosp37f",
+      "cn": "枫树街 大南街",
+      "name": "枫树街 大南街",
+      "image": "https://image.anitabi.cn/points/133383/51qosp37f_1672385276169.jpg?plan=h160",
+      "geo": [
+        22.3263,
+        114.1643
+      ]
+    },
+    {
+      "id": "51qpg0toe",
+      "name": "力宝中心",
+      "image": "https://image.anitabi.cn/points/133383/51qpg0toe_1672385285322.jpg?plan=h160",
+      "geo": [
+        22.2792,
+        114.1635
+      ]
+    },
+    {
+      "id": "51qpm73gl",
+      "name": "中环中心",
+      "image": "https://image.anitabi.cn/points/133383/51qpm73gl_1672385295689.jpg?plan=h160",
+      "geo": [
+        22.2846,
+        114.1544
+      ]
+    },
+    {
+      "id": "51qq8nl6h",
+      "name": "兴胜利麻雀耍乐",
+      "image": "https://image.anitabi.cn/points/133383/51qq8nl6h_1672385344854.jpg?plan=h160",
+      "geo": [
+        22.3087,
+        114.1708
+      ]
+    },
+    {
+      "id": "51qr6wd61",
+      "cn": "石硖尾街 大南街",
+      "name": "石硖尾街 大南街",
+      "image": "https://image.anitabi.cn/points/133383/51qr6wd61_1672385394849.jpg?plan=h160",
+      "geo": [
+        22.3273,
+        114.163
+      ]
+    }
+  ],
+  "pointsLength": 16,
+  "imagesLength": 16,
+  "local_id": 423
+}

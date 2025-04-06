@@ -1,0 +1,60 @@
+{
+  "id": 167343,
+  "cn": "恋狱",
+  "title": "カルタグラ",
+  "cover": "https://image.xinu.ink/pic/data/460/images/167343_D88M8.jpg",
+  "modified": 1740933381681,
+  "litePoints": [
+    {
+      "id": "o2svrzwyl",
+      "cn": "武藏国分寺",
+      "name": "武蔵国分寺",
+      "image": "https://image.anitabi.cn/user/0/bangumi/167343/points/o2svrzwyl-1726069491918.jpg?plan=h160",
+      "geo": [
+        35.6934,
+        139.471
+      ]
+    },
+    {
+      "id": "tcgn9t16a",
+      "cn": "国分寺本堂",
+      "name": "國分寺本堂",
+      "image": "https://image.anitabi.cn/points/167343/tcgn9t16a_1740932041436.jpg?plan=h160",
+      "geo": [
+        35.6936,
+        139.4719
+      ]
+    },
+    {
+      "id": "tch2ypx80",
+      "name": "不忍池辩天堂",
+      "image": "https://image.anitabi.cn/points/167343/tch2ypx80_1740932996813.jpg?plan=h160",
+      "geo": [
+        35.7121,
+        139.7713
+      ]
+    },
+    {
+      "id": "tcgxffumk",
+      "name": "同志社大学 彰栄館",
+      "image": "https://image.anitabi.cn/points/167343/tcgxffumk_1740932659589.jpg?plan=h160",
+      "geo": [
+        35.03,
+        135.7598
+      ]
+    },
+    {
+      "id": "qyfn973qj",
+      "cn": "旧筒石渔港",
+      "name": "旧筒石漁港 舟屋群",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/167343/points/qyfn973qj-1734190553734.jpg?plan=h160",
+      "geo": [
+        37.1387,
+        138.0586
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 460
+}

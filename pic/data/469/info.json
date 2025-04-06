@@ -1,0 +1,110 @@
+{
+  "id": 174592,
+  "cn": "Hand Shakers",
+  "title": "ハンドシェイカー",
+  "city": "大阪市",
+  "cover": "https://image.xinu.ink/pic/data/469/images/174592.jpg",
+  "color": "#9fe2f9",
+  "cp": "Project-HS",
+  "geo": [
+    34.65114671897355,
+    135.50225350000073
+  ],
+  "zoom": 9.123,
+  "modified": 1725014219877,
+  "litePoints": [
+    {
+      "id": "51i53pkls",
+      "name": "超広角アングル",
+      "image": "https://image.anitabi.cn/points/174592/51i53pkls_1672368147018.jpg?plan=h160",
+      "geo": [
+        34.6747,
+        135.5005
+      ]
+    },
+    {
+      "id": "51i53pkvl",
+      "name": "御堂筋沿いの建物",
+      "image": "https://image.anitabi.cn/points/174592/51i53pkvl_1672368148050.jpg?plan=h160",
+      "geo": [
+        34.6739,
+        135.5002
+      ]
+    },
+    {
+      "id": "51i53plkp",
+      "name": "大丸心斎橋",
+      "image": "https://image.anitabi.cn/points/174592/51i53plkp_1672368148490.jpg?plan=h160",
+      "geo": [
+        34.6735,
+        135.5002
+      ]
+    },
+    {
+      "id": "51i53plq2",
+      "name": "アニメイト大阪日本橋店前",
+      "image": "https://image.anitabi.cn/points/174592/51i53plq2_1672368148994.jpg?plan=h160",
+      "geo": [
+        34.6607,
+        135.5049
+      ]
+    },
+    {
+      "id": "51i53plle",
+      "name": "アメリカ村",
+      "image": "https://image.anitabi.cn/points/174592/51i53plle_1672368149881.jpg?plan=h160",
+      "geo": [
+        34.6723,
+        135.4979
+      ]
+    },
+    {
+      "id": "51i53pmsn",
+      "name": "くいだおれまえ（大阪王将前）",
+      "image": "https://image.anitabi.cn/points/174592/51i53pmsn_1672368150975.jpg?plan=h160",
+      "geo": [
+        34.6686,
+        135.5024
+      ]
+    },
+    {
+      "id": "51i53pmug",
+      "name": "法善寺",
+      "image": "https://image.anitabi.cn/points/174592/51i53pmug_1672368153481.jpg?plan=h160",
+      "geo": [
+        34.6678,
+        135.5024
+      ]
+    },
+    {
+      "id": "51i53pn03",
+      "name": "南海電鉄なんば駅",
+      "image": "https://image.anitabi.cn/points/174592/51i53pn03_1672368154962.jpg?plan=h160",
+      "geo": [
+        34.6628,
+        135.5018
+      ]
+    },
+    {
+      "id": "51i53pn9c",
+      "name": "高島屋方向を見る",
+      "image": "https://image.anitabi.cn/points/174592/51i53pn9c_1672368156831.jpg?plan=h160",
+      "geo": [
+        34.6651,
+        135.5017
+      ]
+    },
+    {
+      "id": "51i53pnjf",
+      "name": "なんば高島屋",
+      "image": "https://image.anitabi.cn/points/174592/51i53pnjf_1672368157422.jpg?plan=h160",
+      "geo": [
+        34.6653,
+        135.5015
+      ]
+    }
+  ],
+  "pointsLength": 78,
+  "imagesLength": 75,
+  "local_id": 469
+}

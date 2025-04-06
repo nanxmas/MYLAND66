@@ -1,0 +1,140 @@
+{
+  "id": 144357,
+  "cn": "文豪野犬",
+  "title": "文豪ストレイドッグス",
+  "city": "横滨市",
+  "cover": "https://image.xinu.ink/pic/data/438/images/144357.jpg",
+  "color": "#d4bf80",
+  "cp": "文豪ストレイドッグス",
+  "geo": [
+    35.449728852357126,
+    139.64535001215768
+  ],
+  "zoom": 15.134,
+  "modified": 1733476808706,
+  "litePoints": [
+    {
+      "id": "55emti6ur",
+      "cn": "横滨红砖仓库2号馆",
+      "name": "横浜​赤​レンガ​倉庫​2号館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/144357/points/55emti6ur-1726460339606.jpg?plan=h160",
+      "ep": 9,
+      "s": 632,
+      "geo": [
+        35.4526,
+        139.6428
+      ]
+    },
+    {
+      "id": "55eodabzg",
+      "cn": "新港桥",
+      "name": "新港橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/144357/points/0.jpg?plan=h160",
+      "ep": 8,
+      "s": 25,
+      "geo": [
+        35.4509,
+        139.6422
+      ]
+    },
+    {
+      "id": "55epg28if",
+      "cn": "象鼻子公园",
+      "name": "象の鼻パーク",
+      "image": "https://image.anitabi.cn/user/0/bangumi/144357/points/6.jpg?plan=h160",
+      "ep": 19,
+      "s": 1260,
+      "geo": [
+        35.4505,
+        139.6426
+      ]
+    },
+    {
+      "id": "55eucweym",
+      "cn": "象鼻子公园附近",
+      "name": "象の鼻パーク",
+      "image": "https://image.anitabi.cn/user/0/bangumi/144357/points/8.jpg?plan=h160",
+      "ep": 2,
+      "s": 1336,
+      "geo": [
+        35.4487,
+        139.644
+      ]
+    },
+    {
+      "id": "55evp38gq",
+      "cn": "横滨海关",
+      "name": "横浜税関",
+      "image": "https://image.anitabi.cn/user/0/bangumi/144357/points/7.jpg?plan=h160",
+      "ep": 9,
+      "s": 621,
+      "geo": [
+        35.4494,
+        139.6422
+      ]
+    },
+    {
+      "id": "55ewg411k",
+      "cn": "山下临港线步行道",
+      "name": "山下臨港線プロムナード",
+      "image": "https://image.anitabi.cn/user/0/bangumi/144357/points/2.jpg?plan=h160",
+      "ep": 8,
+      "s": 366,
+      "geo": [
+        35.4487,
+        139.6438
+      ]
+    },
+    {
+      "id": "55exzdj02",
+      "cn": "横滨大栈桥",
+      "name": "横浜大桟橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/144357/points/5.jpg?plan=h160",
+      "ep": 9,
+      "s": 1270,
+      "geo": [
+        35.4497,
+        139.6461
+      ]
+    },
+    {
+      "id": "hozkwxmod",
+      "cn": "山下公园",
+      "name": "山下公园",
+      "image": "https://image.anitabi.cn/user/0/bangumi/144357/points/hozkwxmod-1708060318759.jpg?plan=h160",
+      "ep": 6,
+      "s": 1237,
+      "geo": [
+        35.4458,
+        139.6504
+      ]
+    },
+    {
+      "id": "iggzcv3nm",
+      "cn": "横滨地标大厦",
+      "name": "横浜​ランドマーク​タワー",
+      "image": "https://image.anitabi.cn/user/0/bangumi/144357/points/iggzcv3nm-1710214028473.jpg?plan=h160",
+      "ep": 10,
+      "s": 1195,
+      "geo": [
+        35.4546,
+        139.6315
+      ]
+    },
+    {
+      "id": "iggxy3cfi",
+      "cn": "横滨站",
+      "name": "横浜駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/144357/points/iggxy3cfi-1710213934778.jpg?plan=h160",
+      "ep": 8,
+      "s": 254,
+      "geo": [
+        35.4661,
+        139.6226
+      ]
+    }
+  ],
+  "pointsLength": 25,
+  "imagesLength": 25,
+  "local_id": 438
+}

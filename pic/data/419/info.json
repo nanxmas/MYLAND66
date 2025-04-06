@@ -1,0 +1,110 @@
+{
+  "id": 131800,
+  "cn": "长骑美眉",
+  "title": "ろんぐらいだぁす！",
+  "city": "镰仓市",
+  "cover": "https://image.xinu.ink/pic/data/419/images/131800.jpg",
+  "color": "#d4bf80",
+  "cp": "ろんぐらいだぁす！",
+  "geo": [
+    35.308604823431764,
+    139.52129268397857
+  ],
+  "zoom": 11.802,
+  "modified": 1719938793403,
+  "litePoints": [
+    {
+      "id": "51i53g0tx",
+      "name": "ａｕショップ つきみ野",
+      "image": "https://image.anitabi.cn/points/131800/51i53g0tx_1672370757687.jpg?plan=h160",
+      "geo": [
+        35.51,
+        139.4606
+      ]
+    },
+    {
+      "id": "51i53g1qe",
+      "name": "サイクルベースあさひつきみ野店",
+      "image": "https://image.anitabi.cn/points/131800/51i53g1qe_1672370758501.jpg?plan=h160",
+      "geo": [
+        35.5104,
+        139.4602
+      ]
+    },
+    {
+      "id": "51i53g1mm",
+      "name": "桜の散歩道",
+      "image": "https://image.anitabi.cn/points/131800/51i53g1mm_1672370759308.jpg?plan=h160",
+      "geo": [
+        35.5127,
+        139.4588
+      ]
+    },
+    {
+      "id": "51i53g12t",
+      "name": "集合場所",
+      "image": "https://image.anitabi.cn/points/131800/51i53g12t_1672370760112.jpg?plan=h160",
+      "geo": [
+        35.5106,
+        139.4648
+      ]
+    },
+    {
+      "id": "51i53g1ax",
+      "name": "松の久保公園付近",
+      "image": "https://image.anitabi.cn/points/131800/51i53g1ax_1672370761423.jpg?plan=h160",
+      "geo": [
+        35.5091,
+        139.4658
+      ]
+    },
+    {
+      "id": "51i53g1lx",
+      "name": "境川サイクリングロード",
+      "image": "https://image.anitabi.cn/points/131800/51i53g1lx_1672370762261.jpg?plan=h160",
+      "geo": [
+        35.5043,
+        139.4679
+      ]
+    },
+    {
+      "id": "51i53g1m4",
+      "name": "「二級河川さかい川」 標識",
+      "image": "https://image.anitabi.cn/points/131800/51i53g1m4_1672370763072.jpg?plan=h160",
+      "geo": [
+        35.4957,
+        139.4655
+      ]
+    },
+    {
+      "id": "51i53g1vp",
+      "name": "18.5km地点　撮影地点",
+      "image": "https://image.anitabi.cn/points/131800/51i53g1vp_1672370764304.jpg?plan=h160",
+      "geo": [
+        35.4957,
+        139.4656
+      ]
+    },
+    {
+      "id": "51i53g29x",
+      "name": "撮影地点",
+      "image": "https://image.anitabi.cn/points/131800/51i53g29x_1672370765788.jpg?plan=h160",
+      "geo": [
+        35.4949,
+        139.467
+      ]
+    },
+    {
+      "id": "51i53g2jx",
+      "name": "今田越流提橋",
+      "image": "https://image.anitabi.cn/points/131800/51i53g2jx_1672370767097.jpg?plan=h160",
+      "geo": [
+        35.3969,
+        139.4776
+      ]
+    }
+  ],
+  "pointsLength": 134,
+  "imagesLength": 101,
+  "local_id": 419
+}

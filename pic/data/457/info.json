@@ -1,0 +1,113 @@
+{
+  "id": 161787,
+  "cn": "银色遥远",
+  "title": "銀色、遥か",
+  "city": "札幌市",
+  "cover": "https://image.xinu.ink/pic/data/457/images/161787.jpg",
+  "color": "#f8c3b1",
+  "geo": [
+    43.05900822015124,
+    141.357012081621
+  ],
+  "zoom": 13.603,
+  "modified": 1725009975024,
+  "litePoints": [
+    {
+      "id": "lvz4gprt8",
+      "cn": "西班牙阶梯",
+      "name": "Piazza Di Spagna",
+      "image": "https://image.anitabi.cn/points/161787/lvz4gprt8_1719892296018.jpg?plan=h160",
+      "geo": [
+        41.9058,
+        12.4822
+      ]
+    },
+    {
+      "id": "lvz5u2dae",
+      "cn": "鲜花广场",
+      "name": "Campo de' Fiori",
+      "image": "https://image.anitabi.cn/points/161787/lvz5u2dae_1719892402034.jpg?plan=h160",
+      "geo": [
+        41.8955,
+        12.4721
+      ]
+    },
+    {
+      "id": "lvzlb2m3n",
+      "cn": "大通公园",
+      "name": "大通公園",
+      "image": "https://image.anitabi.cn/points/161787/lvzlb2m3n_1719893314897.jpg?plan=h160",
+      "geo": [
+        43.0604,
+        141.3529
+      ]
+    },
+    {
+      "id": "lvzmpk5p3",
+      "cn": "札幌电视塔",
+      "name": "さっぽろテレビ塔",
+      "image": "https://image.anitabi.cn/points/161787/lvzmpk5p3_1719893417226.jpg?plan=h160",
+      "geo": [
+        43.061,
+        141.3564
+      ]
+    },
+    {
+      "id": "lw9v2d2iu",
+      "name": "狸小路",
+      "image": "https://image.anitabi.cn/points/161787/lw9v2d2iu_1719915690167.jpg?plan=h160",
+      "geo": [
+        43.0576,
+        141.3556
+      ]
+    },
+    {
+      "id": "lw9wp07o6",
+      "name": "幌平橋",
+      "image": "https://image.anitabi.cn/points/161787/lw9wp07o6_1719915774665.jpg?plan=h160",
+      "geo": [
+        43.0388,
+        141.3584
+      ]
+    },
+    {
+      "id": "lwa1sakw5",
+      "name": "北海道札幌北高等学校",
+      "image": "https://image.anitabi.cn/points/161787/lwa1sakw5_1719916078589.jpg?plan=h160",
+      "geo": [
+        43.0904,
+        141.3344
+      ]
+    },
+    {
+      "id": "lwalx8ps0",
+      "name": "北二十五条",
+      "image": "https://image.anitabi.cn/points/161787/lwalx8ps0_1719917295728.jpg?plan=h160",
+      "geo": [
+        43.0901,
+        141.3291
+      ]
+    },
+    {
+      "id": "lwaniyxhu",
+      "name": "北海道神宮",
+      "image": "https://image.anitabi.cn/points/161787/lwaniyxhu_1719917393617.jpg?plan=h160",
+      "geo": [
+        43.0545,
+        141.308
+      ]
+    },
+    {
+      "id": "lwas9hnm1",
+      "name": "藻岩山 山頂展望台",
+      "image": "https://image.anitabi.cn/points/161787/lwas9hnm1_1719917685501.jpg?plan=h160",
+      "geo": [
+        43.0208,
+        141.3221
+      ]
+    }
+  ],
+  "pointsLength": 16,
+  "imagesLength": 16,
+  "local_id": 457
+}

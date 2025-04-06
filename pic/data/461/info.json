@@ -1,0 +1,110 @@
+{
+  "id": 167434,
+  "cn": "少女编号",
+  "title": "ガーリッシュ ナンバー",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/461/images/167434.jpg",
+  "color": "#d48095",
+  "cp": "ガーリッシュ ナンバー",
+  "geo": [
+    35.629058961736135,
+    139.63308148608678
+  ],
+  "zoom": 8.935,
+  "modified": 1719939361371,
+  "litePoints": [
+    {
+      "id": "51i537qhf",
+      "name": "猿楽小学校裏交差点",
+      "image": "https://image.anitabi.cn/points/167434/51i537qhf_1672382614799.jpg?plan=h160",
+      "geo": [
+        35.6506,
+        139.7031
+      ]
+    },
+    {
+      "id": "51i537qjh",
+      "name": "八幡通り（ラ・フェンテ代官山前）",
+      "image": "https://image.anitabi.cn/points/167434/51i537qjh_1672382623615.jpg?plan=h160",
+      "geo": [
+        35.6499,
+        139.7026
+      ]
+    },
+    {
+      "id": "51i537qm5",
+      "name": "LB8（エルビー エイト）",
+      "image": "https://image.anitabi.cn/points/167434/51i537qm5_1672382627646.jpg?plan=h160",
+      "geo": [
+        35.6498,
+        139.7024
+      ]
+    },
+    {
+      "id": "51i537rfj",
+      "name": "八幡通り（代官山アドレス・ディセ）",
+      "image": "https://image.anitabi.cn/points/167434/51i537rfj_1672382628597.jpg?plan=h160",
+      "geo": [
+        35.6494,
+        139.7025
+      ]
+    },
+    {
+      "id": "51i537rna",
+      "name": "八幡通り（代官山入口交差点）",
+      "image": "https://image.anitabi.cn/points/167434/51i537rna_1672382631600.jpg?plan=h160",
+      "geo": [
+        35.6488,
+        139.7021
+      ]
+    },
+    {
+      "id": "51i537r86",
+      "name": "代官山公園",
+      "image": "https://image.anitabi.cn/points/167434/51i537r86_1672382632599.jpg?plan=h160",
+      "geo": [
+        35.6485,
+        139.7033
+      ]
+    },
+    {
+      "id": "51i537rr4",
+      "name": "代官山駅",
+      "image": "https://image.anitabi.cn/points/167434/51i537rr4_1672382634595.jpg?plan=h160",
+      "geo": [
+        35.6479,
+        139.7029
+      ]
+    },
+    {
+      "id": "51i537s48",
+      "name": "恵比寿公園",
+      "image": "https://image.anitabi.cn/points/167434/51i537s48_1672382635685.jpg?plan=h160",
+      "geo": [
+        35.6469,
+        139.7069
+      ]
+    },
+    {
+      "id": "51i537snm",
+      "name": "くすのき通り（恵比寿ガーデンプレイス）",
+      "image": "https://image.anitabi.cn/points/167434/51i537snm_1672382637731.jpg?plan=h160",
+      "geo": [
+        35.6435,
+        139.7136
+      ]
+    },
+    {
+      "id": "51i537sms",
+      "name": "シャトー広場（恵比寿ガーデンプレイス）",
+      "image": "https://image.anitabi.cn/points/167434/51i537sms_1672382639598.jpg?plan=h160",
+      "geo": [
+        35.6424,
+        139.7139
+      ]
+    }
+  ],
+  "pointsLength": 64,
+  "imagesLength": 63,
+  "local_id": 461
+}

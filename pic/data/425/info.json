@@ -1,0 +1,83 @@
+{
+  "id": 136802,
+  "cn": "少女前线",
+  "title": "少女前线",
+  "cover": "https://image.xinu.ink/pic/data/425/images/136802.jpg",
+  "color": "#c68e8e",
+  "modified": 1738893122901,
+  "litePoints": [
+    {
+      "id": "skll0ze8x",
+      "cn": "铁桥",
+      "name": "Eiserner Steg",
+      "image": "https://image.anitabi.cn/user/0/bangumi/136802/points/skll0ze8x-1738748753256.jpg?plan=h160",
+      "geo": [
+        50.108,
+        8.6821
+      ]
+    },
+    {
+      "id": "sklycs554",
+      "cn": "罗马广场",
+      "name": "Römerberg",
+      "image": "https://image.anitabi.cn/user/0/bangumi/136802/points/sklycs554-1738749411037.jpg?plan=h160",
+      "geo": [
+        50.1102,
+        8.6821
+      ]
+    },
+    {
+      "id": "skma8v5p4",
+      "cn": "塔林火车站",
+      "name": "Tallink Ekspress",
+      "image": "https://image.anitabi.cn/user/0/bangumi/136802/points/skma8v5p4-1738750117809.jpg?plan=h160",
+      "geo": [
+        59.4406,
+        24.7378
+      ]
+    },
+    {
+      "id": "skmlwqfvw",
+      "cn": "圣奥拉夫大教堂",
+      "name": "Oleviste kirik",
+      "image": "https://image.anitabi.cn/user/0/bangumi/136802/points/skmlwqfvw-1738750839699.jpg?plan=h160",
+      "geo": [
+        59.4413,
+        24.7478
+      ]
+    },
+    {
+      "id": "slg47niwh",
+      "cn": "塞尔维亚国会大厦",
+      "name": "Дом Народне скупштине Републике Србије",
+      "image": "https://image.anitabi.cn/user/0/bangumi/136802/points/slg47niwh-1738815087829.jpg?plan=h160",
+      "geo": [
+        44.8116,
+        20.4659
+      ]
+    },
+    {
+      "id": "slh2mqku1",
+      "cn": "帕尔迪斯基海军军港",
+      "name": "Paldiski Pöhjasadam",
+      "image": "https://image.anitabi.cn/user/0/bangumi/136802/points/slh2mqku1-1738817203530.jpg?plan=h160",
+      "geo": [
+        59.3513,
+        24.0479
+      ]
+    },
+    {
+      "id": "slpopeupr",
+      "cn": "荷里路德修道院",
+      "name": "Holyrood Abbey",
+      "image": "https://image.anitabi.cn/user/2169/bangumi/136802/points/slpopeupr-1738835893164.jpg?plan=h160",
+      "geo": [
+        55.953,
+        -3.1714
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "local_id": 425
+}

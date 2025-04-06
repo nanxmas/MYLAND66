@@ -1,0 +1,35 @@
+{
+  "id": 160547,
+  "cn": "孤独的美食家新春SP：严冬之北海道·旭川出差篇",
+  "title": "孤独のグルメ お正月スペシャル! 真冬の北海道・旭川出張編",
+  "city": "旭川市",
+  "cover": "https://image.xinu.ink/pic/data/456/images/160547_7uszJ.jpg",
+  "modified": 1741377295264,
+  "litePoints": [
+    {
+      "id": "63149cbf",
+      "cn": "独酌 三四郎",
+      "name": "５丁目",
+      "image": "https://image.anitabi.cn/points/160547/63149cbf_1741372483157.jpg?plan=h160",
+      "s": 432,
+      "geo": [
+        43.7681,
+        142.3564
+      ]
+    },
+    {
+      "id": "3bdc0685",
+      "cn": "自由軒",
+      "name": "８丁目",
+      "image": "https://image.anitabi.cn/points/160547/3bdc0685_1741372496222.jpg?plan=h160",
+      "s": 2704,
+      "geo": [
+        43.7703,
+        142.362
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 456
+}

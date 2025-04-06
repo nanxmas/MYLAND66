@@ -1,0 +1,136 @@
+{
+  "id": 142812,
+  "cn": "鬼牌游戏",
+  "title": "ジョーカー・ゲーム",
+  "city": "中国",
+  "cover": "https://image.xinu.ink/pic/data/433/images/142812_2W42f.jpg",
+  "color": "#c12c24",
+  "cp": "JOKER GAME ANIMA…",
+  "geo": [
+    35.60948462721326,
+    139.7265166382433
+  ],
+  "zoom": 10.533,
+  "modified": 1742409524940,
+  "litePoints": [
+    {
+      "id": "sz13wzn0j",
+      "cn": "旧相互无尽会社本社",
+      "name": "旧相互無尽会社本社",
+      "image": "https://image.anitabi.cn/points/142812/sz13wzn0j_1739879629569.jpg?plan=h160",
+      "ep": 1,
+      "s": 156,
+      "geo": [
+        35.6952,
+        139.7571
+      ]
+    },
+    {
+      "id": "syzznqmtw",
+      "cn": "日本陆军参谋本部",
+      "name": "日本陸軍參謀本部",
+      "image": "https://image.anitabi.cn/points/142812/syzznqmtw_1739877133625.jpg?plan=h160",
+      "ep": 1,
+      "s": 914,
+      "geo": [
+        35.6769,
+        139.7479
+      ]
+    },
+    {
+      "id": "sz048eso6",
+      "cn": "有栖川宫炽仁亲王骑马像",
+      "name": "有栖川宮熾仁親王騎馬像",
+      "image": "https://image.anitabi.cn/points/142812/sz048eso6_1739877336431.jpg?plan=h160",
+      "ep": 1,
+      "s": 914,
+      "geo": [
+        35.6511,
+        139.726
+      ]
+    },
+    {
+      "id": "sz18g3a8q",
+      "cn": "东京站",
+      "name": "東京駅",
+      "image": "https://image.anitabi.cn/points/142812/sz18g3a8q_1739879778292.jpg?plan=h160",
+      "ep": 2,
+      "s": 596,
+      "geo": [
+        35.6815,
+        139.7655
+      ]
+    },
+    {
+      "id": "sz1g31oo6",
+      "name": "国会議事堂前",
+      "image": "https://image.anitabi.cn/points/142812/sz1g31oo6_1739880227063.jpg?plan=h160",
+      "ep": 2,
+      "s": 1237,
+      "geo": [
+        35.6772,
+        139.7514
+      ]
+    },
+    {
+      "id": "sz25s7jt2",
+      "cn": "埃菲尔铁塔",
+      "name": "La Tour Eiffel",
+      "image": "https://image.anitabi.cn/points/142812/sz25s7jt2_1739881786004.jpg?plan=h160",
+      "ep": 3,
+      "s": 219,
+      "geo": [
+        48.8575,
+        2.2956
+      ]
+    },
+    {
+      "id": "sz2185vmz",
+      "cn": "第二次贡比涅停战协定",
+      "name": "Glade of the Armistice",
+      "image": "https://image.anitabi.cn/points/142812/sz2185vmz_1739881707480.jpg?plan=h160",
+      "ep": 3,
+      "s": 220,
+      "geo": [
+        49.4272,
+        2.9054
+      ]
+    },
+    {
+      "id": "sz2gsl89c",
+      "name": "上海外滩",
+      "image": "https://image.anitabi.cn/points/142812/sz2gsl89c_1739882769390.jpg?plan=h160",
+      "ep": 4,
+      "s": 205,
+      "geo": [
+        31.2351,
+        121.4874
+      ]
+    },
+    {
+      "id": "sz2qhwyko",
+      "name": "上海大世界",
+      "image": "https://image.anitabi.cn/points/142812/sz2qhwyko_1739883047291.jpg?plan=h160",
+      "ep": 4,
+      "s": 752,
+      "geo": [
+        31.2304,
+        121.4741
+      ]
+    },
+    {
+      "id": "suqw5oczb",
+      "name": "日本桥通",
+      "image": "https://image.anitabi.cn/points/142812/suqw5oczb_1739875429605.jpg?plan=h160",
+      "ep": 6,
+      "s": 2,
+      "geo": [
+        43.9006,
+        125.33
+      ]
+    }
+  ],
+  "pointsLength": 25,
+  "imagesLength": 25,
+  "local_id": 433
+}

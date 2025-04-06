@@ -1,0 +1,109 @@
+{
+  "id": 168634,
+  "cn": "竞女",
+  "title": "競女!!!!!!!!",
+  "city": "京都市",
+  "cover": "https://image.xinu.ink/pic/data/464/images/168634.jpg",
+  "color": "#63cdf1",
+  "cp": "日本競女振興会",
+  "geo": [
+    34.510909163482694,
+    135.3348042683965
+  ],
+  "zoom": 8.838,
+  "modified": 1726752315221,
+  "litePoints": [
+    {
+      "id": "51i536gtp",
+      "name": "19世紀ホール",
+      "image": "https://image.anitabi.cn/points/168634/51i536gtp_1672368292971.jpg?plan=h160",
+      "geo": [
+        35.0184,
+        135.6807
+      ]
+    },
+    {
+      "id": "51i536gtz",
+      "name": "京都市嵐山観光駐車場",
+      "image": "https://image.anitabi.cn/points/168634/51i536gtz_1672368306687.jpg?plan=h160",
+      "geo": [
+        35.0138,
+        135.6799
+      ]
+    },
+    {
+      "id": "51i536hdk",
+      "name": "嵐電嵐山駅前",
+      "image": "https://image.anitabi.cn/points/168634/51i536hdk_1672368307110.jpg?plan=h160",
+      "geo": [
+        35.0151,
+        135.6774
+      ]
+    },
+    {
+      "id": "51i536hnb",
+      "name": "嵐電嵐山駅",
+      "image": "https://image.anitabi.cn/points/168634/51i536hnb_1672368308199.jpg?plan=h160",
+      "geo": [
+        35.0152,
+        135.6778
+      ]
+    },
+    {
+      "id": "51i536h7j",
+      "name": "渡月橋",
+      "image": "https://image.anitabi.cn/points/168634/51i536h7j_1672368315816.jpg?plan=h160",
+      "geo": [
+        35.0135,
+        135.6783
+      ]
+    },
+    {
+      "id": "51i536h2e",
+      "name": "嵐山公園（中ノ島地区）",
+      "image": "https://image.anitabi.cn/points/168634/51i536h2e_1672368316837.jpg?plan=h160",
+      "geo": [
+        35.0122,
+        135.678
+      ]
+    },
+    {
+      "id": "51i536gwp",
+      "name": "天龍寺（曹源池庭園）",
+      "image": "https://image.anitabi.cn/points/168634/51i536gwp_1672368318189.jpg?plan=h160",
+      "geo": [
+        35.0158,
+        135.6733
+      ]
+    },
+    {
+      "id": "51i536hg8",
+      "name": "嵐山よしむら",
+      "image": "https://image.anitabi.cn/points/168634/51i536hg8_1672368319172.jpg?plan=h160",
+      "geo": [
+        35.0135,
+        135.6772
+      ]
+    },
+    {
+      "id": "51i536hmn",
+      "name": "時雨殿前",
+      "image": "https://image.anitabi.cn/points/168634/51i536hmn_1672368320152.jpg?plan=h160",
+      "geo": [
+        35.0135,
+        135.674
+      ]
+    },
+    {
+      "id": "51i536avz",
+      "name": "舞子公園（明石海峡大橋）",
+      "geo": [
+        34.6303,
+        135.0359
+      ]
+    }
+  ],
+  "pointsLength": 13,
+  "imagesLength": 9,
+  "local_id": 464
+}

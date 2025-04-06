@@ -1,0 +1,125 @@
+{
+  "id": 143120,
+  "cn": "孤独的美食家 第五季",
+  "title": "孤独のグルメ Season5",
+  "cover": "https://image.xinu.ink/pic/data/434/images/143120_78d9q.jpg",
+  "geo": [
+    35.70313316132902,
+    139.648330112463
+  ],
+  "zoom": 9.222,
+  "modified": 1742409776382,
+  "litePoints": [
+    {
+      "id": "a87b861d",
+      "name": "炭火焼肉寿苑",
+      "image": "https://image.anitabi.cn/points/143120/a87b861d_1741501490139.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6326,
+        139.5352
+      ]
+    },
+    {
+      "id": "00aff296",
+      "cn": "居酒屋だるま",
+      "name": "三好２丁目１７−９",
+      "image": "https://image.anitabi.cn/points/143120/00aff296_1741501651870.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.681,
+        139.8035
+      ]
+    },
+    {
+      "id": "b33a6da4",
+      "cn": "モロッコ料理店tamtam",
+      "name": "北斗参番館 1f",
+      "image": "https://image.anitabi.cn/points/143120/b33a6da4_1741501805647.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.7034,
+        139.597
+      ]
+    },
+    {
+      "id": "a5e90b8e",
+      "name": "三星青葱文化館",
+      "image": "https://image.anitabi.cn/points/143120/a5e90b8e_1741501941758.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        24.6681,
+        121.6523
+      ]
+    },
+    {
+      "id": "d586c231",
+      "cn": "永乐担仔面",
+      "name": "No. 20, Lane 233, Nanjing W Rd",
+      "image": "https://image.anitabi.cn/points/143120/d586c231_1741502030800.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        25.0543,
+        121.5103
+      ]
+    },
+    {
+      "id": "02346282",
+      "cn": "漁師料理九絵",
+      "name": "シュロス大岡山",
+      "image": "https://image.anitabi.cn/points/143120/02346282_1741502201951.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        35.608,
+        139.6847
+      ]
+    },
+    {
+      "id": "665628b8",
+      "cn": "ジンギスカンバルまーさん",
+      "name": "桜丘２丁目２４−２０",
+      "image": "https://image.anitabi.cn/points/143120/665628b8_1741502381383.jpg?plan=h160",
+      "ep": 7,
+      "geo": [
+        35.6454,
+        139.6229
+      ]
+    },
+    {
+      "id": "3d37a512",
+      "cn": "ブータン料理 ガテモタブン",
+      "name": "1 3f",
+      "image": "https://image.anitabi.cn/points/143120/3d37a512_1742127555179.jpg?plan=h160",
+      "ep": 8,
+      "geo": [
+        35.6684,
+        139.6825
+      ]
+    },
+    {
+      "id": "a2624073",
+      "cn": "源氏食堂",
+      "name": "大原８７０１−２",
+      "image": "https://image.anitabi.cn/points/143120/a2624073_1741502554886.jpg?plan=h160",
+      "ep": 9,
+      "geo": [
+        35.2499,
+        140.3906
+      ]
+    },
+    {
+      "id": "149c26c8",
+      "cn": "ラーメン菜苑",
+      "name": "飯沼ビル",
+      "image": "https://image.anitabi.cn/points/143120/149c26c8_1741502610830.jpg?plan=h160",
+      "ep": 10,
+      "geo": [
+        35.7016,
+        139.8198
+      ]
+    }
+  ],
+  "pointsLength": 12,
+  "imagesLength": 12,
+  "local_id": 434
+}

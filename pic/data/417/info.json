@@ -1,0 +1,30 @@
+{
+  "id": 130234,
+  "cn": "灰色的乐园",
+  "title": "グリザイアの楽園",
+  "cover": "https://image.xinu.ink/pic/data/417/images/130234_11gjt.jpg",
+  "modified": 1730615761244,
+  "litePoints": [
+    {
+      "id": "potcrrikr",
+      "name": "ドライブイン​ゆう​ら​っ​ぷ",
+      "image": "https://image.anitabi.cn/points/130234/potcrrikr_1730615656636.jpg?plan=h160",
+      "geo": [
+        42.2887,
+        140.2717
+      ]
+    },
+    {
+      "id": "potdfgtji",
+      "name": "ドライブイン​ゆう​ら​っ​ぷ 内景",
+      "image": "https://image.anitabi.cn/points/130234/potdfgtji_1730615671698.jpg?plan=h160",
+      "geo": [
+        42.2887,
+        140.2718
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 417
+}

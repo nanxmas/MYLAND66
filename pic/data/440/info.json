@@ -1,0 +1,140 @@
+{
+  "id": 144843,
+  "cn": "高校舰队",
+  "title": "ハイスクール・フリート",
+  "city": "横须贺市",
+  "cover": "https://image.xinu.ink/pic/data/440/images/144843.jpg",
+  "color": "#808080",
+  "cp": "海上安全整備局",
+  "geo": [
+    35.2550506622714,
+    139.66374348843988
+  ],
+  "zoom": 11.335,
+  "modified": 1726506007073,
+  "litePoints": [
+    {
+      "id": "51i52vhk2",
+      "cn": "海上自卫队第1术科学校",
+      "name": "海上自衛隊第1術科学校",
+      "image": "https://image.anitabi.cn/points/144843/51i52vhk2_1675697956914.jpg?plan=h160",
+      "ep": 1,
+      "s": 179,
+      "geo": [
+        34.2445,
+        132.474
+      ]
+    },
+    {
+      "id": "51i52vhxm",
+      "cn": "旧吴镇守府厅舍",
+      "name": "旧呉鎮守府庁舎",
+      "image": "https://image.anitabi.cn/points/144843/51i52vhxm_1675698899651.jpg?plan=h160",
+      "ep": 1,
+      "s": 188,
+      "geo": [
+        34.2369,
+        132.5602
+      ]
+    },
+    {
+      "id": "51i52vil4",
+      "cn": "JR横须贺站",
+      "name": "JR横須賀駅",
+      "image": "https://image.anitabi.cn/points/144843/51i52vil4_1675696336641.jpg?plan=h160",
+      "ep": 2,
+      "s": 230,
+      "geo": [
+        35.2841,
+        139.6562
+      ]
+    },
+    {
+      "id": "51i52via0",
+      "cn": "诹访大神社",
+      "name": "諏訪大神社",
+      "image": "https://image.anitabi.cn/points/144843/51i52via0_1725434842854.jpg?plan=h160",
+      "ep": 2,
+      "s": 268,
+      "geo": [
+        35.2806,
+        139.6654
+      ]
+    },
+    {
+      "id": "51i52vid7",
+      "cn": "诹访大神社 门牌楼",
+      "name": "諏訪大神社の門",
+      "image": "https://image.anitabi.cn/points/144843/51i52vid7_1725434860133.jpg?plan=h160",
+      "ep": 2,
+      "s": 233,
+      "geo": [
+        35.2814,
+        139.6664
+      ]
+    },
+    {
+      "id": "6807q4m56",
+      "cn": "诹访大神社 楼梯",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/144843/6807q4m56_1725434883923.jpg?plan=h160",
+      "ep": 2,
+      "s": 242,
+      "geo": [
+        35.2806,
+        139.6655
+      ]
+    },
+    {
+      "id": "6809n3ygi",
+      "cn": "诹访大神社 石牌",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/144843/6809n3ygi_1725434901172.jpg?plan=h160",
+      "ep": 2,
+      "s": 236,
+      "geo": [
+        35.2807,
+        139.6656
+      ]
+    },
+    {
+      "id": "kwwrv33xo",
+      "cn": "法拉洛普岛",
+      "name": "Falalop",
+      "image": "https://image.anitabi.cn/user/0/bangumi/144843/points/kwwrv33xo-1717144475080.jpg?plan=h160",
+      "ep": 7,
+      "s": 617,
+      "geo": [
+        10.0194,
+        139.791
+      ]
+    },
+    {
+      "id": "kwx2vk143",
+      "cn": "亚松森岛",
+      "name": "Asuncion Island",
+      "image": "https://image.anitabi.cn/user/0/bangumi/144843/points/kwx2vk143-1717145139566.jpg?plan=h160",
+      "ep": 2,
+      "s": 1331,
+      "geo": [
+        19.6913,
+        145.4041
+      ]
+    },
+    {
+      "id": "kwxabclln",
+      "cn": "韦诺(丘克群岛)",
+      "name": "Weno",
+      "image": "https://image.anitabi.cn/user/0/bangumi/144843/points/kwxabclln-1717145580802.jpg?plan=h160",
+      "ep": 8,
+      "s": 245,
+      "geo": [
+        7.443,
+        151.8589
+      ]
+    }
+  ],
+  "pointsLength": 22,
+  "imagesLength": 19,
+  "local_id": 440
+}

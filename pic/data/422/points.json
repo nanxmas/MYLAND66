@@ -1,0 +1,180 @@
+[
+  {
+    "id": "m8nt7hnez",
+    "cn": "JR池袋站6·7月台",
+    "name": "JR池袋駅6·7番線",
+    "image": "https://image.xinu.ink/pic/data/422/images/m8nt7hnez-1720886541061.jpg",
+    "ep": 2,
+    "s": 841,
+    "geo": [
+      35.73,
+      139.711
+    ]
+  },
+  {
+    "id": "kpx6oh3dx",
+    "name": "のぞき坂",
+    "image": "https://image.xinu.ink/pic/data/422/images/kpx6oh3dx_1728288831571.jpg",
+    "ep": 3,
+    "s": 35,
+    "geo": [
+      35.7172,
+      139.7138
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=11lfJFry55739e-Ybq8Su81NJWtk&ll=35.717227%2C139.713875&z=17"
+  },
+  {
+    "id": "kpx6oh3l9",
+    "name": "高土橋",
+    "image": "https://image.xinu.ink/pic/data/422/images/kpx6oh3l9-1725365309966.jpg",
+    "ep": 3,
+    "s": 654,
+    "geo": [
+      35.7144,
+      139.7115
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=11lfJFry55739e-Ybq8Su81NJWtk&ll=35.714473%2C139.711547&z=17"
+  },
+  {
+    "id": "kpx6oh2ll",
+    "name": "都電雑司ヶ谷駅",
+    "image": "https://image.xinu.ink/pic/data/422/images/kpx6oh2ll-1725374514251.jpg",
+    "ep": 3,
+    "s": 755,
+    "geo": [
+      35.724,
+      139.7178
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=11lfJFry55739e-Ybq8Su81NJWtk&ll=35.724094%2C139.717824&z=17"
+  },
+  {
+    "id": "ov4tbl9gn",
+    "name": "学習院下",
+    "image": "https://image.xinu.ink/pic/data/422/images/ov4tbl9gn_1728291458941.jpg",
+    "ep": 4,
+    "s": 272,
+    "geo": [
+      35.7165,
+      139.7124
+    ]
+  },
+  {
+    "id": "kpx6oh32p",
+    "name": "学習院下駅",
+    "image": "https://image.xinu.ink/pic/data/422/images/kpx6oh32p_1728289671811.jpg",
+    "ep": 4,
+    "s": 308,
+    "geo": [
+      35.7163,
+      139.7125
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=11lfJFry55739e-Ybq8Su81NJWtk&ll=35.716356%2C139.712523&z=17"
+  },
+  {
+    "id": "kpx6oh4ll",
+    "name": "コメダ珈琲 保谷店",
+    "image": "https://image.xinu.ink/pic/data/422/images/kpx6oh4ll-1725368420582.jpg",
+    "ep": 5,
+    "s": 471,
+    "geo": [
+      35.7321,
+      139.5634
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=11lfJFry55739e-Ybq8Su81NJWtk&ll=35.732104%2C139.563437&z=17"
+  },
+  {
+    "id": "lqfm1ywcc",
+    "cn": "井荻桥",
+    "name": "井荻橋",
+    "image": "https://image.xinu.ink/pic/data/422/images/4yu9upzjy.jpg",
+    "ep": 5,
+    "s": 968,
+    "geo": [
+      35.7075,
+      139.5998
+    ]
+  },
+  {
+    "id": "kpx6oh3tt",
+    "cn": "都营电铁早稻田站",
+    "name": "早稲田駅（都電）",
+    "image": "https://image.xinu.ink/pic/data/422/images/kpx6oh3tt-1720886855628.jpg",
+    "ep": 7,
+    "s": 202,
+    "geo": [
+      35.7118,
+      139.7189
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=11lfJFry55739e-Ybq8Su81NJWtk&ll=35.711874%2C139.718963&z=17"
+  },
+  {
+    "id": "kpx6oh21w",
+    "name": "タリーズコーヒー 大塚店",
+    "image": "https://image.xinu.ink/pic/data/422/images/kpx6oh21w-1725364967825.jpg",
+    "ep": 7,
+    "s": 568,
+    "geo": [
+      35.7303,
+      139.7289
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=11lfJFry55739e-Ybq8Su81NJWtk&ll=35.730394%2C139.728922&z=17"
+  },
+  {
+    "id": "kpx6oh1wj",
+    "name": "大塚駅前停留場（都電荒川線）",
+    "image": "https://image.xinu.ink/pic/data/422/images/kpx6oh1wj-1725368235480.jpg",
+    "ep": 7,
+    "s": 581,
+    "geo": [
+      35.7316,
+      139.7292
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=11lfJFry55739e-Ybq8Su81NJWtk&ll=35.731613%2C139.729224&z=17"
+  },
+  {
+    "id": "m8o3dzyp9",
+    "cn": "都电大塚站前",
+    "name": "都電大塚駅前",
+    "image": "https://image.xinu.ink/pic/data/422/images/m8o3dzyp9-1720887069652.jpg",
+    "ep": 7,
+    "s": 599,
+    "geo": [
+      35.7316,
+      139.7294
+    ]
+  },
+  {
+    "id": "5oe3513y5",
+    "cn": "曙桥",
+    "name": "曙橋",
+    "image": "https://image.xinu.ink/pic/data/422/images/5oe3513y5-1674161033550.jpg",
+    "ep": 9,
+    "s": 163,
+    "geo": [
+      35.7138,
+      139.7132
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=11lfJFry55739e-Ybq8Su81NJWtk&ll=35.713896%2C139.713274&z=17"
+  },
+  {
+    "id": "oii990gqp",
+    "cn": "台场站",
+    "name": "台場駅",
+    "image": "https://image.xinu.ink/pic/data/422/images/4yuvsuwlv.jpg",
+    "ep": 0,
+    "s": 854,
+    "geo": [
+      35.6263,
+      139.7717
+    ]
+  }
+]

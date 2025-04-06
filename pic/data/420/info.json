@@ -1,0 +1,68 @@
+{
+  "id": 131891,
+  "cn": "暗杀教室 第二季",
+  "title": "暗殺教室 第2期",
+  "city": "八王子市",
+  "cover": "https://image.xinu.ink/pic/data/420/images/131891.jpg",
+  "color": "#faff5c",
+  "modified": 1727512493889,
+  "litePoints": [
+    {
+      "id": "o1mp1mx4p",
+      "name": "みかどパン脇のヒマラヤ杉の前",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/131891/points/o1mp1mx4p-1725977720676.jpg?plan=h160",
+      "ep": 20,
+      "s": 195,
+      "geo": [
+        35.7215,
+        139.7674
+      ]
+    },
+    {
+      "id": "o1mvc2o2r",
+      "name": "加須市民体育館",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/131891/points/o1mvc2o2r-1725978069889.jpg?plan=h160",
+      "ep": 25,
+      "s": 442,
+      "geo": [
+        36.1358,
+        139.6026
+      ]
+    },
+    {
+      "id": "o1n1u096r",
+      "name": "八王子駅",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/131891/points/o1n1u096r-1725978436900.jpg?plan=h160",
+      "ep": 25,
+      "s": 766,
+      "geo": [
+        35.6537,
+        139.3381
+      ]
+    },
+    {
+      "id": "o1n6ppgb7",
+      "name": "明治通り宮下第2歩道橋",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/131891/points/o1n6ppgb7-1725978742966.jpg?plan=h160",
+      "ep": 20,
+      "s": 1136,
+      "geo": [
+        35.6628,
+        139.702
+      ]
+    },
+    {
+      "id": "o1nar0rla",
+      "name": "加須市民体育館前",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/131891/points/o1nar0rla-1725979010448.jpg?plan=h160",
+      "ep": 25,
+      "geo": [
+        36.1354,
+        139.6019
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 420
+}

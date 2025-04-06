@@ -1,0 +1,123 @@
+{
+  "id": 141799,
+  "cn": "飞翔的魔女",
+  "title": "ふらいんぐうぃっち",
+  "city": "弘前市",
+  "cover": "https://image.xinu.ink/pic/data/432/images/141799.jpg",
+  "color": "#aa8055",
+  "cp": "ふらいんぐうぃっち",
+  "geo": [
+    40.604504,
+    140.462995
+  ],
+  "zoom": 14,
+  "modified": 1738508961574,
+  "litePoints": [
+    {
+      "id": "3ia3gzt6",
+      "name": "下湯口三叉路",
+      "image": "https://image.anitabi.cn/points/141799/3ia3gzt6.jpg?plan=h160",
+      "ep": 1,
+      "s": 1325,
+      "geo": [
+        40.5875,
+        140.4208
+      ]
+    },
+    {
+      "id": "3ia3gzx8",
+      "name": "りんご公園",
+      "image": "https://image.anitabi.cn/points/141799/3ia3gzx8.jpg?plan=h160",
+      "ep": 2,
+      "s": 6,
+      "geo": [
+        40.5888,
+        140.4417
+      ]
+    },
+    {
+      "id": "3ia3h0lc",
+      "name": "下湯口奥三叉路",
+      "image": "https://image.anitabi.cn/points/141799/3ia3h0lc.jpg?plan=h160",
+      "ep": 7,
+      "s": 663,
+      "geo": [
+        40.5844,
+        140.4171
+      ]
+    },
+    {
+      "id": "3ia3gz7r",
+      "name": "国道２８号線悪戸付近",
+      "image": "https://image.anitabi.cn/points/141799/3ia3gz7r.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        40.5936,
+        140.4357
+      ]
+    },
+    {
+      "id": "3ia3gzi6",
+      "name": "下湯口バス停",
+      "image": "https://image.anitabi.cn/points/141799/3ia3gzi6.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        40.5877,
+        140.4202
+      ]
+    },
+    {
+      "id": "3ia3gzfx",
+      "name": "弘前駅",
+      "image": "https://image.anitabi.cn/points/141799/3ia3gzfx.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        40.599,
+        140.485
+      ]
+    },
+    {
+      "id": "3ia3gzlv",
+      "name": "弘前駅前バスプール",
+      "image": "https://image.anitabi.cn/points/141799/3ia3gzlv.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        40.5986,
+        140.4844
+      ]
+    },
+    {
+      "id": "3ia3gzk9",
+      "name": "ホテルナクアシティ弘前前",
+      "image": "https://image.anitabi.cn/points/141799/3ia3gzk9.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        40.5982,
+        140.4838
+      ]
+    },
+    {
+      "id": "3ia3gzm4",
+      "name": "ふじみ橋北詰",
+      "image": "https://image.anitabi.cn/points/141799/3ia3gzm4.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        40.6101,
+        140.4481
+      ]
+    },
+    {
+      "id": "3ia3gzo5",
+      "name": "下湯口バス停前",
+      "image": "https://image.anitabi.cn/points/141799/3ia3gzo5.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        40.5877,
+        140.4201
+      ]
+    }
+  ],
+  "pointsLength": 48,
+  "imagesLength": 47,
+  "local_id": 432
+}

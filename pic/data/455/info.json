@@ -1,0 +1,120 @@
+{
+  "id": 160209,
+  "cn": "你的名字。",
+  "title": "君の名は。",
+  "city": "高山市",
+  "cover": "https://image.xinu.ink/pic/data/455/images/160209.jpg",
+  "color": "#0080ff",
+  "cp": "2016君の名は。",
+  "geo": [
+    36.04167706968286,
+    136.21376762580826
+  ],
+  "zoom": 5.565609410785541,
+  "modified": 1742226065901,
+  "litePoints": [
+    {
+      "id": "3ik9kj0e",
+      "name": "信濃町歩道橋",
+      "image": "https://image.anitabi.cn/points/160209/3ik9kj0e.jpg?plan=h160",
+      "s": 145,
+      "geo": [
+        35.6796,
+        139.7195
+      ]
+    },
+    {
+      "id": "3ik9kjew",
+      "name": "LABI新宿東口館前",
+      "image": "https://image.anitabi.cn/points/160209/3ik9kjew.jpg?plan=h160",
+      "s": 197,
+      "geo": [
+        35.6936,
+        139.7009
+      ]
+    },
+    {
+      "id": "3ik9kjfp",
+      "name": "蜷川家具店",
+      "image": "https://image.anitabi.cn/points/160209/3ik9kjfp.jpg?plan=h160",
+      "s": 448,
+      "geo": [
+        35.8885,
+        140.499
+      ]
+    },
+    {
+      "id": "3ik9kji0",
+      "name": "藤ノ木橋",
+      "image": "https://image.anitabi.cn/points/160209/3ik9kji0.jpg?plan=h160",
+      "s": 462,
+      "geo": [
+        35.5201,
+        137.8863
+      ]
+    },
+    {
+      "id": "3ik9kjdk",
+      "name": "アイSHOP 石堂店",
+      "image": "https://image.anitabi.cn/points/160209/3ik9kjdk.jpg?plan=h160",
+      "s": 660,
+      "geo": [
+        30.5466,
+        130.9708
+      ]
+    },
+    {
+      "id": "3ik9kj7v",
+      "name": "新海三社神社 神楽殿",
+      "image": "https://image.anitabi.cn/points/160209/3ik9kj7v.jpg?plan=h160",
+      "s": 872,
+      "geo": [
+        36.1959,
+        138.5121
+      ]
+    },
+    {
+      "id": "3ik9kj50",
+      "name": "新宿駅南口",
+      "image": "https://image.anitabi.cn/points/160209/3ik9kj50.jpg?plan=h160",
+      "s": 1201,
+      "geo": [
+        35.6892,
+        139.7006
+      ]
+    },
+    {
+      "id": "3ik9kj6d",
+      "name": "新宿駅南口歩道橋",
+      "image": "https://image.anitabi.cn/points/160209/3ik9kj6d.jpg?plan=h160",
+      "s": 1205,
+      "geo": [
+        35.689,
+        139.6999
+      ]
+    },
+    {
+      "id": "3ik9kiwd",
+      "name": "YUNIKA VISION",
+      "image": "https://image.anitabi.cn/points/160209/3ik9kiwd.jpg?plan=h160",
+      "s": 1215,
+      "geo": [
+        35.6938,
+        139.7002
+      ]
+    },
+    {
+      "id": "3ik9kjf5",
+      "name": "Ladurée新宿店前",
+      "image": "https://image.anitabi.cn/points/160209/3ik9kjf5.jpg?plan=h160",
+      "s": 1222,
+      "geo": [
+        35.6893,
+        139.7008
+      ]
+    }
+  ],
+  "pointsLength": 91,
+  "imagesLength": 91,
+  "local_id": 455
+}

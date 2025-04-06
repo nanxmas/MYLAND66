@@ -1,0 +1,52 @@
+[
+  {
+    "id": "u0uhb6oez",
+    "name": "和光市駅南口",
+    "image": "https://image.xinu.ink/pic/data/415/images/u0uhb6oez_1742842917866.jpg",
+    "ep": 2,
+    "s": 654,
+    "geo": [
+      35.7882,
+      139.6121
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u0umve4ge",
+    "name": "広沢バス停",
+    "image": "https://image.xinu.ink/pic/data/415/images/u0umve4ge_1742843250163.jpg",
+    "ep": 2,
+    "s": 696,
+    "geo": [
+      35.7806,
+      139.6101
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u0hnozegg",
+    "cn": "脑科学研究所",
+    "name": "理化学\n研究所",
+    "image": "https://image.xinu.ink/pic/data/415/images/u0hnozegg_1742842767459.jpg",
+    "ep": 2,
+    "s": 704,
+    "geo": [
+      35.7802,
+      139.6123
+    ]
+  },
+  {
+    "id": "ko4rp4lmm",
+    "cn": "西池袋公园",
+    "name": "西池袋公園",
+    "image": "https://image.xinu.ink/pic/data/415/images/ko4rp4lmm-1716456655148.jpg",
+    "ep": 2,
+    "s": 1248,
+    "geo": [
+      35.7293,
+      139.7062
+    ]
+  }
+]

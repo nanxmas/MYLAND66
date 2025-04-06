@@ -1,0 +1,50 @@
+{
+  "id": 128801,
+  "cn": "Wake Up, Girls! 超越深限",
+  "title": "Wake Up, Girls! Beyond the Bottom",
+  "cover": "https://image.xinu.ink/pic/data/414/images/128801_GYrTv.jpg",
+  "cp": "Wake Up, Girls！2",
+  "modified": 1734375152737,
+  "litePoints": [
+    {
+      "id": "r0n0ownyn",
+      "name": "秋田駅東口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/128801/points/r0n0ownyn-1734363327233.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        39.7166,
+        140.1311
+      ]
+    },
+    {
+      "id": "r0mo6axds",
+      "name": "仙台​空港​旅客​ターミナルビル",
+      "image": "https://image.anitabi.cn/user/0/bangumi/128801/points/r0mo6axds-1734362779823.jpg?plan=h160",
+      "geo": [
+        38.1381,
+        140.9301
+      ]
+    },
+    {
+      "id": "r0mvjho17",
+      "name": "山形駅西口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/128801/points/r0mvjho17-1734363018343.jpg?plan=h160",
+      "geo": [
+        38.2492,
+        140.3269
+      ]
+    },
+    {
+      "id": "r0myp9ulz",
+      "name": "山形駅東口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/128801/points/r0myp9ulz-1734363209743.jpg?plan=h160",
+      "geo": [
+        38.2482,
+        140.3283
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 414
+}

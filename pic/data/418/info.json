@@ -1,0 +1,32 @@
+{
+  "id": 131427,
+  "cn": "名侦探柯南 纯黑的恶梦",
+  "title": "名探偵コナン 純黒の悪夢",
+  "cover": "https://image.xinu.ink/pic/data/418/images/131427_l4d7e.jpg",
+  "modified": 1733730176133,
+  "litePoints": [
+    {
+      "id": "pnpte4ftp",
+      "cn": "彩虹桥",
+      "name": "レインボー​ブリッジ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/131427/points/pnpte4ftp-1730529704510.jpg?plan=h160",
+      "geo": [
+        35.6371,
+        139.7619
+      ]
+    },
+    {
+      "id": "qs0yhw3hi",
+      "cn": "加拿大国家电视塔",
+      "name": "CN Tower",
+      "image": "https://image.anitabi.cn/user/0/bangumi/131427/points/qs0yhw3hi-1733688801375.jpg?plan=h160",
+      "geo": [
+        43.6425,
+        -79.3871
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 418
+}

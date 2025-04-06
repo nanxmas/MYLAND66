@@ -1,0 +1,28 @@
+{
+  "id": 140001,
+  "cn": "Re:从零开始的异世界生活",
+  "title": "Re:ゼロから始める異世界生活",
+  "cover": "https://image.xinu.ink/pic/data/430/images/140001.jpg",
+  "color": "#7b6bad",
+  "cp": "Re:ゼロから始める異世界生活1",
+  "geo": [
+    35.547853601579405,
+    138.94794408903596
+  ],
+  "zoom": 9.791,
+  "modified": 1725957032464,
+  "litePoints": [
+    {
+      "id": "6b5e6bbd",
+      "name": "ミニストップあすみが丘東店",
+      "image": "https://image.anitabi.cn/points/140001/6b5e6bbd_1725956935068.jpg?plan=h160",
+      "geo": [
+        35.5268,
+        140.2732
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 430
+}

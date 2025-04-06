@@ -1,0 +1,549 @@
+[
+  {
+    "id": "3ia3gzt6",
+    "name": "下湯口三叉路",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gzt6.jpg",
+    "ep": 1,
+    "s": 1325,
+    "geo": [
+      40.5875,
+      140.4208
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.587596%2C140.420895&z=17"
+  },
+  {
+    "id": "3ia3gzx8",
+    "name": "りんご公園",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gzx8.jpg",
+    "ep": 2,
+    "s": 6,
+    "geo": [
+      40.5888,
+      140.4417
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.588818%2C140.441762&z=17"
+  },
+  {
+    "id": "3ia3h0lc",
+    "name": "下湯口奥三叉路",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3h0lc.jpg",
+    "ep": 7,
+    "s": 663,
+    "geo": [
+      40.5844,
+      140.4171
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.58448%2C140.417199&z=17"
+  },
+  {
+    "id": "3ia3gz7r",
+    "name": "国道２８号線悪戸付近",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gz7r.jpg",
+    "ep": 1,
+    "geo": [
+      40.5936,
+      140.4357
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.593637%2C140.435722&z=17"
+  },
+  {
+    "id": "3ia3gzi6",
+    "name": "下湯口バス停",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gzi6.jpg",
+    "ep": 1,
+    "geo": [
+      40.5877,
+      140.4202
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.58772%2C140.420291&z=17"
+  },
+  {
+    "id": "3ia3gzfx",
+    "name": "弘前駅",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gzfx.jpg",
+    "ep": 1,
+    "geo": [
+      40.599,
+      140.485
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.599095%2C140.485053&z=17"
+  },
+  {
+    "id": "3ia3gzlv",
+    "name": "弘前駅前バスプール",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gzlv.jpg",
+    "ep": 1,
+    "geo": [
+      40.5986,
+      140.4844
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.598674%2C140.484425&z=17"
+  },
+  {
+    "id": "3ia3gzk9",
+    "name": "ホテルナクアシティ弘前前",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gzk9.jpg",
+    "ep": 1,
+    "geo": [
+      40.5982,
+      140.4838
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.598205%2C140.483841&z=17"
+  },
+  {
+    "id": "3ia3gzm4",
+    "name": "ふじみ橋北詰",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gzm4.jpg",
+    "ep": 1,
+    "geo": [
+      40.6101,
+      140.4481
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.610141%2C140.448151&z=17"
+  },
+  {
+    "id": "3ia3gzo5",
+    "name": "下湯口バス停前",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gzo5.jpg",
+    "ep": 1,
+    "geo": [
+      40.5877,
+      140.4201
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.587788%2C140.420181&z=17"
+  },
+  {
+    "id": "3ia3gzri",
+    "name": "イオンタウン弘前樋の口店",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gzri.jpg",
+    "ep": 1,
+    "geo": [
+      40.6026,
+      140.4441
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.602615%2C140.444112&z=17"
+  },
+  {
+    "id": "3ia3gzhl",
+    "name": "紙漉澤橋（かみすきさわばし）",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gzhl.jpg",
+    "ep": 1,
+    "geo": [
+      40.5828,
+      140.3918
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.582842%2C140.391809&z=17"
+  },
+  {
+    "id": "3ia3gzsw",
+    "name": "石場家",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gzsw.jpg",
+    "ep": 1,
+    "geo": [
+      40.6122,
+      140.4669
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.612263%2C140.466905&z=17"
+  },
+  {
+    "id": "3ia3gzrm",
+    "name": "弘前学院聖愛中学高等学校",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gzrm.jpg",
+    "ep": 1,
+    "geo": [
+      40.5715,
+      140.4704
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.571564%2C140.470473&z=17"
+  },
+  {
+    "id": "3ia3gzk8",
+    "name": "陸上自衛隊弘前駐屯地付近",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gzk8.jpg",
+    "ep": 1,
+    "geo": [
+      40.5695,
+      140.4611
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.569518%2C140.461117&z=17"
+  },
+  {
+    "id": "3ia3gzqj",
+    "name": "神明宮",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gzqj.jpg",
+    "ep": 3,
+    "geo": [
+      40.5883,
+      140.4173
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.588305%2C140.417333&z=17"
+  },
+  {
+    "id": "3ia3gzmk",
+    "name": "藤田記念庭園・大正浪漫喫茶室",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gzmk.jpg",
+    "ep": 7,
+    "geo": [
+      40.6035,
+      140.4614
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.60358%2C140.461417&z=17"
+  },
+  {
+    "id": "3ia3gztl",
+    "name": "岩木山神社",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gztl.jpg",
+    "ep": 2,
+    "geo": [
+      40.6218,
+      140.3406
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.621852%2C140.340675&z=17"
+  },
+  {
+    "id": "3ia3gz5w",
+    "name": "弘前城（下乗橋より）",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gz5w.jpg",
+    "ep": 2,
+    "geo": [
+      40.6071,
+      140.4642
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.607103%2C140.464271&z=17"
+  },
+  {
+    "id": "3ia3gzh9",
+    "name": "弘前城植物園",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gzh9.jpg",
+    "ep": 2,
+    "geo": [
+      40.6038,
+      140.4667
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.603867%2C140.466707&z=17"
+  },
+  {
+    "id": "3ia3gz7a",
+    "name": "最勝院",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gz7a.jpg",
+    "ep": 2,
+    "geo": [
+      40.5963,
+      140.4686
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.596375%2C140.468659&z=17"
+  },
+  {
+    "id": "3ia3h0ov",
+    "name": "青柳小学校付近",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3h0ov.jpg",
+    "ep": 2,
+    "geo": [
+      40.5909,
+      140.4255
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.590989%2C140.425551&z=17"
+  },
+  {
+    "id": "3ia3h08z",
+    "name": "神明宮付近（チトが歩く道路）",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3h08z.jpg",
+    "ep": 5,
+    "geo": [
+      40.587,
+      140.4174
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.58705%2C140.417467&z=17"
+  },
+  {
+    "id": "3ia3h089",
+    "name": "神明宮付近（人面の木戸）",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3h089.jpg",
+    "ep": 5,
+    "geo": [
+      40.5872,
+      140.417
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.58728%2C140.417097&z=17"
+  },
+  {
+    "id": "3ia3h02b",
+    "name": "下湯口バス停付近（犬を飼われていたところ）",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3h02b.jpg",
+    "ep": 5,
+    "geo": [
+      40.5875,
+      140.4183
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.587561%2C140.418392&z=17"
+  },
+  {
+    "id": "3ia3h02k",
+    "name": "下湯口農業研修会館",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3h02k.jpg",
+    "ep": 5,
+    "geo": [
+      40.588,
+      140.4203
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.58801%2C140.420323&z=17"
+  },
+  {
+    "id": "3ia3gzzx",
+    "name": "とちない橋",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gzzx.jpg",
+    "ep": 5,
+    "geo": [
+      40.5888,
+      140.4147
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.58881%2C140.41476&z=17"
+  },
+  {
+    "id": "3ia3h0c9",
+    "name": "紙漉澤排水処理施設前の東屋",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3h0c9.jpg",
+    "ep": 5,
+    "geo": [
+      40.5832,
+      140.3901
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.583231%2C140.39014&z=17"
+  },
+  {
+    "id": "3ia3h0iw",
+    "name": "下湯口三叉路（酒の届け先）",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3h0iw.jpg",
+    "ep": 5,
+    "geo": [
+      40.5874,
+      140.4209
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.58745%2C140.420978&z=17"
+  },
+  {
+    "id": "3ia3h07o",
+    "name": "弘前市立相馬中学校",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3h07o.jpg",
+    "ep": 7,
+    "geo": [
+      40.5794,
+      140.3882
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.579403%2C140.388225&z=17"
+  },
+  {
+    "id": "3ia3h0bd",
+    "name": "西目屋村下大秋入口",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3h0bd.jpg",
+    "ep": 7,
+    "geo": [
+      40.5817,
+      140.2781
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.581725%2C140.278115&z=17"
+  },
+  {
+    "id": "3ia3h0m7",
+    "name": "１２９号線悪戸付近",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3h0m7.jpg",
+    "ep": 11,
+    "geo": [
+      40.5957,
+      140.4262
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.595705%2C140.426254&z=17"
+  },
+  {
+    "id": "3ia3h00h",
+    "name": "吉井酒造煉瓦倉庫",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3h00h.jpg",
+    "ep": 12,
+    "geo": [
+      40.5982,
+      140.4727
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.598246%2C140.47273&z=17"
+  },
+  {
+    "id": "3ia3h005",
+    "name": "たそがれ橋",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3h005.jpg",
+    "ep": 12,
+    "geo": [
+      40.5985,
+      140.4714
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.598554%2C140.471499&z=17"
+  },
+  {
+    "id": "3ia3gzy9",
+    "name": "しまや",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gzy9.jpg",
+    "ep": 12,
+    "geo": [
+      40.6037,
+      140.4722
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.603708%2C140.472272&z=17"
+  },
+  {
+    "id": "3ia3h08t",
+    "name": "横浜市・山下公園",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3h08t.jpg",
+    "ep": 2,
+    "geo": [
+      35.4458,
+      139.6495
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=35.445891%2C139.649545&z=17"
+  },
+  {
+    "id": "3ia3gyg7",
+    "name": "巌鬼山神社",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gyg7.jpg",
+    "geo": [
+      40.7307,
+      140.3343
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.730739%2C140.334377&z=17"
+  },
+  {
+    "id": "3ia3gysf",
+    "name": "弘前城追手門前",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gysf.jpg",
+    "geo": [
+      40.6073,
+      140.4681
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.60738%2C140.468166&z=17"
+  },
+  {
+    "id": "3ia3gyp4",
+    "name": "弘前城内（追手門付近）",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gyp4.jpg",
+    "geo": [
+      40.6072,
+      140.4671
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.607266%2C140.467136&z=17"
+  },
+  {
+    "id": "3ia3gz4j",
+    "name": "弘前城内（南内門付近）",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gz4j.jpg",
+    "geo": [
+      40.6066,
+      140.4635
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.606606%2C140.463531&z=17"
+  },
+  {
+    "id": "3ia3gyma",
+    "name": "弘前城内（四の丸）",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gyma.jpg",
+    "geo": [
+      40.6109,
+      140.4666
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.610984%2C140.466664&z=17"
+  },
+  {
+    "id": "3ia3gyfs",
+    "name": "弘前城内（波祢橋）",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gyfs.jpg",
+    "geo": [
+      40.61,
+      140.4634
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.610035%2C140.463456&z=17"
+  },
+  {
+    "id": "3ia3gyx7",
+    "name": "弘前城内（波祢橋付近）",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gyx7.jpg",
+    "geo": [
+      40.61,
+      140.4632
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.610096%2C140.463215&z=17"
+  },
+  {
+    "id": "3ia3gyvv",
+    "name": "弘前城内（春陽橋）",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gyvv.jpg",
+    "geo": [
+      40.61,
+      140.4626
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.610059%2C140.462679&z=17"
+  },
+  {
+    "id": "3ia3gyt6",
+    "name": "ローソン弘前湯口店",
+    "image": "https://image.xinu.ink/pic/data/432/images/3ia3gyt6.jpg",
+    "geo": [
+      40.5886,
+      140.4139
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cubn1k_osXQuJ558TXC7kVM93WQ&ll=40.588659%2C140.413929&z=17"
+  },
+  {
+    "id": "shhkhtkp2",
+    "cn": "豪德寺",
+    "name": "豪徳寺",
+    "image": "https://image.xinu.ink/pic/data/432/images/shhkhtkp2_1738508468249.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      35.6476,
+      139.647
+    ],
+    "originLink": "https://hirosaki.keizai.biz/headline/1712/"
+  }
+]

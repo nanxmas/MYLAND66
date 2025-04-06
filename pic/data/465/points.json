@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kpx6oibbl",
+    "name": "すきっぷ通り商店街入り口",
+    "image": "https://image.xinu.ink/pic/data/465/images/kpx6oibbl_1729359103168.jpg",
+    "ep": "OP1",
+    "geo": [
+      35.7025,
+      139.5442
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1qNM0GW5AZgQGBX39I_qCOfoEAG8&ll=35.70257%2C139.544228&z=17"
+  },
+  {
+    "id": "kpx6oiauw",
+    "name": "境南ふれあい広場公園",
+    "image": "https://image.xinu.ink/pic/data/465/images/kpx6oiauw_1729359300462.jpg",
+    "ep": "OP1",
+    "geo": [
+      35.7017,
+      139.5436
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1qNM0GW5AZgQGBX39I_qCOfoEAG8&ll=35.701701%2C139.543689&z=17"
+  },
+  {
+    "id": "kpx6oib4l",
+    "name": "武蔵野プレイス",
+    "image": "https://image.xinu.ink/pic/data/465/images/kpx6oib4l_1729359393909.jpg",
+    "ep": "OP1",
+    "geo": [
+      35.7013,
+      139.5437
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1qNM0GW5AZgQGBX39I_qCOfoEAG8&ll=35.701357%2C139.54371&z=17"
+  },
+  {
+    "id": "kpx6oibo6",
+    "name": "EDのお肉屋さん買い物シーン",
+    "image": "https://image.xinu.ink/pic/data/465/images/kpx6oibo6_1729359651407.jpg",
+    "ep": "ED1",
+    "geo": [
+      35.703,
+      139.5442
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1qNM0GW5AZgQGBX39I_qCOfoEAG8&ll=35.703023%2C139.544228&z=17"
+  },
+  {
+    "id": "kpx6oiagt",
+    "name": "武蔵境駅北口",
+    "image": "https://image.xinu.ink/pic/data/465/images/kpx6oiagt_1729359793875.jpg",
+    "ep": "ED1",
+    "geo": [
+      35.7024,
+      139.5442
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1qNM0GW5AZgQGBX39I_qCOfoEAG8&ll=35.702426%2C139.544249&z=17"
+  }
+]

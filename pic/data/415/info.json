@@ -1,0 +1,64 @@
+{
+  "id": 129807,
+  "cn": "命运石之门 0",
+  "title": "シュタインズ・ゲート ゼロ",
+  "cover": "https://image.xinu.ink/pic/data/415/images/129807.jpg",
+  "color": "#000000",
+  "geo": [
+    35.72932499999999,
+    139.70628599999998
+  ],
+  "zoom": 16,
+  "modified": 1742843360907,
+  "litePoints": [
+    {
+      "id": "u0uhb6oez",
+      "name": "和光市駅南口",
+      "image": "https://image.anitabi.cn/points/129807/u0uhb6oez_1742842917866.jpg?plan=h160",
+      "ep": 2,
+      "s": 654,
+      "geo": [
+        35.7882,
+        139.6121
+      ]
+    },
+    {
+      "id": "u0umve4ge",
+      "name": "広沢バス停",
+      "image": "https://image.anitabi.cn/points/129807/u0umve4ge_1742843250163.jpg?plan=h160",
+      "ep": 2,
+      "s": 696,
+      "geo": [
+        35.7806,
+        139.6101
+      ]
+    },
+    {
+      "id": "u0hnozegg",
+      "cn": "脑科学研究所",
+      "name": "理化学\n研究所",
+      "image": "https://image.anitabi.cn/points/129807/u0hnozegg_1742842767459.jpg?plan=h160",
+      "ep": 2,
+      "s": 704,
+      "geo": [
+        35.7802,
+        139.6123
+      ]
+    },
+    {
+      "id": "ko4rp4lmm",
+      "cn": "西池袋公园",
+      "name": "西池袋公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/10380/points/ko4rp4lmm-1716456655148.jpg?plan=h160",
+      "ep": 2,
+      "s": 1248,
+      "geo": [
+        35.7293,
+        139.7062
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 415
+}

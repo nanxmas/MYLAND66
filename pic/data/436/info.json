@@ -1,0 +1,134 @@
+{
+  "id": 143205,
+  "cn": "南镰仓高校女子自行车社",
+  "title": "南鎌倉高校女子自転車部",
+  "city": "镰仓市",
+  "cover": "https://image.xinu.ink/pic/data/436/images/143205.jpg",
+  "color": "#ed5c95",
+  "cp": "南鎌倉高校女子自転車部",
+  "geo": [
+    35.31047755574183,
+    139.52243435997025
+  ],
+  "zoom": 12.428057428237501,
+  "modified": 1734349016264,
+  "litePoints": [
+    {
+      "id": "jsbo56jpg",
+      "name": "松山机场第一航厦",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/143205/points/jsbo56jpg-1713964015985.jpg?plan=h160",
+      "ep": 13,
+      "s": 232,
+      "geo": [
+        25.0636,
+        121.5524
+      ]
+    },
+    {
+      "id": "jsc6p93um",
+      "name": "松山机场第二航厦附近",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/143205/points/jsc6p93um-1713965076938.jpg?plan=h160",
+      "ep": 13,
+      "s": 273,
+      "geo": [
+        25.0635,
+        121.5509
+      ]
+    },
+    {
+      "id": "jsc2yd6e6",
+      "name": "捷运松山机场站出口 2",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/143205/points/jsc2yd6e6-1713964873124.jpg?plan=h160",
+      "ep": 13,
+      "s": 283,
+      "geo": [
+        25.0635,
+        121.5512
+      ]
+    },
+    {
+      "id": "jscfdn0yr",
+      "cn": "台北101观景台",
+      "name": "台北101",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/143205/points/jscfdn0yr-1713965581786.jpg?plan=h160",
+      "ep": 13,
+      "s": 544,
+      "geo": [
+        25.0335,
+        121.5648
+      ]
+    },
+    {
+      "id": "jscnp5cbh",
+      "name": "台北市景",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/143205/points/jscnp5cbh-1713966190873.jpg?plan=h160",
+      "ep": 13,
+      "s": 527,
+      "geo": [
+        25.0335,
+        121.5648
+      ]
+    },
+    {
+      "id": "jscrev7tp",
+      "name": "LOVE装置艺术",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/143205/points/jscrev7tp-1713966322386.jpg?plan=h160",
+      "ep": 13,
+      "s": 580,
+      "geo": [
+        25.0332,
+        121.5647
+      ]
+    },
+    {
+      "id": "jscutijy0",
+      "cn": "西门红楼",
+      "name": "西門紅樓",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/143205/points/jscutijy0-1713966527732.jpg?plan=h160",
+      "ep": 13,
+      "s": 609,
+      "geo": [
+        25.042,
+        121.507
+      ]
+    },
+    {
+      "id": "jsd8qth1a",
+      "cn": "汉中街",
+      "name": "汉中街",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/143205/points/jsd8qth1a-1713967375247.jpg?plan=h160",
+      "ep": 13,
+      "s": 612,
+      "geo": [
+        25.0445,
+        121.5075
+      ]
+    },
+    {
+      "id": "jsddmd69d",
+      "cn": "龙山寺",
+      "name": "龍山寺",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/143205/points/jsddmd69d-1713967649206.jpg?plan=h160",
+      "ep": 13,
+      "s": 600,
+      "geo": [
+        25.0371,
+        121.4998
+      ]
+    },
+    {
+      "id": "jsdxda44l",
+      "name": "饶河街观光夜市",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/143205/points/jsdxda44l-1713968867400.jpg?plan=h160",
+      "ep": 13,
+      "s": 620,
+      "geo": [
+        25.0509,
+        121.5775
+      ]
+    }
+  ],
+  "pointsLength": 54,
+  "imagesLength": 35,
+  "local_id": 436
+}

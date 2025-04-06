@@ -1,0 +1,342 @@
+[
+  {
+    "id": "51i53hko1",
+    "name": "高松港 赤灯台",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hko1_1673491807273.jpg",
+    "ep": 3,
+    "s": 333,
+    "geo": [
+      34.3608,
+      134.0512
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.36085%2C134.051249&z=17"
+  },
+  {
+    "id": "51i53hku9",
+    "name": "丸亀町商店街",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hku9_1673492212306.jpg",
+    "ep": 6,
+    "s": 71,
+    "geo": [
+      34.3417,
+      134.0495
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.341726%2C134.049597&z=17"
+  },
+  {
+    "id": "51i53hkll",
+    "name": "三びきの子ぶた",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hkll_1673492281307.jpg",
+    "ep": 2,
+    "s": 866,
+    "geo": [
+      34.3386,
+      134.0516
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.338675%2C134.051614&z=17"
+  },
+  {
+    "id": "51i53hl88",
+    "name": "栗林公園",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hl88_1673492402038.jpg",
+    "ep": 5,
+    "s": 75,
+    "geo": [
+      34.3292,
+      134.0436
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.329288%2C134.043632&z=17"
+  },
+  {
+    "id": "51i53hkmv",
+    "name": "ことでん林道駅",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hkmv_1673493020163.jpg",
+    "ep": 2,
+    "s": 483,
+    "geo": [
+      34.3235,
+      134.0729
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.323538%2C134.072943&z=17"
+  },
+  {
+    "id": "51i53hldn",
+    "name": "詰田川沿い",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hldn_1673493138073.jpg",
+    "ep": 1,
+    "s": 984,
+    "geo": [
+      34.3277,
+      134.0739
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.327737%2C134.073962&z=17"
+  },
+  {
+    "id": "51i53hlwa",
+    "name": "高徳線踏切",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hlwa_1673492887324.jpg",
+    "ep": 1,
+    "s": 1112,
+    "geo": [
+      34.3315,
+      134.0741
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.331587%2C134.074101&z=17"
+  },
+  {
+    "id": "51i53hlpw",
+    "name": "新宮川橋",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hlpw_1673493230293.jpg",
+    "ep": 1,
+    "s": 208,
+    "geo": [
+      34.3154,
+      134.0701
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.315496%2C134.070105&z=17"
+  },
+  {
+    "id": "51i53hlmi",
+    "name": "大園",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hlmi_1673493576087.jpg",
+    "ep": 1,
+    "s": 187,
+    "geo": [
+      34.3239,
+      134.0571
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.323961%2C134.057155&z=17"
+  },
+  {
+    "id": "51i53hldf",
+    "name": "大池",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hldf_1673493736465.jpg",
+    "ep": 10,
+    "s": 414,
+    "geo": [
+      34.3125,
+      134.0674
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.312532%2C134.067407&z=17"
+  },
+  {
+    "id": "51i53hljk",
+    "name": "大池・休憩所",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hljk_1673493813110.jpg",
+    "ep": 10,
+    "s": 502,
+    "geo": [
+      34.3119,
+      134.0657
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.311921%2C134.065797&z=17"
+  },
+  {
+    "id": "51i53hm19",
+    "name": "ことでん太田駅",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hm19_1673494693184.jpg",
+    "ep": 2,
+    "s": 529,
+    "geo": [
+      34.2992,
+      134.0459
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.299238%2C134.045949&z=17"
+  },
+  {
+    "id": "51i53hm21",
+    "name": "屋島寺",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hm21_1673494986821.jpg",
+    "ep": 4,
+    "s": 486,
+    "geo": [
+      34.3578,
+      134.1014
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.357825%2C134.101439&z=17"
+  },
+  {
+    "id": "51i53hm1v",
+    "name": "屋島・展望台",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hm1v_1673495115181.jpg",
+    "ep": 7,
+    "s": 107,
+    "geo": [
+      34.358,
+      134.0986
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.358078%2C134.098697&z=17"
+  },
+  {
+    "id": "51i53hlun",
+    "name": "長崎ノ鼻付近の海岸",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hlun_1673499209644.jpg",
+    "ep": 1,
+    "s": 1139,
+    "geo": [
+      34.3834,
+      134.0923
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.383458%2C134.092303&z=17"
+  },
+  {
+    "id": "51i53hlla",
+    "name": "キービジュアル",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hlla_1673499496572.jpg",
+    "ep": 4,
+    "s": 329,
+    "geo": [
+      34.3421,
+      134.1077
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.342138%2C134.107731&z=17"
+  },
+  {
+    "id": "51i53hmma",
+    "name": "屋島山上駐車場",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hmma_1673499387752.jpg",
+    "ep": 4,
+    "s": 337,
+    "geo": [
+      34.3587,
+      134.1024
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.358786%2C134.10249&z=17"
+  },
+  {
+    "id": "5fyhk3pr2",
+    "name": "ミニかずら橋",
+    "image": "https://image.xinu.ink/pic/data/463/images/5fyhk3pr2_1673499330685.jpg",
+    "ep": 4,
+    "s": 841,
+    "geo": [
+      34.3445,
+      134.1087
+    ],
+    "origin": "Anitabi@jxtk",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "51i53hmvr",
+    "name": "法然寺",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hmvr_1673499807667.jpg",
+    "ep": 1,
+    "s": 926,
+    "geo": [
+      34.2736,
+      134.0466
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.27366%2C134.046619&z=17"
+  },
+  {
+    "id": "51i53hmtw",
+    "name": "ちきり神社",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hmtw_1673500894134.jpg",
+    "ep": 1,
+    "s": 897,
+    "geo": [
+      34.2753,
+      134.0493
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.275347%2C134.049357&z=17"
+  },
+  {
+    "id": "51i53hmrr",
+    "name": "土庄港フェリーターミナル",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hmrr_1673501144038.jpg",
+    "ep": 8,
+    "s": 513,
+    "geo": [
+      34.4896,
+      134.1718
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.489633%2C134.171863&z=17"
+  },
+  {
+    "id": "5g036bsmz",
+    "cn": "天使之路",
+    "name": "エンジェルロード",
+    "image": "https://image.xinu.ink/pic/data/463/images/5g036bsmz_1673502805523.jpg",
+    "ep": 8,
+    "s": 500,
+    "geo": [
+      34.474,
+      134.1885
+    ],
+    "origin": "Anitabi@jxtk",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "51i53hmcv",
+    "name": "与島パーキングエリア",
+    "image": "https://image.xinu.ink/pic/data/463/images/51i53hmcv_1673502855401.jpg",
+    "ep": 11,
+    "s": 54,
+    "geo": [
+      34.3856,
+      133.8169
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10OiOzqXeEN-ECzbbE5HRfQv63qQ&ll=34.385663%2C133.81691&z=17"
+  },
+  {
+    "id": "5g05lja5v",
+    "cn": "Sunport轮渡渡口",
+    "name": "サンポート​フェリー​のりば",
+    "image": "https://image.xinu.ink/pic/data/463/images/5g05lja5v_1673502956032.jpg",
+    "ep": 3,
+    "s": 288,
+    "geo": [
+      34.354,
+      134.0482
+    ],
+    "origin": "Anitabi@jxtk",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5g06pt2o7",
+    "name": "上原屋本店",
+    "image": "https://image.xinu.ink/pic/data/463/images/5g06pt2o7_1673503049418.jpg",
+    "ep": 7,
+    "s": 519,
+    "geo": [
+      34.3272,
+      134.0452
+    ],
+    "origin": "Anitabi@jxtk",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5g082q8lk",
+    "name": "蛭子神社",
+    "image": "https://image.xinu.ink/pic/data/463/images/5g082q8lk_1673503104616.jpg",
+    "ep": 8,
+    "s": 994,
+    "geo": [
+      34.4783,
+      134.189
+    ],
+    "origin": "Anitabi@jxtk",
+    "originURL": "https://anitabi.cn/"
+  }
+]

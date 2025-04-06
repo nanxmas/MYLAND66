@@ -1,0 +1,32 @@
+{
+  "id": 148142,
+  "cn": "蓝海少女",
+  "title": "あまんちゅ！",
+  "city": "伊东市",
+  "cover": "https://image.xinu.ink/pic/data/445/images/148142.jpg",
+  "color": "#65bbfe",
+  "cp": "夢ヶ丘高校ダイビング部",
+  "geo": [
+    34.985551,
+    139.094555
+  ],
+  "zoom": 16,
+  "modified": 1719518496072,
+  "litePoints": [
+    {
+      "id": "7nr2x6nhz",
+      "cn": "伊东海洋城",
+      "name": "伊東マリンタウン",
+      "image": "https://image.anitabi.cn/user/0/bangumi/148142/points/7nr2x6nhz-1679757052407.jpg?plan=h160",
+      "ep": 6,
+      "s": 962,
+      "geo": [
+        34.9855,
+        139.0945
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 445
+}

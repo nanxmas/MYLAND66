@@ -1,0 +1,298 @@
+[
+  {
+    "id": "079e252e",
+    "cn": "罗斯威尔城外",
+    "name": "Roswell",
+    "image": "https://image.xinu.ink/pic/data/467/images/079e252e_1716916031631.jpg",
+    "ep": "本篇",
+    "geo": [
+      33.5339,
+      -104.5184
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=33.533917%2C-104.518389&z=17"
+  },
+  {
+    "id": "e3f86b75",
+    "cn": "希普罗克峰",
+    "name": "Shiprock",
+    "image": "https://image.xinu.ink/pic/data/467/images/e3f86b75_1716913812789.jpg",
+    "ep": "本篇",
+    "geo": [
+      36.6876,
+      -108.8365
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=36.687685%2C-108.836473&z=17"
+  },
+  {
+    "id": "7092638c",
+    "cn": "谢伊峡谷国家纪念地-木乃伊洞观景台",
+    "name": "Mummy Cave Overlook",
+    "image": "https://image.xinu.ink/pic/data/467/images/7092638c_1716913837587.jpg",
+    "ep": "本篇",
+    "geo": [
+      36.2286,
+      -109.3613
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=36.228622%2C-109.361251&z=17"
+  },
+  {
+    "id": "14e628a7",
+    "cn": "谢伊峡谷国家纪念地-木乃伊洞遗迹",
+    "name": "Inside the Mummy Cave",
+    "image": "https://image.xinu.ink/pic/data/467/images/14e628a7_1716913845081.jpg",
+    "ep": "本篇",
+    "geo": [
+      36.2324,
+      -109.3576
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=36.232462%2C-109.357559&z=17"
+  },
+  {
+    "id": "3d9951f8",
+    "cn": "大峡谷-露营地",
+    "name": "Mather Campground",
+    "image": "https://image.xinu.ink/pic/data/467/images/3d9951f8_1716913853045.jpg",
+    "ep": "本篇",
+    "geo": [
+      36.0506,
+      -112.1212
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=36.050629%2C-112.121129&z=17"
+  },
+  {
+    "id": "7c69c2f5",
+    "cn": "大峡谷",
+    "name": "Grand Canyon",
+    "image": "https://image.xinu.ink/pic/data/467/images/7c69c2f5_1716913857769.jpg",
+    "ep": "本篇",
+    "geo": [
+      36.0997,
+      -112.1125
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=36.099763%2C-112.112485&z=17"
+  },
+  {
+    "id": "90e7331d",
+    "cn": "大峡谷-观景台",
+    "name": "Hopi Point",
+    "image": "https://image.xinu.ink/pic/data/467/images/90e7331d_1716914642637.jpg",
+    "ep": "本篇",
+    "geo": [
+      36.0743,
+      -112.155
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=36.074396%2C-112.154969&z=17"
+  },
+  {
+    "id": "ccaf1388",
+    "cn": "拱门国家公园-平衡岩",
+    "name": "Balanced Rock",
+    "image": "https://image.xinu.ink/pic/data/467/images/ccaf1388_1716913862866.jpg",
+    "ep": "本篇",
+    "geo": [
+      38.7009,
+      -109.5647
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=38.700981%2C-109.564679&z=17"
+  },
+  {
+    "id": "b0bf258e",
+    "cn": "锡安国家公园-露营地",
+    "name": "Zion National Park Campground",
+    "image": "https://image.xinu.ink/pic/data/467/images/b0bf258e_1716913868448.jpg",
+    "ep": "本篇",
+    "geo": [
+      37.1953,
+      -112.9877
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=37.19533%2C-112.987693&z=17"
+  },
+  {
+    "id": "578ce4a9",
+    "cn": "锡安国家公园-天使降临之顶",
+    "name": "Angels Landing",
+    "image": "https://image.xinu.ink/pic/data/467/images/578ce4a9_1716913874697.jpg",
+    "ep": "本篇",
+    "geo": [
+      37.2692,
+      -112.9479
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=37.269264%2C-112.94784&z=17"
+  },
+  {
+    "id": "e9f9a144",
+    "cn": "火焰谷",
+    "name": "Fire Wave",
+    "image": "https://image.xinu.ink/pic/data/467/images/e9f9a144_1716913880543.jpg",
+    "ep": "本篇",
+    "geo": [
+      36.4826,
+      -114.5223
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=36.482655%2C-114.522272&z=17"
+  },
+  {
+    "id": "90e3f8aa",
+    "cn": "火焰谷-Windstone Arch",
+    "name": "Fire Cave/Windstone Arch",
+    "image": "https://image.xinu.ink/pic/data/467/images/90e3f8aa_1716913887379.jpg",
+    "ep": "本篇",
+    "geo": [
+      36.4125,
+      -114.554
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=36.4125%2C-114.553983&z=17"
+  },
+  {
+    "id": "176864e9",
+    "cn": "拉斯维加斯-埃菲尔铁塔",
+    "name": "Eiffel Tower Las Vegas",
+    "image": "https://image.xinu.ink/pic/data/467/images/176864e9_1716913894365.jpg",
+    "ep": "本篇",
+    "geo": [
+      36.1124,
+      -115.1726
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=36.112483%2C-115.17251&z=17"
+  },
+  {
+    "id": "ku11qeto9",
+    "name": "拉斯维加斯-赌场",
+    "image": "https://image.xinu.ink/pic/data/467/images/ku11qeto9_1716918668777.jpg",
+    "ep": "本篇",
+    "geo": [
+      36.1146,
+      -115.1729
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cc8a93eb",
+    "cn": "贝克-世界最高的温度计",
+    "name": "The World's Tallest Thermometer",
+    "image": "https://image.xinu.ink/pic/data/467/images/cc8a93eb_1716913899878.jpg",
+    "ep": "本篇",
+    "geo": [
+      35.2664,
+      -116.0728
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=35.266491%2C-116.072793&z=17"
+  },
+  {
+    "id": "72124431",
+    "cn": "贝克-快餐店",
+    "name": "Fast food restaurant at Baker",
+    "image": "https://image.xinu.ink/pic/data/467/images/72124431_1716913905307.jpg",
+    "ep": "本篇",
+    "geo": [
+      35.2671,
+      -116.0715
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=35.267172%2C-116.071462&z=17"
+  },
+  {
+    "id": "348a8c63",
+    "cn": "棕榈泉-风力发电机",
+    "name": "Palm Springs Windmill Tours",
+    "image": "https://image.xinu.ink/pic/data/467/images/348a8c63_1716913915007.jpg",
+    "ep": "本篇",
+    "geo": [
+      33.9081,
+      -116.568
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=33.908176%2C-116.567931&z=17"
+  },
+  {
+    "id": "2c6a2c76",
+    "cn": "棕榈泉-798 N Palm Canyon Dr",
+    "name": "798 N Palm Canyon Dr",
+    "image": "https://image.xinu.ink/pic/data/467/images/2c6a2c76_1716913580594.jpg",
+    "ep": "本篇",
+    "geo": [
+      33.8337,
+      -116.5466
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=33.833753%2C-116.546552&z=17"
+  },
+  {
+    "id": "7b0995cd",
+    "cn": "科切拉谷音乐艺术节（帝国马球俱乐部）",
+    "name": "Coachella Festival (Empire Polo Club)",
+    "image": "https://image.xinu.ink/pic/data/467/images/7b0995cd_1716913617805.jpg",
+    "ep": "本篇",
+    "geo": [
+      33.6821,
+      -116.2374
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=33.682115%2C-116.237301&z=17"
+  },
+  {
+    "id": "de98942a",
+    "cn": "云霄酒店",
+    "name": "The STRAT Hotel & Casino & Tower",
+    "image": "https://image.xinu.ink/pic/data/467/images/de98942a_1716913680686.jpg",
+    "ep": "NextExit",
+    "geo": [
+      36.1475,
+      -115.1566
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=36.147512%2C-115.156554&z=17"
+  },
+  {
+    "id": "e55ee48c",
+    "name": "Big Shot",
+    "image": "https://image.xinu.ink/pic/data/467/images/e55ee48c_1716913696508.jpg",
+    "ep": "NextExit",
+    "geo": [
+      36.1474,
+      -115.1555
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=36.147423%2C-115.155491&z=17"
+  },
+  {
+    "id": "61044a76",
+    "cn": "云霄酒店观景台",
+    "name": "The STRAT Observation Deck",
+    "image": "https://image.xinu.ink/pic/data/467/images/61044a76_1716913708760.jpg",
+    "ep": "NextExit",
+    "geo": [
+      36.1473,
+      -115.1553
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X71ZwogKfXT6MMDNklCCX16fsZPNky8&ll=36.147375%2C-115.155245&z=17"
+  },
+  {
+    "id": "ku1cqnya4",
+    "cn": "拱门国家公园-小平衡岩原址",
+    "name": "Chip Off The Old Block",
+    "image": "https://image.xinu.ink/pic/data/467/images/ku1cqnya4_1716919360428.jpg",
+    "geo": [
+      38.7008,
+      -109.5647
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  }
+]

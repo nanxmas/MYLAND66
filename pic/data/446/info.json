@@ -1,0 +1,87 @@
+{
+  "id": 148361,
+  "cn": "熊巫女",
+  "title": "くまみこ",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/446/images/148361.jpg",
+  "color": "#e19a25",
+  "cp": "くまみこ",
+  "geo": [
+    38.26328678156838,
+    140.86803305574483
+  ],
+  "zoom": 12.978,
+  "modified": 1717170624462,
+  "litePoints": [
+    {
+      "id": "51i52vy75",
+      "name": "【品川駅 中央改札】",
+      "image": "https://image.anitabi.cn/points/148361/51i52vy75_1672372057260.jpg?plan=h160",
+      "geo": [
+        35.6288,
+        139.7387
+      ]
+    },
+    {
+      "id": "51i52vzae",
+      "name": "【品川セントラルガーデン】",
+      "image": "https://image.anitabi.cn/points/148361/51i52vzae_1672372058630.jpg?plan=h160",
+      "geo": [
+        35.6276,
+        139.7414
+      ]
+    },
+    {
+      "id": "51i52vz6r",
+      "name": "【天王洲ふれあい橋 周辺】",
+      "image": "https://image.anitabi.cn/points/148361/51i52vz6r_1672372059751.jpg?plan=h160",
+      "geo": [
+        35.6237,
+        139.7471
+      ]
+    },
+    {
+      "id": "51i52vwqq",
+      "name": "仙台駅西口",
+      "geo": [
+        38.2609,
+        140.8817
+      ]
+    },
+    {
+      "id": "51i52vwkx",
+      "name": "仙台パルコ",
+      "geo": [
+        38.2617,
+        140.8818
+      ]
+    },
+    {
+      "id": "51i52vwx3",
+      "name": "仙台ロフト（撮影地点）",
+      "geo": [
+        38.2601,
+        140.8816
+      ]
+    },
+    {
+      "id": "51i52vwwy",
+      "name": "勾当台公園",
+      "geo": [
+        38.2675,
+        140.8719
+      ]
+    },
+    {
+      "id": "51i52vx25",
+      "name": "藤崎本館",
+      "geo": [
+        38.2599,
+        140.8728
+      ]
+    }
+  ],
+  "pointsLength": 8,
+  "imagesLength": 3,
+  "local_id": 446
+}

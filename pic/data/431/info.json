@@ -1,0 +1,31 @@
+{
+  "id": 141013,
+  "cn": "剧场版 艾克斯奥特曼 来了！我们的奥特曼",
+  "title": "劇場版 ウルトラマンX きたぞ!われらのウルトラマン",
+  "cover": "https://image.xinu.ink/pic/data/431/images/141013_4cBO4.jpg",
+  "modified": 1735320512271,
+  "litePoints": [
+    {
+      "id": "r94yarpwn",
+      "name": "外滩",
+      "image": "https://image.anitabi.cn/user/0/bangumi/141013/points/r94yarpwn-1735029279915.jpg?plan=h160",
+      "geo": [
+        31.2386,
+        121.4863
+      ]
+    },
+    {
+      "id": "r9cfoafj4",
+      "cn": "胡夫金字塔",
+      "name": "هرم خوفو",
+      "image": "https://image.anitabi.cn/user/0/bangumi/141013/points/r9cfoafj4-1735045563375.jpg?plan=h160",
+      "geo": [
+        29.9791,
+        31.1342
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 431
+}

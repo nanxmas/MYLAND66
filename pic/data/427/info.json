@@ -1,0 +1,45 @@
+{
+  "id": 137941,
+  "cn": "艾克斯奥特曼",
+  "title": "ウルトラマンX",
+  "cover": "https://image.xinu.ink/pic/data/427/images/137941_7w9Wz.jpg",
+  "modified": 1735371094771,
+  "litePoints": [
+    {
+      "id": "r9c1ktleb",
+      "cn": "凯旋门",
+      "name": "L'Arc de Triomphe",
+      "image": "https://image.anitabi.cn/user/0/bangumi/137941/points/r9c1ktleb-1735044786108.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        48.8738,
+        2.2948
+      ]
+    },
+    {
+      "id": "r9c6uktsl",
+      "cn": "克里姆林宫",
+      "name": "Патриаршие палаты",
+      "image": "https://image.anitabi.cn/user/0/bangumi/137941/points/r9c6uktsl-1735045056861.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        55.7513,
+        37.6172
+      ]
+    },
+    {
+      "id": "r9erqphw6",
+      "cn": "海滨湾金沙酒店",
+      "name": "Marina Bay Sands",
+      "image": "https://image.anitabi.cn/user/0/bangumi/137941/points/r9erqphw6-1735050677044.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        1.2887,
+        103.8601
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 427
+}

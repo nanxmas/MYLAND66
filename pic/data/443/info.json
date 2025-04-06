@@ -1,0 +1,130 @@
+{
+  "id": 147068,
+  "cn": "3月的狮子",
+  "title": "3月のライオン",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/443/images/147068.jpg",
+  "color": "#b1e6f8",
+  "cp": "3月のライオンアニメ",
+  "geo": [
+    35.671626,
+    139.784439
+  ],
+  "modified": 1740940056583,
+  "litePoints": [
+    {
+      "id": "kpx6ohrmo",
+      "name": "鴨川沿い２",
+      "image": "https://image.anitabi.cn/user/0/bangumi/147068/points/kpx6ohrmo-1735800176228.jpg?plan=h160",
+      "ep": 31,
+      "s": 1296,
+      "geo": [
+        35.0061,
+        135.772
+      ]
+    },
+    {
+      "id": "k5rxmzj5p",
+      "cn": "中央大桥",
+      "name": "中央大橋",
+      "image": "https://image.anitabi.cn/points/147068/k5rxmzj5p_1730995822668.jpg?plan=h160",
+      "ep": 6,
+      "s": 433,
+      "geo": [
+        35.6712,
+        139.7854
+      ]
+    },
+    {
+      "id": "pfbedt4wc",
+      "cn": "鸠森八幡神社前",
+      "name": "鸠森八幡神社前",
+      "image": "https://image.anitabi.cn/points/147068/pfbedt4wc_1729871282477.jpg?plan=h160",
+      "ep": 2,
+      "s": 364,
+      "geo": [
+        35.6784,
+        139.7096
+      ]
+    },
+    {
+      "id": "pfbl020x3",
+      "cn": "鳩森八幡神社内",
+      "name": "鳩森八幡神社前",
+      "image": "https://image.anitabi.cn/points/147068/pfbl020x3_1729871665584.jpg?plan=h160",
+      "ep": 2,
+      "s": 374,
+      "geo": [
+        35.6777,
+        139.7094
+      ]
+    },
+    {
+      "id": "pfbopvwvr",
+      "cn": "将棋会馆",
+      "name": "将棋会館",
+      "image": "https://image.anitabi.cn/points/147068/pfbopvwvr_1729871888788.jpg?plan=h160",
+      "ep": 2,
+      "s": 431,
+      "geo": [
+        35.6772,
+        139.7094
+      ]
+    },
+    {
+      "id": "sd529q34o",
+      "cn": "东京站",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/147068/sd529q34o_1738164072582.jpg?plan=h160",
+      "ep": 19,
+      "s": 812,
+      "geo": [
+        35.6807,
+        139.7676
+      ]
+    },
+    {
+      "id": "sd5cpgtfw",
+      "name": "三条大桥",
+      "image": "https://image.anitabi.cn/points/147068/sd5cpgtfw_1738164701173.jpg?plan=h160",
+      "ep": 19,
+      "geo": [
+        35.009,
+        135.7717
+      ]
+    },
+    {
+      "id": "sd5rnfuhc",
+      "name": "銀閣寺",
+      "image": "https://image.anitabi.cn/points/147068/sd5rnfuhc_1738165604296.jpg?plan=h160",
+      "ep": 19,
+      "geo": [
+        35.0267,
+        135.7982
+      ]
+    },
+    {
+      "id": "sd5wmb0nz",
+      "name": "京都関電ビル",
+      "image": "https://image.anitabi.cn/points/147068/sd5wmb0nz_1738165919583.jpg?plan=h160",
+      "ep": 19,
+      "geo": [
+        34.9872,
+        135.7574
+      ]
+    },
+    {
+      "id": "sd5zs2n9l",
+      "name": "六角堂",
+      "image": "https://image.anitabi.cn/points/147068/sd5zs2n9l_1738166105235.jpg?plan=h160",
+      "ep": 19,
+      "geo": [
+        35.0076,
+        135.7602
+      ]
+    }
+  ],
+  "pointsLength": 42,
+  "imagesLength": 37,
+  "local_id": 443
+}

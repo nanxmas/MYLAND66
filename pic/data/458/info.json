@@ -1,0 +1,132 @@
+{
+  "id": 165553,
+  "cn": "LoveLive! Sunshine!!",
+  "title": "ラブライブ! サンシャイン!!",
+  "city": "沼津市",
+  "cover": "https://image.xinu.ink/pic/data/458/images/165553.jpg",
+  "color": "#00a2e8",
+  "cp": "プロジェクトラブライブ! サンシ…",
+  "geo": [
+    35.097636129756495,
+    138.9159960121201
+  ],
+  "zoom": 9.241,
+  "modified": 1736760128563,
+  "litePoints": [
+    {
+      "id": "kog35rnei",
+      "cn": "淡岛码头",
+      "name": "淡島船乗り場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/165553/points/kog35rnei-1716481217772.jpg?plan=h160",
+      "ep": 1,
+      "s": 627,
+      "geo": [
+        35.0342,
+        138.8905
+      ]
+    },
+    {
+      "id": "kpkpcc4bq",
+      "name": "伊豆長岡駅",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/165553/points/kpkpcc4bq-1716569622347.jpg?plan=h160",
+      "ep": 6,
+      "s": 571,
+      "geo": [
+        35.0397,
+        138.9472
+      ]
+    },
+    {
+      "id": "kpksyfo5h",
+      "name": "松月店内",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/165553/points/kpksyfo5h-1716569844025.jpg?plan=h160",
+      "ep": 6,
+      "s": 627,
+      "geo": [
+        35.0222,
+        138.8979
+      ]
+    },
+    {
+      "id": "kpoufr3sr",
+      "name": "男坂",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/165553/points/kpoufr3sr-1716578640930.jpg?plan=h160",
+      "ep": 7,
+      "s": 714,
+      "geo": [
+        35.7013,
+        139.7683
+      ]
+    },
+    {
+      "id": "kpprsbydw",
+      "name": "淡島神社",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/165553/points/kpprsbydw-1716580668216.jpg?plan=h160",
+      "ep": 9,
+      "s": 246,
+      "geo": [
+        35.033,
+        138.8877
+      ]
+    },
+    {
+      "id": "krc7p059x",
+      "name": "弁天島神社鳥居",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/165553/points/krc7p059x-1716707860647.jpg?plan=h160",
+      "ep": 9,
+      "s": 425,
+      "geo": [
+        35.0195,
+        138.8855
+      ]
+    },
+    {
+      "id": "krca8zqv6",
+      "name": "弁天島神社",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/165553/points/krca8zqv6-1716708017424.jpg?plan=h160",
+      "ep": 9,
+      "s": 433,
+      "geo": [
+        35.0198,
+        138.8856
+      ]
+    },
+    {
+      "id": "krc0e8ihl",
+      "cn": "从辩天岛神社下来的奇卡她们",
+      "name": "弁天島神社から降りてきた千歌たち",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/165553/points/krc0e8ihl-1716707416238.jpg?plan=h160",
+      "ep": 9,
+      "s": 537,
+      "geo": [
+        35.0195,
+        138.885
+      ]
+    },
+    {
+      "id": "kpqtp6igz",
+      "name": "唯念名号碑",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/165553/points/kpqtp6igz-1716582936383.jpg?plan=h160",
+      "ep": 9,
+      "s": 984,
+      "geo": [
+        35.0168,
+        138.8916
+      ]
+    },
+    {
+      "id": "krc8mijnf",
+      "name": "弁天島神社参道",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/165553/points/krc8mijnf-1716707916706.jpg?plan=h160",
+      "ep": 9,
+      "s": 445,
+      "geo": [
+        35.0197,
+        138.8855
+      ]
+    }
+  ],
+  "pointsLength": 126,
+  "imagesLength": 126,
+  "local_id": 458
+}

@@ -1,0 +1,119 @@
+{
+  "id": 176518,
+  "cn": "星之梦",
+  "title": "planetarian～ちいさなほしのゆめ～",
+  "city": "滨松市",
+  "cover": "https://image.xinu.ink/pic/data/474/images/176518.jpg",
+  "color": "#152040",
+  "geo": [
+    34.721833676011116,
+    137.732789985105
+  ],
+  "zoom": 12.553,
+  "modified": 1726753583248,
+  "litePoints": [
+    {
+      "id": "98d68656",
+      "name": "第1話　逃げている道中1",
+      "image": "https://image.anitabi.cn/points/176518/98d68656_1726752109662.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.7057,
+        137.7349
+      ]
+    },
+    {
+      "id": "d088c50d",
+      "name": "第1話　逃げている道中2",
+      "image": "https://image.anitabi.cn/points/176518/d088c50d_1726752122594.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.705,
+        137.734
+      ]
+    },
+    {
+      "id": "73cef6ef",
+      "name": "第1話　逃げている道中3",
+      "image": "https://image.anitabi.cn/points/176518/73cef6ef_1726752144131.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.7055,
+        137.7322
+      ]
+    },
+    {
+      "id": "904cf87c",
+      "name": "第3話　花菱デパート",
+      "image": "https://image.anitabi.cn/points/176518/904cf87c_1726752161928.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        34.7055,
+        137.7292
+      ]
+    },
+    {
+      "id": "f94a4981",
+      "name": "第4話　車へ向かう道中1",
+      "image": "https://image.anitabi.cn/points/176518/f94a4981_1726752172040.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        34.7076,
+        137.7298
+      ]
+    },
+    {
+      "id": "59ecc911",
+      "name": "第4話　車へ向かう道中2",
+      "image": "https://image.anitabi.cn/points/176518/59ecc911_1726752197692.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        34.708,
+        137.7296
+      ]
+    },
+    {
+      "id": "12f36c7c",
+      "name": "第4話　車へ向かう道中3",
+      "image": "https://image.anitabi.cn/points/176518/12f36c7c_1726752204865.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        34.708,
+        137.7324
+      ]
+    },
+    {
+      "id": "f34e819f",
+      "name": "第2話　世界が滅びる前",
+      "image": "https://image.anitabi.cn/points/176518/f34e819f_1726752220894.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        34.7082,
+        137.7324
+      ]
+    },
+    {
+      "id": "0071d6b9",
+      "name": "第4話　車へ向かう道中4",
+      "image": "https://image.anitabi.cn/points/176518/0071d6b9_1726752236958.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        34.7098,
+        137.7331
+      ]
+    },
+    {
+      "id": "cad2c39e",
+      "name": "第4話　車へ向かう道中5",
+      "image": "https://image.anitabi.cn/points/176518/cad2c39e_1726752241761.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        34.7238,
+        137.739
+      ]
+    }
+  ],
+  "pointsLength": 10,
+  "imagesLength": 10,
+  "local_id": 474
+}

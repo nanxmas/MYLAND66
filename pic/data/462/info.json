@@ -1,0 +1,32 @@
+{
+  "id": 167655,
+  "cn": "幼女战记",
+  "title": "幼女戦記",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/462/images/167655.jpg",
+  "color": "#496e60",
+  "cp": "幼女戦記",
+  "geo": [
+    35.68138297500175,
+    139.76609087294855
+  ],
+  "zoom": 15.902,
+  "modified": 1719518537496,
+  "litePoints": [
+    {
+      "id": "575zco54r",
+      "cn": "东京",
+      "name": "東京",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/167655/points/575zco54r-1672810556273.jpg?plan=h160",
+      "ep": 2,
+      "s": 346,
+      "geo": [
+        35.6813,
+        139.766
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 462
+}

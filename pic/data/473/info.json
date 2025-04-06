@@ -1,0 +1,130 @@
+{
+  "id": 176478,
+  "cn": "动物朋友",
+  "title": "けものフレンズ",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/473/images/176478.jpg",
+  "color": "#e3aa71",
+  "cp": "けものフレンズプロジェクトA",
+  "geo": [
+    35.76303255817645,
+    139.67611946054274
+  ],
+  "zoom": 8.16,
+  "modified": 1736253348785,
+  "litePoints": [
+    {
+      "id": "51i53qvse",
+      "name": "多摩動物公園 サーバルキャット舎",
+      "image": "https://image.anitabi.cn/user/0/bangumi/176478/points/51i53qvse-1673608607240.jpg?plan=h160",
+      "ep": 1,
+      "s": 574,
+      "geo": [
+        35.6527,
+        139.4033
+      ]
+    },
+    {
+      "id": "51i53qwfw",
+      "name": "天王寺動物園 ジャガー舎",
+      "image": "https://image.anitabi.cn/user/0/bangumi/176478/points/51i53qwfw-1673608704156.jpg?plan=h160",
+      "ep": 2,
+      "s": 1412,
+      "geo": [
+        34.6536,
+        135.5087
+      ]
+    },
+    {
+      "id": "51i53qwd1",
+      "name": "東武動物公園 小動物舎（コツメカワウソ）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/176478/points/51i53qwd1-1673608732456.jpg?plan=h160",
+      "ep": 2,
+      "s": 755,
+      "geo": [
+        36.0227,
+        139.7101
+      ]
+    },
+    {
+      "id": "51i53qxp3",
+      "name": "佐渡市トキの森公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/176478/points/51i53qxp3-1673608775621.jpg?plan=h160",
+      "ep": 3,
+      "s": 636,
+      "geo": [
+        38.0371,
+        138.421
+      ]
+    },
+    {
+      "id": "51i53qygl",
+      "name": "那須アルパカ牧場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/176478/points/51i53qygl-1673608814410.jpg?plan=h160",
+      "ep": 3,
+      "s": 657,
+      "geo": [
+        37.1262,
+        140.0473
+      ]
+    },
+    {
+      "id": "51i53qy96",
+      "name": "東武動物公園 アメリカビーバー舎",
+      "image": "https://image.anitabi.cn/user/0/bangumi/176478/points/51i53qy96-1673608869358.jpg?plan=h160",
+      "ep": 5,
+      "s": 585,
+      "geo": [
+        36.0227,
+        139.7083
+      ]
+    },
+    {
+      "id": "51i53qyco",
+      "name": "江戸川区自然動物園 オグロプレーリードッグ舎",
+      "image": "https://image.anitabi.cn/user/0/bangumi/176478/points/51i53qyco-1673608876304.jpg?plan=h160",
+      "ep": 5,
+      "s": 624,
+      "geo": [
+        35.6709,
+        139.8584
+      ]
+    },
+    {
+      "id": "51i53qzzo",
+      "name": "東武動物公園 ライオン舎",
+      "image": "https://image.anitabi.cn/user/0/bangumi/176478/points/51i53qzzo-1673608925410.jpg?plan=h160",
+      "ep": 6,
+      "s": 765,
+      "geo": [
+        36.0225,
+        139.7096
+      ]
+    },
+    {
+      "id": "51i53qzmn",
+      "name": "夢見ヶ崎動物公園 ラマ舎（旧ヘラジカ舎）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/176478/points/51i53qzmn-1673608934268.jpg?plan=h160",
+      "ep": 6,
+      "s": 804,
+      "geo": [
+        35.5498,
+        139.6647
+      ]
+    },
+    {
+      "id": "51i53qzo7",
+      "name": "東武動物公園 シロフクロウ舎",
+      "image": "https://image.anitabi.cn/user/0/bangumi/176478/points/51i53qzo7-1673611215034.jpg?plan=h160",
+      "ep": 7,
+      "s": 608,
+      "geo": [
+        36.0233,
+        139.7061
+      ]
+    }
+  ],
+  "pointsLength": 27,
+  "imagesLength": 15,
+  "local_id": 473
+}

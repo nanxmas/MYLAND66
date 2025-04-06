@@ -1,0 +1,110 @@
+{
+  "id": 149993,
+  "cn": "少女们向荒野进发",
+  "title": "少女たちは荒野を目指す",
+  "city": "逗子市",
+  "cover": "https://image.xinu.ink/pic/data/447/images/149993.jpg",
+  "color": "#1c558e",
+  "cp": "しょこめざ",
+  "geo": [
+    35.32783127898894,
+    139.6363505884184
+  ],
+  "zoom": 12.765,
+  "modified": 1724828601377,
+  "litePoints": [
+    {
+      "id": "4a26d4bc",
+      "name": "八景島駅",
+      "image": "https://image.anitabi.cn/points/149993/4a26d4bc_1724388324356.jpg?plan=h160",
+      "geo": [
+        35.3408,
+        139.6407
+      ]
+    },
+    {
+      "id": "d0bda1d6",
+      "name": "八景島駅歩道橋",
+      "image": "https://image.anitabi.cn/points/149993/d0bda1d6_1724388594438.jpg?plan=h160",
+      "geo": [
+        35.3414,
+        139.6411
+      ]
+    },
+    {
+      "id": "6d4dcea4",
+      "name": "シー パラダイス入口",
+      "image": "https://image.anitabi.cn/points/149993/nhcl1baug_1724388349001.jpg?plan=h160",
+      "geo": [
+        35.3391,
+        139.6419
+      ]
+    },
+    {
+      "id": "cb88ad64",
+      "name": "メリーゴーランド",
+      "image": "https://image.anitabi.cn/points/149993/cb88ad64_1724388476620.jpg?plan=h160",
+      "geo": [
+        35.3376,
+        139.6432
+      ]
+    },
+    {
+      "id": "5f16a7b3",
+      "name": "リトル ダーリン",
+      "image": "https://image.anitabi.cn/points/149993/5f16a7b3_1724388486430.jpg?plan=h160",
+      "geo": [
+        35.3364,
+        139.6455
+      ]
+    },
+    {
+      "id": "454b50f9",
+      "name": "ブルー フォール",
+      "image": "https://image.anitabi.cn/points/149993/454b50f9_1724388509203.jpg?plan=h160",
+      "geo": [
+        35.3384,
+        139.6457
+      ]
+    },
+    {
+      "id": "8ddc43f6",
+      "name": "アクア ミュージアム前",
+      "image": "https://image.anitabi.cn/points/149993/8ddc43f6_1724388542198.jpg?plan=h160",
+      "geo": [
+        35.3372,
+        139.6468
+      ]
+    },
+    {
+      "id": "eb8f1060",
+      "name": "金沢文庫駅",
+      "image": "https://image.anitabi.cn/points/149993/eb8f1060_1724388625605.jpg?plan=h160",
+      "geo": [
+        35.343,
+        139.6216
+      ]
+    },
+    {
+      "id": "80ff7275",
+      "name": "すずらん通り入口",
+      "image": "https://image.anitabi.cn/points/149993/80ff7275_1724388629710.jpg?plan=h160",
+      "geo": [
+        35.3432,
+        139.6221
+      ]
+    },
+    {
+      "id": "0f634b43",
+      "name": "金沢八景駅",
+      "image": "https://image.anitabi.cn/points/149993/0f634b43_1724388632785.jpg?plan=h160",
+      "geo": [
+        35.331,
+        139.6201
+      ]
+    }
+  ],
+  "pointsLength": 34,
+  "imagesLength": 32,
+  "local_id": 447
+}

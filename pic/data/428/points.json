@@ -1,0 +1,54 @@
+[
+  {
+    "id": "51i52minr",
+    "cn": "箱根小涌园",
+    "name": "箱根小涌園ユネッサン",
+    "image": "https://image.xinu.ink/pic/data/428/images/51i52minr-1734340497756.jpg",
+    "ep": "7",
+    "s": "0：47",
+    "geo": [
+      35.2393,
+      139.0454
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.k1q5CZsYcy4k&ll=35.239371%2C139.04542&z=17"
+  },
+  {
+    "id": "51i52mmfs",
+    "cn": "箱根神社 神门",
+    "name": "箱根神社 神門",
+    "image": "https://image.xinu.ink/pic/data/428/images/51i52mmfs-1721983638175.jpg",
+    "ep": 13,
+    "s": 12,
+    "geo": [
+      35.2046,
+      139.0253
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.k1q5CZsYcy4k&ll=35.204603%2C139.025366&z=17"
+  },
+  {
+    "id": "51i52mivm",
+    "name": "湯本橋",
+    "image": "https://image.xinu.ink/pic/data/428/images/51i52mivm-1731939535208.jpg",
+    "ep": null,
+    "geo": [
+      35.2313,
+      139.1003
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.k1q5CZsYcy4k&ll=35.231355%2C139.100389&z=17"
+  },
+  {
+    "id": "51i52mjx6",
+    "name": "大涌谷黒たまご舘",
+    "image": "https://image.xinu.ink/pic/data/428/images/51i52mjx6-1732023296227.jpg",
+    "ep": null,
+    "geo": [
+      35.2435,
+      139.0195
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.k1q5CZsYcy4k&ll=35.243599%2C139.01952&z=17"
+  }
+]

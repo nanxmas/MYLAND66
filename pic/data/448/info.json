@@ -1,0 +1,129 @@
+{
+  "id": 150775,
+  "title": "NEW GAME!",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/448/images/150775.jpg",
+  "color": "#b2aacf",
+  "cp": "NEW GAME!",
+  "geo": [
+    35.632697220410705,
+    139.7269696356957
+  ],
+  "zoom": 8.975,
+  "modified": 1726751573218,
+  "litePoints": [
+    {
+      "id": "51i52ygdj",
+      "name": "阿佐ヶ谷駅",
+      "image": "https://image.anitabi.cn/points/150775/51i52ygdj_1672370785813.jpg?plan=h160",
+      "ep": 29,
+      "s": 166,
+      "geo": [
+        35.7048,
+        139.636
+      ]
+    },
+    {
+      "id": "51i52ygri",
+      "name": "阿佐ヶ谷駅（第2期）",
+      "image": "https://image.anitabi.cn/points/150775/51i52ygri_1672370786952.jpg?plan=h160",
+      "ep": 1,
+      "s": 11,
+      "geo": [
+        35.7049,
+        139.6361
+      ]
+    },
+    {
+      "id": "51i52ygf3",
+      "name": "阿佐ヶ谷駅南口",
+      "image": "https://image.anitabi.cn/points/150775/51i52ygf3_1672370787663.jpg?plan=h160",
+      "ep": 3,
+      "s": 245,
+      "geo": [
+        35.7046,
+        139.6362
+      ]
+    },
+    {
+      "id": "51i52yh1o",
+      "name": "阿佐ヶ谷駅南口（第2期）",
+      "image": "https://image.anitabi.cn/points/150775/51i52yh1o_1672370789112.jpg?plan=h160",
+      "ep": 1,
+      "s": 12,
+      "geo": [
+        35.7046,
+        139.6363
+      ]
+    },
+    {
+      "id": "51i52ygmn",
+      "name": "築地日本海阿佐ヶ谷店",
+      "image": "https://image.anitabi.cn/points/150775/51i52ygmn_1672370789537.jpg?plan=h160",
+      "ep": 2,
+      "s": 839,
+      "geo": [
+        35.7037,
+        139.6369
+      ]
+    },
+    {
+      "id": "51i52ygiv",
+      "name": "プラウド阿佐ヶ谷",
+      "image": "https://image.anitabi.cn/points/150775/51i52ygiv_1672370790243.jpg?plan=h160",
+      "ep": 3,
+      "s": 248,
+      "geo": [
+        35.7038,
+        139.6364
+      ]
+    },
+    {
+      "id": "51i52ygkv",
+      "name": "細田工務店本社ビル",
+      "image": "https://image.anitabi.cn/points/150775/51i52ygkv_1672370791265.jpg?plan=h160",
+      "ep": 3,
+      "s": 251,
+      "geo": [
+        35.7032,
+        139.6363
+      ]
+    },
+    {
+      "id": "51i52yh0z",
+      "name": "市川龍清堂薬舗",
+      "image": "https://image.anitabi.cn/points/150775/51i52yh0z_1672370792405.jpg?plan=h160",
+      "ep": 3,
+      "s": 253,
+      "geo": [
+        35.7026,
+        139.6361
+      ]
+    },
+    {
+      "id": "51i52ygxr",
+      "name": "ファミリーマート阿佐谷南三丁目店",
+      "image": "https://image.anitabi.cn/points/150775/51i52ygxr_1672370793336.jpg?plan=h160",
+      "ep": 4,
+      "s": 212,
+      "geo": [
+        35.7025,
+        139.6361
+      ]
+    },
+    {
+      "id": "51i52ygc3",
+      "name": "串カツ田中阿佐ヶ谷店",
+      "image": "https://image.anitabi.cn/points/150775/51i52ygc3_1672370794382.jpg?plan=h160",
+      "ep": 3,
+      "s": 244,
+      "geo": [
+        35.7023,
+        139.6361
+      ]
+    }
+  ],
+  "pointsLength": 48,
+  "imagesLength": 47,
+  "local_id": 448
+}

@@ -1,0 +1,356 @@
+[
+  {
+    "id": "v4swh2",
+    "name": "苫小牧市立美園小学校",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swh2.jpg",
+    "ep": 1,
+    "s": 101,
+    "geo": [
+      42.663,
+      141.6144
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.663097%2C141.614494&z=17"
+  },
+  {
+    "id": "v4swfm",
+    "cn": "绿丘公园展望台",
+    "name": "緑ケ丘公園展望台",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swfm.jpg",
+    "ep": 11,
+    "s": 212,
+    "geo": [
+      42.6532,
+      141.602
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.653227%2C141.602022&z=17"
+  },
+  {
+    "id": "v4swgk",
+    "name": "清水歩道橋",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swgk.jpg",
+    "ep": 7,
+    "s": 886,
+    "geo": [
+      42.6487,
+      141.599
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.648769%2C141.599087&z=17"
+  },
+  {
+    "id": "v4swga",
+    "name": "苫小牧駅南口",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swga.jpg",
+    "ep": 4,
+    "s": 874,
+    "geo": [
+      42.6393,
+      141.5975
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.639393%2C141.597574&z=17"
+  },
+  {
+    "id": "v4swfs",
+    "name": "苫小牧駅前通商店街（王子町1-6交差点）",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swfs.jpg",
+    "ep": 12,
+    "s": 1086,
+    "geo": [
+      42.6362,
+      141.5982
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.63626%2C141.59824&z=17"
+  },
+  {
+    "id": "v4swgw",
+    "name": "セレクトショップ＆カフェRegent",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swgw.jpg",
+    "ep": 4,
+    "s": 764,
+    "geo": [
+      42.6362,
+      141.5989
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.636238%2C141.598993&z=17"
+  },
+  {
+    "id": "v4swho",
+    "name": "福士商店",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swho.jpg",
+    "ep": 4,
+    "s": 867,
+    "geo": [
+      42.6325,
+      141.5978
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.632538%2C141.597832&z=17"
+  },
+  {
+    "id": "v4swf4",
+    "name": "新一條通り飲食店街",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swf4.jpg",
+    "ep": 4,
+    "s": 891,
+    "geo": [
+      42.6319,
+      141.5983
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.631983%2C141.59836&z=17"
+  },
+  {
+    "id": "v4swfo",
+    "name": "大町一条通り（？）",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swfo.jpg",
+    "ep": 12,
+    "s": 790,
+    "geo": [
+      42.6312,
+      141.5958
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.631281%2C141.59582&z=17"
+  },
+  {
+    "id": "v4swf2",
+    "name": "苫小牧警察署",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swf2.jpg",
+    "ep": 5,
+    "s": 355,
+    "geo": [
+      42.6342,
+      141.6033
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.63429%2C141.603373&z=17"
+  },
+  {
+    "id": "v4swfp",
+    "name": "苫小牧市科学センター",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swfp.jpg",
+    "ep": 7,
+    "s": 492,
+    "geo": [
+      42.6318,
+      141.6046
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.631869%2C141.604693&z=17"
+  },
+  {
+    "id": "v4swg5",
+    "name": "蒸気機関車「C-11-133号」",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swg5.jpg",
+    "ep": 6,
+    "s": 1311,
+    "geo": [
+      42.6319,
+      141.6052
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.631978%2C141.605256&z=17"
+  },
+  {
+    "id": "v4swfy",
+    "name": "旭町一号歩行者道",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swfy.jpg",
+    "ep": 7,
+    "s": 253,
+    "geo": [
+      42.6316,
+      141.6046
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.631636%2C141.604666&z=17"
+  },
+  {
+    "id": "v4swg2",
+    "name": "白鳥王子アイスアリーナ",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swg2.jpg",
+    "ep": 10,
+    "s": 593,
+    "geo": [
+      42.6391,
+      141.6063
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.639113%2C141.606367&z=17"
+  },
+  {
+    "id": "v4swgy",
+    "cn": "苫小牧市美术博物馆",
+    "name": "苫小牧市美術博物館",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swgy.jpg",
+    "ep": 7,
+    "s": 84,
+    "geo": [
+      42.6373,
+      141.6128
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.637329%2C141.612825&z=17"
+  },
+  {
+    "id": "v4swgi",
+    "name": "王子製紙苫小牧工場西側",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swgi.jpg",
+    "ep": 2,
+    "s": 269,
+    "geo": [
+      42.6313,
+      141.5826
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.631346%2C141.582661&z=17"
+  },
+  {
+    "id": "v4swf9",
+    "name": "大成橋",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swf9.jpg",
+    "ep": 2,
+    "s": 1054,
+    "geo": [
+      42.6246,
+      141.5679
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.624668%2C141.567925&z=17"
+  },
+  {
+    "id": "v4swgq",
+    "name": "苫小牧川河川敷（その１）",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swgq.jpg",
+    "ep": 2,
+    "s": 575,
+    "geo": [
+      42.6259,
+      141.5666
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.625947%2C141.56667&z=17"
+  },
+  {
+    "id": "v4swhi",
+    "name": "苫小牧川河川敷（その２）",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swhi.jpg",
+    "ep": 2,
+    "s": 639,
+    "geo": [
+      42.628,
+      141.565
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.628011%2C141.565018&z=17"
+  },
+  {
+    "id": "v4swh3",
+    "name": "苫小牧川河川敷（その３）",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swh3.jpg",
+    "ep": 2,
+    "s": 654,
+    "geo": [
+      42.6251,
+      141.5672
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.625186%2C141.567224&z=17"
+  },
+  {
+    "id": "v4swgh",
+    "name": "苫小牧川河川敷（その４？）",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swgh.jpg",
+    "ep": 2,
+    "s": 668,
+    "geo": [
+      42.6259,
+      141.5673
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.625982%2C141.567346&z=17"
+  },
+  {
+    "id": "v4swhl",
+    "name": "啓北橋（？）",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swhl.jpg",
+    "ep": 5,
+    "s": 406,
+    "geo": [
+      42.6312,
+      141.562
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.631228%2C141.5621&z=17"
+  },
+  {
+    "id": "v4swhr",
+    "name": "公営住宅（平屋型）",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swhr.jpg",
+    "ep": 3,
+    "s": 661,
+    "geo": [
+      42.6281,
+      141.5633
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.628118%2C141.563301&z=17"
+  },
+  {
+    "id": "v4swfd",
+    "name": "光洋町の室蘭線沿いの道（？）",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swfd.jpg",
+    "ep": 9,
+    "s": 1235,
+    "geo": [
+      42.6266,
+      141.5587
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.62661%2C141.558709&z=17"
+  },
+  {
+    "id": "hrcubcdxd",
+    "cn": "桥洞",
+    "name": "桥洞",
+    "image": "https://image.xinu.ink/pic/data/426/images/hrcubcdxd-1724300926942.jpg",
+    "ep": 12,
+    "s": 1336,
+    "geo": [
+      35.6934,
+      139.9795
+    ],
+    "origin": "Anitabi@桥梁蜗居",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p50li1jf6",
+    "cn": "饭田桥站",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/426/images/p50li1jf6_1729064113810.jpg",
+    "ep": 1,
+    "s": 15,
+    "geo": [
+      35.7019,
+      139.7452
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v4swhq",
+    "name": "苫小牧川河川敷（東屋）",
+    "image": "https://image.xinu.ink/pic/data/426/images/v4swhq.jpg",
+    "ep": 10,
+    "geo": [
+      42.6258,
+      141.5665
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.625824%2C141.566592&z=17"
+  }
+]

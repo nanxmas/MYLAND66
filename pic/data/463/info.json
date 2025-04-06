@@ -1,0 +1,130 @@
+{
+  "id": 168417,
+  "cn": "乌冬面之国的金色毛毬",
+  "title": "うどんの国の金色毛鞠",
+  "city": "高松市",
+  "cover": "https://image.xinu.ink/pic/data/463/images/168417.jpg",
+  "color": "#d4bf80",
+  "cp": "うどんの国の金色毛鞠",
+  "geo": [
+    34.357766518782356,
+    134.07787716819337
+  ],
+  "zoom": 9.844,
+  "modified": 1728452186102,
+  "litePoints": [
+    {
+      "id": "51i53hko1",
+      "name": "高松港 赤灯台",
+      "image": "https://image.anitabi.cn/points/168417/51i53hko1_1673491807273.jpg?plan=h160",
+      "ep": 3,
+      "s": 333,
+      "geo": [
+        34.3608,
+        134.0512
+      ]
+    },
+    {
+      "id": "51i53hku9",
+      "name": "丸亀町商店街",
+      "image": "https://image.anitabi.cn/points/168417/51i53hku9_1673492212306.jpg?plan=h160",
+      "ep": 6,
+      "s": 71,
+      "geo": [
+        34.3417,
+        134.0495
+      ]
+    },
+    {
+      "id": "51i53hkll",
+      "name": "三びきの子ぶた",
+      "image": "https://image.anitabi.cn/points/168417/51i53hkll_1673492281307.jpg?plan=h160",
+      "ep": 2,
+      "s": 866,
+      "geo": [
+        34.3386,
+        134.0516
+      ]
+    },
+    {
+      "id": "51i53hl88",
+      "name": "栗林公園",
+      "image": "https://image.anitabi.cn/points/168417/51i53hl88_1673492402038.jpg?plan=h160",
+      "ep": 5,
+      "s": 75,
+      "geo": [
+        34.3292,
+        134.0436
+      ]
+    },
+    {
+      "id": "51i53hkmv",
+      "name": "ことでん林道駅",
+      "image": "https://image.anitabi.cn/points/168417/51i53hkmv_1673493020163.jpg?plan=h160",
+      "ep": 2,
+      "s": 483,
+      "geo": [
+        34.3235,
+        134.0729
+      ]
+    },
+    {
+      "id": "51i53hldn",
+      "name": "詰田川沿い",
+      "image": "https://image.anitabi.cn/points/168417/51i53hldn_1673493138073.jpg?plan=h160",
+      "ep": 1,
+      "s": 984,
+      "geo": [
+        34.3277,
+        134.0739
+      ]
+    },
+    {
+      "id": "51i53hlwa",
+      "name": "高徳線踏切",
+      "image": "https://image.anitabi.cn/points/168417/51i53hlwa_1673492887324.jpg?plan=h160",
+      "ep": 1,
+      "s": 1112,
+      "geo": [
+        34.3315,
+        134.0741
+      ]
+    },
+    {
+      "id": "51i53hlpw",
+      "name": "新宮川橋",
+      "image": "https://image.anitabi.cn/points/168417/51i53hlpw_1673493230293.jpg?plan=h160",
+      "ep": 1,
+      "s": 208,
+      "geo": [
+        34.3154,
+        134.0701
+      ]
+    },
+    {
+      "id": "51i53hlmi",
+      "name": "大園",
+      "image": "https://image.anitabi.cn/points/168417/51i53hlmi_1673493576087.jpg?plan=h160",
+      "ep": 1,
+      "s": 187,
+      "geo": [
+        34.3239,
+        134.0571
+      ]
+    },
+    {
+      "id": "51i53hldf",
+      "name": "大池",
+      "image": "https://image.anitabi.cn/points/168417/51i53hldf_1673493736465.jpg?plan=h160",
+      "ep": 10,
+      "s": 414,
+      "geo": [
+        34.3125,
+        134.0674
+      ]
+    }
+  ],
+  "pointsLength": 80,
+  "imagesLength": 78,
+  "local_id": 463
+}
