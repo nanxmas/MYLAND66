@@ -1,0 +1,130 @@
+{
+  "id": 86670,
+  "cn": "向山进发 第二季",
+  "title": "ヤマノススメ セカンドシーズン",
+  "city": "饭能市",
+  "cover": "https://image.xinu.ink/pic/data/339/images/86670.jpg",
+  "color": "#80aad4",
+  "geo": [
+    35.84856114205235,
+    139.326281721959
+  ],
+  "zoom": 12.331,
+  "modified": 1741612528169,
+  "litePoints": [
+    {
+      "id": "lw6rj5o5t",
+      "name": "東飯能駅",
+      "image": "https://image.anitabi.cn/points/86670/lw6rj5o5t_1719908941723.jpg?plan=h160",
+      "ep": 2,
+      "s": 412,
+      "geo": [
+        35.8526,
+        139.3256
+      ]
+    },
+    {
+      "id": "lxhymzfm5",
+      "name": "三つ峠駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/86670/points/lxhymzfm5-1720011822415.jpg?plan=h160",
+      "ep": 2,
+      "s": 515,
+      "geo": [
+        35.5239,
+        138.8452
+      ]
+    },
+    {
+      "id": "lxikt228b",
+      "cn": "三卡山登山道",
+      "name": "三ッ峠登山道",
+      "image": "https://image.anitabi.cn/user/1131/bangumi/86670/points/lxikt228b-1720013073741.jpg?plan=h160",
+      "ep": 2,
+      "s": 573,
+      "geo": [
+        35.5299,
+        138.838
+      ]
+    },
+    {
+      "id": "ly9u5mmcm",
+      "name": "あけぼの子どもの森公園 きのこの家",
+      "image": "https://image.anitabi.cn/points/86670/ly9u5mmcm_1720072400682.jpg?plan=h160",
+      "ep": 20,
+      "s": 463,
+      "geo": [
+        35.8305,
+        139.3445
+      ]
+    },
+    {
+      "id": "lw6vqadiq",
+      "name": "土合駅内",
+      "image": "https://image.anitabi.cn/points/86670/lw6vqadiq_1719909213484.jpg?plan=h160",
+      "ep": 21,
+      "s": 253,
+      "geo": [
+        36.8316,
+        138.9672
+      ]
+    },
+    {
+      "id": "qipesrtil",
+      "name": "土合駅階段",
+      "image": "https://image.anitabi.cn/points/86670/qipesrtil_1732957994299.jpg?plan=h160",
+      "ep": 21,
+      "s": 271,
+      "geo": [
+        36.8315,
+        138.967
+      ]
+    },
+    {
+      "id": "qiq2zrsf4",
+      "name": "土合駅",
+      "image": "https://image.anitabi.cn/points/86670/qiq2zrsf4_1732959606230.jpg?plan=h160",
+      "ep": 21,
+      "s": 415,
+      "geo": [
+        36.8314,
+        138.9667
+      ]
+    },
+    {
+      "id": "qipuqfnzh",
+      "name": "通路",
+      "image": "https://image.anitabi.cn/points/86670/qipuqfnzh_1732958930740.jpg?plan=h160",
+      "ep": 21,
+      "s": 442,
+      "geo": [
+        36.8318,
+        138.9657
+      ]
+    },
+    {
+      "id": "qir48xlwt",
+      "name": "地蔵",
+      "image": "https://image.anitabi.cn/points/86670/qir48xlwt_1732961761191.jpg?plan=h160",
+      "ep": 21,
+      "s": 453,
+      "geo": [
+        36.8349,
+        138.9657
+      ]
+    },
+    {
+      "id": "qiph5y9vt",
+      "name": "半トンネル",
+      "image": "https://image.anitabi.cn/points/86670/qiph5y9vt_1732958227754.jpg?plan=h160",
+      "ep": 21,
+      "s": 458,
+      "geo": [
+        36.8345,
+        138.9655
+      ]
+    }
+  ],
+  "pointsLength": 28,
+  "imagesLength": 28,
+  "local_id": 339
+}

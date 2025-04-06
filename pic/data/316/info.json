@@ -1,0 +1,65 @@
+{
+  "id": 73083,
+  "cn": "钻石王牌",
+  "title": "ダイヤのA",
+  "cover": "https://image.xinu.ink/pic/data/316/images/73083.jpg",
+  "color": "#2d4877",
+  "geo": [
+    34.40480366033985,
+    133.19370049086888
+  ],
+  "zoom": 13.98,
+  "modified": 1727512517302,
+  "litePoints": [
+    {
+      "id": "d6z6lonhw",
+      "cn": "琦玉荣高等学校体育研修中心",
+      "name": "琦玉栄高等学校スポーツ研修センター",
+      "image": "https://image.anitabi.cn/user/0/bangumi/73083/points/d6z6lonhw-1695364903878.jpg?plan=h160",
+      "ep": 27,
+      "s": 138,
+      "geo": [
+        35.9111,
+        139.5598
+      ]
+    },
+    {
+      "id": "ji89cnsql",
+      "cn": "尾道站",
+      "name": "尾道",
+      "image": "https://image.anitabi.cn/user/0/bangumi/73083/points/ji89cnsql-1713172893854.jpg?plan=h160",
+      "ep": 2,
+      "s": 1110,
+      "geo": [
+        34.4047,
+        133.1937
+      ]
+    },
+    {
+      "id": "ji8depp9z",
+      "cn": "尾道",
+      "name": "尾道",
+      "image": "https://image.anitabi.cn/user/0/bangumi/73083/points/ji8depp9z-1713173128672.jpg?plan=h160",
+      "ep": 2,
+      "s": 1120,
+      "geo": [
+        34.4047,
+        133.1936
+      ]
+    },
+    {
+      "id": "ngvbko4or",
+      "cn": "甲子园",
+      "name": "甲子園球場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/73083/points/ngvbko4or-1724350823836.jpg?plan=h160",
+      "s": 765,
+      "geo": [
+        34.7214,
+        135.3615
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 316
+}

@@ -1,0 +1,85 @@
+[
+  {
+    "id": "nwwo12zs1",
+    "cn": "特科瓦尔切利（山野荒城）",
+    "name": "Тҟәарчал/Tkvarcheli",
+    "image": "https://image.xinu.ink/pic/data/319/images/nwwo12zs1-1725607592884.jpg",
+    "ep": null,
+    "geo": [
+      42.847,
+      41.6845
+    ]
+  },
+  {
+    "id": "nwxi30bn5",
+    "cn": "勘察加半岛（焚风山谷）",
+    "name": "Центральнокамчатская низменность",
+    "image": "https://image.xinu.ink/pic/data/319/images/nwxi30bn5-1725609398272.jpg",
+    "ep": null,
+    "geo": [
+      55.964,
+      160.0071
+    ]
+  },
+  {
+    "id": "nwxr3a6y8",
+    "cn": "科斯季诺（废弃工厂）",
+    "name": "Костино/Kostino",
+    "image": "https://image.xinu.ink/pic/data/319/images/nwxr3a6y8-1725609893946.jpg",
+    "ep": null,
+    "geo": [
+      57.3954,
+      43.0601
+    ]
+  },
+  {
+    "id": "nwy28p5fx",
+    "cn": "色当（马奇诺防线·蒙梅迪防区）",
+    "name": "Sedan",
+    "image": "https://image.xinu.ink/pic/data/319/images/nwy28p5fx-1725610719053.jpg",
+    "ep": null,
+    "geo": [
+      49.7019,
+      4.9495
+    ]
+  },
+  {
+    "id": "o8ad64h34",
+    "cn": "新罗西斯克（港口之战）",
+    "name": "Новороссийск",
+    "image": "https://image.xinu.ink/pic/data/319/images/o8ad64h34-1726499423326.jpg",
+    "ep": null,
+    "geo": [
+      44.7261,
+      37.777
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "o8ajrcau8",
+    "cn": "柏林国会大厦",
+    "name": "Reichstagsgebäude",
+    "image": "https://image.xinu.ink/pic/data/319/images/o8ajrcau8-1726499761403.jpg",
+    "ep": null,
+    "geo": [
+      52.5186,
+      13.376
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "o8az2w3b9",
+    "cn": "Vossenack（许特根森林战役）",
+    "name": "Vossenack",
+    "image": "https://image.xinu.ink/pic/data/319/images/o8az2w3b9-1726500931739.jpg",
+    "ep": null,
+    "geo": [
+      50.6855,
+      6.3738
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

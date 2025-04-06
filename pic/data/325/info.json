@@ -1,0 +1,112 @@
+{
+  "id": 78405,
+  "cn": "悠哉日常大王",
+  "title": "のんのんびより",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/325/images/78405.jpg",
+  "color": "#157fea",
+  "cp": "旭丘分校管理組合",
+  "geo": [
+    35.57369356527509,
+    139.59886778772398
+  ],
+  "zoom": 8.334,
+  "modified": 1720445710268,
+  "litePoints": [
+    {
+      "id": "7sahl1eu6",
+      "name": "小川町立小川小学校 下里分校",
+      "image": "https://image.anitabi.cn/user/0/bangumi/78405/points/7sahl1eu6-1680108161717.jpg?plan=h160",
+      "ep": 1,
+      "s": 6.41,
+      "geo": [
+        36.0442,
+        139.2847
+      ]
+    },
+    {
+      "id": "lqfm2hy8w",
+      "name": "高橋駄菓子店",
+      "image": "https://image.anitabi.cn/points/78405/kp4r2ibvq_1716535391108.jpg?plan=h160",
+      "geo": [
+        35.7553,
+        139.818
+      ]
+    },
+    {
+      "id": "kp4r2ibvk",
+      "name": "吉井大井戸・水車小屋",
+      "image": "https://image.anitabi.cn/points/78405/kp4r2ibvk_1720435153372.jpg?plan=h160",
+      "geo": [
+        35.101,
+        139.8927
+      ]
+    },
+    {
+      "id": "kp4r2ic2m",
+      "name": "青梅駅・立ち食いそば",
+      "image": "https://image.anitabi.cn/points/78405/kp4r2ic2m_1716536081340.jpg?plan=h160",
+      "geo": [
+        35.7902,
+        139.2583
+      ]
+    },
+    {
+      "id": "kp4r2ice3",
+      "name": "渋谷駅 交差点",
+      "image": "https://image.anitabi.cn/points/78405/kp4r2ice3_1716535469396.jpg?plan=h160",
+      "geo": [
+        35.6593,
+        139.7005
+      ]
+    },
+    {
+      "id": "kp3s3f6jy",
+      "name": "かつらぎ町 天野の里",
+      "image": "https://image.anitabi.cn/points/78405/kp3s3f6jy_1720435200785.jpg?plan=h160",
+      "geo": [
+        34.2635,
+        135.5206
+      ]
+    },
+    {
+      "id": "kp3whayw5",
+      "name": "大念仏一結衆 宝篋印塔",
+      "image": "https://image.anitabi.cn/points/78405/kp3whayw5_1720445673676_half.jpg?plan=h160",
+      "geo": [
+        34.2636,
+        135.5207
+      ]
+    },
+    {
+      "id": "kp41nfo94",
+      "name": "丹生都比売神社の入り口付近",
+      "image": "https://image.anitabi.cn/points/78405/kp41nfo94_1720445692174_half.jpg?plan=h160",
+      "geo": [
+        34.2639,
+        135.5212
+      ]
+    },
+    {
+      "id": "kp68qath9",
+      "name": "小屋横の小川を渡る橋",
+      "image": "https://image.anitabi.cn/points/78405/kp68qath9_1720445698554_half.jpg?plan=h160",
+      "geo": [
+        35.101,
+        139.8927
+      ]
+    },
+    {
+      "id": "kp6n9i4rr",
+      "name": "小屋横の道路",
+      "image": "https://image.anitabi.cn/points/78405/kp6n9i4rr_1720445703209_half.jpg?plan=h160",
+      "geo": [
+        35.1011,
+        139.8924
+      ]
+    }
+  ],
+  "pointsLength": 14,
+  "imagesLength": 11,
+  "local_id": 325
+}

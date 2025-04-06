@@ -1,0 +1,73 @@
+{
+  "id": 66760,
+  "cn": "少女理论及其周边 -巴黎学院篇-",
+  "title": "乙女理論とその周辺 -École de Paris-",
+  "city": "欧洲",
+  "cover": "https://image.xinu.ink/pic/data/305/images/66760.jpg",
+  "color": "#d4aa80",
+  "modified": 1728699280861,
+  "litePoints": [
+    {
+      "id": "nr6x9vroi",
+      "cn": "凯旋门",
+      "name": "Arc de triomphe de l'Étoile",
+      "image": "https://image.anitabi.cn/user/2098/bangumi/66760/points/nr6x9vroi-1725159729412.jpg?plan=h160",
+      "geo": [
+        48.8739,
+        2.2951
+      ]
+    },
+    {
+      "id": "ozpr69k73",
+      "cn": "卢森堡公园",
+      "name": "Jardin du Luxembourg",
+      "image": "https://image.anitabi.cn/user/0/bangumi/66760/points/ozpr69k73-1728648745730.jpg?plan=h160",
+      "geo": [
+        48.8481,
+        2.3334
+      ]
+    },
+    {
+      "id": "ozq0r5hga",
+      "cn": "舒瓦瑟尔廊街",
+      "name": "Passage Choiseul",
+      "image": "https://image.anitabi.cn/user/0/bangumi/66760/points/ozq0r5hga-1728649510523.jpg?plan=h160",
+      "geo": [
+        48.8684,
+        2.3357
+      ]
+    },
+    {
+      "id": "ozq8hzz1p",
+      "cn": "巴黎国家高等艺术学院（EnsAD）的位于巴黎东南部的图书馆",
+      "name": "Bibliothèque de l'École nationale supérieure des Arts décoratifs",
+      "image": "https://image.anitabi.cn/user/0/bangumi/66760/points/ozq8hzz1p-1728649818695.jpg?plan=h160",
+      "geo": [
+        48.8427,
+        2.3447
+      ]
+    },
+    {
+      "id": "ozqb8odoh",
+      "name": "Les Ursulines",
+      "image": "https://image.anitabi.cn/user/0/bangumi/66760/points/ozqb8odoh-1728649920630.jpg?plan=h160",
+      "geo": [
+        48.8425,
+        2.3427
+      ]
+    },
+    {
+      "id": "ozqel4soy",
+      "cn": "拿破仑三世厅",
+      "name": "Napoleon III Pavilion",
+      "image": "https://image.anitabi.cn/user/0/bangumi/66760/points/ozqel4soy-1728650185458.jpg?plan=h160",
+      "geo": [
+        48.8618,
+        2.3352
+      ]
+    }
+  ],
+  "pointsLength": 8,
+  "imagesLength": 8,
+  "local_id": 305
+}

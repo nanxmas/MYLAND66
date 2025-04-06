@@ -1,0 +1,123 @@
+{
+  "id": 72266,
+  "cn": "少女与战车 剧场版",
+  "title": "ガールズ&パンツァー 劇場版",
+  "city": "茨城县",
+  "cover": "https://image.xinu.ink/pic/data/314/images/72266.jpg",
+  "color": "#b27351",
+  "geo": [
+    36.31415290500405,
+    140.5729626740516
+  ],
+  "zoom": 12.413,
+  "modified": 1742359290898,
+  "litePoints": [
+    {
+      "id": "imek1omn9",
+      "cn": "大洗高尔夫俱乐部",
+      "name": "大洗GC",
+      "image": "https://image.anitabi.cn/user/0/bangumi/72266/points/imek1omn9-1710678988768.jpg?plan=h160",
+      "s": 89,
+      "geo": [
+        36.3215,
+        140.5895
+      ]
+    },
+    {
+      "id": "imka8pqqp",
+      "name": "海の家大勘荘",
+      "image": "https://image.anitabi.cn/user/0/bangumi/72266/points/imka8pqqp-1710691390568.jpg?plan=h160",
+      "s": 639,
+      "geo": [
+        36.3105,
+        140.5676
+      ]
+    },
+    {
+      "id": "imj7abp0o",
+      "name": "磯浜さくら坂通り",
+      "image": "https://image.anitabi.cn/user/0/bangumi/72266/points/imj7abp0o-1710689048479.jpg?plan=h160",
+      "s": 660,
+      "geo": [
+        36.3181,
+        140.5666
+      ]
+    },
+    {
+      "id": "imjdncdwk",
+      "name": "ダイカツ​水産​(株)​第3​工場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/72266/points/imjdncdwk-1710689418453.jpg?plan=h160",
+      "s": 663,
+      "geo": [
+        36.3183,
+        140.5668
+      ]
+    },
+    {
+      "id": "imjfhpcz8",
+      "name": "堀割集会所前",
+      "image": "https://image.anitabi.cn/user/0/bangumi/72266/points/imjfhpcz8-1710689558932.jpg?plan=h160",
+      "s": 675,
+      "geo": [
+        36.32,
+        140.5663
+      ]
+    },
+    {
+      "id": "imj07vl00",
+      "name": "堀割",
+      "image": "https://image.anitabi.cn/user/0/bangumi/72266/points/imj07vl00-1710688634148.jpg?plan=h160",
+      "s": 690,
+      "geo": [
+        36.3201,
+        140.566
+      ]
+    },
+    {
+      "id": "imjs29q0q",
+      "name": "大洗駅前駐輪場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/72266/points/imjs29q0q-1710690356951.jpg?plan=h160",
+      "s": 717,
+      "geo": [
+        36.3153,
+        140.563
+      ]
+    },
+    {
+      "id": "imiq5hiqp",
+      "cn": "大洗站",
+      "name": "大洗駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/72266/points/imiq5hiqp-1710688044139.jpg?plan=h160",
+      "s": 723,
+      "geo": [
+        36.3149,
+        140.563
+      ]
+    },
+    {
+      "id": "imkdixcdf",
+      "cn": "大洗文化中心",
+      "name": "大洗町文化センター",
+      "image": "https://image.anitabi.cn/user/0/bangumi/72266/points/imkdixcdf-1710691591769.jpg?plan=h160",
+      "s": 812,
+      "geo": [
+        36.3127,
+        140.5752
+      ]
+    },
+    {
+      "id": "imkospzsk",
+      "cn": "Eco's大洗店",
+      "name": "TAIRAYA",
+      "image": "https://image.anitabi.cn/user/0/bangumi/72266/points/imkospzsk-1710692356654.jpg?plan=h160",
+      "s": 1018,
+      "geo": [
+        36.3157,
+        140.5674
+      ]
+    }
+  ],
+  "pointsLength": 22,
+  "imagesLength": 22,
+  "local_id": 314
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "51i52dymj",
+    "name": "西宮市立中央図書館",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52dymj-1697882513086.jpg",
+    "ep": 12,
+    "s": 122,
+    "geo": [
+      34.731,
+      135.33
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=34.731052%2C135.330057&z=17"
+  },
+  {
+    "id": "51i52dzsp",
+    "name": "甲南病院",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52dzsp-1697880196580.jpg",
+    "ep": 11,
+    "s": 574,
+    "geo": [
+      34.7293,
+      135.2512
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=34.72937%2C135.251285&z=17"
+  },
+  {
+    "id": "51i52e1r8",
+    "name": "長門が座っていたベンチ",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e1r8-1697882469437.jpg",
+    "ep": 13,
+    "s": 1214,
+    "geo": [
+      34.7305,
+      135.3292
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=34.730594%2C135.329212&z=17"
+  },
+  {
+    "id": "51i52e364",
+    "name": "カラオケ店のモニターの風景（神戸港）",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e364-1697878267942.jpg",
+    "ep": 17,
+    "s": 537,
+    "geo": [
+      34.6769,
+      135.2037
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=34.676991%2C135.203757&z=17"
+  },
+  {
+    "id": "51i52dy3y",
+    "name": "樋ノ池公園",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52dy3y-1692524443273.jpg",
+    "ep": null,
+    "geo": [
+      34.7519,
+      135.3212
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=34.751922%2C135.321297&z=17"
+  },
+  {
+    "id": "51i52dyj5",
+    "name": "北高-古泉が着替えた場所",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52dyj5-1692524491909.jpg",
+    "ep": null,
+    "geo": [
+      34.7609,
+      135.3119
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=34.760905%2C135.311936&z=17"
+  },
+  {
+    "id": "51i52e1qj",
+    "name": "キョンの自宅モデル付近",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e1qj-1692524396114.jpg",
+    "ep": null,
+    "geo": [
+      34.761,
+      135.3438
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=34.761096%2C135.343859&z=17"
+  }
+]

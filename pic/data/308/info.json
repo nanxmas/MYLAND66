@@ -1,0 +1,130 @@
+{
+  "id": 68035,
+  "cn": "有顶天家族",
+  "title": "有頂天家族",
+  "city": "京都市",
+  "cover": "https://image.xinu.ink/pic/data/308/images/68035.jpg",
+  "color": "#28b699",
+  "cp": "有頂天家族",
+  "geo": [
+    35.01655186596169,
+    135.7376464463461
+  ],
+  "zoom": 10.934,
+  "modified": 1728222771770,
+  "litePoints": [
+    {
+      "id": "kpx6os912",
+      "name": "狸谷不動院",
+      "image": "https://image.anitabi.cn/user/0/bangumi/68035/points/kpx6os912-1725169979747.jpg?plan=h160",
+      "ep": 3,
+      "s": 504,
+      "geo": [
+        35.041,
+        135.8023
+      ]
+    },
+    {
+      "id": "kpx6osamc",
+      "name": "頂法寺(六角堂）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/68035/points/kpx6osamc-1725101004377.jpg?plan=h160",
+      "ep": 9,
+      "s": 158,
+      "geo": [
+        35.0075,
+        135.7602
+      ]
+    },
+    {
+      "id": "kpx6osamy",
+      "name": "蔦屋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/68035/points/kpx6osamy-1725099370130.jpg?plan=h160",
+      "ep": 9,
+      "s": 254,
+      "geo": [
+        35.0072,
+        135.7611
+      ]
+    },
+    {
+      "id": "kpx6oscly",
+      "name": "京都タワー",
+      "image": "https://image.anitabi.cn/user/0/bangumi/68035/points/kpx6oscly-1725101517723.jpg?plan=h160",
+      "ep": 1,
+      "s": 7,
+      "geo": [
+        34.9875,
+        135.7593
+      ]
+    },
+    {
+      "id": "kpx6oseij",
+      "name": "出町桝形商店街",
+      "image": "https://image.anitabi.cn/user/0/bangumi/68035/points/kpx6oseij-1725101440501.jpg?plan=h160",
+      "ep": 1,
+      "s": 18,
+      "geo": [
+        35.0302,
+        135.769
+      ]
+    },
+    {
+      "id": "kpx6osff0",
+      "name": "出町橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/68035/points/kpx6osff0-1725170122343.jpg?plan=h160",
+      "ep": 5,
+      "s": 201,
+      "geo": [
+        35.0304,
+        135.7711
+      ]
+    },
+    {
+      "id": "kpx6osg2c",
+      "name": "四条大橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/68035/points/kpx6osg2c-1725099310751.jpg?plan=h160",
+      "ep": 5,
+      "s": 3,
+      "geo": [
+        35.0038,
+        135.7714
+      ]
+    },
+    {
+      "id": "kpx6osgk8",
+      "name": "京都駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/68035/points/kpx6osgk8-1725101487047.jpg?plan=h160",
+      "ep": 1,
+      "s": 66,
+      "geo": [
+        34.9862,
+        135.7589
+      ]
+    },
+    {
+      "id": "kpx6osgza",
+      "name": "花見小路",
+      "image": "https://image.anitabi.cn/user/0/bangumi/68035/points/kpx6osgza-1725099514746.jpg?plan=h160",
+      "ep": 8,
+      "s": 443,
+      "geo": [
+        35.0033,
+        135.775
+      ]
+    },
+    {
+      "id": "kpx6oshnj",
+      "name": "六道珍皇寺",
+      "image": "https://image.anitabi.cn/user/0/bangumi/68035/points/kpx6oshnj-1725170029004.jpg?plan=h160",
+      "ep": 2,
+      "s": 456,
+      "geo": [
+        34.998,
+        135.7754
+      ]
+    }
+  ],
+  "pointsLength": 83,
+  "imagesLength": 22,
+  "local_id": 308
+}

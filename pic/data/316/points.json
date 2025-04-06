@@ -1,0 +1,53 @@
+[
+  {
+    "id": "d6z6lonhw",
+    "cn": "琦玉荣高等学校体育研修中心",
+    "name": "琦玉栄高等学校スポーツ研修センター",
+    "image": "https://image.xinu.ink/pic/data/316/images/d6z6lonhw-1695364903878.jpg",
+    "ep": 27,
+    "s": 138,
+    "geo": [
+      35.9111,
+      139.5598
+    ]
+  },
+  {
+    "id": "ji89cnsql",
+    "cn": "尾道站",
+    "name": "尾道",
+    "image": "https://image.xinu.ink/pic/data/316/images/ji89cnsql-1713172893854.jpg",
+    "ep": 2,
+    "s": 1110,
+    "geo": [
+      34.4047,
+      133.1937
+    ],
+    "origin": "",
+    "originLink": "https://maps.google.com/?cid=4931742459253881464"
+  },
+  {
+    "id": "ji8depp9z",
+    "cn": "尾道",
+    "name": "尾道",
+    "image": "https://image.xinu.ink/pic/data/316/images/ji8depp9z-1713173128672.jpg",
+    "ep": 2,
+    "s": 1120,
+    "geo": [
+      34.4047,
+      133.1936
+    ],
+    "originLink": "https://maps.google.com/?cid=4931742459253881464"
+  },
+  {
+    "id": "ngvbko4or",
+    "cn": "甲子园",
+    "name": "甲子園球場",
+    "image": "https://image.xinu.ink/pic/data/316/images/ngvbko4or-1724350823836.jpg",
+    "ep": "Act2 1话",
+    "s": 765,
+    "geo": [
+      34.7214,
+      135.3615
+    ]
+  }
+]

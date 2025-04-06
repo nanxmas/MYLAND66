@@ -1,0 +1,110 @@
+{
+  "id": 68756,
+  "cn": "农林",
+  "title": "のうりん",
+  "city": "美浓加茂市",
+  "cover": "https://image.xinu.ink/pic/data/309/images/68756.jpg",
+  "color": "#2a6a80",
+  "cp": "SOFTBANK Creativ…",
+  "geo": [
+    35.51937310855101,
+    136.9754789623176
+  ],
+  "zoom": 10,
+  "modified": 1728907320095,
+  "litePoints": [
+    {
+      "id": "jj0gobijb",
+      "name": "シティホテル美濃加茂",
+      "image": "https://image.anitabi.cn/points/68756/jj0gobijb_1713235409263.jpg?plan=h160",
+      "geo": [
+        35.4447,
+        137.0196
+      ]
+    },
+    {
+      "id": "jj0gobj64",
+      "name": "美濃太田駅",
+      "image": "https://image.anitabi.cn/points/68756/jj0gobj64_1713235409653.jpg?plan=h160",
+      "geo": [
+        35.4456,
+        137.0194
+      ]
+    },
+    {
+      "id": "jj0gobj25",
+      "name": "ＪＡめぐみのみのかも本部",
+      "image": "https://image.anitabi.cn/points/68756/jj0gobj25_1713235410047.jpg?plan=h160",
+      "geo": [
+        35.4433,
+        137.0149
+      ]
+    },
+    {
+      "id": "jj0gobjmp",
+      "name": "サークルＫ美濃加茂太田南店裏側の橋",
+      "image": "https://image.anitabi.cn/points/68756/jj0gobjmp_1713235410429.jpg?plan=h160",
+      "geo": [
+        35.4438,
+        137.0131
+      ]
+    },
+    {
+      "id": "jj0gobjlz",
+      "name": "化石林公園",
+      "image": "https://image.anitabi.cn/points/68756/jj0gobjlz_1713235410843.jpg?plan=h160",
+      "geo": [
+        35.4378,
+        137.0319
+      ]
+    },
+    {
+      "id": "jj0gobjcq",
+      "name": "古井近隣公園北側",
+      "image": "https://image.anitabi.cn/points/68756/jj0gobjcq_1713235411236.jpg?plan=h160",
+      "geo": [
+        35.4469,
+        137.0313
+      ]
+    },
+    {
+      "id": "jj0gobjt2",
+      "name": "古井近隣公園",
+      "image": "https://image.anitabi.cn/points/68756/jj0gobjt2_1713235411615.jpg?plan=h160",
+      "geo": [
+        35.4464,
+        137.031
+      ]
+    },
+    {
+      "id": "jj0gobj66",
+      "name": "加茂農林高校　正門（南側）",
+      "image": "https://image.anitabi.cn/points/68756/jj0gobj66_1713235412085.jpg?plan=h160",
+      "geo": [
+        35.4483,
+        137.0312
+      ]
+    },
+    {
+      "id": "jj0gobja9",
+      "name": "加茂農林高校　裏側（北側）",
+      "image": "https://image.anitabi.cn/points/68756/jj0gobja9_1713235412467.jpg?plan=h160",
+      "geo": [
+        35.4509,
+        137.0322
+      ]
+    },
+    {
+      "id": "jj0gobj50",
+      "name": "田島町３丁目交差点",
+      "image": "https://image.anitabi.cn/points/68756/jj0gobj50_1713235412864.jpg?plan=h160",
+      "geo": [
+        35.449,
+        137.0252
+      ]
+    }
+  ],
+  "pointsLength": 29,
+  "imagesLength": 29,
+  "local_id": 309
+}

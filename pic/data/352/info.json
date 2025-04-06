@@ -1,0 +1,127 @@
+{
+  "id": 91222,
+  "cn": "花舞少女",
+  "title": "ハナヤマタ",
+  "city": "镰仓市",
+  "cover": "https://image.xinu.ink/pic/data/352/images/91222.jpg",
+  "color": "#554763",
+  "cp": "ハナヤマタ",
+  "geo": [
+    35.31133875927793,
+    139.53233499434077
+  ],
+  "zoom": 11.993145387162487,
+  "modified": 1741887646738,
+  "litePoints": [
+    {
+      "id": "kpwp9eph9",
+      "name": "鎌倉高校前一号踏切",
+      "image": "https://image.anitabi.cn/user/0/bangumi/91222/points/kpwp9eph9-1741538384881.jpg?plan=h160",
+      "s": 16,
+      "geo": [
+        35.3066,
+        139.502
+      ]
+    },
+    {
+      "id": "kpwp9epex",
+      "name": "杉養蜂園 川越店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/91222/points/kpwp9epex-1741538654331.jpg?plan=h160",
+      "s": 29,
+      "geo": [
+        35.9237,
+        139.483
+      ]
+    },
+    {
+      "id": "kpwp9epm3",
+      "name": "荏柄天神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/91222/points/kpwp9epm3-1741539543101.jpg?plan=h160",
+      "ep": 3,
+      "s": 762,
+      "geo": [
+        35.3256,
+        139.5642
+      ]
+    },
+    {
+      "id": "kpwp9ep65",
+      "name": "七里ヶ浜ゴルフ場 前",
+      "image": "https://image.anitabi.cn/user/0/bangumi/91222/points/kpwp9ep65-1741538959577.jpg?plan=h160",
+      "s": 67,
+      "geo": [
+        35.3071,
+        139.5153
+      ]
+    },
+    {
+      "id": "kpwp9epdn",
+      "name": "鎌倉高校前一号踏切 南側",
+      "image": "https://image.anitabi.cn/user/0/bangumi/91222/points/kpwp9epdn-1741539788168.jpg?plan=h160",
+      "ep": 1,
+      "s": 131,
+      "geo": [
+        35.3065,
+        139.502
+      ]
+    },
+    {
+      "id": "kpwp9epv2",
+      "name": "寿福寺トンネル 北側",
+      "image": "https://image.anitabi.cn/user/0/bangumi/91222/points/kpwp9epv2-1741540252517.jpg?plan=h160",
+      "ep": 1,
+      "s": 342,
+      "geo": [
+        35.3235,
+        139.5489
+      ]
+    },
+    {
+      "id": "kpwp9ep9f",
+      "name": "平塚ラスカ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/91222/points/kpwp9ep9f-1741537582951.jpg?plan=h160",
+      "ep": 5,
+      "s": 524,
+      "geo": [
+        35.3283,
+        139.3503
+      ]
+    },
+    {
+      "id": "kpwp9epea",
+      "name": "平塚駅北口 地下道出口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/91222/points/kpwp9epea-1741537179989.jpg?plan=h160",
+      "ep": 5,
+      "s": 532,
+      "geo": [
+        35.3287,
+        139.35
+      ]
+    },
+    {
+      "id": "kpwp9epun",
+      "name": "セブンイレブン平塚駅北口店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/91222/points/kpwp9epun-1741538192134.jpg?plan=h160",
+      "ep": 5,
+      "s": 623,
+      "geo": [
+        35.3289,
+        139.3512
+      ]
+    },
+    {
+      "id": "kpwp9epue",
+      "name": "紅谷町パールロード ケンタッキーフライドチキン平塚店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/91222/points/kpwp9epue-1741538090562.jpg?plan=h160",
+      "ep": 5,
+      "s": 676,
+      "geo": [
+        35.3289,
+        139.3481
+      ]
+    }
+  ],
+  "pointsLength": 51,
+  "imagesLength": 11,
+  "local_id": 352
+}

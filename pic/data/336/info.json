@@ -1,0 +1,30 @@
+{
+  "id": 84997,
+  "cn": "鲁邦三世 雾之谜",
+  "title": "ルパン三世 霧のエリューシヴ",
+  "cover": "https://image.xinu.ink/pic/data/336/images/84997.jpg",
+  "color": "#eb0013",
+  "geo": [
+    43.07513006757577,
+    145.16553266391105
+  ],
+  "zoom": 13.445,
+  "modified": 1720372716854,
+  "litePoints": [
+    {
+      "id": "51ln20r92",
+      "cn": "湯沸岬灯塔",
+      "name": "湯沸岬灯台",
+      "image": "https://image.anitabi.cn/user/0/bangumi/84997/points/51ln20r92-1720193490596.jpg?plan=h160",
+      "ep": 1,
+      "s": 5405,
+      "geo": [
+        43.0773,
+        145.1678
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 336
+}

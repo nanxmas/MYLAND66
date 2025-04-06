@@ -1,0 +1,283 @@
+[
+  {
+    "id": "kpx6os912",
+    "name": "狸谷不動院",
+    "image": "https://image.xinu.ink/pic/data/308/images/kpx6os912-1725169979747.jpg",
+    "ep": 3,
+    "s": 504,
+    "geo": [
+      35.041,
+      135.8023
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tLzEfuaBxyWZ71E6LwmT1Z_ng3k&ll=35.041065%2C135.802345&z=17"
+  },
+  {
+    "id": "kpx6osamc",
+    "name": "頂法寺(六角堂）",
+    "image": "https://image.xinu.ink/pic/data/308/images/kpx6osamc-1725101004377.jpg",
+    "ep": 9,
+    "s": 158,
+    "geo": [
+      35.0075,
+      135.7602
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tLzEfuaBxyWZ71E6LwmT1Z_ng3k&ll=35.007529%2C135.76024&z=17"
+  },
+  {
+    "id": "kpx6osamy",
+    "name": "蔦屋",
+    "image": "https://image.xinu.ink/pic/data/308/images/kpx6osamy-1725099370130.jpg",
+    "ep": 9,
+    "s": 254,
+    "geo": [
+      35.0072,
+      135.7611
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tLzEfuaBxyWZ71E6LwmT1Z_ng3k&ll=35.007296%2C135.761163&z=17"
+  },
+  {
+    "id": "kpx6oscly",
+    "name": "京都タワー",
+    "image": "https://image.xinu.ink/pic/data/308/images/kpx6oscly-1725101517723.jpg",
+    "ep": 1,
+    "s": 7,
+    "geo": [
+      34.9875,
+      135.7593
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tLzEfuaBxyWZ71E6LwmT1Z_ng3k&ll=34.987508%2C135.759366&z=17"
+  },
+  {
+    "id": "kpx6oseij",
+    "name": "出町桝形商店街",
+    "image": "https://image.xinu.ink/pic/data/308/images/kpx6oseij-1725101440501.jpg",
+    "ep": 1,
+    "s": 18,
+    "geo": [
+      35.0302,
+      135.769
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tLzEfuaBxyWZ71E6LwmT1Z_ng3k&ll=35.030277%2C135.769086&z=17"
+  },
+  {
+    "id": "kpx6osff0",
+    "name": "出町橋",
+    "image": "https://image.xinu.ink/pic/data/308/images/kpx6osff0-1725170122343.jpg",
+    "ep": 5,
+    "s": 201,
+    "geo": [
+      35.0304,
+      135.7711
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tLzEfuaBxyWZ71E6LwmT1Z_ng3k&ll=35.030444%2C135.771114&z=17"
+  },
+  {
+    "id": "kpx6osg2c",
+    "name": "四条大橋",
+    "image": "https://image.xinu.ink/pic/data/308/images/kpx6osg2c-1725099310751.jpg",
+    "ep": 5,
+    "s": 3,
+    "geo": [
+      35.0038,
+      135.7714
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tLzEfuaBxyWZ71E6LwmT1Z_ng3k&ll=35.003812%2C135.771495&z=17"
+  },
+  {
+    "id": "kpx6osgk8",
+    "name": "京都駅",
+    "image": "https://image.xinu.ink/pic/data/308/images/kpx6osgk8-1725101487047.jpg",
+    "ep": 1,
+    "s": 66,
+    "geo": [
+      34.9862,
+      135.7589
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tLzEfuaBxyWZ71E6LwmT1Z_ng3k&ll=34.986234%2C135.758969&z=17"
+  },
+  {
+    "id": "kpx6osgza",
+    "name": "花見小路",
+    "image": "https://image.xinu.ink/pic/data/308/images/kpx6osgza-1725099514746.jpg",
+    "ep": 8,
+    "s": 443,
+    "geo": [
+      35.0033,
+      135.775
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tLzEfuaBxyWZ71E6LwmT1Z_ng3k&ll=35.003394%2C135.775008&z=17"
+  },
+  {
+    "id": "kpx6oshnj",
+    "name": "六道珍皇寺",
+    "image": "https://image.xinu.ink/pic/data/308/images/kpx6oshnj-1725170029004.jpg",
+    "ep": 2,
+    "s": 456,
+    "geo": [
+      34.998,
+      135.7754
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tLzEfuaBxyWZ71E6LwmT1Z_ng3k&ll=34.998084%2C135.775419&z=17"
+  },
+  {
+    "id": "kpx6osif1",
+    "name": "下鴨神社",
+    "image": "https://image.xinu.ink/pic/data/308/images/kpx6osif1-1725102002147.jpg",
+    "ep": 1,
+    "s": 188,
+    "geo": [
+      35.0385,
+      135.7729
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tLzEfuaBxyWZ71E6LwmT1Z_ng3k&ll=35.038518%2C135.77298&z=17"
+  },
+  {
+    "id": "kpx6osjj7",
+    "name": "寺町通",
+    "image": "https://image.xinu.ink/pic/data/308/images/kpx6osjj7-1725100054554.jpg",
+    "ep": 12,
+    "s": 477,
+    "geo": [
+      35.0044,
+      135.7668
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tLzEfuaBxyWZ71E6LwmT1Z_ng3k&ll=35.004405%2C135.766854&z=17"
+  },
+  {
+    "id": "kpx6oslch",
+    "name": "八坂神社",
+    "image": "https://image.xinu.ink/pic/data/308/images/kpx6oslch-1724499646793.jpg",
+    "ep": 2,
+    "s": 682,
+    "geo": [
+      35.0037,
+      135.7774
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tLzEfuaBxyWZ71E6LwmT1Z_ng3k&ll=35.003715%2C135.777497&z=17"
+  },
+  {
+    "id": "kpx6osln7",
+    "name": "徳成橋",
+    "image": "https://image.xinu.ink/pic/data/308/images/kpx6osln7-1724690657011.jpg",
+    "ep": 2,
+    "s": 686,
+    "geo": [
+      35.0154,
+      135.7782
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tLzEfuaBxyWZ71E6LwmT1Z_ng3k&ll=35.015499%2C135.778297&z=17"
+  },
+  {
+    "id": "kpx6osm2b",
+    "name": "秋月橋",
+    "image": "https://image.xinu.ink/pic/data/308/images/kpx6osm2b-1724691162727.jpg",
+    "ep": 2,
+    "s": 717,
+    "geo": [
+      35.0156,
+      135.7742
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tLzEfuaBxyWZ71E6LwmT1Z_ng3k&ll=35.015622%2C135.774225&z=17"
+  },
+  {
+    "id": "kpx6osmqn",
+    "name": "出町柳駅",
+    "image": "https://image.xinu.ink/pic/data/308/images/kpx6osmqn-1719283817747.jpg",
+    "ep": 3,
+    "s": 761,
+    "geo": [
+      35.0305,
+      135.773
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tLzEfuaBxyWZ71E6LwmT1Z_ng3k&ll=35.030594%2C135.773045&z=17"
+  },
+  {
+    "id": "kpx6osn90",
+    "name": "愛宕神社",
+    "image": "https://image.xinu.ink/pic/data/308/images/kpx6osn90-1725099178558.jpg",
+    "ep": 4,
+    "s": 583,
+    "geo": [
+      35.0598,
+      135.6345
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tLzEfuaBxyWZ71E6LwmT1Z_ng3k&ll=35.059832%2C135.634509&z=17"
+  },
+  {
+    "id": "kpx6osmqh",
+    "name": "渡月橋",
+    "image": "https://image.xinu.ink/pic/data/308/images/kpx6osmqh-1725099707133.jpg",
+    "ep": 4,
+    "s": 602,
+    "geo": [
+      35.0129,
+      135.6777
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tLzEfuaBxyWZ71E6LwmT1Z_ng3k&ll=35.012916%2C135.677762&z=17"
+  },
+  {
+    "id": "kpx6osny5",
+    "name": "先斗町",
+    "image": "https://image.xinu.ink/pic/data/308/images/kpx6osny5-1725100107364.jpg",
+    "ep": 13,
+    "s": 57,
+    "geo": [
+      35.0039,
+      135.771
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tLzEfuaBxyWZ71E6LwmT1Z_ng3k&ll=35.003904%2C135.771017&z=17"
+  },
+  {
+    "id": "lo8ber1n0",
+    "name": "鴨川デルタ",
+    "image": "https://image.xinu.ink/pic/data/308/images/lo8ber1n0-1719285431552.jpg",
+    "ep": 3,
+    "s": 779,
+    "geo": [
+      35.0293,
+      135.771
+    ]
+  },
+  {
+    "id": "ou073pkpr",
+    "cn": "下鸭神社 舞殿",
+    "name": "下鸭神社 舞殿",
+    "image": "https://image.xinu.ink/pic/data/308/images/ou073pkpr-1728201276777.jpg",
+    "ep": "3",
+    "s": "1200",
+    "geo": [
+      35.0386,
+      135.773
+    ]
+  },
+  {
+    "id": "ou0a7eybs",
+    "cn": "下鸭神社 桥",
+    "name": "下鸭神社 桥",
+    "image": "https://image.xinu.ink/pic/data/308/images/ou0a7eybs-1728201893290.jpg",
+    "ep": null,
+    "geo": [
+      35.0388,
+      135.7732
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+{
+  "id": 88493,
+  "cn": "一周的朋友。",
+  "title": "一週間フレンズ。",
+  "city": "日野市",
+  "cover": "https://image.xinu.ink/pic/data/341/images/88493.jpg",
+  "color": "#bf8040",
+  "cp": "一週間フレンズ。",
+  "geo": [
+    35.647393,
+    139.428692
+  ],
+  "zoom": 13,
+  "modified": 1726751637835,
+  "litePoints": [
+    {
+      "id": "4sm3x747n",
+      "name": "ＥＤカットその２　府中四谷橋周辺",
+      "image": "https://image.anitabi.cn/points/88493/4sm3x747n.jpg?plan=h160",
+      "geo": [
+        35.6582,
+        139.4379
+      ]
+    },
+    {
+      "id": "4sm3x746f",
+      "name": "ＥＤカットその１　南平駅の踏切",
+      "image": "https://image.anitabi.cn/points/88493/4sm3x746f.jpg?plan=h160",
+      "geo": [
+        35.6544,
+        139.392
+      ]
+    },
+    {
+      "id": "4sm3x745w",
+      "name": "ＥＤカットその３　いろは坂　金比羅神社付近の階段",
+      "image": "https://image.anitabi.cn/points/88493/4sm3x745w.jpg?plan=h160",
+      "geo": [
+        35.6446,
+        139.4452
+      ]
+    },
+    {
+      "id": "4sm3x73lw",
+      "name": "ＥＤカットその４　いろは坂　桜公園のベンチ",
+      "image": "https://image.anitabi.cn/points/88493/4sm3x73lw.jpg?plan=h160",
+      "geo": [
+        35.6457,
+        139.445
+      ]
+    },
+    {
+      "id": "4sm3x744z",
+      "name": "ＥＤカットその５　いろは坂　桜公園から見える町の風景",
+      "image": "https://image.anitabi.cn/points/88493/4sm3x744z.jpg?plan=h160",
+      "geo": [
+        35.6459,
+        139.445
+      ]
+    },
+    {
+      "id": "4sm3x741u",
+      "name": "南平６丁目　水路",
+      "image": "https://image.anitabi.cn/points/88493/4sm3x741u.jpg?plan=h160",
+      "geo": [
+        35.6547,
+        139.3949
+      ]
+    },
+    {
+      "id": "4sm3x73mo",
+      "name": "南平６丁目　長谷と将吾",
+      "image": "https://image.anitabi.cn/points/88493/4sm3x73mo.jpg?plan=h160",
+      "geo": [
+        35.6531,
+        139.3938
+      ]
+    },
+    {
+      "id": "4sm3x73yb",
+      "name": "南平８丁目　南平緑地　入口前道路",
+      "image": "https://image.anitabi.cn/points/88493/4sm3x73yb.jpg?plan=h160",
+      "geo": [
+        35.653,
+        139.3957
+      ]
+    },
+    {
+      "id": "4sm3x7413",
+      "name": "南平８丁目　十字路のカーブミラー",
+      "image": "https://image.anitabi.cn/points/88493/4sm3x7413.jpg?plan=h160",
+      "geo": [
+        35.6528,
+        139.3943
+      ]
+    },
+    {
+      "id": "4sm3x73sg",
+      "name": "南平８丁目　水路",
+      "image": "https://image.anitabi.cn/points/88493/4sm3x73sg.jpg?plan=h160",
+      "geo": [
+        35.6533,
+        139.3933
+      ]
+    }
+  ],
+  "pointsLength": 24,
+  "imagesLength": 24,
+  "local_id": 341
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "nnul0hosi",
+    "cn": "加尔各答",
+    "name": "Kolkata",
+    "image": "https://image.xinu.ink/pic/data/338/images/nnul0hosi-1724897765061.jpg",
+    "ep": 10,
+    "s": 75,
+    "geo": [
+      22.5105,
+      88.3785
+    ]
+  },
+  {
+    "id": "ifu1jrjuu",
+    "cn": "承太郎和DIO决战之桥",
+    "name": "26th of July corridor",
+    "image": "https://image.xinu.ink/pic/data/338/images/ifu1jrjuu-1710164191192.jpg",
+    "ep": null,
+    "geo": [
+      30.0437,
+      31.2297
+    ]
+  },
+  {
+    "id": "lswu9knnt",
+    "cn": "鱼尾狮公园",
+    "name": "Merlion Park",
+    "image": "https://image.xinu.ink/pic/data/338/images/lswu9knnt-1719652411741.jpg",
+    "ep": null,
+    "geo": [
+      1.2869,
+      103.8544
+    ]
+  },
+  {
+    "id": "noceeg9bo",
+    "cn": "瓦拉纳西 达萨斯瓦梅朵河坛",
+    "name": "Dasaswamedh Ghat, Varanasi",
+    "image": "https://image.xinu.ink/pic/data/338/images/noceeg9bo_1724936508956.jpg",
+    "geo": [
+      25.3062,
+      83.01
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "id": 74985,
+  "cn": "战争雷霆",
+  "title": "War Thunder",
+  "cover": "https://image.xinu.ink/pic/data/319/images/74985.jpg",
+  "color": "#172c5e",
+  "geo": [
+    46.118699904764014,
+    81.87689416500632
+  ],
+  "zoom": 1.696,
+  "modified": 1734442292172,
+  "litePoints": [
+    {
+      "id": "nwwo12zs1",
+      "cn": "特科瓦尔切利（山野荒城）",
+      "name": "Тҟәарчал/Tkvarcheli",
+      "image": "https://image.anitabi.cn/user/0/bangumi/74985/points/nwwo12zs1-1725607592884.jpg?plan=h160",
+      "geo": [
+        42.847,
+        41.6845
+      ]
+    },
+    {
+      "id": "nwxi30bn5",
+      "cn": "勘察加半岛（焚风山谷）",
+      "name": "Центральнокамчатская низменность",
+      "image": "https://image.anitabi.cn/user/0/bangumi/74985/points/nwxi30bn5-1725609398272.jpg?plan=h160",
+      "geo": [
+        55.964,
+        160.0071
+      ]
+    },
+    {
+      "id": "nwxr3a6y8",
+      "cn": "科斯季诺（废弃工厂）",
+      "name": "Костино/Kostino",
+      "image": "https://image.anitabi.cn/user/0/bangumi/74985/points/nwxr3a6y8-1725609893946.jpg?plan=h160",
+      "geo": [
+        57.3954,
+        43.0601
+      ]
+    },
+    {
+      "id": "nwy28p5fx",
+      "cn": "色当（马奇诺防线·蒙梅迪防区）",
+      "name": "Sedan",
+      "image": "https://image.anitabi.cn/user/0/bangumi/74985/points/nwy28p5fx-1725610719053.jpg?plan=h160",
+      "geo": [
+        49.7019,
+        4.9495
+      ]
+    },
+    {
+      "id": "o8ad64h34",
+      "cn": "新罗西斯克（港口之战）",
+      "name": "Новороссийск",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/74985/points/o8ad64h34-1726499423326.jpg?plan=h160",
+      "geo": [
+        44.7261,
+        37.777
+      ]
+    },
+    {
+      "id": "o8ajrcau8",
+      "cn": "柏林国会大厦",
+      "name": "Reichstagsgebäude",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/74985/points/o8ajrcau8-1726499761403.jpg?plan=h160",
+      "geo": [
+        52.5186,
+        13.376
+      ]
+    },
+    {
+      "id": "o8az2w3b9",
+      "cn": "Vossenack（许特根森林战役）",
+      "name": "Vossenack",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/74985/points/o8az2w3b9-1726500931739.jpg?plan=h160",
+      "geo": [
+        50.6855,
+        6.3738
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "local_id": 319
+}

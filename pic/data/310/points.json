@@ -1,0 +1,133 @@
+[
+  {
+    "id": "5o1r0th1g",
+    "cn": "南古谷站",
+    "name": "南古谷駅",
+    "image": "https://image.xinu.ink/pic/data/310/images/5o1r0th1g-1674133365652.jpg",
+    "ep": 8,
+    "s": 496,
+    "geo": [
+      35.9032,
+      139.5193
+    ],
+    "originLink": "https://m.weibo.cn/status/4193982471372720"
+  },
+  {
+    "id": "5o20ysy4a",
+    "cn": "新宿邮便局十字路口",
+    "name": "新宿郵便局前交差点",
+    "image": "https://image.xinu.ink/pic/data/310/images/5o20ysy4a-1674133964357.jpg",
+    "ep": 11,
+    "s": 1255,
+    "geo": [
+      35.69,
+      139.6963
+    ],
+    "originLink": "https://tachikichi.hatenadiary.org/entry/20140113/1389600381"
+  },
+  {
+    "id": "mkat71ol6",
+    "cn": "蔚蓝海岸市川站前店",
+    "name": "コートダジュール市川駅前店",
+    "image": "https://image.xinu.ink/pic/data/310/images/mkat71ol6-1721798493441.jpg",
+    "ep": 2,
+    "s": 626,
+    "geo": [
+      35.7288,
+      139.91
+    ]
+  },
+  {
+    "id": "51pftjatg",
+    "name": "23 Rue du Bain aux Plantes（PS3パッケージ）",
+    "image": "https://image.xinu.ink/pic/data/310/images/51pftjatg_1728415206873.jpg",
+    "geo": [
+      48.5816,
+      7.7416
+    ]
+  },
+  {
+    "id": "51pftjbb7",
+    "name": "15-21 Avenue de la Liberté（背景）",
+    "image": "https://image.xinu.ink/pic/data/310/images/51pftjbb7_1728416519964.jpg",
+    "geo": [
+      48.5859,
+      7.7585
+    ]
+  },
+  {
+    "id": "51pftjblu",
+    "name": "19 Rue des Orfèvres（タイトル画面）",
+    "image": "https://image.xinu.ink/pic/data/310/images/51pftjblu_1728415241998.jpg",
+    "geo": [
+      48.5822,
+      7.7491
+    ]
+  },
+  {
+    "id": "51pftjbkr",
+    "name": "8-9 Place Kléber（CG）",
+    "image": "https://image.xinu.ink/pic/data/310/images/51pftjbkr_1728415920436.jpg",
+    "geo": [
+      48.5833,
+      7.7457
+    ]
+  },
+  {
+    "id": "51pftjbbk",
+    "name": "31 Place Kléber（立ち絵背景）",
+    "image": "https://image.xinu.ink/pic/data/310/images/51pftjbbk_1728415958302.jpg",
+    "geo": [
+      48.5836,
+      7.7461
+    ]
+  },
+  {
+    "id": "51pftjb11",
+    "name": "20 Place de la Gare（CG）",
+    "image": "https://image.xinu.ink/pic/data/310/images/51pftjb11_1728417443793.jpg",
+    "geo": [
+      48.5848,
+      7.7347
+    ]
+  },
+  {
+    "id": "51pftjb8q",
+    "name": "14 Place de la Gare（立ち絵背景）",
+    "image": "https://image.xinu.ink/pic/data/310/images/51pftjb8q_1728416011184.jpg",
+    "geo": [
+      48.5848,
+      7.7351
+    ]
+  },
+  {
+    "id": "51pftjb3o",
+    "name": "5 Rue Adolphe Seyboth（背景）",
+    "image": "https://image.xinu.ink/pic/data/310/images/51pftjb3o_1728416023750.jpg",
+    "geo": [
+      48.5814,
+      7.7394
+    ]
+  },
+  {
+    "id": "51pftjb0f",
+    "name": "Hotel Regent Petite France",
+    "image": "https://image.xinu.ink/pic/data/310/images/51pftjb0f_1728417435587.jpg",
+    "geo": [
+      48.5809,
+      7.7419
+    ]
+  },
+  {
+    "id": "ox18fuqsd",
+    "cn": "私立立教大学新座校园",
+    "name": "立教大",
+    "image": "https://image.xinu.ink/pic/data/310/images/ox18fuqsd_1728438583379.jpg",
+    "geo": [
+      35.8132,
+      139.5662
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  }
+]

@@ -1,0 +1,136 @@
+{
+  "id": 72109,
+  "title": "Free!",
+  "city": "鸟取县",
+  "cover": "https://image.xinu.ink/pic/data/313/images/72109.jpg",
+  "color": "#716339",
+  "cp": "岩鳶高校水泳部",
+  "geo": [
+    35.512742655436625,
+    134.31251954630147
+  ],
+  "zoom": 10.247,
+  "modified": 1725419434584,
+  "litePoints": [
+    {
+      "id": "4t888vexu",
+      "cn": "田后港神社前",
+      "name": "1話　田後港神社前",
+      "image": "https://image.anitabi.cn/user/0/bangumi/72109/points/4t888vexu-1724650641091.jpg?plan=h160",
+      "ep": 5,
+      "s": 1301,
+      "geo": [
+        35.5936,
+        134.3124
+      ]
+    },
+    {
+      "id": "4t888veqd",
+      "cn": "田后简易邮局",
+      "name": "1話　田後簡易郵便局",
+      "image": "https://image.anitabi.cn/user/1399/bangumi/72109/points/4t888veqd-1724652229302.jpg?plan=h160",
+      "ep": 1,
+      "s": 263,
+      "geo": [
+        35.5924,
+        134.3119
+      ]
+    },
+    {
+      "id": "4t888vezv",
+      "cn": "主人公的家 （田后神社）",
+      "name": "1話　主人公の家（田後神社）",
+      "image": "https://image.anitabi.cn/user/1399/bangumi/72109/points/4t888vezv-1724652304602.jpg?plan=h160",
+      "ep": 4,
+      "s": 22,
+      "geo": [
+        35.5931,
+        134.3119
+      ]
+    },
+    {
+      "id": "4t888vf4n",
+      "name": "3話　岩美駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/72109/points/4t888vf4n-1724639265534.jpg?plan=h160",
+      "ep": 11,
+      "s": 730,
+      "geo": [
+        35.5742,
+        134.3354
+      ]
+    },
+    {
+      "id": "4t888vfzz",
+      "cn": "荒沙神社",
+      "name": "7話　荒砂神社",
+      "image": "https://image.anitabi.cn/user/1399/bangumi/72109/points/4t888vfzz-1724651104177.jpg?plan=h160",
+      "ep": 10,
+      "s": 361,
+      "geo": [
+        35.591,
+        134.3213
+      ]
+    },
+    {
+      "id": "4t888vfio",
+      "cn": "鸟取车站北口",
+      "name": "7話　鳥取駅北口",
+      "image": "https://image.anitabi.cn/user/1399/bangumi/72109/points/4t888vfio-1724651298157.jpg?plan=h160",
+      "ep": 81,
+      "s": 994,
+      "geo": [
+        35.4946,
+        134.2259
+      ]
+    },
+    {
+      "id": "4t888vg4u",
+      "cn": "京都水生馆",
+      "name": "12話　京都アクアリーナ",
+      "image": "https://image.anitabi.cn/user/1399/bangumi/72109/points/4t888vg4u-1724651866778.jpg?plan=h160",
+      "ep": 11,
+      "s": 1401,
+      "geo": [
+        34.9898,
+        135.7153
+      ]
+    },
+    {
+      "id": "4t888vfz6",
+      "cn": "日野神社",
+      "name": "2期4話　日野神社",
+      "image": "https://image.anitabi.cn/user/1399/bangumi/72109/points/4t888vfz6-1724652017218.jpg?plan=h160",
+      "ep": 4,
+      "s": 1275,
+      "geo": [
+        35.5763,
+        134.2979
+      ]
+    },
+    {
+      "id": "nkjjs37em",
+      "cn": "岩美病院",
+      "name": "岩美病院",
+      "image": "https://image.anitabi.cn/user/0/bangumi/72109/points/nkjjs37em-1724638680854.jpg?plan=h160",
+      "geo": [
+        35.573,
+        134.3336
+      ]
+    },
+    {
+      "id": "nkpzr6l1u",
+      "cn": "central 火车站",
+      "name": "Central",
+      "image": "https://image.anitabi.cn/user/1399/bangumi/72109/points/nkpzr6l1u-1724652689522.jpg?plan=h160",
+      "ep": 12,
+      "s": 1023,
+      "geo": [
+        -33.884,
+        151.2064
+      ]
+    }
+  ],
+  "pointsLength": 39,
+  "imagesLength": 29,
+  "local_id": 313
+}

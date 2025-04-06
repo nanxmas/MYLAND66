@@ -1,0 +1,61 @@
+{
+  "id": 85631,
+  "cn": "JOJO的奇妙冒险 星尘斗士",
+  "title": "ジョジョの奇妙な冒険 スターダストクルセイダース",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/338/images/85631.jpg",
+  "color": "#cf3383",
+  "geo": [
+    30.04374942577654,
+    31.229784932360076
+  ],
+  "zoom": 13.816,
+  "modified": 1726160311587,
+  "litePoints": [
+    {
+      "id": "nnul0hosi",
+      "cn": "加尔各答",
+      "name": "Kolkata",
+      "image": "https://image.anitabi.cn/user/0/bangumi/85631/points/nnul0hosi-1724897765061.jpg?plan=h160",
+      "ep": 10,
+      "s": 75,
+      "geo": [
+        22.5105,
+        88.3785
+      ]
+    },
+    {
+      "id": "ifu1jrjuu",
+      "cn": "承太郎和DIO决战之桥",
+      "name": "26th of July corridor",
+      "image": "https://image.anitabi.cn/user/0/bangumi/85631/points/ifu1jrjuu-1710164191192.jpg?plan=h160",
+      "geo": [
+        30.0437,
+        31.2297
+      ]
+    },
+    {
+      "id": "lswu9knnt",
+      "cn": "鱼尾狮公园",
+      "name": "Merlion Park",
+      "image": "https://image.anitabi.cn/user/0/bangumi/85631/points/lswu9knnt-1719652411741.jpg?plan=h160",
+      "geo": [
+        1.2869,
+        103.8544
+      ]
+    },
+    {
+      "id": "noceeg9bo",
+      "cn": "瓦拉纳西 达萨斯瓦梅朵河坛",
+      "name": "Dasaswamedh Ghat, Varanasi",
+      "image": "https://image.anitabi.cn/points/85631/noceeg9bo_1724936508956.jpg?plan=h160",
+      "geo": [
+        25.3062,
+        83.01
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 338
+}

@@ -1,0 +1,31 @@
+{
+  "id": 89485,
+  "cn": "极黑的布伦希尔特",
+  "title": "極黒のブリュンヒルデ",
+  "city": "长野市",
+  "cover": "https://image.xinu.ink/pic/data/345/images/89485.jpg",
+  "color": "#6a7f95",
+  "cp": "極黒のブリュンヒルデ",
+  "geo": [
+    36.6485258,
+    138.1950371
+  ],
+  "modified": 1722154153409,
+  "litePoints": [
+    {
+      "id": "mo13d793p",
+      "cn": "国立天文台 大赤道儀室",
+      "name": "国立天文台 大赤道儀室",
+      "image": "https://image.anitabi.cn/user/0/bangumi/89485/points/mo13d793p-1722090848063.jpg?plan=h160",
+      "ep": 1,
+      "s": 72,
+      "geo": [
+        35.6742,
+        139.5367
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 345
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "e3m6x429z",
+    "cn": "轻米高中",
+    "name": "軽米高中",
+    "image": "https://image.xinu.ink/pic/data/334/images/e3m6x429z-1697922185059.jpg",
+    "ep": 1,
+    "s": 1297,
+    "geo": [
+      40.3217,
+      141.4588
+    ]
+  },
+  {
+    "id": "ac2hs519n",
+    "cn": "仙台体育馆",
+    "name": "仙台体育馆（現：カメイアリーナ​仙台）",
+    "image": "https://image.xinu.ink/pic/data/334/images/ac2hs519n-1687300288099.jpg",
+    "ep": 19,
+    "s": 761,
+    "geo": [
+      38.2179,
+      140.8691
+    ]
+  },
+  {
+    "id": "nr9sg8m8y",
+    "cn": "轻米食堂",
+    "name": "軽米食堂",
+    "image": "https://image.xinu.ink/pic/data/334/images/nr9sg8m8y-1725166014774.jpg",
+    "ep": null,
+    "geo": [
+      40.3266,
+      141.4627
+    ]
+  },
+  {
+    "id": "n9z333lx9",
+    "cn": "東北学院高",
+    "name": "東北学院高",
+    "image": "https://image.xinu.ink/pic/data/334/images/n9z333lx9-1723810677750.jpg",
+    "ep": "",
+    "s": 17,
+    "geo": [
+      38.2763,
+      140.9436
+    ]
+  }
+]

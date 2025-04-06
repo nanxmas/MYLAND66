@@ -1,0 +1,156 @@
+[
+  {
+    "id": "50ux6a1ff",
+    "name": "札幌駅南口",
+    "image": "https://image.xinu.ink/pic/data/307/images/50ux6a1ff_1672316148872.jpg",
+    "geo": [
+      43.0673,
+      141.3516
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AQYQvclH8pyMZ9iPKVn-kknfElA&ll=43.067305%2C141.351656&z=17"
+  },
+  {
+    "id": "50uyttdyz",
+    "name": "そして北斗星が到着",
+    "image": "https://image.xinu.ink/pic/data/307/images/50uyttdyz_1672316212841.jpg",
+    "geo": [
+      43.0688,
+      141.3524
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "50ux6a1fv",
+    "name": "札幌駅3番線ホーム",
+    "image": "https://image.xinu.ink/pic/data/307/images/50ux6a1fv_1672316223312.jpg",
+    "geo": [
+      43.0685,
+      141.3519
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AQYQvclH8pyMZ9iPKVn-kknfElA&ll=43.068527%2C141.351911&z=17"
+  },
+  {
+    "id": "50ux6a1s2",
+    "name": "JR室蘭駅",
+    "image": "https://image.xinu.ink/pic/data/307/images/50ux6a1s2_1672316265559.jpg",
+    "geo": [
+      42.318,
+      140.9739
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AQYQvclH8pyMZ9iPKVn-kknfElA&ll=42.318003%2C140.973982&z=17"
+  },
+  {
+    "id": "50ux6a1cf",
+    "name": "JR小幌駅",
+    "image": "https://image.xinu.ink/pic/data/307/images/50ux6a1cf_1672316299171.jpg",
+    "geo": [
+      42.5897,
+      140.5372
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AQYQvclH8pyMZ9iPKVn-kknfElA&ll=42.589741%2C140.537217&z=17"
+  },
+  {
+    "id": "50ux6a1v5",
+    "name": "JR米原駅",
+    "image": "https://image.xinu.ink/pic/data/307/images/50ux6a1v5_1672316394030.jpg",
+    "geo": [
+      35.3144,
+      136.2896
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AQYQvclH8pyMZ9iPKVn-kknfElA&ll=35.314407%2C136.289649&z=17"
+  },
+  {
+    "id": "50ux6a1h8",
+    "name": "近江鉄道米原駅",
+    "image": "https://image.xinu.ink/pic/data/307/images/50ux6a1h8_1672316408306.jpg",
+    "geo": [
+      35.3142,
+      136.2904
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AQYQvclH8pyMZ9iPKVn-kknfElA&ll=35.314285%2C136.290411&z=17"
+  },
+  {
+    "id": "50ux6a1ng",
+    "name": "近江鉄道豊郷駅",
+    "image": "https://image.xinu.ink/pic/data/307/images/50ux6a1ng_1672316443789.jpg",
+    "geo": [
+      35.1978,
+      136.2309
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AQYQvclH8pyMZ9iPKVn-kknfElA&ll=35.197868%2C136.230967&z=17"
+  },
+  {
+    "id": "50ux6a1vy",
+    "name": "飛び出しムギちゃん",
+    "image": "https://image.xinu.ink/pic/data/307/images/50ux6a1vy_1672316535901.jpg",
+    "geo": [
+      35.1977,
+      136.2304
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AQYQvclH8pyMZ9iPKVn-kknfElA&ll=35.197792%2C136.230405&z=17"
+  },
+  {
+    "id": "50ux6a1v1",
+    "name": "飛び出し澪ちゃん",
+    "image": "https://image.xinu.ink/pic/data/307/images/50ux6a1v1_1672316510646.jpg",
+    "geo": [
+      35.198,
+      136.2299
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AQYQvclH8pyMZ9iPKVn-kknfElA&ll=35.198049%2C136.229951&z=17"
+  },
+  {
+    "id": "50ux6a1vb",
+    "name": "飛び出し和ちゃん",
+    "image": "https://image.xinu.ink/pic/data/307/images/50ux6a1vb_1672316506531.jpg",
+    "geo": [
+      35.2004,
+      136.2296
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AQYQvclH8pyMZ9iPKVn-kknfElA&ll=35.200493%2C136.229624&z=17"
+  },
+  {
+    "id": "50ux6a1lz",
+    "name": "飛び出し唯ちゃん",
+    "image": "https://image.xinu.ink/pic/data/307/images/50ux6a1lz_1672316518326.jpg",
+    "geo": [
+      35.204,
+      136.2323
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AQYQvclH8pyMZ9iPKVn-kknfElA&ll=35.204041%2C136.232303&z=17"
+  },
+  {
+    "id": "50ux6a1ec",
+    "name": "豊郷小学校旧校舎群",
+    "image": "https://image.xinu.ink/pic/data/307/images/50ux6a1ec_1672316551803.jpg",
+    "geo": [
+      35.2038,
+      136.232
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AQYQvclH8pyMZ9iPKVn-kknfElA&ll=35.20381%2C136.232096&z=17"
+  },
+  {
+    "id": "50ux6a1eq",
+    "name": "上白滝駅",
+    "image": "https://image.xinu.ink/pic/data/307/images/50ux6a1eq_1672316422167.jpg",
+    "geo": [
+      43.8761,
+      143.1442
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AQYQvclH8pyMZ9iPKVn-kknfElA&ll=43.876134%2C143.14426&z=17"
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "id": 84171,
+  "cn": "排球少年",
+  "title": "ハイキュー!!",
+  "cover": "https://image.xinu.ink/pic/data/334/images/84171.jpg",
+  "color": "#ca7d44",
+  "geo": [
+    39.13669178105067,
+    141.32507005566072
+  ],
+  "zoom": 6.429,
+  "modified": 1730181289806,
+  "litePoints": [
+    {
+      "id": "e3m6x429z",
+      "cn": "轻米高中",
+      "name": "軽米高中",
+      "image": "https://image.anitabi.cn/user/0/bangumi/84171/points/e3m6x429z-1697922185059.jpg?plan=h160",
+      "ep": 1,
+      "s": 1297,
+      "geo": [
+        40.3217,
+        141.4588
+      ]
+    },
+    {
+      "id": "ac2hs519n",
+      "cn": "仙台体育馆",
+      "name": "仙台体育馆（現：カメイアリーナ​仙台）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/84171/points/ac2hs519n-1687300288099.jpg?plan=h160",
+      "ep": 19,
+      "s": 761,
+      "geo": [
+        38.2179,
+        140.8691
+      ]
+    },
+    {
+      "id": "nr9sg8m8y",
+      "cn": "轻米食堂",
+      "name": "軽米食堂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/84171/points/nr9sg8m8y-1725166014774.jpg?plan=h160",
+      "geo": [
+        40.3266,
+        141.4627
+      ]
+    },
+    {
+      "id": "n9z333lx9",
+      "cn": "東北学院高",
+      "name": "東北学院高",
+      "image": "https://image.anitabi.cn/user/0/bangumi/84171/points/n9z333lx9-1723810677750.jpg?plan=h160",
+      "s": 17,
+      "geo": [
+        38.2763,
+        140.9436
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 334
+}

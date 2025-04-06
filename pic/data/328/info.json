@@ -1,0 +1,49 @@
+{
+  "id": 79802,
+  "cn": "信长之枪",
+  "title": "ノブナガン",
+  "cover": "https://image.xinu.ink/pic/data/328/images/79802.jpg",
+  "color": "#470e0e",
+  "geo": [
+    22.683977164869773,
+    120.29711339635878
+  ],
+  "zoom": 15.26,
+  "modified": 1723801118824,
+  "litePoints": [
+    {
+      "id": "n9tfua40b",
+      "name": "左营元帝庙北极亭",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/79802/points/n9tfua40b-1723798174969.jpg?plan=h160",
+      "ep": 1,
+      "s": 340,
+      "geo": [
+        22.6845,
+        120.2961
+      ]
+    },
+    {
+      "id": "n9tji2q94",
+      "name": "莲池潭",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/79802/points/n9tji2q94-1723798360037.jpg?plan=h160",
+      "ep": 1,
+      "s": 325,
+      "geo": [
+        22.6865,
+        120.2998
+      ]
+    },
+    {
+      "id": "n9to1k8sr",
+      "name": "蓮潭路",
+      "image": "https://image.anitabi.cn/points/79802/n9to1k8sr_1723798629347.jpg?plan=h160",
+      "geo": [
+        22.6805,
+        120.2917
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 328
+}

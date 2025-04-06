@@ -1,0 +1,74 @@
+{
+  "id": 84386,
+  "cn": "舰队Collection",
+  "title": "艦隊これくしょん -艦これ-",
+  "city": "吴市",
+  "cover": "https://image.xinu.ink/pic/data/335/images/84386.jpg",
+  "color": "#475563",
+  "cp": "2014 艦これ連合艦隊司令部",
+  "geo": [
+    34.208871298882926,
+    132.52580265333074
+  ],
+  "zoom": 10.977,
+  "modified": 1727512487465,
+  "litePoints": [
+    {
+      "id": "51i527jmm",
+      "name": "海上自衛隊幹部候補生学校庁舎（海軍兵学校生徒館）",
+      "image": "https://image.anitabi.cn/points/84386/51i527jmm_1672369418971.jpg?plan=h160",
+      "geo": [
+        34.2451,
+        132.4739
+      ]
+    },
+    {
+      "id": "51i527jjh",
+      "name": "１術校庁舎",
+      "image": "https://image.anitabi.cn/points/84386/51i527jjh_1672369419344.jpg?plan=h160",
+      "geo": [
+        34.2443,
+        132.476
+      ]
+    },
+    {
+      "id": "51i527jos",
+      "name": "旧魚雷上げ下ろしクレーン",
+      "image": "https://image.anitabi.cn/points/84386/51i527jos_1672369419693.jpg?plan=h160",
+      "geo": [
+        34.2252,
+        132.5484
+      ]
+    },
+    {
+      "id": "51i527jb9",
+      "name": "潜水艦桟橋",
+      "image": "https://image.anitabi.cn/points/84386/51i527jb9_1672369419967.jpg?plan=h160",
+      "geo": [
+        34.226,
+        132.5493
+      ]
+    },
+    {
+      "id": "51i527jjd",
+      "name": "海上自衛隊呉地方総監部庁舎（旧呉鎮守府庁舎）",
+      "image": "https://image.anitabi.cn/points/84386/51i527jjd_1672369420312.jpg?plan=h160",
+      "geo": [
+        34.2369,
+        132.56
+      ]
+    },
+    {
+      "id": "51i527jgp",
+      "name": "藤棚",
+      "image": "https://image.anitabi.cn/points/84386/51i527jgp_1672369420530.jpg?plan=h160",
+      "geo": [
+        34.2381,
+        132.563
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 335
+}

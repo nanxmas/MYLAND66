@@ -1,0 +1,84 @@
+{
+  "id": 75702,
+  "cn": "归宅部活动记录",
+  "title": "帰宅部活動記録",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/322/images/75702.jpg",
+  "color": "#6a6a95",
+  "geo": [
+    35.6761919,
+    139.6503106
+  ],
+  "modified": 1729417903374,
+  "litePoints": [
+    {
+      "id": "p9hwuskwr",
+      "name": "岡山​駅",
+      "image": "https://image.anitabi.cn/points/75702/p9hwuskwr_1729415292528.jpg?plan=h160",
+      "ep": 9,
+      "s": 523,
+      "geo": [
+        34.6659,
+        133.9183
+      ]
+    },
+    {
+      "id": "p9hxxlffs",
+      "cn": "丸龟城",
+      "name": "丸亀城",
+      "image": "https://image.anitabi.cn/points/75702/p9hxxlffs_1729415341314.jpg?plan=h160",
+      "ep": 9,
+      "s": 529,
+      "geo": [
+        34.2861,
+        133.8003
+      ]
+    },
+    {
+      "id": "kpx6osu4p",
+      "name": "富士そば　荻窪北口店",
+      "image": "https://image.anitabi.cn/points/75702/kpx6osu4p_1729415509010.jpg?plan=h160",
+      "ep": 9,
+      "s": 567,
+      "geo": [
+        35.7049,
+        139.6205
+      ]
+    },
+    {
+      "id": "kpx6ostkt",
+      "name": "日高屋　荻窪北口店",
+      "image": "https://image.anitabi.cn/points/75702/kpx6ostkt_1729417459739.jpg?plan=h160",
+      "ep": 9,
+      "s": 618,
+      "geo": [
+        35.7051,
+        139.6203
+      ]
+    },
+    {
+      "id": "kpx6ostuc",
+      "name": "井荻駅",
+      "image": "https://image.anitabi.cn/points/75702/kpx6ostuc_1729417717520.jpg?plan=h160",
+      "ep": 12,
+      "s": 726,
+      "geo": [
+        35.7244,
+        139.6147
+      ]
+    },
+    {
+      "id": "kpx6ost5n",
+      "name": "荻窪駅前ロータリー",
+      "image": "https://image.anitabi.cn/points/75702/kpx6ost5n_1729416026158.jpg?plan=h160",
+      "ep": 9,
+      "geo": [
+        35.7047,
+        139.6207
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 322
+}

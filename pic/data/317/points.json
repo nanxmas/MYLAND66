@@ -1,0 +1,87 @@
+[
+  {
+    "id": "rjgtayvr8",
+    "name": "新青梅街道中野区鷺宮六丁目",
+    "image": "https://image.xinu.ink/pic/data/317/images/rjgtayvr8_1735843471287.jpg",
+    "ep": "OP1",
+    "s": 68,
+    "geo": [
+      35.7272,
+      139.6293
+    ]
+  },
+  {
+    "id": "rjj06i95u",
+    "name": "新青梅街道",
+    "image": "https://image.xinu.ink/pic/data/317/images/rjj06i95u_1735843551027.jpg",
+    "ep": "OP1",
+    "s": 96,
+    "geo": [
+      35.7272,
+      139.6294
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tkx1468he",
+    "name": "奥再度ドライブウェイ",
+    "image": "https://image.xinu.ink/pic/data/317/images/tkx1468he-1741594823698.jpg",
+    "ep": null,
+    "geo": [
+      34.6972,
+      135.1806
+    ]
+  },
+  {
+    "id": "tkx7my6qf",
+    "name": "環七通り",
+    "image": "https://image.xinu.ink/pic/data/317/images/tkx7my6qf-1741595019280.jpg",
+    "ep": null,
+    "geo": [
+      35.6754,
+      139.8779
+    ]
+  },
+  {
+    "id": "tkx92may3",
+    "cn": "上学路",
+    "name": "上学路",
+    "image": "https://image.xinu.ink/pic/data/317/images/tkx92may3-1741595304180.jpg",
+    "ep": null,
+    "geo": [
+      35.6749,
+      139.8765
+    ]
+  },
+  {
+    "id": "tkxcxacyq",
+    "name": "上学校的路",
+    "image": "https://image.xinu.ink/pic/data/317/images/tkxcxacyq-1741595329702.jpg",
+    "ep": null,
+    "geo": [
+      35.6749,
+      139.8767
+    ]
+  },
+  {
+    "id": "tkxe4rzmx",
+    "name": "表参道人行天桥",
+    "image": "https://image.xinu.ink/pic/data/317/images/tkxe4rzmx-1741595416778.jpg",
+    "ep": null,
+    "geo": [
+      35.6661,
+      139.7104
+    ]
+  },
+  {
+    "id": "tkxfj1s0w",
+    "name": "代代木公园",
+    "image": "https://image.xinu.ink/pic/data/317/images/tkxfj1s0w-1741595493501.jpg",
+    "ep": null,
+    "geo": [
+      35.6691,
+      139.7017
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "n6m4s3teh",
+    "cn": "纪念舰三笠",
+    "name": "記念艦三笠",
+    "image": "https://image.xinu.ink/pic/data/318/images/n6m4s3teh-1723547182173.jpg",
+    "ep": "4",
+    "s": "685",
+    "geo": [
+      35.2844,
+      139.6744
+    ]
+  },
+  {
+    "id": "qsubbmnd4",
+    "cn": "美国海军圣地亚哥军港",
+    "name": "Naval Base San Diego",
+    "image": "https://image.xinu.ink/pic/data/318/images/qsubbmnd4-1733752753138.jpg",
+    "ep": "12",
+    "s": "22:51",
+    "geo": [
+      32.6795,
+      -117.1239
+    ]
+  },
+  {
+    "id": "qtn124xm4",
+    "cn": "横须贺海军设施",
+    "name": "United States Fleet Activities Yokosuka",
+    "image": "https://image.xinu.ink/pic/data/318/images/qtn124xm4-1733814862721.jpg",
+    "ep": "1",
+    "s": "6：56",
+    "geo": [
+      35.2866,
+      139.6535
+    ]
+  },
+  {
+    "id": "qtngq9e6d",
+    "cn": "航空自卫队​高良台分屯基地",
+    "name": "高良台分屯基地",
+    "image": "https://image.xinu.ink/pic/data/318/images/qtngq9e6d-1733815774087.jpg",
+    "ep": "1",
+    "s": "4:47",
+    "geo": [
+      33.2616,
+      130.5248
+    ]
+  }
+]

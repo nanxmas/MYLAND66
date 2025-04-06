@@ -1,0 +1,121 @@
+{
+  "id": 90880,
+  "cn": "玉子爱情故事",
+  "title": "たまこラブストーリー",
+  "city": "京都市",
+  "cover": "https://image.xinu.ink/pic/data/351/images/90880.jpg",
+  "color": "#474e63",
+  "cp": "うさぎ山商店街",
+  "geo": [
+    35.02975396915835,
+    135.77227519645822
+  ],
+  "zoom": 17.366,
+  "modified": 1726552485368,
+  "litePoints": [
+    {
+      "id": "m2lgs2bdn",
+      "name": "出町商店街 动画中玉子家望向大鲸鱼",
+      "image": "https://image.anitabi.cn/points/90880/m2lgs2bdn_1720411147994.jpg?plan=h160",
+      "s": 375,
+      "geo": [
+        35.0305,
+        135.7685
+      ]
+    },
+    {
+      "id": "m2lfpts1e",
+      "name": "出町商店街 大鲸鱼 广角",
+      "image": "https://image.anitabi.cn/points/90880/m2lfpts1e_1720411058079.jpg?plan=h160",
+      "s": 1092,
+      "geo": [
+        35.0302,
+        135.7685
+      ]
+    },
+    {
+      "id": "m2lexgtk9",
+      "name": "出町商店街 动画中玉子家前",
+      "image": "https://image.anitabi.cn/points/90880/m2lexgtk9_1720411015814.jpg?plan=h160",
+      "s": 2092,
+      "geo": [
+        35.0306,
+        135.7685
+      ]
+    },
+    {
+      "id": "m2lw41bqt",
+      "name": "出町商店街 反方向望向玉子家",
+      "image": "https://image.anitabi.cn/points/90880/m2lw41bqt_1720412037318.jpg?plan=h160",
+      "s": 2927,
+      "geo": [
+        35.0302,
+        135.7685
+      ]
+    },
+    {
+      "id": "m2lyskatr",
+      "cn": "玉子市场",
+      "name": "出町商店街 鲸鱼下",
+      "image": "https://image.anitabi.cn/points/90880/m2lyskatr_1720412216747.jpg?plan=h160",
+      "s": 3463,
+      "geo": [
+        35.0302,
+        135.7684
+      ]
+    },
+    {
+      "id": "m2m0bkd7a",
+      "name": "出町商店街 鲸鱼下",
+      "image": "https://image.anitabi.cn/points/90880/m2m0bkd7a_1720412292574.jpg?plan=h160",
+      "s": 2910,
+      "geo": [
+        35.0302,
+        135.7684
+      ]
+    },
+    {
+      "id": "m2liexflu",
+      "name": "出町商店街 西门 广角",
+      "image": "https://image.anitabi.cn/points/90880/m2liexflu_1720411221197.jpg?plan=h160",
+      "s": 979,
+      "geo": [
+        35.0302,
+        135.7678
+      ]
+    },
+    {
+      "id": "m2m0rmyfs",
+      "name": "出町商店街 虚拟佟司家",
+      "image": "https://image.anitabi.cn/points/90880/m2m0rmyfs_1720412347879.jpg?plan=h160",
+      "s": 2730,
+      "geo": [
+        35.0303,
+        135.7685
+      ]
+    },
+    {
+      "id": "m2m21z23e",
+      "name": "出町商店街 虚拟佟司家边",
+      "image": "https://image.anitabi.cn/points/90880/m2m21z23e_1720412427083.jpg?plan=h160",
+      "s": 2730,
+      "geo": [
+        35.0303,
+        135.7685
+      ]
+    },
+    {
+      "id": "m2lk0r5qy",
+      "name": "出町商店街 西门",
+      "image": "https://image.anitabi.cn/points/90880/m2lk0r5qy_1720411309336.jpg?plan=h160",
+      "s": 982,
+      "geo": [
+        35.0303,
+        135.7679
+      ]
+    }
+  ],
+  "pointsLength": 76,
+  "imagesLength": 76,
+  "local_id": 351
+}

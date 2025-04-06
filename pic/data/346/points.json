@@ -1,0 +1,57 @@
+[
+  {
+    "id": "51i530z00",
+    "name": "釧路湿原展望台",
+    "image": "https://image.xinu.ink/pic/data/346/images/51i530z00_1730618708514.jpg",
+    "geo": [
+      43.0741,
+      144.3206
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-TvHEe1nhtO1vHjUX8hLLkySXoM&ll=43.074155%2C144.320612&z=17"
+  },
+  {
+    "id": "51i530ynz",
+    "name": "真竜神社",
+    "image": "https://image.xinu.ink/pic/data/346/images/51i530ynz_1730619022515.jpg",
+    "geo": [
+      43.0573,
+      144.8372
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-TvHEe1nhtO1vHjUX8hLLkySXoM&ll=43.057305%2C144.837255&z=17"
+  },
+  {
+    "id": "51i530z6x",
+    "name": "藻散布沼",
+    "image": "https://image.xinu.ink/pic/data/346/images/51i530z6x_1730619307177.jpg",
+    "geo": [
+      43.0208,
+      145.0192
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-TvHEe1nhtO1vHjUX8hLLkySXoM&ll=43.020861%2C145.019227&z=17"
+  },
+  {
+    "id": "51i530ymd",
+    "name": "霧多布岬",
+    "image": "https://image.xinu.ink/pic/data/346/images/51i530ymd_1730619076066.jpg",
+    "geo": [
+      43.0782,
+      145.1645
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-TvHEe1nhtO1vHjUX8hLLkySXoM&ll=43.078229%2C145.164561&z=17"
+  },
+  {
+    "id": "51i530yvg",
+    "name": "JR札幌駅ホーム",
+    "image": "https://image.xinu.ink/pic/data/346/images/51i530yvg_1730619194723.jpg",
+    "geo": [
+      43.0686,
+      141.3507
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-TvHEe1nhtO1vHjUX8hLLkySXoM&ll=43.068606%2C141.350763&z=17"
+  }
+]

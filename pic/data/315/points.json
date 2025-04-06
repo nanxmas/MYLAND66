@@ -1,0 +1,2066 @@
+[
+  {
+    "id": "je3jmep6u",
+    "name": "京阪石山駅",
+    "image": "https://image.xinu.ink/pic/data/315/images/je3jmep6u-1729747298589.jpg",
+    "ep": 3,
+    "s": 249,
+    "geo": [
+      34.9796,
+      135.8994
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ppv0i2nmh",
+    "name": "京阪石山駅 长椅",
+    "image": "https://image.xinu.ink/pic/data/315/images/ppv0i2nmh-1730697606138.jpg",
+    "ep": 4,
+    "s": 937,
+    "geo": [
+      34.9795,
+      135.8998
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q07n6vl29",
+    "name": "京阪石山駅 雕塑",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07n6vl29-1731508740796.jpg",
+    "ep": 10,
+    "s": 481,
+    "geo": [
+      34.9794,
+      135.8999
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw446ax",
+    "cn": "京阪石山站站台",
+    "name": "京阪石山駅　ホーム",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw446ax-1729747329700.jpg",
+    "ep": 1,
+    "s": 299,
+    "geo": [
+      34.9796,
+      135.8993
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pomb0g6n3",
+    "name": "京阪石山站 站台",
+    "image": "https://image.xinu.ink/pic/data/315/images/pomb0g6n3-1730600286670.jpg",
+    "ep": 3,
+    "s": 252,
+    "geo": [
+      34.9796,
+      135.8993
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pomdyqn86",
+    "name": "京阪600形电车",
+    "image": "https://image.xinu.ink/pic/data/315/images/pomdyqn86-1730600498453.jpg",
+    "ep": 3,
+    "s": 270,
+    "geo": [
+      34.9796,
+      135.8992
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ou1r9v7uj",
+    "name": "京坂石山坂本线 铁路桥下",
+    "image": "https://image.xinu.ink/pic/data/315/images/ou1r9v7uj-1728204711153.jpg",
+    "ep": "小鸟游六花・改",
+    "s": 5729,
+    "geo": [
+      34.9816,
+      135.8961
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0u6ernuf",
+    "name": "マクドナルド 石山駅前店",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0u6ernuf-1729747181910.jpg",
+    "ep": 4,
+    "s": 524,
+    "geo": [
+      34.9792,
+      135.9003
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ppuw6u2wz",
+    "name": "マクドナルド石山駅前店 二楼",
+    "image": "https://image.xinu.ink/pic/data/315/images/ppuw6u2wz-1730697375336.jpg",
+    "ep": 4,
+    "s": 564,
+    "geo": [
+      34.9792,
+      135.9003
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw445tt",
+    "name": "松原町西交差点北",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw445tt-1729747215229.jpg",
+    "ep": 1,
+    "s": 810,
+    "geo": [
+      34.9794,
+      135.9021
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw44bbz",
+    "name": "ホテルコートダジュール（存疑）",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw44bbz-1729831005482.jpg",
+    "ep": 1,
+    "s": 821,
+    "geo": [
+      34.9943,
+      135.9102
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0u6erjuj",
+    "name": "瀬田川大橋",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0u6erjuj-1729746447661.jpg",
+    "ep": 12,
+    "s": 751,
+    "geo": [
+      34.9781,
+      135.9072
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnmqpqh1v",
+    "cn": "濑田川大桥",
+    "name": "瀬田川大橋",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnmqpqh1v-1730522865950.jpg",
+    "ep": 1,
+    "s": 287,
+    "geo": [
+      34.9781,
+      135.9069
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pomk9tukt",
+    "name": "瀬田川大橋　",
+    "image": "https://image.xinu.ink/pic/data/315/images/pomk9tukt-1730600850313.jpg",
+    "ep": 3,
+    "s": 842,
+    "geo": [
+      34.9781,
+      135.9066
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw446ny",
+    "name": "瀬田川大橋西侧",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw446ny-1729746486355.jpg",
+    "ep": 3,
+    "s": 219,
+    "geo": [
+      34.978,
+      135.9058
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw44bun",
+    "name": "瀬田川大橋西岸",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw44bun-1729746524755.jpg",
+    "ep": 12,
+    "s": 516,
+    "geo": [
+      34.9779,
+      135.9055
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j2kw7ntba",
+    "cn": "濑田川大桥  远景",
+    "name": "瀬田川大橋 ",
+    "image": "https://image.xinu.ink/pic/data/315/images/j2kw7ntba-1730524439711.jpg",
+    "ep": 1,
+    "s": 842,
+    "geo": [
+      34.9781,
+      135.9075
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0vkyv39p",
+    "name": "瀬田川",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0vkyv39p-1729746874357.jpg",
+    "ep": 11,
+    "s": 405,
+    "geo": [
+      34.9793,
+      135.9065
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0dmrbcbr",
+    "name": "瀬田川大橋下",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0dmrbcbr-1731651974993.jpg",
+    "ep": 12,
+    "s": 1100,
+    "geo": [
+      34.9781,
+      135.9079
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q21gdxaum",
+    "name": "濑田川大桥下",
+    "image": "https://image.xinu.ink/pic/data/315/images/q21gdxaum-1731651999393.jpg",
+    "ep": 12,
+    "s": 1104,
+    "geo": [
+      34.9781,
+      135.9079
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kbt5iapc3",
+    "cn": "濑田川大桥旁的楼梯",
+    "name": "瀬田川大橋の隣の階段",
+    "image": "https://image.xinu.ink/pic/data/315/images/kbt5iapc3-1729746680664.jpg",
+    "ep": 12,
+    "s": 908,
+    "geo": [
+      34.9782,
+      135.9079
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q21fgrl9z",
+    "name": "濑田川大桥 楼梯旁",
+    "image": "https://image.xinu.ink/pic/data/315/images/q21fgrl9z-1731651954567.jpg",
+    "ep": 12,
+    "s": 1061,
+    "geo": [
+      34.9782,
+      135.9079
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw44bcf",
+    "cn": "濑田川大橋 东岸",
+    "name": "瀬田川大橋 东岸",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw44bcf-1729746581606.jpg",
+    "ep": 11,
+    "s": 319,
+    "geo": [
+      34.9783,
+      135.9079
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "izrzkctgk",
+    "name": "JR瀬田川橋下",
+    "image": "https://image.xinu.ink/pic/data/315/images/izrzkctgk-1731649475009.jpg",
+    "ep": 11,
+    "s": 1050,
+    "geo": [
+      34.98,
+      135.9074
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw446ti",
+    "name": "瀬田川川岸",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw446ti-1729746991861.jpg",
+    "ep": 1,
+    "s": 1312,
+    "geo": [
+      34.9769,
+      135.9081
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q2010rfug",
+    "name": "瀬田川川岸 南",
+    "image": "https://image.xinu.ink/pic/data/315/images/q2010rfug-1731648895510.jpg",
+    "ep": 11,
+    "s": 536,
+    "geo": [
+      34.9767,
+      135.9081
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kbt0y7sbv",
+    "cn": "瀬田川西侧 建筑",
+    "name": "瀬田川西侧 建筑",
+    "image": "https://image.xinu.ink/pic/data/315/images/kbt0y7sbv-1729747096529.jpg",
+    "ep": 11,
+    "s": 529,
+    "geo": [
+      34.9767,
+      135.9081
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw446sn",
+    "name": "唐橋公園 步行道",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw446sn-1729747023924.jpg",
+    "ep": 8,
+    "s": 416,
+    "geo": [
+      34.9769,
+      135.9082
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw44bik",
+    "cn": "唐桥公园的游乐设施",
+    "name": "唐橋公園　遊具",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw44bik-1729830639010.jpg",
+    "ep": 12,
+    "s": 322,
+    "geo": [
+      34.976,
+      135.9084
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nwsd880qd",
+    "name": "唐橋公園　広場",
+    "image": "https://image.xinu.ink/pic/data/315/images/nwsd880qd-1729830672209.jpg",
+    "ep": 10,
+    "s": 505,
+    "geo": [
+      34.9767,
+      135.9082
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnozua8go",
+    "name": "唐橋公園　広場侧道",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnozua8go-1730527787509.jpg",
+    "ep": 2,
+    "s": 456,
+    "geo": [
+      34.9766,
+      135.9084
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "je45pienk",
+    "cn": "唐桥公园的长椅",
+    "name": "唐橋公園のベンチ",
+    "image": "https://image.xinu.ink/pic/data/315/images/je45pienk-1730524654730.jpg",
+    "ep": 1,
+    "s": 854,
+    "geo": [
+      34.9775,
+      135.9082
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw447ba",
+    "name": "唐橋公園 长椅旁",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw447ba-1730524718194.jpg",
+    "ep": 1,
+    "s": 984,
+    "geo": [
+      34.9775,
+      135.9084
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw44bkd",
+    "name": "ファミリーマート玉野浦店裏",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw44bkd-1729746957096.jpg",
+    "ep": 11,
+    "s": 159,
+    "geo": [
+      34.9821,
+      135.9079
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw44buq",
+    "name": "瀬田湖岸",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw44buq-1729747132843.jpg",
+    "ep": 12,
+    "s": 750,
+    "geo": [
+      34.9821,
+      135.9079
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw44bmk",
+    "cn": "琵琶湖大津王子大饭店",
+    "name": "びわ湖​大津​プリンス​ホテル",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw44bmk-1729747152150.jpg",
+    "ep": 12,
+    "s": 747,
+    "geo": [
+      34.9934,
+      135.9097
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "izr13m82i",
+    "name": "水門",
+    "image": "https://image.xinu.ink/pic/data/315/images/izr13m82i-1729830736441.jpg",
+    "ep": 10,
+    "s": 872,
+    "geo": [
+      34.9955,
+      135.9097
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q216urfo1",
+    "name": "容輝湯",
+    "image": "https://image.xinu.ink/pic/data/315/images/q216urfo1-1731651416374.jpg",
+    "ep": 12,
+    "s": 684,
+    "geo": [
+      34.9748,
+      135.9001
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0u26n6yh",
+    "name": "檜山神社",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0u26n6yh-1729830767599.jpg",
+    "ep": 8,
+    "s": 757,
+    "geo": [
+      34.9748,
+      135.9135
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q1zfcur5w",
+    "name": "檜山神社 小路",
+    "image": "https://image.xinu.ink/pic/data/315/images/q1zfcur5w-1731647586983.jpg",
+    "ep": 11,
+    "s": 23,
+    "geo": [
+      34.9745,
+      135.9134
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pomjd8ubu",
+    "name": "穴太駅",
+    "image": "https://image.xinu.ink/pic/data/315/images/pomjd8ubu-1730600787402.jpg",
+    "ep": 3,
+    "s": 827,
+    "geo": [
+      35.0555,
+      135.8647
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nvge9gdmv",
+    "name": "穴太駅（傍晚）",
+    "image": "https://image.xinu.ink/pic/data/315/images/nvge9gdmv-1725493770099.jpg",
+    "ep": 5,
+    "s": 477,
+    "geo": [
+      35.0556,
+      135.8648
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pomhsog45",
+    "name": "穴太駅 树",
+    "image": "https://image.xinu.ink/pic/data/315/images/pomhsog45-1730600692576.jpg",
+    "ep": 3,
+    "s": 776,
+    "geo": [
+      35.0556,
+      135.8648
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw446t3",
+    "name": "新鮮市場コスモ木幡店",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw446t3-1729747241167.jpg",
+    "ep": 2,
+    "s": 347,
+    "geo": [
+      34.926,
+      135.7937
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnoutjfqw",
+    "cn": "新鲜便宜市场 茴香",
+    "name": "新鮮激安市場 茴香",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnoutjfqw-1730527521590.jpg",
+    "ep": 2,
+    "s": 402,
+    "geo": [
+      34.9261,
+      135.7938
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0tlhlf65",
+    "name": "住宅地（动画中位置）",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0tlhlf65-1729746396777.jpg",
+    "ep": 12,
+    "s": 1,
+    "geo": [
+      34.9767,
+      135.9103
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "k1dtahd83",
+    "name": "桃山南団地（动画原型公寓所在位置）",
+    "image": "https://image.xinu.ink/pic/data/315/images/k1dtahd83-1729746413668.jpg",
+    "ep": 12,
+    "s": 1,
+    "geo": [
+      34.9244,
+      135.7878
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnpfhgd6j",
+    "name": "公寓 停车场门口处",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnpfhgd6j-1730528750392.jpg",
+    "ep": 2,
+    "s": 755,
+    "geo": [
+      34.9239,
+      135.7869
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pomnx6z9d",
+    "name": "公寓 楼梯",
+    "image": "https://image.xinu.ink/pic/data/315/images/pomnx6z9d-1730601070416.jpg",
+    "ep": 3,
+    "s": 1249,
+    "geo": [
+      34.9244,
+      135.7878
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q07r5l0kc",
+    "name": "公寓 楼梯阳台",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07r5l0kc-1731508991369.jpg",
+    "ep": 10,
+    "s": 616,
+    "geo": [
+      34.9244,
+      135.7878
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnno0b4k2",
+    "name": "公寓 单元门口",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnno0b4k2-1730524881483.jpg",
+    "ep": 1,
+    "s": 1274,
+    "geo": [
+      34.9244,
+      135.7878
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnopoqcxh",
+    "name": "公寓 小路",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnopoqcxh-1730527183020.jpg",
+    "ep": 2,
+    "s": 183,
+    "geo": [
+      34.9244,
+      135.7875
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0vkyv36l",
+    "name": "旧鎌掛小学校",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0vkyv36l-1729747584465.jpg",
+    "ep": "第一季EP01",
+    "s": 342,
+    "geo": [
+      34.9886,
+      136.2599
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnmwesq4m",
+    "name": "旧鎌掛小学校大门",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnmwesq4m-1730523231555.jpg",
+    "ep": 1,
+    "s": 302,
+    "geo": [
+      34.9883,
+      136.2598
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnmsf9bue",
+    "name": "旧町立鎌掛小学校 换鞋处",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnmsf9bue-1730523102729.jpg",
+    "ep": 1,
+    "s": 365,
+    "geo": [
+      34.9889,
+      136.2601
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pwvs1g6l8",
+    "name": "旧町立鎌掛小学校 中庭",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvs1g6l8-1731247831648.jpg",
+    "ep": 8,
+    "s": 911,
+    "geo": [
+      34.9887,
+      136.26
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnmxpcrit",
+    "name": "旧鎌掛小学校 房屋正门",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnmxpcrit-1730523325357.jpg",
+    "ep": 1,
+    "s": 434,
+    "geo": [
+      34.9889,
+      136.2601
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ppuylbj70",
+    "name": "旧町立鎌掛小学校 雕像",
+    "image": "https://image.xinu.ink/pic/data/315/images/ppuylbj70-1730697490748.jpg",
+    "ep": 4,
+    "s": 750,
+    "geo": [
+      34.9888,
+      136.26
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnp9ck0r2",
+    "name": "旧町立鎌掛小学校 日晷",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnp9ck0r2-1730528353526.jpg",
+    "ep": 2,
+    "s": 534,
+    "geo": [
+      34.9884,
+      136.2599
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q213nzrwh",
+    "name": "旧鎌掛小学校 教室走廊",
+    "image": "https://image.xinu.ink/pic/data/315/images/q213nzrwh-1731651225863.jpg",
+    "ep": 12,
+    "s": 203,
+    "geo": [
+      34.9889,
+      136.2599
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnn2t0290",
+    "name": "旧町立鎌掛小学校 走廊处洗手池",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnn2t0290-1730523625745.jpg",
+    "ep": 1,
+    "s": 588,
+    "geo": [
+      34.9888,
+      136.2598
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q22cet9lk",
+    "name": "旧鎌掛小学校 教室",
+    "image": "https://image.xinu.ink/pic/data/315/images/q22cet9lk-1731653931377.jpg",
+    "ep": 13,
+    "s": 752,
+    "geo": [
+      34.9886,
+      136.2598
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q22bu4zsf",
+    "name": "旧鎌掛小学校 楼梯",
+    "image": "https://image.xinu.ink/pic/data/315/images/q22bu4zsf-1731653904891.jpg",
+    "ep": 13,
+    "s": 744,
+    "geo": [
+      34.9886,
+      136.2601
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ppusk2jey",
+    "name": "旧鎌掛小学校 二楼走廊",
+    "image": "https://image.xinu.ink/pic/data/315/images/ppusk2jey-1730697125037.jpg",
+    "ep": 4,
+    "s": 435,
+    "geo": [
+      34.9885,
+      136.26
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q22lh70bd",
+    "name": "旧鎌掛小学校 極東魔術昼寝結社の夏",
+    "image": "https://image.xinu.ink/pic/data/315/images/q22lh70bd-1731654478584.jpg",
+    "ep": 13,
+    "s": 1298,
+    "geo": [
+      34.9885,
+      136.26
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pqpvyccsa",
+    "name": "旧鎌掛小学校 極東魔術昼寝結社の夏 窗户",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqpvyccsa-1730764807855.jpg",
+    "ep": 5,
+    "s": 1278,
+    "geo": [
+      34.9884,
+      136.26
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnndm64ae",
+    "name": "旧鎌掛小学校 职员室",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnndm64ae-1730524255334.jpg",
+    "ep": 1,
+    "s": 686,
+    "geo": [
+      34.9886,
+      136.2601
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnmyxrtem",
+    "name": "旧鎌掛小学校 体育馆",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnmyxrtem-1730523371251.jpg",
+    "ep": 1,
+    "s": 476,
+    "geo": [
+      34.989,
+      136.2601
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pqpsr5svw",
+    "name": "旧鎌掛​小学校 游泳池",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqpsr5svw-1730764614815.jpg",
+    "ep": 5,
+    "s": 794,
+    "geo": [
+      34.9883,
+      136.2601
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pqqrnjc35",
+    "name": "旧町立鎌掛小学校 运动场",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqqrnjc35-1730766724828.jpg",
+    "ep": 6,
+    "s": 174,
+    "geo": [
+      34.9888,
+      136.2595
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnn0sf47v",
+    "name": "旧町立鎌掛小学校 运动场一侧",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnn0sf47v-1730523487934.jpg",
+    "ep": 1,
+    "s": 527,
+    "geo": [
+      34.9892,
+      136.26
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pwvftcpig",
+    "name": "一里山公園",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvftcpig-1731247078673.jpg",
+    "ep": 8,
+    "s": 158,
+    "geo": [
+      34.9845,
+      135.9359
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pwvvr7v1f",
+    "name": "一里山公園 ",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvvr7v1f-1731248041123.jpg",
+    "ep": 8,
+    "s": 1268,
+    "geo": [
+      34.9844,
+      135.9358
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nwsmoulna",
+    "name": "一里山公園 门口",
+    "image": "https://image.xinu.ink/pic/data/315/images/nwsmoulna-1731509083307.jpg",
+    "ep": 10,
+    "s": 735,
+    "geo": [
+      34.9844,
+      135.936
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q07sg3lzj",
+    "name": "一里山公園 长椅",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07sg3lzj-1731509054852.jpg",
+    "ep": 10,
+    "s": 637,
+    "geo": [
+      34.9844,
+      135.9357
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pwvvelmz6",
+    "name": "一里山公園 滑梯",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvvelmz6-1731248019239.jpg",
+    "ep": 8,
+    "s": 1009,
+    "geo": [
+      34.9844,
+      135.9357
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q07w1qkv2",
+    "name": "一里山公園 滑梯旁",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07w1qkv2-1731509271729.jpg",
+    "ep": 10,
+    "s": 793,
+    "geo": [
+      34.9844,
+      135.9352
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q07hdniqf",
+    "name": "一里山公園　グラウンド",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07hdniqf-1731508385302.jpg",
+    "ep": 10,
+    "s": 420,
+    "geo": [
+      34.9847,
+      135.9348
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "izr13m6gb",
+    "name": "草津市立図書館市　市立図書館",
+    "image": "https://image.xinu.ink/pic/data/315/images/izr13m6gb-1729831202021.jpg",
+    "ep": 10,
+    "s": 447,
+    "geo": [
+      35.0195,
+      135.9509
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw44bvy",
+    "name": "草津市南草津図書館",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw44bvy-1729831225042.jpg",
+    "ep": 10,
+    "s": 454,
+    "geo": [
+      35.003,
+      135.9475
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pzzongj50",
+    "name": "琵琶湖文化公园 六角广场 七宫回忆地点（猜测）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pzzongj50-1731491435190.jpg",
+    "ep": 9,
+    "s": 1291,
+    "geo": [
+      34.9714,
+      135.9433
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw4471t",
+    "cn": "前往琵琶湖博物馆的路",
+    "name": "琵琶湖博物館へ向かう道",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw4471t-1729831069475.jpg",
+    "ep": 2,
+    "s": 792,
+    "geo": [
+      35.0646,
+      135.9314
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnphi9jun",
+    "name": "（此地标位置尚未确定，目前仅做大概标示）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnphi9jun-1730528912446.jpg",
+    "ep": 2,
+    "s": 825,
+    "geo": [
+      35.0645,
+      135.9313
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0u6erlzu",
+    "name": "京都水族館",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0u6erlzu-1729831105803.jpg",
+    "ep": 2,
+    "s": 858,
+    "geo": [
+      34.9873,
+      135.7474
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnpz9cns5",
+    "name": "京都水族馆 游览厅",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnpz9cns5-1730529913450.jpg",
+    "ep": 2,
+    "s": 863,
+    "geo": [
+      34.9876,
+      135.7478
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnq04nwni",
+    "name": "京都水族馆 企鹅区",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnq04nwni-1730529979256.jpg",
+    "ep": 2,
+    "s": 931,
+    "geo": [
+      34.9877,
+      135.7471
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnq0pbnun",
+    "name": "京都水族馆 海豹区",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnq0pbnun-1730530003421.jpg",
+    "ep": 2,
+    "s": 936,
+    "geo": [
+      34.9875,
+      135.7483
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnq7z2q6k",
+    "name": "京都水族馆 海豚表演区",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnq7z2q6k-1730530439540.jpg",
+    "ep": 2,
+    "s": 1012,
+    "geo": [
+      34.9875,
+      135.7476
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnq8b0tm5",
+    "name": "京都水族馆 休息区",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnq8b0tm5-1730530477300.jpg",
+    "ep": 2,
+    "s": 1022,
+    "geo": [
+      34.9876,
+      135.7469
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnq8vnw2s",
+    "name": "京都水族馆 扭蛋机",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnq8vnw2s-1730530501178.jpg",
+    "ep": 2,
+    "s": 1023,
+    "geo": [
+      34.9876,
+      135.7469
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw4472h",
+    "name": "琵琶湖博物館駐車場",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw4472h-1729831170316.jpg",
+    "ep": 2,
+    "s": 1033,
+    "geo": [
+      35.072,
+      135.9345
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnqe3f181",
+    "name": "赤野井-1パーキング",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnqe3f181-1730530814226.jpg",
+    "ep": 2,
+    "s": 1030,
+    "geo": [
+      35.0738,
+      135.9457
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l15cqhjyk",
+    "cn": "被幸福围绕着的发呆六花",
+    "name": "赤野井-1パーキング",
+    "image": "https://image.xinu.ink/pic/data/315/images/l15cqhjyk-1717476627781.jpg",
+    "ep": 2,
+    "s": 1031,
+    "geo": [
+      35.0737,
+      135.9457
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pnqfoyhvn",
+    "name": "赤野井-1パーキング旁 水门",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnqfoyhvn-1730530919480.jpg",
+    "ep": 2,
+    "s": 1165,
+    "geo": [
+      35.0733,
+      135.946
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "iza59xumo",
+    "name": "ひらかたパーク屋外プール「ザ・ブーン」",
+    "image": "https://image.xinu.ink/pic/data/315/images/iza59xumo-1729831317491.jpg",
+    "ep": 10,
+    "s": 200,
+    "geo": [
+      34.8051,
+      135.6366
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q07am1tbs",
+    "name": "枚方公园 六花勇太泳池内位置",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07am1tbs-1731507977579.jpg",
+    "ep": 10,
+    "s": 275,
+    "geo": [
+      34.8052,
+      135.6371
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q07a2sjjs",
+    "name": "枚方公园 七宫泳池内位置",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07a2sjjs-1731507951599.jpg",
+    "ep": 10,
+    "s": 259,
+    "geo": [
+      34.8052,
+      135.6372
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q07b8wdme",
+    "name": "枚方公园 泳池内",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07b8wdme-1731508029574.jpg",
+    "ep": 10,
+    "s": 304,
+    "geo": [
+      34.8053,
+      135.6372
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw44btt",
+    "name": "枚方公园 正門",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw44btt-1729831283075.jpg",
+    "ep": 10,
+    "s": 309,
+    "geo": [
+      34.8085,
+      135.6395
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q07do73vq",
+    "name": "枚方公园 正门",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07do73vq-1731508165846.jpg",
+    "ep": 10,
+    "s": 319,
+    "geo": [
+      34.8085,
+      135.6395
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "oj5ti9thu",
+    "name": "美浜町の東美浜駅周辺",
+    "image": "https://image.xinu.ink/pic/data/315/images/oj5ti9thu-1727351566825.jpg",
+    "ep": 9,
+    "s": 1269,
+    "geo": [
+      35.6154,
+      135.988
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "oucqcanst",
+    "cn": "敦贺港（存疑，仅供参考）",
+    "name": "敦賀港",
+    "image": "https://image.xinu.ink/pic/data/315/images/oucqcanst-1728228549402.jpg",
+    "ep": 9,
+    "s": 1197,
+    "geo": [
+      35.6643,
+      136.058
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q081w3qwd",
+    "name": "関西電力膳所変電所西鉄塔",
+    "image": "https://image.xinu.ink/pic/data/315/images/q081w3qwd_1731509687411.jpg",
+    "ep": 10,
+    "s": 1014,
+    "geo": [
+      34.9824,
+      135.8856
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw44bkl",
+    "cn": "铁塔附近的人行道（六花）",
+    "name": "鉄塔近くの歩道",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw44bkl-1729832165207.jpg",
+    "ep": 11,
+    "s": 785,
+    "geo": [
+      34.9822,
+      135.8852
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw44by5",
+    "cn": "铁塔附近的人行道（勇太七宫）",
+    "name": "鉄塔近くの歩道",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw44by5-1729832193041.jpg",
+    "ep": 11,
+    "s": 831,
+    "geo": [
+      34.9827,
+      135.886
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw44bgw",
+    "name": "歩道",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw44bgw-1729832347681.jpg",
+    "ep": 11,
+    "s": 930,
+    "geo": [
+      34.9785,
+      135.8897
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw44bot",
+    "name": "交差点",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw44bot-1731649352895.jpg",
+    "ep": 11,
+    "s": 935,
+    "geo": [
+      34.979,
+      135.8896
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q2079ocvp",
+    "name": "鉄塔",
+    "image": "https://image.xinu.ink/pic/data/315/images/q2079ocvp-1731649264554.jpg",
+    "ep": 11,
+    "s": 835,
+    "geo": [
+      34.9795,
+      135.8866
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw44bhw",
+    "cn": "铁塔附近的楼梯",
+    "name": "鉄塔近くの階段",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw44bhw-1729832309271.jpg",
+    "ep": 11,
+    "s": 887,
+    "geo": [
+      34.9825,
+      135.8851
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw44bq3",
+    "name": "関西電力膳所変電所南铁塔",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw44bq3-1714701611675.jpg",
+    "ep": 11,
+    "s": 1128,
+    "geo": [
+      34.9829,
+      135.8881
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw446os",
+    "name": "JR京都駅",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw446os-1729831362282.jpg",
+    "ep": 6,
+    "s": 242,
+    "geo": [
+      34.9855,
+      135.7577
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j0uw4476d",
+    "name": "東海道新幹線",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw4476d-1729831392042.jpg",
+    "ep": 6,
+    "s": 245,
+    "geo": [
+      34.9729,
+      135.7227
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pqqyctmpa",
+    "name": "有田瓷器公园 停车场",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqqyctmpa-1730767147821.jpg",
+    "ep": 6,
+    "s": 288,
+    "geo": [
+      33.1635,
+      129.9078
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j5vnypk99",
+    "cn": "有田瓷器公园",
+    "name": "有田​ポーセリンパーク",
+    "image": "https://image.xinu.ink/pic/data/315/images/j5vnypk99-1730767922942.jpg",
+    "ep": 6,
+    "s": 301,
+    "geo": [
+      33.1657,
+      129.9082
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pqr9rk2cg",
+    "name": "有田瓷器公园 国际象棋",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqr9rk2cg-1730767827088.jpg",
+    "ep": 6,
+    "s": 296,
+    "geo": [
+      33.1646,
+      129.9085
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pqradmodi",
+    "name": "有田瓷器公园 铃铛",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqradmodi-1730767892418.jpg",
+    "ep": 6,
+    "s": 292,
+    "geo": [
+      33.1645,
+      129.9085
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pqrczs23v",
+    "cn": "有田瓷器公园 庭园",
+    "name": "有田公园 バロック庭園",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqrczs23v-1730768181433.jpg",
+    "ep": 6,
+    "s": 322,
+    "geo": [
+      33.166,
+      129.9082
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pqrzk0lpd",
+    "name": "吉野ヶ里歴史公園 远景",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqrzk0lpd-1730769386549.jpg",
+    "ep": 6,
+    "s": 444,
+    "geo": [
+      33.3238,
+      130.3877
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pqs74yhzw",
+    "name": "吉野ヶ里歴史公園 小鸟",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqs74yhzw-1730769854467.jpg",
+    "ep": 6,
+    "s": 447,
+    "geo": [
+      33.3243,
+      130.3852
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pqskx5np8",
+    "name": "吉野ヶ里歴史公園 南内郭远景",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqskx5np8-1730770672791.jpg",
+    "ep": 6,
+    "s": 450,
+    "geo": [
+      33.3254,
+      130.3845
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pqshpgwwp",
+    "name": "吉野ヶ里歴史公園 指导处",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqshpgwwp-1730770477424.jpg",
+    "ep": 6,
+    "s": 453,
+    "geo": [
+      33.3238,
+      130.3868
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pqsoskk8p",
+    "name": "吉野ヶ里歴史公園 南内郭北端的瞭望塔",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqsoskk8p-1730770907457.jpg",
+    "ep": 6,
+    "s": 465,
+    "geo": [
+      33.3254,
+      130.3845
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pqss1r0dy",
+    "name": " 吉野ヶ里歴史公園 南内郭北端的瞭望塔",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqss1r0dy-1730771124222.jpg",
+    "ep": 6,
+    "s": 491,
+    "geo": [
+      33.3254,
+      130.3845
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pqstji7u3",
+    "name": "吉野ヶ里歴史公園 北内郭主祭殿",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqstji7u3-1730771262327.jpg",
+    "ep": 6,
+    "s": 523,
+    "geo": [
+      33.3268,
+      130.3863
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pqsz0kjyt",
+    "name": "吉野ヶ里歴史公園 主祭殿下",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqsz0kjyt-1730771528855.jpg",
+    "ep": 6,
+    "s": 544,
+    "geo": [
+      33.3268,
+      130.3862
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pqt4u90dr",
+    "name": "照国町交差点",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqt4u90dr-1730771875577.jpg",
+    "ep": 6,
+    "s": 564,
+    "geo": [
+      31.5929,
+      130.5537
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j6v4j0kl2",
+    "name": "温泉酒店中原别庄",
+    "image": "https://image.xinu.ink/pic/data/315/images/j6v4j0kl2-1729831488714.jpg",
+    "ep": 6,
+    "s": 566,
+    "geo": [
+      31.5929,
+      130.5532
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pqt9rso9u",
+    "name": "温泉酒店中原别庄 门口",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqt9rso9u-1730772176749.jpg",
+    "ep": 6,
+    "s": 685,
+    "geo": [
+      31.593,
+      130.5532
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pqt5vh5ta",
+    "name": "温泉酒店中原别庄 内景（未做准确位置标注）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqt5vh5ta-1730771961497.jpg",
+    "ep": 6,
+    "s": 568,
+    "geo": [
+      31.5929,
+      130.5531
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pqt1qfymp",
+    "name": "城山公园展望台",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqt1qfymp-1730771688889.jpg",
+    "ep": 6,
+    "s": 559,
+    "geo": [
+      31.5962,
+      130.55
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pqtyagtly",
+    "cn": "鹿儿岛县文化中心路口",
+    "name": "鹿児島県文化センター前",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqtyagtly-1730773682853.jpg",
+    "ep": 6,
+    "s": 1305,
+    "geo": [
+      31.5944,
+      130.5548
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "k04tb1q4c",
+    "name": "じづろ交差点（南東角）",
+    "image": "https://image.xinu.ink/pic/data/315/images/k04tb1q4c-1729831557699.jpg",
+    "ep": 7,
+    "s": 2,
+    "geo": [
+      31.5918,
+      130.5577
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "k04rc79d3",
+    "name": "じづろ交差点（南西角）",
+    "image": "https://image.xinu.ink/pic/data/315/images/k04rc79d3-1729831572001.jpg",
+    "ep": 7,
+    "s": 3,
+    "geo": [
+      31.5915,
+      130.5577
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j6vi8rdoc",
+    "name": "天文館​むじゃき​BLD",
+    "image": "https://image.xinu.ink/pic/data/315/images/j6vi8rdoc-1729831589258.jpg",
+    "ep": 7,
+    "s": 5,
+    "geo": [
+      31.5891,
+      130.5559
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ptb5o275p",
+    "name": "西乡隆盛铜像",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptb5o275p-1730967837650.jpg",
+    "ep": 7,
+    "s": 121,
+    "geo": [
+      31.5952,
+      130.5536
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "k04fpsds0",
+    "name": "鹿児島市中央公民館前",
+    "image": "https://image.xinu.ink/pic/data/315/images/k04fpsds0-1730967872012.jpg",
+    "ep": 7,
+    "s": 137,
+    "geo": [
+      31.5951,
+      130.5539
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ptba5mg18",
+    "name": "歩道橋",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptba5mg18-1730968107983.jpg",
+    "ep": 7,
+    "s": 168,
+    "geo": [
+      31.5952,
+      130.5539
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "k048mkq99",
+    "name": "桟橋通り交差点西北",
+    "image": "https://image.xinu.ink/pic/data/315/images/k048mkq99-1729831754383.jpg",
+    "ep": 7,
+    "s": 431,
+    "geo": [
+      31.5984,
+      130.5577
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ptbaoptrb",
+    "name": "城山展望台",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptbaoptrb-1730968140114.jpg",
+    "ep": 7,
+    "s": 215,
+    "geo": [
+      31.5963,
+      130.5499
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ptbc76tqb",
+    "name": "城山公园",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptbc76tqb-1730968244703.jpg",
+    "ep": 7,
+    "s": 227,
+    "geo": [
+      31.5962,
+      130.5499
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ptbdspyqs",
+    "name": "桜島港",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptbdspyqs-1730968329107.jpg",
+    "ep": 7,
+    "s": 242,
+    "geo": [
+      31.5928,
+      130.5988
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ptblhnfs5",
+    "name": "城山公園登山道",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptblhnfs5-1730968794367.jpg",
+    "ep": 7,
+    "s": 453,
+    "geo": [
+      31.5975,
+      130.5513
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "k03w91jez",
+    "name": "薩摩義士碑",
+    "image": "https://image.xinu.ink/pic/data/315/images/k03w91jez-1730968965157.jpg",
+    "ep": 7,
+    "s": 578,
+    "geo": [
+      31.5996,
+      130.5548
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "k042ctmji",
+    "name": "鶴丸城干橋",
+    "image": "https://image.xinu.ink/pic/data/315/images/k042ctmji-1729831836134.jpg",
+    "ep": 7,
+    "s": 602,
+    "geo": [
+      31.5993,
+      130.5551
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "idaavr6h4",
+    "cn": "西乡隆盛南州洞窟",
+    "name": "西郷​隆盛​南州​洞窟",
+    "image": "https://image.xinu.ink/pic/data/315/images/idaavr6h4-1730969075800.jpg",
+    "ep": 7,
+    "s": 675,
+    "geo": [
+      31.5997,
+      130.5502
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ptbwac6uz",
+    "name": "城山入口交差点",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptbwac6uz-1730969445649.jpg",
+    "ep": 7,
+    "s": 698,
+    "geo": [
+      31.5989,
+      130.5563
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "k046ttung",
+    "name": "県民交流センター前バス停",
+    "image": "https://image.xinu.ink/pic/data/315/images/k046ttung-1729831909919.jpg",
+    "ep": 7,
+    "s": 776,
+    "geo": [
+      31.5987,
+      130.5567
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "k04hee895",
+    "name": "歩道橋（から望む中央公園）",
+    "image": "https://image.xinu.ink/pic/data/315/images/k04hee895-1729831936451.jpg",
+    "ep": 7,
+    "s": 778,
+    "geo": [
+      31.5952,
+      130.5539
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "idafxv8sj",
+    "cn": "鹿儿岛中央公园",
+    "name": "中央公園",
+    "image": "https://image.xinu.ink/pic/data/315/images/idafxv8sj-1729831988439.jpg",
+    "ep": 7,
+    "s": 784,
+    "geo": [
+      31.5943,
+      130.5542
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ptc21qlaq",
+    "cn": "鹿儿岛中央公园 公共厕所",
+    "name": "鹿儿岛中央公园 公共厕所",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptc21qlaq-1730969823579.jpg",
+    "ep": 7,
+    "s": 834,
+    "geo": [
+      31.5944,
+      130.5541
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "k04n9fo0n",
+    "name": "照国表参道",
+    "image": "https://image.xinu.ink/pic/data/315/images/k04n9fo0n-1729831968805.jpg",
+    "ep": 7,
+    "s": 858,
+    "geo": [
+      31.5916,
+      130.5563
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "k04wcpgha",
+    "name": "ドルフィンポート",
+    "image": "https://image.xinu.ink/pic/data/315/images/k04wcpgha-1729832017477.jpg",
+    "ep": 7,
+    "s": 1153,
+    "geo": [
+      31.5921,
+      130.563
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ida32lvxf",
+    "cn": "IO World鹿儿岛水族馆",
+    "name": "い​お​ワールド​かごしま​水族館",
+    "image": "https://image.xinu.ink/pic/data/315/images/ida32lvxf-1729832041738.jpg",
+    "ep": 7,
+    "s": 861,
+    "geo": [
+      31.5936,
+      130.5634
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ptc620rqu",
+    "name": "鹿児島旧港",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptc620rqu-1730970033391.jpg",
+    "ep": 7,
+    "s": 863,
+    "geo": [
+      31.594,
+      130.5637
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ptc784beo",
+    "name": "海滨公园",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptc784beo-1730970106893.jpg",
+    "ep": 7,
+    "s": 1154,
+    "geo": [
+      31.5935,
+      130.5639
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ptc9sjenr",
+    "cn": "君との契約",
+    "name": "海滨公园",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptc9sjenr-1730970259575.jpg",
+    "ep": 7,
+    "s": 1318,
+    "geo": [
+      31.593,
+      130.5642
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "oz4y0iajt",
+    "name": "穴太站旁的铁路道口（1）",
+    "image": "https://image.xinu.ink/pic/data/315/images/oz4y0iajt-1728603401868.jpg",
+    "ep": null,
+    "geo": [
+      35.0562,
+      135.8652
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  }
+]

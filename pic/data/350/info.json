@@ -1,0 +1,114 @@
+{
+  "id": 90815,
+  "cn": "长门有希酱的消失",
+  "title": "長門有希ちゃんの消失",
+  "city": "西宫市",
+  "cover": "https://image.xinu.ink/pic/data/350/images/90815.jpg",
+  "color": "#b0a0c1",
+  "geo": [
+    34.68558679615491,
+    135.30606336739152
+  ],
+  "zoom": 9.967,
+  "modified": 1726752615304,
+  "litePoints": [
+    {
+      "id": "51i52dymj",
+      "name": "西宮市立中央図書館",
+      "image": "https://image.anitabi.cn/user/1030/bangumi/90815/points/51i52dymj-1697882513086.jpg?plan=h160",
+      "ep": 12,
+      "s": 122,
+      "geo": [
+        34.731,
+        135.33
+      ]
+    },
+    {
+      "id": "51i52dzsp",
+      "name": "甲南病院",
+      "image": "https://image.anitabi.cn/user/1030/bangumi/90815/points/51i52dzsp-1697880196580.jpg?plan=h160",
+      "ep": 11,
+      "s": 574,
+      "geo": [
+        34.7293,
+        135.2512
+      ]
+    },
+    {
+      "id": "51i52e1r8",
+      "name": "長門が座っていたベンチ",
+      "image": "https://image.anitabi.cn/user/1030/bangumi/90815/points/51i52e1r8-1697882469437.jpg?plan=h160",
+      "ep": 13,
+      "s": 1214,
+      "geo": [
+        34.7305,
+        135.3292
+      ]
+    },
+    {
+      "id": "51i52e364",
+      "name": "カラオケ店のモニターの風景（神戸港）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/90815/points/51i52e364-1697878267942.jpg?plan=h160",
+      "ep": 17,
+      "s": 537,
+      "geo": [
+        34.6769,
+        135.2037
+      ]
+    },
+    {
+      "id": "51i52dy3y",
+      "name": "樋ノ池公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/90815/points/51i52dy3y-1692524443273.jpg?plan=h160",
+      "geo": [
+        34.7519,
+        135.3212
+      ]
+    },
+    {
+      "id": "51i52dyj5",
+      "name": "北高-古泉が着替えた場所",
+      "image": "https://image.anitabi.cn/user/0/bangumi/90815/points/51i52dyj5-1692524491909.jpg?plan=h160",
+      "geo": [
+        34.7609,
+        135.3119
+      ]
+    },
+    {
+      "id": "51i52e1qj",
+      "name": "キョンの自宅モデル付近",
+      "image": "https://image.anitabi.cn/user/0/bangumi/90815/points/51i52e1qj-1692524396114.jpg?plan=h160",
+      "geo": [
+        34.761,
+        135.3438
+      ]
+    },
+    {
+      "id": "51i52dws5",
+      "name": "甲陽園駅",
+      "geo": [
+        34.7609,
+        135.3298
+      ]
+    },
+    {
+      "id": "51i52dxlv",
+      "name": "北高： 坂道と正門付近",
+      "geo": [
+        34.7619,
+        135.3132
+      ]
+    },
+    {
+      "id": "51i52dxn5",
+      "name": "にしきた公園",
+      "geo": [
+        34.7465,
+        135.3562
+      ]
+    }
+  ],
+  "pointsLength": 104,
+  "imagesLength": 7,
+  "local_id": 350
+}

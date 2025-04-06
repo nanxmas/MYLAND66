@@ -1,0 +1,46 @@
+{
+  "id": 67376,
+  "cn": "灰色的果实",
+  "title": "グリザイアの果実",
+  "city": "神奈川县",
+  "cover": "https://image.xinu.ink/pic/data/306/images/67376.jpg",
+  "color": "#d64e76",
+  "geo": [
+    35.261363644060125,
+    139.31650027046044
+  ],
+  "zoom": 7.81,
+  "modified": 1723286773120,
+  "litePoints": [
+    {
+      "id": "51i524mh6",
+      "name": "七里ガ浜海岸",
+      "image": "https://image.anitabi.cn/user/0/bangumi/67376/points/51i524mh6-1723223084084.jpg?plan=h160",
+      "ep": 14,
+      "s": 1003,
+      "geo": [
+        35.3054,
+        139.5098
+      ]
+    },
+    {
+      "id": "51i524n06",
+      "name": "新横浜駅-3番ホーム",
+      "geo": [
+        35.5074,
+        139.6176
+      ]
+    },
+    {
+      "id": "51i524m9r",
+      "name": "道の駅すばしり",
+      "geo": [
+        35.3627,
+        138.8588
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 1,
+  "local_id": 306
+}

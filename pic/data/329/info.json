@@ -1,0 +1,119 @@
+{
+  "id": 82389,
+  "cn": "幸运草的约定",
+  "title": "Clover Day's",
+  "city": "横滨市",
+  "cover": "https://image.xinu.ink/pic/data/329/images/82389.jpg",
+  "color": "#393971",
+  "geo": [
+    35.44475032353054,
+    139.63979525025292
+  ],
+  "zoom": 13.26,
+  "modified": 1725010955008,
+  "litePoints": [
+    {
+      "id": "nc5nso1fi",
+      "cn": "上学路",
+      "name": "上学路",
+      "image": "https://image.anitabi.cn/points/82389/nc5nso1fi_1723981462465.jpg?plan=h160",
+      "geo": [
+        35.438,
+        139.6437
+      ]
+    },
+    {
+      "id": "nc6li4vkd",
+      "cn": "鹰仓家门口",
+      "name": "山手イタリア山庭園",
+      "image": "https://image.anitabi.cn/points/82389/nc6li4vkd_1723983523212.jpg?plan=h160",
+      "geo": [
+        35.4366,
+        139.6433
+      ]
+    },
+    {
+      "id": "nc6utvplp",
+      "cn": "后院",
+      "name": "山手イタリア山庭園",
+      "image": "https://image.anitabi.cn/points/82389/nc6utvplp_1723984071530.jpg?plan=h160",
+      "geo": [
+        35.4367,
+        139.6435
+      ]
+    },
+    {
+      "id": "nc6wzflr4",
+      "cn": "饭厅",
+      "name": "山手イタリア山庭園",
+      "image": "https://image.anitabi.cn/points/82389/nc6wzflr4_1723984203996.jpg?plan=h160",
+      "geo": [
+        35.4366,
+        139.6433
+      ]
+    },
+    {
+      "id": "nc6y1t8xm",
+      "cn": "男主家楼梯口",
+      "name": "山手イタリア山庭園",
+      "image": "https://image.anitabi.cn/points/82389/nc6y1t8xm_1723984302376.jpg?plan=h160",
+      "geo": [
+        35.4366,
+        139.6433
+      ]
+    },
+    {
+      "id": "nc6z8ed47",
+      "cn": "鹰仓姐妹卧室",
+      "name": "山手イタリア山庭園",
+      "image": "https://image.anitabi.cn/points/82389/nc6z8ed47_1723984357238.jpg?plan=h160",
+      "geo": [
+        35.4366,
+        139.6434
+      ]
+    },
+    {
+      "id": "nc7020lb5",
+      "cn": "洗漱台",
+      "name": "山手イタリア山庭園",
+      "image": "https://image.anitabi.cn/points/82389/nc7020lb5_1723984390078.jpg?plan=h160",
+      "geo": [
+        35.4367,
+        139.6434
+      ]
+    },
+    {
+      "id": "nc727art8",
+      "cn": "燕的家",
+      "name": "燕的家",
+      "image": "https://image.anitabi.cn/points/82389/nc727art8_1723984662694.jpg?plan=h160",
+      "geo": [
+        35.4359,
+        139.6461
+      ]
+    },
+    {
+      "id": "nc77ws0zh",
+      "cn": "学校",
+      "name": "学校",
+      "image": "https://image.anitabi.cn/points/82389/nc77ws0zh_1723984919393.jpg?plan=h160",
+      "geo": [
+        35.4375,
+        139.6477
+      ]
+    },
+    {
+      "id": "nc7dcyxcx",
+      "cn": "男主小时候生活过的房间",
+      "name": "ベーリックホール",
+      "image": "https://image.anitabi.cn/points/82389/nc7dcyxcx_1723985294698.jpg?plan=h160",
+      "geo": [
+        35.4376,
+        139.6507
+      ]
+    }
+  ],
+  "pointsLength": 20,
+  "imagesLength": 20,
+  "local_id": 329
+}

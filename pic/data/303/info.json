@@ -1,0 +1,119 @@
+{
+  "id": 66186,
+  "cn": "恋旅～True Tours Nanto～",
+  "title": "恋旅～True Tours Nanto～",
+  "city": "南砺市",
+  "cover": "https://image.xinu.ink/pic/data/303/images/66186.jpg",
+  "color": "#1b7eb7",
+  "geo": [
+    36.497859366885336,
+    136.9236235699767
+  ],
+  "zoom": 10.427,
+  "modified": 1742409475493,
+  "litePoints": [
+    {
+      "id": "99f562f1",
+      "name": "利賀瞑想の郷",
+      "image": "https://image.anitabi.cn/points/66186/99f562f1_1730095179818.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        36.434,
+        137.0165
+      ]
+    },
+    {
+      "id": "q4l1epxl1",
+      "name": "利賀そばの郷",
+      "image": "https://image.anitabi.cn/points/66186/q4l1epxl1_1731851399595.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        36.4213,
+        137.0042
+      ]
+    },
+    {
+      "id": "q4l354mxv",
+      "name": "西勝寺",
+      "image": "https://image.anitabi.cn/points/66186/q4l354mxv_1731851457366.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        36.4203,
+        137.0044
+      ]
+    },
+    {
+      "id": "q4l4obf7w",
+      "name": "利賀​芸術​公園 総合案内所",
+      "image": "https://image.anitabi.cn/points/66186/q4l4obf7w_1731851577494.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        36.4324,
+        137.0426
+      ]
+    },
+    {
+      "id": "q4l6c0mdx",
+      "name": "利賀​芸術​公園 野外劇場",
+      "image": "https://image.anitabi.cn/points/66186/q4l6c0mdx_1731851675696.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        36.4319,
+        137.0423
+      ]
+    },
+    {
+      "id": "0fdb58a1",
+      "name": "福野夜高祭",
+      "image": "https://image.anitabi.cn/points/66186/0fdb58a1_1730095206944.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        36.5921,
+        136.9223
+      ]
+    },
+    {
+      "id": "q4l9majme",
+      "name": "上町交差点",
+      "image": "https://image.anitabi.cn/points/66186/q4l9majme_1731851875957.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        36.5919,
+        136.9227
+      ]
+    },
+    {
+      "id": "q4lau8p2k",
+      "name": "富山​第一​銀行\n福野​支店",
+      "image": "https://image.anitabi.cn/points/66186/q4lau8p2k_1731851962309.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        36.5919,
+        136.9229
+      ]
+    },
+    {
+      "id": "q4ldrq47b",
+      "name": "巖浄閣",
+      "image": "https://image.anitabi.cn/points/66186/q4ldrq47b_1731852176764.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        36.5886,
+        136.9289
+      ]
+    },
+    {
+      "id": "bd8c761e",
+      "name": "八日町通り",
+      "image": "https://image.anitabi.cn/points/66186/bd8c761e_1730095314195.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        36.5604,
+        136.9709
+      ]
+    }
+  ],
+  "pointsLength": 30,
+  "imagesLength": 30,
+  "local_id": 303
+}

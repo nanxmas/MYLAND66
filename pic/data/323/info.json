@@ -1,0 +1,28 @@
+{
+  "id": 75748,
+  "cn": "海猿TV版",
+  "title": "海猿",
+  "cover": "https://image.xinu.ink/pic/data/323/images/75748.jpg",
+  "color": "#1c398e",
+  "geo": [
+    34.247888589829344,
+    132.55146413013983
+  ],
+  "zoom": 11.81,
+  "modified": 1726064429546,
+  "litePoints": [
+    {
+      "id": "oii99ei5o",
+      "cn": "両城の200階段",
+      "name": "両城の200階段",
+      "image": "https://image.anitabi.cn/points/75748/o2kg06wq0_1726063330112.jpg?plan=h160",
+      "geo": [
+        34.2478,
+        132.5512
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 323
+}

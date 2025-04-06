@@ -1,0 +1,120 @@
+{
+  "id": 89216,
+  "cn": "我们大家的河合庄",
+  "title": "僕らはみんな河合荘",
+  "city": "岐阜市",
+  "cover": "https://image.xinu.ink/pic/data/344/images/89216.jpg",
+  "color": "#9cb1b8",
+  "cp": "委員会はみんな河合荘",
+  "geo": [
+    35.4302541119217,
+    136.77385964332473
+  ],
+  "zoom": 12.63,
+  "modified": 1728904608615,
+  "litePoints": [
+    {
+      "id": "mbjhd2prt",
+      "name": "泥団子を作っていた場所",
+      "image": "https://image.anitabi.cn/points/89216/mbjhd2prt_1723460131371.jpg?plan=h160",
+      "geo": [
+        35.4383,
+        136.7737
+      ]
+    },
+    {
+      "id": "mbjlo3vnz",
+      "name": "踏切",
+      "image": "https://image.anitabi.cn/points/89216/mbjlo3vnz_1723460133792.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.4115,
+        136.7619
+      ]
+    },
+    {
+      "id": "mbjodgiuw",
+      "name": "東材木町交差点",
+      "image": "https://image.anitabi.cn/points/89216/mbjodgiuw_1723460137372.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.4354,
+        136.7694
+      ]
+    },
+    {
+      "id": "mbjt349kw",
+      "name": "川原町町並み",
+      "image": "https://image.anitabi.cn/points/89216/mbjt349kw_1723460139938.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.4356,
+        136.7695
+      ]
+    },
+    {
+      "id": "mbjtp01w4",
+      "name": "名鉄岐阜駅前階段",
+      "image": "https://image.anitabi.cn/points/89216/mbjtp01w4_1723460142240.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.4118,
+        136.7594
+      ]
+    },
+    {
+      "id": "mbjg1qblk",
+      "name": "岐阜城",
+      "image": "https://image.anitabi.cn/points/89216/mbjg1qblk_1723469960491.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.4335,
+        136.7819
+      ]
+    },
+    {
+      "id": "mbjwd1zon",
+      "cn": "RAISON",
+      "name": "個別​教室​の​トライ​長良​校​高等部",
+      "image": "https://image.anitabi.cn/points/89216/mbjwd1zon_1723460143926.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.4474,
+        136.774
+      ]
+    },
+    {
+      "id": "mbjynfj35",
+      "name": "麻弓さん黄昏の岸辺",
+      "image": "https://image.anitabi.cn/points/89216/mbjynfj35_1723460144961.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.4383,
+        136.773
+      ]
+    },
+    {
+      "id": "mbk0kuuoe",
+      "name": "麻弓さんとツネ子の階段",
+      "image": "https://image.anitabi.cn/points/89216/mbk0kuuoe_1723460146832.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.438,
+        136.7731
+      ]
+    },
+    {
+      "id": "n5j4od9gz",
+      "name": "長良橋",
+      "image": "https://image.anitabi.cn/points/89216/n5j4od9gz_1723462488176.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.4401,
+        136.7733
+      ]
+    }
+  ],
+  "pointsLength": 83,
+  "imagesLength": 83,
+  "local_id": 344
+}

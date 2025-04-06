@@ -1,0 +1,80 @@
+{
+  "id": 90367,
+  "cn": "回忆中的玛妮",
+  "title": "思い出のマーニー",
+  "city": "北海道",
+  "cover": "https://image.xinu.ink/pic/data/346/images/90367.jpg",
+  "color": "#e8df9f",
+  "geo": [
+    43.05539693365654,
+    144.66846652088873
+  ],
+  "zoom": 7.405,
+  "modified": 1730619817713,
+  "litePoints": [
+    {
+      "id": "51i530z00",
+      "name": "釧路湿原展望台",
+      "image": "https://image.anitabi.cn/points/90367/51i530z00_1730618708514.jpg?plan=h160",
+      "geo": [
+        43.0741,
+        144.3206
+      ]
+    },
+    {
+      "id": "51i530ynz",
+      "name": "真竜神社",
+      "image": "https://image.anitabi.cn/points/90367/51i530ynz_1730619022515.jpg?plan=h160",
+      "geo": [
+        43.0573,
+        144.8372
+      ]
+    },
+    {
+      "id": "51i530z6x",
+      "name": "藻散布沼",
+      "image": "https://image.anitabi.cn/points/90367/51i530z6x_1730619307177.jpg?plan=h160",
+      "geo": [
+        43.0208,
+        145.0192
+      ]
+    },
+    {
+      "id": "51i530ymd",
+      "name": "霧多布岬",
+      "image": "https://image.anitabi.cn/points/90367/51i530ymd_1730619076066.jpg?plan=h160",
+      "geo": [
+        43.0782,
+        145.1645
+      ]
+    },
+    {
+      "id": "51i530yvg",
+      "name": "JR札幌駅ホーム",
+      "image": "https://image.anitabi.cn/points/90367/51i530yvg_1730619194723.jpg?plan=h160",
+      "geo": [
+        43.0686,
+        141.3507
+      ]
+    },
+    {
+      "id": "51i530owg",
+      "name": "函館市旧イギリス領事館",
+      "geo": [
+        41.7659,
+        140.7106
+      ]
+    },
+    {
+      "id": "51i530oxx",
+      "name": "旧朝吹山荘（睡鳩荘）",
+      "geo": [
+        36.3294,
+        138.5977
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 5,
+  "local_id": 346
+}

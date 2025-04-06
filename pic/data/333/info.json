@@ -1,0 +1,129 @@
+{
+  "id": 83869,
+  "cn": "未确认进行式",
+  "title": "未確認で進行形",
+  "city": "郡山市",
+  "cover": "https://image.xinu.ink/pic/data/333/images/83869.jpg",
+  "color": "#aa8055",
+  "geo": [
+    37.400477591655346,
+    140.36277210039395
+  ],
+  "zoom": 11,
+  "modified": 1732693663769,
+  "litePoints": [
+    {
+      "id": "kpx6otxlp",
+      "name": "福島県立安積高校　校門",
+      "image": "https://image.anitabi.cn/points/83869/kpx6otxlp_1728983804278.jpg?plan=h160",
+      "ep": 1,
+      "s": 1019,
+      "geo": [
+        37.3921,
+        140.3505
+      ]
+    },
+    {
+      "id": "kpx6otwc7",
+      "name": "酒蓋公園・通学路",
+      "image": "https://image.anitabi.cn/points/83869/kpx6otwc7_1728985312876.jpg?plan=h160",
+      "ep": 1,
+      "s": 961,
+      "geo": [
+        37.3921,
+        140.3674
+      ]
+    },
+    {
+      "id": "kpx6otw4u",
+      "name": "酒蓋公園",
+      "image": "https://image.anitabi.cn/points/83869/kpx6otw4u_1728985545838.jpg?plan=h160",
+      "ep": 4,
+      "s": 777,
+      "geo": [
+        37.3912,
+        140.3684
+      ]
+    },
+    {
+      "id": "kpx6otw1y",
+      "name": "酒蓋緑道",
+      "image": "https://image.anitabi.cn/points/83869/kpx6otw1y_1728985974901.jpg?plan=h160",
+      "ep": 4,
+      "s": 944,
+      "geo": [
+        37.3925,
+        140.365
+      ]
+    },
+    {
+      "id": "kpx6otwvx",
+      "name": "フジ薬局鶴見坦店付近の四差路",
+      "image": "https://image.anitabi.cn/points/83869/kpx6otwvx_1728986138811.jpg?plan=h160",
+      "ep": 5,
+      "s": 560,
+      "geo": [
+        37.392,
+        140.3659
+      ]
+    },
+    {
+      "id": "kpx6otv77",
+      "name": "麓山公園",
+      "image": "https://image.anitabi.cn/points/83869/kpx6otv77_1728983953309.jpg?plan=h160",
+      "ep": 6,
+      "s": 1124,
+      "geo": [
+        37.3944,
+        140.3753
+      ]
+    },
+    {
+      "id": "kpx6otvby",
+      "name": "LIVIN ザ・モール郡山店",
+      "image": "https://image.anitabi.cn/points/83869/kpx6otvby_1728983868261.jpg?plan=h160",
+      "ep": 10,
+      "s": 1130,
+      "geo": [
+        37.3977,
+        140.3707
+      ]
+    },
+    {
+      "id": "kpx6otsxt",
+      "name": "駅前通り・新月鮨",
+      "image": "https://image.anitabi.cn/points/83869/kpx6otsxt_1728984005252.jpg?plan=h160",
+      "ep": 10,
+      "s": 1184,
+      "geo": [
+        37.398,
+        140.3861
+      ]
+    },
+    {
+      "id": "kpx6otysr",
+      "name": "郡山フェスタの観覧車",
+      "image": "https://image.anitabi.cn/points/83869/kpx6otysr_1732692279082.jpg?plan=h160",
+      "ep": 11,
+      "s": 727,
+      "geo": [
+        37.4424,
+        140.3758
+      ]
+    },
+    {
+      "id": "kpx6otszz",
+      "name": "郡山映画村テアトル６・７・８",
+      "image": "https://image.anitabi.cn/points/83869/kpx6otszz_1732691928436.jpg?plan=h160",
+      "ep": 11,
+      "s": 861,
+      "geo": [
+        37.4009,
+        140.387
+      ]
+    }
+  ],
+  "pointsLength": 42,
+  "imagesLength": 26,
+  "local_id": 333
+}

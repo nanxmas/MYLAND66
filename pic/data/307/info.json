@@ -1,0 +1,109 @@
+{
+  "id": 67403,
+  "cn": "百合铁~私立百合咲女子高校铁道部~",
+  "title": "ゆりてつ 私立百合ヶ咲女子高鉄道部",
+  "city": "北海道",
+  "cover": "https://image.xinu.ink/pic/data/307/images/67403.jpg",
+  "color": "#95806a",
+  "geo": [
+    38.52796550304177,
+    139.50895478983307
+  ],
+  "zoom": 5.102,
+  "modified": 1737867846151,
+  "litePoints": [
+    {
+      "id": "50ux6a1ff",
+      "name": "札幌駅南口",
+      "image": "https://image.anitabi.cn/points/67403/50ux6a1ff_1672316148872.jpg?plan=h160",
+      "geo": [
+        43.0673,
+        141.3516
+      ]
+    },
+    {
+      "id": "50uyttdyz",
+      "name": "そして北斗星が到着",
+      "image": "https://image.anitabi.cn/points/67403/50uyttdyz_1672316212841.jpg?plan=h160",
+      "geo": [
+        43.0688,
+        141.3524
+      ]
+    },
+    {
+      "id": "50ux6a1fv",
+      "name": "札幌駅3番線ホーム",
+      "image": "https://image.anitabi.cn/points/67403/50ux6a1fv_1672316223312.jpg?plan=h160",
+      "geo": [
+        43.0685,
+        141.3519
+      ]
+    },
+    {
+      "id": "50ux6a1s2",
+      "name": "JR室蘭駅",
+      "image": "https://image.anitabi.cn/points/67403/50ux6a1s2_1672316265559.jpg?plan=h160",
+      "geo": [
+        42.318,
+        140.9739
+      ]
+    },
+    {
+      "id": "50ux6a1cf",
+      "name": "JR小幌駅",
+      "image": "https://image.anitabi.cn/points/67403/50ux6a1cf_1672316299171.jpg?plan=h160",
+      "geo": [
+        42.5897,
+        140.5372
+      ]
+    },
+    {
+      "id": "50ux6a1v5",
+      "name": "JR米原駅",
+      "image": "https://image.anitabi.cn/points/67403/50ux6a1v5_1672316394030.jpg?plan=h160",
+      "geo": [
+        35.3144,
+        136.2896
+      ]
+    },
+    {
+      "id": "50ux6a1h8",
+      "name": "近江鉄道米原駅",
+      "image": "https://image.anitabi.cn/points/67403/50ux6a1h8_1672316408306.jpg?plan=h160",
+      "geo": [
+        35.3142,
+        136.2904
+      ]
+    },
+    {
+      "id": "50ux6a1ng",
+      "name": "近江鉄道豊郷駅",
+      "image": "https://image.anitabi.cn/points/67403/50ux6a1ng_1672316443789.jpg?plan=h160",
+      "geo": [
+        35.1978,
+        136.2309
+      ]
+    },
+    {
+      "id": "50ux6a1vy",
+      "name": "飛び出しムギちゃん",
+      "image": "https://image.anitabi.cn/points/67403/50ux6a1vy_1672316535901.jpg?plan=h160",
+      "geo": [
+        35.1977,
+        136.2304
+      ]
+    },
+    {
+      "id": "50ux6a1v1",
+      "name": "飛び出し澪ちゃん",
+      "image": "https://image.anitabi.cn/points/67403/50ux6a1v1_1672316510646.jpg?plan=h160",
+      "geo": [
+        35.198,
+        136.2299
+      ]
+    }
+  ],
+  "pointsLength": 21,
+  "imagesLength": 16,
+  "local_id": 307
+}

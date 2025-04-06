@@ -1,0 +1,112 @@
+{
+  "id": 78544,
+  "cn": "星辰恋曲的白色永恒",
+  "title": "アストラエアの白き永遠",
+  "city": "指宿市",
+  "cover": "https://image.xinu.ink/pic/data/326/images/78544.jpg",
+  "color": "#bf4060",
+  "geo": [
+    35.669360151251865,
+    139.69214943477425
+  ],
+  "zoom": 11.17,
+  "modified": 1726751776908,
+  "litePoints": [
+    {
+      "id": "lvxbb3d2u",
+      "name": "国道75",
+      "image": "https://image.anitabi.cn/points/78544/lvxbb3d2u_1719888353936.jpg?plan=h160",
+      "geo": [
+        30.5497,
+        130.9966
+      ]
+    },
+    {
+      "id": "lvxc2xt8d",
+      "name": "大型ロケット発射場 町大崎海岸眺望",
+      "image": "https://image.anitabi.cn/points/78544/lvxc2xt8d_1719888400866.jpg?plan=h160",
+      "geo": [
+        30.392,
+        130.9645
+      ]
+    },
+    {
+      "id": "lvxdxej8w",
+      "name": "ロケット組立棟",
+      "image": "https://image.anitabi.cn/points/78544/lvxdxej8w_1719888514181.jpg?plan=h160",
+      "geo": [
+        30.4023,
+        130.9731
+      ]
+    },
+    {
+      "id": "lvxkmj3wi",
+      "name": "札幌駅",
+      "image": "https://image.anitabi.cn/points/78544/lvxkmj3wi_1719888921040.jpg?plan=h160",
+      "geo": [
+        43.0685,
+        141.3507
+      ]
+    },
+    {
+      "id": "lvxmtm3ye",
+      "cn": "札幌市钟楼",
+      "name": "札幌市時計台",
+      "image": "https://image.anitabi.cn/points/78544/lvxmtm3ye_1719889076597.jpg?plan=h160",
+      "geo": [
+        43.0626,
+        141.3535
+      ]
+    },
+    {
+      "id": "lvxpg6nss",
+      "name": "ライオンズ​マンション​静修学園​前",
+      "image": "https://image.anitabi.cn/points/78544/lvxpg6nss_1719890191762.jpg?plan=h160",
+      "geo": [
+        43.0387,
+        141.3509
+      ]
+    },
+    {
+      "id": "lvxtq9vzm",
+      "cn": "伏见稻荷神社",
+      "name": "伏見稲荷神社",
+      "image": "https://image.anitabi.cn/points/78544/lvxtq9vzm_1719889469801.jpg?plan=h160",
+      "geo": [
+        43.0349,
+        141.3253
+      ]
+    },
+    {
+      "id": "lvxw9e7vy",
+      "name": "社会​福祉​法人​札幌​福祉​事業​会​伏見​寮",
+      "image": "https://image.anitabi.cn/points/78544/lvxw9e7vy_1719889625787.jpg?plan=h160",
+      "geo": [
+        43.0363,
+        141.3259
+      ]
+    },
+    {
+      "id": "lvy35q63k",
+      "name": "市立伏見小学校",
+      "image": "https://image.anitabi.cn/points/78544/lvy35q63k_1719890242246.jpg?plan=h160",
+      "geo": [
+        43.0348,
+        141.3364
+      ]
+    },
+    {
+      "id": "lvy79jsay",
+      "cn": "大通公园",
+      "name": "大通公園",
+      "image": "https://image.anitabi.cn/points/78544/lvy79jsay_1719890288542.jpg?plan=h160",
+      "geo": [
+        43.0607,
+        141.3541
+      ]
+    }
+  ],
+  "pointsLength": 16,
+  "imagesLength": 16,
+  "local_id": 326
+}

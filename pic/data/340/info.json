@@ -1,0 +1,110 @@
+{
+  "id": 88287,
+  "cn": "请问您今天要来点兔子吗？",
+  "title": "ご注文はうさぎですか？",
+  "city": "欧洲",
+  "cover": "https://image.xinu.ink/pic/data/340/images/88287.jpg",
+  "color": "#634e47",
+  "cp": "ご注文は",
+  "geo": [
+    48.07589506382905,
+    7.359862889590772
+  ],
+  "zoom": 16.061,
+  "modified": 1734066284550,
+  "litePoints": [
+    {
+      "id": "4ynzfa0wn",
+      "name": "Grand'Rue",
+      "image": "https://image.anitabi.cn/user/0/bangumi/88287/points/4ynzfa0wn.jpg?plan=h160",
+      "geo": [
+        48.0763,
+        7.3594
+      ]
+    },
+    {
+      "id": "4yo0usa0c",
+      "name": "Place du Deux Février",
+      "image": "https://image.anitabi.cn/user/0/bangumi/88287/points/4yo0usa0c.jpg?plan=h160",
+      "geo": [
+        48.0765,
+        7.3605
+      ]
+    },
+    {
+      "id": "4yo3ahxoo",
+      "name": "Rue du Vieil Hôpital",
+      "image": "https://image.anitabi.cn/user/0/bangumi/88287/points/4yo3ahxoo.jpg?plan=h160",
+      "geo": [
+        48.5812,
+        7.7494
+      ]
+    },
+    {
+      "id": "4yo5fn3ez",
+      "name": "Neuer Schoenenbourgweg",
+      "image": "https://image.anitabi.cn/user/0/bangumi/88287/points/4yo5fn3ez.jpg?plan=h160",
+      "geo": [
+        48.1696,
+        7.2974
+      ]
+    },
+    {
+      "id": "4yoa8vgpk",
+      "name": "Château Eza",
+      "image": "https://image.anitabi.cn/user/0/bangumi/88287/points/4yoa8vgpk.jpg?plan=h160",
+      "geo": [
+        43.7277,
+        7.3608
+      ]
+    },
+    {
+      "id": "4ynsv57q8",
+      "name": "Rue des Marchands",
+      "image": "https://image.anitabi.cn/user/0/bangumi/88287/points/4ynsv57q8.jpg?plan=h160",
+      "geo": [
+        48.0764,
+        7.3582
+      ]
+    },
+    {
+      "id": "4ynmvu5u2",
+      "name": "Au Chasseur",
+      "image": "https://image.anitabi.cn/user/0/bangumi/88287/points/4ynmvu5u2.jpg?plan=h160",
+      "geo": [
+        48.077,
+        7.3613
+      ]
+    },
+    {
+      "id": "4ynjsn4rj",
+      "name": "La Petite Venise",
+      "image": "https://image.anitabi.cn/user/0/bangumi/88287/points/4ynjsn4rj.jpg?plan=h160",
+      "geo": [
+        48.0739,
+        7.3573
+      ]
+    },
+    {
+      "id": "7d362fa7",
+      "name": "Rabbit Houseのモデル:Restaurant Au Chasseur",
+      "image": "https://image.anitabi.cn/points/88287/7d362fa7_1716909613683.jpg?plan=h160",
+      "geo": [
+        48.077,
+        7.3612
+      ]
+    },
+    {
+      "id": "87bed320",
+      "name": "ココア達の高校:エドモンド・ジェレ市立メディアセンター",
+      "image": "https://image.anitabi.cn/points/88287/87bed320_1716909644720.jpg?plan=h160",
+      "geo": [
+        48.0763,
+        7.3611
+      ]
+    }
+  ],
+  "pointsLength": 38,
+  "imagesLength": 26,
+  "local_id": 340
+}

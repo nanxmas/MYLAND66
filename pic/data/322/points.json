@@ -1,0 +1,80 @@
+[
+  {
+    "id": "p9hwuskwr",
+    "name": "岡山​駅",
+    "image": "https://image.xinu.ink/pic/data/322/images/p9hwuskwr_1729415292528.jpg",
+    "ep": 9,
+    "s": 523,
+    "geo": [
+      34.6659,
+      133.9183
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p9hxxlffs",
+    "cn": "丸龟城",
+    "name": "丸亀城",
+    "image": "https://image.xinu.ink/pic/data/322/images/p9hxxlffs_1729415341314.jpg",
+    "ep": 9,
+    "s": 529,
+    "geo": [
+      34.2861,
+      133.8003
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6osu4p",
+    "name": "富士そば　荻窪北口店",
+    "image": "https://image.xinu.ink/pic/data/322/images/kpx6osu4p_1729415509010.jpg",
+    "ep": 9,
+    "s": 567,
+    "geo": [
+      35.7049,
+      139.6205
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=16Qsq1mlp-oUzGDoxWDHA3Oh0e9I&ll=35.70497%2C139.620502&z=17"
+  },
+  {
+    "id": "kpx6ostkt",
+    "name": "日高屋　荻窪北口店",
+    "image": "https://image.xinu.ink/pic/data/322/images/kpx6ostkt_1729417459739.jpg",
+    "ep": 9,
+    "s": 618,
+    "geo": [
+      35.7051,
+      139.6203
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=16Qsq1mlp-oUzGDoxWDHA3Oh0e9I&ll=35.705179%2C139.620325&z=17"
+  },
+  {
+    "id": "kpx6ostuc",
+    "name": "井荻駅",
+    "image": "https://image.xinu.ink/pic/data/322/images/kpx6ostuc_1729417717520.jpg",
+    "ep": 12,
+    "s": 726,
+    "geo": [
+      35.7244,
+      139.6147
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=16Qsq1mlp-oUzGDoxWDHA3Oh0e9I&ll=35.724427%2C139.614741&z=17"
+  },
+  {
+    "id": "kpx6ost5n",
+    "name": "荻窪駅前ロータリー",
+    "image": "https://image.xinu.ink/pic/data/322/images/kpx6ost5n_1729416026158.jpg",
+    "ep": 9,
+    "geo": [
+      35.7047,
+      139.6207
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=16Qsq1mlp-oUzGDoxWDHA3Oh0e9I&ll=35.704787%2C139.620722&z=17"
+  }
+]

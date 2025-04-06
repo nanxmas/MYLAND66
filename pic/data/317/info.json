@@ -1,0 +1,92 @@
+{
+  "id": 74628,
+  "cn": "伪恋",
+  "title": "ニセコイ",
+  "cover": "https://image.xinu.ink/pic/data/317/images/74628_8HHlL.jpg",
+  "geo": [
+    35.66330214633216,
+    139.75564458735948
+  ],
+  "zoom": 10.027,
+  "modified": 1742409890853,
+  "litePoints": [
+    {
+      "id": "rjgtayvr8",
+      "name": "新青梅街道中野区鷺宮六丁目",
+      "image": "https://image.anitabi.cn/points/74628/rjgtayvr8_1735843471287.jpg?plan=h160",
+      "s": 68,
+      "geo": [
+        35.7272,
+        139.6293
+      ]
+    },
+    {
+      "id": "rjj06i95u",
+      "name": "新青梅街道",
+      "image": "https://image.anitabi.cn/points/74628/rjj06i95u_1735843551027.jpg?plan=h160",
+      "s": 96,
+      "geo": [
+        35.7272,
+        139.6294
+      ]
+    },
+    {
+      "id": "tkx1468he",
+      "name": "奥再度ドライブウェイ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/74628/points/tkx1468he-1741594823698.jpg?plan=h160",
+      "geo": [
+        34.6972,
+        135.1806
+      ]
+    },
+    {
+      "id": "tkx7my6qf",
+      "name": "環七通り",
+      "image": "https://image.anitabi.cn/user/0/bangumi/74628/points/tkx7my6qf-1741595019280.jpg?plan=h160",
+      "geo": [
+        35.6754,
+        139.8779
+      ]
+    },
+    {
+      "id": "tkx92may3",
+      "cn": "上学路",
+      "name": "上学路",
+      "image": "https://image.anitabi.cn/user/0/bangumi/74628/points/tkx92may3-1741595304180.jpg?plan=h160",
+      "geo": [
+        35.6749,
+        139.8765
+      ]
+    },
+    {
+      "id": "tkxcxacyq",
+      "name": "上学校的路",
+      "image": "https://image.anitabi.cn/user/0/bangumi/74628/points/tkxcxacyq-1741595329702.jpg?plan=h160",
+      "geo": [
+        35.6749,
+        139.8767
+      ]
+    },
+    {
+      "id": "tkxe4rzmx",
+      "name": "表参道人行天桥",
+      "image": "https://image.anitabi.cn/user/0/bangumi/74628/points/tkxe4rzmx-1741595416778.jpg?plan=h160",
+      "geo": [
+        35.6661,
+        139.7104
+      ]
+    },
+    {
+      "id": "tkxfj1s0w",
+      "name": "代代木公园",
+      "image": "https://image.anitabi.cn/user/0/bangumi/74628/points/tkxfj1s0w-1741595493501.jpg?plan=h160",
+      "geo": [
+        35.6691,
+        139.7017
+      ]
+    }
+  ],
+  "pointsLength": 9,
+  "imagesLength": 9,
+  "local_id": 317
+}

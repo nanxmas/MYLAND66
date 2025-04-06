@@ -1,0 +1,121 @@
+{
+  "id": 83868,
+  "cn": "元气囝仔",
+  "title": "ばらかもん",
+  "city": "五岛市",
+  "cover": "https://image.xinu.ink/pic/data/332/images/83868.jpg",
+  "color": "#557faa",
+  "cp": "ばらかもん",
+  "geo": [
+    32.62115484830207,
+    128.79798177336295
+  ],
+  "zoom": 11.177,
+  "modified": 1726751702389,
+  "litePoints": [
+    {
+      "id": "4xo5zvgtn",
+      "name": "1福江空港(FUJ)",
+      "image": "https://image.anitabi.cn/points/83868/4xo5zvgtn_1673759712707.jpg?plan=h160",
+      "ep": 1,
+      "s": 99,
+      "geo": [
+        32.6682,
+        128.8373
+      ]
+    },
+    {
+      "id": "4xo5zvgpc",
+      "name": "2県道49号旧富江町境界あたり",
+      "image": "https://image.anitabi.cn/points/83868/4xo5zvgpc_1673759897169.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        32.6447,
+        128.7702
+      ]
+    },
+    {
+      "id": "4xo5zvgpy",
+      "name": "3倭寇漁港（坪）",
+      "image": "https://image.anitabi.cn/points/83868/4xo5zvgpy_1673760000347.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        32.5782,
+        128.7748
+      ]
+    },
+    {
+      "id": "4xo5zvgfb",
+      "name": "4山下簡易郵便局",
+      "image": "https://image.anitabi.cn/points/83868/4xo5zvgfb_1673760030934.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        32.5892,
+        128.7559
+      ]
+    },
+    {
+      "id": "4xo5zvgjs",
+      "name": "5山下商店",
+      "image": "https://image.anitabi.cn/points/83868/4xo5zvgjs_1673760064258.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        32.5883,
+        128.7668
+      ]
+    },
+    {
+      "id": "4xo5zvh0w",
+      "name": "6倭寇漁港（山崎）",
+      "image": "https://image.anitabi.cn/points/83868/4xo5zvh0w_1673760121863.jpg?plan=h160",
+      "ep": 7,
+      "geo": [
+        32.5877,
+        128.7837
+      ]
+    },
+    {
+      "id": "4xo5zvh0k",
+      "name": "8さんさん富江キャンプ村",
+      "image": "https://image.anitabi.cn/points/83868/4xo5zvh0k_1673760169223.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        32.611,
+        128.7808
+      ]
+    },
+    {
+      "id": "4xo5zvh2n",
+      "name": "9学校（这个村附近）",
+      "image": "https://image.anitabi.cn/points/83868/4xo5zvh2n_1673760190108.jpg?plan=h160",
+      "ep": 8,
+      "geo": [
+        32.5886,
+        128.7662
+      ]
+    },
+    {
+      "id": "4xo5zvggh",
+      "name": "10神社",
+      "image": "https://image.anitabi.cn/points/83868/4xo5zvggh_1673760225145.jpg?plan=h160",
+      "ep": 10,
+      "geo": [
+        32.5883,
+        128.7669
+      ]
+    },
+    {
+      "id": "4xo5zvgzr",
+      "name": "11富江ふれあい商店街",
+      "image": "https://image.anitabi.cn/points/83868/4xo5zvgzr_1673760249494.jpg?plan=h160",
+      "ep": 10,
+      "geo": [
+        32.6156,
+        128.7669
+      ]
+    }
+  ],
+  "pointsLength": 23,
+  "imagesLength": 22,
+  "local_id": 332
+}

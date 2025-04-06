@@ -1,0 +1,46 @@
+{
+  "id": 66262,
+  "cn": "穿透幻影的太阳",
+  "title": "幻影ヲ駆ケル太陽",
+  "city": "长崎市",
+  "cover": "https://image.xinu.ink/pic/data/304/images/66262.jpg",
+  "color": "#bf4040",
+  "cp": "Progetto 幻影太陽",
+  "geo": [
+    32.747155,
+    129.880081
+  ],
+  "modified": 1731955608033,
+  "litePoints": [
+    {
+      "id": "q5whf7xvf",
+      "name": "長崎新地中華街",
+      "image": "https://image.anitabi.cn/points/66262/q5whf7xvf_1731954647457.jpg?plan=h160",
+      "geo": [
+        32.7415,
+        129.8753
+      ]
+    },
+    {
+      "id": "q5wiqlprr",
+      "name": "大浦天主堂",
+      "image": "https://image.anitabi.cn/points/66262/q5wiqlprr_1731954729049.jpg?plan=h160",
+      "geo": [
+        32.7342,
+        129.8701
+      ]
+    },
+    {
+      "id": "q5wkaxn4d",
+      "name": "グラバー通り",
+      "image": "https://image.anitabi.cn/points/66262/q5wkaxn4d_1731954830241.jpg?plan=h160",
+      "geo": [
+        32.7347,
+        129.87
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 304
+}

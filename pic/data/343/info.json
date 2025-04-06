@@ -1,0 +1,38 @@
+{
+  "id": 89096,
+  "cn": "New爱相随+",
+  "title": "NEWラブプラス+",
+  "cover": "https://image.xinu.ink/pic/data/343/images/89096.jpg",
+  "color": "#bfdfea",
+  "geo": [
+    35.090955988975,
+    139.07296881190382
+  ],
+  "zoom": 15.836,
+  "modified": 1734413154573,
+  "litePoints": [
+    {
+      "id": "j0nfve8p9",
+      "cn": "酒店大野屋",
+      "name": "大野屋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/89096/points/j0nfve8p9-1711795548552.jpg?plan=h160",
+      "geo": [
+        35.0909,
+        139.0729
+      ]
+    },
+    {
+      "id": "r16y4i0dg",
+      "cn": "鬼怒川温泉",
+      "name": "鬼怒川温泉",
+      "image": "https://image.anitabi.cn/user/0/bangumi/89096/points/r16y4i0dg-1734408522942.jpg?plan=h160",
+      "geo": [
+        36.8181,
+        139.7189
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 343
+}

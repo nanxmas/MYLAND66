@@ -1,0 +1,123 @@
+[
+  {
+    "id": "4xo5zvgtn",
+    "name": "1福江空港(FUJ)",
+    "image": "https://image.xinu.ink/pic/data/332/images/4xo5zvgtn_1673759712707.jpg",
+    "ep": 1,
+    "s": 99,
+    "geo": [
+      32.6682,
+      128.8373
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GDwn7eAY6lzq3GgmJqnJ4hB8oZpEIajI&ll=32.66827%2C128.837399&z=17"
+  },
+  {
+    "id": "4xo5zvgpc",
+    "name": "2県道49号旧富江町境界あたり",
+    "image": "https://image.xinu.ink/pic/data/332/images/4xo5zvgpc_1673759897169.jpg",
+    "ep": 1,
+    "geo": [
+      32.6447,
+      128.7702
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GDwn7eAY6lzq3GgmJqnJ4hB8oZpEIajI&ll=32.644723%2C128.770237&z=17"
+  },
+  {
+    "id": "4xo5zvgpy",
+    "name": "3倭寇漁港（坪）",
+    "image": "https://image.xinu.ink/pic/data/332/images/4xo5zvgpy_1673760000347.jpg",
+    "ep": 4,
+    "geo": [
+      32.5782,
+      128.7748
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GDwn7eAY6lzq3GgmJqnJ4hB8oZpEIajI&ll=32.578299%2C128.774872&z=17"
+  },
+  {
+    "id": "4xo5zvgfb",
+    "name": "4山下簡易郵便局",
+    "image": "https://image.xinu.ink/pic/data/332/images/4xo5zvgfb_1673760030934.jpg",
+    "ep": 3,
+    "geo": [
+      32.5892,
+      128.7559
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GDwn7eAY6lzq3GgmJqnJ4hB8oZpEIajI&ll=32.589255%2C128.755956&z=17"
+  },
+  {
+    "id": "4xo5zvgjs",
+    "name": "5山下商店",
+    "image": "https://image.xinu.ink/pic/data/332/images/4xo5zvgjs_1673760064258.jpg",
+    "ep": 3,
+    "geo": [
+      32.5883,
+      128.7668
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GDwn7eAY6lzq3GgmJqnJ4hB8oZpEIajI&ll=32.588389%2C128.766806&z=17"
+  },
+  {
+    "id": "4xo5zvh0w",
+    "name": "6倭寇漁港（山崎）",
+    "image": "https://image.xinu.ink/pic/data/332/images/4xo5zvh0w_1673760121863.jpg",
+    "ep": 7,
+    "geo": [
+      32.5877,
+      128.7837
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GDwn7eAY6lzq3GgmJqnJ4hB8oZpEIajI&ll=32.587791%2C128.783755&z=17"
+  },
+  {
+    "id": "4xo5zvh0k",
+    "name": "8さんさん富江キャンプ村",
+    "image": "https://image.xinu.ink/pic/data/332/images/4xo5zvh0k_1673760169223.jpg",
+    "ep": 6,
+    "geo": [
+      32.611,
+      128.7808
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GDwn7eAY6lzq3GgmJqnJ4hB8oZpEIajI&ll=32.611073%2C128.780822&z=17"
+  },
+  {
+    "id": "4xo5zvh2n",
+    "name": "9学校（这个村附近）",
+    "image": "https://image.xinu.ink/pic/data/332/images/4xo5zvh2n_1673760190108.jpg",
+    "ep": 8,
+    "geo": [
+      32.5886,
+      128.7662
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GDwn7eAY6lzq3GgmJqnJ4hB8oZpEIajI&ll=32.58864%2C128.766278&z=17"
+  },
+  {
+    "id": "4xo5zvggh",
+    "name": "10神社",
+    "image": "https://image.xinu.ink/pic/data/332/images/4xo5zvggh_1673760225145.jpg",
+    "ep": 10,
+    "geo": [
+      32.5883,
+      128.7669
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GDwn7eAY6lzq3GgmJqnJ4hB8oZpEIajI&ll=32.588306%2C128.766997&z=17"
+  },
+  {
+    "id": "4xo5zvgzr",
+    "name": "11富江ふれあい商店街",
+    "image": "https://image.xinu.ink/pic/data/332/images/4xo5zvgzr_1673760249494.jpg",
+    "ep": 10,
+    "geo": [
+      32.6156,
+      128.7669
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GDwn7eAY6lzq3GgmJqnJ4hB8oZpEIajI&ll=32.615645%2C128.766954&z=17"
+  }
+]
