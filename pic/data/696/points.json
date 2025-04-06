@@ -1,0 +1,122 @@
+[
+  {
+    "id": "pp5p612it",
+    "name": " 旭川駅",
+    "image": "https://image.xinu.ink/pic/data/696/images/pp5p612it-1730642560589.jpg",
+    "ep": 9,
+    "s": 1059,
+    "geo": [
+      43.7637,
+      142.3582
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pp643mfhk",
+    "name": "Parking B",
+    "image": "https://image.xinu.ink/pic/data/696/images/pp643mfhk-1730643627512.jpg",
+    "ep": 13,
+    "s": 472,
+    "geo": [
+      42.7864,
+      141.6807
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pp68qpyfz",
+    "name": "新千歳空港B駐車場連絡通路",
+    "image": "https://image.xinu.ink/pic/data/696/images/pp68qpyfz-1730643698459.jpg",
+    "ep": 13,
+    "s": 533,
+    "geo": [
+      42.7865,
+      141.6807
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pp8bvyvsk",
+    "name": "Ku-Ru コーヒーショップ クール",
+    "image": "https://image.xinu.ink/pic/data/696/images/pp8bvyvsk-1730648494586.jpg",
+    "ep": 5,
+    "s": 121,
+    "geo": [
+      35.6959,
+      139.7018
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qbc0cxh7y",
+    "name": "大通公园",
+    "image": "https://image.xinu.ink/pic/data/696/images/qbc0cxh7y-1732380289369.jpg",
+    "ep": 11,
+    "s": 325,
+    "geo": [
+      43.0606,
+      141.3527
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qbchas4np",
+    "name": "旭橋",
+    "image": "https://image.xinu.ink/pic/data/696/images/qbchas4np-1732381425275.jpg",
+    "ep": 9,
+    "s": 592,
+    "geo": [
+      43.779,
+      142.359
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qbcpvpuer",
+    "cn": "北海道旭川西高等學校",
+    "name": "北海道​旭川​西​高等​学校",
+    "image": "https://image.xinu.ink/pic/data/696/images/qbcpvpuer-1732382102178.jpg",
+    "ep": "EP13",
+    "s": 1204,
+    "geo": [
+      43.7826,
+      142.3421
+    ],
+    "origin": "Anitabi@二二",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qbe6c2pmz",
+    "cn": "全家便利店",
+    "name": "6 Chome-26-2 Higashikoiwa, Edogawa City, Tokyo 133-0052日本",
+    "image": "https://image.xinu.ink/pic/data/696/images/qbe6c2pmz-1732385156428.jpg",
+    "ep": 4,
+    "s": 154,
+    "geo": [
+      35.7338,
+      139.89
+    ],
+    "origin": "Anitabi@二二",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qbfstok5j",
+    "cn": "TIMES",
+    "name": "タイムズ川口飯塚第３",
+    "image": "https://image.xinu.ink/pic/data/696/images/qbfstok5j-1732388523362.jpg",
+    "ep": 4,
+    "s": 542,
+    "geo": [
+      35.7984,
+      139.7133
+    ],
+    "origin": "Anitabi@二二",
+    "originURL": "https://anitabi.cn/"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "d8ffac9f",
+    "cn": "中華料理 栗原軒",
+    "name": "三里塚１５",
+    "image": "https://image.xinu.ink/pic/data/695/images/d8ffac9f_1741429708204.jpg",
+    "s": 412,
+    "geo": [
+      35.7469,
+      140.3733
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=16a0ueS30_wB_lO9P42PaumV8Opnp6X0&ll=35.746942%2C140.373349&z=17"
+  },
+  {
+    "id": "89d85ec8",
+    "cn": "活海酒",
+    "name": "警固２丁目５−１３",
+    "image": "https://image.xinu.ink/pic/data/695/images/89d85ec8_1741431021551.jpg",
+    "s": 818,
+    "geo": [
+      33.5831,
+      130.3901
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=16a0ueS30_wB_lO9P42PaumV8Opnp6X0&ll=33.583145%2C130.390179&z=17"
+  },
+  {
+    "id": "1b94536a",
+    "cn": "五六島ナッチポックム（五六岛炒章鱼）",
+    "name": "オリュクドナクチポックン（오륙도낙지볶음）",
+    "image": "https://image.xinu.ink/pic/data/695/images/1b94536a_1741431583385.jpg",
+    "s": 2508,
+    "geo": [
+      35.1336,
+      129.0925
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=16a0ueS30_wB_lO9P42PaumV8Opnp6X0&ll=35.133662%2C129.092518&z=17"
+  },
+  {
+    "id": "9aebd09d",
+    "cn": "屋台 純ちゃん",
+    "name": "ＮＤＳビル",
+    "image": "https://image.xinu.ink/pic/data/695/images/9aebd09d_1741432188452.jpg",
+    "s": 4547,
+    "geo": [
+      33.6029,
+      130.4037
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=16a0ueS30_wB_lO9P42PaumV8Opnp6X0&ll=33.602904%2C130.403763&z=17"
+  }
+]

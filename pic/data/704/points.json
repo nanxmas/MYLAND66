@@ -1,0 +1,356 @@
+[
+  {
+    "id": "on49uwjt3",
+    "name": "館山航空基地 隊員食堂",
+    "image": "https://image.xinu.ink/pic/data/704/images/on49uwjt3-1727661578428.jpg",
+    "ep": 1,
+    "s": 1436,
+    "geo": [
+      34.9839,
+      139.8379
+    ]
+  },
+  {
+    "id": "on3xgziye",
+    "name": "館山航空基地 管制塔",
+    "image": "https://image.xinu.ink/pic/data/704/images/on3xgziye-1727660877209.jpg",
+    "ep": 1,
+    "s": 1814,
+    "geo": [
+      34.9846,
+      139.8335
+    ]
+  },
+  {
+    "id": "df3c954b",
+    "name": "大賀海岸付近",
+    "image": "https://image.xinu.ink/pic/data/704/images/df3c954b_1723172913071.jpg",
+    "ep": 1,
+    "s": 1911,
+    "geo": [
+      34.9818,
+      139.8242
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=34.981857%2C139.824216&z=17"
+  },
+  {
+    "id": "a90c7e0f",
+    "name": "館山夕日桟橋（モニュメント）",
+    "image": "https://image.xinu.ink/pic/data/704/images/a90c7e0f_1723171558350.jpg",
+    "ep": 2,
+    "s": 600,
+    "geo": [
+      34.9914,
+      139.8527
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=34.991406%2C139.852758&z=17"
+  },
+  {
+    "id": "198ab3e4",
+    "name": "JR館山駅（西口）",
+    "image": "https://image.xinu.ink/pic/data/704/images/198ab3e4_1723171447676.jpg",
+    "ep": 2,
+    "s": 604,
+    "geo": [
+      34.9959,
+      139.8618
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=34.995957%2C139.861896&z=17"
+  },
+  {
+    "id": "on4mg9v0y",
+    "name": "浮島換気所",
+    "image": "https://image.xinu.ink/pic/data/704/images/on4mg9v0y-1727662319155.jpg",
+    "ep": 2,
+    "s": 990,
+    "geo": [
+      35.5175,
+      139.7944
+    ]
+  },
+  {
+    "id": "on4nxh1jd",
+    "name": "風の塔",
+    "image": "https://image.xinu.ink/pic/data/704/images/on4nxh1jd-1727662408340.jpg",
+    "ep": 2,
+    "s": 1027,
+    "geo": [
+      35.4908,
+      139.8345
+    ]
+  },
+  {
+    "id": "on4s6kabr",
+    "name": "海ほたる西展望デッキ",
+    "image": "https://image.xinu.ink/pic/data/704/images/on4s6kabr-1727662666114.jpg",
+    "ep": 2,
+    "s": 1265,
+    "geo": [
+      35.4649,
+      139.8735
+    ]
+  },
+  {
+    "id": "4203ca06",
+    "name": "館山城（城山公園）八犬伝博物館",
+    "image": "https://image.xinu.ink/pic/data/704/images/4203ca06_1723171619778.jpg",
+    "ep": 3,
+    "s": 670,
+    "geo": [
+      34.9814,
+      139.8557
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=34.981456%2C139.855799&z=17"
+  },
+  {
+    "id": "32955b08",
+    "name": "建設記念碑・カッターフェイス",
+    "image": "https://image.xinu.ink/pic/data/704/images/32955b08_1723171646661.jpg",
+    "ep": 3,
+    "s": 674,
+    "geo": [
+      35.4648,
+      139.873
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=35.464814%2C139.873007&z=17"
+  },
+  {
+    "id": "201026bc",
+    "name": "道の駅 とみうら 枇杷倶楽部",
+    "image": "https://image.xinu.ink/pic/data/704/images/201026bc_1723172525867.jpg",
+    "ep": 3,
+    "s": 869,
+    "geo": [
+      35.0379,
+      139.8373
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=35.037908%2C139.837397&z=17"
+  },
+  {
+    "id": "b4d46458",
+    "name": "アズズ不時着地点",
+    "image": "https://image.xinu.ink/pic/data/704/images/b4d46458_1723172696814.jpg",
+    "ep": 4,
+    "s": 243,
+    "geo": [
+      35.0315,
+      139.8584
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=35.031583%2C139.85842&z=17"
+  },
+  {
+    "id": "ab690f69",
+    "name": "沖ノ島海水浴場",
+    "image": "https://image.xinu.ink/pic/data/704/images/ab690f69_1723171711182.jpg",
+    "ep": 4,
+    "s": 795,
+    "geo": [
+      34.9899,
+      139.8268
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=34.989973%2C139.826881&z=17"
+  },
+  {
+    "id": "cafe6871",
+    "name": "大福寺",
+    "image": "https://image.xinu.ink/pic/data/704/images/cafe6871_1723171735840.jpg",
+    "ep": 5,
+    "s": 755,
+    "geo": [
+      35.0309,
+      139.8411
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=35.030918%2C139.841125&z=17"
+  },
+  {
+    "id": "111a3d1b",
+    "name": "たてやま温泉 千里の風",
+    "image": "https://image.xinu.ink/pic/data/704/images/111a3d1b_1723171759992.jpg",
+    "ep": 5,
+    "s": 759,
+    "geo": [
+      34.9355,
+      139.8258
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=34.935591%2C139.825807&z=17"
+  },
+  {
+    "id": "n1uda2utu",
+    "name": "おさかな倶楽部",
+    "image": "https://image.xinu.ink/pic/data/704/images/n1uda2utu_1723173237383.jpg",
+    "ep": 5,
+    "s": 786,
+    "geo": [
+      35.0374,
+      139.8222
+    ],
+    "origin": "Anitabi@passion",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "01f80bfe",
+    "name": "園香ちゃんが基地に戻るシーン",
+    "image": "https://image.xinu.ink/pic/data/704/images/01f80bfe_1723173465629.jpg",
+    "ep": 5,
+    "s": 1064,
+    "geo": [
+      35.0386,
+      139.8202
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=35.038659%2C139.820262&z=17"
+  },
+  {
+    "id": "b7b34d8b",
+    "name": "洲埼灯台",
+    "image": "https://image.xinu.ink/pic/data/704/images/b7b34d8b_1723171779314.jpg",
+    "ep": 6,
+    "s": 614,
+    "geo": [
+      34.9753,
+      139.7575
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=34.975312%2C139.757563&z=17"
+  },
+  {
+    "id": "c526124e",
+    "name": "館山いちご狩りセンター",
+    "image": "https://image.xinu.ink/pic/data/704/images/c526124e_1723171794327.jpg",
+    "ep": 6,
+    "s": 618,
+    "geo": [
+      34.9906,
+      139.8834
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=34.990663%2C139.883425&z=17"
+  },
+  {
+    "id": "dadd7a5c",
+    "cn": "锯山",
+    "name": "鋸山",
+    "image": "https://image.xinu.ink/pic/data/704/images/dadd7a5c_1723173521609.jpg",
+    "ep": 8,
+    "s": 244,
+    "geo": [
+      35.1602,
+      139.8407
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=35.160298%2C139.840766&z=17"
+  },
+  {
+    "id": "5ad320ab",
+    "name": "砲台跡地(大房岬)",
+    "image": "https://image.xinu.ink/pic/data/704/images/5ad320ab_1723171830141.jpg",
+    "ep": 8,
+    "s": 801,
+    "geo": [
+      35.0403,
+      139.8148
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=35.040311%2C139.814841&z=17"
+  },
+  {
+    "id": "74da115b",
+    "name": "ひふみ養蜂園",
+    "image": "https://image.xinu.ink/pic/data/704/images/74da115b_1723171875923.jpg",
+    "ep": 8,
+    "s": 805,
+    "geo": [
+      35.0055,
+      139.864
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=35.005546%2C139.864066&z=17"
+  },
+  {
+    "id": "278861fb",
+    "name": "赤山地下壕跡",
+    "image": "https://image.xinu.ink/pic/data/704/images/278861fb_1723171904067.jpg",
+    "ep": 9,
+    "s": 847,
+    "geo": [
+      34.9817,
+      139.8416
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=34.981724%2C139.841661&z=17"
+  },
+  {
+    "id": "39216bbb",
+    "name": "おいしいお茶とだんごの店 里見茶屋",
+    "image": "https://image.xinu.ink/pic/data/704/images/39216bbb_1723171921648.jpg",
+    "ep": 9,
+    "s": 851,
+    "geo": [
+      34.983,
+      139.8569
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=34.983011%2C139.856958&z=17"
+  },
+  {
+    "id": "fa10c7f3",
+    "name": "房総フラワーライン",
+    "image": "https://image.xinu.ink/pic/data/704/images/fa10c7f3_1723171964049.jpg",
+    "ep": 10,
+    "s": 691,
+    "geo": [
+      34.9533,
+      139.7912
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=34.953303%2C139.791234&z=17"
+  },
+  {
+    "id": "39318a9f",
+    "name": "館山湾花火大会",
+    "image": "https://image.xinu.ink/pic/data/704/images/39318a9f_1723171998155.jpg",
+    "ep": 11,
+    "s": 719,
+    "geo": [
+      35.0033,
+      139.8506
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=35.003348%2C139.850698&z=17"
+  },
+  {
+    "id": "f45a6611",
+    "name": "野島崎",
+    "image": "https://image.xinu.ink/pic/data/704/images/f45a6611_1723173811394.jpg",
+    "ep": 10,
+    "s": 1016,
+    "geo": [
+      34.9002,
+      139.888
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=34.900207%2C139.888091&z=17"
+  },
+  {
+    "id": "8db5e8ea",
+    "name": "野島崎灯台※OP",
+    "image": "https://image.xinu.ink/pic/data/704/images/8db5e8ea_1723172390740.jpg",
+    "s": 105,
+    "geo": [
+      34.902,
+      139.8883
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x3EzRKkRO5YAmUFKrB5KALR1rDcy54CT&ll=34.90206%2C139.888367&z=17"
+  }
+]

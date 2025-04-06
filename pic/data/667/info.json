@@ -1,0 +1,32 @@
+{
+  "id": 284644,
+  "cn": "继园台七号",
+  "title": "继园台七号",
+  "cover": "https://image.xinu.ink/pic/data/667/images/284644_7Fz0v.jpg",
+  "modified": 1731731891538,
+  "litePoints": [
+    {
+      "id": "q31qeblph",
+      "cn": "皇后像广场",
+      "name": "皇后像廣場 Statue Square",
+      "image": "https://image.anitabi.cn/user/0/bangumi/284644/points/q31qeblph-1731731201162.jpg?plan=h160",
+      "geo": [
+        22.281,
+        114.1598
+      ]
+    },
+    {
+      "id": "q323eqae8",
+      "cn": "继园台",
+      "name": "繼園臺 Kai Yuen Ter",
+      "image": null,
+      "geo": [
+        22.2909,
+        114.2038
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 1,
+  "local_id": 667
+}

@@ -1,0 +1,29 @@
+{
+  "id": 308936,
+  "cn": "东京复仇者",
+  "title": "東京リベンジャーズ",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/712/images/308936.jpg",
+  "color": "#ea1515",
+  "geo": [
+    35.702517,
+    139.68310799999995
+  ],
+  "zoom": 16,
+  "modified": 1723295426878,
+  "litePoints": [
+    {
+      "id": "mksnk65p3",
+      "name": "麦的回忆",
+      "image": "https://image.anitabi.cn/user/1108/bangumi/308936/points/mksnk65p3-1721837717282.jpg?plan=h160",
+      "ep": 22,
+      "geo": [
+        35.7025,
+        139.6831
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 712
+}

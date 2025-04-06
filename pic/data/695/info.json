@@ -1,0 +1,56 @@
+{
+  "id": 297198,
+  "cn": "孤独的美食家 2019除夕特别篇～紧急订购！成田～福冈～釜山 子弹出差！",
+  "title": "孤独のグルメ2019大晦日スペシャル～緊急指令！成田～福岡～釜山　弾丸出張編",
+  "cover": "https://image.xinu.ink/pic/data/695/images/297198_PV6GN.jpg",
+  "modified": 1741432509209,
+  "litePoints": [
+    {
+      "id": "d8ffac9f",
+      "cn": "中華料理 栗原軒",
+      "name": "三里塚１５",
+      "image": "https://image.anitabi.cn/points/297198/d8ffac9f_1741429708204.jpg?plan=h160",
+      "s": 412,
+      "geo": [
+        35.7469,
+        140.3733
+      ]
+    },
+    {
+      "id": "89d85ec8",
+      "cn": "活海酒",
+      "name": "警固２丁目５−１３",
+      "image": "https://image.anitabi.cn/points/297198/89d85ec8_1741431021551.jpg?plan=h160",
+      "s": 818,
+      "geo": [
+        33.5831,
+        130.3901
+      ]
+    },
+    {
+      "id": "1b94536a",
+      "cn": "五六島ナッチポックム（五六岛炒章鱼）",
+      "name": "オリュクドナクチポックン（오륙도낙지볶음）",
+      "image": "https://image.anitabi.cn/points/297198/1b94536a_1741431583385.jpg?plan=h160",
+      "s": 2508,
+      "geo": [
+        35.1336,
+        129.0925
+      ]
+    },
+    {
+      "id": "9aebd09d",
+      "cn": "屋台 純ちゃん",
+      "name": "ＮＤＳビル",
+      "image": "https://image.anitabi.cn/points/297198/9aebd09d_1741432188452.jpg?plan=h160",
+      "s": 4547,
+      "geo": [
+        33.6029,
+        130.4037
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 695
+}

@@ -1,0 +1,119 @@
+{
+  "id": 290993,
+  "cn": "GIVEN 剧场版",
+  "title": "映画 ギヴン",
+  "city": "涩谷区",
+  "cover": "https://image.xinu.ink/pic/data/673/images/290993.jpg",
+  "color": "#2794f1",
+  "geo": [
+    35.659018433409074,
+    139.6947403518687
+  ],
+  "zoom": 15.274,
+  "modified": 1722531365685,
+  "litePoints": [
+    {
+      "id": "hw6rwhlaq",
+      "name": "渋谷センター街",
+      "image": "https://image.anitabi.cn/points/290993/hw6rwhlaq_1708624695058.jpg?plan=h160",
+      "s": 301,
+      "geo": [
+        35.6602,
+        139.6989
+      ]
+    },
+    {
+      "id": "hw6rwhlpj",
+      "name": "FamilyMart ファミリーマート スバル渋谷センター街店",
+      "image": "https://image.anitabi.cn/points/290993/hw6rwhlpj_1708624692075.jpg?plan=h160",
+      "s": 305,
+      "geo": [
+        35.6602,
+        139.6989
+      ]
+    },
+    {
+      "id": "hw6rwhlv9",
+      "name": "渋谷センター街　東向き",
+      "image": "https://image.anitabi.cn/points/290993/hw6rwhlv9_1708624700750.jpg?plan=h160",
+      "s": 319,
+      "geo": [
+        35.6602,
+        139.699
+      ]
+    },
+    {
+      "id": "hw6rwhlq9",
+      "name": "登戸の渡し",
+      "image": "https://image.anitabi.cn/points/290993/hw6rwhlq9_1708624679675.jpg?plan=h160",
+      "s": 1942,
+      "geo": [
+        35.6218,
+        139.5709
+      ]
+    },
+    {
+      "id": "hw6rwhlry",
+      "name": "渋谷区立鍋島松濤公園ー南側（１）",
+      "image": "https://image.anitabi.cn/points/290993/hw6rwhlry_1708624566272.jpg?plan=h160",
+      "s": 2430,
+      "geo": [
+        35.6595,
+        139.6911
+      ]
+    },
+    {
+      "id": "hw6rwhlv8",
+      "name": "水車から見るのお二人",
+      "image": "https://image.anitabi.cn/points/290993/hw6rwhlv8_1708624627539.jpg?plan=h160",
+      "s": 2438,
+      "geo": [
+        35.6597,
+        139.6912
+      ]
+    },
+    {
+      "id": "hw6rwhlw7",
+      "name": "渋谷区立鍋島松濤公園の欄干",
+      "image": "https://image.anitabi.cn/points/290993/hw6rwhlw7_1708624584176.jpg?plan=h160",
+      "s": 2451,
+      "geo": [
+        35.6596,
+        139.691
+      ]
+    },
+    {
+      "id": "hw6rwhlt4",
+      "name": "水車",
+      "image": "https://image.anitabi.cn/points/290993/hw6rwhlt4_1708624622071.jpg?plan=h160",
+      "s": 2469,
+      "geo": [
+        35.6597,
+        139.6912
+      ]
+    },
+    {
+      "id": "hw6rwhldb",
+      "name": "渋谷区立鍋島松濤公園ー南側（２）",
+      "image": "https://image.anitabi.cn/points/290993/hw6rwhldb_1708624572943.jpg?plan=h160",
+      "s": 2485,
+      "geo": [
+        35.6596,
+        139.6909
+      ]
+    },
+    {
+      "id": "hw6rwhlkv",
+      "name": "club asia",
+      "image": "https://image.anitabi.cn/points/290993/hw6rwhlkv_1708624514930.jpg?plan=h160",
+      "s": 2875,
+      "geo": [
+        35.6589,
+        139.6953
+      ]
+    }
+  ],
+  "pointsLength": 19,
+  "imagesLength": 19,
+  "local_id": 673
+}

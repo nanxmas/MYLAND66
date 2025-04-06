@@ -1,0 +1,129 @@
+{
+  "id": 295308,
+  "cn": "炽焰天穹",
+  "title": "Heaven Burns Red",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/684/images/295308.jpg",
+  "color": "#ffca8a",
+  "geo": [
+    35.90524936339466,
+    138.90944255431964
+  ],
+  "zoom": 7.61,
+  "modified": 1725984444726,
+  "litePoints": [
+    {
+      "id": "mxmexp9xb",
+      "cn": "新宿避难所附近",
+      "name": "新宿ドーム",
+      "image": "https://image.anitabi.cn/points/295308/mxm9wc6sx_1722842190087.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6844,
+        139.6896
+      ]
+    },
+    {
+      "id": "mxm9wc6sx",
+      "cn": "死亡蛞蝓（DeathSlug）出现地",
+      "name": "デススラッグ",
+      "image": "https://image.anitabi.cn/points/295308/mxm9wc6sx_1722842190087.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6936,
+        139.7059
+      ]
+    },
+    {
+      "id": "5f7f8873",
+      "cn": "秦野盆地（昴星团行动）",
+      "name": "秦野盆地",
+      "image": "https://image.anitabi.cn/points/295308/5f7f8873_1722840012008.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.382,
+        139.2088
+      ]
+    },
+    {
+      "id": "b9f59689",
+      "cn": "上粕屋（昴星团行动直升机降落地）",
+      "name": "上粕屋",
+      "image": "https://image.anitabi.cn/points/295308/5f7f8873_1722840012008.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.4129,
+        139.2868
+      ]
+    },
+    {
+      "id": "d82a861d",
+      "cn": "大山阿夫利神社（昴星团行动起始地点）",
+      "name": "大山阿夫利神社",
+      "image": "https://image.anitabi.cn/points/295308/d82a861d_1722840035691.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.4315,
+        139.2381
+      ]
+    },
+    {
+      "id": "95459eb3",
+      "cn": "矢柜山口（昴星团行动α地点）",
+      "name": "ヤビツ峠",
+      "image": "https://image.anitabi.cn/points/295308/d82a861d_1722840035691.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.4277,
+        139.2194
+      ]
+    },
+    {
+      "id": "25c197e5",
+      "cn": "菜花台观景台（昴星团行动β地点）",
+      "name": "菜の花台展望台",
+      "image": "https://image.anitabi.cn/points/295308/d82a861d_1722840035691.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.41,
+        139.2087
+      ]
+    },
+    {
+      "id": "4abfdacb",
+      "cn": "鹿岛神社（昴星团行动γ地点）",
+      "name": "鹿島神社",
+      "image": "https://image.anitabi.cn/points/295308/4abfdacb_1722840120881.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.3977,
+        139.2373
+      ]
+    },
+    {
+      "id": "cb6d629e",
+      "cn": "名古木交差点（昴星团行动第3阶段）",
+      "name": "名古木交差点",
+      "image": "https://image.anitabi.cn/points/295308/cb6d629e_1722840148658.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.3795,
+        139.2358
+      ]
+    },
+    {
+      "id": "75b6a034",
+      "cn": "31F进攻点（昴星团行动第3阶段）",
+      "name": "31F侵攻ポイント",
+      "image": "https://image.anitabi.cn/points/295308/cb6d629e_1722840148658.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.3679,
+        139.2362
+      ]
+    }
+  ],
+  "pointsLength": 79,
+  "imagesLength": 77,
+  "local_id": 684
+}

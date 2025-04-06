@@ -1,0 +1,55 @@
+{
+  "id": 300431,
+  "cn": "少年的深渊",
+  "title": "少年のアビス",
+  "cover": "https://image.xinu.ink/pic/data/702/images/300431.jpg",
+  "color": "#2a4080",
+  "modified": 1740032849970,
+  "litePoints": [
+    {
+      "id": "nxh0540ca",
+      "cn": "饭田桥站",
+      "name": "飯田橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/300431/points/nxh0540ca-1725651905985.jpg?plan=h160",
+      "ep": 114,
+      "geo": [
+        35.702,
+        139.745
+      ]
+    },
+    {
+      "id": "t0yqw7ekg",
+      "cn": "光冈桥",
+      "name": "光岡橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/300431/points/t0yqw7ekg-1740031254653.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        33.3262,
+        130.9205
+      ]
+    },
+    {
+      "id": "t0xxaab87",
+      "cn": "小鹿田烧村",
+      "name": "小鹿田焼の里",
+      "image": "https://image.anitabi.cn/user/0/bangumi/300431/points/t0xxaab87-1740030789256.jpg?plan=h160",
+      "geo": [
+        33.4298,
+        130.9102
+      ]
+    },
+    {
+      "id": "t0yw7a6fg",
+      "cn": "ministop日田光冈店",
+      "name": "ミニストップ\n日田​光岡​店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/300431/points/t0yw7a6fg-1740031434918.jpg?plan=h160",
+      "geo": [
+        33.3288,
+        130.9197
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 702
+}

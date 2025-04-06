@@ -1,0 +1,129 @@
+{
+  "id": 301369,
+  "cn": "战翼的希格德莉法",
+  "title": "戦翼のシグルドリーヴァ",
+  "city": "馆山市",
+  "cover": "https://image.xinu.ink/pic/data/704/images/301369.jpg",
+  "color": "#6a7595",
+  "geo": [
+    35.03230510841138,
+    139.83168873085936
+  ],
+  "zoom": 11.008,
+  "modified": 1728451854829,
+  "litePoints": [
+    {
+      "id": "on49uwjt3",
+      "name": "館山航空基地 隊員食堂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/301369/points/on49uwjt3-1727661578428.jpg?plan=h160",
+      "ep": 1,
+      "s": 1436,
+      "geo": [
+        34.9839,
+        139.8379
+      ]
+    },
+    {
+      "id": "on3xgziye",
+      "name": "館山航空基地 管制塔",
+      "image": "https://image.anitabi.cn/user/0/bangumi/301369/points/on3xgziye-1727660877209.jpg?plan=h160",
+      "ep": 1,
+      "s": 1814,
+      "geo": [
+        34.9846,
+        139.8335
+      ]
+    },
+    {
+      "id": "df3c954b",
+      "name": "大賀海岸付近",
+      "image": "https://image.anitabi.cn/points/301369/df3c954b_1723172913071.jpg?plan=h160",
+      "ep": 1,
+      "s": 1911,
+      "geo": [
+        34.9818,
+        139.8242
+      ]
+    },
+    {
+      "id": "a90c7e0f",
+      "name": "館山夕日桟橋（モニュメント）",
+      "image": "https://image.anitabi.cn/points/301369/a90c7e0f_1723171558350.jpg?plan=h160",
+      "ep": 2,
+      "s": 600,
+      "geo": [
+        34.9914,
+        139.8527
+      ]
+    },
+    {
+      "id": "198ab3e4",
+      "name": "JR館山駅（西口）",
+      "image": "https://image.anitabi.cn/points/301369/198ab3e4_1723171447676.jpg?plan=h160",
+      "ep": 2,
+      "s": 604,
+      "geo": [
+        34.9959,
+        139.8618
+      ]
+    },
+    {
+      "id": "on4mg9v0y",
+      "name": "浮島換気所",
+      "image": "https://image.anitabi.cn/user/0/bangumi/301369/points/on4mg9v0y-1727662319155.jpg?plan=h160",
+      "ep": 2,
+      "s": 990,
+      "geo": [
+        35.5175,
+        139.7944
+      ]
+    },
+    {
+      "id": "on4nxh1jd",
+      "name": "風の塔",
+      "image": "https://image.anitabi.cn/user/0/bangumi/301369/points/on4nxh1jd-1727662408340.jpg?plan=h160",
+      "ep": 2,
+      "s": 1027,
+      "geo": [
+        35.4908,
+        139.8345
+      ]
+    },
+    {
+      "id": "on4s6kabr",
+      "name": "海ほたる西展望デッキ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/301369/points/on4s6kabr-1727662666114.jpg?plan=h160",
+      "ep": 2,
+      "s": 1265,
+      "geo": [
+        35.4649,
+        139.8735
+      ]
+    },
+    {
+      "id": "4203ca06",
+      "name": "館山城（城山公園）八犬伝博物館",
+      "image": "https://image.anitabi.cn/points/301369/4203ca06_1723171619778.jpg?plan=h160",
+      "ep": 3,
+      "s": 670,
+      "geo": [
+        34.9814,
+        139.8557
+      ]
+    },
+    {
+      "id": "32955b08",
+      "name": "建設記念碑・カッターフェイス",
+      "image": "https://image.anitabi.cn/points/301369/32955b08_1723171646661.jpg?plan=h160",
+      "ep": 3,
+      "s": 674,
+      "geo": [
+        35.4648,
+        139.873
+      ]
+    }
+  ],
+  "pointsLength": 40,
+  "imagesLength": 33,
+  "local_id": 704
+}

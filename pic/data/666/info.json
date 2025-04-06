@@ -1,0 +1,119 @@
+{
+  "id": 284524,
+  "cn": "犬王",
+  "title": "犬王",
+  "city": "京都市",
+  "cover": "https://image.xinu.ink/pic/data/666/images/284524.jpg",
+  "color": "#330000",
+  "geo": [
+    35.03071182754793,
+    135.75983738710966
+  ],
+  "zoom": 10.509,
+  "modified": 1722520010000,
+  "litePoints": [
+    {
+      "id": "kx3093dog",
+      "name": "三条大橋南",
+      "image": "https://image.anitabi.cn/points/284524/kx3093dog_1717158005484.jpg?plan=h160",
+      "s": 62,
+      "geo": [
+        35.0084,
+        135.7715
+      ]
+    },
+    {
+      "id": "kx34z96x8",
+      "name": "等持院前",
+      "image": "https://image.anitabi.cn/points/284524/kx34z96x8_1717158328482.jpg?plan=h160",
+      "s": 66,
+      "geo": [
+        35.0296,
+        135.724
+      ]
+    },
+    {
+      "id": "kwtv1o9i9",
+      "name": "壇ノ浦古戦場",
+      "image": "https://image.anitabi.cn/points/284524/kwtv1o9i9_1717152881380.jpg?plan=h160",
+      "s": 249,
+      "geo": [
+        33.9647,
+        130.9564
+      ]
+    },
+    {
+      "id": "kwzd4uw36",
+      "name": "花岡八幡宮 閼伽井坊多宝塔",
+      "image": "https://image.anitabi.cn/points/284524/kwzd4uw36_1717152780521.jpg?plan=h160",
+      "s": 620,
+      "geo": [
+        34.0386,
+        131.8721
+      ]
+    },
+    {
+      "id": "kx0gwq12a",
+      "name": "厳島神社",
+      "image": "https://image.anitabi.cn/points/284524/kx0gwq12a_1717152477115.jpg?plan=h160",
+      "s": 821,
+      "geo": [
+        34.2961,
+        132.3196
+      ]
+    },
+    {
+      "id": "kx0h251ar",
+      "name": "厳島神社大鳥居",
+      "image": "https://image.anitabi.cn/points/284524/kx0h251ar_1717152490517.jpg?plan=h160",
+      "s": 828,
+      "geo": [
+        34.2972,
+        132.3181
+      ]
+    },
+    {
+      "id": "kwto50rfn",
+      "name": "あぶり餅（今宮神社）",
+      "image": "https://image.anitabi.cn/points/284524/kwto50rfn_1717152997797.jpg?plan=h160",
+      "s": 1217,
+      "geo": [
+        35.0453,
+        135.7428
+      ]
+    },
+    {
+      "id": "kwtsd1mrc",
+      "name": "大覚寺",
+      "image": "https://image.anitabi.cn/points/284524/kwtsd1mrc_1717152411920.jpg?plan=h160",
+      "s": 1388,
+      "geo": [
+        35.0282,
+        135.6777
+      ]
+    },
+    {
+      "id": "kwtmvciit",
+      "name": "如意ヶ嶽 火床",
+      "image": "https://image.anitabi.cn/points/284524/kwtmvciit_1717153012896.jpg?plan=h160",
+      "s": 2084,
+      "geo": [
+        35.023,
+        135.8043
+      ]
+    },
+    {
+      "id": "kwtnww9y3",
+      "name": "四条大橋",
+      "image": "https://image.anitabi.cn/points/284524/kwtnww9y3_1717152515095.jpg?plan=h160",
+      "s": 2237,
+      "geo": [
+        35.0037,
+        135.7716
+      ]
+    }
+  ],
+  "pointsLength": 26,
+  "imagesLength": 26,
+  "local_id": 666
+}

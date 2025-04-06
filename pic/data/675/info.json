@@ -1,0 +1,109 @@
+{
+  "id": 291333,
+  "cn": "丸子与银河龙",
+  "title": "マルコと銀河竜",
+  "city": "长崎市",
+  "cover": "https://image.xinu.ink/pic/data/675/images/291333.jpg",
+  "color": "#002185",
+  "geo": [
+    32.72956969772069,
+    129.84673786776625
+  ],
+  "zoom": 12.786,
+  "modified": 1728699334801,
+  "litePoints": [
+    {
+      "id": "noffmhcyg",
+      "name": "長崎駅前高架広場",
+      "image": "https://image.anitabi.cn/points/291333/noffmhcyg_1725004617205.jpg?plan=h160",
+      "geo": [
+        32.7523,
+        129.8715
+      ]
+    },
+    {
+      "id": "noha41k01",
+      "name": "長崎駅前",
+      "image": "https://image.anitabi.cn/points/291333/noha41k01_1724955580601.jpg?plan=h160",
+      "geo": [
+        32.7529,
+        129.8714
+      ]
+    },
+    {
+      "id": "nofg7r89k",
+      "name": "エレナ 福田店",
+      "image": "https://image.anitabi.cn/points/291333/nofg7r89k_1725004438719.jpg?plan=h160",
+      "geo": [
+        32.7456,
+        129.8283
+      ]
+    },
+    {
+      "id": "nollxw2jv",
+      "name": "エレナ 福田店前",
+      "image": "https://image.anitabi.cn/points/291333/nollxw2jv_1724956568068.jpg?plan=h160",
+      "geo": [
+        32.7456,
+        129.8279
+      ]
+    },
+    {
+      "id": "nofikbwwm",
+      "name": "海岸沿い",
+      "image": "https://image.anitabi.cn/points/291333/nofikbwwm_1725005190108.jpg?plan=h160",
+      "geo": [
+        32.7443,
+        129.8313
+      ]
+    },
+    {
+      "id": "noh4hj3rz",
+      "name": "みなと坂",
+      "image": "https://image.anitabi.cn/points/291333/noh4hj3rz_1725005313518.jpg?plan=h160",
+      "geo": [
+        32.7333,
+        129.8365
+      ]
+    },
+    {
+      "id": "nogt13uea",
+      "name": "砲台",
+      "image": "https://image.anitabi.cn/points/291333/nogt13uea_1725004478703.jpg?plan=h160",
+      "geo": [
+        32.7257,
+        129.8386
+      ]
+    },
+    {
+      "id": "noidlqjd0",
+      "name": "木鉢町2丁目",
+      "image": "https://image.anitabi.cn/points/291333/noidlqjd0_1725004973100.jpg?plan=h160",
+      "geo": [
+        32.729,
+        129.8437
+      ]
+    },
+    {
+      "id": "nofubgefv",
+      "name": "平戸小屋町の小道",
+      "image": "https://image.anitabi.cn/points/291333/nofubgefv_1725005026035.jpg?plan=h160",
+      "geo": [
+        32.7503,
+        129.8555
+      ]
+    },
+    {
+      "id": "nofx24lkm",
+      "name": "江の浦町16丁目",
+      "image": "https://image.anitabi.cn/points/291333/nofx24lkm_1725004519618.jpg?plan=h160",
+      "geo": [
+        32.7518,
+        129.8547
+      ]
+    }
+  ],
+  "pointsLength": 41,
+  "imagesLength": 41,
+  "local_id": 675
+}

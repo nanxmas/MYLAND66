@@ -1,0 +1,119 @@
+{
+  "id": 300179,
+  "title": "MIU404",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/701/images/300179.jpg",
+  "color": "#635547",
+  "geo": [
+    35.520361305612454,
+    139.33067709438023
+  ],
+  "zoom": 7.821,
+  "modified": 1733396112281,
+  "litePoints": [
+    {
+      "id": "4yo12nn50",
+      "name": "川崎殿町ヤード",
+      "image": "https://image.anitabi.cn/user/0/bangumi/300179/points/4yo12nn50.jpg?plan=h160",
+      "ep": 7,
+      "geo": [
+        35.538,
+        139.7508
+      ]
+    },
+    {
+      "id": "4yo9h3i86",
+      "cn": "东京湾船坞",
+      "name": "東京湾マリーナ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/300179/points/4yo9h3i86.jpg?plan=h160",
+      "ep": 11,
+      "geo": [
+        35.6614,
+        139.8299
+      ]
+    },
+    {
+      "id": "4yoo4xmq0",
+      "name": "左衛門橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/300179/points/4yoo4xmq0.jpg?plan=h160",
+      "ep": 7,
+      "geo": [
+        35.6966,
+        139.7827
+      ]
+    },
+    {
+      "id": "4ynnub5tx",
+      "name": "山王小路飲食店街",
+      "image": "https://image.anitabi.cn/user/0/bangumi/300179/points/4ynnub5tx.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.5889,
+        139.7279
+      ]
+    },
+    {
+      "id": "4yn28ktd7",
+      "name": "遠州屋本店高尾",
+      "image": "https://image.anitabi.cn/user/0/bangumi/300179/points/4yn28ktd7.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        35.726,
+        139.801
+      ]
+    },
+    {
+      "id": "4ymhwjcae",
+      "name": "日本青年館前交差点",
+      "image": "https://image.anitabi.cn/user/0/bangumi/300179/points/4ymhwjcae.jpg?plan=h160",
+      "ep": 11,
+      "geo": [
+        35.6754,
+        139.7151
+      ]
+    },
+    {
+      "id": "4yly2qazi",
+      "name": "ヴランカ府中2",
+      "image": "https://image.anitabi.cn/user/0/bangumi/300179/points/4yly2qazi.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        35.6704,
+        139.4864
+      ]
+    },
+    {
+      "id": "4ymtpq6im",
+      "name": "ほうとう・​石臼​そば​庄​ヤ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/300179/points/4ymtpq6im.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.4223,
+        138.8504
+      ]
+    },
+    {
+      "id": "4ylh7llq8",
+      "name": "おもちゃ屋​さん​の​倉庫​西新井​店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/300179/points/4ylh7llq8.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7832,
+        139.7681
+      ]
+    },
+    {
+      "id": "4yl64g975",
+      "name": "料亭山屋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/300179/points/4yl64g975.jpg?plan=h160",
+      "ep": 9,
+      "geo": [
+        35.9224,
+        139.482
+      ]
+    }
+  ],
+  "pointsLength": 52,
+  "imagesLength": 52,
+  "local_id": 701
+}

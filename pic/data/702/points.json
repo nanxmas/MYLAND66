@@ -1,0 +1,46 @@
+[
+  {
+    "id": "nxh0540ca",
+    "cn": "饭田桥站",
+    "name": "飯田橋",
+    "image": "https://image.xinu.ink/pic/data/702/images/nxh0540ca-1725651905985.jpg",
+    "ep": "114",
+    "geo": [
+      35.702,
+      139.745
+    ]
+  },
+  {
+    "id": "t0yqw7ekg",
+    "cn": "光冈桥",
+    "name": "光岡橋",
+    "image": "https://image.xinu.ink/pic/data/702/images/t0yqw7ekg-1740031254653.jpg",
+    "ep": "1",
+    "geo": [
+      33.3262,
+      130.9205
+    ]
+  },
+  {
+    "id": "t0xxaab87",
+    "cn": "小鹿田烧村",
+    "name": "小鹿田焼の里",
+    "image": "https://image.xinu.ink/pic/data/702/images/t0xxaab87-1740030789256.jpg",
+    "ep": null,
+    "geo": [
+      33.4298,
+      130.9102
+    ]
+  },
+  {
+    "id": "t0yw7a6fg",
+    "cn": "ministop日田光冈店",
+    "name": "ミニストップ\n日田​光岡​店",
+    "image": "https://image.xinu.ink/pic/data/702/images/t0yw7a6fg-1740031434918.jpg",
+    "ep": null,
+    "geo": [
+      33.3288,
+      130.9197
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "id": "mw257k4xr",
+    "cn": "圆福寺 仁王门（饭沼观音）",
+    "name": "圓福寺 仁王門（飯沼観音）",
+    "image": "https://image.xinu.ink/pic/data/697/images/mw257k4xr-1722720021346.jpg",
+    "ep": 4,
+    "s": 225,
+    "geo": [
+      35.7319,
+      140.8395
+    ]
+  },
+  {
+    "id": "mw2atewvj",
+    "cn": "今川烧 Sanoya",
+    "name": "今川焼さのや",
+    "image": "https://image.xinu.ink/pic/data/697/images/mw2atewvj-1722720343899.jpg",
+    "ep": 4,
+    "s": 224,
+    "geo": [
+      35.7323,
+      140.8407
+    ]
+  },
+  {
+    "id": "jigsq0e4f",
+    "cn": "出云日御碕灯塔",
+    "name": "出雲日御碕灯台",
+    "image": "https://image.xinu.ink/pic/data/697/images/jigsq0e4f-1713191532672.jpg",
+    "ep": null,
+    "geo": [
+      35.4341,
+      132.6297
+    ],
+    "origin": "Anitabi@瓶子盖",
+    "originURL": "https://anitabi.cn/"
+  }
+]

@@ -1,0 +1,110 @@
+{
+  "id": 280678,
+  "cn": "放学后海堤日记",
+  "title": "放課後ていぼう日誌",
+  "city": "人吉市",
+  "cover": "https://image.xinu.ink/pic/data/658/images/280678.jpg",
+  "color": "#63aaf1",
+  "cp": "海野高校ていぼう部",
+  "geo": [
+    32.30537901227525,
+    130.48944699164213
+  ],
+  "zoom": 12.583,
+  "modified": 1719939593877,
+  "litePoints": [
+    {
+      "id": "4ui8sj3aq",
+      "name": "芦北高校",
+      "image": "https://image.anitabi.cn/points/280678/4ui8sj3aq.jpg?plan=h160",
+      "geo": [
+        32.3071,
+        130.5053
+      ]
+    },
+    {
+      "id": "4ui8sj3ha",
+      "name": "セブンイレブン芦北インター店",
+      "image": "https://image.anitabi.cn/points/280678/4ui8sj3ha.jpg?plan=h160",
+      "geo": [
+        32.3039,
+        130.5074
+      ]
+    },
+    {
+      "id": "4ui8sj3hy",
+      "name": "藍川橋",
+      "image": "https://image.anitabi.cn/points/280678/4ui8sj3hy.jpg?plan=h160",
+      "geo": [
+        32.303,
+        130.5065
+      ]
+    },
+    {
+      "id": "4ui8sj3xn",
+      "name": "七瀬橋",
+      "image": "https://image.anitabi.cn/points/280678/4ui8sj3xn.jpg?plan=h160",
+      "geo": [
+        32.3013,
+        130.5067
+      ]
+    },
+    {
+      "id": "4ui8sj3k9",
+      "name": "佐敷城跡",
+      "image": "https://image.anitabi.cn/points/280678/4ui8sj3k9.jpg?plan=h160",
+      "geo": [
+        32.3031,
+        130.5026
+      ]
+    },
+    {
+      "id": "4ui8sj3fc",
+      "name": "佐敷駅",
+      "image": "https://image.anitabi.cn/points/280678/4ui8sj3fc.jpg?plan=h160",
+      "geo": [
+        32.3025,
+        130.4971
+      ]
+    },
+    {
+      "id": "4ui8sj3bu",
+      "name": "白岩踏切",
+      "image": "https://image.anitabi.cn/points/280678/4ui8sj3bu.jpg?plan=h160",
+      "geo": [
+        32.3078,
+        130.4988
+      ]
+    },
+    {
+      "id": "4ui8sj4p6",
+      "name": "佐敷川緑地公園",
+      "image": "https://image.anitabi.cn/points/280678/4ui8sj4p6.jpg?plan=h160",
+      "geo": [
+        32.302,
+        130.495
+      ]
+    },
+    {
+      "id": "4ui8sj4b6",
+      "name": "森林組合裏",
+      "image": "https://image.anitabi.cn/points/280678/4ui8sj4b6.jpg?plan=h160",
+      "geo": [
+        32.3017,
+        130.4944
+      ]
+    },
+    {
+      "id": "4ui8sj46s",
+      "name": "足北警察署裏の歩道",
+      "image": "https://image.anitabi.cn/points/280678/4ui8sj46s.jpg?plan=h160",
+      "geo": [
+        32.3013,
+        130.4938
+      ]
+    }
+  ],
+  "pointsLength": 41,
+  "imagesLength": 41,
+  "local_id": 658
+}

@@ -1,0 +1,58 @@
+{
+  "id": 290301,
+  "cn": "在月之彼岸邂逅~甜蜜的夏日彩虹~",
+  "title": "月の彼方で逢いましょう SweetSummerRainbow",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/671/images/290301_nr8tdrirz.jpg",
+  "color": "#407fbf",
+  "geo": [
+    37.521535680279754,
+    -99.28553456511165
+  ],
+  "zoom": 2.852,
+  "modified": 1742093628097,
+  "litePoints": [
+    {
+      "id": "oii99505v",
+      "cn": "坎伯兰瀑布",
+      "name": "Cumberland Falls",
+      "image": "https://image.anitabi.cn/user/0/bangumi/253621/points/nr469zc3c-1725153775854.jpg?plan=h160",
+      "geo": [
+        36.8388,
+        -84.345
+      ]
+    },
+    {
+      "id": "oii9950gw",
+      "cn": "美臣街",
+      "name": "Mason Street",
+      "image": "https://image.anitabi.cn/user/0/bangumi/253621/points/nr4a9u7ve-1725154002465.jpg?plan=h160",
+      "geo": [
+        37.7977,
+        -122.4121
+      ]
+    },
+    {
+      "id": "tr9mkpsvd",
+      "name": "Saks Fifth Ave",
+      "image": "https://image.anitabi.cn/user/0/bangumi/290301/points/tr9mkpsvd-1742092310262.jpg?plan=h160",
+      "geo": [
+        37.7882,
+        -122.4085
+      ]
+    },
+    {
+      "id": "tr9p2uusy",
+      "cn": "渔人码头",
+      "name": "Jefferson St",
+      "image": "https://image.anitabi.cn/user/0/bangumi/290301/points/tr9p2uusy-1742092399416.jpg?plan=h160",
+      "geo": [
+        37.8082,
+        -122.4159
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 671
+}

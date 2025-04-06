@@ -1,0 +1,134 @@
+{
+  "id": 287488,
+  "cn": "佐贺偶像是传奇 复仇",
+  "title": "ゾンビランドサガ リベンジ",
+  "city": "佐贺县",
+  "cover": "https://image.xinu.ink/pic/data/670/images/287488.jpg",
+  "color": "#e7bb25",
+  "cp": "ゾンビランドサガ リベンジ",
+  "geo": [
+    33.3729772022013,
+    130.18536749999998
+  ],
+  "zoom": 9.912,
+  "modified": 1731894613389,
+  "litePoints": [
+    {
+      "id": "q3ndufeaf",
+      "cn": "松原3丁目停車場",
+      "name": "松原3丁目駐車場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/287488/points/q3ndufeaf-1731778161293.jpg?plan=h160",
+      "ep": 10,
+      "s": 1354,
+      "geo": [
+        33.2531,
+        130.3043
+      ]
+    },
+    {
+      "id": "q3ng5z8yq",
+      "cn": "FM佐賀",
+      "name": "エフエム佐賀",
+      "image": "https://image.anitabi.cn/user/0/bangumi/287488/points/q3ng5z8yq-1731778261460.jpg?plan=h160",
+      "ep": 2,
+      "s": 936,
+      "geo": [
+        33.2387,
+        130.3026
+      ]
+    },
+    {
+      "id": "q3nkwgtqr",
+      "name": "SAGA​アリーナ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/252655/points/q3nkwgtqr-1731778532058.jpg?plan=h160",
+      "ep": 4,
+      "s": 838,
+      "geo": [
+        33.2748,
+        130.2928
+      ]
+    },
+    {
+      "id": "q3nmi2h1d",
+      "cn": "神埼站",
+      "name": "神埼駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/287488/points/q3nmi2h1d-1731778650559.jpg?plan=h160",
+      "ep": 3,
+      "s": 1362,
+      "geo": [
+        33.3157,
+        130.3743
+      ]
+    },
+    {
+      "id": "q3nnskdw9",
+      "name": "平ヶ里踏切",
+      "image": "https://image.anitabi.cn/user/0/bangumi/287488/points/q3nnskdw9-1731778697370.jpg?plan=h160",
+      "ep": 5,
+      "s": 1341,
+      "geo": [
+        33.3149,
+        130.3725
+      ]
+    },
+    {
+      "id": "q3noujdn0",
+      "cn": "站前不動產體育場",
+      "name": "駅前​不動産​スタジアム",
+      "image": "https://image.anitabi.cn/user/0/bangumi/252655/points/q3noujdn0-1731778767717.jpg?plan=h160",
+      "ep": 1,
+      "s": 280,
+      "geo": [
+        33.3718,
+        130.52
+      ]
+    },
+    {
+      "id": "q3nqroxcz",
+      "name": "佐賀駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/287488/points/q3nqroxcz-1731778880538.jpg?plan=h160",
+      "ep": 3,
+      "s": 532,
+      "geo": [
+        33.2641,
+        130.2973
+      ]
+    },
+    {
+      "id": "q3ns283od",
+      "name": "恵比寿橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/287488/points/q3ns283od-1731778972219.jpg?plan=h160",
+      "ep": 1,
+      "s": 1045,
+      "geo": [
+        33.1894,
+        130.3215
+      ]
+    },
+    {
+      "id": "q3nvftmwn",
+      "name": "中央橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/287488/points/q3nvftmwn-1731779161573.jpg?plan=h160",
+      "ep": 1,
+      "s": 1052,
+      "geo": [
+        33.2558,
+        130.2996
+      ]
+    },
+    {
+      "id": "q3nwkmx1u",
+      "name": "唐人二丁目",
+      "image": "https://image.anitabi.cn/user/0/bangumi/287488/points/q3nwkmx1u-1731779226823.jpg?plan=h160",
+      "ep": 2,
+      "s": 12,
+      "geo": [
+        33.2576,
+        130.2993
+      ]
+    }
+  ],
+  "pointsLength": 27,
+  "imagesLength": 27,
+  "local_id": 670
+}

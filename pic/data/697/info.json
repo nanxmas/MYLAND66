@@ -1,0 +1,52 @@
+{
+  "id": 297264,
+  "cn": "亚托莉 -我挚爱的时光-",
+  "title": "ATRI -My Dear Moments-",
+  "cover": "https://image.xinu.ink/pic/data/697/images/297264.jpg",
+  "color": "#0554f5",
+  "geo": [
+    35.07781064299979,
+    136.0755918813269
+  ],
+  "zoom": 5,
+  "modified": 1722740773274,
+  "litePoints": [
+    {
+      "id": "mw257k4xr",
+      "cn": "圆福寺 仁王门（饭沼观音）",
+      "name": "圓福寺 仁王門（飯沼観音）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/297264/points/mw257k4xr-1722720021346.jpg?plan=h160",
+      "ep": 4,
+      "s": 225,
+      "geo": [
+        35.7319,
+        140.8395
+      ]
+    },
+    {
+      "id": "mw2atewvj",
+      "cn": "今川烧 Sanoya",
+      "name": "今川焼さのや",
+      "image": "https://image.anitabi.cn/user/0/bangumi/297264/points/mw2atewvj-1722720343899.jpg?plan=h160",
+      "ep": 4,
+      "s": 224,
+      "geo": [
+        35.7323,
+        140.8407
+      ]
+    },
+    {
+      "id": "jigsq0e4f",
+      "cn": "出云日御碕灯塔",
+      "name": "出雲日御碕灯台",
+      "image": "https://image.anitabi.cn/user/1070/bangumi/297264/points/jigsq0e4f-1713191532672.jpg?plan=h160",
+      "geo": [
+        35.4341,
+        132.6297
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 697
+}

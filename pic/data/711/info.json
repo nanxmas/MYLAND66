@@ -1,0 +1,89 @@
+{
+  "id": 308291,
+  "cn": "星光咖啡馆与死神之蝶",
+  "title": "喫茶ステラと死神の蝶",
+  "city": "名古屋市",
+  "cover": "https://image.xinu.ink/pic/data/711/images/308291.jpg",
+  "color": "#d75176",
+  "geo": [
+    35.16840864598301,
+    136.8958260592069
+  ],
+  "zoom": 12.304,
+  "modified": 1720269854064,
+  "litePoints": [
+    {
+      "id": "m04maxxx6",
+      "cn": "名古屋站",
+      "name": "名古屋駅",
+      "image": "https://image.anitabi.cn/points/308291/m04maxxx6_1720217715038.jpg?plan=h160",
+      "geo": [
+        35.1718,
+        136.8841
+      ]
+    },
+    {
+      "id": "m04ofnyqt",
+      "cn": "泥江町通",
+      "name": "泥江町通",
+      "image": "https://image.anitabi.cn/points/308291/m04ofnyqt_1720217844557.jpg?plan=h160",
+      "geo": [
+        35.1694,
+        136.8854
+      ]
+    },
+    {
+      "id": "m04q3nxuf",
+      "cn": "大津通",
+      "name": "大津通",
+      "image": "https://image.anitabi.cn/points/308291/m04q3nxuf_1720217963150.jpg?plan=h160",
+      "geo": [
+        35.1642,
+        136.907
+      ]
+    },
+    {
+      "id": "m04r8v9uc",
+      "cn": "Nadya Park",
+      "name": "ナディアパーク",
+      "image": "https://image.anitabi.cn/points/308291/m04r8v9uc_1720218011401.jpg?plan=h160",
+      "geo": [
+        35.1653,
+        136.9052
+      ]
+    },
+    {
+      "id": "m04ssry36",
+      "cn": "若宫八幡社",
+      "name": "若宮八幡社",
+      "image": "https://image.anitabi.cn/points/308291/m04ssry36_1720218107077.jpg?plan=h160",
+      "geo": [
+        35.1629,
+        136.9035
+      ]
+    },
+    {
+      "id": "m04vybwfk",
+      "cn": "大阪大学丰中校区",
+      "name": "大阪大学豊中キャンパス",
+      "image": "https://image.anitabi.cn/points/308291/m04vybwfk_1720218296978.jpg?plan=h160",
+      "geo": [
+        34.8058,
+        135.4536
+      ]
+    },
+    {
+      "id": "m050xxwdu",
+      "cn": "大阪环球影城拱门",
+      "name": "ユニバーサル・スタジオ・アーチ・ゲート",
+      "image": "https://image.anitabi.cn/points/308291/m050xxwdu_1720218597708.jpg?plan=h160",
+      "geo": [
+        34.6679,
+        135.4363
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "local_id": 711
+}

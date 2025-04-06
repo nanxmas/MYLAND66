@@ -1,0 +1,133 @@
+{
+  "id": 283643,
+  "cn": "吹响吧！上低音号 3",
+  "title": "響け！ユーフォニアム 3",
+  "city": "宇治市",
+  "cover": "https://image.xinu.ink/pic/data/665/images/283643.jpg",
+  "color": "#f163cd",
+  "cp": "『響け！』",
+  "geo": [
+    34.9742733462824,
+    135.79298511006664
+  ],
+  "zoom": 11.141,
+  "modified": 1743208542360,
+  "litePoints": [
+    {
+      "id": "isvk2pmb2",
+      "cn": "河合桥",
+      "name": "河合桥",
+      "image": "https://image.anitabi.cn/user/0/bangumi/283643/points/isvk2pmb2-1711186156454.jpg?plan=h160",
+      "ep": 10,
+      "s": 998,
+      "geo": [
+        35.0304,
+        135.7721
+      ]
+    },
+    {
+      "id": "l9j9qcrdj",
+      "name": "出町橋",
+      "image": "https://image.anitabi.cn/points/283643/l9j9qcrdj_1718133772463.jpg?plan=h160",
+      "ep": 10,
+      "s": 600,
+      "geo": [
+        35.0304,
+        135.7712
+      ]
+    },
+    {
+      "id": "l7vnqeuhs",
+      "name": "出町商店街",
+      "image": "https://image.anitabi.cn/points/283643/l7vnqeuhs_1718133230101.jpg?plan=h160",
+      "ep": 10,
+      "s": 604,
+      "geo": [
+        35.0302,
+        135.7696
+      ]
+    },
+    {
+      "id": "jyqodrnkz",
+      "cn": "羽户山第三儿童公园",
+      "name": "羽戸山第三児童公園",
+      "image": "https://image.anitabi.cn/points/283643/jyqodrnkz_1714466789521.jpg?plan=h160",
+      "ep": 1,
+      "s": 175,
+      "geo": [
+        34.9078,
+        135.8148
+      ]
+    },
+    {
+      "id": "jyx0b5vb2",
+      "cn": "羽戸山第三儿童公园",
+      "name": "羽戸山第三児童公園",
+      "image": "https://image.anitabi.cn/points/283643/jyx0b5vb2_1714480561878.jpg?plan=h160",
+      "ep": 1,
+      "s": 170,
+      "geo": [
+        34.9084,
+        135.8147
+      ]
+    },
+    {
+      "id": "jyrgrhwa6",
+      "name": "六地藏駅",
+      "image": "https://image.anitabi.cn/points/283643/jyrgrhwa6_1714468534868.jpg?plan=h160",
+      "ep": 1,
+      "s": 161,
+      "geo": [
+        34.9319,
+        135.7935
+      ]
+    },
+    {
+      "id": "l2mh8tcko",
+      "cn": "Seven Eleven便利店宇治三室户店",
+      "name": "セブン​イレブン\n宇治​三室戸​店",
+      "image": "https://image.anitabi.cn/points/283643/l2mh8tcko_1717592212934.jpg?plan=h160",
+      "ep": 9,
+      "s": 1336,
+      "geo": [
+        34.8983,
+        135.811
+      ]
+    },
+    {
+      "id": "jyqu17je3",
+      "name": "宇治橋東詰",
+      "image": "https://image.anitabi.cn/points/283643/jyqu17je3_1714467129942.jpg?plan=h160",
+      "ep": 1,
+      "s": 136,
+      "geo": [
+        34.8934,
+        135.807
+      ]
+    },
+    {
+      "id": "jyqvkgkps",
+      "name": "橘橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/283643/points/jyqvkgkps-1731554473755.jpg?plan=h160",
+      "s": 54,
+      "geo": [
+        34.8903,
+        135.8079
+      ]
+    },
+    {
+      "id": "jyw4abri7",
+      "name": "喜撰橋",
+      "image": "https://image.anitabi.cn/points/283643/jyw4abri7_1714478625714.jpg?plan=h160",
+      "ep": 2,
+      "s": 50,
+      "geo": [
+        34.888,
+        135.8098
+      ]
+    }
+  ],
+  "pointsLength": 338,
+  "imagesLength": 338,
+  "local_id": 665
+}

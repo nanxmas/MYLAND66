@@ -1,0 +1,47 @@
+{
+  "id": 291213,
+  "title": "大王饶命",
+  "cover": "https://image.xinu.ink/pic/data/674/images/291213.jpg",
+  "color": "#808080",
+  "geo": [
+    34.66216505345692,
+    112.4236818815441
+  ],
+  "zoom": 11.825,
+  "modified": 1734460575235,
+  "litePoints": [
+    {
+      "id": "r1qs863fc",
+      "cn": "洛阳市行署路四号院",
+      "name": "洛阳市行署路四号院",
+      "image": "https://image.anitabi.cn/user/0/bangumi/291213/points/r1qs863fc-1734449887305.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.6619,
+        112.422
+      ]
+    },
+    {
+      "id": "lmoxkhncx",
+      "cn": "洛城外国语学校",
+      "name": "洛阳市外国语初级中学",
+      "image": "https://image.anitabi.cn/user/0/bangumi/291213/points/lmoxkhncx-1719164853459.jpg?plan=h160",
+      "geo": [
+        34.6583,
+        112.4196
+      ]
+    },
+    {
+      "id": "lmovp2vyp",
+      "name": "洛阳站",
+      "image": "https://image.anitabi.cn/user/0/bangumi/291213/points/lmovp2vyp-1719164746133.jpg?plan=h160",
+      "geo": [
+        34.687,
+        112.4303
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 674
+}

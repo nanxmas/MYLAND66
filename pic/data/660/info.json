@@ -1,0 +1,131 @@
+{
+  "id": 282000,
+  "cn": "五等分的新娘∬",
+  "title": "五等分の花嫁∬",
+  "city": "京都市",
+  "cover": "https://image.xinu.ink/pic/data/660/images/282000.jpg",
+  "color": "#8d363a",
+  "cp": "五等分の花嫁∬",
+  "geo": [
+    34.989961490020335,
+    135.77456177528967
+  ],
+  "zoom": 12.114,
+  "modified": 1733283030167,
+  "litePoints": [
+    {
+      "id": "nhva0l7e0",
+      "name": "清水の舞台 西南角",
+      "image": "https://image.anitabi.cn/user/0/bangumi/282000/points/nhva0l7e0-1724429048327.jpg?plan=h160",
+      "ep": 1,
+      "s": 8,
+      "geo": [
+        34.9946,
+        135.7849
+      ]
+    },
+    {
+      "id": "owtahw8t1",
+      "name": "安土城跡",
+      "image": "https://image.anitabi.cn/points/282000/owtahw8t1_1728544634927_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 64,
+      "geo": [
+        35.156,
+        136.1394
+      ]
+    },
+    {
+      "id": "owtia86sz",
+      "name": "汐見が丘公園 秋千",
+      "image": "https://image.anitabi.cn/points/282000/owtia86sz_1728544640081_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 78,
+      "geo": [
+        35.0027,
+        136.8983
+      ]
+    },
+    {
+      "id": "owtl7y7ip",
+      "name": "太田川站 西出口外",
+      "image": "https://image.anitabi.cn/points/282000/owtl7y7ip_1728544644672_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 98,
+      "geo": [
+        35.0205,
+        136.8924
+      ]
+    },
+    {
+      "id": "owtpyj49p",
+      "name": "ザ・​ライオンズミッドキャピタルタワー",
+      "image": "https://image.anitabi.cn/points/282000/owtpyj49p_1728544648664_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 100,
+      "geo": [
+        35.1349,
+        136.9098
+      ]
+    },
+    {
+      "id": "owtrkasdh",
+      "name": "西知多総合病院",
+      "image": "https://image.anitabi.cn/points/282000/owtrkasdh_1728544652761_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 122,
+      "geo": [
+        34.9988,
+        136.8988
+      ]
+    },
+    {
+      "id": "nuaz3sos8",
+      "name": "西知多総合病院 病房",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/282000/points/nuaz3sos8-1725403594261.jpg?plan=h160",
+      "ep": 1,
+      "s": 132,
+      "geo": [
+        34.9991,
+        136.8992
+      ]
+    },
+    {
+      "id": "nhuwgg4bn",
+      "cn": "JR京都站 中央口",
+      "name": "JR京都駅 中央口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/282000/points/nhuwgg4bn-1724428251188.jpg?plan=h160",
+      "ep": 1,
+      "s": 620,
+      "geo": [
+        34.9861,
+        135.7587
+      ]
+    },
+    {
+      "id": "o1ycfqfen",
+      "name": "Porta Dining",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/282000/points/o1ycfqfen-1726003035687.jpg?plan=h160",
+      "ep": 1,
+      "s": 641,
+      "geo": [
+        34.9863,
+        135.7588
+      ]
+    },
+    {
+      "id": "nw3w4b7a4",
+      "name": "京都站 公交车站",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/282000/points/nw3w4b7a4-1725544938588.jpg?plan=h160",
+      "ep": 1,
+      "s": 650,
+      "geo": [
+        34.9863,
+        135.7589
+      ]
+    }
+  ],
+  "pointsLength": 157,
+  "imagesLength": 157,
+  "local_id": 660
+}

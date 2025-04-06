@@ -1,0 +1,130 @@
+{
+  "id": 290980,
+  "cn": "向山进发 Next Summit",
+  "title": "ヤマノススメ Next Summit",
+  "city": "饭能市",
+  "cover": "https://image.xinu.ink/pic/data/672/images/290980.jpg",
+  "color": "#d5c6e3",
+  "cp": "『ヤマノススメ Next Sum…",
+  "geo": [
+    35.8551031,
+    139.3286081
+  ],
+  "modified": 1741147497835,
+  "litePoints": [
+    {
+      "id": "9ch82ds1i",
+      "cn": "市立图书馆",
+      "name": "市立図書館",
+      "image": "https://image.anitabi.cn/user/2140/bangumi/290980/points/9ch82ds1i-1738230568037.jpg?plan=h160",
+      "ep": 1,
+      "s": 18,
+      "geo": [
+        35.8592,
+        139.314
+      ]
+    },
+    {
+      "id": "cbeddcca",
+      "name": "11-01_飯能駅",
+      "image": "https://image.anitabi.cn/points/290980/cbeddcca_1733160164719.jpg?plan=h160",
+      "ep": 11,
+      "s": 1084,
+      "geo": [
+        35.8511,
+        139.32
+      ]
+    },
+    {
+      "id": "ab1d07cd",
+      "name": "11-02_上橋から見た西武池袋沿線",
+      "image": "https://image.anitabi.cn/points/290980/ab1d07cd_1733160229829.jpg?plan=h160",
+      "ep": 11,
+      "s": 1090,
+      "geo": [
+        35.8383,
+        139.3477
+      ]
+    },
+    {
+      "id": "935b3e24",
+      "name": "11-03_バスタ新宿4F待合室",
+      "image": "https://image.anitabi.cn/points/290980/935b3e24_1733160250373.jpg?plan=h160",
+      "ep": 11,
+      "s": 1093,
+      "geo": [
+        35.6885,
+        139.7006
+      ]
+    },
+    {
+      "id": "1cc3c7c4",
+      "name": "11-04_御殿場駅",
+      "image": "https://image.anitabi.cn/points/290980/1cc3c7c4_1733160428491.jpg?plan=h160",
+      "ep": 11,
+      "s": 1105,
+      "geo": [
+        35.3004,
+        138.9339
+      ]
+    },
+    {
+      "id": "896fb5bd",
+      "name": "11-05_御殿場駅バス乗り場",
+      "image": "https://image.anitabi.cn/points/290980/896fb5bd_1733160440947.jpg?plan=h160",
+      "ep": 11,
+      "s": 1132,
+      "geo": [
+        35.3001,
+        138.9338
+      ]
+    },
+    {
+      "id": "80d1dd6e",
+      "name": "11-06_交差点",
+      "image": "https://image.anitabi.cn/points/290980/80d1dd6e_1733160462435.jpg?plan=h160",
+      "ep": 11,
+      "s": 1135,
+      "geo": [
+        35.3,
+        138.9335
+      ]
+    },
+    {
+      "id": "4d225c34",
+      "name": "11-07_JAふじ伊豆 須走支店",
+      "image": "https://image.anitabi.cn/points/290980/4d225c34_1733160479074.jpg?plan=h160",
+      "ep": 11,
+      "s": 1137,
+      "geo": [
+        35.3611,
+        138.8705
+      ]
+    },
+    {
+      "id": "3c70a231",
+      "name": "11-08_冨士浅間神社の鳥居",
+      "image": "https://image.anitabi.cn/points/290980/3c70a231_1733160492060.jpg?plan=h160",
+      "ep": 11,
+      "s": 1141,
+      "geo": [
+        35.3618,
+        138.8629
+      ]
+    },
+    {
+      "id": "6cedc798",
+      "name": "11-09_狩休バス停",
+      "image": "https://image.anitabi.cn/points/290980/6cedc798_1733160509845.jpg?plan=h160",
+      "ep": 11,
+      "s": 1198,
+      "geo": [
+        35.366,
+        138.7932
+      ]
+    }
+  ],
+  "pointsLength": 101,
+  "imagesLength": 101,
+  "local_id": 672
+}

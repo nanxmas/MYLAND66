@@ -1,0 +1,135 @@
+{
+  "id": 297340,
+  "cn": "铁路浪漫谭",
+  "title": "レヱル・ロマネスク",
+  "city": "人吉市",
+  "cover": "https://image.xinu.ink/pic/data/698/images/297340.jpg",
+  "color": "#2b2b2b",
+  "cp": "ロマネスク",
+  "geo": [
+    32.21506100554686,
+    130.79921116375283
+  ],
+  "zoom": 11.97,
+  "modified": 1726751888007,
+  "litePoints": [
+    {
+      "id": "j335blrlk",
+      "name": "からくり時計",
+      "image": "https://image.anitabi.cn/user/1053/bangumi/297340/points/j335blrlk-1711986331938.jpg?plan=h160",
+      "ep": 1,
+      "s": 31,
+      "geo": [
+        32.2157,
+        130.7538
+      ]
+    },
+    {
+      "id": "j339eeg36",
+      "cn": "cafe 亚麻色",
+      "name": "カフェ 亜麻色",
+      "image": "https://image.anitabi.cn/user/1053/bangumi/297340/points/j339eeg36-1711986524299.jpg?plan=h160",
+      "ep": 1,
+      "s": 44,
+      "geo": [
+        32.2154,
+        130.7536
+      ]
+    },
+    {
+      "id": "j6faobvff",
+      "cn": "大吉",
+      "name": "おみやけや大吉",
+      "image": "https://image.anitabi.cn/user/1053/bangumi/297340/points/j6faobvff-1712247813854.jpg?plan=h160",
+      "ep": 2,
+      "s": 108,
+      "geo": [
+        32.216,
+        130.7604
+      ]
+    },
+    {
+      "id": "j6fltmrcm",
+      "cn": "青井阿苏神社",
+      "name": "青井阿苏神社",
+      "image": "https://image.anitabi.cn/user/1053/bangumi/297340/points/j6fltmrcm-1712248513358.jpg?plan=h160",
+      "ep": 3,
+      "s": 123,
+      "geo": [
+        32.2125,
+        130.7532
+      ]
+    },
+    {
+      "id": "j6fty5q9v",
+      "cn": "新温泉",
+      "name": "新温泉",
+      "image": "https://image.anitabi.cn/user/1053/bangumi/297340/points/j6fty5q9v-1712249002570.jpg?plan=h160",
+      "ep": 4,
+      "s": 127,
+      "geo": [
+        32.2139,
+        130.7573
+      ]
+    },
+    {
+      "id": "j6fy9qd83",
+      "cn": "人吉城址公园",
+      "name": "人吉城祉公園",
+      "image": "https://image.anitabi.cn/user/1053/bangumi/297340/points/j6fy9qd83-1712249237924.jpg?plan=h160",
+      "ep": 4,
+      "s": 135,
+      "geo": [
+        32.2119,
+        130.7667
+      ]
+    },
+    {
+      "id": "j6gngd1w5",
+      "cn": "​渕田​酒造​場",
+      "name": "(​資)​渕田​酒造​場",
+      "image": "https://image.anitabi.cn/user/1053/bangumi/297340/points/j6gngd1w5-1712250762840.jpg?plan=h160",
+      "ep": 7,
+      "geo": [
+        32.215,
+        130.7599
+      ]
+    },
+    {
+      "id": "j6gobu5gn",
+      "cn": "球磨川第四大桥",
+      "name": "球磨川第四大桥",
+      "image": "https://image.anitabi.cn/user/1053/bangumi/297340/points/j6gobu5gn-1712250816600.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        32.2046,
+        130.7996
+      ]
+    },
+    {
+      "id": "j6gurf380",
+      "cn": "衰笠锻造店",
+      "name": "衰笠锻造店",
+      "image": "https://image.anitabi.cn/user/1053/bangumi/297340/points/j6gurf380-1712251235632.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        32.2137,
+        130.7582
+      ]
+    },
+    {
+      "id": "j6h048u03",
+      "cn": "人吉城址",
+      "name": "人吉城址",
+      "image": "https://image.anitabi.cn/user/1053/bangumi/297340/points/j6h048u03-1712251531865.jpg?plan=h160",
+      "ep": 8,
+      "geo": [
+        32.2105,
+        130.7661
+      ]
+    }
+  ],
+  "pointsLength": 13,
+  "imagesLength": 13,
+  "local_id": 698
+}

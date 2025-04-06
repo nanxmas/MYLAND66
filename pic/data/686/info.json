@@ -1,0 +1,134 @@
+{
+  "id": 295778,
+  "cn": "乔西的虎与鱼",
+  "title": "ジョゼと虎と魚たち",
+  "city": "大阪市",
+  "cover": "https://image.xinu.ink/pic/data/686/images/295778.jpg",
+  "color": "#fcd65d",
+  "geo": [
+    34.65922714265699,
+    135.39384724672266
+  ],
+  "zoom": 8.771,
+  "modified": 1726148832117,
+  "litePoints": [
+    {
+      "id": "inmn6qsph",
+      "cn": "须磨海水浴场",
+      "name": "須磨海水浴場",
+      "image": "https://image.anitabi.cn/user/1115/bangumi/295778/points/inmn6qsph-1718537460699.jpg?plan=h160",
+      "s": 1414,
+      "geo": [
+        34.6429,
+        135.127
+      ]
+    },
+    {
+      "id": "lx0b2gf1h",
+      "cn": "爱染坂",
+      "name": "愛染坂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/295778/points/lx0b2gf1h-1719973320626.jpg?plan=h160",
+      "ep": 1,
+      "s": 282,
+      "geo": [
+        34.6568,
+        135.5119
+      ]
+    },
+    {
+      "id": "lxiqm92xz",
+      "cn": "天下茶屋站",
+      "name": "天下茶屋駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/295778/points/lxiqm92xz-1720013379312.jpg?plan=h160",
+      "ep": 2,
+      "s": 1289,
+      "geo": [
+        34.6369,
+        135.4966
+      ]
+    },
+    {
+      "id": "lxittl6ak",
+      "cn": "HEP FIVE摩天轮",
+      "name": "HEP FIVE観覧車",
+      "image": "https://image.anitabi.cn/user/0/bangumi/295778/points/lxittl6ak-1720013632702.jpg?plan=h160",
+      "ep": 2,
+      "s": 1695,
+      "geo": [
+        34.7038,
+        135.5
+      ]
+    },
+    {
+      "id": "lxj7xjt5z",
+      "cn": "梅田标志",
+      "name": "梅田サン広場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/295778/points/lxj7xjt5z-1720014456473.jpg?plan=h160",
+      "ep": 2,
+      "s": 1704,
+      "geo": [
+        34.7035,
+        135.4993
+      ]
+    },
+    {
+      "id": "o3sv38dbi",
+      "cn": "麥可",
+      "name": "須磨海浜公園 横断歩道",
+      "image": "https://image.anitabi.cn/user/0/bangumi/295778/points/o3sv38dbi-1726147912995.jpg?plan=h160",
+      "ep": 1,
+      "s": 3562,
+      "geo": [
+        34.6446,
+        135.1288
+      ]
+    },
+    {
+      "id": "innceb9yo",
+      "cn": "浮庭桥",
+      "name": "浮庭橋",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/295778/points/innceb9yo-1710776484438.jpg?plan=h160",
+      "s": 1635,
+      "geo": [
+        34.6691,
+        135.4952
+      ]
+    },
+    {
+      "id": "lxg3z0rr7",
+      "cn": "大阪大学",
+      "name": "大阪大学生命機能研究科生命システム棟",
+      "image": "https://image.anitabi.cn/user/0/bangumi/295778/points/lxg3z0rr7-1720007690792.jpg?plan=h160",
+      "s": 850,
+      "geo": [
+        34.817,
+        135.5273
+      ]
+    },
+    {
+      "id": "lxicbb7wb",
+      "cn": "阪堺电车平交道口",
+      "name": "阪堺電車北天下茶屋駅付近踏切",
+      "image": "https://image.anitabi.cn/user/0/bangumi/295778/points/lxicbb7wb-1720012553374.jpg?plan=h160",
+      "s": 1146,
+      "geo": [
+        34.6359,
+        135.5001
+      ]
+    },
+    {
+      "id": "lxjbd0kni",
+      "cn": "海游馆",
+      "name": "海遊館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/295778/points/lxjbd0kni-1720014632945.jpg?plan=h160",
+      "s": 1776,
+      "geo": [
+        34.6543,
+        135.429
+      ]
+    }
+  ],
+  "pointsLength": 14,
+  "imagesLength": 14,
+  "local_id": 686
+}

@@ -1,0 +1,129 @@
+{
+  "id": 282372,
+  "cn": "安达与岛村",
+  "title": "安達としまむら",
+  "city": "岐阜县",
+  "cover": "https://image.xinu.ink/pic/data/661/images/282372.jpg",
+  "color": "#ffb8fd",
+  "geo": [
+    35.44403475147536,
+    136.6924001386688
+  ],
+  "zoom": 13.819,
+  "modified": 1736015423810,
+  "litePoints": [
+    {
+      "id": "il57h5cjt",
+      "name": "1. 本巣市立土貴野小学校",
+      "image": "https://image.anitabi.cn/points/282372/il57h5cjt_1710588049657.jpg?plan=h160",
+      "ep": 10,
+      "s": 867,
+      "geo": [
+        35.4514,
+        136.6543
+      ]
+    },
+    {
+      "id": "il57h5dby",
+      "name": "2.1 古墳公園通り",
+      "image": "https://image.anitabi.cn/points/282372/il57h5dby_1710588053280.jpg?plan=h160",
+      "ep": 1,
+      "s": 1245,
+      "geo": [
+        35.4497,
+        136.6665
+      ]
+    },
+    {
+      "id": "il57h5djx",
+      "name": "2.2 电线杆",
+      "image": "https://image.anitabi.cn/points/282372/il57h5djx_1710588268386.jpg?plan=h160",
+      "ep": 1,
+      "s": 1254,
+      "geo": [
+        35.4497,
+        136.6667
+      ]
+    },
+    {
+      "id": "il57h5dtp",
+      "name": "2.3 岛村模仿飞机的地方",
+      "image": "https://image.anitabi.cn/points/282372/il57h5dtp_1710588269010.jpg?plan=h160",
+      "ep": 1,
+      "s": 1262,
+      "geo": [
+        35.4501,
+        136.6668
+      ]
+    },
+    {
+      "id": "il57h5db3",
+      "name": "3. 見延公園",
+      "image": "https://image.anitabi.cn/points/282372/il57h5db3_1710588269403.jpg?plan=h160",
+      "ep": 6,
+      "s": 1222,
+      "geo": [
+        35.4577,
+        136.6712
+      ]
+    },
+    {
+      "id": "il57h5d8j",
+      "name": "6. モレラ岐阜",
+      "image": "https://image.anitabi.cn/points/282372/il57h5d8j_1710580676549.jpg?plan=h160",
+      "ep": 3,
+      "s": 829,
+      "geo": [
+        35.4562,
+        136.6734
+      ]
+    },
+    {
+      "id": "il57h5dhh",
+      "name": "7. 鞍掛神社",
+      "image": "https://image.anitabi.cn/points/282372/il57h5dhh_1710580687902.jpg?plan=h160",
+      "ep": 3,
+      "s": 392,
+      "geo": [
+        35.4542,
+        136.6796
+      ]
+    },
+    {
+      "id": "il57h5dq8",
+      "name": "9.1 岐阜第一高等学校",
+      "image": "https://image.anitabi.cn/points/282372/il57h5dq8_1710580699952.jpg?plan=h160",
+      "ep": 2,
+      "s": 958,
+      "geo": [
+        35.4433,
+        136.6748
+      ]
+    },
+    {
+      "id": "il57h5ddz",
+      "name": "9.2 河边道路",
+      "image": "https://image.anitabi.cn/points/282372/il57h5ddz_1710588269875.jpg?plan=h160",
+      "ep": 4,
+      "s": 933,
+      "geo": [
+        35.4444,
+        136.6756
+      ]
+    },
+    {
+      "id": "il57h5drw",
+      "name": "9.3 河堤",
+      "image": "https://image.anitabi.cn/points/282372/il57h5drw_1710588270373.jpg?plan=h160",
+      "ep": 4,
+      "s": 923,
+      "geo": [
+        35.4436,
+        136.676
+      ]
+    }
+  ],
+  "pointsLength": 164,
+  "imagesLength": 96,
+  "local_id": 661
+}

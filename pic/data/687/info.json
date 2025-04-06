@@ -1,0 +1,33 @@
+{
+  "id": 295862,
+  "cn": "催眠麦克风",
+  "title": "『ヒプノシスマイク-Division Rap Battle-』Rhyme Anima",
+  "cover": "https://image.xinu.ink/pic/data/687/images/295862_zls1R.jpg",
+  "cp": "『ヒプノシスマイク-Divisi…",
+  "modified": 1735325825704,
+  "litePoints": [
+    {
+      "id": "ntu4wt3vv",
+      "cn": "横滨中华街",
+      "name": "横浜中华街",
+      "image": "https://image.anitabi.cn/user/0/bangumi/295862/points/ntu4wt3vv-1725367846591.jpg?plan=h160",
+      "geo": [
+        35.443,
+        139.6472
+      ]
+    },
+    {
+      "id": "rcv0ma6jb",
+      "cn": "池袋西口公园",
+      "name": "池袋西口公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/295862/points/rcv0ma6jb-1735321373545.jpg?plan=h160",
+      "geo": [
+        35.7302,
+        139.7089
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 687
+}

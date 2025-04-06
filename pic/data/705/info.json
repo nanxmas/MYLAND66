@@ -1,0 +1,130 @@
+{
+  "id": 301541,
+  "cn": "总之就是非常可爱",
+  "title": "トニカクカワイイ",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/705/images/301541.jpg",
+  "color": "#ff9ead",
+  "cp": "トニカクカワイイ",
+  "geo": [
+    35.5630258998451,
+    138.03844234588792
+  ],
+  "zoom": 5.885,
+  "modified": 1723716771078,
+  "litePoints": [
+    {
+      "id": "n7xemxyyo",
+      "name": "平城京",
+      "image": "https://image.anitabi.cn/points/301541/n7xemxyyo_1723708425984_half.jpg?plan=h160",
+      "ep": 8,
+      "s": 1125,
+      "geo": [
+        34.6891,
+        135.7943
+      ]
+    },
+    {
+      "id": "n7xfyul9x",
+      "name": "近鉄奈良",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/236926/points/n7xfyul9x-1723650165240.jpg?plan=h160",
+      "ep": 8,
+      "s": 124,
+      "geo": [
+        34.6844,
+        135.8274
+      ]
+    },
+    {
+      "id": "n7xo9r7cw",
+      "name": "草津温泉",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/236926/points/n7xo9r7cw-1723650650109.jpg?plan=h160",
+      "ep": 6,
+      "s": 1260,
+      "geo": [
+        36.6235,
+        138.5944
+      ]
+    },
+    {
+      "id": "n7xubfr2j",
+      "name": "そばうどん かもた付近",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/236926/points/n7xubfr2j-1723650988538.jpg?plan=h160",
+      "ep": 6,
+      "s": 472,
+      "geo": [
+        36.6234,
+        138.5929
+      ]
+    },
+    {
+      "id": "n7xv7a52b",
+      "name": "西の河原公園 源泉側の足湯付近",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/236926/points/n7xv7a52b-1723651044182.jpg?plan=h160",
+      "ep": 6,
+      "s": 410,
+      "geo": [
+        36.6243,
+        138.5892
+      ]
+    },
+    {
+      "id": "n7xw0gtr2",
+      "name": "草津​穴守​稲荷​神社",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/236926/points/n7xw0gtr2-1723651095443.jpg?plan=h160",
+      "ep": 6,
+      "s": 408,
+      "geo": [
+        36.624,
+        138.5906
+      ]
+    },
+    {
+      "id": "n7xwzjsvk",
+      "name": "草津穴守稲荷神社附近",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/236926/points/n7xwzjsvk-1723651145642.jpg?plan=h160",
+      "ep": 3,
+      "s": 438,
+      "geo": [
+        36.6241,
+        138.5911
+      ]
+    },
+    {
+      "id": "n7xxn8b05",
+      "name": "湯畑",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/236926/points/n7xxn8b05-1723651190087.jpg?plan=h160",
+      "ep": 6,
+      "s": 162,
+      "geo": [
+        36.6229,
+        138.5967
+      ]
+    },
+    {
+      "id": "n7y30mt4h",
+      "name": "ビル",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/236926/points/n7y30mt4h-1723651514408.jpg?plan=h160",
+      "ep": 6,
+      "s": 331,
+      "geo": [
+        36.6233,
+        138.5967
+      ]
+    },
+    {
+      "id": "n7y4t11fr",
+      "name": "JR京都駅前",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/236926/points/n7y4t11fr-1723651626522.jpg?plan=h160",
+      "ep": 7,
+      "s": 707,
+      "geo": [
+        34.9869,
+        135.7589
+      ]
+    }
+  ],
+  "pointsLength": 55,
+  "imagesLength": 55,
+  "local_id": 705
+}

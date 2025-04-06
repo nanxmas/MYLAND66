@@ -1,0 +1,78 @@
+{
+  "id": 285784,
+  "title": "一人之下3·入世篇",
+  "city": "北京市",
+  "cover": "https://image.xinu.ink/pic/data/668/images/285784.jpg",
+  "color": "#475563",
+  "geo": [
+    39.95582755643528,
+    116.38156915211664
+  ],
+  "zoom": 11.46,
+  "modified": 1725724261336,
+  "litePoints": [
+    {
+      "id": "nojuzoroe",
+      "cn": "国家体育场",
+      "name": "国家体育场",
+      "image": "https://image.anitabi.cn/user/0/bangumi/285784/points/nojuzoroe-1724952746680.jpg?plan=h160",
+      "ep": 3,
+      "s": 1343,
+      "geo": [
+        39.9911,
+        116.3905
+      ]
+    },
+    {
+      "id": "nojw2wfn3",
+      "cn": "国家游泳中心（水立方）",
+      "name": "国家游泳中心",
+      "image": "https://image.anitabi.cn/user/0/bangumi/285784/points/nojw2wfn3-1724952812210.jpg?plan=h160",
+      "ep": 3,
+      "s": 1363,
+      "geo": [
+        39.9915,
+        116.3841
+      ]
+    },
+    {
+      "id": "nojy2v890",
+      "cn": "西直门桥",
+      "name": "西直门桥",
+      "image": "https://image.anitabi.cn/user/0/bangumi/285784/points/nojy2v890-1724952939655.jpg?plan=h160",
+      "ep": 1,
+      "s": 1240,
+      "geo": [
+        39.9392,
+        116.3494
+      ]
+    },
+    {
+      "id": "nojti7ego",
+      "cn": "故宫",
+      "name": "故宫",
+      "image": "https://image.anitabi.cn/user/0/bangumi/285784/points/nojti7ego-1724952666411.jpg?plan=h160",
+      "ep": 3,
+      "s": 644,
+      "geo": [
+        39.9171,
+        116.3912
+      ]
+    },
+    {
+      "id": "nye4sdipm",
+      "cn": "金鼎轩（银鼎轩）",
+      "name": "金鼎轩（银鼎轩）",
+      "image": "https://image.anitabi.cn/points/285784/nye4sdipm_1725723914498.jpg?plan=h160",
+      "ep": 2,
+      "s": 700,
+      "geo": [
+        39.9495,
+        116.4096
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 668
+}

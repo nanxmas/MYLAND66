@@ -1,0 +1,125 @@
+{
+  "id": 306742,
+  "cn": "LoveLive! Superstar!!",
+  "title": "ラブライブ！スーパースター!!",
+  "city": "涩谷区",
+  "cover": "https://image.xinu.ink/pic/data/710/images/306742.jpg",
+  "color": "#f8c14d",
+  "cp": "プロジェクトラブライブ！スーパー…",
+  "geo": [
+    35.66803691614851,
+    139.70660250692117
+  ],
+  "zoom": 12.841,
+  "modified": 1741065752610,
+  "litePoints": [
+    {
+      "id": "51i52g2fq",
+      "cn": "原宿站东口",
+      "name": "原宿駅東口",
+      "image": "https://image.anitabi.cn/user/1468/bangumi/306742/points/51i52g2fq-1735581759677.jpg?plan=h160",
+      "ep": 1,
+      "s": 154,
+      "geo": [
+        35.6699,
+        139.7027
+      ]
+    },
+    {
+      "id": "51i52g4ai",
+      "name": "モーツァルト通り１",
+      "image": "https://image.anitabi.cn/user/0/bangumi/306742/points/51i52g4ai-1721310877489.jpg?plan=h160",
+      "ep": 1,
+      "s": 188,
+      "geo": [
+        35.6707,
+        139.7049
+      ]
+    },
+    {
+      "id": "51i52g56z",
+      "name": "明治神宮前交差点１",
+      "image": "https://image.anitabi.cn/user/0/bangumi/306742/points/51i52g56z-1721310622493.jpg?plan=h160",
+      "ep": 1,
+      "s": 305,
+      "geo": [
+        35.6687,
+        139.7051
+      ]
+    },
+    {
+      "id": "51i52g6ad",
+      "name": "笑たこの裏",
+      "image": "https://image.anitabi.cn/user/0/bangumi/306742/points/51i52g6ad-1731225692122.jpg?plan=h160",
+      "ep": 12,
+      "s": 1350,
+      "geo": [
+        35.6666,
+        139.7061
+      ]
+    },
+    {
+      "id": "51i52g2ny",
+      "name": "神宮橋",
+      "image": "https://image.anitabi.cn/user/1468/bangumi/306742/points/51i52g2ny-1735584616717.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.6697,
+        139.7025
+      ]
+    },
+    {
+      "id": "51i52g317",
+      "name": "神宮橋（天空橋）",
+      "image": "https://image.anitabi.cn/user/1468/bangumi/306742/points/51i52g317-1735583091858.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.6695,
+        139.7025
+      ]
+    },
+    {
+      "id": "51i52g48d",
+      "name": "教会通り１",
+      "image": "https://image.anitabi.cn/user/1468/bangumi/306742/points/51i52g48d-1735582103314.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6694,
+        139.7051
+      ]
+    },
+    {
+      "id": "51i52g4ws",
+      "name": "教会通り→都道413号線２",
+      "image": "https://image.anitabi.cn/user/1468/bangumi/306742/points/51i52g4ws-1735585722061.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.669,
+        139.7044
+      ]
+    },
+    {
+      "id": "51i52g5km",
+      "name": "おもはらの森（東急プラザ表参道店6F）",
+      "image": "https://image.anitabi.cn/user/1468/bangumi/306742/points/51i52g5km-1735583083090.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.6686,
+        139.7059
+      ]
+    },
+    {
+      "id": "51i52g5hb",
+      "name": "都道413号線歩道橋　キャットストリート前",
+      "image": "https://image.anitabi.cn/user/1468/bangumi/306742/points/51i52g5hb-1735582428010.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6677,
+        139.707
+      ]
+    }
+  ],
+  "pointsLength": 85,
+  "imagesLength": 68,
+  "local_id": 710
+}

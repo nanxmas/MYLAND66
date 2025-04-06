@@ -1,0 +1,40 @@
+{
+  "id": 296261,
+  "cn": "新石纪 STONE WARS",
+  "title": "Dr.STONE STONE WARS",
+  "cover": "https://image.xinu.ink/pic/data/690/images/296261.jpg",
+  "color": "#1c3239",
+  "cp": "Dr.STONE",
+  "geo": [
+    45.99580389549129,
+    63.56465005692337
+  ],
+  "zoom": 13.721,
+  "modified": 1738059479682,
+  "litePoints": [
+    {
+      "id": "sb72lpvs5",
+      "cn": "鎌倉大仏殿高徳院",
+      "name": "鎌倉大仏殿高徳院",
+      "image": "https://image.anitabi.cn/user/0/bangumi/296261/points/sb72lpvs5-1738012005253.jpg?plan=h160",
+      "geo": [
+        35.3168,
+        139.5357
+      ]
+    },
+    {
+      "id": "6d7cyzhmt",
+      "cn": "拜科努尔航天发射场",
+      "name": "Космодром Байконур",
+      "image": "https://image.anitabi.cn/user/0/bangumi/296261/points/6d7cyzhmt-1676104705045.jpg?plan=h160",
+      "ep": 16,
+      "geo": [
+        45.9958,
+        63.5646
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 690
+}

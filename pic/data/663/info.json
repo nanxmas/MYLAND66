@@ -1,0 +1,34 @@
+{
+  "id": 283137,
+  "title": "宅男的人间冒险",
+  "cover": "https://image.xinu.ink/pic/data/663/images/283137.jpg",
+  "color": "#e93569",
+  "modified": 1739814842839,
+  "litePoints": [
+    {
+      "id": "sujg9lelb",
+      "cn": "北京东路全家便利店",
+      "name": "北京东路全家便利店",
+      "image": "https://image.anitabi.cn/points/283137/sujg9lelb_1739814814898_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 1,
+      "geo": [
+        23.1257,
+        113.2667
+      ]
+    },
+    {
+      "id": "sp1lmue2q",
+      "cn": "广州市北京路步行街全家便利店",
+      "name": "广州市北京路步行街全家便利店",
+      "image": "https://image.anitabi.cn/points/283137/sp1lmue2q_1739814806002_c16v9.jpg?plan=h160",
+      "geo": [
+        23.1258,
+        113.2666
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 663
+}

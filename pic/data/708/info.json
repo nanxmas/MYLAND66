@@ -1,0 +1,108 @@
+{
+  "id": 305059,
+  "cn": "剧场版 BanG Dream! Poppin'Dream！",
+  "title": "BanG Dream! ぽっぴん'どりーむ！",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/708/images/305059.jpg",
+  "color": "#ff3029",
+  "cp": "BanG Dream! Proj…",
+  "geo": [
+    13.45510752350836,
+    144.72662929053467
+  ],
+  "zoom": 9.797,
+  "modified": 1728449625630,
+  "litePoints": [
+    {
+      "id": "ooo6inf30",
+      "cn": "日本武道馆",
+      "name": "日本武道館",
+      "image": "https://image.anitabi.cn/points/305059/ooo6inf30_1727783277029.jpg?plan=h160",
+      "geo": [
+        35.6931,
+        139.7492
+      ]
+    },
+    {
+      "id": "ox5pvrzur",
+      "cn": "锯山地狱观景台",
+      "name": "鋸山 地獄のぞき",
+      "image": "https://image.anitabi.cn/points/305059/ox5pvrzur_1728448436749.jpg?plan=h160",
+      "geo": [
+        35.1591,
+        139.8334
+      ]
+    },
+    {
+      "id": "ooobr0e3x",
+      "cn": "穴八幡宫 鸟居",
+      "name": "穴八幡宮",
+      "image": "https://image.anitabi.cn/points/305059/ooobr0e3x_1727783587386.jpg?plan=h160",
+      "geo": [
+        35.7067,
+        139.7185
+      ]
+    },
+    {
+      "id": "oooeg79so",
+      "name": "成田国际机场T1航站楼",
+      "image": "https://image.anitabi.cn/points/305059/oooeg79so_1727783773748.jpg?plan=h160",
+      "geo": [
+        35.7641,
+        140.3872
+      ]
+    },
+    {
+      "id": "oooj6brt3",
+      "cn": "关岛国际机场",
+      "name": "Guam International Airport",
+      "image": "https://image.anitabi.cn/points/305059/oooj6brt3_1727784032809.jpg?plan=h160",
+      "geo": [
+        13.4928,
+        144.806
+      ]
+    },
+    {
+      "id": "oosv5hbyc",
+      "cn": "莱昂广场度假酒店",
+      "name": "Leo Palace",
+      "image": "https://image.anitabi.cn/points/305059/oosv5hbyc_1727793538547.jpg?plan=h160",
+      "geo": [
+        13.4169,
+        144.7359
+      ]
+    },
+    {
+      "id": "oosuav5sn",
+      "cn": "怡保海滩",
+      "name": "Ypao Beach",
+      "image": "https://image.anitabi.cn/points/305059/oosuav5sn_1727793426461.jpg?plan=h160",
+      "geo": [
+        13.5045,
+        144.7881
+      ]
+    },
+    {
+      "id": "oosx49nw9",
+      "cn": "马利索码头",
+      "name": "Merizo Pier Park",
+      "image": "https://image.anitabi.cn/points/305059/oosx49nw9_1727793654474.jpg?plan=h160",
+      "geo": [
+        13.2677,
+        144.6646
+      ]
+    },
+    {
+      "id": "ootanh8l0",
+      "name": "Asan Bay Overlook",
+      "image": "https://image.anitabi.cn/points/305059/ootanh8l0_1727794439597.jpg?plan=h160",
+      "geo": [
+        13.46,
+        144.7153
+      ]
+    }
+  ],
+  "pointsLength": 9,
+  "imagesLength": 9,
+  "local_id": 708
+}

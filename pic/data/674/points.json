@@ -1,0 +1,35 @@
+[
+  {
+    "id": "r1qs863fc",
+    "cn": "洛阳市行署路四号院",
+    "name": "洛阳市行署路四号院",
+    "image": "https://image.xinu.ink/pic/data/674/images/r1qs863fc-1734449887305.jpg",
+    "ep": "1",
+    "s": "10:15",
+    "geo": [
+      34.6619,
+      112.422
+    ]
+  },
+  {
+    "id": "lmoxkhncx",
+    "cn": "洛城外国语学校",
+    "name": "洛阳市外国语初级中学",
+    "image": "https://image.xinu.ink/pic/data/674/images/lmoxkhncx-1719164853459.jpg",
+    "ep": null,
+    "geo": [
+      34.6583,
+      112.4196
+    ]
+  },
+  {
+    "id": "lmovp2vyp",
+    "name": "洛阳站",
+    "image": "https://image.xinu.ink/pic/data/674/images/lmovp2vyp-1719164746133.jpg",
+    "ep": null,
+    "geo": [
+      34.687,
+      112.4303
+    ]
+  }
+]

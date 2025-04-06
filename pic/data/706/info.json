@@ -1,0 +1,129 @@
+{
+  "id": 301601,
+  "cn": "里世界郊游",
+  "title": "裏世界ピクニック",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/706/images/301601.jpg",
+  "color": "#0366aa",
+  "geo": [
+    35.813405367821034,
+    139.72456479038306
+  ],
+  "zoom": 10.498,
+  "modified": 1722519667146,
+  "litePoints": [
+    {
+      "id": "lzycqdbtp",
+      "name": "大宮一番街商店街",
+      "image": "https://image.anitabi.cn/points/301601/lzycqdbtp_1720206408063.jpg?plan=h160",
+      "ep": 1,
+      "s": 334,
+      "geo": [
+        35.9079,
+        139.625
+      ]
+    },
+    {
+      "id": "lzyexcqsl",
+      "name": "​串カツ​田中​ 大宮​店",
+      "image": "https://image.anitabi.cn/points/301601/lzyexcqsl_1720206409197.jpg?plan=h160",
+      "ep": 1,
+      "s": 337,
+      "geo": [
+        35.9081,
+        139.6261
+      ]
+    },
+    {
+      "id": "lzyfym8t1",
+      "name": "大宮一番街商店街 自転車走行禁止看板",
+      "image": "https://image.anitabi.cn/points/301601/lzyfym8t1_1720206410868.jpg?plan=h160",
+      "ep": 1,
+      "s": 338,
+      "geo": [
+        35.9081,
+        139.6262
+      ]
+    },
+    {
+      "id": "lzyl1o1qb",
+      "name": "大宮一番街商店街 脇道",
+      "image": "https://image.anitabi.cn/points/301601/lzyl1o1qb_1720206412576.jpg?plan=h160",
+      "ep": 1,
+      "s": 519,
+      "geo": [
+        35.9083,
+        139.6255
+      ]
+    },
+    {
+      "id": "lzynm7v4m",
+      "name": "アカマル屋 大宮一番街店",
+      "image": "https://image.anitabi.cn/points/301601/lzynm7v4m_1720206413712.jpg?plan=h160",
+      "ep": 1,
+      "s": 522,
+      "geo": [
+        35.9081,
+        139.6259
+      ]
+    },
+    {
+      "id": "lzxzn1x47",
+      "name": "埼玉大学",
+      "image": "https://image.anitabi.cn/points/301601/lzxzn1x47_1720207079615.jpg?plan=h160",
+      "ep": 1,
+      "s": 602,
+      "geo": [
+        35.8655,
+        139.6073
+      ]
+    },
+    {
+      "id": "lzy669mbd",
+      "name": "新御茶ノ水駅 B1出口",
+      "image": "https://image.anitabi.cn/points/301601/lzy669mbd_1720206403197.jpg?plan=h160",
+      "ep": 1,
+      "s": 735,
+      "geo": [
+        35.699,
+        139.7654
+      ]
+    },
+    {
+      "id": "lzya05gua",
+      "name": "八木書店",
+      "image": "https://image.anitabi.cn/points/301601/lzya05gua_1720206404537.jpg?plan=h160",
+      "ep": 1,
+      "s": 737,
+      "geo": [
+        35.6958,
+        139.7604
+      ]
+    },
+    {
+      "id": "lzyae9kag",
+      "name": "矢口書店",
+      "image": "https://image.anitabi.cn/points/301601/lzyae9kag_1720206405572.jpg?plan=h160",
+      "ep": 1,
+      "s": 740,
+      "geo": [
+        35.6957,
+        139.757
+      ]
+    },
+    {
+      "id": "lzyo9uduf",
+      "name": "石神井公園駅南口",
+      "image": "https://image.anitabi.cn/points/301601/lzyo9uduf_1720206414815.jpg?plan=h160",
+      "ep": 2,
+      "s": 196,
+      "geo": [
+        35.7433,
+        139.6064
+      ]
+    }
+  ],
+  "pointsLength": 30,
+  "imagesLength": 30,
+  "local_id": 706
+}

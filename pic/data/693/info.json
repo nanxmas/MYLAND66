@@ -1,0 +1,39 @@
+{
+  "id": 297022,
+  "cn": "忧国的莫里亚蒂",
+  "title": "憂国のモリアーティ",
+  "cover": "https://image.xinu.ink/pic/data/693/images/297022.jpg",
+  "color": "#39231c",
+  "geo": [
+    51.381025342685774,
+    -2.359672204974686
+  ],
+  "zoom": 12.929,
+  "modified": 1735190971890,
+  "litePoints": [
+    {
+      "id": "rb6bwkl7a",
+      "cn": "大本钟",
+      "name": "Big Ben",
+      "image": "https://image.anitabi.cn/user/0/bangumi/297022/points/rb6bwkl7a-1735189036947.jpg?plan=h160",
+      "ep": 13,
+      "geo": [
+        51.5004,
+        -0.1244
+      ]
+    },
+    {
+      "id": "iuacysbau",
+      "cn": "罗马浴场",
+      "name": "ローマン・バス",
+      "image": "https://image.anitabi.cn/points/297022/iuacysbau_1723295408467.jpg?plan=h160",
+      "geo": [
+        51.381,
+        -2.3597
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 693
+}

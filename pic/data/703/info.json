@@ -1,0 +1,119 @@
+{
+  "id": 300648,
+  "cn": "蔚蓝档案",
+  "title": "Blue Archive",
+  "cover": "https://image.xinu.ink/pic/data/703/images/300648_Hfr75.jpg",
+  "color": "#86f3f0",
+  "geo": [
+    35.67832105423051,
+    139.85532805292166
+  ],
+  "zoom": 10.06,
+  "modified": 1742409625013,
+  "litePoints": [
+    {
+      "id": "qfixh6c6n",
+      "name": "サンルイビル",
+      "image": "https://image.anitabi.cn/points/300648/qfixh6c6n_1732708799979.jpg?plan=h160",
+      "s": 9,
+      "geo": [
+        35.6597,
+        139.699
+      ]
+    },
+    {
+      "id": "qfher95qp",
+      "name": "QFRONT ビジョン",
+      "image": "https://image.anitabi.cn/points/300648/qfher95qp_1732705464554.jpg?plan=h160",
+      "s": 27,
+      "geo": [
+        35.6596,
+        139.7004
+      ]
+    },
+    {
+      "id": "qfkea6hdt",
+      "name": "明治通り",
+      "image": "https://image.anitabi.cn/points/300648/qfkea6hdt_1732711960429.jpg?plan=h160",
+      "s": 7,
+      "geo": [
+        35.6576,
+        139.7035
+      ]
+    },
+    {
+      "id": "qfjbzgdai",
+      "name": "MAGNET by SHIBUYA109",
+      "image": "https://image.anitabi.cn/points/300648/qfjbzgdai_1732709657001.jpg?plan=h160",
+      "s": 8,
+      "geo": [
+        35.6597,
+        139.7006
+      ]
+    },
+    {
+      "id": "qfqkukhgl",
+      "name": "鳥取駅",
+      "image": "https://image.anitabi.cn/points/300648/qfqkukhgl_1732725433243.jpg?plan=h160",
+      "s": 10,
+      "geo": [
+        35.4938,
+        134.226
+      ]
+    },
+    {
+      "id": "qfh88yt94",
+      "name": "渋谷",
+      "image": "https://image.anitabi.cn/points/300648/qfh7gstsh_1732705017808.jpg?plan=h160",
+      "s": 8,
+      "geo": [
+        35.6595,
+        139.7002
+      ]
+    },
+    {
+      "id": "qfli2aj2y",
+      "name": "聖橋から秋葉原方向",
+      "image": "https://image.anitabi.cn/points/300648/qfli2aj2y_1732714427683.jpg?plan=h160",
+      "s": 14,
+      "geo": [
+        35.6998,
+        139.7655
+      ]
+    },
+    {
+      "id": "qfl5n7hcs",
+      "name": "ルミネエスト新宿",
+      "image": "https://image.anitabi.cn/points/300648/qfl5n7hcs_1732713752750.jpg?plan=h160",
+      "s": 8,
+      "geo": [
+        35.6919,
+        139.7009
+      ]
+    },
+    {
+      "id": "lrl93ovug",
+      "cn": "秋叶原UDX前",
+      "name": "秋葉原UDX前",
+      "image": "https://image.anitabi.cn/points/416777/lrl93ovug_1719550021961.jpg?plan=h160",
+      "s": 9,
+      "geo": [
+        35.6995,
+        139.7725
+      ]
+    },
+    {
+      "id": "s9om9hwf6",
+      "cn": "伊予铁道高滨线 梅津寺-港山段",
+      "name": "伊予铁道高滨线 梅津寺-港山段",
+      "image": "https://image.anitabi.cn/user/0/bangumi/300648/points/s9om9hwf6-1737893221118.jpg?plan=h160",
+      "geo": [
+        33.8735,
+        132.7082
+      ]
+    }
+  ],
+  "pointsLength": 22,
+  "imagesLength": 22,
+  "local_id": 703
+}

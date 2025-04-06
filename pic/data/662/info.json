@@ -1,0 +1,123 @@
+{
+  "id": 282923,
+  "cn": "上伊那牡丹，酒醉身姿似百合花般",
+  "title": "上伊那ぼたん、酔へる姿は百合の花",
+  "city": "秩父市",
+  "cover": "https://image.xinu.ink/pic/data/662/images/282923.jpg",
+  "color": "#476347",
+  "geo": [
+    37.27850141858974,
+    138.4693144655971
+  ],
+  "zoom": 6.332,
+  "modified": 1742983187020,
+  "litePoints": [
+    {
+      "id": "ttqy3qxuh",
+      "cn": "私立立教大学 池袋校区",
+      "name": "立教大",
+      "image": "https://image.anitabi.cn/points/282923/ttqy3qxuh_1742286652057.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.7309,
+        139.7039
+      ]
+    },
+    {
+      "id": "ttr1hpv2a",
+      "name": "代官山",
+      "image": "https://image.anitabi.cn/points/282923/ttr1hpv2a_1742286958635.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        35.6481,
+        139.7031
+      ]
+    },
+    {
+      "id": "ttpwcteo8",
+      "cn": "长瀞岩叠  阶梯",
+      "name": "長瀞岩畳",
+      "image": "https://image.anitabi.cn/points/282923/ttpwcteo8_1742284395833.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        36.095,
+        139.1151
+      ]
+    },
+    {
+      "id": "ttplbg5q1",
+      "cn": "长瀞站",
+      "name": 1,
+      "image": "https://image.anitabi.cn/points/282923/ttplbg5q1_1742283703959.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        36.0951,
+        139.1125
+      ]
+    },
+    {
+      "id": "ttqd90uct",
+      "name": "番場通り",
+      "image": "https://image.anitabi.cn/points/282923/ttqd90uct_1742285477174.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        35.9958,
+        139.0839
+      ]
+    },
+    {
+      "id": "twgg1xogt",
+      "name": "まほろバル(MAHOLLOBAR)",
+      "image": "https://image.anitabi.cn/points/282923/twgg1xogt_1742498886764.jpg?plan=h160",
+      "ep": 17,
+      "geo": [
+        35.9948,
+        139.0839
+      ]
+    },
+    {
+      "id": "twgjwzxtr",
+      "name": "ちちぶホステル CHICHIBU-HOSTEL 207号室",
+      "image": "https://image.anitabi.cn/points/282923/twgjwzxtr_1742499112463.jpg?plan=h160",
+      "ep": 17,
+      "geo": [
+        35.9948,
+        139.084
+      ]
+    },
+    {
+      "id": "twjqfwadd",
+      "name": "武甲山の不動滝",
+      "image": "https://image.anitabi.cn/points/282923/twjqfwadd_1742506052495.jpg?plan=h160",
+      "ep": 19,
+      "geo": [
+        35.9443,
+        139.1047
+      ]
+    },
+    {
+      "id": "ttqhd0655",
+      "name": "秩父あさひや (有限会社 朝日屋)",
+      "image": "https://image.anitabi.cn/points/282923/ttqhd0655_1742285642649.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        35.9962,
+        139.084
+      ]
+    },
+    {
+      "id": "tttx2vszm",
+      "cn": "西武秩父站前温泉祭之汤",
+      "name": "祭の湯",
+      "image": "https://image.anitabi.cn/points/282923/tttx2vszm_1742293118475.jpg?plan=h160",
+      "ep": 8,
+      "geo": [
+        35.9899,
+        139.0838
+      ]
+    }
+  ],
+  "pointsLength": 151,
+  "imagesLength": 151,
+  "local_id": 662
+}

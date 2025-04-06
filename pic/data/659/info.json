@@ -1,0 +1,121 @@
+{
+  "id": 280837,
+  "cn": "紫罗兰永恒花园 外传 - 永远与自动手记人偶 -",
+  "title": "ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 -",
+  "city": "欧洲",
+  "cover": "https://image.xinu.ink/pic/data/659/images/280837_L6VeG.jpg",
+  "color": "#7c8254",
+  "geo": [
+    49.046957275049124,
+    10.098055700657596
+  ],
+  "zoom": 5.674,
+  "modified": 1742409604723,
+  "litePoints": [
+    {
+      "id": "p8qwz5hsc",
+      "cn": "霍亨萨尔茨堡",
+      "name": "Festung Hohensalzburg",
+      "image": "https://image.anitabi.cn/points/280837/p8qwz5hsc_1729356773554.jpg?plan=h160",
+      "s": 140,
+      "geo": [
+        47.795,
+        13.0478
+      ]
+    },
+    {
+      "id": "qzo67mlsg",
+      "cn": "圣索菲亚大教堂",
+      "name": "アヤソフィア博物館",
+      "image": "https://image.anitabi.cn/points/280837/qzo67mlsg_1734287538652_c16v9.jpg?plan=h160",
+      "s": 1237,
+      "geo": [
+        41.0084,
+        28.9801
+      ]
+    },
+    {
+      "id": "65f2355d",
+      "name": "Cochem - Pinnerkreuz",
+      "image": "https://image.anitabi.cn/points/280837/65f2355d_1734288376858.jpg?plan=h160",
+      "s": 147,
+      "geo": [
+        50.15,
+        7.1631
+      ]
+    },
+    {
+      "id": "069b07ea",
+      "name": "Cochem Castle - Inner Gate",
+      "image": "https://image.anitabi.cn/points/280837/069b07ea_1734342135754.jpg?plan=h160",
+      "s": 497,
+      "geo": [
+        50.142,
+        7.1673
+      ]
+    },
+    {
+      "id": "324b38f7",
+      "name": "Cochem Castle - Outer Gate",
+      "image": "https://image.anitabi.cn/points/280837/324b38f7_1734342181350.jpg?plan=h160",
+      "s": 2322,
+      "geo": [
+        50.1425,
+        7.1663
+      ]
+    },
+    {
+      "id": "498f62f7",
+      "name": "Cochem Castle - 00:03:21",
+      "image": "https://image.anitabi.cn/points/280837/498f62f7_1734342214478.jpg?plan=h160",
+      "s": 200,
+      "geo": [
+        50.1425,
+        7.1672
+      ]
+    },
+    {
+      "id": "87ded88d",
+      "name": "Cochem Castle - courtyard",
+      "image": "https://image.anitabi.cn/points/280837/87ded88d_1734342229090.jpg?plan=h160",
+      "s": 1420,
+      "geo": [
+        50.142,
+        7.1672
+      ]
+    },
+    {
+      "id": "425e232b",
+      "name": "Cochem - Staircases",
+      "image": "https://image.anitabi.cn/points/280837/425e232b_1734342266256.jpg?plan=h160",
+      "s": 3132,
+      "geo": [
+        50.1469,
+        7.1648
+      ]
+    },
+    {
+      "id": "76a79ce7",
+      "name": "Cochem - Uferstraße",
+      "image": "https://image.anitabi.cn/points/280837/76a79ce7_1734342500012.jpg?plan=h160",
+      "s": 140,
+      "geo": [
+        50.1423,
+        7.1704
+      ]
+    },
+    {
+      "id": "8ba88940",
+      "name": "Cochem - Valley View",
+      "image": "https://image.anitabi.cn/points/280837/8ba88940_1734342285506.jpg?plan=h160",
+      "s": 2372,
+      "geo": [
+        50.1356,
+        7.173
+      ]
+    }
+  ],
+  "pointsLength": 22,
+  "imagesLength": 22,
+  "local_id": 659
+}

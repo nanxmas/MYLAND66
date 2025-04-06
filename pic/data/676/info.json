@@ -1,0 +1,132 @@
+{
+  "id": 292359,
+  "cn": "听我的电波吧",
+  "title": "波よ聞いてくれ",
+  "city": "札幌市",
+  "cover": "https://image.xinu.ink/pic/data/676/images/292359.jpg",
+  "color": "#fe69ca",
+  "geo": [
+    43.053743965412565,
+    141.28853263124938
+  ],
+  "zoom": 8.984,
+  "modified": 1725088160878,
+  "litePoints": [
+    {
+      "id": "m6dwmt0yy",
+      "cn": "Nikka威士忌广告版",
+      "name": "すすきのビルニッカ大看板",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/292359/points/m6dwmt0yy-1720708281550.jpg?plan=h160",
+      "ep": 2,
+      "s": 42,
+      "geo": [
+        43.0557,
+        141.3532
+      ]
+    },
+    {
+      "id": "m6e4is0xm",
+      "cn": "大通公园西３丁目喷水池",
+      "name": "西３丁目噴水",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/292359/points/m6e4is0xm-1720708678359.jpg?plan=h160",
+      "ep": 2,
+      "s": 49,
+      "geo": [
+        43.0606,
+        141.3528
+      ]
+    },
+    {
+      "id": "m6e9hypgh",
+      "cn": "藻岩山山顶展望台",
+      "name": "藻岩山山顶展望台",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/292359/points/m6e9hypgh-1720708916948.jpg?plan=h160",
+      "ep": 1,
+      "s": 116,
+      "geo": [
+        43.0221,
+        141.3226
+      ]
+    },
+    {
+      "id": "f63231bc",
+      "name": "1札幌岳",
+      "image": "https://image.anitabi.cn/points/292359/f63231bc_1725028327571.jpg?plan=h160",
+      "ep": 1,
+      "s": 54,
+      "geo": [
+        42.9001,
+        141.2007
+      ]
+    },
+    {
+      "id": "28ec33fc",
+      "name": "2汤咖喱 東京ドミニカ 新宿",
+      "image": "https://image.anitabi.cn/points/292359/28ec33fc_1725028356415.jpg?plan=h160",
+      "ep": 1,
+      "s": 833,
+      "geo": [
+        35.6905,
+        139.7043
+      ]
+    },
+    {
+      "id": "3a106773",
+      "name": "3OP路口",
+      "image": "https://image.anitabi.cn/points/292359/3a106773_1725028368397.jpg?plan=h160",
+      "ep": 2,
+      "s": 42,
+      "geo": [
+        43.0557,
+        141.3532
+      ]
+    },
+    {
+      "id": "c78117ec",
+      "name": "4札幌市钟楼",
+      "image": "https://image.anitabi.cn/points/292359/c78117ec_1725028384432.jpg?plan=h160",
+      "ep": 4,
+      "s": 249,
+      "geo": [
+        43.0625,
+        141.3536
+      ]
+    },
+    {
+      "id": "ee22da6b",
+      "name": "5大通公园",
+      "image": "https://image.anitabi.cn/points/292359/ee22da6b_1725028407854.jpg?plan=h160",
+      "ep": 1,
+      "s": 1091,
+      "geo": [
+        43.0609,
+        141.3546
+      ]
+    },
+    {
+      "id": "bcf5192e",
+      "name": "6藻岩山山顶展望台",
+      "image": "https://image.anitabi.cn/points/292359/bcf5192e_1725028436235.jpg?plan=h160",
+      "ep": 9,
+      "s": 644,
+      "geo": [
+        43.0221,
+        141.3224
+      ]
+    },
+    {
+      "id": "eb2ec938",
+      "name": "8地铁圆山公园站",
+      "image": "https://image.anitabi.cn/points/292359/eb2ec938_1725028451000.jpg?plan=h160",
+      "ep": 11,
+      "s": 117,
+      "geo": [
+        43.0555,
+        141.3182
+      ]
+    }
+  ],
+  "pointsLength": 27,
+  "imagesLength": 27,
+  "local_id": 676
+}

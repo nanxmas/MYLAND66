@@ -1,0 +1,47 @@
+{
+  "id": 294202,
+  "cn": "ARGONAVIS from BanG Dream! ANIMATION",
+  "title": "アルゴナビス from BanG Dream! ANIMATION",
+  "cover": "https://image.xinu.ink/pic/data/681/images/294202_XJkjk.jpg",
+  "cp": "ARGONAVIS projec…",
+  "modified": 1725112730752,
+  "litePoints": [
+    {
+      "id": "nqfaowqg3",
+      "name": "UR函館駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/294202/points/nqfaowqg3-1725101887413.jpg?plan=h160",
+      "ep": 4,
+      "s": 823,
+      "geo": [
+        41.7738,
+        140.7263
+      ]
+    },
+    {
+      "id": "nqig58qq8",
+      "cn": "函馆金森红砖仓库",
+      "name": "函館ビヤホール",
+      "image": "https://image.anitabi.cn/user/0/bangumi/294202/points/nqig58qq8-1725106586363.jpg?plan=h160",
+      "ep": 1,
+      "s": 819,
+      "geo": [
+        41.7664,
+        140.7164
+      ]
+    },
+    {
+      "id": "nqjs0qo7i",
+      "name": "狸小路",
+      "image": "https://image.anitabi.cn/user/0/bangumi/294202/points/nqjs0qo7i-1725109294986.jpg?plan=h160",
+      "ep": 7,
+      "s": 795,
+      "geo": [
+        43.0573,
+        141.3531
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 681
+}

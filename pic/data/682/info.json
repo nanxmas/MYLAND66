@@ -1,0 +1,128 @@
+{
+  "id": 294337,
+  "cn": "本田小狼与我",
+  "title": "スーパーカブ",
+  "city": "山梨县",
+  "cover": "https://image.xinu.ink/pic/data/682/images/294337.jpg",
+  "color": "#407fbf",
+  "geo": [
+    35.722777579140924,
+    138.4602405087773
+  ],
+  "zoom": 10.642,
+  "modified": 1743011536386,
+  "litePoints": [
+    {
+      "id": "b1015e1c",
+      "name": "JR日野春駅（中央線）",
+      "image": "https://image.anitabi.cn/points/294337/b1015e1c_1722598230816.jpg?plan=h160",
+      "ep": 1,
+      "s": 5,
+      "geo": [
+        35.7906,
+        138.3943
+      ]
+    },
+    {
+      "id": "ngvjjqgry",
+      "name": "JR日野春駅（中央線）雪",
+      "image": "https://image.anitabi.cn/points/294337/ngvjjqgry_1724351253459.jpg?plan=h160",
+      "ep": 10,
+      "s": 248,
+      "geo": [
+        35.7905,
+        138.3943
+      ]
+    },
+    {
+      "id": "ngsmsyobc",
+      "name": "釜無川橋",
+      "image": "https://image.anitabi.cn/points/294337/ngsmsyobc_1724344921721.jpg?plan=h160",
+      "ep": 7,
+      "s": 83,
+      "geo": [
+        35.7887,
+        138.387
+      ]
+    },
+    {
+      "id": "3041a9c6",
+      "name": "スーパーおの",
+      "image": "https://image.anitabi.cn/points/294337/3041a9c6_1722598238044.jpg?plan=h160",
+      "ep": 1,
+      "s": 41,
+      "geo": [
+        35.7849,
+        138.3788
+      ]
+    },
+    {
+      "id": "d5f9e2c6",
+      "name": "県営住宅日野春団地",
+      "image": "https://image.anitabi.cn/points/294337/iypge9pwc_1722598081136.jpg?plan=h160",
+      "ep": 1,
+      "s": 190,
+      "geo": [
+        35.7904,
+        138.3924
+      ]
+    },
+    {
+      "id": "65db29a0",
+      "name": "釜無川橋ポケットパーク",
+      "image": "https://image.anitabi.cn/points/294337/65db29a0_1722598258030.jpg?plan=h160",
+      "s": 757,
+      "geo": [
+        35.7887,
+        138.3867
+      ]
+    },
+    {
+      "id": "ngvf4ovvr",
+      "name": "釜無川橋远眺甲斐駒ヶ岳",
+      "image": "https://image.anitabi.cn/points/294337/ngvf4ovvr_1724350990823.jpg?plan=h160",
+      "ep": 10,
+      "s": 5,
+      "geo": [
+        35.7882,
+        138.3865
+      ]
+    },
+    {
+      "id": "24107225",
+      "name": "牧原交差点",
+      "image": "https://image.anitabi.cn/points/294337/24107225_1722598264142.jpg?plan=h160",
+      "ep": 2,
+      "s": 699,
+      "geo": [
+        35.7855,
+        138.3817
+      ]
+    },
+    {
+      "id": "21c3557d",
+      "name": "北杜市立武川中学校",
+      "image": "https://image.anitabi.cn/points/294337/21c3557d_1722598280987.jpg?plan=h160",
+      "ep": 1,
+      "s": 244,
+      "geo": [
+        35.7846,
+        138.3732
+      ]
+    },
+    {
+      "id": "mujlct5ke",
+      "name": "北杜市立武川中学校前交叉口",
+      "image": "https://image.anitabi.cn/points/294337/mujlct5ke_1722601232600.jpg?plan=h160",
+      "ep": 1,
+      "s": 211,
+      "geo": [
+        35.7839,
+        138.3725
+      ]
+    }
+  ],
+  "pointsLength": 124,
+  "imagesLength": 124,
+  "local_id": 682
+}

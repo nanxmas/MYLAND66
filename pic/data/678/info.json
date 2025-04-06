@@ -1,0 +1,49 @@
+{
+  "id": 293532,
+  "cn": "Muv-Luv Alternative",
+  "title": "マブラヴ オルタネイティヴ",
+  "city": "横滨市",
+  "cover": "https://image.xinu.ink/pic/data/678/images/293532.jpg",
+  "color": "#a30000",
+  "cp": "オルタネイティヴ第三計画",
+  "geo": [
+    35.47255450617024,
+    139.61981440798945
+  ],
+  "zoom": 16.669,
+  "modified": 1739903221950,
+  "litePoints": [
+    {
+      "id": "n7sh2o2cf",
+      "name": "沢渡交差点",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/293532/points/n7sh2o2cf-1723639319033.jpg?plan=h160",
+      "ep": 7,
+      "s": 29,
+      "geo": [
+        35.4724,
+        139.6188
+      ]
+    },
+    {
+      "id": "n7slj3b8o",
+      "name": "台町公園の東側",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/293532/points/n7slj3b8o-1723639570419.jpg?plan=h160",
+      "geo": [
+        35.4726,
+        139.6201
+      ]
+    },
+    {
+      "id": "szbd8u8q5",
+      "name": "佐渡島",
+      "image": "https://image.anitabi.cn/user/2171/bangumi/293532/points/szbd8u8q5-1739901818487.jpg?plan=h160",
+      "geo": [
+        38.1544,
+        138.3444
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 678
+}
