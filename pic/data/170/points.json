@@ -1,0 +1,84 @@
+[
+  {
+    "id": "p6bigjnjy",
+    "cn": "JR六甲道站前",
+    "name": "六甲道駅",
+    "image": "https://image.xinu.ink/pic/data/170/images/p6bigjnjy_1729166287798.jpg",
+    "geo": [
+      34.7142,
+      135.2386
+    ],
+    "origin": "鷹倉杏鈴",
+    "originLink": "https://www.bilibili.com/read/cv39264029/"
+  },
+  {
+    "id": "p6blx3fz7",
+    "cn": "獣道？",
+    "name": "保久良夢ひろば",
+    "image": "https://image.xinu.ink/pic/data/170/images/p6blx3fz7_1729166563575.jpg",
+    "geo": [
+      34.7338,
+      135.2765
+    ],
+    "origin": "鷹倉杏鈴",
+    "originLink": "https://www.bilibili.com/read/cv39264029/"
+  },
+  {
+    "id": "p6braydow",
+    "cn": "保久良神社 鸟居",
+    "name": "保久良神社",
+    "image": "https://image.xinu.ink/pic/data/170/images/p6braydow_1729166852078.jpg",
+    "geo": [
+      34.7348,
+      135.278
+    ],
+    "origin": "鷹倉杏鈴",
+    "originLink": "https://www.bilibili.com/read/cv39264029/"
+  },
+  {
+    "id": "p6buo3n2p",
+    "cn": "保久良神社 山上",
+    "name": "保久良神社",
+    "image": "https://image.xinu.ink/pic/data/170/images/p6buo3n2p_1729167019861.jpg",
+    "geo": [
+      34.7348,
+      135.2782
+    ],
+    "origin": "鷹倉杏鈴",
+    "originLink": "https://www.bilibili.com/read/cv39264029/"
+  },
+  {
+    "id": "p6by5qb8k",
+    "name": "岡本八幡神社",
+    "image": "https://image.xinu.ink/pic/data/170/images/p6by5qb8k_1729167308646.jpg",
+    "geo": [
+      34.7329,
+      135.2745
+    ],
+    "origin": "鷹倉杏鈴",
+    "originLink": "https://www.bilibili.com/read/cv39264029/"
+  },
+  {
+    "id": "p6c391rbf",
+    "name": "大阪府立北野高等学校",
+    "image": "https://image.xinu.ink/pic/data/170/images/p6c391rbf_1729167625615.jpg",
+    "geo": [
+      34.7168,
+      135.4783
+    ],
+    "origin": "鷹倉杏鈴",
+    "originLink": "https://www.bilibili.com/read/cv39264029/"
+  },
+  {
+    "id": "p6c7x0lns",
+    "cn": "涩谷Modi",
+    "name": "渋谷モディ",
+    "image": "https://image.xinu.ink/pic/data/170/images/p6c7x0lns_1729167813516.jpg",
+    "geo": [
+      35.6611,
+      139.7007
+    ],
+    "origin": "鷹倉杏鈴",
+    "originLink": "https://www.bilibili.com/read/cv39264029/"
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "id": 18635,
+  "cn": "罪恶王冠",
+  "title": "ギルティクラウン",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/207/images/18635.jpg",
+  "color": "#cd322f",
+  "cp": "ギルティクラウン",
+  "geo": [
+    35.619899798012824,
+    139.75069632946884
+  ],
+  "zoom": 14.484,
+  "modified": 1742707043852,
+  "litePoints": [
+    {
+      "id": "51i522lv2",
+      "name": "ポイントA",
+      "image": "https://image.anitabi.cn/user/0/bangumi/18635/points/51i522lv2-1729640342902.jpg?plan=h160",
+      "geo": [
+        35.6168,
+        139.7498
+      ]
+    },
+    {
+      "id": "51i522mxk",
+      "name": "ポイントE",
+      "image": "https://image.anitabi.cn/user/0/bangumi/18635/points/51i522mxk-1742622007551.jpg?plan=h160",
+      "geo": [
+        35.6246,
+        139.7518
+      ]
+    },
+    {
+      "id": "51i522n8g",
+      "name": "ポイントB",
+      "geo": [
+        35.618,
+        139.7494
+      ]
+    },
+    {
+      "id": "51i522mp6",
+      "name": "ポイントC",
+      "geo": [
+        35.6185,
+        139.7493
+      ]
+    },
+    {
+      "id": "51i522n4o",
+      "name": "ポイントD",
+      "geo": [
+        35.6175,
+        139.7486
+      ]
+    },
+    {
+      "id": "51i522mxo",
+      "name": "ポイントF",
+      "geo": [
+        35.621,
+        139.7506
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 2,
+  "local_id": 207
+}

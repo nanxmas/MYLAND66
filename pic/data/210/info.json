@@ -1,0 +1,117 @@
+{
+  "id": 21900,
+  "cn": "轮回的拉格朗日",
+  "title": "輪廻のラグランジェ",
+  "city": "鸭川市",
+  "cover": "https://image.xinu.ink/pic/data/210/images/21900.jpg",
+  "color": "#409fbf",
+  "geo": [
+    35.09457422672986,
+    140.14817138681707
+  ],
+  "zoom": 9.321,
+  "modified": 1727737637821,
+  "litePoints": [
+    {
+      "id": "8e84f5cd",
+      "name": "魚見塚展望台",
+      "image": "https://image.anitabi.cn/points/21900/8e84f5cd_1727722483632.jpg?plan=h160",
+      "ep": 1,
+      "s": 4,
+      "geo": [
+        35.0938,
+        140.0999
+      ]
+    },
+    {
+      "id": "2d9ea270",
+      "name": "横渚海岸",
+      "image": "https://image.anitabi.cn/points/21900/2d9ea270_1727722484850.jpg?plan=h160",
+      "ep": 1,
+      "s": 34,
+      "geo": [
+        35.1048,
+        140.1078
+      ]
+    },
+    {
+      "id": "9eae7b28",
+      "name": "鴨川シーワールド",
+      "image": "https://image.anitabi.cn/points/21900/9eae7b28_1727722485894.jpg?plan=h160",
+      "ep": 7,
+      "s": 1424,
+      "geo": [
+        35.1158,
+        140.1203
+      ]
+    },
+    {
+      "id": "e33ed4aa",
+      "name": "勝浦駅",
+      "image": "https://image.anitabi.cn/points/21900/e33ed4aa_1727722486967.jpg?plan=h160",
+      "ep": 10,
+      "s": 290,
+      "geo": [
+        35.1525,
+        140.3119
+      ]
+    },
+    {
+      "id": "43e322a7",
+      "name": "安房鴨川駅",
+      "image": "https://image.anitabi.cn/points/21900/43e322a7_1727722488029.jpg?plan=h160",
+      "ep": 9,
+      "s": 628,
+      "geo": [
+        35.1075,
+        140.1039
+      ]
+    },
+    {
+      "id": "cdd8bc22",
+      "name": "安房鴨川駅の西口にあるオブジェ",
+      "image": "https://image.anitabi.cn/points/21900/cdd8bc22_1727722489203.jpg?plan=h160",
+      "ep": 12,
+      "s": 34,
+      "geo": [
+        35.1078,
+        140.1032
+      ]
+    },
+    {
+      "id": "35539556",
+      "name": "鴨川松島",
+      "geo": [
+        35.0893,
+        140.0988
+      ]
+    },
+    {
+      "id": "d2c06811",
+      "name": "（有）あさひや商店",
+      "geo": [
+        35.1036,
+        140.1038
+      ]
+    },
+    {
+      "id": "5f487a5e",
+      "name": "ヤマザキ屋洋品店",
+      "geo": [
+        35.1045,
+        140.1039
+      ]
+    },
+    {
+      "id": "d2023b22",
+      "name": "リカー＆フード　はばら",
+      "geo": [
+        35.0966,
+        140.102
+      ]
+    }
+  ],
+  "pointsLength": 20,
+  "imagesLength": 6,
+  "local_id": 210
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "qff5kle58",
+    "cn": "庄川合口水坝",
+    "name": "庄川合口ダム",
+    "image": "https://image.xinu.ink/pic/data/208/images/qff5kle58-1732700718476.jpg",
+    "ep": 1,
+    "s": 6,
+    "geo": [
+      36.5753,
+      136.9955
+    ],
+    "originLink": "https://www.google.com/maps/place/Shogawa-Goguchi+Dam/@36.5754676,136.9940996,1344m/data=!3m1!1e3!4m14!1m7!3m6!1s0x5ff82654d0795a51:0x3b376fad96392c6b!2sShogawa+irrigation+reservoir+%26+hydraulic+power+plant+Goguchi+office!8m2!3d36.5743402!4d136.9954499!16s%2Fg%2F1tt0qztq!3m5!1s0x5ff82654b14547c7:0x57345cb0f8553122!8m2!3d36.5751822!4d136.9956757!16s%2Fm%2F0wbgzk5?authuser=0&entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": "qgctstvj2",
+    "cn": "巌浄閣",
+    "name": "旧富山県立農学校本館(巌浄閣)",
+    "image": "https://image.xinu.ink/pic/data/208/images/qgctstvj2-1732773969559.jpg",
+    "ep": 10,
+    "s": 167,
+    "geo": [
+      36.5886,
+      136.9286
+    ]
+  },
+  {
+    "id": "qgdc3045l",
+    "cn": "散居村展望广场",
+    "name": "散居村展望広場",
+    "image": "https://image.xinu.ink/pic/data/208/images/qgdc3045l-1732775135648.jpg",
+    "ep": 12,
+    "s": 1292,
+    "geo": [
+      36.5592,
+      136.9878
+    ]
+  },
+  {
+    "id": "qgdux6a0w",
+    "name": "ミラージュ​ランド",
+    "image": "https://image.xinu.ink/pic/data/208/images/qgdux6a0w-1732776146030.jpg",
+    "ep": "OVA1",
+    "s": 936,
+    "geo": [
+      36.8001,
+      137.3857
+    ]
+  },
+  {
+    "id": "qgel758av",
+    "cn": "隠尾八幡宮",
+    "name": "隠尾八幡宮",
+    "image": "https://image.xinu.ink/pic/data/208/images/qgel758av-1732777797984.jpg",
+    "ep": 1,
+    "s": 32,
+    "geo": [
+      36.5752,
+      137.0134
+    ]
+  },
+  {
+    "id": "qgq336k4o",
+    "name": "福野駅",
+    "image": "https://image.xinu.ink/pic/data/208/images/qgq336k4o_1732802710924.jpg",
+    "geo": [
+      36.5885,
+      136.9231
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qgq4dqm0a",
+    "name": "田中町交差点",
+    "image": "https://image.xinu.ink/pic/data/208/images/qgq4dqm0a_1732802807652.jpg",
+    "geo": [
+      36.5923,
+      136.923
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

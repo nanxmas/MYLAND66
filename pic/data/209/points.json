@@ -1,0 +1,27 @@
+[
+  {
+    "id": "k07n6ayk9",
+    "name": "西桐生駅",
+    "image": "https://image.xinu.ink/pic/data/209/images/k07n6ayk9-1714582299754.jpg",
+    "ep": null,
+    "geo": [
+      36.4139,
+      139.3337
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "k084zv2dg",
+    "cn": "小樽运河",
+    "name": "小樽運河",
+    "image": "https://image.xinu.ink/pic/data/209/images/k084zv2dg-1714583163758.jpg",
+    "ep": null,
+    "geo": [
+      43.1979,
+      141.003
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "id": 20851,
+  "title": "Another",
+  "city": "富山县",
+  "cover": "https://image.xinu.ink/pic/data/208/images/20851_V4eXe.jpg",
+  "modified": 1732902356710,
+  "litePoints": [
+    {
+      "id": "qff5kle58",
+      "cn": "庄川合口水坝",
+      "name": "庄川合口ダム",
+      "image": "https://image.anitabi.cn/user/0/bangumi/20851/points/qff5kle58-1732700718476.jpg?plan=h160",
+      "ep": 1,
+      "s": 6,
+      "geo": [
+        36.5753,
+        136.9955
+      ]
+    },
+    {
+      "id": "qgctstvj2",
+      "cn": "巌浄閣",
+      "name": "旧富山県立農学校本館(巌浄閣)",
+      "image": "https://image.anitabi.cn/user/0/bangumi/20851/points/qgctstvj2-1732773969559.jpg?plan=h160",
+      "ep": 10,
+      "s": 167,
+      "geo": [
+        36.5886,
+        136.9286
+      ]
+    },
+    {
+      "id": "qgdc3045l",
+      "cn": "散居村展望广场",
+      "name": "散居村展望広場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/20851/points/qgdc3045l-1732775135648.jpg?plan=h160",
+      "ep": 12,
+      "s": 1292,
+      "geo": [
+        36.5592,
+        136.9878
+      ]
+    },
+    {
+      "id": "qgdux6a0w",
+      "name": "ミラージュ​ランド",
+      "image": "https://image.anitabi.cn/user/0/bangumi/20851/points/qgdux6a0w-1732776146030.jpg?plan=h160",
+      "s": 936,
+      "geo": [
+        36.8001,
+        137.3857
+      ]
+    },
+    {
+      "id": "qgel758av",
+      "cn": "隠尾八幡宮",
+      "name": "隠尾八幡宮",
+      "image": "https://image.anitabi.cn/user/0/bangumi/20851/points/qgel758av-1732777797984.jpg?plan=h160",
+      "ep": 1,
+      "s": 32,
+      "geo": [
+        36.5752,
+        137.0134
+      ]
+    },
+    {
+      "id": "qgq336k4o",
+      "name": "福野駅",
+      "image": "https://image.anitabi.cn/points/20851/qgq336k4o_1732802710924.jpg?plan=h160",
+      "geo": [
+        36.5885,
+        136.9231
+      ]
+    },
+    {
+      "id": "qgq4dqm0a",
+      "name": "田中町交差点",
+      "image": "https://image.anitabi.cn/points/20851/qgq4dqm0a_1732802807652.jpg?plan=h160",
+      "geo": [
+        36.5923,
+        136.923
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "local_id": 208
+}

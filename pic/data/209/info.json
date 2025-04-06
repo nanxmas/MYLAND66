@@ -1,0 +1,37 @@
+{
+  "id": 21704,
+  "cn": "真夏之夜的雪物语",
+  "title": "真夏の夜の雪物語 -MIDSUMMER SNOW NIGHT-",
+  "cover": "https://image.xinu.ink/pic/data/209/images/21704.jpg",
+  "color": "#1a6dc7",
+  "geo": [
+    36.413956,
+    139.33376299999998
+  ],
+  "zoom": 16,
+  "modified": 1719255098679,
+  "litePoints": [
+    {
+      "id": "k07n6ayk9",
+      "name": "西桐生駅",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/21704/points/k07n6ayk9-1714582299754.jpg?plan=h160",
+      "geo": [
+        36.4139,
+        139.3337
+      ]
+    },
+    {
+      "id": "k084zv2dg",
+      "cn": "小樽运河",
+      "name": "小樽運河",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/21704/points/k084zv2dg-1714583163758.jpg?plan=h160",
+      "geo": [
+        43.1979,
+        141.003
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 209
+}

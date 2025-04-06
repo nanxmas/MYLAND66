@@ -1,0 +1,117 @@
+{
+  "id": 9853,
+  "cn": "灵异E接触",
+  "title": "レベルE",
+  "city": "山形县",
+  "cover": "https://image.xinu.ink/pic/data/168/images/9853.jpg",
+  "color": "#0e3947",
+  "geo": [
+    38.254897,
+    140.338669
+  ],
+  "modified": 1726640092353,
+  "litePoints": [
+    {
+      "id": "oa28z2cn5",
+      "name": "山寺納経堂",
+      "image": "https://image.anitabi.cn/points/9853/oa28z2cn5_1726638574585.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        38.3137,
+        140.4348
+      ]
+    },
+    {
+      "id": "oa2d8ngab",
+      "name": "山形駅内",
+      "image": "https://image.anitabi.cn/points/9853/oa2d8ngab_1726638691610.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        38.2486,
+        140.3277
+      ]
+    },
+    {
+      "id": "oa283bdir",
+      "cn": "马见崎桥",
+      "name": "馬見ケ崎橋",
+      "image": "https://image.anitabi.cn/points/9853/oa283bdir_1726638654450.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        38.2605,
+        140.3496
+      ]
+    },
+    {
+      "id": "oa2j7ikmm",
+      "name": "旭昇桜",
+      "image": "https://image.anitabi.cn/points/9853/oa2j7ikmm_1726639056947.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        38.1612,
+        140.2859
+      ]
+    },
+    {
+      "id": "oa2eqxhfc",
+      "name": "上山城",
+      "image": "https://image.anitabi.cn/points/9853/oa2eqxhfc_1726638787706.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        38.1574,
+        140.2761
+      ]
+    },
+    {
+      "id": "oa2y5cq9v",
+      "name": "富神山",
+      "image": "https://image.anitabi.cn/points/9853/oa2y5cq9v_1726639957954.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        38.2347,
+        140.2548
+      ]
+    },
+    {
+      "id": "oa2rkgsyi",
+      "name": "上山明新館高 野球場",
+      "image": "https://image.anitabi.cn/points/9853/oa2rkgsyi_1726639628803.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        38.1566,
+        140.2903
+      ]
+    },
+    {
+      "id": "oa2mk56ck",
+      "name": "山交​バス​蔵王​バス​ターミナル",
+      "image": "https://image.anitabi.cn/points/9853/oa2mk56ck_1726639260882.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        38.1675,
+        140.3937
+      ]
+    },
+    {
+      "id": "oa27mottl",
+      "name": "山形駅",
+      "image": "https://image.anitabi.cn/points/9853/oa27mottl_1726638467978.jpg?plan=h160",
+      "geo": [
+        38.2484,
+        140.328
+      ]
+    },
+    {
+      "id": "oa27wli3l",
+      "name": "山形駅前",
+      "image": "https://image.anitabi.cn/points/9853/oa27wli3l_1726638520416.jpg?plan=h160",
+      "geo": [
+        38.2481,
+        140.3286
+      ]
+    }
+  ],
+  "pointsLength": 11,
+  "imagesLength": 11,
+  "local_id": 168
+}

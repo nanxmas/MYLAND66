@@ -1,0 +1,80 @@
+[
+  {
+    "id": "8e84f5cd",
+    "name": "魚見塚展望台",
+    "image": "https://image.xinu.ink/pic/data/210/images/8e84f5cd_1727722483632.jpg",
+    "ep": 1,
+    "s": 4,
+    "geo": [
+      35.0938,
+      140.0999
+    ],
+    "origin": "輪廻のラグランジェ鴨川推進委員会",
+    "originLink": "http://lag-rin.kamonavi.jp/guide.html"
+  },
+  {
+    "id": "2d9ea270",
+    "name": "横渚海岸",
+    "image": "https://image.xinu.ink/pic/data/210/images/2d9ea270_1727722484850.jpg",
+    "ep": 1,
+    "s": 34,
+    "geo": [
+      35.1048,
+      140.1078
+    ],
+    "origin": "輪廻のラグランジェ鴨川推進委員会",
+    "originLink": "http://lag-rin.kamonavi.jp/guide.html"
+  },
+  {
+    "id": "9eae7b28",
+    "name": "鴨川シーワールド",
+    "image": "https://image.xinu.ink/pic/data/210/images/9eae7b28_1727722485894.jpg",
+    "ep": 7,
+    "s": 1424,
+    "geo": [
+      35.1158,
+      140.1203
+    ],
+    "origin": "輪廻のラグランジェ鴨川推進委員会",
+    "originLink": "http://lag-rin.kamonavi.jp/guide.html"
+  },
+  {
+    "id": "e33ed4aa",
+    "name": "勝浦駅",
+    "image": "https://image.xinu.ink/pic/data/210/images/e33ed4aa_1727722486967.jpg",
+    "ep": 10,
+    "s": 290,
+    "geo": [
+      35.1525,
+      140.3119
+    ],
+    "origin": "輪廻のラグランジェ鴨川推進委員会",
+    "originLink": "http://lag-rin.kamonavi.jp/guide.html"
+  },
+  {
+    "id": "43e322a7",
+    "name": "安房鴨川駅",
+    "image": "https://image.xinu.ink/pic/data/210/images/43e322a7_1727722488029.jpg",
+    "ep": 9,
+    "s": 628,
+    "geo": [
+      35.1075,
+      140.1039
+    ],
+    "origin": "輪廻のラグランジェ鴨川推進委員会",
+    "originLink": "http://lag-rin.kamonavi.jp/guide.html"
+  },
+  {
+    "id": "cdd8bc22",
+    "name": "安房鴨川駅の西口にあるオブジェ",
+    "image": "https://image.xinu.ink/pic/data/210/images/cdd8bc22_1727722489203.jpg",
+    "ep": 12,
+    "s": 34,
+    "geo": [
+      35.1078,
+      140.1032
+    ],
+    "origin": "輪廻のラグランジェ鴨川推進委員会",
+    "originLink": "http://lag-rin.kamonavi.jp/guide.html"
+  }
+]

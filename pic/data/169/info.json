@@ -1,0 +1,123 @@
+{
+  "id": 9912,
+  "cn": "日常",
+  "title": "日常",
+  "city": "伊势崎市",
+  "cover": "https://image.xinu.ink/pic/data/169/images/9912.jpg",
+  "color": "#6dc47a",
+  "cp": "東雲研究所",
+  "geo": [
+    36.336009,
+    139.190941
+  ],
+  "zoom": 13,
+  "modified": 1733835540636,
+  "litePoints": [
+    {
+      "id": "5i3hssk57",
+      "cn": "信用金庫前",
+      "name": "「信用金庫前」交差点",
+      "image": "https://image.anitabi.cn/user/0/bangumi/9912/points/5i3hssk57-1689244074528.jpg?plan=h160",
+      "ep": 1,
+      "s": 749,
+      "geo": [
+        36.3223,
+        139.1945
+      ]
+    },
+    {
+      "id": "5byp4vchz",
+      "name": "天満神社",
+      "image": "https://image.anitabi.cn/user/1019/bangumi/9912/points/5byp4vchz-1673666917858.jpg?plan=h160",
+      "ep": 19,
+      "s": 994,
+      "geo": [
+        35.6563,
+        139.3282
+      ]
+    },
+    {
+      "id": "5i3skeump",
+      "name": "舶来茶屋天正庵",
+      "image": "https://image.anitabi.cn/user/1019/bangumi/9912/points/5i3skeump-1673667643658.jpg?plan=h160",
+      "ep": 10,
+      "s": 160,
+      "geo": [
+        35.6518,
+        139.3396
+      ]
+    },
+    {
+      "id": "5i3wwtwvf",
+      "name": "尾形商店 前",
+      "image": "https://image.anitabi.cn/user/1019/bangumi/9912/points/5i3wwtwvf-1673667975192.jpg?plan=h160",
+      "ep": 16,
+      "s": 493,
+      "geo": [
+        35.6528,
+        139.3435
+      ]
+    },
+    {
+      "id": "5i4jawqrj",
+      "name": "小門町ちびっこ公園",
+      "image": "https://image.anitabi.cn/user/1019/bangumi/9912/points/5i4jawqrj-1673669524347.jpg?plan=h160",
+      "ep": 10,
+      "s": 526,
+      "geo": [
+        35.6583,
+        139.3271
+      ]
+    },
+    {
+      "id": "5i3hssjlq",
+      "name": "富士重工業伊勢崎工場の煙突",
+      "image": "https://image.anitabi.cn/user/0/bangumi/9912/points/5i3hssjlq-1689244023868.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        36.3347,
+        139.1959
+      ]
+    },
+    {
+      "id": "5i3hsskch",
+      "name": "モスバーガー伊勢崎堤下店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/9912/points/5i3hsskch-1689244388756.jpg?plan=h160",
+      "ep": 16,
+      "geo": [
+        36.3377,
+        139.1976
+      ]
+    },
+    {
+      "id": "5i3hssjqj",
+      "name": "伊勢崎線線路付近",
+      "image": "https://image.anitabi.cn/user/0/bangumi/9912/points/5i3hssjqj-1689243861186.jpg?plan=h160",
+      "geo": [
+        36.3262,
+        139.1959
+      ]
+    },
+    {
+      "id": "5i3hssk1z",
+      "name": "伊勢崎大手町郵便局",
+      "image": "https://image.anitabi.cn/user/0/bangumi/9912/points/5i3hssk1z-1689243962056.jpg?plan=h160",
+      "geo": [
+        36.3238,
+        139.1942
+      ]
+    },
+    {
+      "id": "5i3hssk8m",
+      "name": "伊勢崎商業高校",
+      "image": "https://image.anitabi.cn/user/0/bangumi/9912/points/5i3hssk8m-1689243987412.jpg?plan=h160",
+      "geo": [
+        36.3406,
+        139.1826
+      ]
+    }
+  ],
+  "pointsLength": 33,
+  "imagesLength": 20,
+  "local_id": 169
+}

@@ -1,0 +1,80 @@
+{
+  "id": 10119,
+  "title": "天神乱漫 -LUCKY or UNLUCKY!?-",
+  "cover": "https://image.xinu.ink/pic/data/170/images/10119_p4z7jky8y.jpg",
+  "color": "#6a8a95",
+  "modified": 1729168067583,
+  "litePoints": [
+    {
+      "id": "p6bigjnjy",
+      "cn": "JR六甲道站前",
+      "name": "六甲道駅",
+      "image": "https://image.anitabi.cn/points/10119/p6bigjnjy_1729166287798.jpg?plan=h160",
+      "geo": [
+        34.7142,
+        135.2386
+      ]
+    },
+    {
+      "id": "p6blx3fz7",
+      "cn": "獣道？",
+      "name": "保久良夢ひろば",
+      "image": "https://image.anitabi.cn/points/10119/p6blx3fz7_1729166563575.jpg?plan=h160",
+      "geo": [
+        34.7338,
+        135.2765
+      ]
+    },
+    {
+      "id": "p6braydow",
+      "cn": "保久良神社 鸟居",
+      "name": "保久良神社",
+      "image": "https://image.anitabi.cn/points/10119/p6braydow_1729166852078.jpg?plan=h160",
+      "geo": [
+        34.7348,
+        135.278
+      ]
+    },
+    {
+      "id": "p6buo3n2p",
+      "cn": "保久良神社 山上",
+      "name": "保久良神社",
+      "image": "https://image.anitabi.cn/points/10119/p6buo3n2p_1729167019861.jpg?plan=h160",
+      "geo": [
+        34.7348,
+        135.2782
+      ]
+    },
+    {
+      "id": "p6by5qb8k",
+      "name": "岡本八幡神社",
+      "image": "https://image.anitabi.cn/points/10119/p6by5qb8k_1729167308646.jpg?plan=h160",
+      "geo": [
+        34.7329,
+        135.2745
+      ]
+    },
+    {
+      "id": "p6c391rbf",
+      "name": "大阪府立北野高等学校",
+      "image": "https://image.anitabi.cn/points/10119/p6c391rbf_1729167625615.jpg?plan=h160",
+      "geo": [
+        34.7168,
+        135.4783
+      ]
+    },
+    {
+      "id": "p6c7x0lns",
+      "cn": "涩谷Modi",
+      "name": "渋谷モディ",
+      "image": "https://image.anitabi.cn/points/10119/p6c7x0lns_1729167813516.jpg?plan=h160",
+      "geo": [
+        35.6611,
+        139.7007
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "local_id": 170
+}
