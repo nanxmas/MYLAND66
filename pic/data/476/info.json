@@ -1,0 +1,55 @@
+{
+  "id": 178884,
+  "title": "planetarian～星の人～",
+  "city": "滨松市",
+  "cover": "https://image.xinu.ink/pic/data/476/images/178884.jpg",
+  "color": "#8d8dd5",
+  "geo": [
+    34.79955896608624,
+    136.73839817582711
+  ],
+  "zoom": 6.724,
+  "modified": 1723617189439,
+  "litePoints": [
+    {
+      "id": "mzo715ffe",
+      "cn": "明石市立天文科学馆",
+      "name": "明石市立天文科学館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/178884/points/mzo715ffe-1723005196565.jpg?plan=h160",
+      "geo": [
+        34.6493,
+        135.0016
+      ]
+    },
+    {
+      "id": "mzppme225",
+      "name": "松菱百貨店跡",
+      "image": "https://image.anitabi.cn/user/0/bangumi/178884/points/mzppme225-1723006792662.jpg?plan=h160",
+      "geo": [
+        34.7057,
+        137.7316
+      ]
+    },
+    {
+      "id": "mzq6k35gu",
+      "name": "「梟」手塚登久夫",
+      "image": "https://image.anitabi.cn/user/0/bangumi/178884/points/mzq6k35gu-1723007442934.jpg?plan=h160",
+      "geo": [
+        34.7056,
+        137.7347
+      ]
+    },
+    {
+      "id": "mzqtonba1",
+      "name": "Koビル",
+      "image": "https://image.anitabi.cn/user/0/bangumi/178884/points/mzqtonba1-1723008835473.jpg?plan=h160",
+      "geo": [
+        34.7056,
+        137.7305
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 476
+}

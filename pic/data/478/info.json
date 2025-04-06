@@ -1,0 +1,103 @@
+{
+  "id": 180931,
+  "cn": "千恋万花",
+  "title": "千恋＊万花",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/478/images/180931_nq8kd282t.jpg",
+  "color": "#553971",
+  "cp": "YUZU SOFT",
+  "geo": [
+    35.00381994112827,
+    135.77227248802683
+  ],
+  "zoom": 11.786,
+  "modified": 1740641923557,
+  "litePoints": [
+    {
+      "id": "ign12un60",
+      "cn": "生田神社",
+      "name": "いくたじんじゃ",
+      "image": "https://image.anitabi.cn/user/1115/bangumi/180931/points/ign12un60-1718537388475.jpg?plan=h160",
+      "geo": [
+        34.6947,
+        135.1907
+      ]
+    },
+    {
+      "id": "k5hbgrwpx",
+      "name": "蘇州​園",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/180931/points/k5hbgrwpx-1714995011924.jpg?plan=h160",
+      "geo": [
+        34.7273,
+        135.2545
+      ]
+    },
+    {
+      "id": "ipq92xwva",
+      "cn": "花见小路",
+      "name": "花見小路通",
+      "image": "https://image.anitabi.cn/points/180931/ipq92xwva_1714994048191.jpg?plan=h160",
+      "geo": [
+        35.0031,
+        135.7749
+      ]
+    },
+    {
+      "id": "ipqdt8rt5",
+      "name": "白川南通",
+      "image": "https://image.anitabi.cn/points/180931/ipqdt8rt5_1714994031727.jpg?plan=h160",
+      "geo": [
+        35.0053,
+        135.7731
+      ]
+    },
+    {
+      "id": "ipqelanne",
+      "name": "二年坂",
+      "image": "https://image.anitabi.cn/points/180931/ipqelanne_1732809840462.jpg?plan=h160",
+      "geo": [
+        34.998,
+        135.7806
+      ]
+    },
+    {
+      "id": "ipqi0ktki",
+      "name": "旧武徳殿",
+      "image": "https://image.anitabi.cn/user/0/bangumi/180931/points/ipqi0ktki-1722938886766.jpg?plan=h160",
+      "geo": [
+        35.0163,
+        135.7808
+      ]
+    },
+    {
+      "id": "ipqjtzcb4",
+      "name": "金戒光明寺",
+      "image": "https://image.anitabi.cn/points/180931/ipqjtzcb4_1714994012141.jpg?plan=h160",
+      "geo": [
+        35.0187,
+        135.7878
+      ]
+    },
+    {
+      "id": "ipqf61txx",
+      "name": "三年坂",
+      "image": "https://image.anitabi.cn/points/180931/ipqf61txx_1732809829624.jpg?plan=h160",
+      "geo": [
+        34.9976,
+        135.781
+      ]
+    },
+    {
+      "id": "ipqlhwko0",
+      "name": "吉田山",
+      "image": "https://image.anitabi.cn/points/180931/ipqlhwko0_1714994393446.jpg?plan=h160",
+      "geo": [
+        35.0261,
+        135.7869
+      ]
+    }
+  ],
+  "pointsLength": 10,
+  "imagesLength": 10,
+  "local_id": 478
+}

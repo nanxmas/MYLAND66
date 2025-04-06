@@ -1,0 +1,110 @@
+{
+  "id": 185001,
+  "cn": "小桃小栗 Love Love物语",
+  "title": "ももくり",
+  "city": "水户市",
+  "cover": "https://image.xinu.ink/pic/data/483/images/185001.jpg",
+  "color": "#b8aa9c",
+  "cp": "ももくり",
+  "geo": [
+    36.31136208501263,
+    140.4917630696898
+  ],
+  "zoom": 10.136,
+  "modified": 1726751736789,
+  "litePoints": [
+    {
+      "id": "51i52te5a",
+      "name": "水戸駅北口",
+      "image": "https://image.anitabi.cn/points/185001/51i52te5a_1672369361435.jpg?plan=h160",
+      "geo": [
+        36.3716,
+        140.4768
+      ]
+    },
+    {
+      "id": "51i52tdjg",
+      "name": "丸井水戸店",
+      "image": "https://image.anitabi.cn/points/185001/51i52tdjg_1672369361805.jpg?plan=h160",
+      "geo": [
+        36.3714,
+        140.477
+      ]
+    },
+    {
+      "id": "51i52te5u",
+      "name": "水戸駅(EXCEL)",
+      "image": "https://image.anitabi.cn/points/185001/51i52te5u_1672369363089.jpg?plan=h160",
+      "geo": [
+        36.3712,
+        140.4762
+      ]
+    },
+    {
+      "id": "51i52te54",
+      "name": "ハースブラウンエクセルみなみ店",
+      "image": "https://image.anitabi.cn/points/185001/51i52te54_1672369363522.jpg?plan=h160",
+      "geo": [
+        36.37,
+        140.476
+      ]
+    },
+    {
+      "id": "51i52te6d",
+      "name": "水戸駅南口（納豆像）",
+      "image": "https://image.anitabi.cn/points/185001/51i52te6d_1672369363874.jpg?plan=h160",
+      "geo": [
+        36.3698,
+        140.4757
+      ]
+    },
+    {
+      "id": "51i52te3y",
+      "name": "シネプレックス水戸",
+      "image": "https://image.anitabi.cn/points/185001/51i52te3y_1672369364227.jpg?plan=h160",
+      "geo": [
+        36.3697,
+        140.4757
+      ]
+    },
+    {
+      "id": "51i52tet9",
+      "name": "ショスールブティック フタカワ",
+      "image": "https://image.anitabi.cn/points/185001/51i52tet9_1672369367662.jpg?plan=h160",
+      "geo": [
+        36.3752,
+        140.4719
+      ]
+    },
+    {
+      "id": "51i52tedy",
+      "name": "南町三丁目商店街",
+      "image": "https://image.anitabi.cn/points/185001/51i52tedy_1672369368973.jpg?plan=h160",
+      "geo": [
+        36.3771,
+        140.4674
+      ]
+    },
+    {
+      "id": "51i52tewr",
+      "name": "南町三丁目",
+      "image": "https://image.anitabi.cn/points/185001/51i52tewr_1672369369393.jpg?plan=h160",
+      "geo": [
+        36.3784,
+        140.4674
+      ]
+    },
+    {
+      "id": "51i52tepl",
+      "name": "常磐大学高等学校",
+      "image": "https://image.anitabi.cn/points/185001/51i52tepl_1672369369754.jpg?plan=h160",
+      "geo": [
+        36.3842,
+        140.4565
+      ]
+    }
+  ],
+  "pointsLength": 19,
+  "imagesLength": 19,
+  "local_id": 483
+}

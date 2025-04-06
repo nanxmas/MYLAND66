@@ -1,0 +1,77 @@
+{
+  "id": 183878,
+  "cn": "紫罗兰永恒花园",
+  "title": "ヴァイオレット・エヴァーガーデン",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/481/images/183878.jpg",
+  "color": "#1e67da",
+  "cp": "エヴァーガーデン",
+  "geo": [
+    44.408363771361365,
+    8.920050735370637
+  ],
+  "zoom": 9.451,
+  "modified": 1734288195977,
+  "litePoints": [
+    {
+      "id": "ab7ad3n61",
+      "cn": "热那亚港",
+      "name": "Porto di Genova",
+      "image": "https://image.anitabi.cn/user/0/bangumi/183878/points/ab7ad3n61-1687232272635.jpg?plan=h160",
+      "ep": 1,
+      "s": 146,
+      "geo": [
+        44.4085,
+        8.9174
+      ]
+    },
+    {
+      "id": "ab6er4qys",
+      "cn": "舍农索城堡",
+      "name": "Château de Chenonceau",
+      "image": "https://image.anitabi.cn/user/0/bangumi/183878/points/ab6er4qys-1687230478846.jpg?plan=h160",
+      "ep": 5,
+      "s": 60,
+      "geo": [
+        47.3246,
+        1.0704
+      ]
+    },
+    {
+      "id": "ab6pzd50i",
+      "cn": "阿德蒙特修道院图书馆",
+      "name": "Stiftsbibliothek Admont",
+      "image": "https://image.anitabi.cn/user/0/bangumi/183878/points/ab6pzd50i-1687231497184.jpg?plan=h160",
+      "ep": 6,
+      "s": 178,
+      "geo": [
+        47.5744,
+        14.4633
+      ]
+    },
+    {
+      "id": "51i5dzbll",
+      "name": "京都文化博物館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/183878/points/51i5dzbll-1687229959022.jpg?plan=h160",
+      "ep": 7,
+      "s": 177,
+      "geo": [
+        35.0087,
+        135.7622
+      ]
+    },
+    {
+      "id": "o6mhfbzqq",
+      "cn": "CH邮政公司大楼",
+      "name": "京都​府​京都​文化​博物館​別館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/183878/points/o6mhfbzqq-1726369027396.jpg?plan=h160",
+      "geo": [
+        35.0087,
+        135.7622
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 481
+}

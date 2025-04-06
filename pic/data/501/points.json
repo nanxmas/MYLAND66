@@ -1,0 +1,30 @@
+[
+  {
+    "id": "nu2tux89j",
+    "cn": "五重塔",
+    "name": "​八坂​の​塔",
+    "image": "https://image.xinu.ink/pic/data/501/images/nu2tux89j-1725385882244.jpg",
+    "ep": 1,
+    "s": 20,
+    "geo": [
+      34.9985,
+      135.7792
+    ],
+    "origin": "Anitabi@GhostFinal",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nu2wtutob",
+    "cn": "大阪府警察总部",
+    "name": "大阪府警察本部",
+    "image": "https://image.xinu.ink/pic/data/501/images/nu2wtutob-1725386033113.jpg",
+    "ep": 1,
+    "s": 808,
+    "geo": [
+      34.6839,
+      135.5201
+    ],
+    "origin": "Anitabi@GhostFinal",
+    "originURL": "https://anitabi.cn/"
+  }
+]

@@ -1,0 +1,125 @@
+{
+  "id": 205180,
+  "cn": "孤独的美食家 第六季",
+  "title": "孤独のグルメ Season6",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/510/images/205180_KFHq1.jpg",
+  "geo": [
+    35.56039484401724,
+    139.7096976015858
+  ],
+  "zoom": 9.363,
+  "modified": 1742409792856,
+  "litePoints": [
+    {
+      "id": "1f682934",
+      "cn": "甘辛や",
+      "name": "美章園３丁目２−４",
+      "image": "https://image.anitabi.cn/points/205180/1f682934_1741503107376.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.6381,
+        135.5224
+      ]
+    },
+    {
+      "id": "21dd3ace",
+      "cn": "伊勢家",
+      "name": "東京都中央卸売市場 淀橋市場",
+      "image": "https://image.anitabi.cn/points/205180/21dd3ace_1741503183654.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.7056,
+        139.6936
+      ]
+    },
+    {
+      "id": "a908e5fe",
+      "name": "薬膳スープカレー・シャナイア",
+      "image": "https://image.anitabi.cn/points/205180/a908e5fe_1742139209952.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.6394,
+        139.7142
+      ]
+    },
+    {
+      "id": "a13d20ac",
+      "cn": "翠苑",
+      "name": "山大ビル",
+      "image": "https://image.anitabi.cn/points/205180/a13d20ac_1742139235200.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        35.7417,
+        139.4306
+      ]
+    },
+    {
+      "id": "1a38705c",
+      "cn": "すし台所家",
+      "name": "太子堂４丁目２２−１２",
+      "image": "https://image.anitabi.cn/points/205180/1a38705c_1741503261311.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.6441,
+        139.6702
+      ]
+    },
+    {
+      "id": "8c0240cf",
+      "name": "Nong Inlay ノング インレイ",
+      "image": "https://image.anitabi.cn/points/205180/8c0240cf_1741503314882.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        35.7139,
+        139.7045
+      ]
+    },
+    {
+      "id": "75691847",
+      "cn": "長崎飯店渋谷店",
+      "name": "新大宗ビル2号館 3,1f",
+      "image": "https://image.anitabi.cn/points/205180/75691847_1741503350679.jpg?plan=h160",
+      "ep": 7,
+      "geo": [
+        35.6581,
+        139.697
+      ]
+    },
+    {
+      "id": "1401f420",
+      "cn": "羊香味坊",
+      "name": "上野３丁目１２−６",
+      "image": "https://image.anitabi.cn/points/205180/1401f420_1741503400518.jpg?plan=h160",
+      "ep": 8,
+      "geo": [
+        35.7056,
+        139.7736
+      ]
+    },
+    {
+      "id": "086af6ea",
+      "name": "スペイン食堂石井",
+      "image": "https://image.anitabi.cn/points/205180/086af6ea_1741503451758.jpg?plan=h160",
+      "ep": 9,
+      "geo": [
+        35.6081,
+        139.7047
+      ]
+    },
+    {
+      "id": "7c5b3d4a",
+      "cn": "ラーメン・餃子はまべ",
+      "name": "金谷３９７１",
+      "image": "https://image.anitabi.cn/points/205180/7c5b3d4a_1741503531721.jpg?plan=h160",
+      "ep": 10,
+      "geo": [
+        35.1643,
+        139.8228
+      ]
+    }
+  ],
+  "pointsLength": 12,
+  "imagesLength": 12,
+  "local_id": 510
+}

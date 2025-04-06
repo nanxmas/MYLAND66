@@ -1,0 +1,108 @@
+{
+  "id": 213076,
+  "cn": "如果有妹妹就好了。",
+  "title": "妹さえいればいい。",
+  "city": "北海道",
+  "cover": "https://image.xinu.ink/pic/data/531/images/213076.jpg",
+  "color": "#b8b19c",
+  "cp": "妹さえいれば委員会",
+  "geo": [
+    42.89259824551951,
+    141.486885505001
+  ],
+  "zoom": 8.226,
+  "modified": 1726752348010,
+  "litePoints": [
+    {
+      "id": "51i53zgbs",
+      "name": "渋谷駅前交差点",
+      "image": "https://image.anitabi.cn/points/213076/51i53zgbs_1672367310534.jpg?plan=h160",
+      "ep": 11,
+      "s": 47,
+      "geo": [
+        35.6592,
+        139.7006
+      ]
+    },
+    {
+      "id": "51i53zgid",
+      "name": "金王八幡宮",
+      "image": "https://image.anitabi.cn/points/213076/51i53zgid_1672367311950.jpg?plan=h160",
+      "ep": 2,
+      "s": 143,
+      "geo": [
+        35.657,
+        139.7071
+      ]
+    },
+    {
+      "id": "51i53zgck",
+      "name": "金王神社前交差点",
+      "image": "https://image.anitabi.cn/points/213076/51i53zgck_1672367313545.jpg?plan=h160",
+      "ep": 1,
+      "s": 1146,
+      "geo": [
+        35.657,
+        139.7076
+      ]
+    },
+    {
+      "id": "51i53zgot",
+      "name": "府中四谷橋北",
+      "image": "https://image.anitabi.cn/points/213076/51i53zgot_1672367314575.jpg?plan=h160",
+      "ep": 2,
+      "s": 135,
+      "geo": [
+        35.6604,
+        139.4422
+      ]
+    },
+    {
+      "id": "51i53zhic",
+      "name": "新千歳空港",
+      "image": "https://image.anitabi.cn/points/213076/51i53zhic_1672367315460.jpg?plan=h160",
+      "ep": 3,
+      "s": 850,
+      "geo": [
+        42.7925,
+        141.6704
+      ]
+    },
+    {
+      "id": "51i53zhci",
+      "name": "旧ロフト札幌店方面",
+      "image": "https://image.anitabi.cn/points/213076/51i53zhci_1672367316405.jpg?plan=h160",
+      "ep": 3,
+      "s": 875,
+      "geo": [
+        43.0671,
+        141.3514
+      ]
+    },
+    {
+      "id": "51i53zhi2",
+      "name": "丼兵衛",
+      "image": "https://image.anitabi.cn/points/213076/51i53zhi2_1672367317846.jpg?plan=h160",
+      "ep": 3,
+      "s": 923,
+      "geo": [
+        43.0717,
+        141.3219
+      ]
+    },
+    {
+      "id": "51i53zhid",
+      "name": "札幌場外市場",
+      "image": "https://image.anitabi.cn/points/213076/51i53zhid_1672367320615.jpg?plan=h160",
+      "ep": 3,
+      "s": 927,
+      "geo": [
+        43.0706,
+        141.3203
+      ]
+    }
+  ],
+  "pointsLength": 8,
+  "imagesLength": 8,
+  "local_id": 531
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "cd523c3a",
+    "name": "蔡菜食堂",
+    "image": "https://image.xinu.ink/pic/data/509/images/cd523c3a_1741374980724.jpg",
+    "s": 522,
+    "geo": [
+      35.7046,
+      139.6645
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1KxS1OL9HWbLooqrakOl9078euRTKAQI&ll=35.704664%2C139.664509&z=17"
+  },
+  {
+    "id": "0298ff53",
+    "cn": "テキサス 津田沼店",
+    "name": "白鳥ビル",
+    "image": "https://image.xinu.ink/pic/data/509/images/0298ff53_1741375042720.jpg",
+    "s": 1993,
+    "geo": [
+      35.6859,
+      140.0219
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1KxS1OL9HWbLooqrakOl9078euRTKAQI&ll=35.685909%2C140.021954&z=17"
+  }
+]

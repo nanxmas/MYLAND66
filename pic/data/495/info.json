@@ -1,0 +1,37 @@
+{
+  "id": 193378,
+  "cn": "重启咲良田",
+  "title": "サクラダリセット",
+  "cover": "https://image.xinu.ink/pic/data/495/images/193378.jpg",
+  "color": "#474e63",
+  "geo": [
+    36.394064446844794,
+    140.50930597572795
+  ],
+  "zoom": 7.932,
+  "modified": 1724828968350,
+  "litePoints": [
+    {
+      "id": "ln83fcmv3",
+      "cn": "久慈滨海水浴场",
+      "name": "久慈滨海水浴场，1 Chome-17 Kujichō, Hitachi, Ibaraki 319-1222日本",
+      "image": "https://image.anitabi.cn/user/1102/bangumi/193378/points/ln83fcmv3-1719206786107.jpg?plan=h160",
+      "geo": [
+        36.5061,
+        140.6299
+      ]
+    },
+    {
+      "id": "lnbho0eay",
+      "name": "海门町ふれあい公园",
+      "image": "https://image.anitabi.cn/user/1102/bangumi/193378/points/lnbho0eay-1719213996416.jpg?plan=h160",
+      "geo": [
+        36.3374,
+        140.593
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 495
+}

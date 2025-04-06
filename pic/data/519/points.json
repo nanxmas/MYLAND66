@@ -1,0 +1,56 @@
+[
+  {
+    "id": "i2bfcybqq",
+    "cn": "大洗海洋塔",
+    "name": "大洗​マリン​タワー",
+    "image": "https://image.xinu.ink/pic/data/519/images/i2bfcybqq-1709104857068.jpg",
+    "ep": 2,
+    "s": 1123,
+    "geo": [
+      36.3104,
+      140.5706
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "i2boyc17v",
+    "cn": "SAZA COFFEE 大洗店",
+    "name": "サザーコーヒー 大洗店",
+    "image": "https://image.xinu.ink/pic/data/519/images/i2boyc17v-1709105529659.jpg",
+    "ep": 2,
+    "s": 1127,
+    "geo": [
+      36.3084,
+      140.5676
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "i2c4tjimo",
+    "name": "坂本文具店",
+    "image": "https://image.xinu.ink/pic/data/519/images/i2c4tjimo-1709106363824.jpg",
+    "ep": 2,
+    "s": 1514,
+    "geo": [
+      36.3155,
+      140.5743
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "i2cd5ie8n",
+    "name": "祝町いささかりんりん通り",
+    "image": "https://image.xinu.ink/pic/data/519/images/i2cd5ie8n-1709106922475.jpg",
+    "ep": 2,
+    "s": 1476,
+    "geo": [
+      36.3158,
+      140.5749
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

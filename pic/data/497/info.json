@@ -1,0 +1,32 @@
+{
+  "id": 195573,
+  "cn": "荒野大镖客：救赎2",
+  "title": "Red Dead Redemption 2",
+  "cover": "https://image.xinu.ink/pic/data/497/images/195573_aJut2.jpg",
+  "modified": 1729526902593,
+  "litePoints": [
+    {
+      "id": "nyh0vvhzn",
+      "cn": "黑水镇",
+      "name": "Main St",
+      "image": "https://image.anitabi.cn/user/0/bangumi/195573/points/nyh0vvhzn-1725730409439.jpg?plan=h160",
+      "geo": [
+        38.9802,
+        -92.991
+      ]
+    },
+    {
+      "id": "pax4lvipy",
+      "cn": "橡树庄园",
+      "name": "Oak Alley Plantation House",
+      "image": "https://image.anitabi.cn/points/195573/pax4lvipy_1729526760232.jpg?plan=h160",
+      "geo": [
+        30.0042,
+        -90.776
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 497
+}

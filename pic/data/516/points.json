@@ -1,0 +1,29 @@
+[
+  {
+    "id": "rvslp09s6",
+    "cn": "阿波连海滩",
+    "name": "阿波連ビーチ",
+    "image": "https://image.xinu.ink/pic/data/516/images/rvslp09s6-1736805093384.jpg",
+    "ep": 86,
+    "s": "9页",
+    "geo": [
+      26.1702,
+      127.3459
+    ],
+    "origin": "Anitabi@Nakano Prisma",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rvta7jgaw",
+    "name": "泊港至渡嘉敷港的轮渡船",
+    "image": "https://image.xinu.ink/pic/data/516/images/rvta7jgaw-1736806359555.jpg",
+    "ep": 87,
+    "s": "14页",
+    "geo": [
+      26.1986,
+      127.368
+    ],
+    "origin": "Anitabi@Nakano Prisma",
+    "originURL": "https://anitabi.cn/"
+  }
+]

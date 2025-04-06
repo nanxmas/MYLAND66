@@ -1,0 +1,31 @@
+{
+  "id": 210864,
+  "cn": "魔法使的新娘",
+  "title": "魔法使いの嫁",
+  "cover": "https://image.xinu.ink/pic/data/524/images/210864.jpg",
+  "color": "#8e551c",
+  "cp": "魔法使いの嫁",
+  "geo": [
+    51.50076233965558,
+    -0.12449272987214499
+  ],
+  "zoom": 13.675,
+  "modified": 1724793376396,
+  "litePoints": [
+    {
+      "id": "nmeplq4y1",
+      "cn": "大本钟",
+      "name": "Big Ben",
+      "image": "https://image.anitabi.cn/user/0/bangumi/210864/points/nmeplq4y1-1724784924585.jpg?plan=h160",
+      "ep": 1,
+      "s": 247,
+      "geo": [
+        51.5007,
+        -0.1245
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 524
+}

@@ -1,0 +1,138 @@
+{
+  "id": 212003,
+  "cn": "赛马娘 Pretty Derby",
+  "title": "ウマ娘 プリティーダービー",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/528/images/212003.jpg",
+  "color": "#713947",
+  "cp": "2018 アニメウマ娘 プリティ…",
+  "geo": [
+    35.666739913245166,
+    139.48788442301577
+  ],
+  "zoom": 14.125,
+  "modified": 1725117851102,
+  "litePoints": [
+    {
+      "id": "4ylxp6uiq",
+      "cn": "东府中",
+      "name": "東府中",
+      "image": "https://image.anitabi.cn/user/1011/bangumi/212003/points/4ylxp6uiq.jpg?plan=h160",
+      "ep": 1,
+      "s": 105,
+      "geo": [
+        35.6689,
+        139.4953
+      ]
+    },
+    {
+      "id": "4ym0mwapo",
+      "cn": "府中竞马正门前",
+      "name": "府中競馬正門前",
+      "image": "https://image.anitabi.cn/user/1011/bangumi/212003/points/4ym0mwapo.jpg?plan=h160",
+      "ep": 1,
+      "s": 205,
+      "geo": [
+        35.6681,
+        139.4846
+      ]
+    },
+    {
+      "id": "4ym20ykx4",
+      "cn": "东京赛马场西入口附近",
+      "name": "東京競馬場西側",
+      "image": "https://image.anitabi.cn/user/1011/bangumi/212003/points/4ym20ykx4.jpg?plan=h160",
+      "ep": 1,
+      "s": 250,
+      "geo": [
+        35.6649,
+        139.4824
+      ]
+    },
+    {
+      "id": "4ymjq50iv",
+      "cn": "东京赛马场西门",
+      "name": "東京競馬場西門",
+      "image": "https://image.anitabi.cn/user/1011/bangumi/212003/points/4ymjq50iv.jpg?plan=h160",
+      "ep": 6,
+      "s": 968,
+      "geo": [
+        35.6643,
+        139.4808
+      ]
+    },
+    {
+      "id": "4ymqzuuzn",
+      "cn": "平山眼科医院前",
+      "name": "平山眼科医院前",
+      "image": "https://image.anitabi.cn/user/1011/bangumi/212003/points/4ymqzuuzn.jpg?plan=h160",
+      "ep": 9,
+      "s": 953,
+      "geo": [
+        35.671,
+        139.4814
+      ]
+    },
+    {
+      "id": "4ymytl7tu",
+      "cn": "Kururu",
+      "name": "くるる",
+      "image": "https://image.anitabi.cn/user/1011/bangumi/212003/points/4ymytl7tu.jpg?plan=h160",
+      "ep": 11,
+      "s": 844,
+      "geo": [
+        35.6714,
+        139.4811
+      ]
+    },
+    {
+      "id": "4yn26irc0",
+      "cn": "Inageya",
+      "name": "いなげや",
+      "image": "https://image.anitabi.cn/user/1011/bangumi/212003/points/4yn26irc0.jpg?plan=h160",
+      "ep": 8,
+      "s": 213,
+      "geo": [
+        35.7183,
+        139.4916
+      ]
+    },
+    {
+      "id": "4yn6fr2ag",
+      "cn": "立川站北口",
+      "name": "立川駅北口",
+      "image": "https://image.anitabi.cn/user/1011/bangumi/212003/points/4yn6fr2ag.jpg?plan=h160",
+      "ep": 15,
+      "s": 1245,
+      "geo": [
+        35.6985,
+        139.4132
+      ]
+    },
+    {
+      "id": "4yn9kt5sd",
+      "name": "立川駅北線路沿い",
+      "image": "https://image.anitabi.cn/user/1011/bangumi/212003/points/4yn9kt5sd.jpg?plan=h160",
+      "ep": 15,
+      "s": 1425,
+      "geo": [
+        35.7012,
+        139.4127
+      ]
+    },
+    {
+      "id": "4yncpq6rf",
+      "name": "スクランブル交差点付近",
+      "image": "https://image.anitabi.cn/user/1011/bangumi/212003/points/4yncpq6rf.jpg?plan=h160",
+      "ep": 5,
+      "s": 692,
+      "geo": [
+        35.6594,
+        139.7006
+      ]
+    }
+  ],
+  "pointsLength": 21,
+  "imagesLength": 20,
+  "local_id": 528
+}

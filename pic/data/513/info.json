@@ -1,0 +1,130 @@
+{
+  "id": 207195,
+  "cn": "摇曳露营△",
+  "title": "ゆるキャン△",
+  "city": "山梨县",
+  "cover": "https://image.xinu.ink/pic/data/513/images/207195.jpg",
+  "color": "#6a55aa",
+  "cp": "野外活動サークル",
+  "geo": [
+    35.75097063005117,
+    138.44421395898416
+  ],
+  "zoom": 9,
+  "modified": 1741766292402,
+  "litePoints": [
+    {
+      "id": "a90507a7",
+      "name": "1話 本栖湖浩庵キャンプ場",
+      "image": "https://image.anitabi.cn/points/207195/a90507a7_1719910515483.jpg?plan=h160",
+      "ep": 1,
+      "s": 280,
+      "geo": [
+        35.4734,
+        138.5734
+      ]
+    },
+    {
+      "id": "3ac499cb",
+      "name": "1話 国道300号本栖みち",
+      "image": "https://image.anitabi.cn/points/207195/3ac499cb_1719910516129.jpg?plan=h160",
+      "ep": 1,
+      "s": 180,
+      "geo": [
+        35.4778,
+        138.5653
+      ]
+    },
+    {
+      "id": "742a48e4",
+      "name": "1話 中之倉トンネル身延側",
+      "image": "https://image.anitabi.cn/points/207195/742a48e4_1719910516726.jpg?plan=h160",
+      "ep": 1,
+      "s": 195,
+      "geo": [
+        35.4769,
+        138.5689
+      ]
+    },
+    {
+      "id": "69fed852",
+      "name": "1話 中之倉トンネル",
+      "image": "https://image.anitabi.cn/points/207195/69fed852_1719910517272.jpg?plan=h160",
+      "ep": 1,
+      "s": 211,
+      "geo": [
+        35.4743,
+        138.5755
+      ]
+    },
+    {
+      "id": "6b0b3385",
+      "name": "1話 本栖湖",
+      "image": "https://image.anitabi.cn/points/207195/6b0b3385_1719910517778.jpg?plan=h160",
+      "ep": 1,
+      "s": 232,
+      "geo": [
+        35.474,
+        138.5756
+      ]
+    },
+    {
+      "id": "4125d5c0",
+      "name": "1話 本栖湖公衆トイレ",
+      "image": "https://image.anitabi.cn/points/207195/4125d5c0_1719910518684.jpg?plan=h160",
+      "ep": 1,
+      "s": 262,
+      "geo": [
+        35.474,
+        138.5741
+      ]
+    },
+    {
+      "id": "739b58a4",
+      "name": "1話 浩庵キャンプ場の入口",
+      "image": "https://image.anitabi.cn/points/207195/739b58a4_1719910519849.jpg?plan=h160",
+      "ep": 1,
+      "s": 313,
+      "geo": [
+        35.4733,
+        138.5732
+      ]
+    },
+    {
+      "id": "e8d778c0",
+      "name": "1話 キャンプ場出入り口の坂道",
+      "image": "https://image.anitabi.cn/points/207195/e8d778c0_1719910521084.jpg?plan=h160",
+      "ep": 1,
+      "s": 318,
+      "geo": [
+        35.4732,
+        138.5735
+      ]
+    },
+    {
+      "id": "8bae5c48",
+      "name": "1話 本栖湖 坂道",
+      "image": "https://image.anitabi.cn/points/207195/8bae5c48_1719910521848.jpg?plan=h160",
+      "ep": 1,
+      "s": 316,
+      "geo": [
+        35.4728,
+        138.5746
+      ]
+    },
+    {
+      "id": "eb9c4e66",
+      "name": "1話 炊事場",
+      "image": "https://image.anitabi.cn/points/207195/eb9c4e66_1719910522583.jpg?plan=h160",
+      "ep": 1,
+      "s": 314,
+      "geo": [
+        35.473,
+        138.5743
+      ]
+    }
+  ],
+  "pointsLength": 185,
+  "imagesLength": 185,
+  "local_id": 513
+}

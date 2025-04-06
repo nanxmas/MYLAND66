@@ -1,0 +1,107 @@
+[
+  {
+    "id": "ndzsw0hwz",
+    "name": "重庆市",
+    "image": "https://image.xinu.ink/pic/data/487/images/ndzsw0hwz_1724125441015.jpg",
+    "ep": 4,
+    "s": 1174,
+    "geo": [
+      29.5696,
+      106.5572
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ndzuf7fdi",
+    "name": "杨家坪",
+    "image": "https://image.xinu.ink/pic/data/487/images/ndzuf7fdi_1724125526224.jpg",
+    "ep": 3,
+    "s": 555,
+    "geo": [
+      29.5119,
+      106.5106
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ndzuzasnq",
+    "name": "洪崖洞",
+    "image": "https://image.xinu.ink/pic/data/487/images/ndzuzasnq_1724125558672.jpg",
+    "ep": 4,
+    "s": 1220,
+    "geo": [
+      29.5651,
+      106.5755
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ndzv8jxo7",
+    "name": "重庆大剧院",
+    "image": "https://image.xinu.ink/pic/data/487/images/ndzv8jxo7_1724125575508.jpg",
+    "ep": 3,
+    "s": 219,
+    "geo": [
+      29.5727,
+      106.5775
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ndzvjt64u",
+    "name": "解放碑",
+    "image": "https://image.xinu.ink/pic/data/487/images/ndzvjt64u_1724125594350.jpg",
+    "ep": 15,
+    "s": 1390,
+    "geo": [
+      29.5606,
+      106.5733
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ndzvpk8p1",
+    "cn": "磁器口龙门阵",
+    "name": "磁器口龙门阵",
+    "image": "https://image.xinu.ink/pic/data/487/images/ndzvpk8p1_1724125605064.jpg",
+    "ep": 7,
+    "s": 715,
+    "geo": [
+      29.5606,
+      106.5733
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ndzvzrk3j",
+    "name": "千厮门大桥",
+    "image": "https://image.xinu.ink/pic/data/487/images/ndzvzrk3j_1724125620053.jpg",
+    "ep": 6,
+    "s": 469,
+    "geo": [
+      29.5685,
+      106.575
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ndzw8p2o4",
+    "name": "重庆火锅",
+    "image": "https://image.xinu.ink/pic/data/487/images/ndzw8p2o4_1724125637827.jpg",
+    "ep": 12,
+    "s": 174,
+    "geo": [
+      29.5677,
+      106.5712
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  }
+]

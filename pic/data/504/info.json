@@ -1,0 +1,38 @@
+{
+  "id": 200704,
+  "cn": "烟花",
+  "title": "打ち上げ花火、下から見るか？横から見るか？",
+  "cover": "https://image.xinu.ink/pic/data/504/images/200704.jpg",
+  "color": "#0e559c",
+  "geo": [
+    35.70787199984255,
+    140.86845099901018
+  ],
+  "zoom": 15.999,
+  "modified": 1728740341232,
+  "litePoints": [
+    {
+      "id": "jvcmm8tit",
+      "cn": "犬吠埼灯塔",
+      "name": "犬吠埼灯台",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/200704/points/jvcmm8tit-1714201107346.jpg?plan=h160",
+      "geo": [
+        35.7078,
+        140.8684
+      ]
+    },
+    {
+      "id": "p0vssvtly",
+      "cn": "デハ801型",
+      "name": "外川駅",
+      "image": "https://image.anitabi.cn/points/200704/p0vssvtly_1728740218474.jpg?plan=h160",
+      "geo": [
+        35.6992,
+        140.857
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 504
+}

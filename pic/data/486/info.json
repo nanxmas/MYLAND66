@@ -1,0 +1,113 @@
+{
+  "id": 185792,
+  "cn": "小魔女学园",
+  "title": "リトルウィッチアカデミア",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/486/images/185792.jpg",
+  "color": "#6d5052",
+  "geo": [
+    51.631729294864414,
+    -0.4812862591032854
+  ],
+  "zoom": 5.943,
+  "modified": 1728646613181,
+  "litePoints": [
+    {
+      "id": "ljy77h2g5",
+      "cn": "日比谷公园大音乐堂",
+      "name": "日比谷公園大音楽堂",
+      "image": "https://image.anitabi.cn/points/185792/ljy77h2g5_1718950462494.jpg?plan=h160",
+      "ep": 1,
+      "s": 52,
+      "geo": [
+        35.6723,
+        139.754
+      ]
+    },
+    {
+      "id": "ljyo7fufh",
+      "name": "The Blue Note Café",
+      "image": "https://image.anitabi.cn/points/185792/ljyo7fufh_1724057802689.jpg?plan=h160",
+      "ep": 1,
+      "s": 187,
+      "geo": [
+        51.1474,
+        -2.7175
+      ]
+    },
+    {
+      "id": "ljycb7ucg",
+      "cn": "格拉斯顿伯里修道院",
+      "name": "Glastonbury Abbey",
+      "image": "https://image.anitabi.cn/points/185792/ljycb7ucg_1718950463801.jpg?plan=h160",
+      "ep": 1,
+      "s": 216,
+      "geo": [
+        51.1467,
+        -2.7152
+      ]
+    },
+    {
+      "id": "ljy99f923",
+      "cn": "盖世圣丘",
+      "name": "Glastonbury Tor",
+      "image": "https://image.anitabi.cn/points/185792/ljy99f923_1718950463053.jpg?plan=h160",
+      "ep": 1,
+      "s": 236,
+      "geo": [
+        51.1446,
+        -2.699
+      ]
+    },
+    {
+      "id": "ljydmsdbc",
+      "cn": "圣米迦勒塔",
+      "name": "St. Michael's Tower",
+      "image": "https://image.anitabi.cn/points/185792/ljydmsdbc_1718950463430.jpg?plan=h160",
+      "ep": 1,
+      "s": 481,
+      "geo": [
+        51.1448,
+        -2.6985
+      ]
+    },
+    {
+      "id": "ljyqcihtv",
+      "cn": "巨石阵",
+      "name": "Stonehenge",
+      "image": "https://image.anitabi.cn/points/185792/ljyqcihtv_1728646608545.jpg?plan=h160",
+      "ep": 15,
+      "s": 1067,
+      "geo": [
+        51.1788,
+        -1.8262
+      ]
+    },
+    {
+      "id": "ljyg0jp9i",
+      "cn": "伦敦塔桥",
+      "name": "Tower Bridge",
+      "image": "https://image.anitabi.cn/points/185792/ljyg0jp9i_1718950464803.jpg?plan=h160",
+      "ep": 18,
+      "s": 936,
+      "geo": [
+        51.5073,
+        -0.0774
+      ]
+    },
+    {
+      "id": "ljyrplrq5",
+      "name": "秋葉原UDX",
+      "image": "https://image.anitabi.cn/points/185792/ljyrplrq5_1728646610501.jpg?plan=h160",
+      "ep": 25,
+      "s": 755,
+      "geo": [
+        35.7004,
+        139.7725
+      ]
+    }
+  ],
+  "pointsLength": 8,
+  "imagesLength": 8,
+  "local_id": 486
+}

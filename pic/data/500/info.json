@@ -1,0 +1,85 @@
+{
+  "id": 198395,
+  "title": "One Room",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/500/images/198395.jpg",
+  "color": "#c69c8e",
+  "cp": "One Room",
+  "geo": [
+    35.711820643631924,
+    139.68479095120165
+  ],
+  "zoom": 10.233,
+  "modified": 1730534230946,
+  "litePoints": [
+    {
+      "id": "omktu7428",
+      "name": "木更木橋",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/198395/points/omktu7428-1727619239576.jpg?plan=h160",
+      "ep": 5,
+      "s": 16,
+      "geo": [
+        35.6766,
+        139.8008
+      ]
+    },
+    {
+      "id": "omkonjpxt",
+      "name": "清澄白河駅A2出口",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/198395/points/omkonjpxt-1727618980573.jpg?plan=h160",
+      "ep": 5,
+      "s": 236,
+      "geo": [
+        35.6828,
+        139.7987
+      ]
+    },
+    {
+      "id": "oml0d9m3p",
+      "name": "新光商事株式会社",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/198395/points/oml0d9m3p-1727619650631.jpg?plan=h160",
+      "ep": 1,
+      "s": 115,
+      "geo": [
+        35.7485,
+        139.5695
+      ]
+    },
+    {
+      "id": "oml4jmpbk",
+      "name": "亀久橋",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/198395/points/oml4jmpbk-1727619951735.jpg?plan=h160",
+      "ep": 8,
+      "s": 67,
+      "geo": [
+        35.676,
+        139.8029
+      ]
+    },
+    {
+      "id": "omlc2h08h",
+      "name": "江古田駅 南",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/198395/points/omlc2h08h-1727620338337.jpg?plan=h160",
+      "ep": 1,
+      "s": 224,
+      "geo": [
+        35.7372,
+        139.6727
+      ]
+    },
+    {
+      "id": "omlku4ody",
+      "name": "都営南田中アパート 北児童遊園",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/198395/points/omlku4ody-1727620939758.jpg?plan=h160",
+      "ep": 1,
+      "s": 6,
+      "geo": [
+        35.7395,
+        139.6167
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "local_id": 500
+}

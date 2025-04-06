@@ -1,0 +1,131 @@
+{
+  "id": 207573,
+  "cn": "月色真美",
+  "title": "月がきれい",
+  "city": "川越市",
+  "cover": "https://image.xinu.ink/pic/data/515/images/207573.jpg",
+  "color": "#a9a084",
+  "cp": "2017 月がきれい",
+  "geo": [
+    35.92085108095806,
+    139.4826631505003
+  ],
+  "zoom": 13.507,
+  "modified": 1738768513317,
+  "litePoints": [
+    {
+      "id": "ms5v4dzm2",
+      "name": "川越線旁",
+      "image": "https://image.anitabi.cn/user/0/bangumi/207573/points/ms5v4dzm2-1722414647058.jpg?plan=h160",
+      "ep": 10,
+      "s": 253,
+      "geo": [
+        35.9135,
+        139.4754
+      ]
+    },
+    {
+      "id": "ms5qn60h2",
+      "name": "ヴィスタ​ガーデン​川越",
+      "image": "https://image.anitabi.cn/user/0/bangumi/207573/points/ms5qn60h2-1722414349355.jpg?plan=h160",
+      "ep": 1,
+      "s": 491,
+      "geo": [
+        35.9149,
+        139.4754
+      ]
+    },
+    {
+      "id": "ms6z6p7kn",
+      "name": "沼田屋菓子店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/207573/points/ms6z6p7kn-1722417047310.jpg?plan=h160",
+      "ep": 12,
+      "s": 925,
+      "geo": [
+        35.9171,
+        139.4778
+      ]
+    },
+    {
+      "id": "noaqm4cr1",
+      "cn": "川越第三初中门口",
+      "name": "富士見中",
+      "image": "https://image.anitabi.cn/user/0/bangumi/207573/points/noaqm4cr1-1724933020101.jpg?plan=h160",
+      "ep": 7,
+      "s": 427,
+      "geo": [
+        35.912,
+        139.4764
+      ]
+    },
+    {
+      "id": "skrzpoioj",
+      "cn": "地主神社",
+      "name": "地主神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/207573/points/skrzpoioj-1738762663225.jpg?plan=h160",
+      "ep": 4,
+      "s": 351,
+      "geo": [
+        34.9952,
+        135.7849
+      ]
+    },
+    {
+      "id": "sks4wxah7",
+      "cn": "清水的舞台",
+      "name": "清水の舞台",
+      "image": "https://image.anitabi.cn/user/0/bangumi/207573/points/sks4wxah7-1738762889585.jpg?plan=h160",
+      "ep": 4,
+      "s": 337,
+      "geo": [
+        34.9947,
+        135.785
+      ]
+    },
+    {
+      "id": "skslokm2z",
+      "cn": "大丸百货",
+      "name": "大丸百貨",
+      "image": "https://image.anitabi.cn/user/0/bangumi/207573/points/skslokm2z-1738764227487.jpg?plan=h160",
+      "ep": 4,
+      "s": 937,
+      "geo": [
+        35.0037,
+        135.762
+      ]
+    },
+    {
+      "id": "pkl9yg71y",
+      "cn": "本能寺",
+      "name": "本能寺",
+      "image": "https://image.anitabi.cn/user/1139/bangumi/207573/points/pkl9yg71y-1730284738637.jpg?plan=h160",
+      "ep": 4,
+      "s": 1145,
+      "geo": [
+        35.0103,
+        135.7678
+      ]
+    },
+    {
+      "id": "51i53tt4h",
+      "name": "東武東上線踏切",
+      "image": "https://image.anitabi.cn/points/207573/51i53tt4h_1672371781492.jpg?plan=h160",
+      "geo": [
+        35.9152,
+        139.476
+      ]
+    },
+    {
+      "id": "51i53tt41",
+      "name": "川越線踏切",
+      "image": "https://image.anitabi.cn/points/207573/51i53tt41_1672371782815.jpg?plan=h160",
+      "geo": [
+        35.9148,
+        139.4736
+      ]
+    }
+  ],
+  "pointsLength": 43,
+  "imagesLength": 43,
+  "local_id": 515
+}

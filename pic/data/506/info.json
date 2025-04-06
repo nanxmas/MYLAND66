@@ -1,0 +1,47 @@
+{
+  "id": 202419,
+  "cn": "",
+  "title": "Re:CREATORS",
+  "cover": "https://image.xinu.ink/pic/data/506/images/202419.jpg",
+  "color": "#56303d",
+  "cp": "アニプレックス",
+  "geo": [
+    35.71517285342942,
+    139.69245446376908
+  ],
+  "zoom": 10.62,
+  "modified": 1741619484084,
+  "litePoints": [
+    {
+      "id": "tkyanq3z8",
+      "cn": "银座大表钟",
+      "name": "晴海通り",
+      "image": "https://image.anitabi.cn/user/0/bangumi/202419/points/tkyanq3z8-1741597499170.jpg?plan=h160",
+      "geo": [
+        35.6711,
+        139.7651
+      ]
+    },
+    {
+      "id": "tkyg84sqr",
+      "name": "荒川​千住​新橋​緑地",
+      "image": "https://image.anitabi.cn/user/0/bangumi/202419/points/tkyg84sqr-1741597948326.jpg?plan=h160",
+      "geo": [
+        35.7594,
+        139.8063
+      ]
+    },
+    {
+      "id": "tkyloab60",
+      "name": "吉祥寺商业街人口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/202419/points/tkyloab60-1741598047486.jpg?plan=h160",
+      "geo": [
+        35.7036,
+        139.5799
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 506
+}

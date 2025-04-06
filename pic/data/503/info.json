@@ -1,0 +1,120 @@
+{
+  "id": 200547,
+  "cn": "樱花任务",
+  "title": "サクラクエスト",
+  "city": "南砺市",
+  "cover": "https://image.xinu.ink/pic/data/503/images/200547.jpg",
+  "color": "#f2c4c6",
+  "cp": "2017 サクラクエスト",
+  "geo": [
+    36.52467124502316,
+    136.85903358301323
+  ],
+  "zoom": 8.668,
+  "modified": 1734358569244,
+  "litePoints": [
+    {
+      "id": "51i53t0vz",
+      "name": "桜ヶ池 エントランス広場 公園の橋",
+      "image": "https://image.anitabi.cn/points/200547/51i53t0vz_1730089412912.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        36.4992,
+        136.8706
+      ]
+    },
+    {
+      "id": "51i53t0v1",
+      "name": "休憩していた東屋",
+      "image": "https://image.anitabi.cn/points/200547/51i53t0v1_1731865828269.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        36.5209,
+        136.8932
+      ]
+    },
+    {
+      "id": "51i53t24k",
+      "name": "瑞泉寺 山門",
+      "image": "https://image.anitabi.cn/points/200547/51i53t24k_1730092428902.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        36.5593,
+        136.9717
+      ]
+    },
+    {
+      "id": "f0b46598",
+      "name": "河川敷",
+      "image": "https://image.anitabi.cn/points/200547/f0b46598_1731865985261.jpg?plan=h160",
+      "ep": 7,
+      "geo": [
+        36.52,
+        136.9028
+      ]
+    },
+    {
+      "id": "57c35b4b",
+      "name": "城端小学校",
+      "image": "https://image.anitabi.cn/points/200547/57c35b4b_1731866069933.jpg?plan=h160",
+      "ep": 7,
+      "geo": [
+        36.511,
+        136.898
+      ]
+    },
+    {
+      "id": "05c09bfb",
+      "name": "合掌造りかず良",
+      "image": "https://image.anitabi.cn/points/200547/05c09bfb_1731866192014.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        36.5012,
+        136.8661
+      ]
+    },
+    {
+      "id": "78ef887f",
+      "name": "市営バス停車所(城端駅)",
+      "image": "https://image.anitabi.cn/points/200547/78ef887f_1731866531638.jpg?plan=h160",
+      "ep": 10,
+      "geo": [
+        36.5218,
+        136.9016
+      ]
+    },
+    {
+      "id": "1f73db6d",
+      "name": "井波市街(木彫りギャラリー吉川)",
+      "image": "https://image.anitabi.cn/points/200547/1f73db6d_1731867205757.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        36.5611,
+        136.9704
+      ]
+    },
+    {
+      "id": "bcd9daca",
+      "name": "本願寺井波別院",
+      "image": "https://image.anitabi.cn/points/200547/bcd9daca_1731867048166.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        36.5586,
+        136.9686
+      ]
+    },
+    {
+      "id": "0f3241cc",
+      "name": "散居村展望台",
+      "image": "https://image.anitabi.cn/points/200547/0f3241cc_1731867156303.jpg?plan=h160",
+      "ep": 11,
+      "geo": [
+        36.5869,
+        137.013
+      ]
+    }
+  ],
+  "pointsLength": 48,
+  "imagesLength": 41,
+  "local_id": 503
+}

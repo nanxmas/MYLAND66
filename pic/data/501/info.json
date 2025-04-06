@@ -1,0 +1,38 @@
+{
+  "id": 198962,
+  "cn": "名侦探柯南 殷红的恋歌",
+  "title": "名探偵コナン から紅の恋歌",
+  "cover": "https://image.xinu.ink/pic/data/501/images/198962.jpg",
+  "color": "#714739",
+  "cp": "名探偵コナン",
+  "modified": 1729092503422,
+  "litePoints": [
+    {
+      "id": "nu2tux89j",
+      "cn": "五重塔",
+      "name": "​八坂​の​塔",
+      "image": "https://image.anitabi.cn/user/2104/bangumi/198962/points/nu2tux89j-1725385882244.jpg?plan=h160",
+      "ep": 1,
+      "s": 20,
+      "geo": [
+        34.9985,
+        135.7792
+      ]
+    },
+    {
+      "id": "nu2wtutob",
+      "cn": "大阪府警察总部",
+      "name": "大阪府警察本部",
+      "image": "https://image.anitabi.cn/user/2104/bangumi/198962/points/nu2wtutob-1725386033113.jpg?plan=h160",
+      "ep": 1,
+      "s": 808,
+      "geo": [
+        34.6839,
+        135.5201
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 501
+}

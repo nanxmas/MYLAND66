@@ -1,0 +1,32 @@
+{
+  "id": 183891,
+  "cn": "魔卡少女樱 透明牌篇",
+  "title": "カードキャプターさくら クリアカード編",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/482/images/183891.jpg",
+  "color": "#2b7fd4",
+  "cp": "NHK",
+  "geo": [
+    31.664776609704077,
+    35.552797481495844
+  ],
+  "zoom": 9.944,
+  "modified": 1673009787925,
+  "litePoints": [
+    {
+      "id": "59pe2e7lt",
+      "cn": "死海",
+      "name": "البحر الميت ים המלח",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/183891/points/59pe2e7lt-1673009405434.jpg?plan=h160",
+      "ep": 1,
+      "s": 45,
+      "geo": [
+        31.703,
+        35.5299
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 482
+}

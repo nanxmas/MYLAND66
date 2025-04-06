@@ -1,0 +1,34 @@
+{
+  "id": 207883,
+  "cn": "测不准的阿波连同学",
+  "title": "阿波連さんははかれない",
+  "cover": "https://image.xinu.ink/pic/data/516/images/207883.jpg",
+  "color": "#e8e8ff",
+  "modified": 1736806528511,
+  "litePoints": [
+    {
+      "id": "rvslp09s6",
+      "cn": "阿波连海滩",
+      "name": "阿波連ビーチ",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/207883/points/rvslp09s6-1736805093384.jpg?plan=h160",
+      "ep": 86,
+      "geo": [
+        26.1702,
+        127.3459
+      ]
+    },
+    {
+      "id": "rvta7jgaw",
+      "name": "泊港至渡嘉敷港的轮渡船",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/207883/points/rvta7jgaw-1736806359555.jpg?plan=h160",
+      "ep": 87,
+      "geo": [
+        26.1986,
+        127.368
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 516
+}

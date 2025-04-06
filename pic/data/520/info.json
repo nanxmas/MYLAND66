@@ -1,0 +1,50 @@
+{
+  "id": 208826,
+  "cn": "少女与战车 最终章 第3话",
+  "title": "ガールズ&パンツァー 最終章 第3話",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/520/images/208826.jpg",
+  "color": "#635547",
+  "geo": [
+    66.53675857825863,
+    25.85916453288263
+  ],
+  "zoom": 10.328,
+  "modified": 1725356098282,
+  "litePoints": [
+    {
+      "id": "kqoxqmswc",
+      "cn": "无限轨道杯 大洗vs继续 战车道赛场",
+      "name": "Santa Claus Village",
+      "image": "https://image.anitabi.cn/user/0/bangumi/208826/points/kqoxqmswc-1716657726555.jpg?plan=h160",
+      "ep": 3,
+      "s": 2585,
+      "geo": [
+        66.5436,
+        25.8469
+      ]
+    },
+    {
+      "id": "nq6c2dhhl",
+      "cn": "普罗奇达岛",
+      "name": "Chiesa Santa Maria delle Grazie",
+      "image": "https://image.anitabi.cn/user/0/bangumi/208826/points/nq6c2dhhl-1725080046715.jpg?plan=h160",
+      "geo": [
+        40.7619,
+        14.0311
+      ]
+    },
+    {
+      "id": "nto6fhp26",
+      "name": "小松空港",
+      "image": "https://image.anitabi.cn/user/0/bangumi/208826/points/nto6fhp26-1725354030919.jpg?plan=h160",
+      "geo": [
+        36.4008,
+        136.4177
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 520
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "fe16af41",
+    "name": "牛たん萃萃",
+    "image": "https://image.xinu.ink/pic/data/496/images/fe16af41_1741373641715.jpg",
+    "s": 1038,
+    "geo": [
+      38.2555,
+      140.914
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1c_MiutOtFIdbQUni5Zqfdv09Sivx-Lw&ll=38.255558%2C140.91404&z=17"
+  },
+  {
+    "id": "8b5eeae8",
+    "name": "女川２丁目５−７",
+    "image": "https://image.xinu.ink/pic/data/496/images/8b5eeae8_1741373774041.jpg",
+    "s": 1820,
+    "geo": [
+      38.4464,
+      141.4456
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1c_MiutOtFIdbQUni5Zqfdv09Sivx-Lw&ll=38.446499%2C141.445699&z=17"
+  }
+]

@@ -1,0 +1,113 @@
+{
+  "id": 188091,
+  "cn": "珈百璃的堕落",
+  "title": "ガヴリールドロップアウト",
+  "city": "滨松市",
+  "cover": "https://image.xinu.ink/pic/data/489/images/188091.jpg",
+  "color": "#f9d41a",
+  "cp": "ガヴリールドロップアウト",
+  "geo": [
+    34.6962178837085,
+    137.77320935093582
+  ],
+  "zoom": 8.418,
+  "modified": 1726754165815,
+  "litePoints": [
+    {
+      "id": "51i53obln",
+      "name": "浜松城公園（天守曲輪）",
+      "image": "https://image.anitabi.cn/points/188091/51i53obln_1672368046826.jpg?plan=h160",
+      "ep": 1,
+      "s": 60,
+      "geo": [
+        34.7111,
+        137.7258
+      ]
+    },
+    {
+      "id": "51i53obm6",
+      "name": "浜松駅北口（浜松駅ビル メイワン）",
+      "image": "https://image.anitabi.cn/points/188091/51i53obm6_1672368048076.jpg?plan=h160",
+      "ep": 1,
+      "s": 857,
+      "geo": [
+        34.7041,
+        137.7339
+      ]
+    },
+    {
+      "id": "51i53obqj",
+      "name": "弁天島駅ホーム（1番線）",
+      "image": "https://image.anitabi.cn/points/188091/51i53obqj_1672368049629.jpg?plan=h160",
+      "ep": 4,
+      "s": 475,
+      "geo": [
+        34.6901,
+        137.603
+      ]
+    },
+    {
+      "id": "51i53od2i",
+      "name": "弁天島駅前観光総合案内所",
+      "image": "https://image.anitabi.cn/points/188091/51i53od2i_1672368050943.jpg?plan=h160",
+      "ep": 1,
+      "s": 857,
+      "geo": [
+        34.6899,
+        137.6029
+      ]
+    },
+    {
+      "id": "51i53ocm7",
+      "name": "弁天島駅前",
+      "image": "https://image.anitabi.cn/points/188091/51i53ocm7_1672368052420.jpg?plan=h160",
+      "ep": 4,
+      "s": 875,
+      "geo": [
+        34.6899,
+        137.6031
+      ]
+    },
+    {
+      "id": "51i53ocfe",
+      "name": "弁天島海浜公園（弁天島海水浴場・西側）",
+      "image": "https://image.anitabi.cn/points/188091/51i53ocfe_1672368056371.jpg?plan=h160",
+      "ep": 4,
+      "s": 538,
+      "geo": [
+        34.6898,
+        137.6007
+      ]
+    },
+    {
+      "id": "51i53od25",
+      "name": "弁天島海浜公園（大鳥居・シンボルタワー）",
+      "image": "https://image.anitabi.cn/points/188091/51i53od25_1672368057916.jpg?plan=h160",
+      "ep": 1,
+      "s": 63,
+      "geo": [
+        34.6894,
+        137.6015
+      ]
+    },
+    {
+      "id": "51i53ob48",
+      "name": "浜松市ギャラリーモール ソラモ",
+      "geo": [
+        34.7042,
+        137.7334
+      ]
+    },
+    {
+      "id": "51i53odag",
+      "name": "小國神社",
+      "geo": [
+        34.847,
+        137.8994
+      ]
+    }
+  ],
+  "pointsLength": 9,
+  "imagesLength": 7,
+  "local_id": 489
+}

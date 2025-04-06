@@ -1,0 +1,33 @@
+{
+  "id": 194191,
+  "cn": "孤独的美食家 特别篇！真夏的东北・宫城出差篇",
+  "title": "孤独のグルメ スペシャル! 真夏の東北・宮城出張編",
+  "city": "宫城县",
+  "cover": "https://image.xinu.ink/pic/data/496/images/194191_RBQMW.jpg",
+  "modified": 1741377554717,
+  "litePoints": [
+    {
+      "id": "fe16af41",
+      "name": "牛たん萃萃",
+      "image": "https://image.anitabi.cn/points/194191/fe16af41_1741373641715.jpg?plan=h160",
+      "s": 1038,
+      "geo": [
+        38.2555,
+        140.914
+      ]
+    },
+    {
+      "id": "8b5eeae8",
+      "name": "女川２丁目５−７",
+      "image": "https://image.anitabi.cn/points/194191/8b5eeae8_1741373774041.jpg?plan=h160",
+      "s": 1820,
+      "geo": [
+        38.4464,
+        141.4456
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 496
+}

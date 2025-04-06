@@ -1,0 +1,41 @@
+{
+  "id": 191302,
+  "cn": "少女与战车 最终章 第1话",
+  "title": "ガールズ&パンツァー 最終章 第1話",
+  "cover": "https://image.xinu.ink/pic/data/492/images/191302.jpg",
+  "color": "#737a43",
+  "geo": [
+    39.15523212280874,
+    117.80832852547087
+  ],
+  "zoom": 14.418,
+  "modified": 1722516556129,
+  "litePoints": [
+    {
+      "id": "kqrsk680u",
+      "cn": "真理高校学园舰",
+      "name": "基辅号航母",
+      "image": "https://image.anitabi.cn/user/0/bangumi/191302/points/kqrsk680u-1716663433475.jpg?plan=h160",
+      "ep": 1,
+      "s": 1293,
+      "geo": [
+        39.1552,
+        117.8083
+      ]
+    },
+    {
+      "id": "mi2wafcgt",
+      "cn": "埼玉​Super体育馆",
+      "name": "さいたま\nスーパー​アリーナ",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/191302/points/mi2wafcgt-1721624529664.jpg?plan=h160",
+      "s": 1425,
+      "geo": [
+        35.8942,
+        139.6306
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 492
+}

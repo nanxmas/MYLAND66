@@ -1,0 +1,75 @@
+{
+  "id": 208825,
+  "cn": "少女与战车 最终章 第2话",
+  "title": "ガールズ&パンツァー 最終章 第2話",
+  "city": "茨城县",
+  "cover": "https://image.xinu.ink/pic/data/519/images/208825.jpg",
+  "color": "#634e47",
+  "cp": "GIRLS und PANZER…",
+  "geo": [
+    36.315384,
+    140.56273
+  ],
+  "modified": 1723642324747,
+  "litePoints": [
+    {
+      "id": "i2bfcybqq",
+      "cn": "大洗海洋塔",
+      "name": "大洗​マリン​タワー",
+      "image": "https://image.anitabi.cn/user/0/bangumi/208825/points/i2bfcybqq-1709104857068.jpg?plan=h160",
+      "ep": 2,
+      "s": 1123,
+      "geo": [
+        36.3104,
+        140.5706
+      ]
+    },
+    {
+      "id": "i2boyc17v",
+      "cn": "SAZA COFFEE 大洗店",
+      "name": "サザーコーヒー 大洗店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/208825/points/i2boyc17v-1709105529659.jpg?plan=h160",
+      "ep": 2,
+      "s": 1127,
+      "geo": [
+        36.3084,
+        140.5676
+      ]
+    },
+    {
+      "id": "i2c4tjimo",
+      "name": "坂本文具店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/208825/points/i2c4tjimo-1709106363824.jpg?plan=h160",
+      "ep": 2,
+      "s": 1514,
+      "geo": [
+        36.3155,
+        140.5743
+      ]
+    },
+    {
+      "id": "i2cd5ie8n",
+      "name": "祝町いささかりんりん通り",
+      "image": "https://image.anitabi.cn/user/0/bangumi/208825/points/i2cd5ie8n-1709106922475.jpg?plan=h160",
+      "ep": 2,
+      "s": 1476,
+      "geo": [
+        36.3158,
+        140.5749
+      ]
+    },
+    {
+      "id": "alrzdtcnc",
+      "cn": "第一中学",
+      "name": "大洗女校",
+      "image": null,
+      "geo": [
+        36.3168,
+        140.5755
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 4,
+  "local_id": 519
+}

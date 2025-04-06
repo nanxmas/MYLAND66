@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ig0giiig5",
+    "cn": "托卡内夫灯塔",
+    "name": "Маяк Токаревского",
+    "image": "https://image.xinu.ink/pic/data/508/images/ig0giiig5_1725829316043_c16v9.jpg",
+    "ep": 11,
+    "s": 1286,
+    "geo": [
+      43.0731,
+      131.843
+    ]
+  },
+  {
+    "id": "nng5idpxl",
+    "cn": "忠犬八公像",
+    "name": "忠犬ハチ公",
+    "image": "https://image.xinu.ink/pic/data/508/images/nng5idpxl-1724866462508.jpg",
+    "ep": 3,
+    "s": 599,
+    "geo": [
+      35.659,
+      139.7005
+    ]
+  },
+  {
+    "id": "nnfzhjkjq",
+    "cn": "津田沼",
+    "name": "津田沼",
+    "image": "https://image.xinu.ink/pic/data/508/images/nnfzhjkjq-1724865964110.jpg",
+    "ep": 1,
+    "s": 120,
+    "geo": [
+      35.6912,
+      140.0205
+    ]
+  }
+]

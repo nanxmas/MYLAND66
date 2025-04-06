@@ -1,0 +1,109 @@
+{
+  "id": 186180,
+  "cn": "重神机潘多拉",
+  "title": "重神機パンドーラ",
+  "city": "重庆市",
+  "cover": "https://image.xinu.ink/pic/data/487/images/186180.jpg",
+  "color": "#152040",
+  "cp": "Xiamen Skyloong …",
+  "geo": [
+    29.53476855077922,
+    106.54766708999858
+  ],
+  "zoom": 11.037,
+  "modified": 1726825691905,
+  "litePoints": [
+    {
+      "id": "ndzsw0hwz",
+      "name": "重庆市",
+      "image": "https://image.anitabi.cn/points/186180/ndzsw0hwz_1724125441015.jpg?plan=h160",
+      "ep": 4,
+      "s": 1174,
+      "geo": [
+        29.5696,
+        106.5572
+      ]
+    },
+    {
+      "id": "ndzuf7fdi",
+      "name": "杨家坪",
+      "image": "https://image.anitabi.cn/points/186180/ndzuf7fdi_1724125526224.jpg?plan=h160",
+      "ep": 3,
+      "s": 555,
+      "geo": [
+        29.5119,
+        106.5106
+      ]
+    },
+    {
+      "id": "ndzuzasnq",
+      "name": "洪崖洞",
+      "image": "https://image.anitabi.cn/points/186180/ndzuzasnq_1724125558672.jpg?plan=h160",
+      "ep": 4,
+      "s": 1220,
+      "geo": [
+        29.5651,
+        106.5755
+      ]
+    },
+    {
+      "id": "ndzv8jxo7",
+      "name": "重庆大剧院",
+      "image": "https://image.anitabi.cn/points/186180/ndzv8jxo7_1724125575508.jpg?plan=h160",
+      "ep": 3,
+      "s": 219,
+      "geo": [
+        29.5727,
+        106.5775
+      ]
+    },
+    {
+      "id": "ndzvjt64u",
+      "name": "解放碑",
+      "image": "https://image.anitabi.cn/points/186180/ndzvjt64u_1724125594350.jpg?plan=h160",
+      "ep": 15,
+      "s": 1390,
+      "geo": [
+        29.5606,
+        106.5733
+      ]
+    },
+    {
+      "id": "ndzvpk8p1",
+      "cn": "磁器口龙门阵",
+      "name": "磁器口龙门阵",
+      "image": "https://image.anitabi.cn/points/186180/ndzvpk8p1_1724125605064.jpg?plan=h160",
+      "ep": 7,
+      "s": 715,
+      "geo": [
+        29.5606,
+        106.5733
+      ]
+    },
+    {
+      "id": "ndzvzrk3j",
+      "name": "千厮门大桥",
+      "image": "https://image.anitabi.cn/points/186180/ndzvzrk3j_1724125620053.jpg?plan=h160",
+      "ep": 6,
+      "s": 469,
+      "geo": [
+        29.5685,
+        106.575
+      ]
+    },
+    {
+      "id": "ndzw8p2o4",
+      "name": "重庆火锅",
+      "image": "https://image.anitabi.cn/points/186180/ndzw8p2o4_1724125637827.jpg?plan=h160",
+      "ep": 12,
+      "s": 174,
+      "geo": [
+        29.5677,
+        106.5712
+      ]
+    }
+  ],
+  "pointsLength": 8,
+  "imagesLength": 8,
+  "local_id": 487
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ljy77h2g5",
+    "cn": "日比谷公园大音乐堂",
+    "name": "日比谷公園大音楽堂",
+    "image": "https://image.xinu.ink/pic/data/486/images/ljy77h2g5_1718950462494.jpg",
+    "ep": 1,
+    "s": 52,
+    "geo": [
+      35.6723,
+      139.754
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ljyo7fufh",
+    "name": "The Blue Note Café",
+    "image": "https://image.xinu.ink/pic/data/486/images/ljyo7fufh_1724057802689.jpg",
+    "ep": 1,
+    "s": 187,
+    "geo": [
+      51.1474,
+      -2.7175
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ljycb7ucg",
+    "cn": "格拉斯顿伯里修道院",
+    "name": "Glastonbury Abbey",
+    "image": "https://image.xinu.ink/pic/data/486/images/ljycb7ucg_1718950463801.jpg",
+    "ep": 1,
+    "s": 216,
+    "geo": [
+      51.1467,
+      -2.7152
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ljy99f923",
+    "cn": "盖世圣丘",
+    "name": "Glastonbury Tor",
+    "image": "https://image.xinu.ink/pic/data/486/images/ljy99f923_1718950463053.jpg",
+    "ep": 1,
+    "s": 236,
+    "geo": [
+      51.1446,
+      -2.699
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ljydmsdbc",
+    "cn": "圣米迦勒塔",
+    "name": "St. Michael's Tower",
+    "image": "https://image.xinu.ink/pic/data/486/images/ljydmsdbc_1718950463430.jpg",
+    "ep": 1,
+    "s": 481,
+    "geo": [
+      51.1448,
+      -2.6985
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ljyqcihtv",
+    "cn": "巨石阵",
+    "name": "Stonehenge",
+    "image": "https://image.xinu.ink/pic/data/486/images/ljyqcihtv_1728646608545.jpg",
+    "ep": 15,
+    "s": 1067,
+    "geo": [
+      51.1788,
+      -1.8262
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ljyg0jp9i",
+    "cn": "伦敦塔桥",
+    "name": "Tower Bridge",
+    "image": "https://image.xinu.ink/pic/data/486/images/ljyg0jp9i_1718950464803.jpg",
+    "ep": 18,
+    "s": 936,
+    "geo": [
+      51.5073,
+      -0.0774
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ljyrplrq5",
+    "name": "秋葉原UDX",
+    "image": "https://image.xinu.ink/pic/data/486/images/ljyrplrq5_1728646610501.jpg",
+    "ep": 25,
+    "s": 755,
+    "geo": [
+      35.7004,
+      139.7725
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  }
+]

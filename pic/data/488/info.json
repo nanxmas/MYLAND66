@@ -1,0 +1,128 @@
+{
+  "id": 186515,
+  "title": "BanG Dream!",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/488/images/186515.jpg",
+  "color": "#ed145b",
+  "geo": [
+    35.43138579702689,
+    139.97493034104298
+  ],
+  "zoom": 8.609,
+  "modified": 1739387736457,
+  "litePoints": [
+    {
+      "id": "8546c476",
+      "name": "旬八青果店 五反田店（トライアル店舗）",
+      "image": "https://image.anitabi.cn/points/186515/8546c476_1722413929613.jpg?plan=h160",
+      "ep": 6,
+      "s": 932,
+      "geo": [
+        35.6247,
+        139.7196
+      ]
+    },
+    {
+      "id": "695f57ef",
+      "name": "リキッドルーム",
+      "image": "https://image.anitabi.cn/points/186515/695f57ef_1722413933374.jpg?plan=h160",
+      "ep": 2,
+      "s": 717,
+      "geo": [
+        35.6491,
+        139.7105
+      ]
+    },
+    {
+      "id": "f2a228ef",
+      "name": "忠犬ハチ公像（渋谷区）",
+      "image": "https://image.anitabi.cn/points/186515/f2a228ef_1722413992934.jpg?plan=h160",
+      "ep": 2,
+      "s": 818,
+      "geo": [
+        35.659,
+        139.7005
+      ]
+    },
+    {
+      "id": "ea2950b8",
+      "name": "新宿駅東口 NewDays前",
+      "image": "https://image.anitabi.cn/points/186515/ea2950b8_1722414016760.jpg?plan=h160",
+      "ep": 1,
+      "s": 92,
+      "geo": [
+        35.6915,
+        139.7011
+      ]
+    },
+    {
+      "id": "8fbb9b1c",
+      "name": "新宿アルタ前",
+      "image": "https://image.anitabi.cn/points/186515/8fbb9b1c_1722414018711.jpg?plan=h160",
+      "ep": 1,
+      "s": 113,
+      "geo": [
+        35.6922,
+        139.7011
+      ]
+    },
+    {
+      "id": "8dea6856",
+      "name": "大久保通り",
+      "image": "https://image.anitabi.cn/points/186515/8dea6856_1722414020795.jpg?plan=h160",
+      "ep": 9,
+      "s": 764,
+      "geo": [
+        35.7013,
+        139.7082
+      ]
+    },
+    {
+      "id": "e6b78c18",
+      "name": "三軒茶屋駅",
+      "image": "https://image.anitabi.cn/points/186515/e6b78c18_1722414022709.jpg?plan=h160",
+      "ep": 5,
+      "s": 316,
+      "geo": [
+        35.6436,
+        139.6713
+      ]
+    },
+    {
+      "id": "acc3efa4",
+      "name": "サウンドスタジオノア三軒茶屋店",
+      "image": "https://image.anitabi.cn/points/186515/acc3efa4_1722414024541.jpg?plan=h160",
+      "ep": 5,
+      "s": 562,
+      "geo": [
+        35.6402,
+        139.6748
+      ]
+    },
+    {
+      "id": "182c5348",
+      "name": "サウンドスタジオノア駒沢店",
+      "image": "https://image.anitabi.cn/points/186515/182c5348_1722414026093.jpg?plan=h160",
+      "ep": 5,
+      "s": 354,
+      "geo": [
+        35.6345,
+        139.6628
+      ]
+    },
+    {
+      "id": "0f0e0e1e",
+      "name": "都電早稲田駅",
+      "image": "https://image.anitabi.cn/points/186515/0f0e0e1e_1722414028329.jpg?plan=h160",
+      "ep": 1,
+      "s": 159,
+      "geo": [
+        35.7118,
+        139.719
+      ]
+    }
+  ],
+  "pointsLength": 50,
+  "imagesLength": 50,
+  "local_id": 488
+}

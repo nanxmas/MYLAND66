@@ -1,0 +1,54 @@
+{
+  "id": 204145,
+  "cn": "属性咖啡厅",
+  "title": "ブレンド・S",
+  "cover": "https://image.xinu.ink/pic/data/508/images/204145.jpg",
+  "color": "#ff557f",
+  "geo": [
+    35.65862554884481,
+    139.69870587729957
+  ],
+  "zoom": 13.922,
+  "modified": 1728567977780,
+  "litePoints": [
+    {
+      "id": "ig0giiig5",
+      "cn": "托卡内夫灯塔",
+      "name": "Маяк Токаревского",
+      "image": "https://image.anitabi.cn/points/204145/ig0giiig5_1725829316043_c16v9.jpg?plan=h160",
+      "ep": 11,
+      "s": 1286,
+      "geo": [
+        43.0731,
+        131.843
+      ]
+    },
+    {
+      "id": "nng5idpxl",
+      "cn": "忠犬八公像",
+      "name": "忠犬ハチ公",
+      "image": "https://image.anitabi.cn/user/0/bangumi/204145/points/nng5idpxl-1724866462508.jpg?plan=h160",
+      "ep": 3,
+      "s": 599,
+      "geo": [
+        35.659,
+        139.7005
+      ]
+    },
+    {
+      "id": "nnfzhjkjq",
+      "cn": "津田沼",
+      "name": "津田沼",
+      "image": "https://image.anitabi.cn/user/0/bangumi/204145/points/nnfzhjkjq-1724865964110.jpg?plan=h160",
+      "ep": 1,
+      "s": 120,
+      "geo": [
+        35.6912,
+        140.0205
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 508
+}

@@ -1,0 +1,122 @@
+{
+  "id": 179949,
+  "cn": "小林家的龙女仆",
+  "title": "小林さんちのメイドラゴン",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/477/images/179949.jpg",
+  "color": "#ff8800",
+  "cp": "ドラゴン生活向上委員会",
+  "geo": [
+    35.7451958548622,
+    139.8039726260763
+  ],
+  "zoom": 9.946,
+  "modified": 1741159489150,
+  "litePoints": [
+    {
+      "id": "09a78b82",
+      "name": "1越谷駅 西口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/179949/points/09a78b82-1738689156295.jpg?plan=h160",
+      "ep": 1,
+      "s": 707,
+      "geo": [
+        35.8882,
+        139.7855
+      ]
+    },
+    {
+      "id": "npjrjnfzg",
+      "name": "1越谷駅 东口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/179949/points/npjrjnfzg-1738689607145.jpg?plan=h160",
+      "ep": 2,
+      "s": 1228,
+      "geo": [
+        35.8881,
+        139.7855
+      ]
+    },
+    {
+      "id": "7bd7f961",
+      "name": "2東日本橋駅过街天桥",
+      "image": "https://image.anitabi.cn/points/179949/7bd7f961_1725030911943.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.6902,
+        139.7847
+      ]
+    },
+    {
+      "id": "22695de3",
+      "name": "3交通看板",
+      "image": "https://image.anitabi.cn/points/179949/22695de3_1725030928273.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6882,
+        139.786
+      ]
+    },
+    {
+      "id": "3fd6be8c",
+      "name": "4居酒屋",
+      "image": "https://image.anitabi.cn/points/179949/3fd6be8c_1725030934647.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6875,
+        139.7865
+      ]
+    },
+    {
+      "id": "6cd16723",
+      "name": "5 变身龙",
+      "image": "https://image.anitabi.cn/points/179949/6cd16723_1725030948818.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6866,
+        139.7859
+      ]
+    },
+    {
+      "id": "07cc5833",
+      "name": "6越谷站西口信号灯",
+      "image": "https://image.anitabi.cn/user/0/bangumi/179949/points/07cc5833-1738688825471.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.8879,
+        139.7843
+      ]
+    },
+    {
+      "id": "50ef1c84",
+      "name": "7県道１６１号沿线",
+      "image": "https://image.anitabi.cn/points/179949/50ef1c84_1725030982060.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.8864,
+        139.7839
+      ]
+    },
+    {
+      "id": "d889a03d",
+      "name": "8東越谷七丁目しいの木公園",
+      "image": "https://image.anitabi.cn/points/179949/d889a03d_1725030989253.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.8909,
+        139.8006
+      ]
+    },
+    {
+      "id": "dfbaef28",
+      "name": "9元荒川沿岸1",
+      "image": "https://image.anitabi.cn/points/179949/dfbaef28_1725031020707.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.8879,
+        139.7948
+      ]
+    }
+  ],
+  "pointsLength": 40,
+  "imagesLength": 39,
+  "local_id": 477
+}

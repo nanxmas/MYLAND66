@@ -1,0 +1,95 @@
+{
+  "id": 207431,
+  "cn": "死印",
+  "title": "死印",
+  "city": "八王子市",
+  "cover": "https://image.xinu.ink/pic/data/514/images/207431_1t82k.jpg",
+  "color": "#038c60",
+  "modified": 1728738629204,
+  "litePoints": [
+    {
+      "id": "p0rtov301",
+      "name": "八王子霊園東門前の電話ボックス",
+      "image": "https://image.anitabi.cn/points/207431/p0rtov301_1728731606532.jpg?plan=h160",
+      "geo": [
+        35.6604,
+        139.2685
+      ]
+    },
+    {
+      "id": "p0riis21d",
+      "name": "伊勢畑小学校",
+      "geo": [
+        36.5597,
+        140.2889
+      ]
+    },
+    {
+      "id": "p0rj5cm1e",
+      "name": "八王子城跡",
+      "geo": [
+        35.653,
+        139.253
+      ]
+    },
+    {
+      "id": "p0rjkizdi",
+      "name": "青木ヶ原樹海",
+      "geo": [
+        35.4726,
+        138.6265
+      ]
+    },
+    {
+      "id": "p0rkjpbfu",
+      "name": "高尾山",
+      "geo": [
+        35.6249,
+        139.2437
+      ]
+    },
+    {
+      "id": "p0rln3f3r",
+      "name": "館ヶ丘団地",
+      "geo": [
+        35.6272,
+        139.2875
+      ]
+    },
+    {
+      "id": "p0rnqe3z8",
+      "name": "秋川街道",
+      "geo": [
+        35.6628,
+        139.3234
+      ]
+    },
+    {
+      "id": "p0roct9pu",
+      "name": "小宮町",
+      "geo": [
+        35.6854,
+        139.3689
+      ]
+    },
+    {
+      "id": "p0rppe52k",
+      "name": "みなみ野",
+      "geo": [
+        35.6312,
+        139.331
+      ]
+    },
+    {
+      "id": "p0rq2htx5",
+      "name": "国立市",
+      "geo": [
+        35.6992,
+        139.4466
+      ]
+    }
+  ],
+  "pointsLength": 12,
+  "imagesLength": 1,
+  "local_id": 514
+}

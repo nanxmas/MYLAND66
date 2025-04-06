@@ -1,0 +1,109 @@
+{
+  "id": 191956,
+  "cn": "亚人酱有话要说",
+  "title": "亜人ちゃんは語りたい",
+  "city": "镰仓市",
+  "cover": "https://image.xinu.ink/pic/data/494/images/191956.jpg",
+  "color": "#35d4ac",
+  "cp": "亜人ちゃんは語りたい",
+  "geo": [
+    35.30991198011144,
+    139.54015186425983
+  ],
+  "zoom": 11.956,
+  "modified": 1726752322327,
+  "litePoints": [
+    {
+      "id": "51i53n0zb",
+      "name": "時計台",
+      "image": "https://image.anitabi.cn/points/191956/51i53n0zb_1672373565087.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.3192,
+        139.5499
+      ]
+    },
+    {
+      "id": "51i53n1bq",
+      "name": "鎌倉駅西口の道路",
+      "image": "https://image.anitabi.cn/points/191956/51i53n1bq_1672373566029.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.3191,
+        139.5496
+      ]
+    },
+    {
+      "id": "51i53n1xx",
+      "name": "ステンドグラスDANSHAKU",
+      "image": "https://image.anitabi.cn/points/191956/51i53n1xx_1672373566890.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.3208,
+        139.5526
+      ]
+    },
+    {
+      "id": "51i53n1nf",
+      "name": "小町通り",
+      "image": "https://image.anitabi.cn/points/191956/51i53n1nf_1672373585677.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.321,
+        139.552
+      ]
+    },
+    {
+      "id": "51i53n1to",
+      "name": "極楽寺駅",
+      "image": "https://image.anitabi.cn/points/191956/51i53n1to_1672373597089.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.3093,
+        139.5289
+      ]
+    },
+    {
+      "id": "51i53n1wx",
+      "name": "鎌倉高校前踏切",
+      "image": "https://image.anitabi.cn/points/191956/51i53n1wx_1672373598764.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.3066,
+        139.5021
+      ]
+    },
+    {
+      "id": "51i53n2s0",
+      "name": "北鎌倉駅前信号",
+      "image": "https://image.anitabi.cn/points/191956/51i53n2s0_1672373599648.jpg?plan=h160",
+      "ep": 7,
+      "geo": [
+        35.337,
+        139.5449
+      ]
+    },
+    {
+      "id": "51i53n2p3",
+      "name": "北鎌倉駅前道路",
+      "image": "https://image.anitabi.cn/points/191956/51i53n2p3_1672373600925.jpg?plan=h160",
+      "ep": 7,
+      "geo": [
+        35.3374,
+        139.5445
+      ]
+    },
+    {
+      "id": "51i53n292",
+      "name": "稲村ケ崎",
+      "ep": 11,
+      "geo": [
+        35.3032,
+        139.5212
+      ]
+    }
+  ],
+  "pointsLength": 10,
+  "imagesLength": 9,
+  "local_id": 494
+}

@@ -1,0 +1,128 @@
+{
+  "id": 202240,
+  "cn": "春宵苦短，少女前进吧！",
+  "title": "夜は短し歩けよ乙女",
+  "city": "京都市",
+  "cover": "https://image.xinu.ink/pic/data/505/images/202240.jpg",
+  "color": "#ff2b2b",
+  "geo": [
+    35.00427616002764,
+    135.7705006943973
+  ],
+  "zoom": 17.933,
+  "modified": 1741766351911,
+  "litePoints": [
+    {
+      "id": "lv8h6dmyr",
+      "cn": "真桥通木屋町通交口",
+      "name": "真橋通西",
+      "image": "https://image.anitabi.cn/points/202240/lv8h6dmyr_1728569035786.jpg?plan=h160",
+      "s": 208,
+      "geo": [
+        35.0043,
+        135.7703
+      ]
+    },
+    {
+      "id": "lv8otuaym",
+      "cn": "木屋町通南",
+      "name": "木屋町通南",
+      "image": "https://image.anitabi.cn/points/202240/lv8otuaym_1728569097028.jpg?plan=h160",
+      "s": 208,
+      "geo": [
+        35.0042,
+        135.7705
+      ]
+    },
+    {
+      "id": "oyqbd41dq",
+      "cn": "先斗町公园",
+      "name": "先斗町公園",
+      "image": "https://image.anitabi.cn/points/202240/oyqbd41dq_1728571694894.jpg?plan=h160",
+      "s": 609,
+      "geo": [
+        35.0065,
+        135.771
+      ]
+    },
+    {
+      "id": "tmqbezqpb",
+      "cn": "先斗町公园 西北角西眺",
+      "name": "先斗町公園",
+      "image": "https://image.anitabi.cn/points/202240/tmqbezqpb_1741736728003.jpg?plan=h160",
+      "s": 606,
+      "geo": [
+        35.0065,
+        135.771
+      ]
+    },
+    {
+      "id": "tmqd4kcq8",
+      "cn": "先斗町公园 西北角北眺",
+      "name": "先斗町公園",
+      "image": "https://image.anitabi.cn/points/202240/tmqd4kcq8_1741736880145.jpg?plan=h160",
+      "s": 618,
+      "geo": [
+        35.0065,
+        135.771
+      ]
+    },
+    {
+      "id": "lv8rp8lue",
+      "cn": "月面步行 四条木屋町店",
+      "name": "bar moon walk 四条木屋町店",
+      "image": "https://image.anitabi.cn/points/202240/lv8rp8lue_1728569219440.jpg?plan=h160",
+      "s": 284,
+      "geo": [
+        35.0042,
+        135.7703
+      ]
+    },
+    {
+      "id": "lvb1xs186",
+      "cn": "西木屋町通",
+      "name": "西木屋町通",
+      "image": "https://image.anitabi.cn/points/202240/lvb1xs186_1728648612307.jpg?plan=h160",
+      "s": 244,
+      "geo": [
+        35.0044,
+        135.7703
+      ]
+    },
+    {
+      "id": "lvb4l0gwd",
+      "cn": "进进堂 京大北门前店",
+      "name": "進々堂​京大​北​門前​店",
+      "image": "https://image.anitabi.cn/points/202240/lvb4l0gwd_1728572030636_c16v9.jpg?plan=h160",
+      "geo": [
+        35.0287,
+        135.782
+      ]
+    },
+    {
+      "id": "lvb7e8s47",
+      "cn": "今出川通 进进堂 京大北门前",
+      "name": "今出川通 進々堂 京大北門前",
+      "image": "https://image.anitabi.cn/points/202240/lvb7e8s47_1728569331505.jpg?plan=h160",
+      "s": 132,
+      "geo": [
+        35.0285,
+        135.782
+      ]
+    },
+    {
+      "id": "lvcv827sc",
+      "cn": "御影桥",
+      "name": "御蔭橋",
+      "image": "https://image.anitabi.cn/points/202240/lvcv827sc_1728569673731.jpg?plan=h160",
+      "s": 2739,
+      "geo": [
+        35.0304,
+        135.7722
+      ]
+    }
+  ],
+  "pointsLength": 39,
+  "imagesLength": 39,
+  "local_id": 505
+}

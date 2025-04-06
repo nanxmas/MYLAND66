@@ -1,0 +1,33 @@
+{
+  "id": 205013,
+  "cn": "孤独的美食家 正月特别篇！～井之头五郎漫长的一天～",
+  "title": "孤独のグルメ お正月スペシャル! ～井之頭五郎の長い一日～",
+  "cover": "https://image.xinu.ink/pic/data/509/images/205013_8RHKH.jpg",
+  "modified": 1741377791132,
+  "litePoints": [
+    {
+      "id": "cd523c3a",
+      "name": "蔡菜食堂",
+      "image": "https://image.anitabi.cn/points/205013/cd523c3a_1741374980724.jpg?plan=h160",
+      "s": 522,
+      "geo": [
+        35.7046,
+        139.6645
+      ]
+    },
+    {
+      "id": "0298ff53",
+      "cn": "テキサス 津田沼店",
+      "name": "白鳥ビル",
+      "image": "https://image.anitabi.cn/points/205013/0298ff53_1741375042720.jpg?plan=h160",
+      "s": 1993,
+      "geo": [
+        35.6859,
+        140.0219
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 509
+}

@@ -1,0 +1,110 @@
+{
+  "id": 208930,
+  "cn": "偶像大师 SideM",
+  "title": "アイドルマスター SideM",
+  "city": "江东区",
+  "cover": "https://image.xinu.ink/pic/data/521/images/208930.jpg",
+  "color": "#15be94",
+  "cp": "PROJECT SideM",
+  "geo": [
+    35.672039681628306,
+    139.7992940121685
+  ],
+  "zoom": 13.287,
+  "modified": 1740308644259,
+  "litePoints": [
+    {
+      "id": "51i51p345",
+      "name": "神速一魂のいた交差点",
+      "image": "https://image.anitabi.cn/points/208930/51i51p345_1672372905770.jpg?plan=h160",
+      "geo": [
+        35.6696,
+        139.8057
+      ]
+    },
+    {
+      "id": "51i51p3ou",
+      "name": "深川不動堂・鳥居",
+      "image": "https://image.anitabi.cn/points/208930/51i51p3ou_1672372906797.jpg?plan=h160",
+      "geo": [
+        35.6709,
+        139.7991
+      ]
+    },
+    {
+      "id": "51i51p3nw",
+      "name": "恭二が休んでた漢方屋",
+      "image": "https://image.anitabi.cn/points/208930/51i51p3nw_1672372907871.jpg?plan=h160",
+      "geo": [
+        35.6719,
+        139.7977
+      ]
+    },
+    {
+      "id": "51i51p3sq",
+      "name": "Beitが散歩してた道",
+      "image": "https://image.anitabi.cn/points/208930/51i51p3sq_1672372908799.jpg?plan=h160",
+      "geo": [
+        35.672,
+        139.7978
+      ]
+    },
+    {
+      "id": "51i51p3w5",
+      "name": "ドラスタのいた交差点",
+      "image": "https://image.anitabi.cn/points/208930/51i51p3w5_1672372909848.jpg?plan=h160",
+      "geo": [
+        35.6726,
+        139.7948
+      ]
+    },
+    {
+      "id": "51i51p476",
+      "name": "みのりさんがドリフトかけた交差点",
+      "image": "https://image.anitabi.cn/points/208930/51i51p476_1672372910896.jpg?plan=h160",
+      "geo": [
+        35.6722,
+        139.7948
+      ]
+    },
+    {
+      "id": "51i51p6vb",
+      "name": "輝が信号待ちしてた交差点",
+      "image": "https://image.anitabi.cn/points/208930/51i51p6vb_1672372911941.jpg?plan=h160",
+      "geo": [
+        35.6734,
+        139.7956
+      ]
+    },
+    {
+      "id": "51i51p6va",
+      "name": "走るピエール",
+      "image": "https://image.anitabi.cn/points/208930/51i51p6va_1672372913231.jpg?plan=h160",
+      "geo": [
+        35.6789,
+        139.79
+      ]
+    },
+    {
+      "id": "51i51p7uv",
+      "name": "空を見上げるドラスタ",
+      "image": "https://image.anitabi.cn/points/208930/51i51p7uv_1672372920220.jpg?plan=h160",
+      "geo": [
+        35.6784,
+        139.7896
+      ]
+    },
+    {
+      "id": "51i51p805",
+      "name": "隅田川大橋の麓",
+      "image": "https://image.anitabi.cn/points/208930/51i51p805_1672372921234.jpg?plan=h160",
+      "geo": [
+        35.6785,
+        139.7897
+      ]
+    }
+  ],
+  "pointsLength": 18,
+  "imagesLength": 16,
+  "local_id": 521
+}

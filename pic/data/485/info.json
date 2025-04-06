@@ -1,0 +1,85 @@
+{
+  "id": 185762,
+  "cn": "政宗君的复仇",
+  "title": "政宗くんのリベンジ",
+  "city": "武藏野市",
+  "cover": "https://image.xinu.ink/pic/data/485/images/185762.jpg",
+  "color": "#3d4782",
+  "cp": "政宗くんのリベンジ",
+  "geo": [
+    35.689755702164305,
+    139.5677946050812
+  ],
+  "zoom": 12.478,
+  "modified": 1741621585693,
+  "litePoints": [
+    {
+      "id": "51i53sdna",
+      "name": "井の頭公園-遊びの広場- 2話",
+      "image": "https://image.anitabi.cn/points/185762/51i53sdna_1672382828259.jpg?plan=h160",
+      "ep": 2,
+      "s": 682,
+      "geo": [
+        35.694,
+        139.5714
+      ]
+    },
+    {
+      "id": "51i53scav",
+      "name": "むらさき橋 PV",
+      "image": "https://image.anitabi.cn/points/185762/51i53scav_1672382822569.jpg?plan=h160",
+      "geo": [
+        35.7008,
+        139.5662
+      ]
+    },
+    {
+      "id": "51i53scs1",
+      "name": "井の頭自然文化園前 OP",
+      "image": "https://image.anitabi.cn/points/185762/51i53scs1_1672382823478.jpg?plan=h160",
+      "geo": [
+        35.7005,
+        139.5728
+      ]
+    },
+    {
+      "id": "51i53se7b",
+      "name": "コメダ珈琲店 三鷹上連雀店 1話",
+      "image": "https://image.anitabi.cn/points/185762/51i53se7b_1672382825713.jpg?plan=h160",
+      "geo": [
+        35.6876,
+        139.559
+      ]
+    },
+    {
+      "id": "51i53se0h",
+      "name": "むらさき橋 1話",
+      "image": "https://image.anitabi.cn/points/185762/51i53se0h_1672382826614.jpg?plan=h160",
+      "geo": [
+        35.7008,
+        139.5662
+      ]
+    },
+    {
+      "id": "tkyn9j07j",
+      "name": "横滨人行道桥三号",
+      "image": "https://image.anitabi.cn/user/0/bangumi/185762/points/tkyn9j07j-1741598218366.jpg?plan=h160",
+      "geo": [
+        35.4533,
+        139.6389
+      ]
+    },
+    {
+      "id": "tkypx27bf",
+      "name": "旋转木马",
+      "image": "https://image.anitabi.cn/user/0/bangumi/185762/points/tkypx27bf-1741598306081.jpg?plan=h160",
+      "geo": [
+        35.4547,
+        139.6338
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "local_id": 485
+}

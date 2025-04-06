@@ -1,0 +1,129 @@
+{
+  "id": 212278,
+  "title": "Just Because!",
+  "city": "镰仓市",
+  "cover": "https://image.xinu.ink/pic/data/530/images/212278.jpg",
+  "color": "#3a4d42",
+  "cp": "JB",
+  "geo": [
+    35.336884245994824,
+    139.50878886864234
+  ],
+  "zoom": 11.975745057864689,
+  "modified": 1725006484291,
+  "litePoints": [
+    {
+      "id": "3aa8nfy8",
+      "name": "片瀬山駅前",
+      "image": "https://image.anitabi.cn/points/212278/3aa8nfy8.jpg?plan=h160",
+      "ep": 1,
+      "s": 37,
+      "geo": [
+        35.3172,
+        139.4955
+      ]
+    },
+    {
+      "id": "3aa8ng9s",
+      "name": "湘南モノレール 車内",
+      "image": "https://image.anitabi.cn/points/212278/3aa8ng9s.jpg?plan=h160",
+      "ep": 1,
+      "s": 68,
+      "geo": [
+        35.3398,
+        139.5237
+      ]
+    },
+    {
+      "id": "3aa8ngcq",
+      "name": "湘南深沢駅北",
+      "image": "https://image.anitabi.cn/points/212278/3aa8ngcq.jpg?plan=h160",
+      "ep": 1,
+      "s": 81,
+      "geo": [
+        35.3353,
+        139.5215
+      ]
+    },
+    {
+      "id": "3aa8ngau",
+      "name": "陽斗の団地",
+      "image": "https://image.anitabi.cn/points/212278/3aa8ngau.jpg?plan=h160",
+      "ep": 1,
+      "s": 54,
+      "geo": [
+        35.336,
+        139.5205
+      ]
+    },
+    {
+      "id": "3aa8nglk",
+      "name": "湘南深沢駅に入線",
+      "image": "https://image.anitabi.cn/points/212278/3aa8nglk.jpg?plan=h160",
+      "ep": 1,
+      "s": 87,
+      "geo": [
+        35.3331,
+        139.5192
+      ]
+    },
+    {
+      "id": "3aa8ngge",
+      "name": "湘南深沢駅階段",
+      "image": "https://image.anitabi.cn/points/212278/3aa8ngge.jpg?plan=h160",
+      "ep": 1,
+      "s": 102,
+      "geo": [
+        35.3326,
+        139.5186
+      ]
+    },
+    {
+      "id": "3aa8nfzy",
+      "name": "湘南深沢駅前",
+      "image": "https://image.anitabi.cn/points/212278/3aa8nfzy.jpg?plan=h160",
+      "ep": 1,
+      "s": 109,
+      "geo": [
+        35.3325,
+        139.5184
+      ]
+    },
+    {
+      "id": "3aa8ngh1",
+      "name": "深沢交差点",
+      "image": "https://image.anitabi.cn/points/212278/3aa8ngh1.jpg?plan=h160",
+      "ep": 1,
+      "s": 114,
+      "geo": [
+        35.3302,
+        139.5178
+      ]
+    },
+    {
+      "id": "3aa8ng6w",
+      "name": "梶原口 バス停前",
+      "image": "https://image.anitabi.cn/points/212278/3aa8ng6w.jpg?plan=h160",
+      "ep": 1,
+      "s": 127,
+      "geo": [
+        35.3275,
+        139.523
+      ]
+    },
+    {
+      "id": "3aa8nfzd",
+      "name": "深沢支所西交差点",
+      "image": "https://image.anitabi.cn/points/212278/3aa8nfzd.jpg?plan=h160",
+      "ep": 1,
+      "s": 132,
+      "geo": [
+        35.331,
+        139.5173
+      ]
+    }
+  ],
+  "pointsLength": 151,
+  "imagesLength": 150,
+  "local_id": 530
+}

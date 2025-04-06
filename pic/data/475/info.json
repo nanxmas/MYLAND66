@@ -1,0 +1,124 @@
+{
+  "id": 176599,
+  "cn": "WWW.迷糊餐厅",
+  "title": "WWW.WORKING!!",
+  "city": "札幌市",
+  "cover": "https://image.xinu.ink/pic/data/475/images/176599.jpg",
+  "color": "#774329",
+  "cp": "WWW.WORKING!!",
+  "geo": [
+    43.03962411476746,
+    141.44539771842705
+  ],
+  "zoom": 9.407,
+  "modified": 1741448402654,
+  "litePoints": [
+    {
+      "id": "51i53ciqa",
+      "name": "藻岩山山頂",
+      "image": "https://image.anitabi.cn/points/176599/51i53ciqa_1728460496501.jpg?plan=h160",
+      "ep": 1,
+      "s": 8,
+      "geo": [
+        43.0222,
+        141.3222
+      ]
+    },
+    {
+      "id": "51i53cjim",
+      "name": "ワグナリア位置モデル",
+      "image": "https://image.anitabi.cn/points/176599/51i53cjim_1728460599665.jpg?plan=h160",
+      "ep": 1,
+      "s": 143,
+      "geo": [
+        43.0455,
+        141.3232
+      ]
+    },
+    {
+      "id": "51i53ciz0",
+      "name": "円山競技場付近",
+      "image": "https://image.anitabi.cn/points/176599/51i53ciz0_1728460999349.jpg?plan=h160",
+      "ep": 3,
+      "s": 1118,
+      "geo": [
+        43.0551,
+        141.3045
+      ]
+    },
+    {
+      "id": "oxc9xbyuo",
+      "name": "北海道神宮 二の鳥居",
+      "image": "https://image.anitabi.cn/points/176599/oxc9xbyuo_1728462774911.jpg?plan=h160",
+      "ep": 4,
+      "s": 611,
+      "geo": [
+        43.0568,
+        141.31
+      ]
+    },
+    {
+      "id": "51i53cjoi",
+      "name": "北海道神宮内",
+      "image": "https://image.anitabi.cn/points/176599/51i53cjoi_1728462789833.jpg?plan=h160",
+      "ep": 4,
+      "s": 817,
+      "geo": [
+        43.0544,
+        141.3078
+      ]
+    },
+    {
+      "id": "51i53cjbc",
+      "name": "西28丁目駅2番出入口",
+      "image": "https://image.anitabi.cn/points/176599/51i53cjbc_1728462228209.jpg?plan=h160",
+      "ep": 9,
+      "s": 755,
+      "geo": [
+        43.0617,
+        141.314
+      ]
+    },
+    {
+      "id": "51i53cji4",
+      "name": "三角山小",
+      "image": "https://image.anitabi.cn/points/176599/51i53cji4_1728463319311.jpg?plan=h160",
+      "ep": 10,
+      "s": 357,
+      "geo": [
+        43.0574,
+        141.2968
+      ]
+    },
+    {
+      "id": "51i53b4u0",
+      "name": "平岡公園待ち合わせ場所",
+      "image": "https://image.anitabi.cn/points/176599/51i53b4u0_1741446963048.jpg?plan=h160",
+      "geo": [
+        43.0039,
+        141.4609
+      ]
+    },
+    {
+      "id": "51i53b7hb",
+      "name": "JRタワー",
+      "image": "https://image.anitabi.cn/points/176599/51i53b7hb_1741447033512.jpg?plan=h160",
+      "geo": [
+        43.0667,
+        141.3513
+      ]
+    },
+    {
+      "id": "51i53b7py",
+      "name": "バスターミナル",
+      "image": "https://image.anitabi.cn/points/176599/51i53b7py_1741447065415.jpg?plan=h160",
+      "geo": [
+        43.0675,
+        141.3517
+      ]
+    }
+  ],
+  "pointsLength": 56,
+  "imagesLength": 50,
+  "local_id": 475
+}

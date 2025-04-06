@@ -1,0 +1,27 @@
+{
+  "id": 196074,
+  "title": "我和她的世界末日",
+  "city": "湖北省",
+  "cover": "https://image.xinu.ink/pic/data/498/images/196074.jpg",
+  "color": "#713955",
+  "geo": [
+    30.55615028346172,
+    114.3424593681899
+  ],
+  "zoom": 15.534,
+  "modified": 1720282521730,
+  "litePoints": [
+    {
+      "id": "k23mqowwu",
+      "name": "东湖路",
+      "image": "https://image.anitabi.cn/user/0/bangumi/196074/points/k23mqowwu-1714730577385.jpg?plan=h160",
+      "geo": [
+        30.5561,
+        114.3424
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 498
+}

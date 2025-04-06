@@ -1,0 +1,101 @@
+[
+  {
+    "id": "51i53sp1s",
+    "name": "成増駅前",
+    "image": "https://image.xinu.ink/pic/data/490/images/51i53sp1s_1672370570178.jpg",
+    "geo": [
+      35.7772,
+      139.6326
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1SrPs3rUkP9HlP49W8-FQ6mRwUaU&ll=35.777254%2C139.632612&z=17"
+  },
+  {
+    "id": "51i53sprr",
+    "name": "スキップ村看板",
+    "image": "https://image.xinu.ink/pic/data/490/images/51i53sprr_1672370571900.jpg",
+    "geo": [
+      35.7773,
+      139.6324
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1SrPs3rUkP9HlP49W8-FQ6mRwUaU&ll=35.777344%2C139.632498&z=17"
+  },
+  {
+    "id": "51i53spk4",
+    "name": "風夏衝突",
+    "image": "https://image.xinu.ink/pic/data/490/images/51i53spk4_1672370572913.jpg",
+    "geo": [
+      35.7776,
+      139.6298
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1SrPs3rUkP9HlP49W8-FQ6mRwUaU&ll=35.777611%2C139.629835&z=17"
+  },
+  {
+    "id": "51i53sp4u",
+    "name": "信号",
+    "image": "https://image.xinu.ink/pic/data/490/images/51i53sp4u_1672370574266.jpg",
+    "geo": [
+      35.7775,
+      139.6296
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1SrPs3rUkP9HlP49W8-FQ6mRwUaU&ll=35.777508%2C139.629651&z=17"
+  },
+  {
+    "id": "51i53sp80",
+    "name": "交差点",
+    "image": "https://image.xinu.ink/pic/data/490/images/51i53sp80_1672370576229.jpg",
+    "geo": [
+      35.7792,
+      139.6257
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1SrPs3rUkP9HlP49W8-FQ6mRwUaU&ll=35.779214%2C139.625775&z=17"
+  },
+  {
+    "id": "51i53sp3g",
+    "name": "254号線沿い",
+    "image": "https://image.xinu.ink/pic/data/490/images/51i53sp3g_1672370577516.jpg",
+    "geo": [
+      35.779,
+      139.6262
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1SrPs3rUkP9HlP49W8-FQ6mRwUaU&ll=35.779057%2C139.62621&z=17"
+  },
+  {
+    "id": "51i53spdf",
+    "name": "神社",
+    "image": "https://image.xinu.ink/pic/data/490/images/51i53spdf_1672370580633.jpg",
+    "geo": [
+      35.776,
+      139.6262
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1SrPs3rUkP9HlP49W8-FQ6mRwUaU&ll=35.776004%2C139.626226&z=17"
+  },
+  {
+    "id": "51i53spkc",
+    "name": "江ノ電乗り場",
+    "image": "https://image.xinu.ink/pic/data/490/images/51i53spkc_1672370584217.jpg",
+    "geo": [
+      35.337,
+      139.4871
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1SrPs3rUkP9HlP49W8-FQ6mRwUaU&ll=35.337072%2C139.487182&z=17"
+  },
+  {
+    "id": "51i53spmh",
+    "name": "砂浜",
+    "image": "https://image.xinu.ink/pic/data/490/images/51i53spmh_1672370585222.jpg",
+    "geo": [
+      35.3078,
+      139.4878
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1SrPs3rUkP9HlP49W8-FQ6mRwUaU&ll=35.307815%2C139.487888&z=17"
+  }
+]

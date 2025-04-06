@@ -1,0 +1,98 @@
+[
+  {
+    "id": "51i53n0zb",
+    "name": "時計台",
+    "image": "https://image.xinu.ink/pic/data/494/images/51i53n0zb_1672373565087.jpg",
+    "ep": 2,
+    "geo": [
+      35.3192,
+      139.5499
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1QcWLUTFN_WpB4vOjMoaPr6fh42c&ll=35.319209%2C139.549992&z=17"
+  },
+  {
+    "id": "51i53n1bq",
+    "name": "鎌倉駅西口の道路",
+    "image": "https://image.xinu.ink/pic/data/494/images/51i53n1bq_1672373566029.jpg",
+    "ep": 2,
+    "geo": [
+      35.3191,
+      139.5496
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1QcWLUTFN_WpB4vOjMoaPr6fh42c&ll=35.319135%2C139.549627&z=17"
+  },
+  {
+    "id": "51i53n1xx",
+    "name": "ステンドグラスDANSHAKU",
+    "image": "https://image.xinu.ink/pic/data/494/images/51i53n1xx_1672373566890.jpg",
+    "ep": 2,
+    "geo": [
+      35.3208,
+      139.5526
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1QcWLUTFN_WpB4vOjMoaPr6fh42c&ll=35.3208%2C139.552672&z=17"
+  },
+  {
+    "id": "51i53n1nf",
+    "name": "小町通り",
+    "image": "https://image.xinu.ink/pic/data/494/images/51i53n1nf_1672373585677.jpg",
+    "ep": 2,
+    "geo": [
+      35.321,
+      139.552
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1QcWLUTFN_WpB4vOjMoaPr6fh42c&ll=35.321037%2C139.552071&z=17"
+  },
+  {
+    "id": "51i53n1to",
+    "name": "極楽寺駅",
+    "image": "https://image.xinu.ink/pic/data/494/images/51i53n1to_1672373597089.jpg",
+    "ep": 3,
+    "geo": [
+      35.3093,
+      139.5289
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1QcWLUTFN_WpB4vOjMoaPr6fh42c&ll=35.309386%2C139.528966&z=17"
+  },
+  {
+    "id": "51i53n1wx",
+    "name": "鎌倉高校前踏切",
+    "image": "https://image.xinu.ink/pic/data/494/images/51i53n1wx_1672373598764.jpg",
+    "ep": 3,
+    "geo": [
+      35.3066,
+      139.5021
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1QcWLUTFN_WpB4vOjMoaPr6fh42c&ll=35.30667%2C139.502107&z=17"
+  },
+  {
+    "id": "51i53n2s0",
+    "name": "北鎌倉駅前信号",
+    "image": "https://image.xinu.ink/pic/data/494/images/51i53n2s0_1672373599648.jpg",
+    "ep": 7,
+    "geo": [
+      35.337,
+      139.5449
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1QcWLUTFN_WpB4vOjMoaPr6fh42c&ll=35.337009%2C139.544966&z=17"
+  },
+  {
+    "id": "51i53n2p3",
+    "name": "北鎌倉駅前道路",
+    "image": "https://image.xinu.ink/pic/data/494/images/51i53n2p3_1672373600925.jpg",
+    "ep": 7,
+    "geo": [
+      35.3374,
+      139.5445
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1QcWLUTFN_WpB4vOjMoaPr6fh42c&ll=35.337438%2C139.54452&z=17"
+  }
+]

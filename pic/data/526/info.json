@@ -1,0 +1,31 @@
+{
+  "id": 211089,
+  "cn": "剧场版 吹响吧！上低音号～想要传达的旋律～",
+  "title": "劇場版 響け！ユーフォニアム～届けたいメロディ～",
+  "city": "宇治市",
+  "cover": "https://image.xinu.ink/pic/data/526/images/211089.jpg",
+  "color": "#71c6e3",
+  "cp": "『響け！』",
+  "geo": [
+    34.89929100000009,
+    135.8023160000057
+  ],
+  "zoom": 15.998,
+  "modified": 1716774629058,
+  "litePoints": [
+    {
+      "id": "jyq9lfxe3",
+      "cn": "水管桥",
+      "name": "水管橋",
+      "image": "https://image.anitabi.cn/points/211089/jyq9lfxe3_1714465899645.jpg?plan=h160",
+      "s": 755,
+      "geo": [
+        34.8992,
+        135.8023
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 526
+}

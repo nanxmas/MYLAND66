@@ -1,0 +1,93 @@
+[
+  {
+    "id": "51i53obln",
+    "name": "浜松城公園（天守曲輪）",
+    "image": "https://image.xinu.ink/pic/data/489/images/51i53obln_1672368046826.jpg",
+    "ep": 1,
+    "s": 60,
+    "geo": [
+      34.7111,
+      137.7258
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OPO0Fbly7mLxN31ml73Pb4hRk9I&ll=34.711145%2C137.725859&z=17"
+  },
+  {
+    "id": "51i53obm6",
+    "name": "浜松駅北口（浜松駅ビル メイワン）",
+    "image": "https://image.xinu.ink/pic/data/489/images/51i53obm6_1672368048076.jpg",
+    "ep": 1,
+    "s": 857,
+    "geo": [
+      34.7041,
+      137.7339
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OPO0Fbly7mLxN31ml73Pb4hRk9I&ll=34.704164%2C137.733941&z=17"
+  },
+  {
+    "id": "51i53obqj",
+    "name": "弁天島駅ホーム（1番線）",
+    "image": "https://image.xinu.ink/pic/data/489/images/51i53obqj_1672368049629.jpg",
+    "ep": 4,
+    "s": 475,
+    "geo": [
+      34.6901,
+      137.603
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OPO0Fbly7mLxN31ml73Pb4hRk9I&ll=34.690114%2C137.603095&z=17"
+  },
+  {
+    "id": "51i53od2i",
+    "name": "弁天島駅前観光総合案内所",
+    "image": "https://image.xinu.ink/pic/data/489/images/51i53od2i_1672368050943.jpg",
+    "ep": 1,
+    "s": 857,
+    "geo": [
+      34.6899,
+      137.6029
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OPO0Fbly7mLxN31ml73Pb4hRk9I&ll=34.689955%2C137.602966&z=17"
+  },
+  {
+    "id": "51i53ocm7",
+    "name": "弁天島駅前",
+    "image": "https://image.xinu.ink/pic/data/489/images/51i53ocm7_1672368052420.jpg",
+    "ep": 4,
+    "s": 875,
+    "geo": [
+      34.6899,
+      137.6031
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OPO0Fbly7mLxN31ml73Pb4hRk9I&ll=34.689914%2C137.603115&z=17"
+  },
+  {
+    "id": "51i53ocfe",
+    "name": "弁天島海浜公園（弁天島海水浴場・西側）",
+    "image": "https://image.xinu.ink/pic/data/489/images/51i53ocfe_1672368056371.jpg",
+    "ep": 4,
+    "s": 538,
+    "geo": [
+      34.6898,
+      137.6007
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OPO0Fbly7mLxN31ml73Pb4hRk9I&ll=34.689858%2C137.600718&z=17"
+  },
+  {
+    "id": "51i53od25",
+    "name": "弁天島海浜公園（大鳥居・シンボルタワー）",
+    "image": "https://image.xinu.ink/pic/data/489/images/51i53od25_1672368057916.jpg",
+    "ep": 1,
+    "s": 63,
+    "geo": [
+      34.6894,
+      137.6015
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OPO0Fbly7mLxN31ml73Pb4hRk9I&ll=34.689466%2C137.601539&z=17"
+  }
+]
