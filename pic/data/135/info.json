@@ -1,0 +1,114 @@
+{
+  "id": 4235,
+  "cn": "神是中学生",
+  "title": "かみちゅ!",
+  "city": "尾道市",
+  "cover": "https://image.xinu.ink/pic/data/135/images/4235.jpg",
+  "color": "#808080",
+  "geo": [
+    34.405493,
+    133.197899
+  ],
+  "zoom": 14,
+  "modified": 1730828970922,
+  "litePoints": [
+    {
+      "id": "5gthjtlzv",
+      "cn": "国会议事堂",
+      "name": "国会議事堂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/4235/points/5gthjtlzv-1673566845307.jpg?plan=h160",
+      "ep": 4,
+      "s": 900,
+      "geo": [
+        35.6757,
+        139.7465
+      ]
+    },
+    {
+      "id": "5oyrt5zsv",
+      "name": "福本渡船乗り場",
+      "image": "https://image.anitabi.cn/user/1012/bangumi/4235/points/5oyrt5zsv-1674205390143.jpg?plan=h160",
+      "ep": 6,
+      "s": 84,
+      "geo": [
+        34.4023,
+        133.1965
+      ]
+    },
+    {
+      "id": "kpx6oor9h",
+      "name": "JR福山駅南口",
+      "image": "https://image.anitabi.cn/points/4235/kpx6oor9h_1730828208173.jpg?plan=h160",
+      "geo": [
+        34.489,
+        133.362
+      ]
+    },
+    {
+      "id": "prj9905lh",
+      "name": "福山駅南口",
+      "image": "https://image.anitabi.cn/points/4235/prj9905lh_1730828758876.jpg?plan=h160",
+      "geo": [
+        34.488,
+        133.3626
+      ]
+    },
+    {
+      "id": "kpx6oorvt",
+      "name": "駅南口ケンタッキー、セブンイレブン付近",
+      "image": "https://image.anitabi.cn/points/4235/kpx6oorvt_1730828690107.jpg?plan=h160",
+      "geo": [
+        34.4879,
+        133.3616
+      ]
+    },
+    {
+      "id": "prixdtxcl",
+      "name": "JR福山駅8番ホーム",
+      "image": "https://image.anitabi.cn/points/4235/prixdtxcl_1730828061156.jpg?plan=h160",
+      "geo": [
+        34.4895,
+        133.3621
+      ]
+    },
+    {
+      "id": "kpx6ooqvl",
+      "name": "COFFEE HOUSE IVY",
+      "image": "https://image.anitabi.cn/points/4235/kpx6ooqvl_1730828093132.jpg?plan=h160",
+      "geo": [
+        34.4891,
+        133.3636
+      ]
+    },
+    {
+      "id": "kpx6oorvk",
+      "name": "福山城",
+      "image": "https://image.anitabi.cn/points/4235/kpx6oorvk_1730828154300.jpg?plan=h160",
+      "geo": [
+        34.4908,
+        133.361
+      ]
+    },
+    {
+      "id": "kpx6oosc7",
+      "name": "福山城遊具",
+      "image": "https://image.anitabi.cn/points/4235/kpx6oosc7_1730828165244.jpg?plan=h160",
+      "geo": [
+        34.4906,
+        133.3623
+      ]
+    },
+    {
+      "id": "kpx6oosuu",
+      "name": "宇迦橋大鳥居",
+      "image": "https://image.anitabi.cn/points/4235/kpx6oosuu_1730616900377.jpg?plan=h160",
+      "geo": [
+        35.3911,
+        132.6873
+      ]
+    }
+  ],
+  "pointsLength": 41,
+  "imagesLength": 16,
+  "local_id": 135
+}

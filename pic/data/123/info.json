@@ -1,0 +1,113 @@
+{
+  "id": 3375,
+  "cn": "凉宫春日的消失",
+  "title": "涼宮ハルヒの消失",
+  "city": "西宫市",
+  "cover": "https://image.xinu.ink/pic/data/123/images/3375.jpg",
+  "color": "#475c63",
+  "cp": "SOS団",
+  "geo": [
+    34.73400646758532,
+    135.30805381387324
+  ],
+  "zoom": 11.275,
+  "modified": 1740752153633,
+  "litePoints": [
+    {
+      "id": "kpx6on3wb",
+      "name": "甲陽園駅付近（Ａ）",
+      "image": "https://image.anitabi.cn/points/3375/kpx6on3wb_1726131545539.jpg?plan=h160",
+      "ep": 1,
+      "s": 20,
+      "geo": [
+        34.7606,
+        135.3299
+      ]
+    },
+    {
+      "id": "kpx6omzxn",
+      "cn": "西宫北高",
+      "name": "西宮北高校",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3375/points/kpx6omzxn-1720875068345.jpg?plan=h160",
+      "geo": [
+        34.7617,
+        135.3128
+      ]
+    },
+    {
+      "id": "kpx6on03s",
+      "name": "甲陽園南シティハウス（長門のマンション）",
+      "image": "https://image.anitabi.cn/points/3375/kpx6on03s_1740752026497.jpg?plan=h160",
+      "geo": [
+        34.7588,
+        135.3318
+      ]
+    },
+    {
+      "id": "kpx6omzpt",
+      "name": "アスカハイツ",
+      "image": "https://image.anitabi.cn/points/3375/kpx6omzpt_1726131964146.jpg?plan=h160",
+      "geo": [
+        34.7603,
+        135.3253
+      ]
+    },
+    {
+      "id": "kpx6on03u",
+      "name": "「夙川短大前」バス停",
+      "image": "https://image.anitabi.cn/points/3375/kpx6on03u_1726131961426.jpg?plan=h160",
+      "geo": [
+        34.7605,
+        135.3237
+      ]
+    },
+    {
+      "id": "kpx6on0yf",
+      "name": "夙川学院短期大学入口",
+      "image": "https://image.anitabi.cn/points/3375/kpx6on0yf_1726131958924.jpg?plan=h160",
+      "geo": [
+        34.7605,
+        135.3232
+      ]
+    },
+    {
+      "id": "kpx6on0ec",
+      "name": "「夙川」が表示されている橋",
+      "image": "https://image.anitabi.cn/points/3375/kpx6on0ec_1726131526236.jpg?plan=h160",
+      "geo": [
+        34.7616,
+        135.3175
+      ]
+    },
+    {
+      "id": "kpx6on0is",
+      "name": "苦楽園四番町",
+      "image": "https://image.anitabi.cn/points/3375/kpx6on0is_1726131948626.jpg?plan=h160",
+      "geo": [
+        34.7594,
+        135.3071
+      ]
+    },
+    {
+      "id": "kpx6on16g",
+      "name": "西宮北高校食堂口",
+      "image": "https://image.anitabi.cn/points/3375/kpx6on16g_1726131945137.jpg?plan=h160",
+      "geo": [
+        34.7618,
+        135.3133
+      ]
+    },
+    {
+      "id": "kpx6on16j",
+      "name": "ファミリーマートの場所",
+      "image": "https://image.anitabi.cn/points/3375/kpx6on16j_1726131936166.jpg?plan=h160",
+      "geo": [
+        34.7606,
+        135.3246
+      ]
+    }
+  ],
+  "pointsLength": 64,
+  "imagesLength": 64,
+  "local_id": 123
+}

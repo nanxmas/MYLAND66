@@ -1,0 +1,53 @@
+{
+  "id": 2976,
+  "cn": "名侦探柯南 侦探们的镇魂歌",
+  "title": "名探偵コナン 探偵たちの鎮魂歌",
+  "city": "横滨市",
+  "cover": "https://image.xinu.ink/pic/data/111/images/2976.jpg",
+  "color": "#80552a",
+  "cp": "名探偵コナン",
+  "geo": [
+    35.38785270390946,
+    139.63793568513773
+  ],
+  "zoom": 10.668,
+  "modified": 1725441350050,
+  "litePoints": [
+    {
+      "id": "nu38kxis1",
+      "cn": "横滨八景岛海岛乐园",
+      "name": "八景島シーパラダイス",
+      "image": "https://image.anitabi.cn/user/2104/bangumi/2976/points/nu38kxis1-1725386785664.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.3349,
+        139.6436
+      ]
+    },
+    {
+      "id": "nu3bct04x",
+      "cn": "神奈川县警察总部",
+      "name": "神奈川県​警察​本部",
+      "image": "https://image.anitabi.cn/user/2104/bangumi/2976/points/nu3bct04x-1725386910896.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.4497,
+        139.6409
+      ]
+    },
+    {
+      "id": "nu3fzvk71",
+      "cn": "横滨本町四丁目马车道",
+      "name": "本町四丁目",
+      "image": "https://image.anitabi.cn/user/2104/bangumi/2976/points/nu3fzvk71-1725387204758.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.4496,
+        139.6372
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 111
+}

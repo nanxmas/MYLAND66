@@ -1,0 +1,91 @@
+{
+  "id": 2974,
+  "cn": "名侦探柯南 银翼的魔术师",
+  "title": "名探偵コナン 銀翼の奇術師",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/110/images/2974.jpg",
+  "color": "#e81e17",
+  "geo": [
+    42.32396368649913,
+    140.92922469347002
+  ],
+  "zoom": 8.564,
+  "modified": 1727512454485,
+  "litePoints": [
+    {
+      "id": "jp04vw6xk",
+      "cn": "白鸟大桥",
+      "name": "白鳥大橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2974/points/jp04vw6xk-1717156475214.jpg?plan=h160",
+      "ep": 1,
+      "s": 7720,
+      "geo": [
+        42.3529,
+        140.9502
+      ]
+    },
+    {
+      "id": "jp00dwc2u",
+      "cn": "崎守码头",
+      "name": "崎守埠頭",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2974/points/jp00dwc2u-1717157191478.jpg?plan=h160",
+      "ep": 1,
+      "s": 8728,
+      "geo": [
+        42.366,
+        140.9304
+      ]
+    },
+    {
+      "id": "jp08q13t5",
+      "cn": "函馆机场",
+      "name": "函館​空港",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2974/points/jp08q13t5-1717156178533.jpg?plan=h160",
+      "ep": 1,
+      "s": 7135,
+      "geo": [
+        41.7704,
+        140.8216
+      ]
+    },
+    {
+      "id": "kx1hn4314",
+      "cn": "东京羽田国际机场",
+      "name": "東京​羽田​国際​空港",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2974/points/kx1hn4314-1717154712271.jpg?plan=h160",
+      "ep": 1,
+      "s": 2135,
+      "geo": [
+        35.5486,
+        139.7833
+      ]
+    },
+    {
+      "id": "kx1l2jbvy",
+      "cn": "羽田机场34R跑道头",
+      "name": "東京国際空港34R",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2974/points/kx1l2jbvy-1717154985410.jpg?plan=h160",
+      "ep": 1,
+      "s": 2772,
+      "geo": [
+        35.5401,
+        139.8047
+      ]
+    },
+    {
+      "id": "kx1xq79fg",
+      "cn": "函馆机场塔台",
+      "name": "国土​交通省​東京​航空​局​函館​空港​事務所",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2974/points/kx1xq79fg-1717155674836.jpg?plan=h160",
+      "ep": 1,
+      "s": 7117,
+      "geo": [
+        41.775,
+        140.8173
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 110
+}

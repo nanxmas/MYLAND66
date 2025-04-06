@@ -1,0 +1,168 @@
+[
+  {
+    "id": "5gthjtlzv",
+    "cn": "国会议事堂",
+    "name": "国会議事堂",
+    "image": "https://image.xinu.ink/pic/data/135/images/5gthjtlzv-1673566845307.jpg",
+    "ep": 4,
+    "s": 900,
+    "geo": [
+      35.6757,
+      139.7465
+    ]
+  },
+  {
+    "id": "5oyrt5zsv",
+    "name": "福本渡船乗り場",
+    "image": "https://image.xinu.ink/pic/data/135/images/5oyrt5zsv-1674205390143.jpg",
+    "ep": 6,
+    "s": 84,
+    "geo": [
+      34.4023,
+      133.1965
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.402375%2C133.196563&z=17"
+  },
+  {
+    "id": "kpx6oor9h",
+    "name": "JR福山駅南口",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6oor9h_1730828208173.jpg",
+    "geo": [
+      34.489,
+      133.362
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.489001%2C133.36208&z=17"
+  },
+  {
+    "id": "prj9905lh",
+    "name": "福山駅南口",
+    "image": "https://image.xinu.ink/pic/data/135/images/prj9905lh_1730828758876.jpg",
+    "geo": [
+      34.488,
+      133.3626
+    ]
+  },
+  {
+    "id": "kpx6oorvt",
+    "name": "駅南口ケンタッキー、セブンイレブン付近",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6oorvt_1730828690107.jpg",
+    "geo": [
+      34.4879,
+      133.3616
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.487919%2C133.361658&z=17"
+  },
+  {
+    "id": "prixdtxcl",
+    "name": "JR福山駅8番ホーム",
+    "image": "https://image.xinu.ink/pic/data/135/images/prixdtxcl_1730828061156.jpg",
+    "geo": [
+      34.4895,
+      133.3621
+    ]
+  },
+  {
+    "id": "kpx6ooqvl",
+    "name": "COFFEE HOUSE IVY",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6ooqvl_1730828093132.jpg",
+    "geo": [
+      34.4891,
+      133.3636
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.489199%2C133.363684&z=17"
+  },
+  {
+    "id": "kpx6oorvk",
+    "name": "福山城",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6oorvk_1730828154300.jpg",
+    "geo": [
+      34.4908,
+      133.361
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.49084%2C133.361046&z=17"
+  },
+  {
+    "id": "kpx6oosc7",
+    "name": "福山城遊具",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6oosc7_1730828165244.jpg",
+    "geo": [
+      34.4906,
+      133.3623
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.490698%2C133.362307&z=17"
+  },
+  {
+    "id": "kpx6oosuu",
+    "name": "宇迦橋大鳥居",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6oosuu_1730616900377.jpg",
+    "geo": [
+      35.3911,
+      132.6873
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=35.391169%2C132.687377&z=17"
+  },
+  {
+    "id": "kpx6ootk4",
+    "name": "出雲大社前駅",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6ootk4_1730616872586.jpg",
+    "geo": [
+      35.3934,
+      132.6869
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=35.393485%2C132.68698&z=17"
+  },
+  {
+    "id": "potza0xpf",
+    "name": "出雲大社参道",
+    "image": "https://image.xinu.ink/pic/data/135/images/potza0xpf_1730617036754.jpg",
+    "geo": [
+      35.3985,
+      132.686
+    ]
+  },
+  {
+    "id": "kpx6ootne",
+    "name": "出雲大社",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6ootne_1730616937298.jpg",
+    "geo": [
+      35.4014,
+      132.6855
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=35.40147%2C132.685543&z=17"
+  },
+  {
+    "id": "5oyz6qqz1",
+    "name": "土堂小学校",
+    "image": "https://image.xinu.ink/pic/data/135/images/5oyz6qqz1-1674205822824.jpg",
+    "ep": null,
+    "s": 156,
+    "geo": [
+      34.4065,
+      133.1948
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.406544%2C133.194886&z=17"
+  },
+  {
+    "id": "5oynrsvgb",
+    "name": "福本渡船フェリー乗り場",
+    "image": "https://image.xinu.ink/pic/data/135/images/5oynrsvgb-1674205174914.jpg",
+    "ep": null,
+    "s": 166,
+    "geo": [
+      34.4051,
+      133.1966
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.405172%2C133.196643&z=17"
+  }
+]

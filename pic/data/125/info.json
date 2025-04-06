@@ -1,0 +1,119 @@
+{
+  "id": 3477,
+  "cn": "空之音",
+  "title": "ソ・ラ・ノ・ヲ・ト",
+  "city": "欧洲",
+  "cover": "https://image.xinu.ink/pic/data/125/images/3477.jpg",
+  "color": "#636347",
+  "geo": [
+    40.076101,
+    -2.139115
+  ],
+  "zoom": 15,
+  "modified": 1726751632592,
+  "litePoints": [
+    {
+      "id": "4ui7g7swd",
+      "name": "第01話 水かけ祭（雑踏）",
+      "image": "https://image.anitabi.cn/user/1007/bangumi/3477/points/4ui7g7swd-1716305660948.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        40.078,
+        -2.1284
+      ]
+    },
+    {
+      "id": "4ui7g7snb",
+      "name": "第01話 水かけ祭「カナタ」",
+      "image": "https://image.anitabi.cn/points/3477/4ui7g7snb_1716306444454.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        40.0785,
+        -2.1298
+      ]
+    },
+    {
+      "id": "4ui7g7sd7",
+      "name": "第01話 宙吊りの家（カナタの入浴）",
+      "image": "https://image.anitabi.cn/points/3477/4ui7g7sd7_1716306581059.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        40.0783,
+        -2.1279
+      ]
+    },
+    {
+      "id": "4ui7g7suv",
+      "name": "第01話 到着を待つクレハ",
+      "image": "https://image.anitabi.cn/points/3477/4ui7g7suv_1716306618219.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        40.0783,
+        -2.1277
+      ]
+    },
+    {
+      "id": "4ui7g7ssb",
+      "name": "第01話 バルコニーに出るカナタ",
+      "image": "https://image.anitabi.cn/points/3477/4ui7g7ssb_1716306737081.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        40.0781,
+        -2.1284
+      ]
+    },
+    {
+      "id": "4ui7g7swp",
+      "name": "第01話 再び歩き出すカナタ",
+      "image": "https://image.anitabi.cn/points/3477/4ui7g7swp_1716306791838.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        40.0813,
+        -2.1283
+      ]
+    },
+    {
+      "id": "4ui7g7syy",
+      "name": "第01話 セーズの門",
+      "image": "https://image.anitabi.cn/points/3477/4ui7g7syy_1716306818301.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        40.0817,
+        -2.127
+      ]
+    },
+    {
+      "id": "4ui7g7sph",
+      "name": "炎の乙女像",
+      "image": "https://image.anitabi.cn/points/3477/4ui7g7sph_1716306852939.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        40.0802,
+        -2.129
+      ]
+    },
+    {
+      "id": "4ui7g7s82",
+      "name": "第01話 水かけ祭「リオ」",
+      "image": "https://image.anitabi.cn/points/3477/4ui7g7s82_1716306975312.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        40.0817,
+        -2.1285
+      ]
+    },
+    {
+      "id": "4ui7g7sdn",
+      "name": "時告げ砦（塔）",
+      "image": "https://image.anitabi.cn/points/3477/4ui7g7sdn_1716307207729.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        40.0769,
+        -2.1315
+      ]
+    }
+  ],
+  "pointsLength": 26,
+  "imagesLength": 24,
+  "local_id": 125
+}

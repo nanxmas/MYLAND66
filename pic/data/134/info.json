@@ -1,0 +1,109 @@
+{
+  "id": 4214,
+  "cn": "圣母在上",
+  "title": "マリア様がみてる",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/134/images/4214.jpg",
+  "color": "#ee00ff",
+  "geo": [
+    35.73432080860252,
+    139.99312665368143
+  ],
+  "zoom": 7.504,
+  "modified": 1734864719210,
+  "litePoints": [
+    {
+      "id": "iz9gx4rat",
+      "name": "日本獣医生命科学大学",
+      "image": "https://image.anitabi.cn/points/4214/iz9gx4rat_1734545622573.jpg?plan=h160",
+      "geo": [
+        35.7019,
+        139.5464
+      ]
+    },
+    {
+      "id": "iz9gx4rgi",
+      "name": "日本獣医生命科学大学内",
+      "image": "https://image.anitabi.cn/points/4214/iz9gx4rgi_1734545628725.jpg?plan=h160",
+      "geo": [
+        35.7018,
+        139.5465
+      ]
+    },
+    {
+      "id": "iz9gx4rbx",
+      "name": "吉祥寺北口付近",
+      "image": "https://image.anitabi.cn/user/0/bangumi/4214/points/iz9gx4rbx-1724790974652.jpg?plan=h160",
+      "geo": [
+        35.7037,
+        139.5808
+      ]
+    },
+    {
+      "id": "iz9gx4r9c",
+      "name": "吉祥寺駅アトレ本館口（西口）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/4214/points/iz9gx4r9c-1724791221990.jpg?plan=h160",
+      "geo": [
+        35.7031,
+        139.5797
+      ]
+    },
+    {
+      "id": "iz9gx4r7v",
+      "name": "吉祥寺パルコ付近 12話 1",
+      "image": "https://image.anitabi.cn/points/4214/iz9gx4r7v_1734544554707.jpg?plan=h160",
+      "geo": [
+        35.7033,
+        139.5783
+      ]
+    },
+    {
+      "id": "iz9gx4qv2",
+      "name": "吉祥寺パルコ付近 12話 2",
+      "image": "https://image.anitabi.cn/points/4214/iz9gx4qv2_1734544623763.jpg?plan=h160",
+      "geo": [
+        35.7034,
+        139.578
+      ]
+    },
+    {
+      "id": "iz9gx4r3p",
+      "name": "京王吉祥寺駅ビル付近 12話 1",
+      "image": "https://image.anitabi.cn/points/4214/iz9gx4r3p_1734544736290.jpg?plan=h160",
+      "geo": [
+        35.7029,
+        139.5805
+      ]
+    },
+    {
+      "id": "iz9gx4rc2",
+      "name": "京王吉祥寺駅ビル付近 12話 2",
+      "image": "https://image.anitabi.cn/points/4214/iz9gx4rc2_1734544764970.jpg?plan=h160",
+      "geo": [
+        35.7028,
+        139.5808
+      ]
+    },
+    {
+      "id": "iz9gx4qv3",
+      "name": "井の頭恩賜公園",
+      "image": "https://image.anitabi.cn/points/4214/iz9gx4qv3_1734544860363.jpg?plan=h160",
+      "geo": [
+        35.6993,
+        139.5787
+      ]
+    },
+    {
+      "id": "iz9gx4r3o",
+      "name": "井の頭恩賜公園ベンチ",
+      "image": "https://image.anitabi.cn/points/4214/iz9gx4r3o_1734544874907.jpg?plan=h160",
+      "geo": [
+        35.6994,
+        139.5787
+      ]
+    }
+  ],
+  "pointsLength": 93,
+  "imagesLength": 66,
+  "local_id": 134
+}

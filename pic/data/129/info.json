@@ -1,0 +1,130 @@
+{
+  "id": 4019,
+  "cn": "四叠半神话大系",
+  "title": "四畳半神話大系",
+  "city": "京都市",
+  "cover": "https://image.xinu.ink/pic/data/129/images/4019.jpg",
+  "color": "#ffd5aa",
+  "geo": [
+    35.016923,
+    135.771275
+  ],
+  "zoom": 13,
+  "modified": 1738376249158,
+  "litePoints": [
+    {
+      "id": "kpx6ono3v",
+      "name": "京都大学",
+      "image": "https://image.anitabi.cn/user/0/bangumi/4019/points/kpx6ono3v-1720376129491.jpg?plan=h160",
+      "ep": 2,
+      "s": 33,
+      "geo": [
+        35.028,
+        135.7795
+      ]
+    },
+    {
+      "id": "kpx6ono7w",
+      "name": "猫ラーメン",
+      "image": "https://image.anitabi.cn/user/0/bangumi/4019/points/kpx6ono7w-1720375216432.jpg?plan=h160",
+      "ep": 1,
+      "s": 15,
+      "geo": [
+        35.0301,
+        135.7705
+      ]
+    },
+    {
+      "id": "kpx6onoi7",
+      "cn": "下鸭神社",
+      "name": "下鴨神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/4019/points/kpx6onoi7-1738337194526.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.0367,
+        135.7726
+      ]
+    },
+    {
+      "id": "kpx6onq3f",
+      "name": "鴨川デルタ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/4019/points/kpx6onq3f-1720377435690.jpg?plan=h160",
+      "ep": 1,
+      "s": 479,
+      "geo": [
+        35.0298,
+        135.7717
+      ]
+    },
+    {
+      "id": "m2jqldrzq",
+      "cn": "大元宫",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/4019/m2jqldrzq_1720407376037.jpg?plan=h160",
+      "ep": 2,
+      "s": 1192,
+      "geo": [
+        35.0235,
+        135.7848
+      ]
+    },
+    {
+      "id": "m25vulsef",
+      "name": "下鸭幽水庄",
+      "image": "https://image.anitabi.cn/user/0/bangumi/4019/points/m25vulsef-1720377293242.jpg?plan=h160",
+      "ep": 7,
+      "s": 54,
+      "geo": [
+        35.0224,
+        135.7799
+      ]
+    },
+    {
+      "id": "m26furnxs",
+      "name": "河合神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/4019/points/m26furnxs-1720378413540.jpg?plan=h160",
+      "ep": 1,
+      "s": 1002,
+      "geo": [
+        35.0347,
+        135.7728
+      ]
+    },
+    {
+      "id": "m2675czl6",
+      "name": "占卜",
+      "image": "https://image.anitabi.cn/user/0/bangumi/4019/points/m2675czl6-1720377919896.jpg?plan=h160",
+      "ep": 2,
+      "s": 111,
+      "geo": [
+        35.0046,
+        135.7705
+      ]
+    },
+    {
+      "id": "m27d1fb4a",
+      "name": "锦市场",
+      "image": "https://image.anitabi.cn/user/0/bangumi/4019/points/m27d1fb4a-1720380493210.jpg?plan=h160",
+      "ep": 4,
+      "s": 614,
+      "geo": [
+        35.0049,
+        135.7646
+      ]
+    },
+    {
+      "id": "m2841cqqa",
+      "name": "福猫饭店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/4019/points/m2841cqqa-1720382050820.jpg?plan=h160",
+      "ep": 9,
+      "s": 209,
+      "geo": [
+        35.0049,
+        135.7703
+      ]
+    }
+  ],
+  "pointsLength": 39,
+  "imagesLength": 13,
+  "local_id": 129
+}

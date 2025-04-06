@@ -1,0 +1,130 @@
+{
+  "id": 3774,
+  "cn": "轻音少女 二期",
+  "title": "けいおん!!",
+  "city": "京都府",
+  "cover": "https://image.xinu.ink/pic/data/128/images/3774.jpg",
+  "color": "#2a802a",
+  "cp": "桜高軽音部",
+  "geo": [
+    34.88916030449715,
+    135.80883197868047
+  ],
+  "zoom": 11.91,
+  "modified": 1742411587471,
+  "litePoints": [
+    {
+      "id": "oii997w3u",
+      "name": "JR宇治駅",
+      "image": "https://image.anitabi.cn/points/1424/4yfz2oewz.jpg?plan=h160",
+      "ep": 12,
+      "s": 300,
+      "geo": [
+        34.8898,
+        135.8011
+      ]
+    },
+    {
+      "id": "25idmej",
+      "name": "2期3話Bパート1#2",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1424/points/25idmej-1729325159839.jpg?plan=h160",
+      "ep": 3,
+      "s": 1067,
+      "geo": [
+        35.0385,
+        135.7918
+      ]
+    },
+    {
+      "id": "25idmgm",
+      "name": "2期3話Bパート2#2",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1424/points/25idmgm-1729324966035.jpg?plan=h160",
+      "ep": 3,
+      "s": 1079,
+      "geo": [
+        35.0376,
+        135.7918
+      ]
+    },
+    {
+      "id": "25idmcs",
+      "name": "松ヶ崎橋",
+      "image": "https://image.anitabi.cn/points/1424/25idmcs.jpg?plan=h160",
+      "ep": 53,
+      "s": 735,
+      "geo": [
+        35.0513,
+        135.7891
+      ]
+    },
+    {
+      "id": "25idmc1",
+      "name": "22話冒頭の標識",
+      "image": "https://image.anitabi.cn/points/1424/25idmc1.jpg?plan=h160",
+      "ep": 22,
+      "s": 386,
+      "geo": [
+        35.0515,
+        135.7887
+      ]
+    },
+    {
+      "id": "25idmci",
+      "name": "22話冒頭の民家#2",
+      "image": "https://image.anitabi.cn/points/1424/25idmci.jpg?plan=h160",
+      "ep": 22,
+      "s": 388,
+      "geo": [
+        35.0522,
+        135.7859
+      ]
+    },
+    {
+      "id": "25idmfs",
+      "name": "証明写真#2",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1424/points/25idmfs-1720635328894.jpg?plan=h160",
+      "ep": 27,
+      "s": 794,
+      "geo": [
+        35.042,
+        135.7919
+      ]
+    },
+    {
+      "id": "25idmd1",
+      "name": "修学院駅出町柳方面ホーム#2",
+      "image": "https://image.anitabi.cn/points/1424/25idmd1.jpg?plan=h160",
+      "ep": 14,
+      "s": 1253,
+      "geo": [
+        35.0503,
+        135.7905
+      ]
+    },
+    {
+      "id": "25idmd4",
+      "name": "修学院駅前#2",
+      "image": "https://image.anitabi.cn/points/1424/25idmd4.jpg?plan=h160",
+      "ep": 3,
+      "s": 130,
+      "geo": [
+        35.0504,
+        135.7906
+      ]
+    },
+    {
+      "id": "25idmel",
+      "name": "セブンイレブン前#2",
+      "image": "https://image.anitabi.cn/points/1424/25idmel.jpg?plan=h160",
+      "ep": 4,
+      "s": 410,
+      "geo": [
+        35.0502,
+        135.7909
+      ]
+    }
+  ],
+  "pointsLength": 197,
+  "imagesLength": 191,
+  "local_id": 128
+}

@@ -1,0 +1,138 @@
+{
+  "id": 3130,
+  "cn": "数码宝贝驯兽师之王",
+  "title": "デジモンテイマーズ",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/116/images/3130.jpg",
+  "color": "#ce5130",
+  "geo": [
+    35.868614175549666,
+    138.98812661200265
+  ],
+  "zoom": 6.558,
+  "modified": 1726751905093,
+  "litePoints": [
+    {
+      "id": "4ytv9yjqm",
+      "cn": "新宿中央公园大桥",
+      "name": "新宿中央公園大橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3130/points/4ytv9yjqm.jpg?plan=h160",
+      "ep": 2,
+      "s": 399,
+      "geo": [
+        35.6884,
+        139.69
+      ]
+    },
+    {
+      "id": "4ytamtmz7",
+      "cn": "东京都议会议事堂",
+      "name": "東京都議会議事堂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3130/points/4ytamtmz7.jpg?plan=h160",
+      "ep": 3,
+      "s": 969,
+      "geo": [
+        35.6898,
+        139.6926
+      ]
+    },
+    {
+      "id": "4yumyfd6j",
+      "cn": "松本站",
+      "name": "松本駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3130/points/4yumyfd6j.jpg?plan=h160",
+      "ep": 41,
+      "s": 1209,
+      "geo": [
+        36.231,
+        137.965
+      ]
+    },
+    {
+      "id": "4yt9b9gjl",
+      "cn": "东京歌剧城",
+      "name": "東京オペラシティ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3130/points/4yt9b9gjl.jpg?plan=h160",
+      "ep": 47,
+      "s": 275,
+      "geo": [
+        35.6828,
+        139.6862
+      ]
+    },
+    {
+      "id": "5o0i216sc",
+      "cn": "YokohamaGrand​洲际酒店",
+      "name": "ヨコハマ​グランド\nインターコンチネンタル​ホテル",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3130/points/5o0i216sc-1674131486483.jpg?plan=h160",
+      "ep": 50,
+      "s": 184,
+      "geo": [
+        35.4575,
+        139.6372
+      ]
+    },
+    {
+      "id": "5o2cidsep",
+      "cn": "新宿中央公园 新宿尼亚加拉瀑布",
+      "name": "新宿中央公園 新宿ナイアガラの滝",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3130/points/5o2cidsep-1674134698336.jpg?plan=h160",
+      "ep": 19,
+      "s": 737,
+      "geo": [
+        35.69,
+        139.6896
+      ]
+    },
+    {
+      "id": "5o2lmbanb",
+      "name": "新宿中央公園 ジャブジャブ池",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3130/points/5o2lmbanb-1674135419647.jpg?plan=h160",
+      "ep": 41,
+      "s": 816,
+      "geo": [
+        35.6877,
+        139.6896
+      ]
+    },
+    {
+      "id": "5o2tr7wrk",
+      "cn": "新宿中央公园 铜像「瞭」",
+      "name": "新宿中央公園 ブロンズ像「瞭」",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3130/points/5o2tr7wrk-1674135682870.jpg?plan=h160",
+      "ep": 8,
+      "s": 599,
+      "geo": [
+        35.6904,
+        139.6894
+      ]
+    },
+    {
+      "id": "5o2wdrv9f",
+      "cn": "新宿中央公园 富士见台",
+      "name": "新宿中央公園 富士見台",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3130/points/5o2wdrv9f-1674135867309.jpg?plan=h160",
+      "ep": 8,
+      "s": 804,
+      "geo": [
+        35.6888,
+        139.6901
+      ]
+    },
+    {
+      "id": "5o32y1bfq",
+      "cn": "新宿中央公园 绿之桥",
+      "name": "新宿中央公園　緑の橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3130/points/5o32y1bfq-1674136308069.jpg?plan=h160",
+      "ep": 8,
+      "s": 1028,
+      "geo": [
+        35.6888,
+        139.691
+      ]
+    }
+  ],
+  "pointsLength": 12,
+  "imagesLength": 11,
+  "local_id": 116
+}

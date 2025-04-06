@@ -1,0 +1,121 @@
+{
+  "id": 3128,
+  "cn": "数码宝贝大冒险",
+  "title": "デジモンアドベンチャー",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/115/images/3128.jpg",
+  "color": "#157fea",
+  "geo": [
+    35.664893007720536,
+    139.72091327510816
+  ],
+  "zoom": 10.032,
+  "modified": 1736399456320,
+  "litePoints": [
+    {
+      "id": "4uicc0bzh",
+      "name": "ゆりかもめ新橋駅前",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3128/points/4uicc0bzh-1734272655567.jpg?plan=h160",
+      "ep": 35,
+      "geo": [
+        35.6655,
+        139.7595
+      ]
+    },
+    {
+      "id": "4uicc0c34",
+      "name": "first　kitchen",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3128/points/4uicc0c34-1734186992183.jpg?plan=h160",
+      "ep": 30,
+      "geo": [
+        35.6887,
+        139.6986
+      ]
+    },
+    {
+      "id": "4uicc0ble",
+      "name": "ヒッチハイクした場所",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3128/points/4uicc0ble-1734187020447.jpg?plan=h160",
+      "ep": 30,
+      "geo": [
+        35.6883,
+        139.6986
+      ]
+    },
+    {
+      "id": "4uicc0bgf",
+      "name": "東京タワー",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3128/points/4uicc0bgf-1734187047412.jpg?plan=h160",
+      "ep": 32,
+      "geo": [
+        35.6585,
+        139.7454
+      ]
+    },
+    {
+      "id": "4uicc0bhf",
+      "cn": "自由女神像",
+      "name": "女神の像",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3128/points/4uicc0bhf-1734770958185.jpg?plan=h160",
+      "ep": 53,
+      "geo": [
+        40.6892,
+        -74.0446
+      ]
+    },
+    {
+      "id": "4uicc0bw1",
+      "name": "凱旋門",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3128/points/4uicc0bw1-1734770979914.jpg?plan=h160",
+      "ep": 53,
+      "geo": [
+        48.8737,
+        2.2948
+      ]
+    },
+    {
+      "id": "4uicc0bfq",
+      "name": "赤の広場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3128/points/4uicc0bfq-1734771002505.jpg?plan=h160",
+      "ep": 53,
+      "geo": [
+        55.7539,
+        37.6208
+      ]
+    },
+    {
+      "id": "4uicc0bo1",
+      "name": "忠犬ハチ公像",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3128/points/4uicc0bo1-1733827681503.jpg?plan=h160",
+      "ep": 33,
+      "geo": [
+        35.659,
+        139.7005
+      ]
+    },
+    {
+      "id": "4uicc0bso",
+      "name": "１０９付近渋谷駅出口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3128/points/4uicc0bso-1734187135142.jpg?plan=h160",
+      "ep": 33,
+      "geo": [
+        35.6596,
+        139.699
+      ]
+    },
+    {
+      "id": "4uicc0bj2",
+      "cn": "西班牙坂",
+      "name": "スペイン坂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3128/points/4uicc0bj2-1733827856428.jpg?plan=h160",
+      "ep": 33,
+      "geo": [
+        35.6615,
+        139.6988
+      ]
+    }
+  ],
+  "pointsLength": 46,
+  "imagesLength": 44,
+  "local_id": 115
+}

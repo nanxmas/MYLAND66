@@ -1,0 +1,98 @@
+{
+  "id": 4022,
+  "cn": "罚抄",
+  "title": "Rewrite",
+  "city": "多摩市",
+  "cover": "https://image.xinu.ink/pic/data/130/images/4022.jpg",
+  "color": "#1c3923",
+  "geo": [
+    35.606042361990276,
+    139.42473226145745
+  ],
+  "zoom": 11.295,
+  "modified": 1724097774389,
+  "litePoints": [
+    {
+      "id": "lx7mwpfg6",
+      "cn": "榎户公园边",
+      "name": "榎戸公園のそば",
+      "image": "https://image.anitabi.cn/points/4022/lx7mwpfg6_1719989186793.jpg?plan=h160",
+      "geo": [
+        35.6159,
+        139.4079
+      ]
+    },
+    {
+      "id": "m2x7gcrkk",
+      "cn": "JR前桥站前",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/4022/m2x7gcrkk_1720436669813.jpg?plan=h160",
+      "geo": [
+        36.3841,
+        139.0729
+      ]
+    },
+    {
+      "id": "m2xcy4ibj",
+      "cn": "石山绿地",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/4022/m2xcy4ibj_1720437000867.jpg?plan=h160",
+      "geo": [
+        42.9687,
+        141.3408
+      ]
+    },
+    {
+      "id": "m2xel26cg",
+      "name": "ROOP六本木",
+      "image": "https://image.anitabi.cn/points/4022/m2xel26cg_1720437108538.jpg?plan=h160",
+      "geo": [
+        35.6605,
+        139.7274
+      ]
+    },
+    {
+      "id": "m4mpefybp",
+      "cn": "难波公园",
+      "name": "なんばパークス",
+      "image": "https://image.anitabi.cn/points/4022/m4mpefybp_1720570555309.jpg?plan=h160",
+      "geo": [
+        34.6613,
+        135.502
+      ]
+    },
+    {
+      "id": "ndmvrcbb8",
+      "cn": "中津站附近",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/4022/ndmvrcbb8_1724097314573.jpg?plan=h160",
+      "geo": [
+        34.713,
+        135.4983
+      ]
+    },
+    {
+      "id": "ndn0l08nf",
+      "cn": "神户 北野",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/4022/ndn0l08nf_1724097601813.jpg?plan=h160",
+      "geo": [
+        34.7006,
+        135.1904
+      ]
+    },
+    {
+      "id": "ndn2b5711",
+      "cn": "鱼鳞之家",
+      "name": "うろこの家",
+      "image": "https://image.anitabi.cn/points/4022/ndn2b5711_1724097716775.jpg?plan=h160",
+      "geo": [
+        34.7029,
+        135.1906
+      ]
+    }
+  ],
+  "pointsLength": 9,
+  "imagesLength": 9,
+  "local_id": 130
+}

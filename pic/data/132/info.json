@@ -1,0 +1,40 @@
+{
+  "id": 4053,
+  "title": "LEVEL5 -judgelight-",
+  "city": "中国",
+  "cover": "https://image.xinu.ink/pic/data/132/images/4053.jpg",
+  "color": "#aa6a55",
+  "geo": [
+    36.06781699999999,
+    120.31541900000002
+  ],
+  "zoom": 16,
+  "modified": 1726377349661,
+  "litePoints": [
+    {
+      "id": "mab8pudfv",
+      "cn": "青岛天主教圣弥厄尔大教堂",
+      "name": "天主教青岛教区圣弥厄尔主教座堂天主堂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/4053/points/mab8pudfv-1721024879455.jpg?plan=h160",
+      "s": 195,
+      "geo": [
+        36.0678,
+        120.3154
+      ]
+    },
+    {
+      "id": "o6jg70csn",
+      "cn": "青岛迎宾馆",
+      "name": "青岛德国总督楼旧址博物馆",
+      "image": "https://image.anitabi.cn/user/0/bangumi/4053/points/o6jg70csn-1726363034155.jpg?plan=h160",
+      "s": 36,
+      "geo": [
+        36.0647,
+        120.3279
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 132
+}

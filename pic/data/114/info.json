@@ -1,0 +1,36 @@
+{
+  "id": 3110,
+  "cn": "灼眼的夏娜S",
+  "title": "灼眼のシャナS",
+  "cover": "https://image.xinu.ink/pic/data/114/images/3110.jpg",
+  "color": "#ff4000",
+  "cp": "『灼眼のシャナＳ』",
+  "modified": 1733196268453,
+  "litePoints": [
+    {
+      "id": "pvsg2id1h",
+      "name": "静岡駅北口",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/3110/points/pvsg2id1h-1731162377276.jpg?plan=h160",
+      "ep": 3,
+      "s": 1607,
+      "geo": [
+        34.9722,
+        138.388
+      ]
+    },
+    {
+      "id": "q699vbg3m",
+      "name": "新静岡駅",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/3110/points/q699vbg3m-1731982551574.jpg?plan=h160",
+      "ep": 3,
+      "s": 1583,
+      "geo": [
+        34.9759,
+        138.3881
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 114
+}

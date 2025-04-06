@@ -1,0 +1,44 @@
+[
+  {
+    "id": "nu38kxis1",
+    "cn": "横滨八景岛海岛乐园",
+    "name": "八景島シーパラダイス",
+    "image": "https://image.xinu.ink/pic/data/111/images/nu38kxis1-1725386785664.jpg",
+    "ep": "1",
+    "s": "1:11",
+    "geo": [
+      35.3349,
+      139.6436
+    ],
+    "origin": "Anitabi@GhostFinal",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nu3bct04x",
+    "cn": "神奈川县警察总部",
+    "name": "神奈川県​警察​本部",
+    "image": "https://image.xinu.ink/pic/data/111/images/nu3bct04x-1725386910896.jpg",
+    "ep": "1",
+    "s": "28:18",
+    "geo": [
+      35.4497,
+      139.6409
+    ],
+    "origin": "Anitabi@GhostFinal",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nu3fzvk71",
+    "cn": "横滨本町四丁目马车道",
+    "name": "本町四丁目",
+    "image": "https://image.xinu.ink/pic/data/111/images/nu3fzvk71-1725387204758.jpg",
+    "ep": "1",
+    "s": "35:23",
+    "geo": [
+      35.4496,
+      139.6372
+    ],
+    "origin": "Anitabi@GhostFinal",
+    "originURL": "https://anitabi.cn/"
+  }
+]

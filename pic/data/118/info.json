@@ -1,0 +1,28 @@
+{
+  "id": 3190,
+  "cn": "第一小队",
+  "title": "First Squad: The Moment Of Truth",
+  "cover": "https://image.xinu.ink/pic/data/118/images/3190.jpg",
+  "color": "#232a32",
+  "geo": [
+    57.93771736897392,
+    28.06647257990113
+  ],
+  "zoom": 7.574,
+  "modified": 1719518139098,
+  "litePoints": [
+    {
+      "id": "idjjo63b8",
+      "cn": "楚德湖",
+      "name": "Пейпси",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3190/points/idjjo63b8-1709984565327.jpg?plan=h160",
+      "geo": [
+        57.9981,
+        28.0265
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 118
+}

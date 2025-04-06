@@ -1,0 +1,95 @@
+{
+  "id": 3054,
+  "cn": "大魔法峠",
+  "title": "大魔法峠",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/113/images/3054.jpg",
+  "color": "#8e1c39",
+  "geo": [
+    35.675478369819785,
+    139.74597141961124
+  ],
+  "zoom": 10.457,
+  "modified": 1732372450900,
+  "litePoints": [
+    {
+      "id": "5gsj9jcou",
+      "cn": "国会议事堂",
+      "name": "国会議事堂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3054/points/5gsj9jcou-1673564778494.jpg?plan=h160",
+      "s": 57,
+      "geo": [
+        35.6754,
+        139.746
+      ]
+    },
+    {
+      "id": "5gsltvyvv",
+      "cn": "金阁寺(鹿苑寺)",
+      "name": "金閣寺(鹿苑寺)",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3054/points/5gsltvyvv-1673564934739.jpg?plan=h160",
+      "s": 183,
+      "geo": [
+        35.0392,
+        135.7292
+      ]
+    },
+    {
+      "id": "5gspoob28",
+      "cn": "法隆寺",
+      "name": "法隆寺",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3054/points/5gspoob28-1673565135593.jpg?plan=h160",
+      "s": 64,
+      "geo": [
+        34.6145,
+        135.7341
+      ]
+    },
+    {
+      "id": "5gsruxdl4",
+      "cn": "东京铁塔",
+      "name": "日本電波塔",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3054/points/5gsruxdl4-1673565291960.jpg?plan=h160",
+      "s": 220,
+      "geo": [
+        35.6584,
+        139.7455
+      ]
+    },
+    {
+      "id": "5gsvysz6e",
+      "cn": "富士产经集团大楼",
+      "name": "FCGビル",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3054/points/5gsvysz6e-1673565537611.jpg?plan=h160",
+      "s": 220,
+      "geo": [
+        35.627,
+        139.7747
+      ]
+    },
+    {
+      "id": "5gtbphw70",
+      "cn": "六本木新城",
+      "name": "六本木ヒルズ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3054/points/5gtbphw70-1673566471501.jpg?plan=h160",
+      "s": 59,
+      "geo": [
+        35.6603,
+        139.7294
+      ]
+    },
+    {
+      "id": "pcrucb7dy",
+      "cn": "东京巨蛋",
+      "name": "東京ドーム",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3054/points/pcrucb7dy-1729671992931.jpg?plan=h160",
+      "geo": [
+        35.7056,
+        139.7519
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "local_id": 113
+}

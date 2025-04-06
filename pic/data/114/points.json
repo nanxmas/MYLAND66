@@ -1,0 +1,28 @@
+[
+  {
+    "id": "pvsg2id1h",
+    "name": "静岡駅北口",
+    "image": "https://image.xinu.ink/pic/data/114/images/pvsg2id1h-1731162377276.jpg",
+    "ep": 3,
+    "s": 1607,
+    "geo": [
+      34.9722,
+      138.388
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "q699vbg3m",
+    "name": "新静岡駅",
+    "image": "https://image.xinu.ink/pic/data/114/images/q699vbg3m-1731982551574.jpg",
+    "ep": 3,
+    "s": 1583,
+    "geo": [
+      34.9759,
+      138.3881
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  }
+]

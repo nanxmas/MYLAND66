@@ -1,0 +1,28 @@
+{
+  "id": 3628,
+  "cn": "名侦探柯南 天空的遇难船",
+  "title": "名探偵コナン 天空の難破船",
+  "city": "大阪府",
+  "cover": "https://image.xinu.ink/pic/data/126/images/3628.jpg",
+  "color": "#6a7f95",
+  "geo": [
+    34.65061241770137,
+    135.4205583588987
+  ],
+  "zoom": 9.684,
+  "modified": 1723708895161,
+  "litePoints": [
+    {
+      "id": "m75ys9e33",
+      "name": "大阪港",
+      "image": "https://image.anitabi.cn/user/0/bangumi/899/points/m75ys9e33-1720769196226.jpg?plan=h160",
+      "geo": [
+        34.6502,
+        135.4199
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 126
+}
