@@ -1,0 +1,118 @@
+{
+  "id": 242,
+  "cn": "穿越时空的少女",
+  "title": "時をかける少女",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/4/images/242.jpg",
+  "color": "#4060bf",
+  "cp": "時をかける少女",
+  "geo": [
+    35.708610164926355,
+    139.69914749661643
+  ],
+  "zoom": 9.855,
+  "modified": 1728243834998,
+  "litePoints": [
+    {
+      "id": "kpx6okupo",
+      "name": "哲学堂公園野球場",
+      "image": "https://image.anitabi.cn/points/242/kpx6okupo_1720422008708.jpg?plan=h160",
+      "s": 763,
+      "geo": [
+        35.7224,
+        139.6741
+      ]
+    },
+    {
+      "id": "kpx6okvv6",
+      "name": "東京国立博物館",
+      "image": "https://image.anitabi.cn/points/242/kpx6okvv6_1720421601188.jpg?plan=h160",
+      "s": 929,
+      "geo": [
+        35.7188,
+        139.7765
+      ]
+    },
+    {
+      "id": "kpx6okvdb",
+      "name": "荒川（北千十駅北側）",
+      "image": "https://image.anitabi.cn/points/242/kpx6okvdb_1720421770260.jpg?plan=h160",
+      "s": 1162,
+      "geo": [
+        35.7577,
+        139.8045
+      ]
+    },
+    {
+      "id": "kpx6okw8u",
+      "name": "富士見坂",
+      "image": "https://image.anitabi.cn/points/242/kpx6okw8u_1720419036799.jpg?plan=h160",
+      "s": 199,
+      "geo": [
+        35.7161,
+        139.7173
+      ]
+    },
+    {
+      "id": "kpx6okvjt",
+      "name": "中井駅東側踏切",
+      "image": "https://image.anitabi.cn/points/242/kpx6okvjt_1720419580411.jpg?plan=h160",
+      "s": 211,
+      "geo": [
+        35.7152,
+        139.6876
+      ]
+    },
+    {
+      "id": "m2p6c49rc",
+      "name": "クリーニングもはん前",
+      "image": "https://image.anitabi.cn/points/242/m2p6c49rc_1720419204163.jpg?plan=h160",
+      "s": 676,
+      "geo": [
+        35.7159,
+        139.6862
+      ]
+    },
+    {
+      "id": "kpx6okvov",
+      "name": "からくり時計",
+      "image": "https://image.anitabi.cn/user/0/bangumi/242/points/kpx6okvov-1720383124830.jpg?plan=h160",
+      "s": 808,
+      "geo": [
+        35.7147,
+        139.6871
+      ]
+    },
+    {
+      "id": "kpx6okwba",
+      "name": "面影橋北側",
+      "image": "https://image.anitabi.cn/user/0/bangumi/242/points/kpx6okwba-1720384592662.jpg?plan=h160",
+      "s": 1869,
+      "geo": [
+        35.7149,
+        139.7151
+      ]
+    },
+    {
+      "id": "kpx6okxcb",
+      "name": "東京女子大学正門",
+      "image": "https://image.anitabi.cn/points/242/kpx6okxcb_1720421776133.jpg?plan=h160",
+      "s": 1445,
+      "geo": [
+        35.7091,
+        139.5913
+      ]
+    },
+    {
+      "id": "kpx6okwh4",
+      "name": "林芙美子記念館",
+      "geo": [
+        35.7158,
+        139.6843
+      ]
+    }
+  ],
+  "pointsLength": 12,
+  "imagesLength": 11,
+  "local_id": 4
+}

@@ -1,0 +1,116 @@
+[
+  {
+    "id": "kpx6okupo",
+    "name": "哲学堂公園野球場",
+    "image": "https://image.xinu.ink/pic/data/4/images/kpx6okupo_1720422008708.jpg",
+    "ep": null,
+    "s": 763,
+    "geo": [
+      35.7224,
+      139.6741
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=15AkywObAP2TSUZLtjqYO5R_faaE&ll=35.722467%2C139.674146&z=17"
+  },
+  {
+    "id": "kpx6okvv6",
+    "name": "東京国立博物館",
+    "image": "https://image.xinu.ink/pic/data/4/images/kpx6okvv6_1720421601188.jpg",
+    "s": 929,
+    "geo": [
+      35.7188,
+      139.7765
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=15AkywObAP2TSUZLtjqYO5R_faaE&ll=35.718887%2C139.776539&z=17"
+  },
+  {
+    "id": "kpx6okvdb",
+    "name": "荒川（北千十駅北側）",
+    "image": "https://image.xinu.ink/pic/data/4/images/kpx6okvdb_1720421770260.jpg",
+    "s": 1162,
+    "geo": [
+      35.7577,
+      139.8045
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=15AkywObAP2TSUZLtjqYO5R_faaE&ll=35.757718%2C139.804587&z=17"
+  },
+  {
+    "id": "kpx6okw8u",
+    "name": "富士見坂",
+    "image": "https://image.xinu.ink/pic/data/4/images/kpx6okw8u_1720419036799.jpg",
+    "ep": null,
+    "s": 199,
+    "geo": [
+      35.7161,
+      139.7173
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=15AkywObAP2TSUZLtjqYO5R_faaE&ll=35.716183%2C139.717379&z=17"
+  },
+  {
+    "id": "kpx6okvjt",
+    "name": "中井駅東側踏切",
+    "image": "https://image.xinu.ink/pic/data/4/images/kpx6okvjt_1720419580411.jpg",
+    "ep": null,
+    "s": 211,
+    "geo": [
+      35.7152,
+      139.6876
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=15AkywObAP2TSUZLtjqYO5R_faaE&ll=35.715291%2C139.687605&z=17"
+  },
+  {
+    "id": "m2p6c49rc",
+    "name": "クリーニングもはん前",
+    "image": "https://image.xinu.ink/pic/data/4/images/m2p6c49rc_1720419204163.jpg",
+    "ep": null,
+    "s": 676,
+    "geo": [
+      35.7159,
+      139.6862
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6okvov",
+    "name": "からくり時計",
+    "image": "https://image.xinu.ink/pic/data/4/images/kpx6okvov-1720383124830.jpg",
+    "ep": null,
+    "s": 808,
+    "geo": [
+      35.7147,
+      139.6871
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=15AkywObAP2TSUZLtjqYO5R_faaE&ll=35.714741%2C139.687169&z=17"
+  },
+  {
+    "id": "kpx6okwba",
+    "name": "面影橋北側",
+    "image": "https://image.xinu.ink/pic/data/4/images/kpx6okwba-1720384592662.jpg",
+    "ep": null,
+    "s": 1869,
+    "geo": [
+      35.7149,
+      139.7151
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=15AkywObAP2TSUZLtjqYO5R_faaE&ll=35.714937%2C139.715157&z=17"
+  },
+  {
+    "id": "kpx6okxcb",
+    "name": "東京女子大学正門",
+    "image": "https://image.xinu.ink/pic/data/4/images/kpx6okxcb_1720421776133.jpg",
+    "s": 1445,
+    "geo": [
+      35.7091,
+      139.5913
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=15AkywObAP2TSUZLtjqYO5R_faaE&ll=35.709154%2C139.591381&z=17"
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "id": 247,
+  "cn": "银魂",
+  "title": "銀魂",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/5/images/247.jpg",
+  "color": "#aed5f9",
+  "geo": [
+    31.65999259917018,
+    35.609247655877425
+  ],
+  "zoom": 7.922,
+  "modified": 1727257547218,
+  "litePoints": [
+    {
+      "id": "59pqzmesn",
+      "cn": "死海",
+      "name": "البحر الميت ים המלח",
+      "image": "https://image.anitabi.cn/points/247/59pqzmesn_1673010117562.jpg?plan=h160",
+      "ep": 17,
+      "s": 1342,
+      "geo": [
+        31.5585,
+        35.5
+      ]
+    },
+    {
+      "id": "ohdc7hizg",
+      "cn": "歌舞伎町一番街招牌",
+      "name": "歌舞伎町一番街アーチ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/247/points/ohdc7hizg-1727211160457.jpg?plan=h160",
+      "ep": 10,
+      "s": 655,
+      "geo": [
+        35.6938,
+        139.701
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 5
+}

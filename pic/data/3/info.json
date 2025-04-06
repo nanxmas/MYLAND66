@@ -1,0 +1,132 @@
+{
+  "id": 234,
+  "title": "AIR",
+  "city": "御坊市",
+  "cover": "https://image.xinu.ink/pic/data/3/images/234.jpg",
+  "color": "#407fbf",
+  "cp": "翼人伝承会",
+  "geo": [
+    33.88238219651083,
+    135.12533181539152
+  ],
+  "zoom": 11.417,
+  "modified": 1741197064078,
+  "litePoints": [
+    {
+      "id": "mjlde1krf",
+      "name": "美凪天文台",
+      "image": "https://image.anitabi.cn/points/234/mjlde1krf_1721743241104.jpg?plan=h160",
+      "ep": 1,
+      "s": 149,
+      "geo": [
+        35.6505,
+        134.6339
+      ]
+    },
+    {
+      "id": "mk55ju9vl",
+      "name": "初次的对话",
+      "image": "https://image.anitabi.cn/points/234/mk55ju9vl_1721786240422.jpg?plan=h160",
+      "ep": 1,
+      "s": 254,
+      "geo": [
+        33.9373,
+        131.0092
+      ]
+    },
+    {
+      "id": "mjmqd40vv",
+      "name": "桥",
+      "image": "https://image.anitabi.cn/points/234/mjmqd40vv_1721746079077.jpg?plan=h160",
+      "ep": 1,
+      "s": 348,
+      "geo": [
+        35.6444,
+        134.6122
+      ]
+    },
+    {
+      "id": "mjm6dcxuy",
+      "name": "往人观铃寻布偶",
+      "image": "https://image.anitabi.cn/points/234/mjm6dcxuy_1721744987666.jpg?plan=h160",
+      "ep": 1,
+      "s": 363,
+      "geo": [
+        35.6416,
+        134.6295
+      ]
+    },
+    {
+      "id": "cffc36e4",
+      "cn": "注意海啸！",
+      "name": "津波に注意",
+      "image": "https://image.anitabi.cn/points/234/cffc36e4_1721707530499.jpg?plan=h160",
+      "ep": 1,
+      "s": 786,
+      "geo": [
+        33.88,
+        135.151
+      ]
+    },
+    {
+      "id": "ae8ef487",
+      "cn": "高桥",
+      "name": "タカハシ（ハヤシ）",
+      "image": "https://image.anitabi.cn/points/234/ae8ef487_1721707519739.jpg?plan=h160",
+      "ep": 1,
+      "s": 1060,
+      "geo": [
+        33.8895,
+        135.1477
+      ]
+    },
+    {
+      "id": "mjkhb1mzt",
+      "name": "神尾家",
+      "image": "https://image.anitabi.cn/points/234/mjkhb1mzt_1721786280898.jpg?plan=h160",
+      "ep": 2,
+      "s": 309,
+      "geo": [
+        41.7637,
+        140.714
+      ]
+    },
+    {
+      "id": "mjq56vioz",
+      "name": "雾岛诊所",
+      "image": "https://image.anitabi.cn/points/234/mjq56vioz_1721753538910.jpg?plan=h160",
+      "ep": 2,
+      "s": 391,
+      "geo": [
+        35.6955,
+        139.4507
+      ]
+    },
+    {
+      "id": "78facb0f",
+      "cn": "少女送回家的路上",
+      "name": "少女を送った帰り道",
+      "image": "https://image.anitabi.cn/points/234/78facb0f_1721707524749.jpg?plan=h160",
+      "ep": 2,
+      "s": 654,
+      "geo": [
+        33.8796,
+        135.1517
+      ]
+    },
+    {
+      "id": "5c44usrvc",
+      "name": "御崎神社海边鸟居",
+      "image": "https://image.anitabi.cn/points/234/5c44usrvc_1721707195249.jpg?plan=h160",
+      "ep": 2,
+      "s": 1073,
+      "geo": [
+        33.8935,
+        135.1203
+      ]
+    }
+  ],
+  "pointsLength": 30,
+  "imagesLength": 30,
+  "local_id": 3
+}

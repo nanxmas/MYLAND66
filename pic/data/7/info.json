@@ -1,0 +1,118 @@
+{
+  "id": 259,
+  "cn": "夏目友人帐",
+  "title": "夏目友人帳",
+  "city": "人吉市",
+  "cover": "https://image.xinu.ink/pic/data/7/images/259.jpg",
+  "color": "#808993",
+  "geo": [
+    32.55085694345489,
+    130.8812204175714
+  ],
+  "zoom": 8.723,
+  "modified": 1734204160572,
+  "litePoints": [
+    {
+      "id": "igt49h2e8",
+      "cn": "雨宫神社",
+      "name": "雨宮神社",
+      "image": "https://image.anitabi.cn/points/259/igt49h2e8_1722062265752_cut.jpg?plan=h160",
+      "ep": 13,
+      "s": 634,
+      "geo": [
+        32.2512,
+        130.8121
+      ]
+    },
+    {
+      "id": "oxf5mgbxe",
+      "name": "県道33号交差点",
+      "image": "https://image.anitabi.cn/user/0/bangumi/259/points/oxf5mgbxe-1728468918725.jpg?plan=h160",
+      "geo": [
+        32.2748,
+        130.9318
+      ]
+    },
+    {
+      "id": "oyhhfjq2i",
+      "name": "蓮華寺跡古塔碑群",
+      "image": "https://image.anitabi.cn/user/0/bangumi/259/points/oyhhfjq2i-1728552326743.jpg?plan=h160",
+      "geo": [
+        32.2721,
+        130.9444
+      ]
+    },
+    {
+      "id": "ifuyxds63",
+      "cn": "人吉站",
+      "name": "人吉駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/259/points/ifuyxds63-1722236864696.jpg?plan=h160",
+      "geo": [
+        32.2166,
+        130.7538
+      ]
+    },
+    {
+      "id": "ifv2xyf8w",
+      "cn": "田町菅原天满宫",
+      "name": "第二期OP神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/259/points/ifv2xyf8w-1710166562539.jpg?plan=h160",
+      "geo": [
+        32.2066,
+        130.7652
+      ]
+    },
+    {
+      "id": "ifv2xyfe1",
+      "cn": "晴山站",
+      "name": "第二期OPバス停",
+      "image": "https://image.anitabi.cn/user/0/bangumi/259/points/ifv2xyfe1-1710166625596.jpg?plan=h160",
+      "geo": [
+        32.2892,
+        130.8459
+      ]
+    },
+    {
+      "id": "ifv2xyf7h",
+      "cn": "相良村445号通学路",
+      "name": "通学風景",
+      "image": "https://image.anitabi.cn/user/0/bangumi/259/points/ifv2xyf7h-1710166750421.jpg?plan=h160",
+      "geo": [
+        32.2874,
+        130.8466
+      ]
+    },
+    {
+      "id": "ifv2xyfso",
+      "cn": "东间小学校前",
+      "name": "第六話 水底の燕",
+      "image": "https://image.anitabi.cn/user/0/bangumi/259/points/ifv2xyfso-1710166895274.jpg?plan=h160",
+      "geo": [
+        32.2055,
+        130.7661
+      ]
+    },
+    {
+      "id": "ifv2xyev0",
+      "cn": "胸川",
+      "name": "2期8話バスが通る橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/259/points/ifv2xyev0-1710167044271.jpg?plan=h160",
+      "geo": [
+        32.2061,
+        130.7648
+      ]
+    },
+    {
+      "id": "ifvf9skwz",
+      "name": "人吉城址",
+      "image": "https://image.anitabi.cn/user/0/bangumi/259/points/ifvf9skwz-1710167114597.jpg?plan=h160",
+      "geo": [
+        32.2107,
+        130.7661
+      ]
+    }
+  ],
+  "pointsLength": 58,
+  "imagesLength": 58,
+  "local_id": 7
+}

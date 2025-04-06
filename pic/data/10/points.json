@@ -1,0 +1,516 @@
+[
+  {
+    "id": "svolkqncj",
+    "name": "泉此方的家附近",
+    "image": "https://image.xinu.ink/pic/data/10/images/svolkqncj-1739617294724.jpg",
+    "ep": "EP1",
+    "s": 26,
+    "geo": [
+      36.0876,
+      139.7251
+    ]
+  },
+  {
+    "id": "tdl555ytl",
+    "cn": "东武铁道春日部站西口",
+    "name": "東武鉄道春日部駅西口",
+    "image": "https://image.xinu.ink/pic/data/10/images/tdl555ytl-1741020212361.jpg",
+    "ep": 7,
+    "s": 792,
+    "geo": [
+      35.9795,
+      139.7522
+    ]
+  },
+  {
+    "id": "50cjwj5ix",
+    "name": "イーストプロムナード",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj5ix_1741164475862.jpg",
+    "ep": 12,
+    "s": 244,
+    "geo": [
+      35.6325,
+      139.7917
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=35.632544%2C139.791702&z=17"
+  },
+  {
+    "id": "50cjwj5es",
+    "name": "東京ビッグサイト",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj5es_1741164441029.jpg",
+    "ep": 12,
+    "s": 246,
+    "geo": [
+      35.6298,
+      139.794
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=35.629858%2C139.794073&z=17"
+  },
+  {
+    "id": "87mlfn2wo",
+    "cn": "Animate大宫店",
+    "name": "アニメイト大宮店",
+    "image": "https://image.xinu.ink/pic/data/10/images/87mlfn2wo_1741162273930.jpg",
+    "ep": 15,
+    "s": 91,
+    "geo": [
+      35.9043,
+      139.6235
+    ]
+  },
+  {
+    "id": "tefwxurx9",
+    "cn": "SONIC CITY HALL大宮",
+    "name": "ソニック​シティ​ホール",
+    "image": "https://image.xinu.ink/pic/data/10/images/tefwxurx9-1741087285286.jpg",
+    "ep": 15,
+    "s": 116,
+    "geo": [
+      35.9057,
+      139.6194
+    ]
+  },
+  {
+    "id": "50cjwj463",
+    "name": "大宮駅西口スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj463_1741162343485.jpg",
+    "ep": 15,
+    "s": 160,
+    "geo": [
+      35.9057,
+      139.6211
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=35.905707%2C139.621108&z=17"
+  },
+  {
+    "id": "50cjwj3bd",
+    "name": "幸手権現堂",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj3bd_1741162427226.jpg",
+    "ep": 15,
+    "s": 169,
+    "geo": [
+      36.0919,
+      139.7232
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=36.091991%2C139.723263&z=17"
+  },
+  {
+    "id": "pfx2ze5am",
+    "cn": "泉此方的家",
+    "name": "泉此方の家",
+    "image": "https://image.xinu.ink/pic/data/10/images/pfx2ze5am-1729919193489.jpg",
+    "ep": 16,
+    "s": 201,
+    "geo": [
+      36.0869,
+      139.7252
+    ]
+  },
+  {
+    "id": "50cjwj41j",
+    "name": "JR秋葉原駅電気街口",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj41j_1741162089527.jpg",
+    "ep": 16,
+    "s": 506,
+    "geo": [
+      35.6981,
+      139.7724
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=35.698183%2C139.772468&z=17"
+  },
+  {
+    "id": "tfe4d1qdo",
+    "name": "電気街口​ラジオ​会館前",
+    "image": "https://image.xinu.ink/pic/data/10/images/tfe4d1qdo_1741161654363.jpg",
+    "ep": 16,
+    "s": 521,
+    "geo": [
+      35.6981,
+      139.772
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "50cjwj4ck",
+    "name": "AKIHABARAゲーマーズ本店前",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj4ck_1741162114446.jpg",
+    "ep": 16,
+    "s": 533,
+    "geo": [
+      35.6982,
+      139.7716
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=35.698236%2C139.771634&z=17"
+  },
+  {
+    "id": "50cjwj4a4",
+    "name": "とらのあな秋葉原店B前",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj4a4_1741162130328.jpg",
+    "ep": 16,
+    "s": 623,
+    "geo": [
+      35.7003,
+      139.7716
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=35.700364%2C139.77162&z=17"
+  },
+  {
+    "id": "s50tu8mlp",
+    "cn": "池袋少女之路",
+    "name": "乙女ロード",
+    "image": "https://image.xinu.ink/pic/data/10/images/s50tu8mlp_1737528044985.jpg",
+    "ep": 18,
+    "s": 1091,
+    "geo": [
+      35.7306,
+      139.7182
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "50cjwj5vy",
+    "name": "K-BOOKS前",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj5vy_1737527888482.jpg",
+    "ep": 18,
+    "s": 1095,
+    "geo": [
+      35.7307,
+      139.7184
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=35.730741%2C139.718469&z=17"
+  },
+  {
+    "id": "50cjwj6u7",
+    "name": "明輝堂",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj6u7_1737527835362.jpg",
+    "ep": 18,
+    "s": 1100,
+    "geo": [
+      35.7307,
+      139.7177
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=35.730798%2C139.717753&z=17"
+  },
+  {
+    "id": "50cjwj6w1",
+    "name": "K-BOOKS",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj6w1_1737527880850.jpg",
+    "ep": 18,
+    "s": 1105,
+    "geo": [
+      35.7313,
+      139.7185
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=35.731303%2C139.718595&z=17"
+  },
+  {
+    "id": "50cjwj6dy",
+    "name": "男装喫茶８０＋１",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj6dy_1737527845860.jpg",
+    "ep": 18,
+    "s": 1110,
+    "geo": [
+      35.7323,
+      139.7184
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=35.732394%2C139.718461&z=17"
+  },
+  {
+    "id": "50cjwj3vz",
+    "name": "幸手駅",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj3vz_1741159898398.jpg",
+    "ep": 20,
+    "s": 1073,
+    "geo": [
+      36.0747,
+      139.7151
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=36.07473%2C139.715197&z=17"
+  },
+  {
+    "id": "tfddj8c1m",
+    "name": "東武動物公園駅",
+    "image": "https://image.xinu.ink/pic/data/10/images/tfddj8c1m_1741160021923.jpg",
+    "ep": 20,
+    "s": 1075,
+    "geo": [
+      36.0248,
+      139.7267
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "50cjwj38e",
+    "name": "JR京都駅",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj38e_1672276615152.jpg",
+    "ep": 21,
+    "s": 551,
+    "geo": [
+      34.9862,
+      135.7586
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=34.986295%2C135.758615&z=17"
+  },
+  {
+    "id": "50cjwj70v",
+    "name": "東大寺",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj70v-1681313348447.jpg",
+    "ep": 21,
+    "s": 586,
+    "geo": [
+      34.6889,
+      135.8399
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=34.688954%2C135.839937&z=17"
+  },
+  {
+    "id": "50cjwj6fb",
+    "name": "五重塔",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj6fb-1681313759301.jpg",
+    "ep": 21,
+    "s": 645,
+    "geo": [
+      34.6825,
+      135.8307
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=34.682545%2C135.830787&z=17"
+  },
+  {
+    "id": "50d0tfh5y",
+    "name": "五条坂",
+    "image": "https://image.xinu.ink/pic/data/10/images/50d0tfh5y_1672277143038.jpg",
+    "ep": 21,
+    "s": 703,
+    "geo": [
+      34.9952,
+      135.7781
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "50cjwj50x",
+    "name": "清水寺本堂",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj50x_1672277251254.jpg",
+    "ep": 21,
+    "s": 734,
+    "geo": [
+      34.9946,
+      135.7852
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=34.994648%2C135.785227&z=17"
+  },
+  {
+    "id": "50d363zd4",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/10/images/50d363zd4_1672277276374.jpg",
+    "ep": 21,
+    "s": 745,
+    "geo": [
+      34.9948,
+      135.7849
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "50cjwj659",
+    "name": "地主神社",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj659_1741164928078.jpg",
+    "ep": 21,
+    "s": 762,
+    "geo": [
+      34.9951,
+      135.7849
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=34.995132%2C135.784946&z=17"
+  },
+  {
+    "id": "50cjwj5od",
+    "name": "ホテル本能寺",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj5od_1741165468764.jpg",
+    "ep": 21,
+    "s": 870,
+    "geo": [
+      35.0103,
+      135.7677
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=35.010393%2C135.767776&z=17"
+  },
+  {
+    "id": "87ook5txh",
+    "cn": "银阁寺(慈照寺)",
+    "name": "銀閣寺",
+    "image": "https://image.xinu.ink/pic/data/10/images/87ook5txh-1681314400522.jpg",
+    "ep": 21,
+    "s": 898,
+    "geo": [
+      35.0268,
+      135.7982
+    ]
+  },
+  {
+    "id": "50cjwj37x",
+    "name": "本能寺文化会館ホテル前",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj37x_1741165853499.jpg",
+    "ep": 21,
+    "s": 948,
+    "geo": [
+      35.0107,
+      135.7679
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=35.010748%2C135.767983&z=17"
+  },
+  {
+    "id": "50cjwj3o4",
+    "name": "三条大橋",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj3o4_1741166223843.jpg",
+    "ep": 21,
+    "s": 1051,
+    "geo": [
+      35.009,
+      135.7712
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=35.009085%2C135.771285&z=17"
+  },
+  {
+    "id": "50cjwj5mn",
+    "name": "京阪木幡駅前",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj5mn_1672276480649.jpg",
+    "ep": 21,
+    "s": 1065,
+    "geo": [
+      34.9256,
+      135.7959
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=34.925655%2C135.79597&z=17"
+  },
+  {
+    "id": "50cpom4lc",
+    "cn": "京都动画第二工作室",
+    "name": "京都アニメーション",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cpom4lc_1672276466346.jpg",
+    "ep": 21,
+    "s": 1075,
+    "geo": [
+      34.9255,
+      135.7956
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "50cm4tr1l",
+    "cn": "京都动画本社",
+    "name": "京都アニメーション本社",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cm4tr1l_1672276248293.jpg",
+    "ep": 21,
+    "s": 1079,
+    "geo": [
+      34.9247,
+      135.7986
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "50cjwj63n",
+    "name": "新京極",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj63n_1672278411829.jpg",
+    "ep": 21,
+    "s": 1087,
+    "geo": [
+      35.0061,
+      135.767
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=35.006178%2C135.767085&z=17"
+  },
+  {
+    "id": "50cjwj3ie",
+    "cn": "Animate京都店",
+    "name": "アニメイト京都店",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj3ie_1741166630984.jpg",
+    "ep": 21,
+    "s": 1089,
+    "geo": [
+      35.0053,
+      135.7674
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=35.005359%2C135.767471&z=17"
+  },
+  {
+    "id": "50cjwj3m7",
+    "cn": "GAMERS京都店",
+    "name": "ゲーマーズ京都店",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj3m7_1741166710221.jpg",
+    "ep": 21,
+    "s": 1091,
+    "geo": [
+      35.0055,
+      135.7668
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=35.005521%2C135.766836&z=17"
+  },
+  {
+    "id": "mwqb50j5r",
+    "name": "春日部共栄高等学校",
+    "image": "https://image.xinu.ink/pic/data/10/images/mwqb50j5r-1722772647488.jpg",
+    "ep": 24,
+    "s": 1246,
+    "geo": [
+      35.9599,
+      139.7415
+    ]
+  },
+  {
+    "id": "50cjwj4l8",
+    "name": "鷲宮神社",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj4l8-1681302176307.jpg",
+    "ep": "OP1",
+    "geo": [
+      36.1002,
+      139.6569
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=36.100203%2C139.656908&z=17"
+  },
+  {
+    "id": "50cjwj3up",
+    "name": "森田生花店",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj3up-1681310751190.jpg",
+    "ep": "OP1",
+    "geo": [
+      36.0779,
+      139.7196
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=36.077943%2C139.719602&z=17"
+  }
+]

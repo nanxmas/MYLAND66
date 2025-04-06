@@ -1,0 +1,135 @@
+{
+  "id": 274,
+  "cn": "雪之少女",
+  "title": "カノン",
+  "city": "札幌市",
+  "cover": "https://image.xinu.ink/pic/data/9/images/274.jpg",
+  "color": "#1c398e",
+  "geo": [
+    38.194815539746514,
+    139.1931812089249
+  ],
+  "zoom": 4.7,
+  "modified": 1731086315827,
+  "litePoints": [
+    {
+      "id": "59y3hz1c2",
+      "name": "守口市",
+      "image": "https://image.anitabi.cn/points/274/59y3hz1c2_1673028365705.jpg?plan=h160",
+      "ep": 1,
+      "s": 20,
+      "geo": [
+        34.7356,
+        135.5666
+      ]
+    },
+    {
+      "id": "mkja0njit",
+      "name": "看奈雪的小拳拳",
+      "image": "https://image.anitabi.cn/points/274/mkja0njit_1721816972477.jpg?plan=h160",
+      "ep": 1,
+      "s": 523,
+      "geo": [
+        43.0785,
+        141.2991
+      ]
+    },
+    {
+      "id": "l1n9mto2w",
+      "name": "北洋銀行",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/274/points/l1n9mto2w-1717515561217.jpg?plan=h160",
+      "ep": 1,
+      "s": 584,
+      "geo": [
+        43.0763,
+        141.3031
+      ]
+    },
+    {
+      "id": "mlr9y6iv7",
+      "cn": "邂逅香里＆北川",
+      "name": "香里＆北川に遭遇",
+      "image": "https://image.anitabi.cn/points/274/mlr9y6iv7_1721912682506.jpg?plan=h160",
+      "ep": 1,
+      "s": 627,
+      "geo": [
+        43.0762,
+        141.3032
+      ]
+    },
+    {
+      "id": "mkhzoitnb",
+      "cn": "与亚由一起看完电影后",
+      "name": "あゆと映画の後",
+      "image": "https://image.anitabi.cn/points/274/mkhzoitnb_1721814606957.jpg?plan=h160",
+      "ep": 6,
+      "s": 1021,
+      "geo": [
+        43.0565,
+        141.3342
+      ]
+    },
+    {
+      "id": "mkg57dws0",
+      "cn": "和真琴一起上学",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/274/mkg57dws0_1721810131678.jpg?plan=h160",
+      "ep": 8,
+      "s": 247,
+      "geo": [
+        43.0326,
+        141.3618
+      ]
+    },
+    {
+      "id": "mlio40zfv",
+      "name": "登山入口",
+      "image": "https://image.anitabi.cn/points/274/mlio40zfv_1721893955474.jpg?plan=h160",
+      "ep": 10,
+      "s": 761,
+      "geo": [
+        43.0531,
+        141.3114
+      ]
+    },
+    {
+      "id": "mkg6ndni4",
+      "cn": "舞会结束后的第二天，和奈雪去上学",
+      "name": "舞踏会翌日 名雪と登校",
+      "image": "https://image.anitabi.cn/points/274/mkg6ndni4_1721810279616.jpg?plan=h160",
+      "ep": 13,
+      "s": 7,
+      "geo": [
+        43.038,
+        141.351
+      ]
+    },
+    {
+      "id": "mlit5mp28",
+      "cn": "食品摊位",
+      "name": "栞とデート（屋台）",
+      "image": "https://image.anitabi.cn/points/274/mlit5mp28_1721894266826.jpg?plan=h160",
+      "ep": 16,
+      "s": 936,
+      "geo": [
+        35.7032,
+        139.4001
+      ]
+    },
+    {
+      "id": "mliyv5lbl",
+      "cn": "和栞约会",
+      "name": "栞とデート（おやつ）",
+      "image": "https://image.anitabi.cn/points/274/mliyv5lbl_1721894733880.jpg?plan=h160",
+      "ep": 16,
+      "s": 938,
+      "geo": [
+        35.7039,
+        139.3988
+      ]
+    }
+  ],
+  "pointsLength": 37,
+  "imagesLength": 23,
+  "local_id": 9
+}

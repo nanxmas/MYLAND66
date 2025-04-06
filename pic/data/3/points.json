@@ -1,0 +1,391 @@
+[
+  {
+    "id": "mjlde1krf",
+    "name": "美凪天文台",
+    "image": "https://image.xinu.ink/pic/data/3/images/mjlde1krf_1721743241104.jpg",
+    "ep": 1,
+    "s": 149,
+    "geo": [
+      35.6505,
+      134.6339
+    ],
+    "origin": "Anitabi@鸟之诗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mk55ju9vl",
+    "name": "初次的对话",
+    "image": "https://image.xinu.ink/pic/data/3/images/mk55ju9vl_1721786240422.jpg",
+    "ep": 1,
+    "s": 254,
+    "geo": [
+      33.9373,
+      131.0092
+    ],
+    "origin": "Anitabi@鸟之诗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mjmqd40vv",
+    "name": "桥",
+    "image": "https://image.xinu.ink/pic/data/3/images/mjmqd40vv_1721746079077.jpg",
+    "ep": 1,
+    "s": 348,
+    "geo": [
+      35.6444,
+      134.6122
+    ],
+    "origin": "Anitabi@鸟之诗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mjm6dcxuy",
+    "name": "往人观铃寻布偶",
+    "image": "https://image.xinu.ink/pic/data/3/images/mjm6dcxuy_1721744987666.jpg",
+    "ep": 1,
+    "s": 363,
+    "geo": [
+      35.6416,
+      134.6295
+    ],
+    "origin": "Anitabi@鸟之诗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cffc36e4",
+    "cn": "注意海啸！",
+    "name": "津波に注意",
+    "image": "https://image.xinu.ink/pic/data/3/images/cffc36e4_1721707530499.jpg",
+    "ep": 1,
+    "s": 786,
+    "geo": [
+      33.88,
+      135.151
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1SsjyRPbWxRYf0kGWUaC9iRgHsFZVLBW_&ll=33.880001%2C135.151045&z=17"
+  },
+  {
+    "id": "ae8ef487",
+    "cn": "高桥",
+    "name": "タカハシ（ハヤシ）",
+    "image": "https://image.xinu.ink/pic/data/3/images/ae8ef487_1721707519739.jpg",
+    "ep": 1,
+    "s": 1060,
+    "geo": [
+      33.8895,
+      135.1477
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1SsjyRPbWxRYf0kGWUaC9iRgHsFZVLBW_&ll=33.889511%2C135.147742&z=17"
+  },
+  {
+    "id": "mjkhb1mzt",
+    "name": "神尾家",
+    "image": "https://image.xinu.ink/pic/data/3/images/mjkhb1mzt_1721786280898.jpg",
+    "ep": 2,
+    "s": 309,
+    "geo": [
+      41.7637,
+      140.714
+    ],
+    "origin": "@Hanks",
+    "originLink": "https://anime-tourism.jp/t/124/135-10/"
+  },
+  {
+    "id": "mjq56vioz",
+    "name": "雾岛诊所",
+    "image": "https://image.xinu.ink/pic/data/3/images/mjq56vioz_1721753538910.jpg",
+    "ep": 2,
+    "s": 391,
+    "geo": [
+      35.6955,
+      139.4507
+    ],
+    "origin": "Anitabi@鸟之诗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "78facb0f",
+    "cn": "少女送回家的路上",
+    "name": "少女を送った帰り道",
+    "image": "https://image.xinu.ink/pic/data/3/images/78facb0f_1721707524749.jpg",
+    "ep": 2,
+    "s": 654,
+    "geo": [
+      33.8796,
+      135.1517
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1SsjyRPbWxRYf0kGWUaC9iRgHsFZVLBW_&ll=33.879626%2C135.151782&z=17"
+  },
+  {
+    "id": "5c44usrvc",
+    "name": "御崎神社海边鸟居",
+    "image": "https://image.xinu.ink/pic/data/3/images/5c44usrvc_1721707195249.jpg",
+    "ep": 2,
+    "s": 1073,
+    "geo": [
+      33.8935,
+      135.1203
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=17mMhYSmV2I0skjewp51sNESk_B8&ll=33.893557%2C135.12037&z=17"
+  },
+  {
+    "id": "mk5sa3idl",
+    "name": "有海景的神社",
+    "image": "https://image.xinu.ink/pic/data/3/images/mk5sa3idl_1721787773811.jpg",
+    "ep": 2,
+    "s": 1075,
+    "geo": [
+      35.6799,
+      139.4437
+    ],
+    "origin": "Anitabi@鸟之诗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3ce9840d",
+    "cn": "观铃和往人走在堤岸上",
+    "name": "堤防の上を歩く観鈴と往人",
+    "image": "https://image.xinu.ink/pic/data/3/images/3ce9840d_1721707534389.jpg",
+    "ep": 3,
+    "s": 919,
+    "geo": [
+      33.8912,
+      135.0807
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1SsjyRPbWxRYf0kGWUaC9iRgHsFZVLBW_&ll=33.891276%2C135.080781&z=17"
+  },
+  {
+    "id": "5c44usrx6",
+    "cn": "小满",
+    "name": "みちる",
+    "image": "https://image.xinu.ink/pic/data/3/images/5c44usrx6_1673198321220.jpg",
+    "ep": 4,
+    "s": 494,
+    "geo": [
+      33.8906,
+      135.079
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=17mMhYSmV2I0skjewp51sNESk_B8&ll=33.890648%2C135.079047&z=17"
+  },
+  {
+    "id": "kjeekqe7l",
+    "cn": "往人和晴子的回家之路",
+    "name": " 往人と晴子が家に帰る道",
+    "image": "https://image.xinu.ink/pic/data/3/images/kjeekqe7l-1716085744833.jpg",
+    "ep": 5,
+    "s": 880,
+    "geo": [
+      33.8913,
+      135.0805
+    ]
+  },
+  {
+    "id": "9e525198",
+    "cn": "在圣和往人交谈的桥上",
+    "name": "聖と往人が会話をする橋の上",
+    "image": "https://image.xinu.ink/pic/data/3/images/9e525198_1721707539026.jpg",
+    "ep": 5,
+    "s": 1185,
+    "geo": [
+      33.8913,
+      135.0799
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1SsjyRPbWxRYf0kGWUaC9iRgHsFZVLBW_&ll=33.891374%2C135.079901&z=17"
+  },
+  {
+    "id": "5c44uss2z",
+    "cn": "美凪的回忆",
+    "name": "美凪回想",
+    "image": "https://image.xinu.ink/pic/data/3/images/5c44uss2z_1673198243982.jpg",
+    "ep": 6,
+    "s": 735,
+    "geo": [
+      33.8892,
+      135.147
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=17mMhYSmV2I0skjewp51sNESk_B8&ll=33.889237%2C135.147038&z=17"
+  },
+  {
+    "id": "dbd8d973",
+    "cn": "铁路",
+    "name": "線路",
+    "image": "https://image.xinu.ink/pic/data/3/images/dbd8d973_1721707516275.jpg",
+    "ep": 6,
+    "s": 1286,
+    "geo": [
+      33.8865,
+      135.1529
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1SsjyRPbWxRYf0kGWUaC9iRgHsFZVLBW_&ll=33.886594%2C135.15297&z=17"
+  },
+  {
+    "id": "mjoc3wuaa",
+    "cn": "八百比丘尼洞",
+    "name": 18,
+    "image": "https://image.xinu.ink/pic/data/3/images/mjoc3wuaa_1721749915414.jpg",
+    "ep": 9,
+    "s": 945,
+    "geo": [
+      35.4917,
+      135.7392
+    ],
+    "origin": "Anitabi@鸟之诗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5c44uss7r",
+    "cn": "烟树海岸",
+    "name": "煙樹海岸",
+    "image": "https://image.xinu.ink/pic/data/3/images/5c44uss7r_1673198282856.jpg",
+    "ep": 11,
+    "s": 1279,
+    "geo": [
+      33.8924,
+      135.1214
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=17mMhYSmV2I0skjewp51sNESk_B8&ll=33.892416%2C135.121408&z=17"
+  },
+  {
+    "id": "mk667y5pn",
+    "name": "观铃与晴子的最后一段路 1",
+    "image": "https://image.xinu.ink/pic/data/3/images/mk667y5pn_1721788617824.jpg",
+    "ep": 12,
+    "s": 567,
+    "geo": [
+      35.5024,
+      135.4014
+    ],
+    "origin": "Anitabi@鸟之诗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mk6frl517",
+    "name": "碾米所",
+    "image": "https://image.xinu.ink/pic/data/3/images/mk6frl517_1721788976800.jpg",
+    "ep": 12,
+    "s": 573,
+    "geo": [
+      35.502,
+      135.4026
+    ],
+    "origin": "Anitabi@鸟之诗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mk6q9h7tp",
+    "name": "防火水池",
+    "image": "https://image.xinu.ink/pic/data/3/images/mk6q9h7tp_1721789713302.jpg",
+    "ep": 12,
+    "s": 605,
+    "geo": [
+      35.5028,
+      135.4009
+    ],
+    "origin": "Anitabi@鸟之诗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mjhzjzuwz",
+    "name": "美凪与铁路",
+    "image": "https://image.xinu.ink/pic/data/3/images/mjhzjzuwz_1721735873784.jpg",
+    "ep": 12,
+    "s": 1008,
+    "geo": [
+      35.5116,
+      135.2852
+    ],
+    "origin": "Anitabi@鸟之诗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mk4sxzhl3",
+    "name": "Bus Stop",
+    "image": "https://image.xinu.ink/pic/data/3/images/mk4sxzhl3_1721785657820.jpg",
+    "geo": [
+      35.6954,
+      139.4507
+    ],
+    "origin": "Anitabi@鸟之诗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mjpal0fsi",
+    "name": "白野江小学",
+    "image": "https://image.xinu.ink/pic/data/3/images/mjpal0fsi_1721751745348.jpg",
+    "geo": [
+      33.9384,
+      131.0078
+    ],
+    "origin": "Anitabi@鸟之诗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mjpvam80l",
+    "name": "海边STOP",
+    "image": "https://image.xinu.ink/pic/data/3/images/mjpvam80l_1721752893316.jpg",
+    "geo": [
+      34.4947,
+      133.6219
+    ],
+    "origin": "Anitabi@鸟之诗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mjhix2o67",
+    "name": "佳乃与圣眺望远方",
+    "image": "https://image.xinu.ink/pic/data/3/images/mjhix2o67_1721734724857.jpg",
+    "geo": [
+      33.881,
+      135.0604
+    ],
+    "origin": "Anitabi@鸟之诗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mjp3kjxvk",
+    "cn": "武田商店",
+    "name": "武田商店",
+    "image": "https://image.xinu.ink/pic/data/3/images/mjp3kjxvk_1721751327739.jpg",
+    "geo": [
+      33.9423,
+      131.0105
+    ],
+    "origin": "Anitabi@鸟之诗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "d642281e",
+    "cn": "中谷洋服店",
+    "name": "中谷洋服店",
+    "image": "https://image.xinu.ink/pic/data/3/images/d642281e_1721707517541.jpg",
+    "ep": null,
+    "s": "",
+    "geo": [
+      33.8894,
+      135.1503
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1SsjyRPbWxRYf0kGWUaC9iRgHsFZVLBW_&ll=33.889404%2C135.150314&z=17"
+  },
+  {
+    "id": "mk7d4qyug",
+    "name": "电车站",
+    "image": "https://image.xinu.ink/pic/data/3/images/mk7d4qyug_1721790993607.jpg",
+    "geo": [
+      35.636,
+      140.4575
+    ],
+    "origin": "Anitabi@鸟之诗",
+    "originURL": "https://anitabi.cn/"
+  }
+]

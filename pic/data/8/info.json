@@ -1,0 +1,85 @@
+{
+  "id": 265,
+  "cn": "新世纪福音战士",
+  "title": "新世紀エヴァンゲリオン",
+  "city": "神奈川县",
+  "cover": "https://image.xinu.ink/pic/data/8/images/265.jpg",
+  "color": "#713971",
+  "geo": [
+    35.248143,
+    139.031124
+  ],
+  "zoom": 12,
+  "modified": 1742400714806,
+  "litePoints": [
+    {
+      "id": "2m71cf11x",
+      "name": "箱根湯本駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/265/points/2m71cf11x-1725815885738.jpg?plan=h160",
+      "ep": 12,
+      "s": 318,
+      "geo": [
+        35.2331,
+        139.104
+      ]
+    },
+    {
+      "id": "2m71cf0nh",
+      "name": "大涌谷",
+      "image": "https://image.anitabi.cn/user/0/bangumi/265/points/2m71cf0nh-1720917941978.jpg?plan=h160",
+      "geo": [
+        35.2441,
+        139.0201
+      ]
+    },
+    {
+      "id": "nzk9emeei",
+      "cn": "南极",
+      "name": "南極 ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/265/points/nzk9emeei-1725815710700.jpg?plan=h160",
+      "s": 198,
+      "geo": [
+        -78.0312,
+        167.4755
+      ]
+    },
+    {
+      "id": "tv6drh1fc",
+      "name": "海珠湖公园",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/265/points/tv6drh1fc-1742398667869.jpg?plan=h160",
+      "geo": [
+        23.0759,
+        113.319
+      ]
+    },
+    {
+      "id": "2m71cf0bh",
+      "name": "金時神社",
+      "geo": [
+        35.2793,
+        139.0024
+      ]
+    },
+    {
+      "id": "2m71cf171",
+      "name": "箱根神社",
+      "geo": [
+        35.2046,
+        139.0254
+      ]
+    },
+    {
+      "id": "miylrhzih",
+      "cn": "仙石原中学校迹",
+      "name": "仙石原中学校跡",
+      "image": null,
+      "geo": [
+        35.2678,
+        139.0067
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 4,
+  "local_id": 8
+}

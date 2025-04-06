@@ -1,0 +1,52 @@
+[
+  {
+    "id": "2m71cf11x",
+    "name": "箱根湯本駅",
+    "image": "https://image.xinu.ink/pic/data/8/images/2m71cf11x-1725815885738.jpg",
+    "ep": 12,
+    "s": 318,
+    "geo": [
+      35.2331,
+      139.104
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ODFeoYj14UaaLPtuEEvNBxmkJJA&ll=35.233189%2C139.104056&z=17"
+  },
+  {
+    "id": "2m71cf0nh",
+    "name": "大涌谷",
+    "image": "https://image.xinu.ink/pic/data/8/images/2m71cf0nh-1720917941978.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      35.2441,
+      139.0201
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ODFeoYj14UaaLPtuEEvNBxmkJJA&ll=35.244137%2C139.02014&z=17"
+  },
+  {
+    "id": "nzk9emeei",
+    "cn": "南极",
+    "name": "南極 ",
+    "image": "https://image.xinu.ink/pic/data/8/images/nzk9emeei-1725815710700.jpg",
+    "ep": null,
+    "s": 198,
+    "geo": [
+      -78.0312,
+      167.4755
+    ]
+  },
+  {
+    "id": "tv6drh1fc",
+    "name": "海珠湖公园",
+    "image": "https://image.xinu.ink/pic/data/8/images/tv6drh1fc-1742398667869.jpg",
+    "ep": null,
+    "geo": [
+      23.0759,
+      113.319
+    ],
+    "origin": "Anitabi@耿耿-げん",
+    "originURL": "https://anitabi.cn/"
+  }
+]

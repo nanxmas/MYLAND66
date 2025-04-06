@@ -1,0 +1,91 @@
+[
+  {
+    "id": "f1dtpl0y1",
+    "cn": "日本桥",
+    "name": "日本橋",
+    "image": "https://image.xinu.ink/pic/data/2/images/f1dtpl0y1-1700568465205.jpg",
+    "ep": 1,
+    "s": 318,
+    "geo": [
+      35.684,
+      139.7743
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.684065%2C139.774375&z=17"
+  },
+  {
+    "id": "kpx6okoho",
+    "name": "高田馬場住宅",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okoho-1717164396358.jpg",
+    "ep": 1,
+    "s": 894,
+    "geo": [
+      35.7164,
+      139.704
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.716418%2C139.704006&z=17"
+  },
+  {
+    "id": "kpx6okhu9",
+    "name": "二子玉川高架橋下",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okhu9-1719683412165.jpg",
+    "ep": 2,
+    "s": 903,
+    "geo": [
+      35.6108,
+      139.6259
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.610898%2C139.625947&z=17"
+  },
+  {
+    "id": "imgdy1as9",
+    "name": "山和​証券​(株)​深川​支店",
+    "image": "https://image.xinu.ink/pic/data/2/images/imgdy1as9-1710683308671.jpg",
+    "ep": 3,
+    "s": 3050,
+    "geo": [
+      35.6849,
+      139.7987
+    ]
+  },
+  {
+    "id": "kpx6okih2",
+    "name": "高さ制限表示",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okih2-1726125965291.jpg",
+    "ep": 2,
+    "s": 326,
+    "geo": [
+      35.7053,
+      139.656
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.705386%2C139.656055&z=17"
+  },
+  {
+    "id": "kpx6okgkk",
+    "name": "聖蹟桜ヶ丘 いろは坂",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okgkk-1726125618744.jpg",
+    "ep": 2,
+    "geo": [
+      35.646,
+      139.4456
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.646089%2C139.445692&z=17"
+  },
+  {
+    "id": "kpx6okpkz",
+    "name": "稲毛浅間神社",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okpkz-1742734460002.jpg",
+    "ep": null,
+    "s": 1646,
+    "geo": [
+      35.6366,
+      140.0824
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.636615%2C140.082465&z=17"
+  }
+]

@@ -1,0 +1,119 @@
+{
+  "id": 233,
+  "cn": "",
+  "title": "空の境界 第一章 俯瞰風景",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/2/images/233.jpg",
+  "color": "#2a5580",
+  "geo": [
+    35.587821648976416,
+    139.6846382211777
+  ],
+  "zoom": 8.946,
+  "modified": 1742754363359,
+  "litePoints": [
+    {
+      "id": "f1dtpl0y1",
+      "cn": "日本桥",
+      "name": "日本橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/233/points/f1dtpl0y1-1700568465205.jpg?plan=h160",
+      "ep": 1,
+      "s": 318,
+      "geo": [
+        35.684,
+        139.7743
+      ]
+    },
+    {
+      "id": "kpx6okoho",
+      "name": "高田馬場住宅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/233/points/kpx6okoho-1717164396358.jpg?plan=h160",
+      "ep": 1,
+      "s": 894,
+      "geo": [
+        35.7164,
+        139.704
+      ]
+    },
+    {
+      "id": "kpx6okhu9",
+      "name": "二子玉川高架橋下",
+      "image": "https://image.anitabi.cn/user/0/bangumi/233/points/kpx6okhu9-1719683412165.jpg?plan=h160",
+      "ep": 2,
+      "s": 903,
+      "geo": [
+        35.6108,
+        139.6259
+      ]
+    },
+    {
+      "id": "imgdy1as9",
+      "name": "山和​証券​(株)​深川​支店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/233/points/imgdy1as9-1710683308671.jpg?plan=h160",
+      "ep": 3,
+      "s": 3050,
+      "geo": [
+        35.6849,
+        139.7987
+      ]
+    },
+    {
+      "id": "kpx6okih2",
+      "name": "高さ制限表示",
+      "image": "https://image.anitabi.cn/user/0/bangumi/233/points/kpx6okih2-1726125965291.jpg?plan=h160",
+      "ep": 2,
+      "s": 326,
+      "geo": [
+        35.7053,
+        139.656
+      ]
+    },
+    {
+      "id": "kpx6okgkk",
+      "name": "聖蹟桜ヶ丘 いろは坂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/233/points/kpx6okgkk-1726125618744.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.646,
+        139.4456
+      ]
+    },
+    {
+      "id": "kpx6okpkz",
+      "name": "稲毛浅間神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/233/points/kpx6okpkz-1742734460002.jpg?plan=h160",
+      "s": 1646,
+      "geo": [
+        35.6366,
+        140.0824
+      ]
+    },
+    {
+      "id": "kpx6okh3p",
+      "name": "天秤橋",
+      "geo": [
+        35.7582,
+        139.6257
+      ]
+    },
+    {
+      "id": "kpx6okgzz",
+      "name": "石神井川河川敷遊歩道",
+      "geo": [
+        35.7393,
+        139.6118
+      ]
+    },
+    {
+      "id": "kpx6okh9i",
+      "name": "光が丘地区区民館",
+      "geo": [
+        35.7577,
+        139.6257
+      ]
+    }
+  ],
+  "pointsLength": 51,
+  "imagesLength": 7,
+  "local_id": 2
+}

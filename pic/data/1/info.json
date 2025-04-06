@@ -1,0 +1,129 @@
+{
+  "id": 51,
+  "cn": "CLANNAD",
+  "title": "CLANNAD -クラナド-",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/1/images/51.jpg",
+  "color": "#7f6a95",
+  "cp": "光坂高校演劇部",
+  "geo": [
+    35.5996410465693,
+    139.46615254286093
+  ],
+  "zoom": 8.838,
+  "modified": 1740652407454,
+  "litePoints": [
+    {
+      "id": "5c4dgq9t5",
+      "name": "「CLANNAD」DVD：第8巻　表紙",
+      "image": "https://image.anitabi.cn/points/51/5c4dgq9t5_1673198683058.jpg?plan=h160",
+      "ep": 1,
+      "s": 1194,
+      "geo": [
+        35.7637,
+        139.3616
+      ]
+    },
+    {
+      "id": "5c4dgq9dw",
+      "name": "羽村駅",
+      "image": "https://image.anitabi.cn/points/51/5c4dgq9dw_1673198683976.jpg?plan=h160",
+      "ep": 12,
+      "s": 380,
+      "geo": [
+        35.7584,
+        139.3159
+      ]
+    },
+    {
+      "id": "5c4dgq9g7",
+      "name": "かめのこ児童公園",
+      "image": "https://image.anitabi.cn/points/51/5c4dgq9g7_1673198685092.jpg?plan=h160",
+      "ep": 20,
+      "s": 11,
+      "geo": [
+        35.7651,
+        139.3191
+      ]
+    },
+    {
+      "id": "5c4dgq9lp",
+      "name": "羽村動物公園東の交差点",
+      "image": "https://image.anitabi.cn/points/51/5c4dgq9lp_1673198685770.jpg?plan=h160",
+      "ep": 5,
+      "s": 129,
+      "geo": [
+        35.764,
+        139.3302
+      ]
+    },
+    {
+      "id": "5c4dgq9fk",
+      "name": "狭山池公園1",
+      "image": "https://image.anitabi.cn/points/51/5c4dgq9fk_1673198686837.jpg?plan=h160",
+      "ep": 8,
+      "s": 1157,
+      "geo": [
+        35.7763,
+        139.3483
+      ]
+    },
+    {
+      "id": "5c4dgqa0x",
+      "name": "狭山池公園３",
+      "image": "https://image.anitabi.cn/points/51/5c4dgqa0x_1673198688962.jpg?plan=h160",
+      "ep": 8,
+      "s": 1168,
+      "geo": [
+        35.7763,
+        139.3487
+      ]
+    },
+    {
+      "id": "5c4dgq9s2",
+      "name": "スカイホール",
+      "image": "https://image.anitabi.cn/points/51/5c4dgq9s2_1673198689759.jpg?plan=h160",
+      "ep": 1,
+      "s": 7,
+      "geo": [
+        35.7745,
+        139.3554
+      ]
+    },
+    {
+      "id": "5c4dgq9pm",
+      "name": "OP画面",
+      "image": "https://image.anitabi.cn/points/51/5c4dgq9pm_1673198690672.jpg?plan=h160",
+      "s": 198,
+      "geo": [
+        35.7728,
+        139.3545
+      ]
+    },
+    {
+      "id": "5c4dgq9x2",
+      "name": "春原と岡崎喧嘩の翌日",
+      "image": "https://image.anitabi.cn/points/51/5c4dgq9x2_1673198691952.jpg?plan=h160",
+      "ep": 4,
+      "s": 1170,
+      "geo": [
+        35.7729,
+        139.3543
+      ]
+    },
+    {
+      "id": "5c4dgq9ue",
+      "name": "ことみのおじさん襲来１",
+      "image": "https://image.anitabi.cn/points/51/5c4dgq9ue_1673198692888.jpg?plan=h160",
+      "ep": 11,
+      "s": 1292,
+      "geo": [
+        35.7729,
+        139.3542
+      ]
+    }
+  ],
+  "pointsLength": 63,
+  "imagesLength": 62,
+  "local_id": 1
+}
