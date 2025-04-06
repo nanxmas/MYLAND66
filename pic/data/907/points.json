@@ -1,0 +1,76 @@
+[
+  {
+    "id": "p3u06wbqn",
+    "name": "京王井の頭線の踏切 東から",
+    "image": "https://image.xinu.ink/pic/data/907/images/p3u06wbqn-1728971739816.jpg",
+    "ep": 1,
+    "s": 401,
+    "geo": [
+      35.6995,
+      139.5817
+    ],
+    "origin": "むすび",
+    "originLink": "https://musubi10.com/kimihameidosama-seichi/#toc2"
+  },
+  {
+    "id": "p3u682asw",
+    "name": "京王井の頭線の踏切（水門通り/吉祥寺南町）",
+    "image": "https://image.xinu.ink/pic/data/907/images/p3u682asw-1728971846583.jpg",
+    "ep": 1,
+    "s": 20,
+    "geo": [
+      35.6994,
+      139.5817
+    ],
+    "origin": "むすび",
+    "originLink": "https://musubi10.com/kimihameidosama-seichi/#toc2"
+  },
+  {
+    "id": "p3tha1twe",
+    "name": "八王子中町ビル",
+    "image": "https://image.xinu.ink/pic/data/907/images/p3tha1twe-1728970277869.jpg",
+    "ep": "ed",
+    "geo": [
+      35.6577,
+      139.3373
+    ],
+    "origin": "むすび",
+    "originLink": "https://musubi10.com/kimihameidosama-seichi/#toc2"
+  },
+  {
+    "id": "p3tm1nuzd",
+    "name": "伝統漢方 薬局火の鳥 八王子店の前の信号",
+    "image": "https://image.xinu.ink/pic/data/907/images/p3tm1nuzd-1728970555322.jpg",
+    "ep": "ed",
+    "geo": [
+      35.6575,
+      139.34
+    ],
+    "origin": "むすび",
+    "originLink": "https://musubi10.com/kimihameidosama-seichi/#toc2"
+  },
+  {
+    "id": "p3trn199n",
+    "name": "京王線の踏切（八王子市北野町）",
+    "image": "https://image.xinu.ink/pic/data/907/images/p3trn199n-1728970897329.jpg",
+    "ep": "ed",
+    "geo": [
+      35.6536,
+      139.3472
+    ],
+    "origin": "むすび",
+    "originLink": "https://musubi10.com/kimihameidosama-seichi/#toc2"
+  },
+  {
+    "id": "p3tvcq1hh",
+    "name": "横浜線のアンダーパス付近（八王子市子安町）",
+    "image": "https://image.xinu.ink/pic/data/907/images/p3tvcq1hh-1728971117487.jpg",
+    "ep": "ed",
+    "geo": [
+      35.6537,
+      139.3455
+    ],
+    "origin": "むすび",
+    "originLink": "https://musubi10.com/kimihameidosama-seichi/#toc2"
+  }
+]

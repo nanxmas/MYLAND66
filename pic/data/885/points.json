@@ -1,0 +1,624 @@
+[
+  {
+    "id": "rmmd6tjfi",
+    "name": "具志川ビーチ",
+    "image": "https://image.xinu.ink/pic/data/885/images/rmmd6tjfi_1736085914597.jpg",
+    "ep": 1,
+    "s": 167,
+    "geo": [
+      26.3639,
+      127.8728
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rmmrwb0xe",
+    "name": "平安座海中大橋 空中",
+    "image": "https://image.xinu.ink/pic/data/885/images/rmmrwb0xe_1736086818164.jpg",
+    "ep": 1,
+    "s": 172,
+    "geo": [
+      26.3316,
+      127.9165
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rmmgrlkvh",
+    "name": "具志川公民館",
+    "image": "https://image.xinu.ink/pic/data/885/images/rmmgrlkvh_1736086129984.jpg",
+    "ep": 1,
+    "s": 175,
+    "geo": [
+      26.3583,
+      127.8702
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rmmhskvzp",
+    "name": "番所跡公園",
+    "image": "https://image.xinu.ink/pic/data/885/images/rmmhskvzp_1736086203266.jpg",
+    "ep": 1,
+    "s": 180,
+    "geo": [
+      26.3589,
+      127.8693
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rmmex93r9",
+    "name": "知念商店",
+    "image": "https://image.xinu.ink/pic/data/885/images/rmmex93r9_1736086020593.jpg",
+    "ep": 1,
+    "s": 183,
+    "geo": [
+      26.3572,
+      127.8702
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rpkbzn5ts",
+    "cn": "全家具志川大田店 うるま市交通安全楽シ～サ～",
+    "name": "ファミリーマート具志川大田店 うるま市交通安全楽シ～サ～",
+    "image": "https://image.xinu.ink/pic/data/885/images/rpkbzn5ts-1736316577812.jpg",
+    "ep": 1,
+    "s": 189,
+    "geo": [
+      26.3501,
+      127.8699
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rpkihxnh8",
+    "cn": "具志川海滩　防波堤",
+    "name": "具志川ビーチ　防波堤",
+    "image": "https://image.xinu.ink/pic/data/885/images/rpkihxnh8-1736316967240.jpg",
+    "ep": 1,
+    "s": 493,
+    "geo": [
+      26.3653,
+      127.873
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rmmkj905m",
+    "name": "金武湾バス停",
+    "image": "https://image.xinu.ink/pic/data/885/images/rmmkj905m_1736086401953.jpg",
+    "ep": 1,
+    "s": 586,
+    "geo": [
+      26.3632,
+      127.8688
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rxoffql5u",
+    "cn": "放学路",
+    "name": "帰り道",
+    "image": "https://image.xinu.ink/pic/data/885/images/rxoffql5u-1736952416642.jpg",
+    "ep": 1,
+    "s": 818,
+    "geo": [
+      26.364,
+      127.8726
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rpls5h7qv",
+    "cn": "具志川海岸　闘牛",
+    "name": "具志川海岸　闘牛",
+    "image": "https://image.xinu.ink/pic/data/885/images/rpls5h7qv-1736319761292.jpg",
+    "ep": 1,
+    "s": 850,
+    "geo": [
+      26.3637,
+      127.8726
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rmkjs1o4z",
+    "name": "平安座海中大橋",
+    "image": "https://image.xinu.ink/pic/data/885/images/rmkjs1o4z-1736081988882.jpg",
+    "ep": 1,
+    "s": 923,
+    "geo": [
+      26.3317,
+      127.9155
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tlwyro61n",
+    "name": "与那城総合公園",
+    "image": "https://image.xinu.ink/pic/data/885/images/tlwyro61n_1741672859873.jpg",
+    "ep": 1,
+    "s": 924,
+    "geo": [
+      26.3286,
+      127.9083
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tlusfs21c",
+    "name": "具志川商高",
+    "image": "https://image.xinu.ink/pic/data/885/images/tlusfs21c-1741668097401.jpg",
+    "ep": 1,
+    "s": 935,
+    "geo": [
+      26.3801,
+      127.8538
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rmkwlt2pd",
+    "name": "守礼門",
+    "image": "https://image.xinu.ink/pic/data/885/images/rmkwlt2pd_1738870805880.jpg",
+    "ep": 1,
+    "s": 1359,
+    "geo": [
+      26.2181,
+      127.7168
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rml72g71m",
+    "name": "果報バンタ",
+    "image": "https://image.xinu.ink/pic/data/885/images/rml72g71m_1738870834816.jpg",
+    "ep": 1,
+    "s": 1363,
+    "geo": [
+      26.3606,
+      127.9922
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rmnclzpaw",
+    "name": "古宇利大橋南詰展望所",
+    "image": "https://image.xinu.ink/pic/data/885/images/rmnclzpaw_1738870887071.jpg",
+    "ep": 1,
+    "s": 1375,
+    "geo": [
+      26.6789,
+      128.0126
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "sm5sverba",
+    "name": "ヤンバルクイナ展望台",
+    "image": "https://image.xinu.ink/pic/data/885/images/sm5sverba_1738871004222.jpg",
+    "ep": 1,
+    "s": 1382,
+    "geo": [
+      26.8624,
+      128.265
+    ],
+    "origin": "Anitabi@passion",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tlxerauhp",
+    "name": "富盛の石彫大獅子",
+    "image": "https://image.xinu.ink/pic/data/885/images/tlxerauhp_1741673963262.jpg",
+    "ep": 1,
+    "s": 1388,
+    "geo": [
+      26.1336,
+      127.7245
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rml4s51cu",
+    "name": "心岩",
+    "image": "https://image.xinu.ink/pic/data/885/images/rml4s51cu_1738871115181.jpg",
+    "ep": 1,
+    "s": 1394,
+    "geo": [
+      26.7136,
+      128.0145
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tlukfbs04",
+    "name": "備瀬のフクギ並木",
+    "image": "https://image.xinu.ink/pic/data/885/images/tlukfbs04-1741667615093.jpg",
+    "ep": 1,
+    "s": 1403,
+    "geo": [
+      26.7061,
+      127.8812
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rxlmww8ot",
+    "cn": "具志川海岸 親睦会",
+    "name": "具志川海岸 親睦会",
+    "image": "https://image.xinu.ink/pic/data/885/images/rxlmww8ot-1736946350023.jpg",
+    "ep": 2,
+    "s": 487,
+    "geo": [
+      26.3636,
+      127.8726
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rxm1cym2y",
+    "cn": "放学回家",
+    "name": "放課後帰り道",
+    "image": "https://image.xinu.ink/pic/data/885/images/rxm1cym2y-1736947198839.jpg",
+    "ep": 2,
+    "s": 885,
+    "geo": [
+      26.363,
+      127.869
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rxm49q2yn",
+    "cn": "かたぶい (阵雨)",
+    "name": "かたぶい",
+    "image": "https://image.xinu.ink/pic/data/885/images/rxm49q2yn-1736947454120.jpg",
+    "ep": 2,
+    "s": 898,
+    "geo": [
+      26.3632,
+      127.8689
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rxlwmmvzc",
+    "cn": "彩虹",
+    "name": "虹",
+    "image": "https://image.xinu.ink/pic/data/885/images/rxlwmmvzc-1736946922435.jpg",
+    "ep": 2,
+    "s": 935,
+    "geo": [
+      26.3628,
+      127.8701
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rxlujlt3i",
+    "cn": "下雨全身湿透的hina",
+    "name": "びしょ濡れひーなー",
+    "image": "https://image.xinu.ink/pic/data/885/images/rxlujlt3i-1736946840884.jpg",
+    "ep": 2,
+    "s": 981,
+    "geo": [
+      26.363,
+      127.8707
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rxnq7y9rl",
+    "cn": "夏菜椅",
+    "name": "沖ツラベンチ",
+    "image": "https://image.xinu.ink/pic/data/885/images/rxnq7y9rl-1736951374509.jpg",
+    "ep": 2,
+    "s": 1000,
+    "geo": [
+      26.364,
+      127.8727
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rxnox350m",
+    "name": "具志川海岸",
+    "image": "https://image.xinu.ink/pic/data/885/images/rxnox350m-1736950799625.jpg",
+    "ep": 2,
+    "s": 1009,
+    "geo": [
+      26.364,
+      127.8729
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rxo1aa092",
+    "cn": "具志川海岸 夕阳",
+    "name": "具志川海岸 夕焼け",
+    "image": "https://image.xinu.ink/pic/data/885/images/rxo1aa092-1736951579998.jpg",
+    "ep": 2,
+    "s": 1011,
+    "geo": [
+      26.3672,
+      127.8745
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rxno2r3qx",
+    "name": "初会",
+    "image": "https://image.xinu.ink/pic/data/885/images/rxno2r3qx-1736950750675.jpg",
+    "ep": 2,
+    "s": 1120,
+    "geo": [
+      26.364,
+      127.8728
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tlwfdpu38",
+    "name": "リラクゼーションmaju",
+    "image": "https://image.xinu.ink/pic/data/885/images/tlwfdpu38_1741671673649.jpg",
+    "ep": 3,
+    "s": 247,
+    "geo": [
+      26.3563,
+      127.8707
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "setwwhoqs",
+    "name": "勝連城跡",
+    "image": "https://image.xinu.ink/pic/data/885/images/setwwhoqs-1738296554898.jpg",
+    "ep": 3,
+    "s": 297,
+    "geo": [
+      26.3304,
+      127.8792
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "seua3fz3e",
+    "name": "ぜんざい専門家～",
+    "image": "https://image.xinu.ink/pic/data/885/images/seua3fz3e-1738297336571.jpg",
+    "ep": 3,
+    "s": 656,
+    "geo": [
+      26.3394,
+      127.8799
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "seuclrh1s",
+    "name": "ぜんざい専門家～ 外",
+    "image": "https://image.xinu.ink/pic/data/885/images/seuclrh1s-1738297499785.jpg",
+    "ep": 3,
+    "s": 741,
+    "geo": [
+      26.3394,
+      127.88
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tluzvfhl8",
+    "name": "ほっともっと田場店",
+    "image": "https://image.xinu.ink/pic/data/885/images/tluzvfhl8-1741668632522.jpg",
+    "ep": 4,
+    "s": 1099,
+    "geo": [
+      26.3685,
+      127.8595
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tlvc9de7e",
+    "name": "サンエーV21",
+    "image": "https://image.xinu.ink/pic/data/885/images/tlvc9de7e-1741669299395.jpg",
+    "ep": 5,
+    "s": 413,
+    "geo": [
+      26.3641,
+      127.8685
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "sgztei0i0",
+    "name": "サンエー 具志川メインシティ",
+    "image": "https://image.xinu.ink/pic/data/885/images/sgztei0i0_1740284629277.jpg",
+    "ep": 5,
+    "s": 637,
+    "geo": [
+      26.3532,
+      127.8257
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "spdwoyd3v",
+    "name": "具志川そば 愛ちゃん",
+    "image": "https://image.xinu.ink/pic/data/885/images/spdwoyd3v_1739123711149.jpg",
+    "ep": 6,
+    "s": 568,
+    "geo": [
+      26.349,
+      127.87
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tlvn2gp4j",
+    "name": " 和樂  居酒屋",
+    "image": "https://image.xinu.ink/pic/data/885/images/tlvn2gp4j_1741670095255.jpg",
+    "ep": 6,
+    "s": 1065,
+    "geo": [
+      26.3594,
+      127.8696
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tlvkzxxxr",
+    "name": "和樂  居酒屋",
+    "image": "https://image.xinu.ink/pic/data/885/images/tlvkzxxxr-1741669823518.jpg",
+    "ep": 6,
+    "s": 1074,
+    "geo": [
+      26.3594,
+      127.8696
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tlvtcle7w",
+    "name": "和樂 居酒屋",
+    "image": "https://image.xinu.ink/pic/data/885/images/tlvtcle7w_1741670329175.jpg",
+    "ep": 6,
+    "s": 1082,
+    "geo": [
+      26.3594,
+      127.8696
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tluy8gdy7",
+    "name": "ユニオン　あげな店",
+    "image": "https://image.xinu.ink/pic/data/885/images/tluy8gdy7-1741668452331.jpg",
+    "ep": 7,
+    "s": 206,
+    "geo": [
+      26.3771,
+      127.8567
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "t45vufidh",
+    "name": "A&W牧港店",
+    "image": "https://image.xinu.ink/pic/data/885/images/t45vufidh-1740281729928.jpg",
+    "ep": 8,
+    "s": 761,
+    "geo": [
+      26.2668,
+      127.7283
+    ],
+    "origin": "黒田春日子",
+    "originLink": "https://bgm.tv/ep/1433487"
+  },
+  {
+    "id": "t472gbv0g",
+    "cn": "YUI-RAIL首里站内",
+    "name": "ゆいレール首里駅内",
+    "image": "https://image.xinu.ink/pic/data/885/images/t472gbv0g-1740284366843.jpg",
+    "ep": 8,
+    "s": 1053,
+    "geo": [
+      26.2191,
+      127.7254
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "t46ytf2g5",
+    "cn": "YUI-RAIL首里站",
+    "name": "ゆいレール首里駅",
+    "image": "https://image.xinu.ink/pic/data/885/images/t46ytf2g5-1740284167105.jpg",
+    "ep": 8,
+    "s": 1063,
+    "geo": [
+      26.2191,
+      127.7253
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tynmi4oix",
+    "name": "津波三味線店",
+    "image": "https://image.xinu.ink/pic/data/885/images/tynmi4oix_1742671345239.jpg",
+    "ep": 12,
+    "s": 415,
+    "geo": [
+      26.368,
+      127.8507
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "psuj5g0ta",
+    "cn": "冲绳国际通入口",
+    "name": "国际通 くさいとおり",
+    "image": "https://image.xinu.ink/pic/data/885/images/psuj5g0ta_1730931711031.jpg",
+    "geo": [
+      26.2137,
+      127.6807
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tlwir7rm6",
+    "name": "动画主视觉图",
+    "image": "https://image.xinu.ink/pic/data/885/images/tlwir7rm6_1741672378684.jpg",
+    "s": "",
+    "geo": [
+      26.3571,
+      127.8685
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  }
+]

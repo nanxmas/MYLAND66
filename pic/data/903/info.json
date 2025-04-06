@@ -1,0 +1,134 @@
+{
+  "id": 467461,
+  "cn": "当哒当",
+  "title": "ダンダダン",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/903/images/467461.jpg",
+  "color": "#aa0000",
+  "cp": "ダンダダン",
+  "geo": [
+    35.733069000000725,
+    139.41452599999616
+  ],
+  "zoom": 9.256,
+  "modified": 1735060891771,
+  "litePoints": [
+    {
+      "id": "pnjvgd22e",
+      "name": "拓殖大学第一高等学校",
+      "image": "https://image.anitabi.cn/points/467461/pnjvgd22e_1730516641491_c16v9.jpg?plan=h160",
+      "ep": 5,
+      "s": 69,
+      "geo": [
+        35.733,
+        139.4144
+      ]
+    },
+    {
+      "id": "pnjuaamm0",
+      "name": "拓殖大学第一高等学校南",
+      "image": "https://image.anitabi.cn/points/467461/pnjuaamm0_1730516578820_c16v9.jpg?plan=h160",
+      "ep": 5,
+      "s": 15,
+      "geo": [
+        35.7327,
+        139.4143
+      ]
+    },
+    {
+      "id": "p14k5amwh",
+      "name": "飯能銀座商店街",
+      "image": "https://image.anitabi.cn/points/467461/p14k5amwh_1728759290119_c16v9.jpg?plan=h160",
+      "ep": 2,
+      "s": 107,
+      "geo": [
+        35.8528,
+        139.3196
+      ]
+    },
+    {
+      "id": "r67lunmn9",
+      "name": "あかね PARK",
+      "image": "https://image.anitabi.cn/points/467461/r67lunmn9_1734799965011.jpg?plan=h160",
+      "ep": 4,
+      "s": 1128,
+      "geo": [
+        35.8447,
+        139.2936
+      ]
+    },
+    {
+      "id": "r71wbgxm3",
+      "cn": "伊香保温泉石段街",
+      "name": "伊香保温泉石段街",
+      "image": "https://image.anitabi.cn/points/467461/r71wbgxm3_1734865884813.jpg?plan=h160",
+      "ep": 12,
+      "s": 742,
+      "geo": [
+        36.4993,
+        138.9171
+      ]
+    },
+    {
+      "id": "r8b2qf968",
+      "cn": "伊香保温泉石段街观光地图",
+      "name": "伊香保温泉石段街観光案内図",
+      "image": "https://image.anitabi.cn/points/467461/r8b2qf968_1734964230610.jpg?plan=h160",
+      "ep": 12,
+      "s": 743,
+      "geo": [
+        36.4992,
+        138.9172
+      ]
+    },
+    {
+      "id": "r8b6u2ck0",
+      "name": "38段/365",
+      "image": "https://image.anitabi.cn/points/467461/r8b6u2ck0_1734964488678.jpg?plan=h160",
+      "ep": 12,
+      "s": 744,
+      "geo": [
+        36.4985,
+        138.9167
+      ]
+    },
+    {
+      "id": "r8b4mun2f",
+      "cn": "足温泉 岸权 辰之汤",
+      "name": "足湯 岸権 辰の湯",
+      "image": "https://image.anitabi.cn/points/467461/r8b4mun2f_1734964351790.jpg?plan=h160",
+      "ep": 12,
+      "s": 744,
+      "geo": [
+        36.497,
+        138.9161
+      ]
+    },
+    {
+      "id": "r8bf6hnae",
+      "cn": "汤乃花馒头",
+      "name": "湯乃花饅頭",
+      "image": "https://image.anitabi.cn/points/467461/r8bf6hnae_1734964989567.jpg?plan=h160",
+      "ep": 12,
+      "s": 759,
+      "geo": [
+        36.4968,
+        138.9161
+      ]
+    },
+    {
+      "id": "r8bo7wqnh",
+      "name": "射的屋大坂屋",
+      "image": "https://image.anitabi.cn/points/467461/r8bo7wqnh_1734965535784.jpg?plan=h160",
+      "ep": 12,
+      "s": 762,
+      "geo": [
+        36.497,
+        138.9161
+      ]
+    }
+  ],
+  "pointsLength": 16,
+  "imagesLength": 16,
+  "local_id": 903
+}

@@ -1,0 +1,26 @@
+{
+  "id": 467641,
+  "cn": "魔法光源股份有限公司",
+  "title": "株式会社マジルミエ",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/904/images/467641_q40fo.jpg",
+  "color": "#d15b73",
+  "cp": "株式会社マジルミエ",
+  "modified": 1730643310965,
+  "litePoints": [
+    {
+      "id": "pp5u2ba74",
+      "name": "中野駅",
+      "image": "https://image.anitabi.cn/points/467641/pp5u2ba74_1730642804646.jpg?plan=h160",
+      "ep": 5,
+      "s": 752,
+      "geo": [
+        35.7063,
+        139.6659
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 904
+}

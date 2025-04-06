@@ -1,0 +1,139 @@
+{
+  "id": 460306,
+  "cn": "青之箱",
+  "title": "アオのハコ",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/897/images/460306.jpg",
+  "color": "#9fd3e0",
+  "cp": "アオのハコ",
+  "geo": [
+    35.716283000000004,
+    139.71822999999995
+  ],
+  "zoom": 18.018,
+  "modified": 1742618645024,
+  "litePoints": [
+    {
+      "id": "ormod3f2n",
+      "name": "川越東高",
+      "image": "https://image.anitabi.cn/points/460306/ormod3f2n_1728017154184_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 137,
+      "geo": [
+        35.8944,
+        139.5502
+      ]
+    },
+    {
+      "id": "p0dxq29ek",
+      "cn": "川越东高 教学楼",
+      "name": "川越東高",
+      "image": "https://image.anitabi.cn/points/460306/p0dxq29ek_1728701475357_c16v9.jpg?plan=h160",
+      "ep": 3,
+      "s": 1074,
+      "geo": [
+        35.8941,
+        139.5502
+      ]
+    },
+    {
+      "id": "p0edben8s",
+      "cn": "川越东高",
+      "name": "川越東高",
+      "image": "https://image.anitabi.cn/points/460306/p0edben8s_1728702418442_cut.jpg?plan=h160",
+      "ep": 3,
+      "s": 429,
+      "geo": [
+        35.8944,
+        139.5514
+      ]
+    },
+    {
+      "id": "p0dz27qq4",
+      "cn": "川越东高 西门",
+      "name": "川越東高",
+      "image": "https://image.anitabi.cn/points/460306/p0dz27qq4_1728701469078_c16v9.jpg?plan=h160",
+      "ep": 3,
+      "s": 1189,
+      "geo": [
+        35.8944,
+        139.5502
+      ]
+    },
+    {
+      "id": "otyq60kyo",
+      "cn": "川越東高体育馆与教学楼间",
+      "name": "川越東高",
+      "image": "https://image.anitabi.cn/points/460306/otyq60kyo_1728198092184_c16v9.jpg?plan=h160",
+      "ep": 2,
+      "s": 780,
+      "geo": [
+        35.8944,
+        139.5505
+      ]
+    },
+    {
+      "id": "ormpnoadi",
+      "cn": "川越东高 体育馆",
+      "name": "川越東高 体育館",
+      "image": "https://image.anitabi.cn/points/460306/ormpnoadi_1728017143227_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 106,
+      "geo": [
+        35.8945,
+        139.5503
+      ]
+    },
+    {
+      "id": "p0e38y42k",
+      "cn": "川越东高 体育馆休息室",
+      "name": "川越東高 体育館",
+      "image": "https://image.anitabi.cn/points/460306/p0e38y42k_1728702234377_c16v9.jpg?plan=h160",
+      "ep": 2,
+      "s": 690,
+      "geo": [
+        35.8945,
+        139.5515
+      ]
+    },
+    {
+      "id": "ormtjc2s7",
+      "cn": "川越东高 体育馆正门",
+      "name": "川越東高 体育館の入り口",
+      "image": "https://image.anitabi.cn/points/460306/ormtjc2s7_1728017139152_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 440,
+      "geo": [
+        35.8943,
+        139.5509
+      ]
+    },
+    {
+      "id": "orngzueaw",
+      "cn": "目白台1丁目游乐场",
+      "name": "文京区立目白台一丁目遊び場",
+      "image": "https://image.anitabi.cn/points/460306/orngzueaw_1728016836115.jpg?plan=h160",
+      "ep": 3,
+      "s": 881,
+      "geo": [
+        35.7162,
+        139.7181
+      ]
+    },
+    {
+      "id": "ornkrw7bz",
+      "cn": "Sun Shine水族馆",
+      "name": "サンシャイン​水族館",
+      "image": "https://image.anitabi.cn/points/460306/ornkrw7bz_1728017034603.jpg?plan=h160",
+      "ep": 5,
+      "s": 846,
+      "geo": [
+        35.7285,
+        139.7197
+      ]
+    }
+  ],
+  "pointsLength": 106,
+  "imagesLength": 106,
+  "local_id": 897
+}

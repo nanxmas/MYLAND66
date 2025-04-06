@@ -1,0 +1,120 @@
+{
+  "id": 441795,
+  "cn": "我心里危险的东西 2期",
+  "title": "僕の心のヤバイやつ 第2期",
+  "city": "目黑区",
+  "cover": "https://image.xinu.ink/pic/data/879/images/441795.jpg",
+  "color": "#fb37d1",
+  "geo": [
+    34.96814003874606,
+    135.77787436997335
+  ],
+  "zoom": 9.808,
+  "modified": 1738551885619,
+  "litePoints": [
+    {
+      "id": "j9oq6y9z9",
+      "cn": "稻荷大社",
+      "name": "稻荷大社",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/441795/points/j9oq6y9z9-1712503556950.jpg?plan=h160",
+      "ep": 13,
+      "s": 424,
+      "geo": [
+        34.9673,
+        135.7733
+      ]
+    },
+    {
+      "id": "j9pqf3ua3",
+      "cn": "原町交番",
+      "name": "碑文谷警察署 原町交番",
+      "image": "https://image.anitabi.cn/points/441795/j9pqf3ua3_1726752596262_c16v9.jpg?plan=h160",
+      "ep": 4,
+      "s": 816,
+      "geo": [
+        35.6151,
+        139.6914
+      ]
+    },
+    {
+      "id": "jmza8fg4m",
+      "cn": "共乐园",
+      "name": "共楽園",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/441795/points/jmza8fg4m-1713545226547.jpg?plan=h160",
+      "ep": 21,
+      "s": 311,
+      "geo": [
+        34.4098,
+        133.1991
+      ]
+    },
+    {
+      "id": "nn2uxljvq",
+      "cn": "稻荷站",
+      "name": "稻荷 稲荷駅",
+      "image": "https://image.anitabi.cn/points/441795/nn2uxljvq_1726752588811_c16v9.jpg?plan=h160",
+      "ep": 25,
+      "s": 812,
+      "geo": [
+        34.9668,
+        135.7709
+      ]
+    },
+    {
+      "id": "no1nmky3a",
+      "cn": "奈良公园",
+      "name": "奈良公园奈良公園",
+      "image": "https://image.anitabi.cn/points/441795/no1nmky3a_1726752592151_c16v9.jpg?plan=h160",
+      "ep": 24,
+      "s": 644,
+      "geo": [
+        34.6844,
+        135.8406
+      ]
+    },
+    {
+      "id": "shro24nrz",
+      "cn": "拉面二郎 三田本店",
+      "name": "ラーメン​二郎​三田​本店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/441795/points/shro24nrz-1738526906334.jpg?plan=h160",
+      "ep": 9,
+      "geo": [
+        35.648,
+        139.7416
+      ]
+    },
+    {
+      "id": "j9ozaz4nc",
+      "cn": "稻荷驿",
+      "name": "JR稲荷駅",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/441795/points/j9ozaz4nc-1712504033802.jpg?plan=h160",
+      "geo": [
+        34.9668,
+        135.7709
+      ]
+    },
+    {
+      "id": "j9pai002f",
+      "cn": "品川​站南口",
+      "name": "JR​東海道​新幹線​品川​駅",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/441795/points/j9pai002f-1712504699723.jpg?plan=h160",
+      "geo": [
+        35.6284,
+        139.74
+      ]
+    },
+    {
+      "id": "j9q2pnwsa",
+      "cn": "惠比寿​GardenPlace",
+      "name": "恵比寿​ガーデン​プレイス",
+      "image": null,
+      "geo": [
+        35.6423,
+        139.7139
+      ]
+    }
+  ],
+  "pointsLength": 10,
+  "imagesLength": 9,
+  "local_id": 879
+}

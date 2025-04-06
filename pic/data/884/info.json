@@ -1,0 +1,33 @@
+{
+  "id": 443857,
+  "title": "白蛇：浮生",
+  "cover": "https://image.xinu.ink/pic/data/884/images/443857_nY61Y.jpg",
+  "modified": 1730181476133,
+  "litePoints": [
+    {
+      "id": "pi9u3qgcw",
+      "cn": "断桥",
+      "name": "断桥",
+      "image": "https://image.anitabi.cn/user/0/bangumi/443857/points/pi9u3qgcw-1730102994772.jpg?plan=h160",
+      "ep": 10,
+      "s": 383,
+      "geo": [
+        30.2607,
+        120.1469
+      ]
+    },
+    {
+      "id": "pj742zugk",
+      "name": "金山寺",
+      "image": "https://image.anitabi.cn/user/0/bangumi/443857/points/pj742zugk-1730175450832.jpg?plan=h160",
+      "s": 6374,
+      "geo": [
+        32.2174,
+        119.4108
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 884
+}

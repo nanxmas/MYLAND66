@@ -1,0 +1,130 @@
+{
+  "id": 437593,
+  "cn": "杂旅-That's Journey-",
+  "title": "ざつ旅-That's Journey-",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/877/images/437593.jpg",
+  "color": "#322e23",
+  "cp": "ざつ旅",
+  "geo": [
+    37.5078233174723,
+    139.93055869191517
+  ],
+  "zoom": 14.709,
+  "modified": 1741631328730,
+  "litePoints": [
+    {
+      "id": "te46ays8m",
+      "name": "角川​第2​本社​ビル",
+      "image": "https://image.anitabi.cn/points/437593/te46ays8m_1741067673177.jpg?plan=h160",
+      "ep": 1,
+      "s": 70,
+      "geo": [
+        35.6978,
+        139.7441
+      ]
+    },
+    {
+      "id": "te4dd17gl",
+      "name": "郡山駅 新幹線",
+      "image": "https://image.anitabi.cn/points/437593/te4dd17gl_1741067723028.jpg?plan=h160",
+      "ep": 1,
+      "s": 415,
+      "geo": [
+        37.3974,
+        140.3882
+      ]
+    },
+    {
+      "id": "te4nnpldg",
+      "name": "郡山駅 在来線改札口",
+      "image": "https://image.anitabi.cn/points/437593/te4nnpldg_1741067714101.jpg?plan=h160",
+      "ep": 1,
+      "s": 424,
+      "geo": [
+        37.3977,
+        140.3884
+      ]
+    },
+    {
+      "id": "te4h0jro6",
+      "name": "郡山駅 磐越西線",
+      "image": "https://image.anitabi.cn/points/437593/te4h0jro6_1741067700494.jpg?plan=h160",
+      "ep": 1,
+      "s": 428,
+      "geo": [
+        37.3981,
+        140.3887
+      ]
+    },
+    {
+      "id": "te4pchkw6",
+      "name": "磐梯熱海駅内",
+      "image": "https://image.anitabi.cn/points/437593/te4pchkw6_1741067846336.jpg?plan=h160",
+      "ep": 1,
+      "s": 447,
+      "geo": [
+        37.4807,
+        140.2708
+      ]
+    },
+    {
+      "id": "te4r574lw",
+      "name": "磐梯熱海駅",
+      "image": "https://image.anitabi.cn/points/437593/te4r574lw_1741067899842.jpg?plan=h160",
+      "ep": 1,
+      "s": 454,
+      "geo": [
+        37.4808,
+        140.2709
+      ]
+    },
+    {
+      "id": "te4sgcr78",
+      "name": "磐梯熱海駅前足湯",
+      "image": "https://image.anitabi.cn/points/437593/te4sgcr78_1741067959836.jpg?plan=h160",
+      "ep": 1,
+      "s": 461,
+      "geo": [
+        37.4811,
+        140.2709
+      ]
+    },
+    {
+      "id": "te4vrafps",
+      "name": "会津若松駅",
+      "image": "https://image.anitabi.cn/points/437593/te4vrafps_1741068011632.jpg?plan=h160",
+      "ep": 1,
+      "s": 477,
+      "geo": [
+        37.5078,
+        139.9304
+      ]
+    },
+    {
+      "id": "te7it0u6k",
+      "name": "会津红牛「あかべぇ」",
+      "image": "https://image.anitabi.cn/points/437593/te7it0u6k_1741068908969.jpg?plan=h160",
+      "ep": 1,
+      "s": 482,
+      "geo": [
+        37.5078,
+        139.9304
+      ]
+    },
+    {
+      "id": "te77ihmzn",
+      "name": "会津若松駅前広場",
+      "image": "https://image.anitabi.cn/points/437593/te77ihmzn_1741068298914.jpg?plan=h160",
+      "ep": 1,
+      "s": 507,
+      "geo": [
+        37.5078,
+        139.9304
+      ]
+    }
+  ],
+  "pointsLength": 31,
+  "imagesLength": 31,
+  "local_id": 877
+}

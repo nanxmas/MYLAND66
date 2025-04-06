@@ -1,0 +1,137 @@
+{
+  "id": 454684,
+  "title": "BanG Dream! Ave Mujica",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/895/images/454684.jpg",
+  "color": "#8e1c1c",
+  "cp": "BanG Dream! Proj…",
+  "geo": [
+    35.73051499999984,
+    139.71264300000144
+  ],
+  "zoom": 13,
+  "modified": 1742578447258,
+  "litePoints": [
+    {
+      "id": "tddf2gkp4",
+      "cn": "台场海滨公园",
+      "name": "お台場海浜公園",
+      "image": "https://image.anitabi.cn/points/454684/tddf2gkp4_1741003441684.jpg?plan=h160",
+      "ep": 1,
+      "s": 408,
+      "geo": [
+        35.6274,
+        139.7715
+      ]
+    },
+    {
+      "id": "rdw0scllx",
+      "name": "赤羽警察署",
+      "image": "https://image.anitabi.cn/points/454684/rdw0scllx_1735835717585.jpg?plan=h160",
+      "ep": 1,
+      "s": 487,
+      "geo": [
+        35.7743,
+        139.733
+      ]
+    },
+    {
+      "id": "rdvy9d054",
+      "cn": "鱼友",
+      "name": "魚友",
+      "image": "https://image.anitabi.cn/points/454684/rdvy9d054_1735827559443.jpg?plan=h160",
+      "ep": 1,
+      "s": 500,
+      "geo": [
+        35.7796,
+        139.7204
+      ]
+    },
+    {
+      "id": "rdvyclhcs",
+      "name": "かしら屋 赤羽店",
+      "image": "https://image.anitabi.cn/points/454684/rdvyclhcs_1735827568140.jpg?plan=h160",
+      "ep": 1,
+      "s": 508,
+      "geo": [
+        35.7799,
+        139.7202
+      ]
+    },
+    {
+      "id": "rjemo4d8j",
+      "cn": "月乃家寿司",
+      "name": "月乃家寿司",
+      "image": "https://image.anitabi.cn/points/454684/rjemo4d8j_1738249947147.jpg?plan=h160",
+      "ep": 1,
+      "s": 511,
+      "geo": [
+        35.7799,
+        139.7202
+      ]
+    },
+    {
+      "id": "rjbvdeo38",
+      "cn": "千登世小桥",
+      "name": "千登世小橋",
+      "image": "https://image.anitabi.cn/points/454684/rjbvdeo38_1735827967011.jpg?plan=h160",
+      "ep": 1,
+      "s": 674,
+      "geo": [
+        35.7187,
+        139.7137
+      ]
+    },
+    {
+      "id": "rle3h365t",
+      "cn": "东十条5-9-16",
+      "name": "5-chōme-9-16 Higashijūjō",
+      "image": "https://image.anitabi.cn/user/0/bangumi/454684/points/rle3h365t-1735990275420.jpg?plan=h160",
+      "ep": 1,
+      "s": 794,
+      "geo": [
+        35.7681,
+        139.7263
+      ]
+    },
+    {
+      "id": "rjuftduj6",
+      "cn": "北区赤羽西2丁目30附近",
+      "name": "北区赤羽西２丁目３０付近",
+      "image": "https://image.anitabi.cn/points/454684/rjyvccg1c_1735878097581.jpg?plan=h160",
+      "ep": 1,
+      "s": 837,
+      "geo": [
+        35.7725,
+        139.7186
+      ]
+    },
+    {
+      "id": "rjs8205ca",
+      "cn": "北区鹤冈儿童公园",
+      "name": "北区鶴ヶ丘児童遊園",
+      "image": "https://image.anitabi.cn/points/454684/rjyqhyhpm_1735877766637.jpg?plan=h160",
+      "ep": 1,
+      "s": 842,
+      "geo": [
+        35.7739,
+        139.7173
+      ]
+    },
+    {
+      "id": "rjtn8f40n",
+      "cn": "弁天坂",
+      "name": "弁天坂",
+      "image": "https://image.anitabi.cn/points/454684/rjysyemfu_1735877893673.jpg?plan=h160",
+      "ep": 1,
+      "s": 843,
+      "geo": [
+        35.7741,
+        139.7173
+      ]
+    }
+  ],
+  "pointsLength": 237,
+  "imagesLength": 237,
+  "local_id": 895
+}

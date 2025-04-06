@@ -1,0 +1,32 @@
+{
+  "id": 447955,
+  "cn": "夏末白夜",
+  "title": "夏末白夜",
+  "cover": "https://image.xinu.ink/pic/data/889/images/447955_pS3f8.jpg",
+  "modified": 1738594014193,
+  "litePoints": [
+    {
+      "id": "scuxeg9zd",
+      "cn": "楚河汉街",
+      "name": "汉街",
+      "image": "https://image.anitabi.cn/user/0/bangumi/447955/points/scuxeg9zd-1738142117528.jpg?plan=h160",
+      "geo": [
+        30.559,
+        114.3358
+      ]
+    },
+    {
+      "id": "s8hd6s6fl",
+      "cn": "汉口江滩",
+      "name": "汉阳江滩",
+      "image": "https://image.anitabi.cn/user/0/bangumi/447955/points/s8hd6s6fl-1737799077053.jpg?plan=h160",
+      "geo": [
+        30.5423,
+        114.2714
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 889
+}

@@ -1,0 +1,139 @@
+{
+  "id": 431767,
+  "cn": "哭泣少女乐队",
+  "title": "ガールズバンドクライ",
+  "city": "川崎市",
+  "cover": "https://image.xinu.ink/pic/data/873/images/431767.jpg",
+  "color": "#ee2288",
+  "geo": [
+    35.530444,
+    139.69823500000007
+  ],
+  "zoom": 16,
+  "modified": 1740730767533,
+  "litePoints": [
+    {
+      "id": "nar0af28s",
+      "cn": "东京站 18号线站台",
+      "name": "東京駅 18番線ホーム",
+      "image": "https://image.anitabi.cn/points/431767/nar0af28s_1723871429051.jpg?plan=h160",
+      "ep": 1,
+      "s": 11,
+      "geo": [
+        35.6826,
+        139.7688
+      ]
+    },
+    {
+      "id": "nar86sdg4",
+      "cn": "东京站 18号线站台 4号车厢",
+      "name": "東京駅 18番線ホーム 4号車",
+      "image": "https://image.anitabi.cn/points/431767/nar86sdg4_1723871836777.jpg?plan=h160",
+      "ep": 1,
+      "s": 55,
+      "geo": [
+        35.6817,
+        139.7685
+      ]
+    },
+    {
+      "id": "narcyudqn",
+      "cn": "东京站 东海道·山阳新干线中央换乘口",
+      "name": "東京駅 東海道·山陽新幹線中央のりかえ口",
+      "image": "https://image.anitabi.cn/points/431767/narcyudqn_1723872549868.jpg?plan=h160",
+      "ep": 1,
+      "s": 57,
+      "geo": [
+        35.6813,
+        139.7679
+      ]
+    },
+    {
+      "id": "narpre2f2",
+      "cn": "东京站 新干线售票处前",
+      "name": "東京駅 新幹線きっぷうりば前",
+      "image": "https://image.anitabi.cn/points/431767/narpre2f2_1723872746240.jpg?plan=h160",
+      "ep": 1,
+      "s": 60,
+      "geo": [
+        35.6813,
+        139.7675
+      ]
+    },
+    {
+      "id": "nas3c5zcc",
+      "cn": "东京站 丸之内南口方向指示牌",
+      "name": "東京駅 丸の内南口向き案内板",
+      "image": "https://image.anitabi.cn/points/431767/nas3c5zcc_1723873603269.jpg?plan=h160",
+      "ep": 1,
+      "s": 69,
+      "geo": [
+        35.6803,
+        139.7671
+      ]
+    },
+    {
+      "id": "nas8qiszi",
+      "cn": "东京站 10号线楼梯下",
+      "name": "東京駅 10番線階段下",
+      "image": "https://image.anitabi.cn/points/431767/nas8qiszi_1723873894924.jpg?plan=h160",
+      "ep": 1,
+      "s": 76,
+      "geo": [
+        35.6804,
+        139.767
+      ]
+    },
+    {
+      "id": "nasj823oo",
+      "cn": "东京站 9·10号线楼梯下",
+      "name": "東京駅 9·10番線階段下",
+      "image": "https://image.anitabi.cn/points/431767/nasj823oo_1723874531258.jpg?plan=h160",
+      "ep": 1,
+      "s": 78,
+      "geo": [
+        35.6804,
+        139.7669
+      ]
+    },
+    {
+      "id": "nasle85rb",
+      "cn": "东京站 7·8号线楼梯下",
+      "name": "東京駅 7·8番線階段下",
+      "image": "https://image.anitabi.cn/points/431767/nasle85rb_1723875143362.jpg?plan=h160",
+      "ep": 1,
+      "s": 83,
+      "geo": [
+        35.6804,
+        139.7668
+      ]
+    },
+    {
+      "id": "nbc04g5z5",
+      "cn": "东京站 千疋屋总店",
+      "name": "東京駅 千疋屋総本店",
+      "image": "https://image.anitabi.cn/points/431767/nbc04g5z5_1723916904296.jpg?plan=h160",
+      "ep": 1,
+      "s": 86,
+      "geo": [
+        35.6804,
+        139.7667
+      ]
+    },
+    {
+      "id": "nbc2k3aqx",
+      "cn": "东京站 6号线楼梯下",
+      "name": "東京駅 6番線階段下",
+      "image": "https://image.anitabi.cn/points/431767/nbc2k3aqx_1723917107255.jpg?plan=h160",
+      "ep": 1,
+      "s": 89,
+      "geo": [
+        35.6805,
+        139.7666
+      ]
+    }
+  ],
+  "pointsLength": 547,
+  "imagesLength": 547,
+  "local_id": 873
+}

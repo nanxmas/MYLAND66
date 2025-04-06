@@ -1,0 +1,53 @@
+{
+  "id": 445826,
+  "cn": "记忆缝线",
+  "title": "ユア・フォルマ",
+  "city": "欧洲",
+  "cover": "https://image.xinu.ink/pic/data/888/images/445826_id8dk.jpg",
+  "cp": "フォルマ",
+  "modified": 1742754790109,
+  "litePoints": [
+    {
+      "id": "rppxjuglr",
+      "cn": "大本钟",
+      "name": "ビッグベン",
+      "image": "https://image.anitabi.cn/points/445826/rppxjuglr_1736328796808_c16v9.jpg?plan=h160",
+      "geo": [
+        51.5007,
+        -0.1246
+      ]
+    },
+    {
+      "id": "rpsqv6gw6",
+      "cn": "皮卡迪利广场",
+      "name": 1,
+      "image": "https://image.anitabi.cn/points/445826/rpsqv6gw6_1736334929009_c16v9.jpg?plan=h160",
+      "geo": [
+        51.5101,
+        -0.1344
+      ]
+    },
+    {
+      "id": "rpssokmj3",
+      "cn": "伦敦",
+      "name": "London",
+      "image": "https://image.anitabi.cn/points/445826/rpssokmj3_1736335011649_c16v9.jpg?plan=h160",
+      "geo": [
+        51.509,
+        -0.1125
+      ]
+    },
+    {
+      "id": "rpstkqog2",
+      "name": "Hermitage Riverside Memorial Garden",
+      "image": "https://image.anitabi.cn/points/445826/rpstkqog2_1736335060824_c16v9.jpg?plan=h160",
+      "geo": [
+        51.5044,
+        -0.0675
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 888
+}

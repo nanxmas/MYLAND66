@@ -1,0 +1,120 @@
+{
+  "id": 442614,
+  "cn": "电影 Love Live! 虹咲学园校园偶像同好会 完结篇 第1章",
+  "title": "映画 ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第1章",
+  "city": "冲绳县",
+  "cover": "https://image.xinu.ink/pic/data/881/images/442614_o0v1j.jpg",
+  "color": "#fac752",
+  "cp": "2024 プロジェクトラブライブ…",
+  "geo": [
+    26.169825466583163,
+    127.72165971666647
+  ],
+  "zoom": 11.232,
+  "modified": 1740491341168,
+  "litePoints": [
+    {
+      "id": "2c9e42f1",
+      "name": "フジテレビ 本社ビル 球形展望室",
+      "image": "https://image.anitabi.cn/points/442614/2c9e42f1_1740411710512.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6266,
+        139.774
+      ]
+    },
+    {
+      "id": "0faa8553",
+      "name": "泉天空の湯 有明ガーデン",
+      "image": "https://image.anitabi.cn/points/442614/0faa8553_1740411779578.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6382,
+        139.7915
+      ]
+    },
+    {
+      "id": "dd3eb840",
+      "name": "東雲キャナルコートＣＯＤＡＮ",
+      "image": "https://image.anitabi.cn/points/442614/dd3eb840_1740411799575.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6469,
+        139.8041
+      ]
+    },
+    {
+      "id": "f14026b8",
+      "name": "那覇空港 見学者デッキ",
+      "image": "https://image.anitabi.cn/points/442614/f14026b8_1740490237743.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        26.2055,
+        127.6505
+      ]
+    },
+    {
+      "id": "72005fb9",
+      "name": "パレットくもじ階段",
+      "image": "https://image.anitabi.cn/points/442614/72005fb9_1740490257738.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        26.2138,
+        127.6801
+      ]
+    },
+    {
+      "id": "01ee8b02",
+      "name": "デパートリウボウ屋上",
+      "image": "https://image.anitabi.cn/points/442614/01ee8b02_1740490297743.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        26.2136,
+        127.6793
+      ]
+    },
+    {
+      "id": "e2e98de5",
+      "name": "愛のシーサー公園",
+      "image": "https://image.anitabi.cn/points/442614/e2e98de5_1740490312097.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        26.2129,
+        127.6794
+      ]
+    },
+    {
+      "id": "6286f4de",
+      "name": "那覇市役所",
+      "image": "https://image.anitabi.cn/points/442614/6286f4de_1740490335559.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        26.2129,
+        127.679
+      ]
+    },
+    {
+      "id": "710b3f05",
+      "name": "壺屋やちむん通り",
+      "image": "https://image.anitabi.cn/points/442614/710b3f05_1740411833049.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        26.2131,
+        127.6909
+      ]
+    },
+    {
+      "id": "2b1d60fe",
+      "name": "SANBASHI",
+      "image": "https://image.anitabi.cn/points/442614/2b1d60fe_1740490393084.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        26.2159,
+        127.6886
+      ]
+    }
+  ],
+  "pointsLength": 86,
+  "imagesLength": 83,
+  "local_id": 881
+}

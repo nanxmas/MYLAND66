@@ -1,0 +1,133 @@
+{
+  "id": 464561,
+  "cn": "变成菜变成花",
+  "title": "菜なれ花なれ",
+  "city": "沼田市",
+  "cover": "https://image.xinu.ink/pic/data/899/images/464561.jpg",
+  "color": "#e66300",
+  "geo": [
+    36.6425196832119,
+    139.04003395175715
+  ],
+  "zoom": 13.433,
+  "modified": 1727110124113,
+  "litePoints": [
+    {
+      "id": "m2k6i6pjh",
+      "name": "高崎駅",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/464561/points/m2k6i6pjh-1720408331170.jpg?plan=h160",
+      "ep": 1,
+      "s": 7,
+      "geo": [
+        36.3223,
+        139.012
+      ]
+    },
+    {
+      "id": "m2kbfasp7",
+      "cn": "高崎体育馆",
+      "name": "高崎アリーナ",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/464561/points/m2kbfasp7-1720408619879.jpg?plan=h160",
+      "ep": 1,
+      "s": 27,
+      "geo": [
+        36.3155,
+        139.0126
+      ]
+    },
+    {
+      "id": "m4wnvgs17",
+      "name": "群馬県立高崎高等学校",
+      "image": "https://image.anitabi.cn/points/464561/m4wnvgs17_1720592279668.jpg?plan=h160",
+      "ep": 1,
+      "s": 307,
+      "geo": [
+        36.3197,
+        138.9879
+      ]
+    },
+    {
+      "id": "m2mtk09wq",
+      "cn": "舒林寺 大门",
+      "name": "舒林寺",
+      "image": "https://image.anitabi.cn/points/464561/m2mtk09wq_1720414097403.jpg?plan=h160",
+      "ep": 1,
+      "s": 329,
+      "geo": [
+        36.6436,
+        139.0495
+      ]
+    },
+    {
+      "id": "m2my8o93r",
+      "cn": "舒林寺 内院门",
+      "name": "舒林寺",
+      "image": "https://image.anitabi.cn/points/464561/m2my8o93r_1720414459796.jpg?plan=h160",
+      "ep": 1,
+      "s": 331,
+      "geo": [
+        36.6437,
+        139.0508
+      ]
+    },
+    {
+      "id": "m2myi8u7r",
+      "cn": "舒林寺 正殿前",
+      "name": "舒林寺",
+      "image": "https://image.anitabi.cn/points/464561/m2myi8u7r_1720414486677.jpg?plan=h160",
+      "ep": 1,
+      "s": 745,
+      "geo": [
+        36.6439,
+        139.0505
+      ]
+    },
+    {
+      "id": "m4v6qxn7j",
+      "name": "桜井電機商会",
+      "image": "https://image.anitabi.cn/points/464561/m4v6qxn7j_1720589032723.jpg?plan=h160",
+      "ep": 1,
+      "s": 399,
+      "geo": [
+        36.6436,
+        139.0392
+      ]
+    },
+    {
+      "id": "m4v9hdhq5",
+      "name": "滝坂 階段",
+      "image": "https://image.anitabi.cn/points/464561/m4v9hdhq5_1720589204590.jpg?plan=h160",
+      "ep": 1,
+      "s": 418,
+      "geo": [
+        36.643,
+        139.0404
+      ]
+    },
+    {
+      "id": "m4ve0r5in",
+      "name": "滝坂 坂道",
+      "image": "https://image.anitabi.cn/points/464561/m4ve0r5in_1720589464029.jpg?plan=h160",
+      "ep": 1,
+      "s": 424,
+      "geo": [
+        36.643,
+        139.0408
+      ]
+    },
+    {
+      "id": "ntvjc4y2a",
+      "name": "旧沼田町役場復元鐘楼",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/464561/points/ntvjc4y2a-1725370040637.jpg?plan=h160",
+      "ep": 1,
+      "s": 510,
+      "geo": [
+        36.6479,
+        139.0385
+      ]
+    }
+  ],
+  "pointsLength": 33,
+  "imagesLength": 33,
+  "local_id": 899
+}

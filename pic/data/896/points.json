@@ -1,0 +1,72 @@
+[
+  {
+    "id": "kq779b57g",
+    "cn": "博多站",
+    "name": "博多駅(バスターミナル前)",
+    "image": "https://image.xinu.ink/pic/data/896/images/kq779b57g-1716618615076.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      33.5908,
+      130.4187
+    ],
+    "origin": "Anitabi@丈八沟观测者",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kq7i31qg4",
+    "cn": "福冈机场",
+    "name": "福岡空港",
+    "image": "https://image.xinu.ink/pic/data/896/images/kq7i31qg4-1716619247957.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      33.597,
+      130.4485
+    ],
+    "origin": "Anitabi@丈八沟观测者",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kq9aq3iwr",
+    "cn": "momochi海滨公园",
+    "name": "シーサイド​ももち​海浜公園",
+    "image": "https://image.xinu.ink/pic/data/896/images/kq9aq3iwr-1716623190066.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      33.5946,
+      130.3495
+    ],
+    "origin": "Anitabi@丈八沟观测者",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kq9csns1j",
+    "cn": "天神地下街",
+    "name": "天神地下街",
+    "image": "https://image.xinu.ink/pic/data/896/images/kq9csns1j-1716623353809.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      33.5899,
+      130.3993
+    ],
+    "origin": "Anitabi@丈八沟观测者",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kqhu3e1of",
+    "cn": "大濠公园",
+    "name": "大濠公園",
+    "image": "https://image.xinu.ink/pic/data/896/images/kqhu3e1of-1716641761433.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      33.5892,
+      130.3756
+    ],
+    "origin": "Anitabi@丈八沟观测者",
+    "originURL": "https://anitabi.cn/"
+  }
+]

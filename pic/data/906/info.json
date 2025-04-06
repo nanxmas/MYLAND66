@@ -1,0 +1,129 @@
+{
+  "id": 469877,
+  "cn": "四重星",
+  "title": "トラペジウム",
+  "city": "馆山市",
+  "cover": "https://image.xinu.ink/pic/data/906/images/469877.jpg",
+  "color": "#4175ab",
+  "geo": [
+    34.96969905271804,
+    139.8625440007644
+  ],
+  "zoom": 10.424,
+  "modified": 1743263280724,
+  "litePoints": [
+    {
+      "id": "tsp3u5apz",
+      "cn": "九重站",
+      "name": "九重駅",
+      "image": "https://image.anitabi.cn/points/469877/tsp3u5apz_1742204272827.jpg?plan=h160",
+      "s": 84,
+      "geo": [
+        34.9976,
+        139.911
+      ]
+    },
+    {
+      "id": "tspj0g7re",
+      "cn": "JR东日本E131系电车0番台",
+      "name": "JR東日本E131系電車0番台",
+      "image": "https://image.anitabi.cn/points/469877/tspj0g7re_1742205192750.jpg?plan=h160",
+      "s": 97,
+      "geo": [
+        34.9976,
+        139.911
+      ]
+    },
+    {
+      "id": "tspmojqka",
+      "cn": "镜之浦路",
+      "name": "鏡ヶ浦通り",
+      "image": "https://image.anitabi.cn/points/469877/tspmojqka_1742205443788.jpg?plan=h160",
+      "s": 130,
+      "geo": [
+        34.9981,
+        139.8587
+      ]
+    },
+    {
+      "id": "tsps408w5",
+      "cn": "名乡浦公交站",
+      "name": "名郷浦バス停",
+      "image": "https://image.anitabi.cn/points/469877/tsps408w5_1742205769602.jpg?plan=h160",
+      "s": 159,
+      "geo": [
+        34.9724,
+        139.7866
+      ]
+    },
+    {
+      "id": "tslof12x9",
+      "cn": "神户女学院大学 正门",
+      "name": "神戸女学院大学 正門",
+      "image": "https://image.anitabi.cn/points/469877/tslof12x9_1742196838622.jpg?plan=h160",
+      "s": 230,
+      "geo": [
+        34.7563,
+        135.3526
+      ]
+    },
+    {
+      "id": "tsls3th3e",
+      "cn": "神户女学院大学 艾米莉·怀特·史密斯纪念讲堂",
+      "name": "神戸女学院大学 エミリー・ホワイト・スミス記念講堂",
+      "image": "https://image.anitabi.cn/points/469877/tsls3th3e_1742197058690.jpg?plan=h160",
+      "s": 256,
+      "geo": [
+        34.7591,
+        135.3507
+      ]
+    },
+    {
+      "id": "tslsy2vye",
+      "cn": "神户女学院大学 讲堂",
+      "name": "神戸女学院大学 講堂",
+      "image": "https://image.anitabi.cn/points/469877/tslsy2vye_1742197084172.jpg?plan=h160",
+      "s": 257,
+      "geo": [
+        34.7591,
+        135.3506
+      ]
+    },
+    {
+      "id": "tslkgk3b0",
+      "cn": "神户女学院大学 文学馆",
+      "name": "神戸女学院大学 文学館",
+      "image": "https://image.anitabi.cn/points/469877/tslkgk3b0_1742197068914.jpg?plan=h160",
+      "s": 264,
+      "geo": [
+        34.7586,
+        135.3507
+      ]
+    },
+    {
+      "id": "tso8ztfui",
+      "cn": "神户女学院大学 音乐馆",
+      "name": "神戸女学院大学 音楽館",
+      "image": "https://image.anitabi.cn/points/469877/tso8ztfui_1742202448133.jpg?plan=h160",
+      "s": 267,
+      "geo": [
+        34.7576,
+        135.351
+      ]
+    },
+    {
+      "id": "tsm172kgn",
+      "cn": "神户女学院大学 走廊",
+      "name": "神戸女学院大学 渡り廊下",
+      "image": "https://image.anitabi.cn/points/469877/tsm172kgn_1742197584006.jpg?plan=h160",
+      "s": 273,
+      "geo": [
+        34.7592,
+        135.3502
+      ]
+    }
+  ],
+  "pointsLength": 164,
+  "imagesLength": 164,
+  "local_id": 906
+}

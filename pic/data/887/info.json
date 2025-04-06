@@ -1,0 +1,129 @@
+{
+  "id": 444403,
+  "cn": "怪人的沙拉碗",
+  "title": "変人のサラダボウル",
+  "city": "岐阜市",
+  "cover": "https://image.xinu.ink/pic/data/887/images/444403.jpg",
+  "color": "#f0c800",
+  "geo": [
+    35.40573510500552,
+    136.78364240069277
+  ],
+  "zoom": 11.706,
+  "modified": 1743087354015,
+  "litePoints": [
+    {
+      "id": "j8kax3fmh",
+      "name": "黄金の信長像",
+      "image": "https://image.anitabi.cn/points/444403/j8kax3fmh_1713179246932.jpg?plan=h160",
+      "ep": 1,
+      "s": 78,
+      "geo": [
+        35.4103,
+        136.7567
+      ]
+    },
+    {
+      "id": "j8kax3fzt",
+      "name": "金華山ロープウェー",
+      "image": "https://image.anitabi.cn/points/444403/j8kax3fzt_1713179237417.jpg?plan=h160",
+      "ep": 1,
+      "s": 100,
+      "geo": [
+        35.4334,
+        136.7774
+      ]
+    },
+    {
+      "id": "j8kax3fve",
+      "name": "笠松競馬場",
+      "image": "https://image.anitabi.cn/points/444403/j8kax3fve_1713179238946.jpg?plan=h160",
+      "ep": 1,
+      "s": 104,
+      "geo": [
+        35.3724,
+        136.765
+      ]
+    },
+    {
+      "id": "j8kax3fuz",
+      "name": "岐阜駅南口",
+      "image": "https://image.anitabi.cn/points/444403/j8kax3fuz_1712415518821.jpg?plan=h160",
+      "ep": 1,
+      "s": 106,
+      "geo": [
+        35.409,
+        136.7564
+      ]
+    },
+    {
+      "id": "j8kax3fbj",
+      "name": "笠松競馬場スタンド",
+      "image": "https://image.anitabi.cn/points/444403/j8kax3fbj_1713179240535.jpg?plan=h160",
+      "ep": 1,
+      "s": 107,
+      "geo": [
+        35.3725,
+        136.7665
+      ]
+    },
+    {
+      "id": "j8kax3fax",
+      "name": "世界淡水魚園水族館 アクア・トト ぎふ",
+      "image": "https://image.anitabi.cn/points/444403/j8kax3fax_1713179241678.jpg?plan=h160",
+      "ep": 1,
+      "s": 110,
+      "geo": [
+        35.3716,
+        136.8111
+      ]
+    },
+    {
+      "id": "j8kax3fr4",
+      "name": "スーパーマーケットバロー 都通店",
+      "image": "https://image.anitabi.cn/points/444403/j8kax3fr4_1713179235822.jpg?plan=h160",
+      "ep": 1,
+      "s": 112,
+      "geo": [
+        35.4194,
+        136.7462
+      ]
+    },
+    {
+      "id": "m1it81yis",
+      "name": "从コンフォートホテル岐阜拍摄ホテルリソル岐阜",
+      "image": "https://image.anitabi.cn/points/444403/m1it81yis_1720329744646.jpg?plan=h160",
+      "ep": 1,
+      "s": 124,
+      "geo": [
+        35.4113,
+        136.7554
+      ]
+    },
+    {
+      "id": "j8kax3ft5",
+      "name": "長良川河川距離標51.6K",
+      "image": "https://image.anitabi.cn/points/444403/j8kax3ft5_1713179242969.jpg?plan=h160",
+      "ep": 1,
+      "s": 126,
+      "geo": [
+        35.435,
+        136.7622
+      ]
+    },
+    {
+      "id": "j8kax3fm7",
+      "name": "オアシスホイール",
+      "image": "https://image.anitabi.cn/points/444403/j8kax3fm7_1713179245635.jpg?plan=h160",
+      "ep": 1,
+      "s": 129,
+      "geo": [
+        35.3712,
+        136.8105
+      ]
+    }
+  ],
+  "pointsLength": 72,
+  "imagesLength": 70,
+  "local_id": 887
+}

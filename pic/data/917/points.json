@@ -1,0 +1,35 @@
+[
+  {
+    "id": "na73catnr",
+    "cn": "横滨英国花园",
+    "name": "横浜​イングリッシュ​ガーデン",
+    "image": "https://image.xinu.ink/pic/data/917/images/na73catnr-1723827974592.jpg",
+    "ep": "朝班主线B01",
+    "geo": [
+      35.4559,
+      139.6115
+    ]
+  },
+  {
+    "id": "mz27zogwl",
+    "cn": "横滨海湾大桥天桥 天空长廊",
+    "name": "横浜ベイブリッジスカイウォーク　スカイプロムナード",
+    "image": "https://image.xinu.ink/pic/data/917/images/mz27zogwl-1722955277035.jpg",
+    "ep": null,
+    "geo": [
+      35.4639,
+      139.6736
+    ]
+  },
+  {
+    "id": "mz1zz0ywl",
+    "cn": "國道站",
+    "name": "国道",
+    "image": "https://image.xinu.ink/pic/data/917/images/mz1zz0ywl-1722954804866.jpg",
+    "ep": null,
+    "geo": [
+      35.5008,
+      139.6753
+    ]
+  }
+]

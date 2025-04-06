@@ -1,0 +1,110 @@
+{
+  "id": 437206,
+  "cn": "碰之道",
+  "title": "ぽんのみち",
+  "city": "尾道市",
+  "cover": "https://image.xinu.ink/pic/data/876/images/437206_HTdmD.jpg",
+  "color": "#97c877",
+  "cp": "ぽんのみち",
+  "geo": [
+    34.3653842577653,
+    133.14316447667306
+  ],
+  "zoom": 10.963,
+  "modified": 1742409459519,
+  "litePoints": [
+    {
+      "id": "1d02f2c6",
+      "name": "尾道駅",
+      "image": "https://image.anitabi.cn/points/437206/1d02f2c6_1741678045040.jpg?plan=h160",
+      "geo": [
+        34.4045,
+        133.1933
+      ]
+    },
+    {
+      "id": "6972e6e2",
+      "name": "なしこベンチ(海岸通り沿い)",
+      "image": "https://image.anitabi.cn/points/437206/6972e6e2_1741678062294.jpg?plan=h160",
+      "geo": [
+        34.4042,
+        133.1946
+      ]
+    },
+    {
+      "id": "bff7b2ea",
+      "name": "福本渡船付近",
+      "image": "https://image.anitabi.cn/points/437206/bff7b2ea_1741678077987.jpg?plan=h160",
+      "geo": [
+        34.4054,
+        133.1964
+      ]
+    },
+    {
+      "id": "7b6cda55",
+      "name": "おのみち海辺の美術館付近",
+      "image": "https://image.anitabi.cn/points/437206/7b6cda55_1741678089070.jpg?plan=h160",
+      "geo": [
+        34.4061,
+        133.199
+      ]
+    },
+    {
+      "id": "f58e3ec7",
+      "name": "正一位鎌倉稲荷大明神",
+      "image": "https://image.anitabi.cn/points/437206/f58e3ec7_1741678103460.jpg?plan=h160",
+      "geo": [
+        34.4069,
+        133.1996
+      ]
+    },
+    {
+      "id": "71650e6c",
+      "name": "本通り商店街",
+      "image": "https://image.anitabi.cn/points/437206/71650e6c_1741678118599.jpg?plan=h160",
+      "geo": [
+        34.4072,
+        133.1995
+      ]
+    },
+    {
+      "id": "a6787164",
+      "name": "千光寺山ロープウェイ 山麓駅付近",
+      "image": "https://image.anitabi.cn/points/437206/a6787164_1741678132910.jpg?plan=h160",
+      "geo": [
+        34.4105,
+        133.2017
+      ]
+    },
+    {
+      "id": "e06ee395",
+      "name": "三上洋酒店",
+      "image": "https://image.anitabi.cn/points/437206/e06ee395_1741678149623.jpg?plan=h160",
+      "geo": [
+        34.4102,
+        133.2029
+      ]
+    },
+    {
+      "id": "920d2b16",
+      "name": "尾道みなと館",
+      "image": "https://image.anitabi.cn/points/437206/920d2b16_1741678162691.jpg?plan=h160",
+      "geo": [
+        34.4109,
+        133.2039
+      ]
+    },
+    {
+      "id": "acbb895c",
+      "name": "西國寺",
+      "image": "https://image.anitabi.cn/points/437206/acbb895c_1741678181102.jpg?plan=h160",
+      "geo": [
+        34.4152,
+        133.2031
+      ]
+    }
+  ],
+  "pointsLength": 31,
+  "imagesLength": 31,
+  "local_id": 876
+}

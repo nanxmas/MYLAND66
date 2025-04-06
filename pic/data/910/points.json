@@ -1,0 +1,987 @@
+[
+  {
+    "id": "m193argc6",
+    "cn": "岐阜北高中",
+    "name": "岐阜北高校",
+    "image": "https://image.xinu.ink/pic/data/910/images/m193argc6_1720305826856.jpg",
+    "ep": 1,
+    "s": 110,
+    "geo": [
+      35.437,
+      136.7485
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "gyxip0i4k",
+    "name": "長良川南岸",
+    "image": "https://image.xinu.ink/pic/data/910/images/gyxip0i4k_1720308490199.jpg",
+    "ep": 1,
+    "s": 364,
+    "geo": [
+      35.4287,
+      136.7485
+    ]
+  },
+  {
+    "id": "gyxhvt053",
+    "cn": "忠节桥",
+    "name": "忠節橋",
+    "image": "https://image.xinu.ink/pic/data/910/images/gyxhvt053_1720322618292.jpg",
+    "ep": 1,
+    "s": 786,
+    "geo": [
+      35.4292,
+      136.7503
+    ]
+  },
+  {
+    "id": "m197kuvvt",
+    "cn": "忠节桥东",
+    "name": "忠節橋東",
+    "image": "https://image.xinu.ink/pic/data/910/images/m197kuvvt_1720322623228.jpg",
+    "ep": 1,
+    "s": 796,
+    "geo": [
+      35.4294,
+      136.7516
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m18vz0ect",
+    "cn": "忠节桥西",
+    "name": "忠節橋西",
+    "image": "https://image.xinu.ink/pic/data/910/images/m18vz0ect_1720322735637.jpg",
+    "ep": 1,
+    "s": 1029,
+    "geo": [
+      35.4276,
+      136.7466
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m1gba4arm",
+    "cn": "木曾川上流河川事务所 铁塔",
+    "name": "木曽川上流河川事務所 鉄塔",
+    "image": "https://image.xinu.ink/pic/data/910/images/m1gba4arm_1720322760443.jpg",
+    "ep": 1,
+    "s": 1032,
+    "geo": [
+      35.4285,
+      136.7487
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "gyxe09y9j",
+    "cn": "忠节桥北",
+    "name": "忠節橋北",
+    "image": "https://image.xinu.ink/pic/data/910/images/gyxe09y9j_1720322742920.jpg",
+    "ep": 1,
+    "s": 1039,
+    "geo": [
+      35.4328,
+      136.7495
+    ]
+  },
+  {
+    "id": "m18syhyf0",
+    "cn": "爱丽丝",
+    "name": "AND LADY",
+    "image": "https://image.xinu.ink/pic/data/910/images/m18syhyf0_1720305217003.jpg",
+    "ep": 1,
+    "s": 1194,
+    "geo": [
+      35.4273,
+      136.7648
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m1a5q1njg",
+    "cn": "7-Eleven 岐阜明德町店",
+    "name": "セブン-イレブン 岐阜明徳町店",
+    "image": "https://image.xinu.ink/pic/data/910/images/m1a5q1njg_1720308203635.jpg",
+    "ep": 1,
+    "s": 1208,
+    "geo": [
+      35.4235,
+      136.7583
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "o6nxvi1sa",
+    "name": "セブン​イレブン\n岐阜​明徳町​店",
+    "image": "https://image.xinu.ink/pic/data/910/images/o6nxvi1sa_1726372179807.jpg",
+    "ep": 1,
+    "s": 1213,
+    "geo": [
+      35.4233,
+      136.7584
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m96cc7xzi",
+    "name": "柳ヶ瀬商店街",
+    "image": "https://image.xinu.ink/pic/data/910/images/m96cc7xzi_1720926819674.jpg",
+    "ep": 2,
+    "s": 90,
+    "geo": [
+      35.419,
+      136.7595
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m97l6ndp8",
+    "cn": "小佐内家",
+    "name": "小佐内自宅付近",
+    "image": "https://image.xinu.ink/pic/data/910/images/m97l6ndp8_1720929483574.jpg",
+    "ep": 2,
+    "s": 274,
+    "geo": [
+      35.4274,
+      136.7475
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m969nn5pm",
+    "name": "忠節用水逆水樋門",
+    "image": "https://image.xinu.ink/pic/data/910/images/m969nn5pm_1720926582741.jpg",
+    "ep": 2,
+    "s": 288,
+    "geo": [
+      35.4354,
+      136.7688
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m97ztg3od",
+    "name": "忠節用水逆水樋門付近",
+    "image": "https://image.xinu.ink/pic/data/910/images/m97ztg3od_1720930368436.jpg",
+    "ep": 2,
+    "s": 290,
+    "geo": [
+      35.4356,
+      136.7693
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m98ev9aob",
+    "name": "忠節用水分水樋門（ロボット水門）",
+    "image": "https://image.xinu.ink/pic/data/910/images/m98ev9aob_1720931311845.jpg",
+    "ep": 2,
+    "s": 904,
+    "geo": [
+      35.4362,
+      136.7731
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m98gzzg73",
+    "name": "長良橋通り",
+    "image": "https://image.xinu.ink/pic/data/910/images/m98gzzg73_1720931383096.jpg",
+    "ep": 2,
+    "s": 909,
+    "geo": [
+      35.4362,
+      136.7731
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m96a73lre",
+    "name": "忠節用水逆水樋門前",
+    "image": "https://image.xinu.ink/pic/data/910/images/m96a73lre_1720926613305.jpg",
+    "ep": 2,
+    "s": 1089,
+    "geo": [
+      35.4355,
+      136.7694
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m98kc798j",
+    "cn": "忠节桥南",
+    "name": "忠節橋南",
+    "image": "https://image.xinu.ink/pic/data/910/images/m98kc798j_1720931604574.jpg",
+    "ep": 2,
+    "s": 1227,
+    "geo": [
+      35.4291,
+      136.7511
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mibx7720r",
+    "cn": "矮胖子",
+    "name": "ハンプティ・ダンプティ",
+    "image": "https://image.xinu.ink/pic/data/910/images/mibx7720r_1721644168923.jpg",
+    "ep": 3,
+    "s": 150,
+    "geo": [
+      35.4413,
+      136.7491
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "is2byanko",
+    "name": "東海自動車学校",
+    "image": "https://image.xinu.ink/pic/data/910/images/is2byanko_1721643973845.jpg",
+    "ep": 3,
+    "s": 490,
+    "geo": [
+      35.3862,
+      136.6201
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mic5ncovc",
+    "name": "岐阜県道77号岐阜環状線",
+    "image": "https://image.xinu.ink/pic/data/910/images/mic5ncovc_1721644741404.jpg",
+    "ep": 3,
+    "s": 512,
+    "geo": [
+      35.4519,
+      136.7818
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mic6jnh0r",
+    "name": "岐阜トヨペット長良店",
+    "image": "https://image.xinu.ink/pic/data/910/images/mic6jnh0r_1721644791743.jpg",
+    "ep": 3,
+    "s": 512,
+    "geo": [
+      35.4518,
+      136.7818
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mic7v51f2",
+    "name": "岐阜ダイハツ販売",
+    "image": "https://image.xinu.ink/pic/data/910/images/mic7v51f2_1721645022711.jpg",
+    "ep": 3,
+    "s": 517,
+    "geo": [
+      35.452,
+      136.7828
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "micam0g8g",
+    "name": "V・drug 長良真福寺店",
+    "image": "https://image.xinu.ink/pic/data/910/images/micam0g8g_1721644980722.jpg",
+    "ep": 3,
+    "s": 519,
+    "geo": [
+      35.4519,
+      136.7828
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "miczsmf4b",
+    "name": "長良2丁目118",
+    "image": "https://image.xinu.ink/pic/data/910/images/miczsmf4b_1721646552468.jpg",
+    "ep": 3,
+    "s": 521,
+    "geo": [
+      35.4519,
+      136.7836
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "micyutf28",
+    "name": "岐阜２りんかん",
+    "image": "https://image.xinu.ink/pic/data/910/images/micyutf28_1721646443486.jpg",
+    "ep": 3,
+    "s": 525,
+    "geo": [
+      35.4517,
+      136.7843
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mid24jilt",
+    "name": "ITTO個別指導学院 長良校",
+    "image": "https://image.xinu.ink/pic/data/910/images/mid24jilt_1721646663820.jpg",
+    "ep": 3,
+    "s": 531,
+    "geo": [
+      35.4516,
+      136.7845
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "miduxlc7j",
+    "cn": "三田洞弘法附近",
+    "name": "三田洞弘法近く",
+    "image": "https://image.xinu.ink/pic/data/910/images/miduxlc7j_1721648403748.jpg",
+    "ep": 3,
+    "s": 603,
+    "geo": [
+      35.4747,
+      136.7871
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mid3sbmp4",
+    "cn": "真福寺公园附近",
+    "name": "真福寺公園近く",
+    "image": "https://image.xinu.ink/pic/data/910/images/mid3sbmp4_1721646817286.jpg",
+    "ep": 3,
+    "s": 666,
+    "geo": [
+      35.4535,
+      136.7849
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mw8xautrs",
+    "name": "粕森公園",
+    "image": "https://image.xinu.ink/pic/data/910/images/mw8xautrs_1722734851052.jpg",
+    "ep": 4,
+    "s": 143,
+    "geo": [
+      35.4191,
+      136.7639
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mw94rbwhs",
+    "name": "粕森公園 展望台",
+    "image": "https://image.xinu.ink/pic/data/910/images/mw94rbwhs_1722735187652.jpg",
+    "ep": 4,
+    "s": 740,
+    "geo": [
+      35.419,
+      136.7646
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mw8qgh414",
+    "cn": "忠节巴士站 4号乘车处附近",
+    "name": "忠節 4番のりば付近",
+    "image": "https://image.xinu.ink/pic/data/910/images/mw8qgh414_1722734330200.jpg",
+    "ep": 4,
+    "s": 919,
+    "geo": [
+      35.4336,
+      136.748
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mw8fe8qxf",
+    "cn": "忠节巴士站 4号乘车处",
+    "name": "忠節 4番のりば",
+    "image": "https://image.xinu.ink/pic/data/910/images/mw8fe8qxf_1722734139303.jpg",
+    "ep": 4,
+    "s": 926,
+    "geo": [
+      35.4334,
+      136.7474
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mw95wnv5v",
+    "name": "三田洞自動車学校",
+    "image": "https://image.xinu.ink/pic/data/910/images/mw95wnv5v_1722735305798.jpg",
+    "ep": 4,
+    "s": 966,
+    "geo": [
+      35.4794,
+      136.7961
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nbcwl05tg",
+    "name": "伊奈波神社",
+    "image": "https://image.xinu.ink/pic/data/910/images/nbcwl05tg_1723918866064.jpg",
+    "ep": 6,
+    "s": 91,
+    "geo": [
+      35.428,
+      136.768
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nfd0ohde4",
+    "cn": "忠节延命地藏尊堂附近",
+    "name": "忠節延命地蔵尊堂付近",
+    "image": "https://image.xinu.ink/pic/data/910/images/nfd0ohde4_1724232957759.jpg",
+    "ep": 6,
+    "s": 262,
+    "geo": [
+      35.4287,
+      136.7536
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nbe6b6zen",
+    "name": "忠節橋北歩道橋",
+    "image": "https://image.xinu.ink/pic/data/910/images/nbe6b6zen_1723921643405.jpg",
+    "ep": 6,
+    "s": 265,
+    "geo": [
+      35.4314,
+      136.7498
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nbdenfx27",
+    "cn": "长良川",
+    "name": "長良川",
+    "image": "https://image.xinu.ink/pic/data/910/images/nbdenfx27_1723919975242.jpg",
+    "ep": 6,
+    "s": 340,
+    "geo": [
+      35.4296,
+      136.7483
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nbe6um1o3",
+    "name": "東材木町交差点",
+    "image": "https://image.xinu.ink/pic/data/910/images/nbe6um1o3_1723921670057.jpg",
+    "ep": 6,
+    "s": 351,
+    "geo": [
+      35.4355,
+      136.7694
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nbd6t4i8z",
+    "cn": "JEFFBECK",
+    "name": "ジェフベック",
+    "image": "https://image.xinu.ink/pic/data/910/images/nbd6t4i8z_1723919485055.jpg",
+    "ep": 6,
+    "s": 433,
+    "geo": [
+      35.4172,
+      136.7571
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nk3oec006",
+    "name": "岐阜駅",
+    "image": "https://image.xinu.ink/pic/data/910/images/nk3oec006_1724604058288.jpg",
+    "ep": 7,
+    "s": 163,
+    "geo": [
+      35.4111,
+      136.7556
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nk3nwv0jv",
+    "name": "岐阜駅 黄金の信長像",
+    "image": "https://image.xinu.ink/pic/data/910/images/nk3nwv0jv_1724604025801.jpg",
+    "ep": 7,
+    "s": 166,
+    "geo": [
+      35.4103,
+      136.7567
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nk40ifyhd",
+    "name": "神田5交差点",
+    "image": "https://image.xinu.ink/pic/data/910/images/nk40ifyhd_1724604804324.jpg",
+    "ep": 7,
+    "s": 183,
+    "geo": [
+      35.4173,
+      136.76
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nk43qxzat",
+    "name": "モスバーガー 柳ヶ瀬中央店",
+    "image": "https://image.xinu.ink/pic/data/910/images/nk43qxzat_1724605010570.jpg",
+    "ep": 7,
+    "s": 194,
+    "geo": [
+      35.4186,
+      136.7584
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nk482t9rt",
+    "name": "アクアージュ柳ヶ瀬",
+    "image": "https://image.xinu.ink/pic/data/910/images/nk482t9rt_1724605283134.jpg",
+    "ep": 7,
+    "s": 255,
+    "geo": [
+      35.4182,
+      136.759
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nk4fz0z0z",
+    "name": "岐阜公園総合案内所",
+    "image": "https://image.xinu.ink/pic/data/910/images/nk4fz0z0z_1724605742369.jpg",
+    "ep": 7,
+    "s": 473,
+    "geo": [
+      35.4357,
+      136.7731
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nk4l7bayc",
+    "name": "岐阜公園",
+    "image": "https://image.xinu.ink/pic/data/910/images/nk4l7bayc_1724606052484.jpg",
+    "ep": 7,
+    "s": 504,
+    "geo": [
+      35.4347,
+      136.7743
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nk57ayynk",
+    "cn": "村松屋",
+    "name": "むらまつや",
+    "image": "https://image.xinu.ink/pic/data/910/images/nk57ayynk_1724607383030.jpg",
+    "ep": 7,
+    "s": 669,
+    "geo": [
+      35.4192,
+      136.7584
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nk5id6q7d",
+    "name": "​日本​タクシー​ スター​プレイス​柳ケ瀬​",
+    "image": "https://image.xinu.ink/pic/data/910/images/nk5id6q7d_1724608363891.jpg",
+    "ep": 7,
+    "s": 686,
+    "geo": [
+      35.4197,
+      136.7545
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nndca63nc",
+    "name": "喫茶軽食 スペシャル珈琲",
+    "image": "https://image.xinu.ink/pic/data/910/images/nndca63nc_1724860209832.jpg",
+    "ep": 7,
+    "s": 692,
+    "geo": [
+      35.4188,
+      136.7591
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nk5qwhdyj",
+    "name": "岐阜タンメン 長良店",
+    "image": "https://image.xinu.ink/pic/data/910/images/nk5qwhdyj_1724608642623.jpg",
+    "ep": 7,
+    "s": 779,
+    "geo": [
+      35.4542,
+      136.7554
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ns9bewsik",
+    "name": "川原町",
+    "image": "https://image.xinu.ink/pic/data/910/images/ns9bewsik_1725243271576.jpg",
+    "ep": 8,
+    "s": 135,
+    "geo": [
+      35.4364,
+      136.7707
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ns9cebonv",
+    "name": "長良橋下",
+    "image": "https://image.xinu.ink/pic/data/910/images/ns9cebonv_1725243319339.jpg",
+    "ep": 8,
+    "s": 138,
+    "geo": [
+      35.4382,
+      136.773
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ns9ewig96",
+    "cn": "小佐内家附近",
+    "name": "小佐内家付近",
+    "image": "https://image.xinu.ink/pic/data/910/images/ns9ewig96_1725243473070.jpg",
+    "ep": 8,
+    "s": 150,
+    "geo": [
+      35.4276,
+      136.7478
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nsf251gag",
+    "cn": "小鸠家",
+    "name": "小鳩家",
+    "image": "https://image.xinu.ink/pic/data/910/images/nsf251gag_1725255756344.jpg",
+    "ep": 8,
+    "s": 242,
+    "geo": [
+      35.4281,
+      136.7512
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nsf8k0v4a",
+    "cn": "lemon seed",
+    "name": "レモンシード",
+    "image": "https://image.xinu.ink/pic/data/910/images/nsf8k0v4a_1725256200879.jpg",
+    "ep": 8,
+    "s": 306,
+    "geo": [
+      35.36,
+      136.7249
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nsfbzl7k2",
+    "name": "レモラ茜辺",
+    "image": "https://image.xinu.ink/pic/data/910/images/nsfbzl7k2_1725256440779.jpg",
+    "ep": 8,
+    "s": 320,
+    "geo": [
+      35.3877,
+      136.7396
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nsfovt0z6",
+    "name": "長良川",
+    "image": "https://image.xinu.ink/pic/data/910/images/nsfovt0z6_1725257126439.jpg",
+    "ep": 8,
+    "s": 372,
+    "geo": [
+      35.4296,
+      136.7484
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nsfgkpgp3",
+    "name": "南部体育館",
+    "image": "https://image.xinu.ink/pic/data/910/images/nsfgkpgp3_1725256717526.jpg",
+    "ep": 8,
+    "s": 392,
+    "geo": [
+      35.3727,
+      136.731
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nsfqnq9f6",
+    "name": "忠節橋",
+    "image": "https://image.xinu.ink/pic/data/910/images/nsfqnq9f6_1725257236796.jpg",
+    "ep": 8,
+    "s": 548,
+    "geo": [
+      35.429,
+      136.749
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nsfwi18qn",
+    "name": "木曽川上流河川事務所 鉄塔",
+    "image": "https://image.xinu.ink/pic/data/910/images/nsfwi18qn_1725257779256.jpg",
+    "ep": 8,
+    "s": 1073,
+    "geo": [
+      35.4287,
+      136.7488
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nsg8cbdqk",
+    "cn": "塞西莉亚",
+    "name": "セシリア",
+    "image": "https://image.xinu.ink/pic/data/910/images/nsg8cbdqk_1725258355536.jpg",
+    "ep": 8,
+    "s": 1161,
+    "geo": [
+      35.432,
+      136.7672
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nz1vtzg8m",
+    "name": "中問屋町",
+    "image": "https://image.xinu.ink/pic/data/910/images/nz1vtzg8m_1726354827645.jpg",
+    "ep": 9,
+    "s": 91,
+    "geo": [
+      35.4112,
+      136.7561
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "o6j1pmjhx",
+    "name": "岐阜シティ・タワー43 & 岐阜スカイウイング37",
+    "image": "https://image.xinu.ink/pic/data/910/images/o6j1pmjhx_1726361554266.jpg",
+    "ep": 10,
+    "s": 815,
+    "geo": [
+      35.4104,
+      136.7562
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "o6jjsw5le",
+    "name": "岐阜北高校",
+    "image": "https://image.xinu.ink/pic/data/910/images/o6jjsw5le_1726362618086.jpg",
+    "ep": 10,
+    "s": 868,
+    "geo": [
+      35.4375,
+      136.7491
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "o6fv0cvxb",
+    "name": "岐阜北高校 図書館",
+    "image": "https://image.xinu.ink/pic/data/910/images/o6fv0cvxb_1726361226255.jpg",
+    "ep": 10,
+    "s": 1204,
+    "geo": [
+      35.4373,
+      136.7485
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m1mmp3h6y",
+    "cn": "则武中4东路口",
+    "name": "則武中4東交差点",
+    "image": "https://image.xinu.ink/pic/data/910/images/m1mmp3h6y_1720335355060.jpg",
+    "ep": "ED",
+    "s": 19,
+    "geo": [
+      35.4419,
+      136.7463
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m1g4n5v3h",
+    "cn": "岐阜CityTower43 43F免费展望室-真砂町11路口",
+    "name": "岐阜シティ・タワー43 43F無料展望室-真砂町11丁目交差点",
+    "image": "https://image.xinu.ink/pic/data/910/images/m1g4n5v3h_1720337725013.jpg",
+    "ep": "ED",
+    "s": 21,
+    "geo": [
+      35.4108,
+      136.7538
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m1mvkc97j",
+    "cn": "矮胖子（Princess Branche Pâtisserie KURA）",
+    "name": "Princess Branche Pâtisserie KURA",
+    "image": "https://image.xinu.ink/pic/data/910/images/m1mvkc97j_1720335842377.jpg",
+    "ep": "ED",
+    "s": 31,
+    "geo": [
+      35.4411,
+      136.7492
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m1mxtvetu",
+    "cn": "爱丽丝（AND LADY）",
+    "name": "AND LADY",
+    "image": "https://image.xinu.ink/pic/data/910/images/m1mxtvetu_1720335961524.jpg",
+    "ep": "ED",
+    "s": 35,
+    "geo": [
+      35.4275,
+      136.7648
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m1n07qan1",
+    "name": "名和記念昆虫館北",
+    "image": "https://image.xinu.ink/pic/data/910/images/m1n07qan1_1720336113844.jpg",
+    "ep": "ED",
+    "s": 45,
+    "geo": [
+      35.4335,
+      136.7732
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m1phlx3oo",
+    "cn": "塞西莉亚（ナチュラルカフェ）",
+    "name": "ナチュラルカフェ",
+    "image": "https://image.xinu.ink/pic/data/910/images/m1phlx3oo_1720341512995.jpg",
+    "ep": "ED",
+    "s": 64,
+    "geo": [
+      35.4322,
+      136.7671
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m1fzt0twc",
+    "cn": "金华山俯瞰",
+    "name": "金華山俯瞰",
+    "image": "https://image.xinu.ink/pic/data/910/images/m1fzt0twc_1720337679269.jpg",
+    "ep": "ED",
+    "s": 76,
+    "geo": [
+      35.4336,
+      136.7816
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m95u30u42",
+    "name": "四ツ屋公園付近の道路標識",
+    "image": "https://image.xinu.ink/pic/data/910/images/m95u30u42_1720925809407.jpg",
+    "ep": "ED",
+    "s": 82,
+    "geo": [
+      35.4306,
+      136.7604
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "qvk9fisit",
+    "cn": "新桥站前",
+    "name": "新橋駅前",
+    "image": "https://image.xinu.ink/pic/data/878/images/qvk9fisit-1733965668504.jpg",
+    "ep": null,
+    "geo": [
+      35.6655,
+      139.7594
+    ]
+  },
+  {
+    "id": "qvlm32i7m",
+    "cn": "新桥往台场",
+    "name": "新橋駅-台场駅",
+    "image": "https://image.xinu.ink/pic/data/878/images/qvlm32i7m-1733968451707.jpg",
+    "ep": null,
+    "geo": [
+      35.6258,
+      139.7713
+    ]
+  },
+  {
+    "id": "qz4m894lz",
+    "name": "イマーシブ・フォート東京",
+    "image": "https://image.xinu.ink/pic/data/878/images/qz4m894lz-1734245055078.jpg",
+    "ep": null,
+    "geo": [
+      35.6251,
+      139.7802
+    ]
+  }
+]

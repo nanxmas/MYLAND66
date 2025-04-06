@@ -1,0 +1,64 @@
+{
+  "id": 481117,
+  "cn": "厨出凤城",
+  "title": "厨出凤城",
+  "city": "广东省",
+  "cover": "https://image.xinu.ink/pic/data/915/images/481117.jpg",
+  "color": "#d94a83",
+  "geo": [
+    22.82307406435791,
+    113.30153126688265
+  ],
+  "zoom": 10.513,
+  "modified": 1742477476771,
+  "litePoints": [
+    {
+      "id": "o736wgf6h",
+      "name": "顺德学院站",
+      "image": "https://image.anitabi.cn/points/481117/o736wgf6h_1726405960392_c16v9.jpg?plan=h160",
+      "geo": [
+        22.8253,
+        113.3143
+      ]
+    },
+    {
+      "id": "o73dmauo1",
+      "name": "顺德华侨城欢乐海岸PLUS（顺峰街）",
+      "image": "https://image.anitabi.cn/points/481117/o73dmauo1_1726405901707_c16v9.jpg?plan=h160",
+      "geo": [
+        22.8211,
+        113.299
+      ]
+    },
+    {
+      "id": "o74194ib5",
+      "name": "桂畔湖西",
+      "image": "https://image.anitabi.cn/points/481117/o74194ib5_1726407269058_c16v9.jpg?plan=h160",
+      "geo": [
+        22.819,
+        113.2855
+      ]
+    },
+    {
+      "id": "o73ptbc4t",
+      "name": "时光大道",
+      "image": "https://image.anitabi.cn/points/481117/o73ptbc4t_1726406536567_c16v9.jpg?plan=h160",
+      "geo": [
+        22.819,
+        113.2993
+      ]
+    },
+    {
+      "id": "tvxsjitcz",
+      "name": "顺德眼",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/481117/points/tvxsjitcz-1742458393630.jpg?plan=h160",
+      "geo": [
+        22.819,
+        113.298
+      ]
+    }
+  ],
+  "pointsLength": 9,
+  "imagesLength": 9,
+  "local_id": 915
+}

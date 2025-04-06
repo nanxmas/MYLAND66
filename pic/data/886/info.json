@@ -1,0 +1,131 @@
+{
+  "id": 444334,
+  "cn": "指尖相触，恋恋不舍",
+  "title": "ゆびさきと恋々",
+  "city": "埼玉市",
+  "cover": "https://image.xinu.ink/pic/data/886/images/444334.jpg",
+  "color": "#f79fa7",
+  "cp": "ゆびさきと恋々a作委員会",
+  "geo": [
+    35.867601973424925,
+    139.63109500992596
+  ],
+  "zoom": 10.028,
+  "modified": 1732986308931,
+  "litePoints": [
+    {
+      "id": "qgldha6gr",
+      "name": "円正寺緑道",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/444334/points/qgldha6gr-1732792658597.jpg?plan=h160",
+      "ep": 1,
+      "s": 1011,
+      "geo": [
+        35.8533,
+        139.6934
+      ]
+    },
+    {
+      "id": "qglrv5yyr",
+      "name": "明花公園横",
+      "image": "https://image.anitabi.cn/points/444334/qglrv5yyr_1732793426740.jpg?plan=h160",
+      "ep": 1,
+      "s": 1119,
+      "geo": [
+        35.8546,
+        139.6931
+      ]
+    },
+    {
+      "id": "qgm698s42",
+      "name": "明花公園 遠景",
+      "image": "https://image.anitabi.cn/points/444334/qgm698s42_1732794266024.jpg?plan=h160",
+      "ep": 1,
+      "s": 1143,
+      "geo": [
+        35.8543,
+        139.6939
+      ]
+    },
+    {
+      "id": "qglv0koa0",
+      "name": "明花公園前",
+      "image": "https://image.anitabi.cn/points/444334/qglv0koa0_1732793510671.jpg?plan=h160",
+      "ep": 1,
+      "s": 1170,
+      "geo": [
+        35.8545,
+        139.693
+      ]
+    },
+    {
+      "id": "qglxnpidp",
+      "name": "明花公園 交差点",
+      "image": "https://image.anitabi.cn/points/444334/qglxnpidp_1732793670953.jpg?plan=h160",
+      "ep": 1,
+      "s": 1174,
+      "geo": [
+        35.8547,
+        139.6931
+      ]
+    },
+    {
+      "id": "qglzexvfy",
+      "name": "明花公園",
+      "image": "https://image.anitabi.cn/points/444334/qglzexvfy_1732793777346.jpg?plan=h160",
+      "ep": 1,
+      "s": 1202,
+      "geo": [
+        35.8546,
+        139.693
+      ]
+    },
+    {
+      "id": "qgm0hkuev",
+      "name": "明花公園 街灯",
+      "image": "https://image.anitabi.cn/points/444334/qgm0hkuev_1732793844798.jpg?plan=h160",
+      "ep": 1,
+      "s": 1217,
+      "geo": [
+        35.8545,
+        139.6931
+      ]
+    },
+    {
+      "id": "qj18k899p",
+      "name": "明花公園 石の障害物",
+      "image": "https://image.anitabi.cn/points/444334/qj18k899p_1732983716744.jpg?plan=h160",
+      "ep": 1,
+      "s": 1260,
+      "geo": [
+        35.8544,
+        139.693
+      ]
+    },
+    {
+      "id": "qgr42j6a1",
+      "name": "浦和駅東口バス停付近",
+      "image": "https://image.anitabi.cn/points/444334/qgr42j6a1_1732804946604.jpg?plan=h160",
+      "ep": 1,
+      "s": 18,
+      "geo": [
+        35.8579,
+        139.6588
+      ]
+    },
+    {
+      "id": "qgr6j7h03",
+      "cn": "APEX TOWER浦和",
+      "name": "エイペックスタワー​浦和",
+      "image": "https://image.anitabi.cn/points/444334/qgr6j7h03_1732805103422.jpg?plan=h160",
+      "ep": 1,
+      "s": 20,
+      "geo": [
+        35.8569,
+        139.6574
+      ]
+    }
+  ],
+  "pointsLength": 46,
+  "imagesLength": 46,
+  "local_id": 886
+}

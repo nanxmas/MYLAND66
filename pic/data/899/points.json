@@ -1,0 +1,417 @@
+[
+  {
+    "id": "m2k6i6pjh",
+    "name": "高崎駅",
+    "image": "https://image.xinu.ink/pic/data/899/images/m2k6i6pjh-1720408331170.jpg",
+    "ep": 1,
+    "s": 7,
+    "geo": [
+      36.3223,
+      139.012
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m2kbfasp7",
+    "cn": "高崎体育馆",
+    "name": "高崎アリーナ",
+    "image": "https://image.xinu.ink/pic/data/899/images/m2kbfasp7-1720408619879.jpg",
+    "ep": 1,
+    "s": 27,
+    "geo": [
+      36.3155,
+      139.0126
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m4wnvgs17",
+    "name": "群馬県立高崎高等学校",
+    "image": "https://image.xinu.ink/pic/data/899/images/m4wnvgs17_1720592279668.jpg",
+    "ep": 1,
+    "s": 307,
+    "geo": [
+      36.3197,
+      138.9879
+    ],
+    "originLink": "https://www.jomo-news.co.jp/articles/-/409516"
+  },
+  {
+    "id": "m2mtk09wq",
+    "cn": "舒林寺 大门",
+    "name": "舒林寺",
+    "image": "https://image.xinu.ink/pic/data/899/images/m2mtk09wq_1720414097403.jpg",
+    "ep": 1,
+    "s": 329,
+    "geo": [
+      36.6436,
+      139.0495
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m2my8o93r",
+    "cn": "舒林寺 内院门",
+    "name": "舒林寺",
+    "image": "https://image.xinu.ink/pic/data/899/images/m2my8o93r_1720414459796.jpg",
+    "ep": 1,
+    "s": 331,
+    "geo": [
+      36.6437,
+      139.0508
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m2myi8u7r",
+    "cn": "舒林寺 正殿前",
+    "name": "舒林寺",
+    "image": "https://image.xinu.ink/pic/data/899/images/m2myi8u7r_1720414486677.jpg",
+    "ep": 1,
+    "s": 745,
+    "geo": [
+      36.6439,
+      139.0505
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m4v6qxn7j",
+    "name": "桜井電機商会",
+    "image": "https://image.xinu.ink/pic/data/899/images/m4v6qxn7j_1720589032723.jpg",
+    "ep": 1,
+    "s": 399,
+    "geo": [
+      36.6436,
+      139.0392
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m4v9hdhq5",
+    "name": "滝坂 階段",
+    "image": "https://image.xinu.ink/pic/data/899/images/m4v9hdhq5_1720589204590.jpg",
+    "ep": 1,
+    "s": 418,
+    "geo": [
+      36.643,
+      139.0404
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m4ve0r5in",
+    "name": "滝坂 坂道",
+    "image": "https://image.xinu.ink/pic/data/899/images/m4ve0r5in_1720589464029.jpg",
+    "ep": 1,
+    "s": 424,
+    "geo": [
+      36.643,
+      139.0408
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ntvjc4y2a",
+    "name": "旧沼田町役場復元鐘楼",
+    "image": "https://image.xinu.ink/pic/data/899/images/ntvjc4y2a-1725370040637.jpg",
+    "ep": 1,
+    "s": 510,
+    "geo": [
+      36.6479,
+      139.0385
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m2pnqas6i",
+    "name": "沼田駅",
+    "image": "https://image.xinu.ink/pic/data/899/images/m2pnqas6i_1720420262641.jpg",
+    "ep": 1,
+    "s": 656,
+    "geo": [
+      36.6425,
+      139.0358
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m2pv8d5mq",
+    "name": "沼田駅 改札口",
+    "image": "https://image.xinu.ink/pic/data/899/images/m2pv8d5mq_1720420716169.jpg",
+    "ep": 1,
+    "s": 662,
+    "geo": [
+      36.6425,
+      139.0357
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m4w6j3hvu",
+    "name": "沼田病院",
+    "image": "https://image.xinu.ink/pic/data/899/images/m4w6j3hvu_1720591185103.jpg",
+    "ep": 1,
+    "s": 696,
+    "geo": [
+      36.6462,
+      139.0601
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "maxhzdkfg",
+    "name": "群馬県立前橋高等学校",
+    "image": "https://image.xinu.ink/pic/data/899/images/maxhzdkfg-1721064239671.jpg",
+    "ep": 2,
+    "s": 1021,
+    "geo": [
+      36.3973,
+      139.0952
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n57nzcqfa",
+    "name": "水上駅",
+    "image": "https://image.xinu.ink/pic/data/899/images/n57nzcqfa_1723437289927.jpg",
+    "ep": 6,
+    "s": 248,
+    "geo": [
+      36.7785,
+      138.9687
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n57p2xvpk",
+    "name": "まんじゅう​屋​笛木",
+    "image": "https://image.xinu.ink/pic/data/899/images/n57p2xvpk_1723437344466.jpg",
+    "ep": 6,
+    "s": 250,
+    "geo": [
+      36.7788,
+      138.9685
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lzp6nkejg",
+    "name": "諏訪峡大橋",
+    "image": "https://image.xinu.ink/pic/data/899/images/lzp6nkejg_1723437429908.jpg",
+    "ep": 6,
+    "s": 337,
+    "geo": [
+      36.7597,
+      138.9736
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n57sfcknq",
+    "name": "諏訪峡",
+    "image": "https://image.xinu.ink/pic/data/899/images/n57sfcknq_1723437550649.jpg",
+    "ep": 6,
+    "s": 376,
+    "geo": [
+      36.7598,
+      138.9733
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n57vbox47",
+    "name": "宝川温泉 汪泉閣",
+    "image": "https://image.xinu.ink/pic/data/899/images/n57vbox47_1723437756306.jpg",
+    "ep": 6,
+    "s": 531,
+    "geo": [
+      36.8473,
+      139.0471
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n57yxzem5",
+    "name": "摩耶の湯",
+    "image": "https://image.xinu.ink/pic/data/899/images/n57yxzem5_1723438066330.jpg",
+    "ep": 6,
+    "s": 561,
+    "geo": [
+      36.8459,
+      139.0481
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n581vy776",
+    "name": "般若の湯",
+    "image": "https://image.xinu.ink/pic/data/899/images/n581vy776_1723438208043.jpg",
+    "ep": 6,
+    "s": 877,
+    "geo": [
+      36.8464,
+      139.0476
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n585usifv",
+    "name": "子宝の湯",
+    "image": "https://image.xinu.ink/pic/data/899/images/n585usifv_1723438421223.jpg",
+    "ep": 6,
+    "s": 1320,
+    "geo": [
+      36.8462,
+      139.0475
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ntumuv4lj",
+    "name": "高崎城跡",
+    "image": "https://image.xinu.ink/pic/data/899/images/ntumuv4lj-1725368142031.jpg",
+    "ep": 9,
+    "s": 350,
+    "geo": [
+      36.3242,
+      139.0043
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ntvd5znia",
+    "name": "高崎城跡 顕彰碑",
+    "image": "https://image.xinu.ink/pic/data/899/images/ntvd5znia-1725369628104.jpg",
+    "ep": 9,
+    "s": 452,
+    "geo": [
+      36.3241,
+      139.0041
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "o08kdnwrv",
+    "name": "刀水橋",
+    "image": "https://image.xinu.ink/pic/data/899/images/o08kdnwrv_1725868547286.jpg",
+    "ep": 10,
+    "s": 292,
+    "geo": [
+      36.2402,
+      139.379
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "o08m4rozn",
+    "cn": "群马音乐中心前",
+    "name": "群馬​音楽​センター前",
+    "image": "https://image.xinu.ink/pic/data/899/images/o08m4rozn_1725868665378.jpg",
+    "ep": 10,
+    "s": 883,
+    "geo": [
+      36.324,
+      139.0035
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "o08qcjebp",
+    "cn": "高崎市立中央图书馆",
+    "name": "高崎市立中央図書館",
+    "image": "https://image.xinu.ink/pic/data/899/images/o08qcjebp_1725868889884.jpg",
+    "ep": 10,
+    "s": 1223,
+    "geo": [
+      36.3253,
+      139.0018
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "og2uoommh",
+    "name": "カラマツの丘",
+    "image": "https://image.xinu.ink/pic/data/899/images/og2uoommh-1727109969985.jpg",
+    "ep": 12,
+    "s": 337,
+    "geo": [
+      36.4771,
+      138.4662
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ldamfeamf",
+    "name": "団子坂",
+    "image": "https://image.xinu.ink/pic/data/899/images/ldamfeamf-1718428410481.jpg",
+    "ep": null,
+    "geo": [
+      36.6457,
+      139.039
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m4wurc9so",
+    "name": "さとう美容室前階梯",
+    "image": "https://image.xinu.ink/pic/data/899/images/m4wurc9so_1720592705606.jpg",
+    "geo": [
+      36.646,
+      139.0396
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m4x2pcbci",
+    "name": "高崎中央銀座",
+    "image": "https://image.xinu.ink/pic/data/899/images/m4x2pcbci_1720593122304.jpg",
+    "geo": [
+      36.3278,
+      139.0053
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lzoefj49a",
+    "name": "高崎中央銀座 北口",
+    "image": "https://image.xinu.ink/pic/data/899/images/lzoefj49a-1720182462444.jpg",
+    "ep": "",
+    "geo": [
+      36.3297,
+      139.0051
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

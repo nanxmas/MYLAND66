@@ -1,0 +1,121 @@
+{
+  "id": 480441,
+  "cn": "蓦然回首",
+  "title": "ルックバック",
+  "city": "仁贺保市",
+  "cover": "https://image.xinu.ink/pic/data/914/images/480441.jpg",
+  "color": "#0ecc00",
+  "geo": [
+    39.28544055875446,
+    139.96332249995976
+  ],
+  "zoom": 12.651,
+  "modified": 1736407187034,
+  "litePoints": [
+    {
+      "id": "purhdb3t7",
+      "cn": "仁贺保",
+      "name": "仁賀保",
+      "image": "https://image.anitabi.cn/points/480441/purhdb3t7_1731081741938.jpg?plan=h160",
+      "s": 259,
+      "geo": [
+        39.2897,
+        139.9639
+      ]
+    },
+    {
+      "id": "purn99358",
+      "cn": "农田",
+      "name": "田畑",
+      "image": "https://image.anitabi.cn/points/480441/purn99358_1731082091539.jpg?plan=h160",
+      "s": 448,
+      "geo": [
+        39.2613,
+        139.9728
+      ]
+    },
+    {
+      "id": "pus7adrcn",
+      "name": "文林堂書店",
+      "image": "https://image.anitabi.cn/points/480441/pus7adrcn_1731083301068.jpg?plan=h160",
+      "s": 515,
+      "geo": [
+        39.2913,
+        139.9631
+      ]
+    },
+    {
+      "id": "puszoa10e",
+      "name": "鳥海山",
+      "image": "https://image.anitabi.cn/points/480441/puszoa10e_1731085059163.jpg?plan=h160",
+      "s": 600,
+      "geo": [
+        39.1722,
+        139.9534
+      ]
+    },
+    {
+      "id": "pikuxol9g",
+      "name": "専大前交差点",
+      "image": "https://image.anitabi.cn/points/480441/pikuxol9g_1731083012224.jpg?plan=h160",
+      "s": 1400,
+      "geo": [
+        35.6958,
+        139.7553
+      ]
+    },
+    {
+      "id": "lfenhyqu6",
+      "name": "集英社 神保町3丁目ビル",
+      "image": "https://image.anitabi.cn/points/480441/lfenhyqu6_1731082935449.jpg?plan=h160",
+      "s": 1402,
+      "geo": [
+        35.6952,
+        139.7554
+      ]
+    },
+    {
+      "id": "pus4az6vd",
+      "name": "セブンイレブン にかほ平沢店",
+      "image": "https://image.anitabi.cn/points/480441/pus4az6vd_1731083124760.jpg?plan=h160",
+      "s": 1450,
+      "geo": [
+        39.2842,
+        139.9697
+      ]
+    },
+    {
+      "id": "pusao1mck",
+      "name": "山形駅前歩道",
+      "image": "https://image.anitabi.cn/points/480441/pusao1mck_1731083556677.jpg?plan=h160",
+      "s": 1536,
+      "geo": [
+        38.2479,
+        140.3284
+      ]
+    },
+    {
+      "id": "lfezl99da",
+      "name": "七日町交差点歩道",
+      "image": "https://image.anitabi.cn/points/480441/lfezl99da_1731083772467.jpg?plan=h160",
+      "s": 1554,
+      "geo": [
+        38.2515,
+        140.3382
+      ]
+    },
+    {
+      "id": "puskxj7x6",
+      "name": "山形駅前",
+      "image": "https://image.anitabi.cn/points/480441/puskxj7x6_1731084138434.jpg?plan=h160",
+      "s": 1557,
+      "geo": [
+        38.2476,
+        140.3292
+      ]
+    }
+  ],
+  "pointsLength": 41,
+  "imagesLength": 41,
+  "local_id": 914
+}

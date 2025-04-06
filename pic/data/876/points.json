@@ -1,0 +1,343 @@
+[
+  {
+    "id": "1d02f2c6",
+    "name": "尾道駅",
+    "image": "https://image.xinu.ink/pic/data/876/images/1d02f2c6_1741678045040.jpg",
+    "geo": [
+      34.4045,
+      133.1933
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.404552%2C133.193369&z=17"
+  },
+  {
+    "id": "6972e6e2",
+    "name": "なしこベンチ(海岸通り沿い)",
+    "image": "https://image.xinu.ink/pic/data/876/images/6972e6e2_1741678062294.jpg",
+    "geo": [
+      34.4042,
+      133.1946
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.404235%2C133.194695&z=17"
+  },
+  {
+    "id": "bff7b2ea",
+    "name": "福本渡船付近",
+    "image": "https://image.xinu.ink/pic/data/876/images/bff7b2ea_1741678077987.jpg",
+    "geo": [
+      34.4054,
+      133.1964
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.405425%2C133.196467&z=17"
+  },
+  {
+    "id": "7b6cda55",
+    "name": "おのみち海辺の美術館付近",
+    "image": "https://image.xinu.ink/pic/data/876/images/7b6cda55_1741678089070.jpg",
+    "geo": [
+      34.4061,
+      133.199
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.406188%2C133.199005&z=17"
+  },
+  {
+    "id": "f58e3ec7",
+    "name": "正一位鎌倉稲荷大明神",
+    "image": "https://image.xinu.ink/pic/data/876/images/f58e3ec7_1741678103460.jpg",
+    "geo": [
+      34.4069,
+      133.1996
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.406918%2C133.199637&z=17"
+  },
+  {
+    "id": "71650e6c",
+    "name": "本通り商店街",
+    "image": "https://image.xinu.ink/pic/data/876/images/71650e6c_1741678118599.jpg",
+    "geo": [
+      34.4072,
+      133.1995
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.407262%2C133.199516&z=17"
+  },
+  {
+    "id": "a6787164",
+    "name": "千光寺山ロープウェイ 山麓駅付近",
+    "image": "https://image.xinu.ink/pic/data/876/images/a6787164_1741678132910.jpg",
+    "geo": [
+      34.4105,
+      133.2017
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.410512%2C133.201767&z=17"
+  },
+  {
+    "id": "e06ee395",
+    "name": "三上洋酒店",
+    "image": "https://image.xinu.ink/pic/data/876/images/e06ee395_1741678149623.jpg",
+    "geo": [
+      34.4102,
+      133.2029
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.410289%2C133.20292&z=17"
+  },
+  {
+    "id": "920d2b16",
+    "name": "尾道みなと館",
+    "image": "https://image.xinu.ink/pic/data/876/images/920d2b16_1741678162691.jpg",
+    "geo": [
+      34.4109,
+      133.2039
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.410947%2C133.203925&z=17"
+  },
+  {
+    "id": "acbb895c",
+    "name": "西國寺",
+    "image": "https://image.xinu.ink/pic/data/876/images/acbb895c_1741678181102.jpg",
+    "geo": [
+      34.4152,
+      133.2031
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.415203%2C133.203184&z=17"
+  },
+  {
+    "id": "d5c19b14",
+    "name": "浄土寺下バス停",
+    "image": "https://image.xinu.ink/pic/data/876/images/d5c19b14_1741678194498.jpg",
+    "geo": [
+      34.4108,
+      133.2102
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.410817%2C133.210236&z=17"
+  },
+  {
+    "id": "4fce17a0",
+    "name": "浄土寺下交差点",
+    "image": "https://image.xinu.ink/pic/data/876/images/4fce17a0_1741678207776.jpg",
+    "geo": [
+      34.4111,
+      133.2104
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.411135%2C133.210488&z=17"
+  },
+  {
+    "id": "52a3be0b",
+    "name": "尾崎バス停付近",
+    "image": "https://image.xinu.ink/pic/data/876/images/52a3be0b_1741678224326.jpg",
+    "geo": [
+      34.4111,
+      133.2131
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.411149%2C133.213149&z=17"
+  },
+  {
+    "id": "9fc4907f",
+    "name": "浄土寺",
+    "image": "https://image.xinu.ink/pic/data/876/images/9fc4907f_1741678239243.jpg",
+    "geo": [
+      34.4116,
+      133.2105
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.411629%2C133.21055&z=17"
+  },
+  {
+    "id": "46b9945e",
+    "name": "浄土寺山登山道入口",
+    "image": "https://image.xinu.ink/pic/data/876/images/46b9945e_1741678256267.jpg",
+    "geo": [
+      34.4123,
+      133.2115
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.412375%2C133.211507&z=17"
+  },
+  {
+    "id": "36482d56",
+    "name": "浄土寺山・天空の鳥居",
+    "image": "https://image.xinu.ink/pic/data/876/images/36482d56_1741678277237.jpg",
+    "geo": [
+      34.4145,
+      133.2118
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.414528%2C133.211888&z=17"
+  },
+  {
+    "id": "839b1fde",
+    "name": "不動岩付近",
+    "image": "https://image.xinu.ink/pic/data/876/images/839b1fde_1741678297837.jpg",
+    "geo": [
+      34.4142,
+      133.2127
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.4142%2C133.212766&z=17"
+  },
+  {
+    "id": "190eab11",
+    "name": "浄土寺奥之院満福寺",
+    "image": "https://image.xinu.ink/pic/data/876/images/190eab11_1741678407851.jpg",
+    "geo": [
+      34.4145,
+      133.2128
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.414563%2C133.212875&z=17"
+  },
+  {
+    "id": "020db7de",
+    "name": "浄土寺山展望台",
+    "image": "https://image.xinu.ink/pic/data/876/images/020db7de_1741678438478.jpg",
+    "geo": [
+      34.4148,
+      133.2131
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.414867%2C133.213197&z=17"
+  },
+  {
+    "id": "8de21e8f",
+    "name": "猫の細道",
+    "image": "https://image.xinu.ink/pic/data/876/images/8de21e8f_1741678454397.jpg",
+    "geo": [
+      34.4104,
+      133.1998
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.4104%2C133.199824&z=17"
+  },
+  {
+    "id": "7c16a79f",
+    "name": "天寧寺三重塔",
+    "image": "https://image.xinu.ink/pic/data/876/images/7c16a79f_1741678471736.jpg",
+    "geo": [
+      34.4098,
+      133.1995
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.409832%2C133.199558&z=17"
+  },
+  {
+    "id": "3c5cfa16",
+    "name": "千光寺本堂",
+    "image": "https://image.xinu.ink/pic/data/876/images/3c5cfa16_1741678484157.jpg",
+    "geo": [
+      34.4104,
+      133.1987
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.410497%2C133.198758&z=17"
+  },
+  {
+    "id": "b401999d",
+    "name": "千光寺",
+    "image": "https://image.xinu.ink/pic/data/876/images/b401999d_1741678496327.jpg",
+    "geo": [
+      34.4107,
+      133.1986
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.410755%2C133.198685&z=17"
+  },
+  {
+    "id": "0d99e40c",
+    "name": "観音坂",
+    "image": "https://image.xinu.ink/pic/data/876/images/0d99e40c_1741678508039.jpg",
+    "geo": [
+      34.4097,
+      133.1978
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.409761%2C133.19785&z=17"
+  },
+  {
+    "id": "d84341ad",
+    "name": "鼓岩",
+    "image": "https://image.xinu.ink/pic/data/876/images/d84341ad_1741678520451.jpg",
+    "geo": [
+      34.4097,
+      133.1976
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.40978%2C133.197618&z=17"
+  },
+  {
+    "id": "1640538d",
+    "name": "日比崎地区",
+    "image": "https://image.xinu.ink/pic/data/876/images/1640538d_1741678535196.jpg",
+    "geo": [
+      34.4034,
+      133.1853
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.40343%2C133.1853&z=17"
+  },
+  {
+    "id": "d7d5d53a",
+    "name": "エブリイ尾道新浜店",
+    "image": "https://image.xinu.ink/pic/data/876/images/d7d5d53a_1741678547149.jpg",
+    "geo": [
+      34.4018,
+      133.184
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.401851%2C133.184087&z=17"
+  },
+  {
+    "id": "a13ee524",
+    "name": "正徳町の港（看板）",
+    "image": "https://image.xinu.ink/pic/data/876/images/a13ee524_1741678608468.jpg",
+    "geo": [
+      34.3958,
+      133.1669
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.395818%2C133.166955&z=17"
+  },
+  {
+    "id": "6efc0ca8",
+    "name": "養老温泉本館",
+    "image": "https://image.xinu.ink/pic/data/876/images/6efc0ca8_1741678590133.jpg",
+    "geo": [
+      34.4493,
+      133.1984
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.449395%2C133.198429&z=17"
+  },
+  {
+    "id": "71d26489",
+    "name": "尾道市マリン・ユース・センター",
+    "image": "https://image.xinu.ink/pic/data/876/images/71d26489_1741678654925.jpg",
+    "geo": [
+      34.3621,
+      133.2123
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.362179%2C133.212317&z=17"
+  },
+  {
+    "id": "653c911f",
+    "name": "瀬戸田サンセットビーチ",
+    "image": "https://image.xinu.ink/pic/data/876/images/653c911f_1741678669399.jpg",
+    "geo": [
+      34.2812,
+      133.0731
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12HV-Mi-cyKlKa99bLffjY4ddVVVYBBE&ll=34.281273%2C133.073109&z=17"
+  }
+]

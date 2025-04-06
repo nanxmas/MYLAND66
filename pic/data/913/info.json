@@ -1,0 +1,131 @@
+{
+  "id": 479788,
+  "cn": "一杆青空",
+  "title": "空色ユーティリティ",
+  "city": "西东京市",
+  "cover": "https://image.xinu.ink/pic/data/913/images/479788_mcfeN.jpg",
+  "color": "#54c3ce",
+  "cp": "空色ユーティリティ",
+  "geo": [
+    35.71417343905489,
+    139.5550490283951
+  ],
+  "zoom": 12.097,
+  "modified": 1742055386888,
+  "litePoints": [
+    {
+      "id": "tqro0inj2",
+      "name": "西浦北向地蔵尊",
+      "image": "https://image.anitabi.cn/points/479788/tqro0inj2_1742053160954.jpg?plan=h160",
+      "ep": 1,
+      "s": 363,
+      "geo": [
+        35.7343,
+        139.5484
+      ]
+    },
+    {
+      "id": "tqrqfqors",
+      "name": "保谷ゴルフセンター",
+      "image": "https://image.anitabi.cn/points/479788/tqrqfqors_1742053272559.jpg?plan=h160",
+      "ep": 1,
+      "s": 403,
+      "geo": [
+        35.7345,
+        139.5476
+      ]
+    },
+    {
+      "id": "tqrsenhuy",
+      "name": "保谷G 打席",
+      "image": "https://image.anitabi.cn/points/479788/tqrsenhuy_1742053470057.jpg?plan=h160",
+      "ep": 1,
+      "s": 424,
+      "geo": [
+        35.7345,
+        139.5479
+      ]
+    },
+    {
+      "id": "rkh34yg6r",
+      "name": "保谷ゴルフセンターの看板",
+      "image": "https://image.anitabi.cn/points/479788/rkh34yg6r_1735917727156.jpg?plan=h160",
+      "ep": 1,
+      "s": 836,
+      "geo": [
+        35.7344,
+        139.5483
+      ]
+    },
+    {
+      "id": "tqs2ypa5y",
+      "name": "保谷G 入口",
+      "image": "https://image.anitabi.cn/points/479788/tqs2ypa5y_1742054030064.jpg?plan=h160",
+      "ep": 1,
+      "s": 1175,
+      "geo": [
+        35.7345,
+        139.548
+      ]
+    },
+    {
+      "id": "s8cjyjv0y",
+      "name": "東宝​調布​スポーツ​パーク",
+      "image": "https://image.anitabi.cn/points/479788/s8cjyjv0y_1737788611364.jpg?plan=h160",
+      "ep": 1,
+      "s": 1190,
+      "geo": [
+        35.6472,
+        139.5279
+      ]
+    },
+    {
+      "id": "rtcle4rgp",
+      "name": "西武柳沢駅南口",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/479788/points/rtcle4rgp-1736613263772.jpg?plan=h160",
+      "ep": 2,
+      "s": 1024,
+      "geo": [
+        35.7285,
+        139.5528
+      ]
+    },
+    {
+      "id": "rtcriyesj",
+      "name": "文華女子高等学校",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/479788/points/rtcriyesj-1736613556602.jpg?plan=h160",
+      "ep": 2,
+      "s": 1148,
+      "geo": [
+        35.7381,
+        139.5302
+      ]
+    },
+    {
+      "id": "s8bszj476",
+      "cn": "Victoria Golf世田谷​店",
+      "name": "ヴィクトリア​ゴルフ​世田谷​店",
+      "image": "https://image.anitabi.cn/points/479788/s8bszj476_1737786936199.jpg?plan=h160",
+      "ep": 4,
+      "s": 160,
+      "geo": [
+        35.6686,
+        139.6136
+      ]
+    },
+    {
+      "id": "tqsfapvdd",
+      "name": "四街道GC",
+      "image": "https://image.anitabi.cn/points/479788/tqsfapvdd_1742055240194.jpg?plan=h160",
+      "ep": 6,
+      "s": 160,
+      "geo": [
+        35.6544,
+        140.1807
+      ]
+    }
+  ],
+  "pointsLength": 12,
+  "imagesLength": 12,
+  "local_id": 913
+}

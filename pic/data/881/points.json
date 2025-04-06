@@ -1,0 +1,948 @@
+[
+  {
+    "id": "2c9e42f1",
+    "name": "フジテレビ 本社ビル 球形展望室",
+    "image": "https://image.xinu.ink/pic/data/881/images/2c9e42f1_1740411710512.jpg",
+    "ep": 1,
+    "geo": [
+      35.6266,
+      139.774
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Ve78NWUFs4Ci_jJfn90-pJpGsFY_iQ8&ll=35.626605%2C139.774056&z=17"
+  },
+  {
+    "id": "0faa8553",
+    "name": "泉天空の湯 有明ガーデン",
+    "image": "https://image.xinu.ink/pic/data/881/images/0faa8553_1740411779578.jpg",
+    "ep": 1,
+    "geo": [
+      35.6382,
+      139.7915
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Ve78NWUFs4Ci_jJfn90-pJpGsFY_iQ8&ll=35.638283%2C139.791583&z=17"
+  },
+  {
+    "id": "dd3eb840",
+    "name": "東雲キャナルコートＣＯＤＡＮ",
+    "image": "https://image.xinu.ink/pic/data/881/images/dd3eb840_1740411799575.jpg",
+    "ep": 1,
+    "geo": [
+      35.6469,
+      139.8041
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Ve78NWUFs4Ci_jJfn90-pJpGsFY_iQ8&ll=35.646965%2C139.804189&z=17"
+  },
+  {
+    "id": "f14026b8",
+    "name": "那覇空港 見学者デッキ",
+    "image": "https://image.xinu.ink/pic/data/881/images/f14026b8_1740490237743.jpg",
+    "ep": 1,
+    "geo": [
+      26.2055,
+      127.6505
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.205503%2C127.650573&z=17"
+  },
+  {
+    "id": "72005fb9",
+    "name": "パレットくもじ階段",
+    "image": "https://image.xinu.ink/pic/data/881/images/72005fb9_1740490257738.jpg",
+    "ep": 1,
+    "geo": [
+      26.2138,
+      127.6801
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.213843%2C127.680148&z=17"
+  },
+  {
+    "id": "01ee8b02",
+    "name": "デパートリウボウ屋上",
+    "image": "https://image.xinu.ink/pic/data/881/images/01ee8b02_1740490297743.jpg",
+    "ep": 1,
+    "geo": [
+      26.2136,
+      127.6793
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.213697%2C127.679315&z=17"
+  },
+  {
+    "id": "e2e98de5",
+    "name": "愛のシーサー公園",
+    "image": "https://image.xinu.ink/pic/data/881/images/e2e98de5_1740490312097.jpg",
+    "ep": 1,
+    "geo": [
+      26.2129,
+      127.6794
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.212912%2C127.679413&z=17"
+  },
+  {
+    "id": "6286f4de",
+    "name": "那覇市役所",
+    "image": "https://image.xinu.ink/pic/data/881/images/6286f4de_1740490335559.jpg",
+    "ep": 1,
+    "geo": [
+      26.2129,
+      127.679
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.212985%2C127.679025&z=17"
+  },
+  {
+    "id": "710b3f05",
+    "name": "壺屋やちむん通り",
+    "image": "https://image.xinu.ink/pic/data/881/images/710b3f05_1740411833049.jpg",
+    "ep": 1,
+    "geo": [
+      26.2131,
+      127.6909
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.213166%2C127.690974&z=17"
+  },
+  {
+    "id": "2b1d60fe",
+    "name": "SANBASHI",
+    "image": "https://image.xinu.ink/pic/data/881/images/2b1d60fe_1740490393084.jpg",
+    "ep": 1,
+    "geo": [
+      26.2159,
+      127.6886
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.2159%2C127.688603&z=17"
+  },
+  {
+    "id": "36f16088",
+    "name": "桜坂劇場",
+    "image": "https://image.xinu.ink/pic/data/881/images/36f16088_1740411849276.jpg",
+    "ep": 1,
+    "geo": [
+      26.2148,
+      127.69
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.214802%2C127.690074&z=17"
+  },
+  {
+    "id": "72e3c67d",
+    "name": "DMMかりゆし水族館",
+    "image": "https://image.xinu.ink/pic/data/881/images/72e3c67d_1740411863263.jpg",
+    "ep": 1,
+    "geo": [
+      26.1563,
+      127.6506
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.156342%2C127.650667&z=17"
+  },
+  {
+    "id": "c2c39efa",
+    "name": "ブルーシール 北谷カフェ",
+    "image": "https://image.xinu.ink/pic/data/881/images/c2c39efa_1740411900193.jpg",
+    "ep": 1,
+    "geo": [
+      26.3137,
+      127.7612
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.313703%2C127.76122&z=17"
+  },
+  {
+    "id": "1bb11bb7",
+    "name": "中乃湯",
+    "image": "https://image.xinu.ink/pic/data/881/images/1bb11bb7_1740412490534.jpg",
+    "ep": 1,
+    "geo": [
+      26.3373,
+      127.811
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.337306%2C127.811025&z=17"
+  },
+  {
+    "id": "611cc2a9",
+    "name": "ワッシュランドちばな店",
+    "image": "https://image.xinu.ink/pic/data/881/images/611cc2a9_1740490945645.jpg",
+    "ep": 1,
+    "geo": [
+      26.3625,
+      127.8175
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.362555%2C127.817511&z=17"
+  },
+  {
+    "id": "54cad1f6",
+    "name": "東南植物楽園",
+    "image": "https://image.xinu.ink/pic/data/881/images/54cad1f6_1740412131091.jpg",
+    "ep": 1,
+    "geo": [
+      26.3757,
+      127.8065
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.375755%2C127.806539&z=17"
+  },
+  {
+    "id": "2af29575",
+    "name": "ビオスの丘",
+    "image": "https://image.xinu.ink/pic/data/881/images/2af29575_1740490427319.jpg",
+    "ep": 1,
+    "geo": [
+      26.4221,
+      127.7976
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.422192%2C127.797693&z=17"
+  },
+  {
+    "id": "20cb5f7b",
+    "name": "琉球村",
+    "image": "https://image.xinu.ink/pic/data/881/images/20cb5f7b_1740490464272.jpg",
+    "ep": 1,
+    "geo": [
+      26.4294,
+      127.7752
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.429455%2C127.775291&z=17"
+  },
+  {
+    "id": "47e93e33",
+    "name": "おんなの駅なかゆくい市場",
+    "image": "https://image.xinu.ink/pic/data/881/images/47e93e33_1740490493210.jpg",
+    "ep": 1,
+    "geo": [
+      26.4362,
+      127.7946
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.436243%2C127.794678&z=17"
+  },
+  {
+    "id": "a6593411",
+    "name": "琉冰【Ryu-Pin】",
+    "image": "https://image.xinu.ink/pic/data/881/images/a6593411_1740490506527.jpg",
+    "ep": 1,
+    "geo": [
+      26.4362,
+      127.7947
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.436287%2C127.794725&z=17"
+  },
+  {
+    "id": "911452ae",
+    "name": "万座毛",
+    "image": "https://image.xinu.ink/pic/data/881/images/911452ae_1740490530247.jpg",
+    "ep": 1,
+    "geo": [
+      26.5052,
+      127.8504
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.50525%2C127.850442&z=17"
+  },
+  {
+    "id": "4d645e39",
+    "name": "ブセナ海中公園",
+    "image": "https://image.xinu.ink/pic/data/881/images/4d645e39_1740490550698.jpg",
+    "ep": 1,
+    "geo": [
+      26.5422,
+      127.9322
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.542222%2C127.932269&z=17"
+  },
+  {
+    "id": "8a1e459f",
+    "name": "名護市役所の屋上",
+    "image": "https://image.xinu.ink/pic/data/881/images/8a1e459f_1740490576088.jpg",
+    "ep": 1,
+    "geo": [
+      26.5915,
+      127.9773
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.591529%2C127.977361&z=17"
+  },
+  {
+    "id": "32e8192d",
+    "name": "AJリゾートアイランド伊計島",
+    "image": "https://image.xinu.ink/pic/data/881/images/32e8192d_1740490599099.jpg",
+    "ep": 1,
+    "geo": [
+      26.3975,
+      128.0014
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.397583%2C128.001401&z=17"
+  },
+  {
+    "id": "c5a6542b",
+    "name": "瀬底大橋",
+    "image": "https://image.xinu.ink/pic/data/881/images/c5a6542b_1740412657591.jpg",
+    "ep": 1,
+    "geo": [
+      26.6493,
+      127.8755
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.649363%2C127.875568&z=17"
+  },
+  {
+    "id": "74f2d07e",
+    "name": "新鮮カツオベンチ",
+    "image": "https://image.xinu.ink/pic/data/881/images/74f2d07e_1740412639342.jpg",
+    "ep": 1,
+    "geo": [
+      26.6604,
+      127.8956
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.660411%2C127.895629&z=17"
+  },
+  {
+    "id": "937671e8",
+    "name": "うふた浜・恋人ビーチ",
+    "image": "https://image.xinu.ink/pic/data/881/images/937671e8_1740490651361.jpg",
+    "ep": 1,
+    "geo": [
+      26.6624,
+      127.8904
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.662471%2C127.890434&z=17"
+  },
+  {
+    "id": "a4ea3cad",
+    "name": "備瀬崎クルーズ",
+    "image": "https://image.xinu.ink/pic/data/881/images/a4ea3cad_1740412782201.jpg",
+    "ep": 1,
+    "geo": [
+      26.7047,
+      127.8803
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.704714%2C127.880316&z=17"
+  },
+  {
+    "id": "19e128ee",
+    "name": "ニルヤカナヤBISE",
+    "image": "https://image.xinu.ink/pic/data/881/images/19e128ee_1740490686564.jpg",
+    "ep": 1,
+    "geo": [
+      26.7012,
+      127.8798
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.701232%2C127.879878&z=17"
+  },
+  {
+    "id": "3f7d2d1b",
+    "name": "カラン",
+    "image": "https://image.xinu.ink/pic/data/881/images/3f7d2d1b_1740490728378.jpg",
+    "ep": 1,
+    "geo": [
+      26.6684,
+      128.0024
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.668448%2C128.002408&z=17"
+  },
+  {
+    "id": "bbc0123e",
+    "name": "ガンガラーの谷",
+    "image": "https://image.xinu.ink/pic/data/881/images/bbc0123e_1740412795754.jpg",
+    "ep": 1,
+    "geo": [
+      26.1412,
+      127.7473
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.141295%2C127.747304&z=17"
+  },
+  {
+    "id": "a11e75e0",
+    "name": "あざまサンサンビーチ",
+    "image": "https://image.xinu.ink/pic/data/881/images/a11e75e0_1740412082191.jpg",
+    "ep": 1,
+    "geo": [
+      26.1788,
+      127.8298
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.17881%2C127.829832&z=17"
+  },
+  {
+    "id": "t45ntoizh",
+    "name": "A&W牧港店",
+    "image": "https://image.xinu.ink/pic/data/881/images/t45ntoizh-1740281236792.jpg",
+    "ep": null,
+    "geo": [
+      26.2666,
+      127.7283
+    ],
+    "origin": "黒田春日子",
+    "originLink": "https://bgm.tv/ep/1433487"
+  },
+  {
+    "id": "fdc52c64",
+    "name": "東京ビッグサイト",
+    "image": "https://image.xinu.ink/pic/data/881/images/fdc52c64_1740411743152.jpg",
+    "geo": [
+      35.6329,
+      139.7973
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Ve78NWUFs4Ci_jJfn90-pJpGsFY_iQ8&ll=35.632961%2C139.797303&z=17"
+  },
+  {
+    "id": "91204627",
+    "name": "辰巳桜橋",
+    "image": "https://image.xinu.ink/pic/data/881/images/91204627_1740403713816.jpg",
+    "geo": [
+      35.6465,
+      139.8074
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Ve78NWUFs4Ci_jJfn90-pJpGsFY_iQ8&ll=35.646555%2C139.807423&z=17"
+  },
+  {
+    "id": "771adc65",
+    "name": "東雲水辺公園 水の広場",
+    "image": "https://image.xinu.ink/pic/data/881/images/771adc65_1740403729445.jpg",
+    "geo": [
+      35.6469,
+      139.8054
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Ve78NWUFs4Ci_jJfn90-pJpGsFY_iQ8&ll=35.646988%2C139.805447&z=17"
+  },
+  {
+    "id": "72d193da",
+    "name": "旭橋交差点",
+    "image": "https://image.xinu.ink/pic/data/881/images/72d193da_1740404192555.jpg",
+    "geo": [
+      26.2113,
+      127.6749
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.2113%2C127.674922&z=17"
+  },
+  {
+    "id": "229f6245",
+    "name": "御菓子御殿 国際通り松尾店",
+    "image": "https://image.xinu.ink/pic/data/881/images/229f6245_1740403759014.jpg",
+    "geo": [
+      26.2139,
+      127.6814
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.213901%2C127.681499&z=17"
+  },
+  {
+    "id": "8ac48ead",
+    "name": "おきなわ屋 本店前",
+    "image": "https://image.xinu.ink/pic/data/881/images/8ac48ead_1740308132413.jpg",
+    "geo": [
+      26.2153,
+      127.6852
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.215394%2C127.685276&z=17"
+  },
+  {
+    "id": "6e6a744c",
+    "name": "POCO CAFE OKINAWA 国際通り店付近",
+    "image": "https://image.xinu.ink/pic/data/881/images/6e6a744c_1740308136981.jpg",
+    "geo": [
+      26.2159,
+      127.6867
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.215923%2C127.686754&z=17"
+  },
+  {
+    "id": "749f8b1f",
+    "name": "国際通りのれん街付近",
+    "image": "https://image.xinu.ink/pic/data/881/images/749f8b1f_1740308139689.jpg",
+    "geo": [
+      26.2163,
+      127.6886
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.216348%2C127.688654&z=17"
+  },
+  {
+    "id": "9aede8c6",
+    "name": "てんぶす那覇",
+    "image": "https://image.xinu.ink/pic/data/881/images/9aede8c6_1740404101733.jpg",
+    "geo": [
+      26.2165,
+      127.6894
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.216508%2C127.689405&z=17"
+  },
+  {
+    "id": "a768cf96",
+    "name": "JUMBO STEAK HAN’S 国際通り牧志店前",
+    "image": "https://image.xinu.ink/pic/data/881/images/a768cf96_1740308141847.jpg",
+    "geo": [
+      26.2167,
+      127.6892
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.216719%2C127.689233&z=17"
+  },
+  {
+    "id": "bc53a9e1",
+    "name": "牧志公園",
+    "image": "https://image.xinu.ink/pic/data/881/images/bc53a9e1_1740404153451.jpg",
+    "geo": [
+      26.2176,
+      127.692
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.217691%2C127.692076&z=17"
+  },
+  {
+    "id": "1c72a691",
+    "name": "さいおん うふシーサー",
+    "image": "https://image.xinu.ink/pic/data/881/images/1c72a691_1740308149740.jpg",
+    "geo": [
+      26.2176,
+      127.6927
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.217695%2C127.692702&z=17"
+  },
+  {
+    "id": "ac26ae31",
+    "name": "白昼夢喫茶ロマン座",
+    "image": "https://image.xinu.ink/pic/data/881/images/ac26ae31_1740403898930.jpg",
+    "geo": [
+      26.219,
+      127.6947
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.219016%2C127.694725&z=17"
+  },
+  {
+    "id": "ab229345",
+    "name": "平和通り商店街",
+    "image": "https://image.xinu.ink/pic/data/881/images/ab229345_1740403796353.jpg",
+    "geo": [
+      26.214,
+      127.6888
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.214017%2C127.688837&z=17"
+  },
+  {
+    "id": "20e5dfe2",
+    "name": "首里崎山公園",
+    "image": "https://image.xinu.ink/pic/data/881/images/20e5dfe2_1740403822534.jpg",
+    "geo": [
+      26.214,
+      127.7202
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.21401%2C127.720274&z=17"
+  },
+  {
+    "id": "1d4d5f86",
+    "name": "首里城（イメージ）",
+    "image": "https://image.xinu.ink/pic/data/881/images/1d4d5f86_1740308152140.jpg",
+    "geo": [
+      26.217,
+      127.7196
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.217057%2C127.719604&z=17"
+  },
+  {
+    "id": "f80311d4",
+    "name": "瀬長島ウミカジテラス",
+    "image": "https://image.xinu.ink/pic/data/881/images/f80311d4_1740403844810.jpg",
+    "geo": [
+      26.1766,
+      127.6403
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.176659%2C127.640357&z=17"
+  },
+  {
+    "id": "d430ec0a",
+    "name": "氾濫バーガー チムフガス 瀬長島ウミカジテラス店",
+    "image": "https://image.xinu.ink/pic/data/881/images/d430ec0a_1740403865449.jpg",
+    "geo": [
+      26.1759,
+      127.6406
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.175956%2C127.64063&z=17"
+  },
+  {
+    "id": "ffa2d449",
+    "name": "Ａ&Ｗ 牧港店",
+    "image": "https://image.xinu.ink/pic/data/881/images/ffa2d449_1740308156100.jpg",
+    "geo": [
+      26.2667,
+      127.7283
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.266758%2C127.728358&z=17"
+  },
+  {
+    "id": "26241221",
+    "name": "沖縄コンベンションセンター",
+    "image": "https://image.xinu.ink/pic/data/881/images/26241221_1740308158708.jpg",
+    "geo": [
+      26.279,
+      127.7329
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.279052%2C127.732955&z=17"
+  },
+  {
+    "id": "e18bb9de",
+    "name": "アメリカンビレッジ",
+    "image": "https://image.xinu.ink/pic/data/881/images/e18bb9de_1740308161038.jpg",
+    "geo": [
+      26.3162,
+      127.7547
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.316241%2C127.754747&z=17"
+  },
+  {
+    "id": "ba65bb09",
+    "name": "デポアイランド",
+    "image": "https://image.xinu.ink/pic/data/881/images/ba65bb09_1740308163110.jpg",
+    "geo": [
+      26.3156,
+      127.7538
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.315651%2C127.75384&z=17"
+  },
+  {
+    "id": "b160e866",
+    "name": "アメリカンデポB館前",
+    "image": "https://image.xinu.ink/pic/data/881/images/b160e866_1740308165490.jpg",
+    "geo": [
+      26.316,
+      127.7566
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.316098%2C127.756686&z=17"
+  },
+  {
+    "id": "89d8a1df",
+    "name": "北谷メロンパン Re:MELO 北谷本店",
+    "image": "https://image.xinu.ink/pic/data/881/images/89d8a1df_1740308167682.jpg",
+    "geo": [
+      26.316,
+      127.7562
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.316032%2C127.756246&z=17"
+  },
+  {
+    "id": "c0932b21",
+    "name": "hug 3do（ハグサンド）アメリカンビレッジ店",
+    "image": "https://image.xinu.ink/pic/data/881/images/c0932b21_1740308170103.jpg",
+    "geo": [
+      26.3159,
+      127.7557
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.315923%2C127.755775&z=17"
+  },
+  {
+    "id": "a73cd811",
+    "name": "SMOOTHIE BOO",
+    "image": "https://image.xinu.ink/pic/data/881/images/a73cd811_1740308172141.jpg",
+    "geo": [
+      26.3156,
+      127.7548
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.315661%2C127.754879&z=17"
+  },
+  {
+    "id": "9796fe50",
+    "name": "FDDI ファイヤーステーション",
+    "image": "https://image.xinu.ink/pic/data/881/images/9796fe50_1740403921364.jpg",
+    "geo": [
+      26.3156,
+      127.7544
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.315621%2C127.7544&z=17"
+  },
+  {
+    "id": "85c241ca",
+    "name": "ジョーズのオブジェ前",
+    "image": "https://image.xinu.ink/pic/data/881/images/85c241ca_1740308174721.jpg",
+    "geo": [
+      26.3171,
+      127.7547
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.317179%2C127.754792&z=17"
+  },
+  {
+    "id": "29dee604",
+    "name": "ステーキハウス88 恩納店",
+    "image": "https://image.xinu.ink/pic/data/881/images/29dee604_1740308176676.jpg",
+    "geo": [
+      26.4474,
+      127.8038
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.447439%2C127.803887&z=17"
+  },
+  {
+    "id": "f54fae78",
+    "name": "ブセナ海中公園　海中展望塔",
+    "image": "https://image.xinu.ink/pic/data/881/images/f54fae78_1740308178653.jpg",
+    "geo": [
+      26.5423,
+      127.9316
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.5423%2C127.931699&z=17"
+  },
+  {
+    "id": "34dadd61",
+    "name": "ヒルトン沖縄瀬底リゾート",
+    "image": "https://image.xinu.ink/pic/data/881/images/34dadd61_1740308181342.jpg",
+    "geo": [
+      26.6495,
+      127.8587
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.649597%2C127.858714&z=17"
+  },
+  {
+    "id": "5a26f9a1",
+    "name": "ヒルトンのプール",
+    "image": "https://image.xinu.ink/pic/data/881/images/5a26f9a1_1740308183486.jpg",
+    "geo": [
+      26.6497,
+      127.8584
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.649763%2C127.8584&z=17"
+  },
+  {
+    "id": "2da6ad56",
+    "name": "ヒルトンの中庭",
+    "image": "https://image.xinu.ink/pic/data/881/images/2da6ad56_1740308185437.jpg",
+    "geo": [
+      26.6499,
+      127.8581
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.649967%2C127.858123&z=17"
+  },
+  {
+    "id": "370c9a40",
+    "name": "瀬底ビーチ",
+    "image": "https://image.xinu.ink/pic/data/881/images/370c9a40_1740308187266.jpg",
+    "geo": [
+      26.6502,
+      127.8565
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.650208%2C127.856509&z=17"
+  },
+  {
+    "id": "e3ff1490",
+    "name": "瀬底ビーチの洞窟",
+    "image": "https://image.xinu.ink/pic/data/881/images/e3ff1490_1740308188985.jpg",
+    "geo": [
+      26.6508,
+      127.8576
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.650888%2C127.857682&z=17"
+  },
+  {
+    "id": "0b1f44d6",
+    "name": "コテージCANAC",
+    "image": "https://image.xinu.ink/pic/data/881/images/0b1f44d6_1740308190855.jpg",
+    "geo": [
+      26.6625,
+      127.8984
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.662598%2C127.89844&z=17"
+  },
+  {
+    "id": "78c4b91a",
+    "name": "熱帯ドリームセンター（ロータスポンド）",
+    "image": "https://image.xinu.ink/pic/data/881/images/78c4b91a_1740308192758.jpg",
+    "geo": [
+      26.6863,
+      127.8759
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.686395%2C127.875995&z=17"
+  },
+  {
+    "id": "9ab5b413",
+    "name": "熱帯ドリームセンター",
+    "image": "https://image.xinu.ink/pic/data/881/images/9ab5b413_1740403962858.jpg",
+    "geo": [
+      26.6864,
+      127.8761
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.686423%2C127.876187&z=17"
+  },
+  {
+    "id": "a01f4351",
+    "name": "ステンドホール",
+    "image": "https://image.xinu.ink/pic/data/881/images/a01f4351_1740403948908.jpg",
+    "geo": [
+      26.6872,
+      127.876
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.687296%2C127.876092&z=17"
+  },
+  {
+    "id": "88239c6f",
+    "name": "沖縄美ら海水族館",
+    "image": "https://image.xinu.ink/pic/data/881/images/88239c6f_1740308195025.jpg",
+    "geo": [
+      26.6944,
+      127.8779
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.694435%2C127.877998&z=17"
+  },
+  {
+    "id": "6943a6cb",
+    "name": "美ら海水族館から見た海",
+    "image": "https://image.xinu.ink/pic/data/881/images/6943a6cb_1740308197054.jpg",
+    "geo": [
+      26.6939,
+      127.8776
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.693964%2C127.877644&z=17"
+  },
+  {
+    "id": "e8097776",
+    "name": "「フクギの里宣言記念碑」前の駐車場",
+    "image": "https://image.xinu.ink/pic/data/881/images/e8097776_1740308198935.jpg",
+    "geo": [
+      26.7015,
+      127.8798
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.701503%2C127.879886&z=17"
+  },
+  {
+    "id": "7ea53e07",
+    "name": "備瀬海岸",
+    "image": "https://image.xinu.ink/pic/data/881/images/7ea53e07_1740308200719.jpg",
+    "geo": [
+      26.707,
+      127.8798
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.707068%2C127.879899&z=17"
+  },
+  {
+    "id": "28e860b5",
+    "name": "キービジュアル",
+    "image": "https://image.xinu.ink/pic/data/881/images/28e860b5_1740308202834.jpg",
+    "geo": [
+      26.7075,
+      127.88
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.707501%2C127.880097&z=17"
+  },
+  {
+    "id": "feb14c78",
+    "name": "YonnaBise（よんなーびせ）",
+    "image": "https://image.xinu.ink/pic/data/881/images/feb14c78_1740308205222.jpg",
+    "geo": [
+      26.7034,
+      127.8815
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.703441%2C127.881551&z=17"
+  },
+  {
+    "id": "487f389a",
+    "name": "okinawasun オキナワサン",
+    "image": "https://image.xinu.ink/pic/data/881/images/487f389a_1740308207138.jpg",
+    "geo": [
+      26.7004,
+      127.8818
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.700412%2C127.881829&z=17"
+  },
+  {
+    "id": "e0bcef60",
+    "name": "今帰仁城跡",
+    "image": "https://image.xinu.ink/pic/data/881/images/e0bcef60_1740308209556.jpg",
+    "geo": [
+      26.6912,
+      127.9289
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.691286%2C127.928979&z=17"
+  },
+  {
+    "id": "d01c3420",
+    "name": "ハートロック",
+    "image": "https://image.xinu.ink/pic/data/881/images/d01c3420_1740404947201.jpg",
+    "geo": [
+      26.7138,
+      128.0146
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.713815%2C128.014659&z=17"
+  },
+  {
+    "id": "f11e43ef",
+    "name": "玉泉洞（おきなわワールド）",
+    "image": "https://image.xinu.ink/pic/data/881/images/f11e43ef_1740308211564.jpg",
+    "geo": [
+      26.1402,
+      127.7494
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.140297%2C127.749471&z=17"
+  },
+  {
+    "id": "5562c9c2",
+    "name": "琉球ガラス王国工房（おきなわワールド）",
+    "image": "https://image.xinu.ink/pic/data/881/images/5562c9c2_1740308213450.jpg",
+    "geo": [
+      26.1381,
+      127.7511
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Vnlt5KwRvjRRksXjwCJpAKIMgbO8qwA&ll=26.138102%2C127.751172&z=17"
+  }
+]

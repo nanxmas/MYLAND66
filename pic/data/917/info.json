@@ -1,0 +1,48 @@
+{
+  "id": 482706,
+  "title": "18TRIP",
+  "city": "横滨市",
+  "cover": "https://image.xinu.ink/pic/data/917/images/482706.jpg",
+  "color": "#523aa1",
+  "geo": [
+    35.4348675331064,
+    139.72721489687615
+  ],
+  "zoom": 8.717,
+  "modified": 1728364324343,
+  "litePoints": [
+    {
+      "id": "na73catnr",
+      "cn": "横滨英国花园",
+      "name": "横浜​イングリッシュ​ガーデン",
+      "image": "https://image.anitabi.cn/user/0/bangumi/482706/points/na73catnr-1723827974592.jpg?plan=h160",
+      "geo": [
+        35.4559,
+        139.6115
+      ]
+    },
+    {
+      "id": "mz27zogwl",
+      "cn": "横滨海湾大桥天桥 天空长廊",
+      "name": "横浜ベイブリッジスカイウォーク　スカイプロムナード",
+      "image": "https://image.anitabi.cn/user/0/bangumi/482706/points/mz27zogwl-1722955277035.jpg?plan=h160",
+      "geo": [
+        35.4639,
+        139.6736
+      ]
+    },
+    {
+      "id": "mz1zz0ywl",
+      "cn": "國道站",
+      "name": "国道",
+      "image": "https://image.anitabi.cn/user/0/bangumi/482706/points/mz1zz0ywl-1722954804866.jpg?plan=h160",
+      "geo": [
+        35.5008,
+        139.6753
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 917
+}

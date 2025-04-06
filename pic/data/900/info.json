@@ -1,0 +1,31 @@
+{
+  "id": 465884,
+  "cn": "魔法少女与恶曾是敌人",
+  "title": "かつて魔法少女と悪は敵対していた。",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/900/images/465884.jpg",
+  "color": "#5659c8",
+  "geo": [
+    35.659542000000016,
+    139.70011599999998
+  ],
+  "zoom": 16,
+  "modified": 1723295499318,
+  "litePoints": [
+    {
+      "id": "mec2i0rrl",
+      "cn": "涩谷十字路口",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/465884/mec2i0rrl_1721331029556.jpg?plan=h160",
+      "ep": 2,
+      "s": 459,
+      "geo": [
+        35.6595,
+        139.7001
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 900
+}

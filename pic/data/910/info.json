@@ -1,0 +1,137 @@
+{
+  "id": 474906,
+  "cn": "小市民系列",
+  "title": "小市民シリーズ",
+  "city": "岐阜市",
+  "cover": "https://image.xinu.ink/pic/data/910/images/474906.jpg",
+  "color": "#000000",
+  "geo": [
+    35.42454827822155,
+    136.76289668812393
+  ],
+  "zoom": 13.577,
+  "modified": 1743094407031,
+  "litePoints": [
+    {
+      "id": "m193argc6",
+      "cn": "岐阜北高中",
+      "name": "岐阜北高校",
+      "image": "https://image.anitabi.cn/points/474906/m193argc6_1720305826856.jpg?plan=h160",
+      "ep": 1,
+      "s": 110,
+      "geo": [
+        35.437,
+        136.7485
+      ]
+    },
+    {
+      "id": "gyxip0i4k",
+      "name": "長良川南岸",
+      "image": "https://image.anitabi.cn/points/474906/gyxip0i4k_1720308490199.jpg?plan=h160",
+      "ep": 1,
+      "s": 364,
+      "geo": [
+        35.4287,
+        136.7485
+      ]
+    },
+    {
+      "id": "gyxhvt053",
+      "cn": "忠节桥",
+      "name": "忠節橋",
+      "image": "https://image.anitabi.cn/points/474906/gyxhvt053_1720322618292.jpg?plan=h160",
+      "ep": 1,
+      "s": 786,
+      "geo": [
+        35.4292,
+        136.7503
+      ]
+    },
+    {
+      "id": "m197kuvvt",
+      "cn": "忠节桥东",
+      "name": "忠節橋東",
+      "image": "https://image.anitabi.cn/points/474906/m197kuvvt_1720322623228.jpg?plan=h160",
+      "ep": 1,
+      "s": 796,
+      "geo": [
+        35.4294,
+        136.7516
+      ]
+    },
+    {
+      "id": "m18vz0ect",
+      "cn": "忠节桥西",
+      "name": "忠節橋西",
+      "image": "https://image.anitabi.cn/points/474906/m18vz0ect_1720322735637.jpg?plan=h160",
+      "ep": 1,
+      "s": 1029,
+      "geo": [
+        35.4276,
+        136.7466
+      ]
+    },
+    {
+      "id": "m1gba4arm",
+      "cn": "木曾川上流河川事务所 铁塔",
+      "name": "木曽川上流河川事務所 鉄塔",
+      "image": "https://image.anitabi.cn/points/474906/m1gba4arm_1720322760443.jpg?plan=h160",
+      "ep": 1,
+      "s": 1032,
+      "geo": [
+        35.4285,
+        136.7487
+      ]
+    },
+    {
+      "id": "gyxe09y9j",
+      "cn": "忠节桥北",
+      "name": "忠節橋北",
+      "image": "https://image.anitabi.cn/points/474906/gyxe09y9j_1720322742920.jpg?plan=h160",
+      "ep": 1,
+      "s": 1039,
+      "geo": [
+        35.4328,
+        136.7495
+      ]
+    },
+    {
+      "id": "m18syhyf0",
+      "cn": "爱丽丝",
+      "name": "AND LADY",
+      "image": "https://image.anitabi.cn/points/474906/m18syhyf0_1720305217003.jpg?plan=h160",
+      "ep": 1,
+      "s": 1194,
+      "geo": [
+        35.4273,
+        136.7648
+      ]
+    },
+    {
+      "id": "m1a5q1njg",
+      "cn": "7-Eleven 岐阜明德町店",
+      "name": "セブン-イレブン 岐阜明徳町店",
+      "image": "https://image.anitabi.cn/points/474906/m1a5q1njg_1720308203635.jpg?plan=h160",
+      "ep": 1,
+      "s": 1208,
+      "geo": [
+        35.4235,
+        136.7583
+      ]
+    },
+    {
+      "id": "o6nxvi1sa",
+      "name": "セブン​イレブン\n岐阜​明徳町​店",
+      "image": "https://image.anitabi.cn/points/474906/o6nxvi1sa_1726372179807.jpg?plan=h160",
+      "ep": 1,
+      "s": 1213,
+      "geo": [
+        35.4233,
+        136.7584
+      ]
+    }
+  ],
+  "pointsLength": 266,
+  "imagesLength": 266,
+  "local_id": 910
+}

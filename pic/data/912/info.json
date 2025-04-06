@@ -1,0 +1,71 @@
+{
+  "id": 476808,
+  "cn": "几分钟的欢呼",
+  "title": "数分間のエールを",
+  "city": "金泽市",
+  "cover": "https://image.xinu.ink/pic/data/912/images/476808_U4Hmm.jpg",
+  "color": "#22b4c3",
+  "cp": "数分間のエールを",
+  "modified": 1731131046875,
+  "litePoints": [
+    {
+      "id": "pvayo7i2n",
+      "cn": "金泽站鼓门前",
+      "name": "鼓門",
+      "image": "https://image.anitabi.cn/points/476808/pvayo7i2n_1731126682200.jpg?plan=h160",
+      "geo": [
+        36.5775,
+        136.6495
+      ]
+    },
+    {
+      "id": "pvc61rmp7",
+      "cn": "大乘寺丘陵公园芝生之丘",
+      "name": "金沢市眺望点｢大乗寺丘陵公園芝生の丘｣",
+      "image": "https://image.anitabi.cn/points/476808/pvc61rmp7_1731126797357.jpg?plan=h160",
+      "geo": [
+        36.5307,
+        136.6581
+      ]
+    },
+    {
+      "id": "pvcpq9r91",
+      "cn": "千里滨",
+      "name": "千里浜​なぎさ\nドライブウェイ",
+      "image": "https://image.anitabi.cn/points/476808/pvcpq9r91_1731127982883.jpg?plan=h160",
+      "geo": [
+        36.844,
+        136.7509
+      ]
+    },
+    {
+      "id": "pvdlywvku",
+      "name": "内滩町",
+      "image": "https://image.anitabi.cn/points/476808/pvdlywvku_1731129916780.jpg?plan=h160",
+      "geo": [
+        36.638,
+        136.6367
+      ]
+    },
+    {
+      "id": "pvdn0ocr2",
+      "name": "片町",
+      "image": "https://image.anitabi.cn/points/476808/pvdn0ocr2_1731129965600.jpg?plan=h160",
+      "geo": [
+        36.5596,
+        136.652
+      ]
+    },
+    {
+      "id": "pvdn4ia10",
+      "name": "片町 香林坊交口",
+      "geo": [
+        36.5615,
+        136.6533
+      ]
+    }
+  ],
+  "pointsLength": 9,
+  "imagesLength": 8,
+  "local_id": 912
+}

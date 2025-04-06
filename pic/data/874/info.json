@@ -1,0 +1,54 @@
+{
+  "id": 432463,
+  "title": "茶啊二中",
+  "city": "吉林省",
+  "cover": "https://image.xinu.ink/pic/data/874/images/432463.jpg",
+  "color": "#470e0e",
+  "geo": [
+    43.86700045860982,
+    125.30215174074351
+  ],
+  "zoom": 12.501,
+  "modified": 1726905135012,
+  "litePoints": [
+    {
+      "id": "oczn3zec9",
+      "cn": "文化广场（地质宫广场）太阳鸟雕塑",
+      "name": "文化广场（地质宫广场）太阳鸟雕塑",
+      "image": "https://image.anitabi.cn/user/0/bangumi/432463/points/oczn3zec9-1726870126141.jpg?plan=h160",
+      "ep": 1,
+      "s": 423,
+      "geo": [
+        43.8776,
+        125.3012
+      ]
+    },
+    {
+      "id": "od1qwyb0w",
+      "cn": "长春解放纪念碑",
+      "name": "长春解放纪念碑",
+      "image": "https://image.anitabi.cn/user/0/bangumi/432463/points/od1qwyb0w-1726872539969.jpg?plan=h160",
+      "ep": 1,
+      "s": 422,
+      "geo": [
+        43.8596,
+        125.3015
+      ]
+    },
+    {
+      "id": "od2ewttxg",
+      "cn": "南湖公园荷花池",
+      "name": "南湖公园荷花池",
+      "image": "https://image.anitabi.cn/user/0/bangumi/432463/points/od2ewttxg-1726873896153.jpg?plan=h160",
+      "ep": 1,
+      "s": 420,
+      "geo": [
+        43.8565,
+        125.3028
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 874
+}

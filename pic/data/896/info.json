@@ -1,0 +1,69 @@
+{
+  "id": 454841,
+  "cn": "制服女友",
+  "title": "制服カノジョ",
+  "city": "福冈市",
+  "cover": "https://image.xinu.ink/pic/data/896/images/454841.jpg",
+  "color": "#1c2339",
+  "geo": [
+    33.59090746245616,
+    130.41882732010538
+  ],
+  "zoom": 13.001,
+  "modified": 1722518708467,
+  "litePoints": [
+    {
+      "id": "kq779b57g",
+      "cn": "博多站",
+      "name": "博多駅(バスターミナル前)",
+      "image": "https://image.anitabi.cn/user/1088/bangumi/454841/points/kq779b57g-1716618615076.jpg?plan=h160",
+      "geo": [
+        33.5908,
+        130.4187
+      ]
+    },
+    {
+      "id": "kq7i31qg4",
+      "cn": "福冈机场",
+      "name": "福岡空港",
+      "image": "https://image.anitabi.cn/user/1088/bangumi/454841/points/kq7i31qg4-1716619247957.jpg?plan=h160",
+      "geo": [
+        33.597,
+        130.4485
+      ]
+    },
+    {
+      "id": "kq9aq3iwr",
+      "cn": "momochi海滨公园",
+      "name": "シーサイド​ももち​海浜公園",
+      "image": "https://image.anitabi.cn/user/1088/bangumi/454841/points/kq9aq3iwr-1716623190066.jpg?plan=h160",
+      "geo": [
+        33.5946,
+        130.3495
+      ]
+    },
+    {
+      "id": "kq9csns1j",
+      "cn": "天神地下街",
+      "name": "天神地下街",
+      "image": "https://image.anitabi.cn/user/1088/bangumi/454841/points/kq9csns1j-1716623353809.jpg?plan=h160",
+      "geo": [
+        33.5899,
+        130.3993
+      ]
+    },
+    {
+      "id": "kqhu3e1of",
+      "cn": "大濠公园",
+      "name": "大濠公園",
+      "image": "https://image.anitabi.cn/user/1088/bangumi/454841/points/kqhu3e1of-1716641761433.jpg?plan=h160",
+      "geo": [
+        33.5892,
+        130.3756
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 896
+}

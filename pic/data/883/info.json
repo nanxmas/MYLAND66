@@ -1,0 +1,25 @@
+{
+  "id": 443831,
+  "title": "Fate/strange Fake",
+  "city": "北美洲",
+  "cover": "https://image.xinu.ink/pic/data/883/images/443831_Zkz9E.jpg",
+  "color": "#a80003",
+  "cp": "FSFPC",
+  "modified": 1735713149754,
+  "litePoints": [
+    {
+      "id": "rhusgl486",
+      "name": "TACO VEGA",
+      "image": "https://image.anitabi.cn/points/443831/rhusgl486_1735713135348.jpg?plan=h160",
+      "ep": 1,
+      "s": 431,
+      "geo": [
+        34.0799,
+        -118.3616
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 883
+}

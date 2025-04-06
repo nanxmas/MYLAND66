@@ -1,0 +1,125 @@
+{
+  "id": 432583,
+  "cn": "欢迎来到驹田蒸馏所",
+  "title": "駒田蒸留所へようこそ",
+  "cover": "https://image.xinu.ink/pic/data/875/images/432583.jpg",
+  "color": "#635c47",
+  "cp": "DMM.com",
+  "geo": [
+    36.01872795026206,
+    138.2728165000001
+  ],
+  "zoom": 7.583,
+  "modified": 1730778682208,
+  "litePoints": [
+    {
+      "id": "pq044ghk2",
+      "cn": "大森酒造信州蒸馏所原型1",
+      "name": "本坊​酒造​信州​工場1",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/432583/points/pq044ghk2-1730708750294.jpg?plan=h160",
+      "ep": 1,
+      "s": 248,
+      "geo": [
+        35.7479,
+        137.9008
+      ]
+    },
+    {
+      "id": "pq058q8pb",
+      "cn": "大森酒造信州蒸馏所原型2",
+      "name": "本坊​酒造​信州​工場2",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/432583/points/pq058q8pb-1730708781173.jpg?plan=h160",
+      "ep": 1,
+      "s": 253,
+      "geo": [
+        35.7475,
+        137.9012
+      ]
+    },
+    {
+      "id": "pq0sh26nb",
+      "cn": "佐久收费站出口附近",
+      "name": "上信越自動車道 佐久 I.C 出口",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/432583/points/pq0sh26nb-1730710263454.jpg?plan=h160",
+      "ep": 1,
+      "s": 418,
+      "geo": [
+        36.2854,
+        138.4813
+      ]
+    },
+    {
+      "id": "pgbpu8el0",
+      "cn": "常磐线石冈站",
+      "name": "常磐线石岡駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/432583/points/pgbpu8el0-1729950437147.jpg?plan=h160",
+      "ep": 1,
+      "s": 1386,
+      "geo": [
+        36.1909,
+        140.2798
+      ]
+    },
+    {
+      "id": "pq1ya4drv",
+      "cn": "长滨站",
+      "name": "長浜駅",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/432583/points/pq1ya4drv-1730712713984.jpg?plan=h160",
+      "ep": 1,
+      "s": 2902,
+      "geo": [
+        35.3788,
+        136.2657
+      ]
+    },
+    {
+      "id": "pq235fvjo",
+      "cn": "湖国酒造原型",
+      "name": "長濱浪漫ビール",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/432583/points/pq235fvjo-1730713054292.jpg?plan=h160",
+      "ep": 1,
+      "s": 2905,
+      "geo": [
+        35.3769,
+        136.2673
+      ]
+    },
+    {
+      "id": "pq2eir5eg",
+      "cn": "有了町站前",
+      "name": "有楽町駅前",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/432583/points/pq2eir5eg-1730713722910.jpg?plan=h160",
+      "ep": 1,
+      "s": 2939,
+      "geo": [
+        35.6745,
+        139.7621
+      ]
+    },
+    {
+      "id": "pq173ljlm",
+      "cn": "驹田蒸馏所原型",
+      "name": "若鶴大正蔵",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/432583/points/pq173ljlm-1730711115886.jpg?plan=h160",
+      "s": 446,
+      "geo": [
+        36.6553,
+        136.9693
+      ]
+    },
+    {
+      "id": "pq1koafzg",
+      "cn": "田无站",
+      "name": "田無",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/432583/points/pq1koafzg-1730711904210.jpg?plan=h160",
+      "s": 1407,
+      "geo": [
+        35.7273,
+        139.5392
+      ]
+    }
+  ],
+  "pointsLength": 9,
+  "imagesLength": 9,
+  "local_id": 875
+}

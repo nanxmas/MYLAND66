@@ -1,0 +1,109 @@
+{
+  "id": 449852,
+  "cn": "亿数追忆",
+  "title": "亿数追忆",
+  "city": "福建省",
+  "cover": "https://image.xinu.ink/pic/data/894/images/449852.jpg",
+  "color": "#2b2b2b",
+  "geo": [
+    24.485158112251327,
+    118.1288990732113
+  ],
+  "zoom": 11.259,
+  "modified": 1720269834157,
+  "litePoints": [
+    {
+      "id": "m0dv5g79u",
+      "name": "东方财富广场",
+      "image": "https://image.anitabi.cn/points/449852/m0efi6g9d_1720239941669.jpg?plan=h160",
+      "geo": [
+        24.4975,
+        118.1234
+      ]
+    },
+    {
+      "id": "m0f9c08vv",
+      "name": "前埔不夜城",
+      "image": "https://image.anitabi.cn/points/449852/m0f9c08vv_1720240924680.jpg?plan=h160",
+      "geo": [
+        24.4702,
+        118.1668
+      ]
+    },
+    {
+      "id": "m0fxcpfn6",
+      "name": "中华城",
+      "image": "https://image.anitabi.cn/points/449852/m0fxcpfn6_1720242356565.jpg?plan=h160",
+      "geo": [
+        24.4559,
+        118.0773
+      ]
+    },
+    {
+      "id": "m0efi6g9d",
+      "name": "威震殿",
+      "image": "https://image.anitabi.cn/points/449852/m0efi6g9d_1720242383036.jpg?plan=h160",
+      "geo": [
+        24.4584,
+        118.074
+      ]
+    },
+    {
+      "id": "m0f4m7jgi",
+      "name": "流西典当行 地图位置",
+      "image": "https://image.anitabi.cn/points/449852/m0f4m7jgi_1720240676146.jpg?plan=h160",
+      "geo": [
+        24.4795,
+        118.083
+      ]
+    },
+    {
+      "id": "m0ejjlf6o",
+      "name": "吕璇家 地图位置",
+      "image": "https://image.anitabi.cn/points/449852/m0ejjlf6o_1720239922075.jpg?plan=h160",
+      "geo": [
+        24.4642,
+        118.1061
+      ]
+    },
+    {
+      "id": "m0emw1up5",
+      "name": "白维私人诊所 地图位置",
+      "image": "https://image.anitabi.cn/points/449852/m0emw1up5_1720239901063.jpg?plan=h160",
+      "geo": [
+        24.4856,
+        118.1043
+      ]
+    },
+    {
+      "id": "m0epk8a2u",
+      "name": "厦门轮渡码头 地图位置",
+      "image": "https://image.anitabi.cn/points/449852/m0epk8a2u_1720239877027.jpg?plan=h160",
+      "geo": [
+        24.4573,
+        118.0682
+      ]
+    },
+    {
+      "id": "m0cxof3yz",
+      "name": "厦门国际邮轮中心夏鼓码头",
+      "image": "https://image.anitabi.cn/points/449852/m0cxof3yz_1720240067784.jpg?plan=h160",
+      "geo": [
+        24.4814,
+        118.0633
+      ]
+    },
+    {
+      "id": "m0ffhydek",
+      "name": "鼓浪屿和记洋行仓库遗址",
+      "image": "https://image.anitabi.cn/points/449852/m0ffhydek_1720241286151.jpg?plan=h160",
+      "geo": [
+        24.4509,
+        118.0643
+      ]
+    }
+  ],
+  "pointsLength": 17,
+  "imagesLength": 17,
+  "local_id": 894
+}

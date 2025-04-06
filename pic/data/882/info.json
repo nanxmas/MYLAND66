@@ -1,0 +1,132 @@
+{
+  "id": 443428,
+  "cn": "我推的孩子 二期",
+  "title": "【推しの子】 第2期",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/882/images/443428.jpg",
+  "color": "#fc009f",
+  "geo": [
+    35.643363249849145,
+    139.78872823659344
+  ],
+  "zoom": 13.517,
+  "modified": 1734204508539,
+  "litePoints": [
+    {
+      "id": "o611vl8ao",
+      "cn": "鳥良吉祥寺4号店",
+      "name": "おもてなしとりよし 吉祥寺店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/443428/points/o611vl8ao-1726322442277.jpg?plan=h160",
+      "ep": 13,
+      "s": 559,
+      "geo": [
+        35.7004,
+        139.5783
+      ]
+    },
+    {
+      "id": "o60vawv2r",
+      "name": "井の頭公園のベンチ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/443428/points/o60vawv2r-1726322105684.jpg?plan=h160",
+      "ep": 13,
+      "s": 652,
+      "geo": [
+        35.7005,
+        139.5782
+      ]
+    },
+    {
+      "id": "m6isjpthg",
+      "cn": "IHI STAGE AROUND TOKYO",
+      "name": "IHI ​STAGE ​AROUND ​TOKYO",
+      "image": "https://image.anitabi.cn/points/443428/m6isjpthg_1720718764207.jpg?plan=h160",
+      "ep": 13,
+      "s": 1320,
+      "geo": [
+        35.6461,
+        139.7851
+      ]
+    },
+    {
+      "id": "n828lfs0c",
+      "name": "豊洲埠頭前交差点付近",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/443428/points/n828lfs0c-1723660596861.jpg?plan=h160",
+      "ep": 14,
+      "s": 501,
+      "geo": [
+        35.6528,
+        139.794
+      ]
+    },
+    {
+      "id": "o60iqzn06",
+      "name": "代々木公園 大池",
+      "image": "https://image.anitabi.cn/user/0/bangumi/443428/points/o60iqzn06-1726321204586.jpg?plan=h160",
+      "ep": 17,
+      "s": 927,
+      "geo": [
+        35.6709,
+        139.6958
+      ]
+    },
+    {
+      "id": "o606nxzcy",
+      "cn": "R-Blue旁階梯",
+      "name": "R-Blueの隣の階段",
+      "image": "https://image.anitabi.cn/user/0/bangumi/443428/points/o606nxzcy-1726320735858.jpg?plan=h160",
+      "ep": 17,
+      "s": 993,
+      "geo": [
+        35.663,
+        139.7342
+      ]
+    },
+    {
+      "id": "o60l6hu5q",
+      "name": "渋谷スクランブル交差点",
+      "image": "https://image.anitabi.cn/user/0/bangumi/443428/points/o60l6hu5q-1726321648634.jpg?plan=h160",
+      "ep": 17,
+      "s": 1298,
+      "geo": [
+        35.6595,
+        139.7005
+      ]
+    },
+    {
+      "id": "o6jnr0nhv",
+      "name": "国立国会図書館受取所前",
+      "image": "https://image.anitabi.cn/user/0/bangumi/443428/points/o6jnr0nhv-1726363213502.jpg?plan=h160",
+      "ep": 18,
+      "s": 852,
+      "geo": [
+        35.6784,
+        139.7443
+      ]
+    },
+    {
+      "id": "o6j8vz9u6",
+      "name": "国立​国会​図書館​東京​本館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/443428/points/o6j8vz9u6-1726361994628.jpg?plan=h160",
+      "ep": 18,
+      "s": 853,
+      "geo": [
+        35.6785,
+        139.7441
+      ]
+    },
+    {
+      "id": "oclhhvirc",
+      "name": "JR新宿駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/443428/points/oclhhvirc-1726837096620.jpg?plan=h160",
+      "ep": 22,
+      "s": 192,
+      "geo": [
+        35.6918,
+        139.7011
+      ]
+    }
+  ],
+  "pointsLength": 29,
+  "imagesLength": 29,
+  "local_id": 882
+}

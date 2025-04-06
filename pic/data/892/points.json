@@ -1,0 +1,50 @@
+[
+  {
+    "id": "o4ho00ysf",
+    "cn": "沈阳站",
+    "name": "沈阳站",
+    "image": "https://image.xinu.ink/pic/data/892/images/o4ho00ysf-1726201820780.jpg",
+    "ep": 1,
+    "s": "13.38",
+    "geo": [
+      41.7915,
+      123.3899
+    ]
+  },
+  {
+    "id": "o4i9r7dlo",
+    "cn": "中山广场",
+    "name": "中山广场",
+    "image": "https://image.xinu.ink/pic/data/892/images/o4i9r7dlo-1726203195053.jpg",
+    "ep": 1,
+    "s": 926,
+    "geo": [
+      41.7944,
+      123.4044
+    ]
+  },
+  {
+    "id": "o4iipityt",
+    "cn": "辽宁广播电视塔",
+    "name": "辽宁广播电视塔",
+    "image": "https://image.xinu.ink/pic/data/892/images/o4iipityt-1726203658080.jpg",
+    "ep": 1,
+    "s": 937,
+    "geo": [
+      41.7803,
+      123.4279
+    ]
+  },
+  {
+    "id": "o4il0z2w6",
+    "cn": "方圆大厦",
+    "name": "方圆大厦",
+    "image": "https://image.xinu.ink/pic/data/892/images/o4il0z2w6-1726203848074.jpg",
+    "ep": 1,
+    "s": 940,
+    "geo": [
+      41.8143,
+      123.4377
+    ]
+  }
+]

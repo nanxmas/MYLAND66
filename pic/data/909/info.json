@@ -1,0 +1,25 @@
+{
+  "id": 474801,
+  "cn": "冻牌～地下麻将斗牌录～",
+  "title": "凍牌～裏レート麻雀闘牌録～",
+  "cover": "https://image.xinu.ink/pic/data/909/images/474801_F0Bl1.jpg",
+  "color": "#0659c7",
+  "cp": "高津組",
+  "modified": 1728108147355,
+  "litePoints": [
+    {
+      "id": "ostf92g3x",
+      "name": "豐島清掃工場",
+      "image": "https://image.anitabi.cn/points/474801/ostf92g3x_1728108130819.jpg?plan=h160",
+      "ep": 1,
+      "s": 762,
+      "geo": [
+        35.7349,
+        139.7142
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 909
+}
