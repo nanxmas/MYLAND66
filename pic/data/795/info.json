@@ -1,0 +1,75 @@
+{
+  "id": 363957,
+  "cn": "夏日口袋",
+  "title": "Summer Pockets",
+  "city": "香川县",
+  "cover": "https://image.xinu.ink/pic/data/795/images/363957_rpxd9y92h.jpg",
+  "color": "#86d8f3",
+  "geo": [
+    34.413422260105904,
+    134.03733121718165
+  ],
+  "zoom": 10.537,
+  "modified": 1736472950303,
+  "litePoints": [
+    {
+      "id": "obfpswwx4",
+      "name": "積浦港",
+      "image": "https://image.anitabi.cn/points/363957/obfpswwx4_1726746124854.jpg?plan=h160",
+      "geo": [
+        34.4564,
+        133.9744
+      ]
+    },
+    {
+      "id": "rrk5bf9af",
+      "cn": "高松市立男木高中",
+      "name": "高松市立 男木中学校",
+      "image": "https://image.anitabi.cn/points/363957/rrk5bf9af_1736472927319_c16v9.jpg?plan=h160",
+      "geo": [
+        34.42,
+        134.0567
+      ]
+    },
+    {
+      "id": "obfssnui0",
+      "name": "宮浦港",
+      "image": "https://image.anitabi.cn/points/363957/obfssnui0_1726746280868.jpg?plan=h160",
+      "geo": [
+        34.4213,
+        134.0546
+      ]
+    },
+    {
+      "id": "obghzge44",
+      "name": "店铺グルテンフリ附近",
+      "image": "https://image.anitabi.cn/points/363957/obghzge44_1726747809309.jpg?plan=h160",
+      "geo": [
+        34.4214,
+        134.0569
+      ]
+    },
+    {
+      "id": "obfuq65nx",
+      "cn": "男木渔港岸边小路",
+      "name": "男木漁港付近の道",
+      "image": "https://image.anitabi.cn/points/363957/obfuq65nx_1726746414198.jpg?plan=h160",
+      "geo": [
+        34.4199,
+        134.0592
+      ]
+    },
+    {
+      "id": "rrjyoxxma",
+      "name": "男木島灯台",
+      "image": "https://image.anitabi.cn/points/363957/rrjyoxxma_1736472514650_c16v9.jpg?plan=h160",
+      "geo": [
+        34.4336,
+        134.0607
+      ]
+    }
+  ],
+  "pointsLength": 8,
+  "imagesLength": 8,
+  "local_id": 795
+}

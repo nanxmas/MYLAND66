@@ -1,0 +1,132 @@
+{
+  "id": 365437,
+  "cn": "放学后失眠的你",
+  "title": "君は放課後インソムニア",
+  "city": "七尾市",
+  "cover": "https://image.xinu.ink/pic/data/800/images/365437.jpg",
+  "color": "#152040",
+  "cp": "アニメ君ソム",
+  "geo": [
+    36.950765528414564,
+    137.04705347890683
+  ],
+  "zoom": 8,
+  "modified": 1731869353175,
+  "litePoints": [
+    {
+      "id": "7ntjy8bwf",
+      "cn": "尾湾桥",
+      "name": "尾湾橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/365437/points/7ntjy8bwf-1679757737651.jpg?plan=h160",
+      "ep": 1,
+      "s": 1293,
+      "geo": [
+        37.0483,
+        136.9671
+      ]
+    },
+    {
+      "id": "a2wxdlo1m",
+      "name": "キービジュアル",
+      "image": "https://image.anitabi.cn/points/365437/a2wxdlo1m_1686582750662.jpg?plan=h160",
+      "ep": 1,
+      "s": 1337,
+      "geo": [
+        37.0455,
+        136.9646
+      ]
+    },
+    {
+      "id": "a2wxdloli",
+      "name": "能登食祭市場",
+      "image": "https://image.anitabi.cn/points/365437/a2wxdloli_1686582757425.jpg?plan=h160",
+      "ep": 1,
+      "s": 1374,
+      "geo": [
+        37.0493,
+        136.9688
+      ]
+    },
+    {
+      "id": "7nt9xv9s1",
+      "cn": "石川县立七尾高等学校",
+      "name": "石川県立七尾高等学校",
+      "image": "https://image.anitabi.cn/user/0/bangumi/365437/points/7nt9xv9s1-1718693349760.jpg?plan=h160",
+      "ep": 2,
+      "s": 320,
+      "geo": [
+        37.042,
+        136.959
+      ]
+    },
+    {
+      "id": "a2wxdln5o",
+      "name": "七尾駅前バスターミナル付近",
+      "image": "https://image.anitabi.cn/points/365437/a2wxdln5o_1686582746219.jpg?plan=h160",
+      "ep": 2,
+      "s": 724,
+      "geo": [
+        37.0429,
+        136.9643
+      ]
+    },
+    {
+      "id": "a2wxdln7k",
+      "name": "パトリア前",
+      "image": "https://image.anitabi.cn/points/365437/a2wxdln7k_1686582747427.jpg?plan=h160",
+      "ep": 2,
+      "s": 1024,
+      "geo": [
+        37.0429,
+        136.9635
+      ]
+    },
+    {
+      "id": "a2wxdlo6j",
+      "name": "和倉温泉駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/365437/points/a2wxdlo6j-1718693114510.jpg?plan=h160",
+      "ep": 3,
+      "s": 291,
+      "geo": [
+        37.0751,
+        136.9255
+      ]
+    },
+    {
+      "id": "a2wxdlofe",
+      "name": "ゲームセンター ベティ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/365437/points/a2wxdlofe-1718693064592.jpg?plan=h160",
+      "ep": 3,
+      "s": 353,
+      "geo": [
+        37.0673,
+        136.907
+      ]
+    },
+    {
+      "id": "a2wxdlnuy",
+      "name": "しあわせの時公園",
+      "image": "https://image.anitabi.cn/points/365437/a2wxdlnuy_1686582754362.jpg?plan=h160",
+      "ep": 4,
+      "s": 150,
+      "geo": [
+        37.0473,
+        136.9664
+      ]
+    },
+    {
+      "id": "a2wxdlo17",
+      "name": "仙対橋",
+      "image": "https://image.anitabi.cn/points/365437/a2wxdlo17_1686582751470.jpg?plan=h160",
+      "ep": 4,
+      "s": 320,
+      "geo": [
+        37.0459,
+        136.9653
+      ]
+    }
+  ],
+  "pointsLength": 58,
+  "imagesLength": 58,
+  "local_id": 800
+}

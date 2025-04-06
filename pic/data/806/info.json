@@ -1,0 +1,23 @@
+{
+  "id": 374008,
+  "cn": "摄影部",
+  "title": "ふぉとくら",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/806/images/374008_pah7c8ple.jpg",
+  "modified": 1729492322738,
+  "litePoints": [
+    {
+      "id": "paha1y1h5",
+      "cn": "御成门站",
+      "name": "御成門",
+      "image": "https://image.anitabi.cn/points/374008/paha1y1h5_1729492316318.jpg?plan=h160",
+      "geo": [
+        35.6611,
+        139.7515
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 806
+}

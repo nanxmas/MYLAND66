@@ -1,0 +1,55 @@
+{
+  "id": 372010,
+  "cn": "狼与香辛料 行商邂逅贤狼",
+  "title": "狼と香辛料 MERCHANT MEETS THE WISE WOLF",
+  "city": "欧洲",
+  "cover": "https://image.xinu.ink/pic/data/805/images/372010.jpg",
+  "color": "#bf8d5d",
+  "geo": [
+    43.76879543456701,
+    11.256424034525764
+  ],
+  "zoom": 14.588,
+  "modified": 1726137371697,
+  "litePoints": [
+    {
+      "id": "k7r0jcmey",
+      "cn": "吉罗拉米路",
+      "name": "Via dei Girolami",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/372010/points/k7r0jcmey-1715173659301.jpg?plan=h160",
+      "ep": 3,
+      "s": 964,
+      "geo": [
+        43.7684,
+        11.2536
+      ]
+    },
+    {
+      "id": "k7rn7um5t",
+      "cn": "圣十字广场",
+      "name": "Piazza di Santa Croce",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/372010/points/k7rn7um5t-1715174215847.jpg?plan=h160",
+      "ep": 3,
+      "s": 190,
+      "geo": [
+        43.7688,
+        11.2614
+      ]
+    },
+    {
+      "id": "o3nnb9d1x",
+      "cn": "兑换桥",
+      "name": "Pont au Change",
+      "image": "https://image.anitabi.cn/user/0/bangumi/372010/points/o3nnb9d1x-1726136466047.jpg?plan=h160",
+      "ep": 3,
+      "s": 1003,
+      "geo": [
+        48.8566,
+        2.3467
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 805
+}

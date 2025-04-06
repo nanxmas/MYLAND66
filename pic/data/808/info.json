@@ -1,0 +1,39 @@
+{
+  "id": 376008,
+  "cn": "佐佐木与宫野 剧场版 毕业篇",
+  "title": "映画 佐々木と宮野ー卒業編ー",
+  "city": "横滨市",
+  "cover": "https://image.xinu.ink/pic/data/808/images/376008.jpg",
+  "color": "#cf824e",
+  "geo": [
+    35.43489295879968,
+    139.6168703605275
+  ],
+  "zoom": 9.874,
+  "modified": 1725805211037,
+  "litePoints": [
+    {
+      "id": "mp2kxecsx",
+      "name": "天王町駅構内",
+      "image": "https://image.anitabi.cn/points/376008/mp2kxecsx_1722172385934.jpg?plan=h160",
+      "s": 641,
+      "geo": [
+        35.4539,
+        139.6028
+      ]
+    },
+    {
+      "id": "mp2mhejew",
+      "name": "橋戸北第二公園",
+      "image": "https://image.anitabi.cn/points/376008/mp2mhejew_1722172486677.jpg?plan=h160",
+      "s": 2610,
+      "geo": [
+        35.468,
+        139.4778
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 808
+}

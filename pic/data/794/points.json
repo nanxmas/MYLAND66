@@ -1,0 +1,104 @@
+[
+  {
+    "id": "6963f65b",
+    "name": "道の駅 舞鶴港とれとれセンター",
+    "image": "https://image.xinu.ink/pic/data/794/images/6963f65b_1741542434816.jpg",
+    "s": 63,
+    "geo": [
+      35.45,
+      135.3145
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1pVGSyLZlCfUVNE2cMFlofUXNo13PqLE&ll=35.450083%2C135.314591&z=17"
+  },
+  {
+    "id": "tk95qmyn9",
+    "name": "股のぞき台",
+    "image": "https://image.xinu.ink/pic/data/794/images/tk95qmyn9_1741542738443.jpg",
+    "s": 676,
+    "geo": [
+      35.5527,
+      135.1821
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7a152521",
+    "cn": "丹波篠山 猪料理専門店 奥栄",
+    "name": "藤岡奥４９２−５",
+    "image": "https://image.xinu.ink/pic/data/794/images/7a152521_1741543039286.jpg",
+    "s": 826,
+    "geo": [
+      35.1064,
+      135.2173
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1pVGSyLZlCfUVNE2cMFlofUXNo13PqLE&ll=35.106414%2C135.217348&z=17"
+  },
+  {
+    "id": "0a6a2dd2",
+    "cn": "前島食堂",
+    "name": "大河内町６１２−１",
+    "image": "https://image.xinu.ink/pic/data/794/images/0a6a2dd2_1741543607561.jpg",
+    "s": 2016,
+    "geo": [
+      34.5307,
+      136.477
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1pVGSyLZlCfUVNE2cMFlofUXNo13PqLE&ll=34.530703%2C136.477019&z=17"
+  },
+  {
+    "id": "f4c0cd50",
+    "cn": "ちとせ",
+    "name": "岩渕１丁目１５−１１",
+    "image": "https://image.xinu.ink/pic/data/794/images/f4c0cd50_1741544228512.jpg",
+    "s": 2756,
+    "geo": [
+      34.4871,
+      136.7123
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1pVGSyLZlCfUVNE2cMFlofUXNo13PqLE&ll=34.487121%2C136.712386&z=17"
+  },
+  {
+    "id": "a2ef77b4",
+    "cn": "うなぎ・和食処 松の家",
+    "name": "丸松ゲームセンター",
+    "image": "https://image.xinu.ink/pic/data/794/images/a2ef77b4_1741544392832.jpg",
+    "s": 3189,
+    "geo": [
+      34.7647,
+      137.6136
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1pVGSyLZlCfUVNE2cMFlofUXNo13PqLE&ll=34.7647%2C137.613662&z=17"
+  },
+  {
+    "id": "2c0ee3dd",
+    "cn": "芋工房 かくたに",
+    "name": "あさぎりフードパーク",
+    "image": "https://image.xinu.ink/pic/data/794/images/2c0ee3dd_1741544725413.jpg",
+    "s": 3856,
+    "geo": [
+      35.412,
+      138.5906
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1pVGSyLZlCfUVNE2cMFlofUXNo13PqLE&ll=35.412037%2C138.590622&z=17"
+  },
+  {
+    "id": "975e487e",
+    "cn": "下総屋",
+    "name": "吾妻橋３丁目２−９",
+    "image": "https://image.xinu.ink/pic/data/794/images/975e487e_1741544842852.jpg",
+    "s": 4262,
+    "geo": [
+      35.7085,
+      139.8067
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1pVGSyLZlCfUVNE2cMFlofUXNo13PqLE&ll=35.7085%2C139.806701&z=17"
+  }
+]

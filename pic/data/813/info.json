@@ -1,0 +1,126 @@
+{
+  "id": 386195,
+  "cn": "吹响吧！上低音号～合奏比赛～特别篇",
+  "title": "特別編 響け！ユーフォニアム～アンサンブルコンテスト～",
+  "city": "宇治市",
+  "cover": "https://image.xinu.ink/pic/data/813/images/386195.jpg",
+  "color": "#d49580",
+  "geo": [
+    34.906178315860316,
+    135.80989586318208
+  ],
+  "zoom": 18.779,
+  "modified": 1742411542323,
+  "litePoints": [
+    {
+      "id": "jzipmdpex",
+      "cn": "东隼上儿童公园",
+      "name": "東​隼​上り​児童​公園",
+      "image": "https://image.anitabi.cn/points/283643/jzipmdpex_1714527837706.jpg?plan=h160",
+      "geo": [
+        34.9062,
+        135.8098
+      ]
+    },
+    {
+      "id": "kspxu21iu",
+      "cn": "羽户山绿地",
+      "name": "羽戸山緑地",
+      "image": "https://image.anitabi.cn/points/386195/kspxu21iu_1716816170420.jpg?plan=h160",
+      "s": 1037,
+      "geo": [
+        34.9068,
+        135.8112
+      ]
+    },
+    {
+      "id": "kspzugpcs",
+      "cn": "羽户山第三儿童公园",
+      "name": 8,
+      "image": "https://image.anitabi.cn/points/386195/kspzugpcs_1716816234929.jpg?plan=h160",
+      "s": 1012,
+      "geo": [
+        34.9078,
+        135.8146
+      ]
+    },
+    {
+      "id": "ksq0m69d7",
+      "cn": "宇治桥",
+      "name": "宇治橋",
+      "image": "https://image.anitabi.cn/points/386195/ksq0m69d7_1716816275392.jpg?plan=h160",
+      "s": 2786,
+      "geo": [
+        34.8926,
+        135.8059
+      ]
+    },
+    {
+      "id": "ksq10eit5",
+      "cn": "橘橋",
+      "name": 10,
+      "image": "https://image.anitabi.cn/points/386195/ksq10eit5_1716816300509.jpg?plan=h160",
+      "s": 2795,
+      "geo": [
+        34.8906,
+        135.8079
+      ]
+    },
+    {
+      "id": "ksq1pzdpf",
+      "name": "京坂六地蔵駅 内",
+      "image": "https://image.anitabi.cn/points/386195/ksq1pzdpf_1716816339760.jpg?plan=h160",
+      "s": 1141,
+      "geo": [
+        34.9319,
+        135.7933
+      ]
+    },
+    {
+      "id": "l4pr3xhte",
+      "name": "京坂六地蔵駅 前",
+      "image": "https://image.anitabi.cn/points/386195/l4pr3xhte_1717756063082.jpg?plan=h160",
+      "s": 1060,
+      "geo": [
+        34.932,
+        135.7934
+      ]
+    },
+    {
+      "id": "ksq245cmm",
+      "cn": "Seven Eleven 宇治黄檗公园店",
+      "name": "セブン​イレブン\n宇治​黄檗​公園​店",
+      "image": "https://image.anitabi.cn/points/386195/ksq245cmm_1716816361068.jpg?plan=h160",
+      "s": 1040,
+      "geo": [
+        34.908,
+        135.8094
+      ]
+    },
+    {
+      "id": "ksq2pihhp",
+      "cn": "Rohm剧院京都",
+      "name": "ローム​シアター​京都",
+      "image": "https://image.anitabi.cn/points/386195/ksq2pihhp_1716816395048.jpg?plan=h160",
+      "s": 74,
+      "geo": [
+        35.0139,
+        135.7809
+      ]
+    },
+    {
+      "id": "ksq3nyebc",
+      "cn": "莵道高中",
+      "name": "莵道高",
+      "image": "https://image.anitabi.cn/points/386195/ksq3nyebc_1716816452973.jpg?plan=h160",
+      "s": 1203,
+      "geo": [
+        34.909,
+        135.8161
+      ]
+    }
+  ],
+  "pointsLength": 16,
+  "imagesLength": 16,
+  "local_id": 813
+}

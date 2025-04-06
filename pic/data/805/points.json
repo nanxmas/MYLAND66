@@ -1,0 +1,42 @@
+[
+  {
+    "id": "k7r0jcmey",
+    "cn": "吉罗拉米路",
+    "name": "Via dei Girolami",
+    "image": "https://image.xinu.ink/pic/data/805/images/k7r0jcmey-1715173659301.jpg",
+    "ep": 3,
+    "s": 964,
+    "geo": [
+      43.7684,
+      11.2536
+    ],
+    "origin": "Anitabi@Eureka",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "k7rn7um5t",
+    "cn": "圣十字广场",
+    "name": "Piazza di Santa Croce",
+    "image": "https://image.xinu.ink/pic/data/805/images/k7rn7um5t-1715174215847.jpg",
+    "ep": 3,
+    "s": 190,
+    "geo": [
+      43.7688,
+      11.2614
+    ],
+    "origin": "Anitabi@Eureka",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "o3nnb9d1x",
+    "cn": "兑换桥",
+    "name": "Pont au Change",
+    "image": "https://image.xinu.ink/pic/data/805/images/o3nnb9d1x-1726136466047.jpg",
+    "ep": "3",
+    "s": "1003",
+    "geo": [
+      48.8566,
+      2.3467
+    ]
+  }
+]

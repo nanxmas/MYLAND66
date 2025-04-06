@@ -1,0 +1,129 @@
+{
+  "id": 386772,
+  "cn": "那个夏天",
+  "title": "그 여름",
+  "city": "亚洲",
+  "cover": "https://image.xinu.ink/pic/data/814/images/386772.jpg",
+  "color": "#82c1f4",
+  "geo": [
+    37.56165599999373,
+    126.99537699999655
+  ],
+  "zoom": 11.342,
+  "modified": 1734539668925,
+  "litePoints": [
+    {
+      "id": "r1meyekzy",
+      "cn": "春川大坝",
+      "name": "춘천댐",
+      "image": "https://image.anitabi.cn/points/386772/r1meyekzy_1734440493587.jpg?plan=h160",
+      "s": 461,
+      "geo": [
+        37.9681,
+        127.6665
+      ]
+    },
+    {
+      "id": "ow8qj5qr2",
+      "cn": "市厅站",
+      "name": "시청",
+      "image": "https://image.anitabi.cn/points/386772/ow8qj5qr2_1734448605916.jpg?plan=h160",
+      "s": 1191,
+      "geo": [
+        37.5647,
+        126.977
+      ]
+    },
+    {
+      "id": "ow93fhv3e",
+      "cn": "南山首尔塔",
+      "name": "남산서울타워",
+      "image": "https://image.anitabi.cn/points/386772/ow93fhv3e_1734448648241.jpg?plan=h160",
+      "s": 1286,
+      "geo": [
+        37.5511,
+        126.9882
+      ]
+    },
+    {
+      "id": "r1naf94os",
+      "cn": "东国大学",
+      "name": "동국대학교",
+      "image": "https://image.anitabi.cn/points/386772/r1naf94os_1734442324219.jpg?plan=h160",
+      "s": 1393,
+      "geo": [
+        37.5577,
+        127.0008
+      ]
+    },
+    {
+      "id": "r1nixcj4o",
+      "cn": "东国大学 社会科学·管理楼",
+      "name": "사회과학ㆍ경영관",
+      "image": "https://image.anitabi.cn/points/386772/r1nixcj4o_1734442797819.jpg?plan=h160",
+      "s": 1395,
+      "geo": [
+        37.557,
+        127.0026
+      ]
+    },
+    {
+      "id": "ow9mr45p4",
+      "cn": "东亚日报社",
+      "name": "동아일보사",
+      "image": "https://image.anitabi.cn/points/386772/ow9mr45p4_1734448888104.jpg?plan=h160",
+      "s": 2190,
+      "geo": [
+        37.5694,
+        126.9779
+      ]
+    },
+    {
+      "id": "r1qhk6kah",
+      "cn": "东庙市场",
+      "name": "동묘벼룩시장",
+      "image": "https://image.anitabi.cn/points/386772/r1qhk6kah_1734449243352.jpg?plan=h160",
+      "s": 2503,
+      "geo": [
+        37.573,
+        127.0178
+      ]
+    },
+    {
+      "id": "owa4fhgew",
+      "cn": "乙支路三街",
+      "name": "을지로3가",
+      "image": "https://image.anitabi.cn/points/386772/owa4fhgew_1734449281592.jpg?plan=h160",
+      "s": 2529,
+      "geo": [
+        37.5663,
+        126.9925
+      ]
+    },
+    {
+      "id": "owaiyffpv",
+      "cn": "钟路二街 三一桥公交站",
+      "name": "종로2가.삼일교",
+      "image": "https://image.anitabi.cn/points/386772/owaiyffpv_1734449290286.jpg?plan=h160",
+      "s": 2531,
+      "geo": [
+        37.5685,
+        126.9875
+      ]
+    },
+    {
+      "id": "owau7x51t",
+      "cn": "珍古介 忠武路店",
+      "name": "진고개",
+      "image": "https://image.anitabi.cn/points/386772/owau7x51t_1734449297343.jpg?plan=h160",
+      "s": 2533,
+      "geo": [
+        37.5628,
+        126.993
+      ]
+    }
+  ],
+  "pointsLength": 26,
+  "imagesLength": 26,
+  "local_id": 814
+}

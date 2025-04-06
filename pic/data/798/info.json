@@ -1,0 +1,100 @@
+{
+  "id": 364637,
+  "cn": "恋爱绮谭",
+  "title": "恋愛綺譚",
+  "city": "湖北省",
+  "cover": "https://image.xinu.ink/pic/data/798/images/364637.jpg",
+  "color": "#f566ff",
+  "geo": [
+    30.570069029544072,
+    114.31384142752336
+  ],
+  "zoom": 10.934,
+  "modified": 1726448386294,
+  "litePoints": [
+    {
+      "id": "ilcp1h3ll",
+      "name": "华师体育场",
+      "image": "https://image.anitabi.cn/points/364637/ilcp1h3ll_1710597955397.jpg?plan=h160",
+      "geo": [
+        30.518,
+        114.3542
+      ]
+    },
+    {
+      "id": "ilcqji78k",
+      "name": "充能国安路",
+      "image": "https://image.anitabi.cn/points/364637/ilcqji78k_1710597499134.jpg?plan=h160",
+      "geo": [
+        30.6088,
+        114.2645
+      ]
+    },
+    {
+      "id": "ilcqrgpm5",
+      "name": "江城大桥",
+      "image": "https://image.anitabi.cn/points/364637/ilcqrgpm5_1710597956524.jpg?plan=h160",
+      "geo": [
+        30.6049,
+        114.3202
+      ]
+    },
+    {
+      "id": "ild09x3im",
+      "name": "江边芦苇荡",
+      "image": "https://image.anitabi.cn/points/364637/ild09x3im_1710597504525.jpg?plan=h160",
+      "geo": [
+        30.6113,
+        114.3153
+      ]
+    },
+    {
+      "id": "ilcr7ir9d",
+      "name": "苹果湖中学",
+      "image": "https://image.anitabi.cn/points/364637/ilcr7ir9d_1710597506257.jpg?plan=h160",
+      "geo": [
+        30.5514,
+        114.3406
+      ]
+    },
+    {
+      "id": "ilcshb8xp",
+      "name": "孱陵路",
+      "image": "https://image.anitabi.cn/points/364637/ilcshb8xp_1710597508349.jpg?plan=h160",
+      "geo": [
+        30.5969,
+        114.2943
+      ]
+    },
+    {
+      "id": "ilcu03dhw",
+      "name": "552路公交站",
+      "image": "https://image.anitabi.cn/points/364637/ilcu03dhw_1710597510114.jpg?plan=h160",
+      "geo": [
+        30.6186,
+        114.297
+      ]
+    },
+    {
+      "id": "ilcw9km0i",
+      "name": "Nekoday咖啡厅",
+      "image": "https://image.anitabi.cn/points/364637/ilcw9km0i_1710597511699.jpg?plan=h160",
+      "geo": [
+        30.5447,
+        114.3478
+      ]
+    },
+    {
+      "id": "ilcx2cbvu",
+      "name": "江景别墅",
+      "image": "https://image.anitabi.cn/points/364637/ilcx2cbvu_1710597514185.jpg?plan=h160",
+      "geo": [
+        30.6112,
+        114.3074
+      ]
+    }
+  ],
+  "pointsLength": 9,
+  "imagesLength": 9,
+  "local_id": 798
+}

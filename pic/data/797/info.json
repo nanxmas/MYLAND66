@@ -1,0 +1,132 @@
+{
+  "id": 364450,
+  "cn": "莉可丽丝",
+  "title": "リコリス・リコイル",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/797/images/364450.jpg",
+  "color": "#5595aa",
+  "cp": "BS11",
+  "geo": [
+    35.70186842745554,
+    139.81694916291258
+  ],
+  "zoom": 14.070037128609378,
+  "modified": 1737823069695,
+  "litePoints": [
+    {
+      "id": "l14qua55s",
+      "cn": "锦系町 锦系公园",
+      "name": "錦糸公園",
+      "image": "https://image.anitabi.cn/user/1102/bangumi/364450/points/l14qua55s-1717475424472.jpg?plan=h160",
+      "ep": 1,
+      "s": 678,
+      "geo": [
+        35.6989,
+        139.8159
+      ]
+    },
+    {
+      "id": "4t2xtafcm",
+      "name": "本所警察署（作中：押上警察署）",
+      "image": "https://image.anitabi.cn/points/364450/4t2xtafcm.jpg?plan=h160",
+      "ep": 1,
+      "s": 801,
+      "geo": [
+        35.7047,
+        139.815
+      ]
+    },
+    {
+      "id": "4t2xtafdi",
+      "name": "三井のリパーク 北綾瀬駅前第3駐車場",
+      "image": "https://image.anitabi.cn/points/364450/4t2xtafdi.jpg?plan=h160",
+      "ep": 2,
+      "s": 451,
+      "geo": [
+        35.7768,
+        139.8306
+      ]
+    },
+    {
+      "id": "7toripzg3",
+      "name": "新左近水門",
+      "image": "https://image.anitabi.cn/user/0/bangumi/364450/points/7toripzg3-1680217522429.jpg?plan=h160",
+      "ep": 2,
+      "s": 732,
+      "geo": [
+        35.6549,
+        139.8505
+      ]
+    },
+    {
+      "id": "4t2xtaf1c",
+      "name": "押上駅（作中：北押上駅）",
+      "image": "https://image.anitabi.cn/points/364450/4t2xtaf1c.jpg?plan=h160",
+      "ep": 4,
+      "s": 314,
+      "geo": [
+        35.7104,
+        139.8132
+      ]
+    },
+    {
+      "id": "4t2xtafd5",
+      "cn": "墨田水族馆",
+      "name": "すみだ水族館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/364450/points/4t2xtafd5-1716002010705.jpg?plan=h160",
+      "ep": 4,
+      "s": 631,
+      "geo": [
+        35.71,
+        139.8099
+      ]
+    },
+    {
+      "id": "4t2xtafa4",
+      "name": "ソラマチひろば",
+      "image": "https://image.anitabi.cn/points/364450/4t2xtafa4.jpg?plan=h160",
+      "ep": 4,
+      "s": 1010,
+      "geo": [
+        35.7098,
+        139.8115
+      ]
+    },
+    {
+      "id": "4t2xtafhm",
+      "name": "蔵前橋",
+      "image": "https://image.anitabi.cn/points/364450/4t2xtafhm.jpg?plan=h160",
+      "ep": 5,
+      "s": 328,
+      "geo": [
+        35.7009,
+        139.7934
+      ]
+    },
+    {
+      "id": "4t2xtafho",
+      "name": "雷門",
+      "image": "https://image.anitabi.cn/points/364450/4t2xtafho.jpg?plan=h160",
+      "ep": 5,
+      "s": 366,
+      "geo": [
+        35.711,
+        139.7963
+      ]
+    },
+    {
+      "id": "4t2xtag0b",
+      "name": "浅草寺",
+      "image": "https://image.anitabi.cn/points/364450/4t2xtag0b.jpg?plan=h160",
+      "ep": 5,
+      "s": 397,
+      "geo": [
+        35.7146,
+        139.7967
+      ]
+    }
+  ],
+  "pointsLength": 44,
+  "imagesLength": 40,
+  "local_id": 797
+}

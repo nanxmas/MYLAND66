@@ -1,0 +1,32 @@
+{
+  "id": 360097,
+  "cn": "崩坏：星穹铁道",
+  "title": "崩坏：星穹铁道",
+  "cover": "https://image.xinu.ink/pic/data/789/images/360097_z4dYA.jpg",
+  "modified": 1736651796539,
+  "litePoints": [
+    {
+      "id": "r3ptg9pxc",
+      "cn": "贝洛伯格",
+      "name": "贝尔格莱德",
+      "image": "https://image.anitabi.cn/user/0/bangumi/360097/points/r3ptg9pxc-1734604595919.jpg?plan=h160",
+      "geo": [
+        44.8109,
+        20.4584
+      ]
+    },
+    {
+      "id": "rtla7tjn9",
+      "cn": "上城区 - 梅德韦什恰克",
+      "name": "Gornji Grad - Medveščak",
+      "image": "https://image.anitabi.cn/user/0/bangumi/360097/points/rtla7tjn9-1736632137361.jpg?plan=h160",
+      "geo": [
+        45.8142,
+        15.973
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 789
+}

@@ -1,0 +1,119 @@
+{
+  "id": 362577,
+  "cn": "铃芽户缔",
+  "title": "すずめの戸締まり",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/792/images/362577.jpg",
+  "color": "#409fbf",
+  "cp": "2022 すずめの戸締まり",
+  "geo": [
+    34.89959,
+    135.81192
+  ],
+  "zoom": 5,
+  "modified": 1740576057242,
+  "litePoints": [
+    {
+      "id": "srblt3og6",
+      "name": "油津漁港",
+      "image": "https://image.anitabi.cn/points/362577/srblt3og6_1739275427383.jpg?plan=h160",
+      "s": 183,
+      "geo": [
+        31.5804,
+        131.4033
+      ]
+    },
+    {
+      "id": "ss4sdjguk",
+      "name": "祇園踏切",
+      "image": "https://image.anitabi.cn/points/362577/ss4sdjguk_1739338944183.jpg?plan=h160",
+      "s": 253,
+      "geo": [
+        33.1174,
+        131.8054
+      ]
+    },
+    {
+      "id": "srbp1fb67",
+      "name": "佐賀関2252",
+      "image": "https://image.anitabi.cn/points/362577/srbp1fb67_1739275612097.jpg?plan=h160",
+      "s": 289,
+      "geo": [
+        33.2497,
+        131.8779
+      ]
+    },
+    {
+      "id": "4uisgzj3b",
+      "name": "湯平温泉（廃温泉街建物モデル）",
+      "image": "https://image.anitabi.cn/points/362577/4uisgzj3b_1739274886193.jpg?plan=h160",
+      "s": 314,
+      "geo": [
+        33.1935,
+        131.3264
+      ]
+    },
+    {
+      "id": "srbbx5wrs",
+      "name": "湯平温泉",
+      "image": "https://image.anitabi.cn/points/362577/srbbx5wrs_1739274814433.jpg?plan=h160",
+      "s": 316,
+      "geo": [
+        33.1924,
+        131.3256
+      ]
+    },
+    {
+      "id": "srbiysejz",
+      "name": "湯の鶴温泉",
+      "image": "https://image.anitabi.cn/points/362577/srbiysejz_1739275243539.jpg?plan=h160",
+      "s": 325,
+      "geo": [
+        32.1503,
+        130.4409
+      ]
+    },
+    {
+      "id": "srb6eau01",
+      "name": "湯ノ元",
+      "image": "https://image.anitabi.cn/points/362577/srb6eau01_1739274484178.jpg?plan=h160",
+      "s": 327,
+      "geo": [
+        32.1498,
+        130.4408
+      ]
+    },
+    {
+      "id": "6fc805ab",
+      "name": "（参考）湯の鶴温泉",
+      "image": "https://image.anitabi.cn/points/362577/6fc805ab_1739272525273.jpg?plan=h160",
+      "geo": [
+        32.15,
+        130.4409
+      ]
+    },
+    {
+      "id": "sraloozng",
+      "name": "旧豊後森機関庫",
+      "image": "https://image.anitabi.cn/points/362577/sraloozng_1739273230880.jpg?plan=h160",
+      "s": 362,
+      "geo": [
+        33.2813,
+        131.1583
+      ]
+    },
+    {
+      "id": "sratypduf",
+      "name": "佐賀関港",
+      "image": "https://image.anitabi.cn/points/362577/sratypduf_1739273735503.jpg?plan=h160",
+      "s": 655,
+      "geo": [
+        33.2514,
+        131.8645
+      ]
+    }
+  ],
+  "pointsLength": 224,
+  "imagesLength": 224,
+  "local_id": 792
+}

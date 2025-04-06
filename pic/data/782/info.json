@@ -1,0 +1,134 @@
+{
+  "id": 354414,
+  "title": "SHINE POST",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/782/images/354414.jpg",
+  "color": "#b8aa9c",
+  "geo": [
+    35.70481595659419,
+    139.66666789307038
+  ],
+  "zoom": 11.556,
+  "modified": 1726751847205,
+  "litePoints": [
+    {
+      "id": "iuzb744ij",
+      "cn": "下北泽香格里拉",
+      "name": "下北沢Shangri-La",
+      "image": "https://image.anitabi.cn/user/0/bangumi/354414/points/iuzb744ij-1711351129173.jpg?plan=h160",
+      "ep": 4,
+      "s": 24,
+      "geo": [
+        35.6604,
+        139.6684
+      ]
+    },
+    {
+      "id": "iuzg1ud1z",
+      "cn": "全家便利店杉并成田东五丁目店",
+      "name": "ファミリー​マート\n杉並​成田​東​五丁目​店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/354414/points/iuzg1ud1z-1711351370897.jpg?plan=h160",
+      "ep": 7,
+      "s": 837,
+      "geo": [
+        35.7014,
+        139.6298
+      ]
+    },
+    {
+      "id": "iuzil36wd",
+      "name": "南阿佐ヶ谷 青梅街道沿い",
+      "image": "https://image.anitabi.cn/user/0/bangumi/354414/points/iuzil36wd-1711351670350.jpg?plan=h160",
+      "ep": 1,
+      "s": 223,
+      "geo": [
+        35.6986,
+        139.6376
+      ]
+    },
+    {
+      "id": "iuzle83dn",
+      "cn": "麦当劳阿佐谷店",
+      "name": "マクドナルド\n阿佐ヶ谷​店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/354414/points/iuzle83dn-1711351661009.jpg?plan=h160",
+      "ep": 4,
+      "s": 704,
+      "geo": [
+        35.7047,
+        139.6369
+      ]
+    },
+    {
+      "id": "iuzoabrn4",
+      "name": "赤坂見附歩道橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/354414/points/iuzoabrn4-1711351822818.jpg?plan=h160",
+      "ep": 11,
+      "s": 117,
+      "geo": [
+        35.6785,
+        139.7378
+      ]
+    },
+    {
+      "id": "iuzpkyxka",
+      "cn": "神宫球场",
+      "name": "神宮球場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/354414/points/iuzpkyxka-1711351880071.jpg?plan=h160",
+      "ep": 2,
+      "s": 732,
+      "geo": [
+        35.6745,
+        139.7171
+      ]
+    },
+    {
+      "id": "iuzs3hn61",
+      "name": "JR阿佐ヶ谷駅 南口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/354414/points/iuzs3hn61-1711352047613.jpg?plan=h160",
+      "ep": 5,
+      "s": 1227,
+      "geo": [
+        35.7045,
+        139.6363
+      ]
+    },
+    {
+      "id": "iuztd7aag",
+      "cn": "日本武道馆",
+      "name": "日本武道館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/354414/points/iuztd7aag-1711352128438.jpg?plan=h160",
+      "ep": 4,
+      "s": 296,
+      "geo": [
+        35.6932,
+        139.7498
+      ]
+    },
+    {
+      "id": "iuzyxo2ok",
+      "cn": "Sunshine City 喷水广场",
+      "name": "サンシャインシティ 噴水広場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/354414/points/iuzyxo2ok-1711352486343.jpg?plan=h160",
+      "ep": 6,
+      "s": 941,
+      "geo": [
+        35.729,
+        139.719
+      ]
+    },
+    {
+      "id": "iuzx5o16d",
+      "name": "杉並区立阿佐谷南公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/354414/points/iuzx5o16d-1711352391070.jpg?plan=h160",
+      "ep": 6,
+      "s": 594,
+      "geo": [
+        35.7034,
+        139.6296
+      ]
+    }
+  ],
+  "pointsLength": 14,
+  "imagesLength": 14,
+  "local_id": 782
+}

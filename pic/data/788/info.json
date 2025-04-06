@@ -1,0 +1,43 @@
+{
+  "id": 358741,
+  "cn": "有兽焉",
+  "title": "",
+  "city": "云南省",
+  "cover": "https://image.xinu.ink/pic/data/788/images/358741.jpg",
+  "color": "#b9c462",
+  "geo": [
+    34.3218805707907,
+    109.57329987286153
+  ],
+  "zoom": 4.1,
+  "modified": 1719906773081,
+  "litePoints": [
+    {
+      "id": "lu25mg6rp",
+      "cn": "鹿人店",
+      "name": "云南同乐村附近的深山之地",
+      "image": "https://image.anitabi.cn/user/0/bangumi/358741/points/lu25mg6rp-1719742180781.jpg?plan=h160",
+      "ep": 2,
+      "s": 110,
+      "geo": [
+        27.7515,
+        98.9549
+      ]
+    },
+    {
+      "id": "lu37far3b",
+      "cn": "鹿人店原址",
+      "name": "潘家园旧货市场西南门",
+      "image": "https://image.anitabi.cn/user/0/bangumi/358741/points/lu37far3b-1719744501792.jpg?plan=h160",
+      "ep": 2,
+      "s": 265,
+      "geo": [
+        39.875,
+        116.4557
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 788
+}

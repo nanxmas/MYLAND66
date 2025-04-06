@@ -1,0 +1,124 @@
+{
+  "id": 376703,
+  "cn": "偶像大师 灰姑娘女孩 U149",
+  "title": "アイドルマスター シンデレラガールズ U149",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/809/images/376703.jpg",
+  "color": "#2582c8",
+  "geo": [
+    35.69376695577671,
+    139.66565381861278
+  ],
+  "zoom": 8.733,
+  "modified": 1741597493476,
+  "litePoints": [
+    {
+      "id": "5bf41595",
+      "name": "渋谷ブリッジ21",
+      "image": "https://image.anitabi.cn/user/0/bangumi/376703/points/5bf41595-1741063618562.jpg?plan=h160",
+      "ep": 1,
+      "s": 337,
+      "geo": [
+        35.6565,
+        139.6987
+      ]
+    },
+    {
+      "id": "cfaf5e98",
+      "name": "渋谷１丁目１８−２７",
+      "image": "https://image.anitabi.cn/user/0/bangumi/376703/points/cfaf5e98-1741063422528.jpg?plan=h160",
+      "ep": 2,
+      "s": 721,
+      "geo": [
+        35.6617,
+        139.703
+      ]
+    },
+    {
+      "id": "e1556a0c",
+      "name": "ベルサール渋谷ガーデン",
+      "image": "https://image.anitabi.cn/user/0/bangumi/376703/points/e1556a0c-1731723775809.jpg?plan=h160",
+      "ep": 1,
+      "s": 262,
+      "geo": [
+        35.6542,
+        139.6937
+      ]
+    },
+    {
+      "id": "981c0b72",
+      "name": "目黒新橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/376703/points/981c0b72-1731435690126.jpg?plan=h160",
+      "ep": 2,
+      "s": 1418,
+      "geo": [
+        35.6337,
+        139.7105
+      ]
+    },
+    {
+      "id": "tkwlu9a3e",
+      "cn": "笠森寺",
+      "name": "笠森寺",
+      "image": "https://image.anitabi.cn/user/0/bangumi/376703/points/tkwlu9a3e-1741593705076.jpg?plan=h160",
+      "ep": 4,
+      "s": 445,
+      "geo": [
+        35.3976,
+        140.2002
+      ]
+    },
+    {
+      "id": "tkwx7nj1q",
+      "name": "竜神峡 第1駐車場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/376703/points/tkwx7nj1q-1741594384790.jpg?plan=h160",
+      "ep": 4,
+      "s": 255,
+      "geo": [
+        36.6829,
+        140.4664
+      ]
+    },
+    {
+      "id": "tkx1axrw6",
+      "name": "竜神大吊橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/376703/points/tkx1axrw6-1741594638426.jpg?plan=h160",
+      "ep": 4,
+      "s": 1054,
+      "geo": [
+        36.684,
+        140.4656
+      ]
+    },
+    {
+      "id": "16557b11",
+      "name": "宮益御嶽神社",
+      "image": "https://image.anitabi.cn/points/376703/16557b11_1718290504334.jpg?plan=h160",
+      "geo": [
+        35.6598,
+        139.7039
+      ]
+    },
+    {
+      "id": "ebe5cbf5",
+      "name": "朝日生命宮益坂ビル付近",
+      "image": "https://image.anitabi.cn/user/0/bangumi/376703/points/ebe5cbf5-1733810825879.jpg?plan=h160",
+      "geo": [
+        35.6599,
+        139.7046
+      ]
+    },
+    {
+      "id": "7476f290",
+      "name": "すき家 渋谷南平台店",
+      "image": "https://image.anitabi.cn/points/376703/7476f290_1718290580666.jpg?plan=h160",
+      "geo": [
+        35.6559,
+        139.6969
+      ]
+    }
+  ],
+  "pointsLength": 47,
+  "imagesLength": 25,
+  "local_id": 809
+}

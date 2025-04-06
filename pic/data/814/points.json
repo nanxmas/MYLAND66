@@ -1,0 +1,298 @@
+[
+  {
+    "id": "r1meyekzy",
+    "cn": "春川大坝",
+    "name": "춘천댐",
+    "image": "https://image.xinu.ink/pic/data/814/images/r1meyekzy_1734440493587.jpg",
+    "s": 461,
+    "geo": [
+      37.9681,
+      127.6665
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ow8qj5qr2",
+    "cn": "市厅站",
+    "name": "시청",
+    "image": "https://image.xinu.ink/pic/data/814/images/ow8qj5qr2_1734448605916.jpg",
+    "ep": "",
+    "s": 1191,
+    "geo": [
+      37.5647,
+      126.977
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ow93fhv3e",
+    "cn": "南山首尔塔",
+    "name": "남산서울타워",
+    "image": "https://image.xinu.ink/pic/data/814/images/ow93fhv3e_1734448648241.jpg",
+    "ep": null,
+    "s": 1286,
+    "geo": [
+      37.5511,
+      126.9882
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "r1naf94os",
+    "cn": "东国大学",
+    "name": "동국대학교",
+    "image": "https://image.xinu.ink/pic/data/814/images/r1naf94os_1734442324219.jpg",
+    "s": 1393,
+    "geo": [
+      37.5577,
+      127.0008
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "r1nixcj4o",
+    "cn": "东国大学 社会科学·管理楼",
+    "name": "사회과학ㆍ경영관",
+    "image": "https://image.xinu.ink/pic/data/814/images/r1nixcj4o_1734442797819.jpg",
+    "s": 1395,
+    "geo": [
+      37.557,
+      127.0026
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ow9mr45p4",
+    "cn": "东亚日报社",
+    "name": "동아일보사",
+    "image": "https://image.xinu.ink/pic/data/814/images/ow9mr45p4_1734448888104.jpg",
+    "ep": null,
+    "s": 2190,
+    "geo": [
+      37.5694,
+      126.9779
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "r1qhk6kah",
+    "cn": "东庙市场",
+    "name": "동묘벼룩시장",
+    "image": "https://image.xinu.ink/pic/data/814/images/r1qhk6kah_1734449243352.jpg",
+    "s": 2503,
+    "geo": [
+      37.573,
+      127.0178
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "owa4fhgew",
+    "cn": "乙支路三街",
+    "name": "을지로3가",
+    "image": "https://image.xinu.ink/pic/data/814/images/owa4fhgew_1734449281592.jpg",
+    "ep": "",
+    "s": 2529,
+    "geo": [
+      37.5663,
+      126.9925
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "owaiyffpv",
+    "cn": "钟路二街 三一桥公交站",
+    "name": "종로2가.삼일교",
+    "image": "https://image.xinu.ink/pic/data/814/images/owaiyffpv_1734449290286.jpg",
+    "ep": "",
+    "s": 2531,
+    "geo": [
+      37.5685,
+      126.9875
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "owau7x51t",
+    "cn": "珍古介 忠武路店",
+    "name": "진고개",
+    "image": "https://image.xinu.ink/pic/data/814/images/owau7x51t_1734449297343.jpg",
+    "ep": "",
+    "s": 2533,
+    "geo": [
+      37.5628,
+      126.993
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "owdlmvy1s",
+    "cn": "水標橋",
+    "name": "수표교",
+    "image": "https://image.xinu.ink/pic/data/814/images/owdlmvy1s_1734450230695.jpg",
+    "ep": "",
+    "s": 2552,
+    "geo": [
+      37.5681,
+      126.9901
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "owdvzetsu",
+    "cn": "清溪川",
+    "name": "청계천",
+    "image": "https://image.xinu.ink/pic/data/814/images/owdvzetsu_1734450244645.jpg",
+    "ep": "",
+    "s": 2564,
+    "geo": [
+      37.5681,
+      126.9897
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "owfui93x4",
+    "cn": "仁济大学首尔白医院",
+    "name": "인제대학교 서울백병원",
+    "image": "https://image.xinu.ink/pic/data/814/images/owfui93x4_1734450266063.jpg",
+    "ep": "",
+    "s": 2650,
+    "geo": [
+      37.5646,
+      126.9888
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "r1o4k30st",
+    "cn": "退渓路5街公交站",
+    "name": "퇴계로5가",
+    "image": "https://image.xinu.ink/pic/data/814/images/r1o4k30st_1734444194998.jpg",
+    "s": 2756,
+    "geo": [
+      37.5625,
+      127.0001
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "r1ojq43f6",
+    "cn": "PJ酒店（忠武路站）公交站",
+    "name": "충무로역.호텔피제이",
+    "image": "https://image.xinu.ink/pic/data/814/images/r1ojq43f6_1734445068993.jpg",
+    "s": 2863,
+    "geo": [
+      37.5616,
+      126.9954
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "r1ohj5ndv",
+    "cn": "大韩剧场",
+    "name": "대한극장",
+    "image": "https://image.xinu.ink/pic/data/814/images/r1ohj5ndv_1734444939132.jpg",
+    "s": 2894,
+    "geo": [
+      37.5616,
+      126.9954
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "owfk41qii",
+    "cn": "忠武路站",
+    "name": "충무로",
+    "image": "https://image.xinu.ink/pic/data/814/images/owfk41qii_1734445500270.jpg",
+    "ep": "",
+    "s": 2898,
+    "geo": [
+      37.5616,
+      126.9953
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "r1onr5ue8",
+    "cn": "退渓路附近小路",
+    "name": "퇴계로",
+    "image": "https://image.xinu.ink/pic/data/814/images/r1onr5ue8_1734445281603.jpg",
+    "s": 2900,
+    "geo": [
+      37.5622,
+      126.9953
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "r1oui7yfw",
+    "cn": "世运商街路桥下",
+    "name": "세운상가 공중보행데크",
+    "image": "https://image.xinu.ink/pic/data/814/images/r1oui7yfw_1734445747610.jpg",
+    "s": 2903,
+    "geo": [
+      37.5622,
+      126.9957
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "r1oxsppd8",
+    "cn": "達人花配達",
+    "name": "달인꽃배달",
+    "image": "https://image.xinu.ink/pic/data/814/images/r1oxsppd8_1734445862199.jpg",
+    "s": 2907,
+    "geo": [
+      37.5622,
+      126.9961
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "r1p3xtc78",
+    "cn": "进阳商街",
+    "name": "진양상가",
+    "image": "https://image.xinu.ink/pic/data/814/images/r1p3xtc78_1734446338473.jpg",
+    "s": 2911,
+    "geo": [
+      37.5618,
+      126.9961
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "r1p6diwnd",
+    "cn": "进阳商街楼梯",
+    "name": "진양상가",
+    "image": "https://image.xinu.ink/pic/data/814/images/r1p6diwnd_1734446379837.jpg",
+    "s": 2917,
+    "geo": [
+      37.5619,
+      126.9959
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  }
+]

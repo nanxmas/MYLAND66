@@ -1,0 +1,38 @@
+{
+  "id": 391457,
+  "title": "绍宋",
+  "city": "中国",
+  "cover": "https://image.xinu.ink/pic/data/818/images/391457.jpg",
+  "color": "#502e25",
+  "geo": [
+    33.882627000000014,
+    115.77058199999999
+  ],
+  "zoom": 16,
+  "modified": 1725010852112,
+  "litePoints": [
+    {
+      "id": "npa7zi8ej",
+      "cn": "明道宫",
+      "name": "明道宫",
+      "image": "https://image.anitabi.cn/user/0/bangumi/391457/points/npa7zi8ej-1725010184951.jpg?plan=h160",
+      "geo": [
+        33.8826,
+        115.7705
+      ]
+    },
+    {
+      "id": "npaeo81kj",
+      "cn": "八公山国家森林公园",
+      "name": "八公山国家森林公园",
+      "image": "https://image.anitabi.cn/user/0/bangumi/391457/points/npaeo81kj-1725010543816.jpg?plan=h160",
+      "geo": [
+        32.6352,
+        116.7848
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 818
+}

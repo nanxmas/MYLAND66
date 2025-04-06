@@ -1,0 +1,79 @@
+[
+  {
+    "id": "5g86tetnw",
+    "cn": "府中市马场东公园",
+    "name": "府中市馬場東公園",
+    "image": "https://image.xinu.ink/pic/data/799/images/5g86tetnw-1673520549713.jpg",
+    "ep": 1,
+    "s": 72,
+    "geo": [
+      35.6749,
+      139.4809
+    ],
+    "originLink": "https://furaba-animeseichi.blog.jp/archives/32623465.html"
+  },
+  {
+    "id": "5g8ed7d60",
+    "name": "けやき並木通り",
+    "image": "https://image.xinu.ink/pic/data/799/images/5g8ed7d60-1673520911486.jpg",
+    "ep": 1,
+    "s": 941,
+    "geo": [
+      35.6728,
+      139.4792
+    ],
+    "originLink": "https://furaba-animeseichi.blog.jp/archives/32623465.html"
+  },
+  {
+    "id": "5g8ahj7ap",
+    "cn": "CHETOS Yamazaki 府中店",
+    "name": "シェトスヤマザキ 府中店",
+    "image": "https://image.xinu.ink/pic/data/799/images/5g8ahj7ap-1673520669846.jpg",
+    "ep": 1,
+    "s": 942,
+    "geo": [
+      35.674,
+      139.4788
+    ],
+    "originLink": "https://furaba-animeseichi.blog.jp/archives/32623465.html"
+  },
+  {
+    "id": "rngujd8ey",
+    "name": "大鳥居（大國魂神社）",
+    "image": "https://image.xinu.ink/pic/data/799/images/rngujd8ey-1736152278262.jpg",
+    "ep": 5,
+    "s": 785,
+    "geo": [
+      35.6699,
+      139.479
+    ],
+    "origin": "Anitabi@耿耿-げん",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rnh0bebl1",
+    "name": "大国魂神社",
+    "image": "https://image.xinu.ink/pic/data/799/images/rnh0bebl1-1736152626480.jpg",
+    "ep": 5,
+    "s": 787,
+    "geo": [
+      35.6686,
+      139.479
+    ],
+    "origin": "Anitabi@耿耿-げん",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rngk6yord",
+    "name": "府中公園",
+    "image": "https://image.xinu.ink/pic/data/799/images/rngk6yord-1736151642433.jpg",
+    "ep": 8,
+    "s": 1001,
+    "geo": [
+      35.6765,
+      139.4826
+    ],
+    "origin": "Anitabi@耿耿-げん",
+    "originURL": "https://anitabi.cn/"
+  }
+]

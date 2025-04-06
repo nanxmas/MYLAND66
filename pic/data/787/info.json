@@ -1,0 +1,138 @@
+{
+  "id": 357961,
+  "cn": "跃动青春",
+  "title": "スキップとローファー",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/787/images/357961.jpg",
+  "color": "#84f584",
+  "geo": [
+    37.470358781701876,
+    137.2880904602771
+  ],
+  "zoom": 10.916,
+  "modified": 1728924355654,
+  "litePoints": [
+    {
+      "id": "jnvh81v7n",
+      "cn": "木之浦Village",
+      "name": "木ノ浦ビレッジ",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/357961/points/jnvh81v7n-1713615283094.jpg?plan=h160",
+      "ep": 1,
+      "s": 130,
+      "geo": [
+        37.5274,
+        137.2664
+      ]
+    },
+    {
+      "id": "jhvh9oof3",
+      "name": "道の駅 すずなり",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/357961/points/jhvh9oof3-1713145044257.jpg?plan=h160",
+      "ep": 1,
+      "s": 139,
+      "geo": [
+        37.4416,
+        137.2703
+      ]
+    },
+    {
+      "id": "j1v8l56mb",
+      "cn": "久我山站",
+      "name": "久我山駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/357961/points/j1v8l56mb-1711890730328.jpg?plan=h160",
+      "ep": 1,
+      "s": 514,
+      "geo": [
+        35.688,
+        139.5999
+      ]
+    },
+    {
+      "id": "j1w992vg6",
+      "cn": "燕西高中",
+      "name": "燕西高中",
+      "image": "https://image.anitabi.cn/user/0/bangumi/357961/points/j1w992vg6-1711892950736.jpg?plan=h160",
+      "ep": 1,
+      "s": 828,
+      "geo": [
+        35.6922,
+        139.6056
+      ]
+    },
+    {
+      "id": "j1whzamd3",
+      "cn": "吉祥寺站北口附近",
+      "name": "吉祥寺站北口附近",
+      "image": "https://image.anitabi.cn/user/0/bangumi/357961/points/j1whzamd3-1711893514384.jpg?plan=h160",
+      "ep": 2,
+      "s": 766,
+      "geo": [
+        35.7034,
+        139.5788
+      ]
+    },
+    {
+      "id": "j1t3asmau",
+      "cn": "忠犬八公像",
+      "name": "忠犬ハチ公",
+      "image": "https://image.anitabi.cn/user/0/bangumi/357961/points/j1t3asmau-1711886027437.jpg?plan=h160",
+      "ep": 3,
+      "s": 844,
+      "geo": [
+        35.659,
+        139.7005
+      ]
+    },
+    {
+      "id": "jnv43n0l8",
+      "cn": "高屋新保巴士站",
+      "name": "高屋新保バス停",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/357961/points/jnv43n0l8-1713614489431.jpg?plan=h160",
+      "ep": 6,
+      "s": 159,
+      "geo": [
+        37.5189,
+        137.2435
+      ]
+    },
+    {
+      "id": "j1vusrftb",
+      "cn": "久我山动物病院",
+      "name": "久我山动物病院",
+      "image": "https://image.anitabi.cn/user/0/bangumi/357961/points/j1vusrftb-1711892150487.jpg?plan=h160",
+      "ep": 6,
+      "s": 1329,
+      "geo": [
+        35.6904,
+        139.603
+      ]
+    },
+    {
+      "id": "mzxmzlwyy",
+      "cn": "能登机场",
+      "name": "能登空港",
+      "image": "https://image.anitabi.cn/user/0/bangumi/357961/points/mzxmzlwyy-1723024783371.jpg?plan=h160",
+      "ep": 9,
+      "s": 257,
+      "geo": [
+        37.2979,
+        136.9615
+      ]
+    },
+    {
+      "id": "j1y1c7plz",
+      "cn": "高仓彦神社",
+      "name": "高仓彦神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/357961/points/j1y1c7plz-1711896824705.jpg?plan=h160",
+      "ep": 9,
+      "s": 549,
+      "geo": [
+        37.4387,
+        137.3122
+      ]
+    }
+  ],
+  "pointsLength": 14,
+  "imagesLength": 14,
+  "local_id": 787
+}

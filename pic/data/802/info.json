@@ -1,0 +1,55 @@
+{
+  "id": 366359,
+  "cn": "德凯奥特曼",
+  "title": "ウルトラマンデッカー",
+  "cover": "https://image.xinu.ink/pic/data/802/images/366359_aSfqD.jpg",
+  "modified": 1735320440786,
+  "litePoints": [
+    {
+      "id": "r9cilboyw",
+      "cn": "悉尼歌剧院",
+      "name": "Sydney Opera House",
+      "image": "https://image.anitabi.cn/user/0/bangumi/366359/points/r9cilboyw-1735045837024.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        -33.857,
+        151.2152
+      ]
+    },
+    {
+      "id": "r9cvbif2l",
+      "cn": "哈德孙河口",
+      "name": "Hudson Estuary",
+      "image": "https://image.anitabi.cn/user/0/bangumi/366359/points/r9cvbif2l-1735046516721.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        40.696,
+        -74.0121
+      ]
+    },
+    {
+      "id": "r9cz47av9",
+      "cn": "埃菲尔铁塔",
+      "name": "Tour Eiffel",
+      "image": "https://image.anitabi.cn/user/0/bangumi/366359/points/r9cz47av9-1735046739626.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        48.8582,
+        2.2944
+      ]
+    },
+    {
+      "id": "r9d21xm2s",
+      "cn": "胡夫金字塔",
+      "name": "هرم خوفو",
+      "image": "https://image.anitabi.cn/user/0/bangumi/366359/points/r9d21xm2s-1735046911131.jpg?plan=h160",
+      "geo": [
+        29.9783,
+        31.1346
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 802
+}

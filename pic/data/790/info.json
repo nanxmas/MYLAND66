@@ -1,0 +1,49 @@
+{
+  "id": 361988,
+  "cn": "章鱼噼的原罪",
+  "title": "タコピーの原罪",
+  "city": "北海道",
+  "cover": "https://image.xinu.ink/pic/data/790/images/361988.jpg",
+  "color": "#d13f88",
+  "geo": [
+    41.88285695031885,
+    140.73933698942523
+  ],
+  "zoom": 9.525,
+  "modified": 1727517594627,
+  "litePoints": [
+    {
+      "id": "o6ce7h1sx",
+      "name": "あかまつ公園",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/361988/points/o6ce7h1sx-1726347116121.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        41.878,
+        140.7068
+      ]
+    },
+    {
+      "id": "o6culn8p7",
+      "name": "Brillia​タワー​東京",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/361988/points/o6culn8p7-1726348131095.jpg?plan=h160",
+      "ep": 11,
+      "geo": [
+        35.7003,
+        139.8161
+      ]
+    },
+    {
+      "id": "o6czzbbd0",
+      "name": "SHIBUYA109前",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/361988/points/o6czzbbd0-1726348389594.jpg?plan=h160",
+      "ep": 10,
+      "geo": [
+        35.6594,
+        139.6994
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 790
+}

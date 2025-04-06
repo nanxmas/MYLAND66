@@ -1,0 +1,43 @@
+{
+  "id": 366253,
+  "cn": "Estab Life Great Escape",
+  "title": "エスタブライフ グレイトエスケープ",
+  "cover": "https://image.xinu.ink/pic/data/801/images/366253.jpg",
+  "color": "#63cdf1",
+  "cp": "エスタブライフ",
+  "geo": [
+    35.62691544174942,
+    139.77371481197952
+  ],
+  "zoom": 14.84,
+  "modified": 1719254783063,
+  "litePoints": [
+    {
+      "id": "5gsywfism",
+      "cn": "富士产经集团大楼",
+      "name": "FCGビル",
+      "image": "https://image.anitabi.cn/user/0/bangumi/366253/points/5gsywfism-1673565718207.jpg?plan=h160",
+      "ep": 5,
+      "s": 474,
+      "geo": [
+        35.6268,
+        139.7746
+      ]
+    },
+    {
+      "id": "5gt13comf",
+      "cn": "自由之女神像",
+      "name": "自由の女神像",
+      "image": "https://image.anitabi.cn/user/0/bangumi/366253/points/5gt13comf-1673565940179.jpg?plan=h160",
+      "ep": 5,
+      "s": 1090,
+      "geo": [
+        35.6278,
+        139.7718
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 801
+}

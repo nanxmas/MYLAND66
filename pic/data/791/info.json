@@ -1,0 +1,139 @@
+{
+  "id": 362575,
+  "cn": "通往夏日的隧道再见的出口",
+  "title": "夏へのトンネル、さよならの出口",
+  "city": "千叶县",
+  "cover": "https://image.xinu.ink/pic/data/791/images/362575.jpg",
+  "color": "#00b3ff",
+  "geo": [
+    35.15218684202665,
+    139.84781892154422
+  ],
+  "zoom": 11.147,
+  "modified": 1737097860425,
+  "litePoints": [
+    {
+      "id": "hr74n8gzc",
+      "cn": "汐止桥",
+      "name": "汐止橋",
+      "image": "https://image.anitabi.cn/user/1038/bangumi/362575/points/hr74n8gzc-1708233490703.jpg?plan=h160",
+      "ep": 1,
+      "s": 133,
+      "geo": [
+        35.1444,
+        139.8371
+      ]
+    },
+    {
+      "id": "hr75t0ehq",
+      "cn": "内房线桥墩",
+      "name": "Motona",
+      "image": "https://image.anitabi.cn/user/1038/bangumi/362575/points/hr75t0ehq-1708233617313.jpg?plan=h160",
+      "ep": 1,
+      "s": 149,
+      "geo": [
+        35.1435,
+        139.8367
+      ]
+    },
+    {
+      "id": "ho97p5jb7",
+      "cn": "岩井站出租车站",
+      "name": "岩井駅前タクシー乗り場",
+      "image": "https://image.anitabi.cn/user/1038/bangumi/362575/points/ho97p5jb7-1708003035114.jpg?plan=h160",
+      "ep": 1,
+      "s": 154,
+      "geo": [
+        35.0925,
+        139.8494
+      ]
+    },
+    {
+      "id": "hr7dgwhoz",
+      "cn": "保田站",
+      "name": "保田站",
+      "image": "https://image.anitabi.cn/user/1038/bangumi/362575/points/hr7dgwhoz-1708234041985.jpg?plan=h160",
+      "ep": 1,
+      "s": 166,
+      "geo": [
+        35.1409,
+        139.8381
+      ]
+    },
+    {
+      "id": "ikc2m4u97",
+      "cn": "下滩",
+      "name": "下灘",
+      "image": "https://image.anitabi.cn/points/362575/ikc2m4u97_1710517583423.jpg?plan=h160",
+      "ep": 1,
+      "s": 177,
+      "geo": [
+        33.6552,
+        132.5897
+      ]
+    },
+    {
+      "id": "ho7j3knh2",
+      "cn": "豊島区立竹岡健康学園跡地",
+      "name": "338 Takeoka, Futtsu, Chiba",
+      "image": "https://image.anitabi.cn/user/0/bangumi/362575/points/ho7j3knh2-1707999324720.jpg?plan=h160",
+      "ep": 1,
+      "s": 428,
+      "geo": [
+        35.2085,
+        139.8476
+      ]
+    },
+    {
+      "id": "ho748wvqa",
+      "cn": "岩井袋漁港",
+      "name": "Iwaifukuro",
+      "image": "https://image.anitabi.cn/user/0/bangumi/362575/points/ho748wvqa-1707998422810.jpg?plan=h160",
+      "ep": 1,
+      "s": 1383,
+      "geo": [
+        35.1019,
+        139.83
+      ]
+    },
+    {
+      "id": "hr7aqtrmf",
+      "cn": "岩井海岸監視所",
+      "name": "岩井ライフセービングクラブ",
+      "image": "https://image.anitabi.cn/user/1038/bangumi/362575/points/hr7aqtrmf-1708233838193.jpg?plan=h160",
+      "ep": 1,
+      "s": 1525,
+      "geo": [
+        35.0901,
+        139.8426
+      ]
+    },
+    {
+      "id": "ho9chw8to",
+      "cn": "竹冈别墅",
+      "name": "竹岡別荘",
+      "image": "https://image.anitabi.cn/user/1038/bangumi/362575/points/ho9chw8to-1708003218599.jpg?plan=h160",
+      "ep": 1,
+      "s": 1533,
+      "geo": [
+        35.1938,
+        139.8243
+      ]
+    },
+    {
+      "id": "ho94w12vv",
+      "cn": "横滨八景岛海洋乐园水上度假村入口",
+      "name": "横浜・八景島シーパラダイス アクアリゾーツ エントランス",
+      "image": "https://image.anitabi.cn/user/1038/bangumi/362575/points/ho94w12vv-1708002798656.jpg?plan=h160",
+      "ep": 1,
+      "s": 1869,
+      "geo": [
+        35.3377,
+        139.6466
+      ]
+    }
+  ],
+  "pointsLength": 14,
+  "imagesLength": 14,
+  "local_id": 791
+}

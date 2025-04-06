@@ -1,0 +1,28 @@
+[
+  {
+    "id": "mp2kxecsx",
+    "name": "天王町駅構内",
+    "image": "https://image.xinu.ink/pic/data/808/images/mp2kxecsx_1722172385934.jpg",
+    "ep": null,
+    "s": 641,
+    "geo": [
+      35.4539,
+      139.6028
+    ],
+    "origin": "Anitabi@K",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mp2mhejew",
+    "name": "橋戸北第二公園",
+    "image": "https://image.xinu.ink/pic/data/808/images/mp2mhejew_1722172486677.jpg",
+    "ep": null,
+    "s": 2610,
+    "geo": [
+      35.468,
+      139.4778
+    ],
+    "origin": "Anitabi@K",
+    "originURL": "https://anitabi.cn/"
+  }
+]

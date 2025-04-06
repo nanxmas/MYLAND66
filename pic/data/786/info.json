@@ -1,0 +1,121 @@
+{
+  "id": 356774,
+  "cn": "彻夜之歌",
+  "title": "よふかしのうた",
+  "city": "埼玉市",
+  "cover": "https://image.xinu.ink/pic/data/786/images/356774_zOW55.jpg",
+  "color": "#4628a0",
+  "geo": [
+    35.84493499999911,
+    139.64722399999891
+  ],
+  "zoom": 14.522,
+  "modified": 1740047487114,
+  "litePoints": [
+    {
+      "id": "slz7659ve",
+      "name": "ファミリー​マート\n武蔵浦和​駅​東​店",
+      "image": "https://image.anitabi.cn/points/356774/slz7659ve_1738856603089.jpg?plan=h160",
+      "ep": 4,
+      "s": 1285,
+      "geo": [
+        35.8466,
+        139.6474
+      ]
+    },
+    {
+      "id": "slzl3f718",
+      "cn": "吉野家武藏浦和站前店",
+      "name": "吉野家武藏浦和站前店",
+      "image": "https://image.anitabi.cn/points/356774/slzl3f718_1738857424281.jpg?plan=h160",
+      "ep": 7,
+      "s": 201,
+      "geo": [
+        35.8461,
+        139.6474
+      ]
+    },
+    {
+      "id": "sqf96tfv2",
+      "name": "ヒマワリ通り側の歩道橋",
+      "image": "https://image.anitabi.cn/points/356774/sqf96tfv2_1739204991553.jpg?plan=h160",
+      "ep": 3,
+      "s": 1207,
+      "geo": [
+        35.8449,
+        139.6451
+      ]
+    },
+    {
+      "id": "sqehfkwcl",
+      "name": "武蔵浦和駅北側高架",
+      "image": "https://image.anitabi.cn/points/356774/sqehfkwcl_1739203311398.jpg?plan=h160",
+      "ep": 2,
+      "s": 297,
+      "geo": [
+        35.8463,
+        139.6463
+      ]
+    },
+    {
+      "id": "sqe8naajm",
+      "cn": "全家武蔵浦和マークス店",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/356774/sqe8naajm_1739202780375.jpg?plan=h160",
+      "ep": 2,
+      "s": 321,
+      "geo": [
+        35.8457,
+        139.6455
+      ]
+    },
+    {
+      "id": "slzagr952",
+      "name": "餃子​の​王将​武蔵浦和​駅​前​店",
+      "image": "https://image.anitabi.cn/points/356774/slzagr952_1738856781850.jpg?plan=h160",
+      "geo": [
+        35.846,
+        139.6479
+      ]
+    },
+    {
+      "id": "slzw1pnrk",
+      "name": "武蔵浦和​駅东口",
+      "image": "https://image.anitabi.cn/points/356774/slzw1pnrk_1738858098402.jpg?plan=h160",
+      "geo": [
+        35.8454,
+        139.6472
+      ]
+    },
+    {
+      "id": "slzydspkw",
+      "name": "スターバックス​コーヒー​武蔵​浦和​BEANS​店",
+      "image": "https://image.anitabi.cn/points/356774/slzydspkw_1738858227993.jpg?plan=h160",
+      "geo": [
+        35.8455,
+        139.6469
+      ]
+    },
+    {
+      "id": "sorm4wflu",
+      "name": "Mail Post",
+      "image": "https://image.anitabi.cn/points/356774/sorm4wflu_1739075359158.jpg?plan=h160",
+      "geo": [
+        35.8449,
+        139.6472
+      ]
+    },
+    {
+      "id": "sm01usobq",
+      "name": "ライブタワー武蔵浦和",
+      "image": "https://image.anitabi.cn/points/356774/sm01usobq_1738858439659.jpg?plan=h160",
+      "geo": [
+        35.8451,
+        139.6482
+      ]
+    }
+  ],
+  "pointsLength": 169,
+  "imagesLength": 169,
+  "local_id": 786
+}

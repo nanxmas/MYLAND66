@@ -1,0 +1,129 @@
+{
+  "id": 355254,
+  "cn": "从今天开始的青梅竹马",
+  "title": "今日から始める幼なじみ",
+  "city": "东村山市",
+  "cover": "https://image.xinu.ink/pic/data/783/images/355254.jpg",
+  "color": "#55aa6a",
+  "geo": [
+    35.77569298530999,
+    139.4632251308867
+  ],
+  "zoom": 12.293,
+  "modified": 1722598428209,
+  "litePoints": [
+    {
+      "id": "il9p5u5w6",
+      "cn": "所泽航空发祥纪念馆",
+      "name": "所沢航空発祥記念館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/355254/points/il9p5u5w6-1710590121325.jpg?plan=h160",
+      "ep": 23,
+      "geo": [
+        35.7981,
+        139.4722
+      ]
+    },
+    {
+      "id": "ilajehfvm",
+      "cn": "志村健像",
+      "name": "志村けんの像",
+      "image": "https://image.anitabi.cn/user/0/bangumi/355254/points/ilajehfvm-1710591880171.jpg?plan=h160",
+      "ep": 29,
+      "geo": [
+        35.7611,
+        139.4661
+      ]
+    },
+    {
+      "id": "j91al01h2",
+      "cn": "多摩湖（村山贮水池）",
+      "name": "多摩湖(村山貯水池)",
+      "image": "https://image.anitabi.cn/user/0/bangumi/355254/points/j91al01h2-1712453245058.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.7625,
+        139.44
+      ]
+    },
+    {
+      "id": "lyd8pu5h9",
+      "cn": "府中街道",
+      "name": "府中街道",
+      "image": "https://image.anitabi.cn/user/0/bangumi/355254/points/lyd8pu5h9-1720870342116.jpg?plan=h160",
+      "ep": 15,
+      "geo": [
+        35.7612,
+        139.4672
+      ]
+    },
+    {
+      "id": "lyebn2nzb",
+      "cn": "平成桥",
+      "name": "平成橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/355254/points/lyebn2nzb-1720082262220.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        35.7698,
+        139.4643
+      ]
+    },
+    {
+      "id": "m8gtu6cca",
+      "cn": "空堀川河边",
+      "name": "空堀川",
+      "image": "https://image.anitabi.cn/user/0/bangumi/355254/points/m8gtu6cca-1720872055803.jpg?plan=h160",
+      "ep": 25,
+      "geo": [
+        35.7595,
+        139.4833
+      ]
+    },
+    {
+      "id": "m8hhj1grg",
+      "cn": "东村山市诹访町2丁目32-26",
+      "name": "東村山市諏訪町2丁目32-26",
+      "image": "https://image.anitabi.cn/user/0/bangumi/355254/points/m8hhj1grg-1720872842370.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7702,
+        139.4636
+      ]
+    },
+    {
+      "id": "mhzy6dmk1",
+      "cn": "八国山绿地将军塚长凳",
+      "name": "八国山緑地将軍塚ベンチ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/355254/points/mhzy6dmk1-1721618292931.jpg?plan=h160",
+      "ep": 10,
+      "geo": [
+        35.7736,
+        139.4659
+      ]
+    },
+    {
+      "id": "mi59mkqsm",
+      "cn": "西宿公园",
+      "name": "西宿公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/355254/points/mi59mkqsm-1721629796273.jpg?plan=h160",
+      "ep": 44,
+      "geo": [
+        35.7731,
+        139.4679
+      ]
+    },
+    {
+      "id": "mknxxb2uy",
+      "cn": "三峰神社 三鸟居",
+      "name": "三峯神社 三ツ鳥居",
+      "image": "https://image.anitabi.cn/user/0/bangumi/355254/points/mknxxb2uy-1721827261103.jpg?plan=h160",
+      "ep": 66,
+      "geo": [
+        35.923,
+        138.9323
+      ]
+    }
+  ],
+  "pointsLength": 10,
+  "imagesLength": 10,
+  "local_id": 783
+}

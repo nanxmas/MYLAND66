@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ius026ree",
+    "cn": "樱华市",
+    "name": "西湖宝石山",
+    "image": "https://image.xinu.ink/pic/data/811/images/ius026ree-1711335185968.jpg",
+    "ep": null,
+    "geo": [
+      30.2622,
+      120.1412
+    ]
+  },
+  {
+    "id": "ius270y5u",
+    "cn": "樱华大学",
+    "name": "浙江大学玉泉校区正门",
+    "image": "https://image.xinu.ink/pic/data/811/images/ius270y5u-1711335250315.jpg",
+    "ep": null,
+    "geo": [
+      30.2635,
+      120.1207
+    ]
+  },
+  {
+    "id": "ius36zdw9",
+    "cn": "樱华大学图书馆前草坪",
+    "name": "浙江大学玉泉校区正门草坪",
+    "image": "https://image.xinu.ink/pic/data/811/images/ius36zdw9-1711335322270.jpg",
+    "ep": null,
+    "geo": [
+      30.2639,
+      120.1195
+    ]
+  },
+  {
+    "id": "ius4hw6mq",
+    "cn": "湿地公园（取景地）",
+    "name": "马家湾湿地公园栈桥",
+    "image": "https://image.xinu.ink/pic/data/811/images/ius4hw6mq-1711335387782.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      39.841,
+      116.5608
+    ]
+  },
+  {
+    "id": "ius5ms887",
+    "cn": "CFK",
+    "name": "雍和宫肯德基",
+    "image": "https://image.xinu.ink/pic/data/811/images/ius5ms887-1711335454301.jpg",
+    "ep": null,
+    "geo": [
+      39.9473,
+      116.41
+    ]
+  },
+  {
+    "id": "ius9mugcs",
+    "cn": "购物中心",
+    "name": "方庄购物中心二楼",
+    "image": "https://image.xinu.ink/pic/data/811/images/ius9mugcs-1711335702272.jpg",
+    "ep": null,
+    "geo": [
+      39.864,
+      116.4229
+    ]
+  },
+  {
+    "id": "jjlt6udmp",
+    "name": "中山桥",
+    "image": "https://image.xinu.ink/pic/data/811/images/jjlt6udmp-1713281090832.jpg",
+    "ep": null,
+    "geo": [
+      36.0647,
+      103.8146
+    ]
+  }
+]

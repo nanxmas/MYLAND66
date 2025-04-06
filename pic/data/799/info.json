@@ -1,0 +1,88 @@
+{
+  "id": 364822,
+  "cn": "关于邻家的天使大人不知不觉把我惯成了废人这档子事",
+  "title": "お隣の天使様にいつの間にか駄目人間にされていた件",
+  "city": "东京府中市",
+  "cover": "https://image.xinu.ink/pic/data/799/images/364822.jpg",
+  "color": "#f0c360",
+  "cp": "アニメお隣の天使様",
+  "geo": [
+    35.674070407566106,
+    139.48197865615396
+  ],
+  "zoom": 14.435,
+  "modified": 1736182485421,
+  "litePoints": [
+    {
+      "id": "5g86tetnw",
+      "cn": "府中市马场东公园",
+      "name": "府中市馬場東公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/364822/points/5g86tetnw-1673520549713.jpg?plan=h160",
+      "ep": 1,
+      "s": 72,
+      "geo": [
+        35.6749,
+        139.4809
+      ]
+    },
+    {
+      "id": "5g8ed7d60",
+      "name": "けやき並木通り",
+      "image": "https://image.anitabi.cn/user/0/bangumi/364822/points/5g8ed7d60-1673520911486.jpg?plan=h160",
+      "ep": 1,
+      "s": 941,
+      "geo": [
+        35.6728,
+        139.4792
+      ]
+    },
+    {
+      "id": "5g8ahj7ap",
+      "cn": "CHETOS Yamazaki 府中店",
+      "name": "シェトスヤマザキ 府中店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/364822/points/5g8ahj7ap-1673520669846.jpg?plan=h160",
+      "ep": 1,
+      "s": 942,
+      "geo": [
+        35.674,
+        139.4788
+      ]
+    },
+    {
+      "id": "rngujd8ey",
+      "name": "大鳥居（大國魂神社）",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/364822/points/rngujd8ey-1736152278262.jpg?plan=h160",
+      "ep": 5,
+      "s": 785,
+      "geo": [
+        35.6699,
+        139.479
+      ]
+    },
+    {
+      "id": "rnh0bebl1",
+      "name": "大国魂神社",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/364822/points/rnh0bebl1-1736152626480.jpg?plan=h160",
+      "ep": 5,
+      "s": 787,
+      "geo": [
+        35.6686,
+        139.479
+      ]
+    },
+    {
+      "id": "rngk6yord",
+      "name": "府中公園",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/364822/points/rngk6yord-1736151642433.jpg?plan=h160",
+      "ep": 8,
+      "s": 1001,
+      "geo": [
+        35.6765,
+        139.4826
+      ]
+    }
+  ],
+  "pointsLength": 12,
+  "imagesLength": 12,
+  "local_id": 799
+}

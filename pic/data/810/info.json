@@ -1,0 +1,139 @@
+{
+  "id": 378862,
+  "cn": "别当欧尼酱了！",
+  "title": "お兄ちゃんはおしまい！",
+  "city": "练马区",
+  "cover": "https://image.xinu.ink/pic/data/810/images/378862.jpg",
+  "color": "#f1888d",
+  "cp": "おにまい",
+  "geo": [
+    38.059253144097624,
+    140.5820054380206
+  ],
+  "zoom": 8.262,
+  "modified": 1734015021534,
+  "litePoints": [
+    {
+      "id": "qjzkqijrh",
+      "cn": "三原台",
+      "name": "三原台 富士の湯",
+      "image": "https://image.anitabi.cn/points/378862/qjzkqijrh_1733059248078.jpg?plan=h160",
+      "ep": 2,
+      "s": 199,
+      "geo": [
+        35.7503,
+        139.6029
+      ]
+    },
+    {
+      "id": "qjznu9eju",
+      "name": "三原台 富士の湯",
+      "image": "https://image.anitabi.cn/points/378862/qjznu9eju_1733059414918.jpg?plan=h160",
+      "ep": 2,
+      "s": 184,
+      "geo": [
+        35.7504,
+        139.6029
+      ]
+    },
+    {
+      "id": "qjzet8wtn",
+      "cn": "石神井公园店",
+      "name": "ライフ石神井公園店",
+      "image": "https://image.anitabi.cn/points/378862/qjzet8wtn_1733059438660.jpg?plan=h160",
+      "ep": 4,
+      "s": 588,
+      "geo": [
+        35.7448,
+        139.6036
+      ]
+    },
+    {
+      "id": "qjwhh8q0q",
+      "cn": "中村桥站南口",
+      "name": "中村桥",
+      "image": "https://image.anitabi.cn/points/378862/qjwhh8q0q_1733051770909.jpg?plan=h160",
+      "ep": 5,
+      "s": 210,
+      "geo": [
+        35.7366,
+        139.6379
+      ]
+    },
+    {
+      "id": "qk60k0ix5",
+      "cn": "GiGO 池袋2号館",
+      "name": "ラグーン池袋ビル",
+      "image": "https://image.anitabi.cn/user/2151/bangumi/378862/points/qk60k0ix5-1733072595889.jpg?plan=h160",
+      "ep": 5,
+      "s": 260,
+      "geo": [
+        35.73,
+        139.7161
+      ]
+    },
+    {
+      "id": "ql3yvgof8",
+      "cn": "中村桥步行天桥",
+      "name": "中村橋步道橋",
+      "image": "https://image.anitabi.cn/points/378862/ql3yvgof8_1733147076062.jpg?plan=h160",
+      "ep": 7,
+      "s": 928,
+      "geo": [
+        35.736,
+        139.6382
+      ]
+    },
+    {
+      "id": "qjvtraap4",
+      "cn": "中村桥书店",
+      "name": "日立のお店 ライフテックアトム 中村橋店",
+      "image": "https://image.anitabi.cn/points/378862/qjvtraap4_1733050974072.jpg?plan=h160",
+      "ep": 10,
+      "s": 893,
+      "geo": [
+        35.7381,
+        139.6375
+      ]
+    },
+    {
+      "id": "qjvkoyt3j",
+      "cn": "旅館永澤平八 停车场",
+      "name": "旅館永澤平八 駐車場",
+      "image": "https://image.anitabi.cn/points/378862/qjvkoyt3j_1733049780393.jpg?plan=h160",
+      "ep": 12,
+      "s": 19,
+      "geo": [
+        38.5718,
+        140.5287
+      ]
+    },
+    {
+      "id": "qjvjs1yep",
+      "cn": "能登屋旅館 第一停车场",
+      "name": "能登屋旅館 第一駐車場",
+      "image": "https://image.anitabi.cn/points/378862/qjvjs1yep_1733049709170.jpg?plan=h160",
+      "ep": 12,
+      "s": 67,
+      "geo": [
+        38.5708,
+        140.5296
+      ]
+    },
+    {
+      "id": "qjvi4fvgg",
+      "cn": "県道188号",
+      "name": "県道188号",
+      "image": "https://image.anitabi.cn/points/378862/qjvi4fvgg_1733049622508.jpg?plan=h160",
+      "ep": 12,
+      "s": 37,
+      "geo": [
+        38.5716,
+        140.5288
+      ]
+    }
+  ],
+  "pointsLength": 27,
+  "imagesLength": 27,
+  "local_id": 810
+}

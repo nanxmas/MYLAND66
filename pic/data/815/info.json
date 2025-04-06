@@ -1,0 +1,133 @@
+{
+  "id": 386809,
+  "cn": "我推的孩子",
+  "title": "【推しの子】",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/815/images/386809.jpg",
+  "color": "#f224b7",
+  "geo": [
+    34.632522173685345,
+    136.3812127665202
+  ],
+  "zoom": 5.359,
+  "modified": 1743444347987,
+  "litePoints": [
+    {
+      "id": "mohw7a636",
+      "cn": "日本武道馆",
+      "name": "日本武道馆",
+      "image": "https://image.anitabi.cn/user/0/bangumi/386809/points/mohw7a636-1722127410165.jpg?plan=h160",
+      "ep": 1,
+      "s": 1,
+      "geo": [
+        35.6927,
+        139.7496
+      ]
+    },
+    {
+      "id": "moiwl2x5z",
+      "cn": "鬼八塚（手足塚）观景台",
+      "name": " 鬼八塚（手足塚）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/386809/points/moiwl2x5z-1722129616038.jpg?plan=h160",
+      "ep": 1,
+      "s": 73,
+      "geo": [
+        32.7116,
+        131.3033
+      ]
+    },
+    {
+      "id": "moj5l19l3",
+      "cn": "高千穂町国民健康保险病院",
+      "name": "高千穂町​国保​病院",
+      "image": "https://image.anitabi.cn/user/0/bangumi/386809/points/moj5l19l3-1722130136829.jpg?plan=h160",
+      "ep": 1,
+      "s": 272,
+      "geo": [
+        32.7164,
+        131.3145
+      ]
+    },
+    {
+      "id": "o6mpn5jrk",
+      "name": "ファミリーマート 渋谷公園通り店前",
+      "image": "https://image.anitabi.cn/user/0/bangumi/386809/points/o6mpn5jrk-1726369513362.jpg?plan=h160",
+      "ep": 1,
+      "s": 3713,
+      "geo": [
+        35.6629,
+        139.6992
+      ]
+    },
+    {
+      "id": "o6lwiva3n",
+      "name": "東京ドーム",
+      "image": "https://image.anitabi.cn/user/0/bangumi/386809/points/o6lwiva3n-1726367752146.jpg?plan=h160",
+      "ep": 1,
+      "s": 3752,
+      "geo": [
+        35.7056,
+        139.7518
+      ]
+    },
+    {
+      "id": "o6mng2cgx",
+      "name": "道玄坂下交差点",
+      "image": "https://image.anitabi.cn/user/0/bangumi/386809/points/o6mng2cgx-1726369375609.jpg?plan=h160",
+      "ep": 1,
+      "s": 4394,
+      "geo": [
+        35.6595,
+        139.6994
+      ]
+    },
+    {
+      "id": "o6lkl2qum",
+      "name": "アトレ秋葉原1",
+      "image": "https://image.anitabi.cn/user/0/bangumi/386809/points/o6lkl2qum-1726367202536.jpg?plan=h160",
+      "ep": 1,
+      "s": 4407,
+      "geo": [
+        35.6981,
+        139.7722
+      ]
+    },
+    {
+      "id": "o6lpwx3ky",
+      "name": "JR秋葉原駅電気街口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/386809/points/o6lpwx3ky-1726367378000.jpg?plan=h160",
+      "ep": 1,
+      "s": 4411,
+      "geo": [
+        35.6982,
+        139.7725
+      ]
+    },
+    {
+      "id": "jrytz6om3",
+      "cn": "惠比寿花园广场",
+      "name": "恵比寿MFビル",
+      "image": "https://image.anitabi.cn/user/1074/bangumi/386809/points/jrytz6om3-1713936077959.jpg?plan=h160",
+      "ep": 2,
+      "s": 33,
+      "geo": [
+        35.6458,
+        139.7122
+      ]
+    },
+    {
+      "id": "o6n4bkjmf",
+      "name": "新目黒東急ビル前",
+      "image": "https://image.anitabi.cn/user/0/bangumi/386809/points/o6n4bkjmf-1726370404420.jpg?plan=h160",
+      "ep": 2,
+      "s": 159,
+      "geo": [
+        35.6347,
+        139.7142
+      ]
+    }
+  ],
+  "pointsLength": 43,
+  "imagesLength": 43,
+  "local_id": 815
+}

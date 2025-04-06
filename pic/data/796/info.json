@@ -1,0 +1,135 @@
+{
+  "id": 364252,
+  "cn": "极速车魂",
+  "title": "MFゴースト",
+  "city": "神奈川县",
+  "cover": "https://image.xinu.ink/pic/data/796/images/364252.jpg",
+  "color": "#53747f",
+  "geo": [
+    35.32108379431409,
+    139.4791330555945
+  ],
+  "zoom": 10.805,
+  "modified": 1724483684982,
+  "litePoints": [
+    {
+      "id": "jsf4ib19d",
+      "cn": "江之岛​大桥",
+      "name": "江ノ島\n大橋",
+      "image": "https://image.anitabi.cn/user/1074/bangumi/364252/points/jsf4ib19d-1713971553048.jpg?plan=h160",
+      "ep": 1,
+      "s": 496,
+      "geo": [
+        35.3035,
+        139.4819
+      ]
+    },
+    {
+      "id": "jsfa0eqak",
+      "cn": "Anest岩田SkyLounge",
+      "name": "アネスト​岩田​スカイ​ラウンジ",
+      "image": "https://image.anitabi.cn/user/1074/bangumi/364252/points/jsfa0eqak-1713971811966.jpg?plan=h160",
+      "ep": 1,
+      "s": 2,
+      "geo": [
+        35.1837,
+        139.0496
+      ]
+    },
+    {
+      "id": "l4oa73nxr",
+      "cn": "片濑桥",
+      "name": "片瀬橋",
+      "image": "https://image.anitabi.cn/points/364252/l4oa73nxr_1717752874280.jpg?plan=h160",
+      "ep": 10,
+      "s": 1008,
+      "geo": [
+        35.3073,
+        139.4841
+      ]
+    },
+    {
+      "id": "l4odrdcka",
+      "cn": "片濑桥东",
+      "name": "片瀬橋东",
+      "image": "https://image.anitabi.cn/points/364252/l4odrdcka_1717753089972.jpg?plan=h160",
+      "ep": 10,
+      "s": 1017,
+      "geo": [
+        35.3073,
+        139.485
+      ]
+    },
+    {
+      "id": "l4ofivypg",
+      "cn": "江之岛​大桥北",
+      "name": "江ノ島大橋北",
+      "image": "https://image.anitabi.cn/points/364252/l4ofivypg_1717753190183.jpg?plan=h160",
+      "ep": 10,
+      "s": 944,
+      "geo": [
+        35.3051,
+        139.4817
+      ]
+    },
+    {
+      "id": "l4ojmycoz",
+      "name": "極楽寺駅",
+      "image": "https://image.anitabi.cn/points/364252/l4ojmycoz_1717753433112.jpg?plan=h160",
+      "ep": 10,
+      "s": 1220,
+      "geo": [
+        35.3091,
+        139.5288
+      ]
+    },
+    {
+      "id": "l4omtpoph",
+      "name": "樱桥",
+      "image": "https://image.anitabi.cn/points/364252/l4omtpoph_1717753631144.jpg?plan=h160",
+      "ep": 10,
+      "s": 1136,
+      "geo": [
+        35.3098,
+        139.5295
+      ]
+    },
+    {
+      "id": "l4okjyrrt",
+      "cn": "极乐寺",
+      "name": "極楽寺",
+      "image": "https://image.anitabi.cn/points/364252/l4okjyrrt_1717753491178.jpg?plan=h160",
+      "ep": 10,
+      "s": 1188,
+      "geo": [
+        35.3097,
+        139.5292
+      ]
+    },
+    {
+      "id": "l4ovzmchc",
+      "name": "第二鸟居旁 小町通 路口",
+      "image": "https://image.anitabi.cn/points/364252/l4ovzmchc_1717754206357.jpg?plan=h160",
+      "ep": 10,
+      "s": 889,
+      "geo": [
+        35.32,
+        139.5516
+      ]
+    },
+    {
+      "id": "l4oyp9jhb",
+      "name": "鎌倉いとこ 小町通り店",
+      "image": "https://image.anitabi.cn/points/364252/l4oyp9jhb_1717754442599.jpg?plan=h160",
+      "ep": 10,
+      "s": 916,
+      "geo": [
+        35.3208,
+        139.552
+      ]
+    }
+  ],
+  "pointsLength": 34,
+  "imagesLength": 34,
+  "local_id": 796
+}

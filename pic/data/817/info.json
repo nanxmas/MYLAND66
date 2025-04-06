@@ -1,0 +1,136 @@
+{
+  "id": 390794,
+  "cn": "黑暗集会",
+  "title": "ダークギャザリング",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/817/images/390794.jpg",
+  "color": "#bf00c2",
+  "geo": [
+    35.48640782552462,
+    137.81073859975595
+  ],
+  "zoom": 6.572,
+  "modified": 1743326191720,
+  "litePoints": [
+    {
+      "id": "lsw26pd7w",
+      "name": "江戸向き地蔵",
+      "image": "https://image.anitabi.cn/points/390794/lsw26pd7w_1719650552071.jpg?plan=h160",
+      "ep": 1,
+      "s": 11,
+      "geo": [
+        35.7179,
+        139.5937
+      ]
+    },
+    {
+      "id": "lrmuuc1w1",
+      "cn": "庆应义塾大学 日吉校区",
+      "name": "慶應義塾大学 日吉キャンパス",
+      "image": "https://image.anitabi.cn/points/390794/lrmuuc1w1_1719567870365.jpg?plan=h160",
+      "ep": 1,
+      "s": 146,
+      "geo": [
+        35.5532,
+        139.6472
+      ]
+    },
+    {
+      "id": "lrmypo72t",
+      "cn": "庆应义塾大学 日吉纪念馆内",
+      "name": "慶應義塾大学 日吉記念館内",
+      "image": "https://image.anitabi.cn/points/390794/lrmypo72t_1719567875795.jpg?plan=h160",
+      "ep": 1,
+      "s": 152,
+      "geo": [
+        35.5523,
+        139.6511
+      ]
+    },
+    {
+      "id": "lru3ckq09",
+      "cn": "庆应义塾大学 日吉纪念馆前",
+      "name": "慶應義塾大学 日吉記念館前",
+      "image": "https://image.anitabi.cn/points/390794/lru3ckq09_1719567900991.jpg?plan=h160",
+      "ep": 1,
+      "s": 202,
+      "geo": [
+        35.5526,
+        139.6498
+      ]
+    },
+    {
+      "id": "lsw4o1dw1",
+      "name": "個別教室のトライ 飯田橋本校",
+      "image": "https://image.anitabi.cn/points/390794/lsw4o1dw1_1719650992033.jpg?plan=h160",
+      "ep": 1,
+      "s": 285,
+      "geo": [
+        35.6992,
+        139.7477
+      ]
+    },
+    {
+      "id": "lrn1is0bw",
+      "name": "杉浦眼科 豊春分院",
+      "image": "https://image.anitabi.cn/points/390794/lrn1is0bw_1719573249003.jpg?plan=h160",
+      "ep": 1,
+      "s": 837,
+      "geo": [
+        35.9673,
+        139.7261
+      ]
+    },
+    {
+      "id": "b38kacaea",
+      "cn": "東京都立八王子灵园",
+      "name": "東京都立八王子霊園",
+      "image": "https://image.anitabi.cn/points/390794/b38kacaea_1719573291856.jpg?plan=h160",
+      "ep": 1,
+      "s": 658,
+      "geo": [
+        35.6605,
+        139.2685
+      ]
+    },
+    {
+      "id": "lrwlfgzac",
+      "cn": "東京都立八王子灵园东门前电话亭",
+      "name": "東京都立八王子霊園東門前の電話ボックス",
+      "image": "https://image.anitabi.cn/points/390794/lrwlfgzac_1719573452744.jpg?plan=h160",
+      "ep": 1,
+      "s": 684,
+      "geo": [
+        35.6604,
+        139.2686
+      ]
+    },
+    {
+      "id": "lswbas69p",
+      "cn": "东名高速公路",
+      "name": "東名高速道路",
+      "image": "https://image.anitabi.cn/points/390794/lswbas69p_1719651128297.jpg?plan=h160",
+      "ep": 2,
+      "s": 341,
+      "geo": [
+        35.6273,
+        139.6244
+      ]
+    },
+    {
+      "id": "lswd0lc6q",
+      "cn": "东名高速公路 御殿场JCT附近",
+      "name": "東名高速道路 御殿場JCT付近",
+      "image": "https://image.anitabi.cn/points/390794/lswd0lc6q_1719651228089.jpg?plan=h160",
+      "ep": 2,
+      "s": 345,
+      "geo": [
+        35.2711,
+        138.9163
+      ]
+    }
+  ],
+  "pointsLength": 126,
+  "imagesLength": 126,
+  "local_id": 817
+}

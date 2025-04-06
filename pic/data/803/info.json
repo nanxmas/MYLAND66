@@ -1,0 +1,32 @@
+{
+  "id": 368116,
+  "cn": "尼尔：自动人形 Ver1.1a",
+  "title": "NieR: Automata Ver1.1a",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/803/images/368116.jpg",
+  "color": "#8087c2",
+  "cp": "人類会議",
+  "geo": [
+    35.63461283802501,
+    139.69487554101192
+  ],
+  "zoom": 8.8,
+  "modified": 1717751817752,
+  "litePoints": [
+    {
+      "id": "5g7zwd9va",
+      "cn": "东京都厅",
+      "name": "東京​都庁​第一​庁舎",
+      "image": "https://image.anitabi.cn/user/0/bangumi/368116/points/5g7zwd9va-1673520047209.jpg?plan=h160",
+      "ep": 1,
+      "s": 270,
+      "geo": [
+        35.6894,
+        139.6917
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 803
+}
