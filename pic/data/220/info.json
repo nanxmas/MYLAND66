@@ -1,0 +1,69 @@
+{
+  "id": 24790,
+  "cn": "男子高中生的日常",
+  "title": "男子高校生の日常",
+  "cover": "https://image.xinu.ink/pic/data/220/images/24790.jpg",
+  "color": "#95d480",
+  "cp": "男子高校生の日常",
+  "geo": [
+    35.725089,
+    139.603593
+  ],
+  "modified": 1720196748759,
+  "litePoints": [
+    {
+      "id": "lzqvbin0h",
+      "cn": "今日的风儿甚是喧嚣",
+      "name": "国府台线内田ビル前草坪",
+      "image": "https://image.anitabi.cn/user/0/bangumi/24790/points/lzqvbin0h-1720187938021.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7362,
+        139.9013
+      ]
+    },
+    {
+      "id": "kpx6olimf",
+      "name": "上井草駅前",
+      "geo": [
+        35.7252,
+        139.6038
+      ]
+    },
+    {
+      "id": "kpx6oljju",
+      "name": "レストランAOYAGI",
+      "geo": [
+        35.7246,
+        139.604
+      ]
+    },
+    {
+      "id": "kpx6oljsl",
+      "name": "四宮公園前交差点",
+      "geo": [
+        35.7229,
+        139.6067
+      ]
+    },
+    {
+      "id": "kpx6oljr4",
+      "name": "ゆたか湯",
+      "geo": [
+        35.7265,
+        139.6042
+      ]
+    },
+    {
+      "id": "kpx6oljho",
+      "name": "原作一巻の表紙撮影場所",
+      "geo": [
+        35.7382,
+        139.9021
+      ]
+    }
+  ],
+  "pointsLength": 8,
+  "imagesLength": 1,
+  "local_id": 220
+}

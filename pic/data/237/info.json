@@ -1,0 +1,109 @@
+{
+  "id": 30619,
+  "cn": "孤独的美食家",
+  "title": "孤独のグルメ",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/237/images/30619.jpg",
+  "color": "#715539",
+  "geo": [
+    35.67109000000001,
+    139.79631399999994
+  ],
+  "zoom": 16,
+  "modified": 1727423592785,
+  "litePoints": [
+    {
+      "id": "8c30280a",
+      "name": "やきとり庄助",
+      "image": "https://image.anitabi.cn/points/30619/8c30280a_1727393336364.jpg?plan=h160",
+      "geo": [
+        35.671,
+        139.7963
+      ]
+    },
+    {
+      "id": "22b84f15",
+      "name": "和食亭",
+      "image": "https://image.anitabi.cn/points/30619/22b84f15_1727394730492.jpg?plan=h160",
+      "geo": [
+        35.7373,
+        139.7504
+      ]
+    },
+    {
+      "id": "56f9ebea",
+      "name": "中国家庭料理 楊",
+      "image": "https://image.anitabi.cn/points/30619/56f9ebea_1727394749150.jpg?plan=h160",
+      "geo": [
+        35.73,
+        139.7072
+      ]
+    },
+    {
+      "id": "d369bbf6",
+      "name": "ロコディッシュ",
+      "image": "https://image.anitabi.cn/points/30619/d369bbf6_1727394775542.jpg?plan=h160",
+      "geo": [
+        35.6396,
+        139.9293
+      ]
+    },
+    {
+      "id": "96819b58",
+      "name": "つり堀 武蔵野園",
+      "image": "https://image.anitabi.cn/points/30619/96819b58_1727394796361.jpg?plan=h160",
+      "geo": [
+        35.6858,
+        139.6396
+      ]
+    },
+    {
+      "id": "59c1544e",
+      "name": "みやこや",
+      "image": "https://image.anitabi.cn/points/30619/59c1544e_1727394816639.jpg?plan=h160",
+      "geo": [
+        35.7236,
+        139.6387
+      ]
+    },
+    {
+      "id": "df391e80",
+      "name": "カヤシマ",
+      "image": "https://image.anitabi.cn/points/30619/df391e80_1727394833983.jpg?plan=h160",
+      "geo": [
+        35.706,
+        139.5789
+      ]
+    },
+    {
+      "id": "7ed81304",
+      "name": "焼肉ジンギスカン つるや",
+      "image": "https://image.anitabi.cn/points/30619/7ed81304_1727394857097.jpg?plan=h160",
+      "geo": [
+        35.5249,
+        139.6946
+      ]
+    },
+    {
+      "id": "84452bd0",
+      "name": "ヒロキ 下北沢店 （HIROKI）",
+      "image": "https://image.anitabi.cn/points/30619/84452bd0_1727394876327.jpg?plan=h160",
+      "geo": [
+        35.6601,
+        139.6678
+      ]
+    },
+    {
+      "id": "4a981379",
+      "name": "せきざわ食堂",
+      "image": "https://image.anitabi.cn/points/30619/4a981379_1727394897609.jpg?plan=h160",
+      "geo": [
+        35.731,
+        139.6846
+      ]
+    }
+  ],
+  "pointsLength": 12,
+  "imagesLength": 12,
+  "local_id": 237
+}

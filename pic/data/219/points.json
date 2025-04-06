@@ -1,0 +1,70 @@
+[
+  {
+    "id": "kpx6ol0t4",
+    "name": "札幌市時計台",
+    "image": "https://image.xinu.ink/pic/data/219/images/kpx6ol0t4-1737034936282.jpg",
+    "ep": 12,
+    "s": 252,
+    "geo": [
+      43.0623,
+      141.3533
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10YXMEXvr0ejGzSOcs4iftgU_CbI&ll=43.062398%2C141.353391&z=17"
+  },
+  {
+    "id": "kpx6okwtc",
+    "name": "アニメイト札幌店前",
+    "image": "https://image.xinu.ink/pic/data/219/images/kpx6okwtc_1737726089466.jpg",
+    "geo": [
+      43.0587,
+      141.3557
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10YXMEXvr0ejGzSOcs4iftgU_CbI&ll=43.058761%2C141.355714&z=17"
+  },
+  {
+    "id": "kpx6ol0lb",
+    "name": "スカイタワー西東京（田無タワー）",
+    "image": "https://image.xinu.ink/pic/data/219/images/kpx6ol0lb_1737726137770.jpg",
+    "geo": [
+      35.735,
+      139.523
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10YXMEXvr0ejGzSOcs4iftgU_CbI&ll=35.735087%2C139.523079&z=17"
+  },
+  {
+    "id": "kpx6ol1a1",
+    "name": "国分寺駅南口",
+    "image": "https://image.xinu.ink/pic/data/219/images/kpx6ol1a1_1737726173298.jpg",
+    "geo": [
+      35.6991,
+      139.4807
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10YXMEXvr0ejGzSOcs4iftgU_CbI&ll=35.699166%2C139.480711&z=17"
+  },
+  {
+    "id": "kpx6ol1c6",
+    "name": "池袋駅東口34番出口付近",
+    "image": "https://image.xinu.ink/pic/data/219/images/kpx6ol1c6_1737726127274.jpg",
+    "geo": [
+      35.7302,
+      139.7129
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10YXMEXvr0ejGzSOcs4iftgU_CbI&ll=35.730208%2C139.712923&z=17"
+  },
+  {
+    "id": "kpx6ol194",
+    "name": "北3条通り西2交差点",
+    "image": "https://image.xinu.ink/pic/data/219/images/kpx6ol194_1737726254354.jpg",
+    "geo": [
+      43.0646,
+      141.3529
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10YXMEXvr0ejGzSOcs4iftgU_CbI&ll=43.064608%2C141.352909&z=17"
+  }
+]

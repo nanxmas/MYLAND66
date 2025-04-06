@@ -1,0 +1,78 @@
+[
+  {
+    "id": "jp05zs24w",
+    "cn": "登别熊牧场",
+    "name": "のぼり​べつ​クマ​牧場",
+    "image": "https://image.xinu.ink/pic/data/221/images/jp05zs24w-1713703884034.jpg",
+    "ep": 97,
+    "s": 731,
+    "geo": [
+      42.4893,
+      141.1589
+    ]
+  },
+  {
+    "id": "jp084786l",
+    "cn": "五棱郭塔",
+    "name": "五稜郭タワー",
+    "image": "https://image.xinu.ink/pic/data/221/images/jp084786l-1713703936265.jpg",
+    "ep": 356,
+    "s": 337,
+    "geo": [
+      41.7945,
+      140.7539
+    ]
+  },
+  {
+    "id": "jp0k8sega",
+    "cn": "八幡坂",
+    "name": "八幡坂通",
+    "image": "https://image.xinu.ink/pic/data/221/images/jp0k8sega-1713704685720.jpg",
+    "ep": 5,
+    "s": 1281,
+    "geo": [
+      41.7647,
+      140.7127
+    ]
+  },
+  {
+    "id": "nxap3l932",
+    "name": "イトーヨーカドー春日部店",
+    "image": "https://image.xinu.ink/pic/data/221/images/nxap3l932-1725638328347.jpg",
+    "ep": 17,
+    "s": 372,
+    "geo": [
+      35.9795,
+      139.75
+    ],
+    "origin": "聖地巡礼｜あのアニメの、あの場所へ。",
+    "originLink": "https://seichi-junrei.info/1657/"
+  },
+  {
+    "id": "nx9hqria9",
+    "cn": "春日部站",
+    "name": "春日部駅",
+    "image": "https://image.xinu.ink/pic/data/221/images/nx9hqria9-1725635579845.jpg",
+    "ep": "",
+    "s": null,
+    "geo": [
+      35.9804,
+      139.7526
+    ],
+    "origin": "聖地巡礼｜あのアニメの、あの場所へ。",
+    "originLink": "https://seichi-junrei.info/1657/"
+  },
+  {
+    "id": "nxazuqxd4",
+    "name": "春日部市役所",
+    "image": "https://image.xinu.ink/pic/data/221/images/nxazuqxd4-1725638752369.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      35.9742,
+      139.7559
+    ],
+    "origin": "聖地巡礼｜あのアニメの、あの場所へ。",
+    "originLink": "https://seichi-junrei.info/1657/"
+  }
+]

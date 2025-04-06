@@ -1,0 +1,133 @@
+{
+  "id": 27364,
+  "cn": "冰菓",
+  "title": "氷菓",
+  "city": "高山市",
+  "cover": "https://image.xinu.ink/pic/data/230/images/27364.jpg",
+  "color": "#c6c68e",
+  "cp": "神山高校古典部OB会",
+  "geo": [
+    35.44395243868563,
+    138.18361632525045
+  ],
+  "zoom": 7.067,
+  "modified": 1741883320892,
+  "litePoints": [
+    {
+      "id": "ozj2lf20v",
+      "cn": "神山高中入学道（冰菓封面）",
+      "name": "神山高中入学道（冰菓封面）",
+      "image": "https://image.anitabi.cn/user/2111/bangumi/27364/points/ozj2lf20v-1728634181606.jpg?plan=h160",
+      "ep": 1,
+      "s": 1,
+      "geo": [
+        36.1567,
+        137.2579
+      ]
+    },
+    {
+      "id": "ozj8t9728",
+      "cn": "上学道",
+      "name": "上学道",
+      "image": "https://image.anitabi.cn/user/2111/bangumi/27364/points/ozj8t9728-1728634530993.jpg?plan=h160",
+      "ep": 1,
+      "s": 3,
+      "geo": [
+        36.1566,
+        137.2581
+      ]
+    },
+    {
+      "id": "ozj544w68",
+      "cn": "神山高中校门",
+      "name": "神山高中校门",
+      "image": "https://image.anitabi.cn/user/2111/bangumi/27364/points/ozj544w68-1728634376168.jpg?plan=h160",
+      "ep": 1,
+      "s": 5,
+      "geo": [
+        36.1568,
+        137.2574
+      ]
+    },
+    {
+      "id": "7ek5c0v9",
+      "name": "神山高校",
+      "image": "https://image.anitabi.cn/points/27364/7ek5c0v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 14,
+      "geo": [
+        36.1563,
+        137.2579
+      ]
+    },
+    {
+      "id": "7ek5c0rz",
+      "name": "OP1 场景（本町4商店街駐車場）",
+      "image": "https://image.anitabi.cn/user/1079/bangumi/27364/points/7ek5c0rz-1714998249396.jpg?plan=h160",
+      "ep": 1,
+      "s": 281,
+      "geo": [
+        36.1454,
+        137.2568
+      ]
+    },
+    {
+      "id": "rno7fzcnt",
+      "name": "猫鱼雕像",
+      "image": "https://image.anitabi.cn/user/1028/bangumi/27364/points/rno7fzcnt-1736168349049.jpg?plan=h160",
+      "ep": 1,
+      "s": 284,
+      "geo": [
+        36.1411,
+        137.2582
+      ]
+    },
+    {
+      "id": "7ek5c0tg",
+      "name": "鍛冶橋交差点",
+      "image": "https://image.anitabi.cn/user/0/bangumi/27364/points/2.jpg?plan=h160",
+      "ep": 1,
+      "s": 1522,
+      "geo": [
+        36.1429,
+        137.2575
+      ]
+    },
+    {
+      "id": "7emmn40i",
+      "name": "神山神社石狮",
+      "image": "https://image.anitabi.cn/points/27364/7emmn40i.jpg?plan=h160",
+      "ep": 2,
+      "s": 2,
+      "geo": [
+        36.1379,
+        137.256
+      ]
+    },
+    {
+      "id": "7elx06z2",
+      "name": "神山神社旁小路旗帜",
+      "image": "https://image.anitabi.cn/points/27364/7elx06z2.jpg?plan=h160",
+      "ep": 2,
+      "s": 3,
+      "geo": [
+        36.1379,
+        137.256
+      ]
+    },
+    {
+      "id": "7ek5c072",
+      "name": "神山神社（折木家对面）",
+      "image": "https://image.anitabi.cn/points/27364/7ek5c072.jpg?plan=h160",
+      "ep": 2,
+      "s": 5,
+      "geo": [
+        36.1379,
+        137.256
+      ]
+    }
+  ],
+  "pointsLength": 62,
+  "imagesLength": 56,
+  "local_id": 230
+}

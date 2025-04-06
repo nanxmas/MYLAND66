@@ -1,0 +1,573 @@
+[
+  {
+    "id": "97zexsr9u",
+    "name": "西武池袋線 東飯能2号踏切",
+    "image": "https://image.xinu.ink/pic/data/260/images/97zexsr9u_1719899389490.jpg",
+    "ep": 1,
+    "s": 168,
+    "geo": [
+      35.8555,
+      139.3244
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jmYi0oqnYpiKhQDGFmnkp5PNg7o&ll=35.855577%2C139.324451&z=17"
+  },
+  {
+    "id": "9j2pz3kvp",
+    "name": "中央公園西側 箕ノ口公園",
+    "image": "https://image.xinu.ink/pic/data/260/images/9j2pz3kvp_1719899382305.jpg",
+    "ep": 1,
+    "s": 174,
+    "geo": [
+      35.8589,
+      139.3092
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jmYi0oqnYpiKhQDGFmnkp5PNg7o&ll=35.858961%2C139.309291&z=17"
+  },
+  {
+    "id": "lw2zyimbg",
+    "name": "飯能銀座商店街",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw2zyimbg-1720363563590.jpg",
+    "ep": 5,
+    "s": 173,
+    "geo": [
+      35.8536,
+      139.3174
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw2wesiqz",
+    "cn": "儿童图书馆",
+    "name": "こども図書館",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw2wesiqz_1719900516559.jpg",
+    "ep": 2,
+    "s": 29,
+    "geo": [
+      35.8539,
+      139.3114
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9j2pz3kq6",
+    "name": "中央公園の遊具",
+    "image": "https://image.xinu.ink/pic/data/260/images/9j2pz3kq6_1719900197720.jpg",
+    "ep": 2,
+    "s": 378,
+    "geo": [
+      35.8591,
+      139.3115
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jmYi0oqnYpiKhQDGFmnkp5PNg7o&ll=35.859159%2C139.311527&z=17"
+  },
+  {
+    "id": "9804j1vg4",
+    "name": "能仁寺",
+    "image": "https://image.xinu.ink/pic/data/260/images/9804j1vg4_1719899247342.jpg",
+    "ep": 3,
+    "s": 55,
+    "geo": [
+      35.8593,
+      139.3103
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jmYi0oqnYpiKhQDGFmnkp5PNg7o&ll=35.859327%2C139.310347&z=17"
+  },
+  {
+    "id": "9804j1wet",
+    "name": "天覧山入口",
+    "image": "https://image.xinu.ink/pic/data/260/images/9804j1wet-1684161966300.jpg",
+    "ep": 3,
+    "s": 60,
+    "geo": [
+      35.8599,
+      139.3113
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jmYi0oqnYpiKhQDGFmnkp5PNg7o&ll=35.859969%2C139.311379&z=17"
+  },
+  {
+    "id": "9804j1vvd",
+    "name": "天覧山標識",
+    "image": "https://image.xinu.ink/pic/data/260/images/9804j1vvd_1719899366575.jpg",
+    "ep": 3,
+    "s": 75,
+    "geo": [
+      35.8593,
+      139.3113
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jmYi0oqnYpiKhQDGFmnkp5PNg7o&ll=35.859374%2C139.311302&z=17"
+  },
+  {
+    "id": "9804j1w1p",
+    "name": "天覧山登山道",
+    "image": "https://image.xinu.ink/pic/data/260/images/9804j1w1p-1684162551441.jpg",
+    "ep": 3,
+    "s": 77,
+    "geo": [
+      35.8609,
+      139.3114
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jmYi0oqnYpiKhQDGFmnkp5PNg7o&ll=35.860939%2C139.311453&z=17"
+  },
+  {
+    "id": "9804j1vrb",
+    "name": "登山道",
+    "image": "https://image.xinu.ink/pic/data/260/images/9804j1vrb-1684162730138.jpg",
+    "ep": 3,
+    "s": 98,
+    "geo": [
+      35.8621,
+      139.3091
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jmYi0oqnYpiKhQDGFmnkp5PNg7o&ll=35.8621%2C139.309143&z=17"
+  },
+  {
+    "id": "9804j1wcb",
+    "name": "天覧山山頂付近",
+    "image": "https://image.xinu.ink/pic/data/260/images/9804j1wcb_1719900018838.jpg",
+    "ep": 3,
+    "s": 121,
+    "geo": [
+      35.8619,
+      139.3085
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jmYi0oqnYpiKhQDGFmnkp5PNg7o&ll=35.861987%2C139.308545&z=17"
+  },
+  {
+    "id": "9804j1vpi",
+    "name": "天覧山山頂",
+    "image": "https://image.xinu.ink/pic/data/260/images/9804j1vpi_1719900041992.jpg",
+    "ep": 3,
+    "s": 128,
+    "geo": [
+      35.862,
+      139.3084
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jmYi0oqnYpiKhQDGFmnkp5PNg7o&ll=35.862066%2C139.308402&z=17"
+  },
+  {
+    "id": "lw3lizgyq",
+    "name": "天覧山山頂展望台",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw3lizgyq_1719902072166.jpg",
+    "ep": 3,
+    "s": 133,
+    "geo": [
+      35.8619,
+      139.3084
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9j2pz3lgz",
+    "name": "夢彩菓すずき",
+    "image": "https://image.xinu.ink/pic/data/260/images/9j2pz3lgz-1712513197854.jpg",
+    "ep": 3,
+    "s": 389,
+    "geo": [
+      35.8536,
+      139.3175
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14J7VV8phCxz1pUi93cr8wR59-Go&ll=35.853674%2C139.317514&z=17"
+  },
+  {
+    "id": "lw36zryig",
+    "name": "観音寺",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw36zryig_1719901158613.jpg",
+    "ep": 4,
+    "s": 1,
+    "geo": [
+      35.856,
+      139.3129
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw34zta5e",
+    "name": "八百梅",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw34zta5e_1719901041446.jpg",
+    "ep": 5,
+    "s": 2,
+    "geo": [
+      35.8538,
+      139.3171
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw3iiskvo",
+    "name": "割岩橋",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw3iiskvo_1719901873190.jpg",
+    "ep": 7,
+    "s": 153,
+    "geo": [
+      35.854,
+      139.3108
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw3dif2wo",
+    "name": "飯能河原",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw3dif2wo_1719901558050.jpg",
+    "ep": 7,
+    "s": 174,
+    "geo": [
+      35.8548,
+      139.3112
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw1umfey5",
+    "name": "高尾山口駅ホーム",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw1umfey5_1719898265153.jpg",
+    "ep": 8,
+    "s": 13,
+    "geo": [
+      35.633,
+      139.2702
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw1xg95lo",
+    "name": "高尾山口駅",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw1xg95lo_1719898402087.jpg",
+    "ep": 8,
+    "s": 15,
+    "geo": [
+      35.6327,
+      139.2701
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw1ytpmpo",
+    "name": "高尾山口駅前",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw1ytpmpo_1719898493233.jpg",
+    "ep": 8,
+    "s": 18,
+    "geo": [
+      35.6326,
+      139.2701
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw227lr5c",
+    "name": "セブン​イレブン京王​高尾​楓​kaede​店付近",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw227lr5c_1719898695468.jpg",
+    "ep": 8,
+    "s": 21,
+    "geo": [
+      35.6319,
+      139.2696
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw247f8c8",
+    "name": "高尾登山鉄道清滝駅前",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw247f8c8_1719898835632.jpg",
+    "ep": 8,
+    "s": 32,
+    "geo": [
+      35.6312,
+      139.2671
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw3zuiomn",
+    "name": "高尾山1号路",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw3zuiomn_1719902908116.jpg",
+    "ep": 8,
+    "s": 50,
+    "geo": [
+      35.6341,
+      139.2612
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw44fxzxx",
+    "name": "高尾山駅",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw44fxzxx_1719903188926.jpg",
+    "ep": 8,
+    "s": 90,
+    "geo": [
+      35.6312,
+      139.2565
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw46ifj14",
+    "name": "高尾山駅 椅子",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw46ifj14_1719903309751.jpg",
+    "ep": 8,
+    "s": 94,
+    "geo": [
+      35.6309,
+      139.2564
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw4ek9udo",
+    "name": "十一丁目茶屋",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw4ek9udo_1719903790634.jpg",
+    "ep": 8,
+    "s": 119,
+    "geo": [
+      35.6302,
+      139.2554
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw4gj53xc",
+    "name": "たこ杉 (蛸杉)",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw4gj53xc_1719903923705.jpg",
+    "ep": 8,
+    "s": 146,
+    "geo": [
+      35.63,
+      139.2543
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw4i0wwxi",
+    "name": "腰掛杉",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw4i0wwxi_1719904002334.jpg",
+    "ep": 8,
+    "s": 163,
+    "geo": [
+      35.6299,
+      139.253
+    ],
+    "originLink": "自己找的咪"
+  },
+  {
+    "id": "lw4irx6o3",
+    "name": "男坂",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw4irx6o3_1719904055654.jpg",
+    "ep": 8,
+    "s": 167,
+    "geo": [
+      35.629,
+      139.2518
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw4l3i48h",
+    "name": "薬王院大門",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw4l3i48h_1719904190541.jpg",
+    "ep": 9,
+    "s": 1,
+    "geo": [
+      35.626,
+      139.2509
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw4peerlq",
+    "name": "薬王院 手水舎",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw4peerlq_1719904442164.jpg",
+    "ep": 9,
+    "s": 4,
+    "geo": [
+      35.6259,
+      139.2508
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw4p6s33p",
+    "name": "願叶輪潜",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw4p6s33p_1719904435016.jpg",
+    "ep": 9,
+    "s": 11,
+    "geo": [
+      35.6258,
+      139.2508
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw4sg1dz8",
+    "name": "愛染堂",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw4sg1dz8_1719904631042.jpg",
+    "ep": 9,
+    "s": 13,
+    "geo": [
+      35.6257,
+      139.2504
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw4u2c2pc",
+    "name": "大師堂",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw4u2c2pc_1719904726369.jpg",
+    "ep": 9,
+    "s": 15,
+    "geo": [
+      35.626,
+      139.2505
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw4wlx327",
+    "name": "薬王院",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw4wlx327_1719904885307.jpg",
+    "ep": 9,
+    "s": 17,
+    "geo": [
+      35.6256,
+      139.2501
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw4vtipah",
+    "name": "薬王院本堂",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw4vtipah_1719904835446.jpg",
+    "ep": 9,
+    "s": 19,
+    "geo": [
+      35.6257,
+      139.2502
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw5ilyg08",
+    "name": "高尾山山頂付近",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw5ilyg08_1719906235112.jpg",
+    "ep": 9,
+    "s": 20,
+    "geo": [
+      35.6249,
+      139.2434
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw6egqv4z",
+    "name": "曙亭",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw6egqv4z_1719908154578.jpg",
+    "ep": 9,
+    "s": 23,
+    "geo": [
+      35.6248,
+      139.2433
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw6fi4ymr",
+    "name": "高尾山 大見晴台",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw6fi4ymr_1719908215877.jpg",
+    "ep": 9,
+    "s": 25,
+    "geo": [
+      35.6246,
+      139.2432
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lw6g4fo2j",
+    "name": "高尾山 大見晴台付近",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw6g4fo2j_1719908234958.jpg",
+    "ep": 9,
+    "s": 38,
+    "geo": [
+      35.6247,
+      139.2427
+    ],
+    "origin": "Anitabi@椅子文化財団",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9j2pz3lan",
+    "name": "タイムズマート",
+    "image": "https://image.xinu.ink/pic/data/260/images/9j2pz3lan-1712555986721.jpg",
+    "ep": 12,
+    "s": 357,
+    "geo": [
+      35.8594,
+      139.3121
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14J7VV8phCxz1pUi93cr8wR59-Go&ll=35.859409%2C139.312147&z=17"
+  },
+  {
+    "id": "maxvcejwb",
+    "cn": "饭能站",
+    "name": " 飯能駅",
+    "image": "https://image.xinu.ink/pic/data/260/images/maxvcejwb-1721065126407.jpg",
+    "ep": 16,
+    "s": 173,
+    "geo": [
+      35.8507,
+      139.3205
+    ]
+  },
+  {
+    "id": "9804j1wbk",
+    "name": "聖望学園",
+    "image": "https://image.xinu.ink/pic/data/260/images/9804j1wbk-1684163443381.jpg",
+    "ep": 3,
+    "s": 0,
+    "geo": [
+      35.8593,
+      139.3238
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jmYi0oqnYpiKhQDGFmnkp5PNg7o&ll=35.859357%2C139.323847&z=17"
+  }
+]

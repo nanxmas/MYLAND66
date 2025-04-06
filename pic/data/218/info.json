@@ -1,0 +1,39 @@
+{
+  "id": 24165,
+  "title": "咲-Saki- 阿知賀編 episode of side-A",
+  "cover": "https://image.xinu.ink/pic/data/218/images/24165.jpg",
+  "color": "#474763",
+  "geo": [
+    34.61757912157806,
+    135.7082729368962
+  ],
+  "zoom": 8.211,
+  "modified": 1722512194179,
+  "litePoints": [
+    {
+      "id": "mcpmzga4h",
+      "cn": "吉野站前",
+      "name": "吉野駅前",
+      "image": "https://image.anitabi.cn/user/0/bangumi/24165/points/mcpmzga4h-1721203956863.jpg?plan=h160",
+      "ep": 2,
+      "s": 1222,
+      "geo": [
+        34.376,
+        135.8536
+      ]
+    },
+    {
+      "id": "mnwxm4iv6",
+      "cn": "千里山第一喷泉",
+      "name": "千里山第一噴水",
+      "image": "https://image.anitabi.cn/user/0/bangumi/24165/points/mnwxm4iv6-1722081826996.jpg?plan=h160",
+      "geo": [
+        34.7788,
+        135.504
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 218
+}

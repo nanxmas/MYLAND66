@@ -1,0 +1,116 @@
+{
+  "id": 23685,
+  "cn": "加速世界",
+  "title": "アクセル・ワールド",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/217/images/23685.jpg",
+  "color": "#2a5580",
+  "cp": "AW Project",
+  "geo": [
+    35.69958923581953,
+    139.6939511870562
+  ],
+  "zoom": 10.599,
+  "modified": 1726751892556,
+  "litePoints": [
+    {
+      "id": "4uicdoros",
+      "name": "3人での久しぶりの下校",
+      "image": "https://image.anitabi.cn/points/23685/4uicdoros.jpg?plan=h160",
+      "ep": 7,
+      "geo": [
+        35.6976,
+        139.6459
+      ]
+    },
+    {
+      "id": "4uicdorxk",
+      "name": "黒雪姫とニコと買い物",
+      "image": "https://image.anitabi.cn/points/23685/4uicdorxk.jpg?plan=h160",
+      "ep": 9,
+      "geo": [
+        35.4548,
+        139.6381
+      ]
+    },
+    {
+      "id": "4uicdorfv",
+      "name": "チェリーの監視",
+      "image": "https://image.anitabi.cn/points/23685/4uicdorfv.jpg?plan=h160",
+      "ep": 10,
+      "geo": [
+        35.7385,
+        139.6621
+      ]
+    },
+    {
+      "id": "4uicdorg2",
+      "name": "公園で話すチユリとタクム",
+      "image": "https://image.anitabi.cn/points/23685/4uicdorg2.jpg?plan=h160",
+      "ep": 13,
+      "geo": [
+        35.704,
+        139.6515
+      ]
+    },
+    {
+      "id": "4uicdorrm",
+      "name": "アッシュに会いに行くハルユキ",
+      "image": "https://image.anitabi.cn/points/23685/4uicdorrm.jpg?plan=h160",
+      "ep": 15,
+      "geo": [
+        35.6731,
+        139.6632
+      ]
+    },
+    {
+      "id": "4uicdorbr",
+      "name": "楓子と会うハルユキ",
+      "image": "https://image.anitabi.cn/points/23685/4uicdorbr.jpg?plan=h160",
+      "ep": 16,
+      "geo": [
+        35.6941,
+        139.7006
+      ]
+    },
+    {
+      "id": "4uicdorms",
+      "name": "沖縄修学旅行",
+      "image": "https://image.anitabi.cn/points/23685/4uicdorms.jpg?plan=h160",
+      "ep": 18,
+      "geo": [
+        26.2161,
+        127.6879
+      ]
+    },
+    {
+      "id": "4uicdoqzf",
+      "name": "歩道橋の上に立つハルユキ達",
+      "image": "https://image.anitabi.cn/points/23685/4uicdoqzf.jpg?plan=h160",
+      "geo": [
+        35.4537,
+        139.6407
+      ]
+    },
+    {
+      "id": "4uicdor5o",
+      "name": "ハルユキのマンション",
+      "geo": [
+        35.4534,
+        139.638
+      ]
+    },
+    {
+      "id": "4uicdor5p",
+      "name": "歩道橋を歩くハルユキとチユリ",
+      "ep": 1,
+      "geo": [
+        35.698,
+        139.6543
+      ]
+    }
+  ],
+  "pointsLength": 36,
+  "imagesLength": 12,
+  "local_id": 217
+}

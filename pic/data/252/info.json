@@ -1,0 +1,132 @@
+{
+  "id": 37898,
+  "cn": "我的妹妹哪有这么可爱。二期",
+  "title": "俺の妹がこんなに可愛いわけがない。",
+  "city": "千叶市",
+  "cover": "https://image.xinu.ink/pic/data/252/images/37898.jpg",
+  "color": "#e09900",
+  "cp": "OIP2",
+  "geo": [
+    35.61907503194783,
+    140.0943969901948
+  ],
+  "zoom": 12.073,
+  "modified": 1738898826362,
+  "litePoints": [
+    {
+      "id": "4uiqctg2b",
+      "name": "千葉ポートパーク",
+      "image": "https://image.anitabi.cn/points/37898/4uiqctg2b.jpg?plan=h160",
+      "ep": 1,
+      "s": 134,
+      "geo": [
+        35.5977,
+        140.0949
+      ]
+    },
+    {
+      "id": "4uiqctg4h",
+      "name": "千葉公園護国神社横",
+      "image": "https://image.anitabi.cn/points/37898/4uiqctg4h.jpg?plan=h160",
+      "ep": 1,
+      "s": 820,
+      "geo": [
+        35.6199,
+        140.1113
+      ]
+    },
+    {
+      "id": "4uiqctfqw",
+      "name": "千葉公園",
+      "image": "https://image.anitabi.cn/points/37898/4uiqctfqw.jpg?plan=h160",
+      "ep": 1,
+      "s": 96,
+      "geo": [
+        35.6181,
+        140.1181
+      ]
+    },
+    {
+      "id": "4uiqctg75",
+      "cn": "千叶公园（东侧）",
+      "name": "千葉公園",
+      "image": "https://image.anitabi.cn/points/37898/4uiqctg75.jpg?plan=h160",
+      "ep": 1,
+      "s": 145,
+      "geo": [
+        35.6187,
+        140.1178
+      ]
+    },
+    {
+      "id": "4uiqctgc1",
+      "cn": "千叶公园（西北侧）",
+      "name": "千葉公園",
+      "image": "https://image.anitabi.cn/points/37898/4uiqctgc1.jpg?plan=h160",
+      "ep": 1,
+      "s": 1309,
+      "geo": [
+        35.6187,
+        140.1168
+      ]
+    },
+    {
+      "id": "4uiqctgch",
+      "name": "幕張舟溜跡公園",
+      "image": "https://image.anitabi.cn/points/37898/4uiqctgch.jpg?plan=h160",
+      "ep": 2,
+      "s": 1,
+      "geo": [
+        35.6572,
+        140.0489
+      ]
+    },
+    {
+      "id": "4uiqctfna",
+      "name": "千葉公園護国神社入口",
+      "image": "https://image.anitabi.cn/points/37898/4uiqctfna.jpg?plan=h160",
+      "ep": 2,
+      "s": 1154,
+      "geo": [
+        35.6188,
+        140.1119
+      ]
+    },
+    {
+      "id": "4uiqctg54",
+      "name": "千葉駅前",
+      "image": "https://image.anitabi.cn/points/37898/4uiqctg54_1725165077660.jpg?plan=h160",
+      "ep": 5,
+      "s": 230,
+      "geo": [
+        35.6125,
+        140.1146
+      ]
+    },
+    {
+      "id": "nqrc6ufc2",
+      "name": "千葉ショッピングセンターC･one",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/5436/points/nqrc6ufc2-1725126794470.jpg?plan=h160",
+      "ep": 5,
+      "s": 538,
+      "geo": [
+        35.6112,
+        140.116
+      ]
+    },
+    {
+      "id": "4uiqctfqh",
+      "name": "千葉駅",
+      "image": "https://image.anitabi.cn/points/37898/4uiqctfqh_1725163907050.jpg?plan=h160",
+      "ep": 5,
+      "s": 278,
+      "geo": [
+        35.612,
+        140.1148
+      ]
+    }
+  ],
+  "pointsLength": 33,
+  "imagesLength": 21,
+  "local_id": 252
+}

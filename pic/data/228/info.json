@@ -1,0 +1,111 @@
+{
+  "id": 26826,
+  "cn": "茂伸奇谈-Monobeno-",
+  "title": "ものべの",
+  "city": "香美市",
+  "cover": "https://image.xinu.ink/pic/data/228/images/26826.jpg",
+  "color": "#8f7069",
+  "geo": [
+    33.660841448298555,
+    133.86925310256993
+  ],
+  "zoom": 9.234,
+  "modified": 1726129857598,
+  "litePoints": [
+    {
+      "id": "lxl56b7j4",
+      "cn": "土佐山田站",
+      "name": "土佐山田駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/26826/points/lxl56b7j4-1720019098610.jpg?plan=h160",
+      "geo": [
+        33.607,
+        133.6849
+      ]
+    },
+    {
+      "id": "lxon717zq",
+      "name": "十二所神社",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/26826/points/lxon717zq-1720026399295.jpg?plan=h160",
+      "geo": [
+        33.7132,
+        133.9164
+      ]
+    },
+    {
+      "id": "lxoxeqxww",
+      "name": "八王寺宮",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/26826/points/lxoxeqxww-1720026836352.jpg?plan=h160",
+      "geo": [
+        33.6986,
+        133.8786
+      ]
+    },
+    {
+      "id": "lxp3qabm6",
+      "name": "大栃商店街",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/26826/points/lxp3qabm6-1720027228639.jpg?plan=h160",
+      "geo": [
+        33.6985,
+        133.8781
+      ]
+    },
+    {
+      "id": "6fb9e907",
+      "name": "香美市立大栃診療所",
+      "image": "https://image.anitabi.cn/points/26826/6fb9e907_1720027634232.jpg?plan=h160",
+      "geo": [
+        33.6968,
+        133.8744
+      ]
+    },
+    {
+      "id": "957276b9",
+      "name": "龍河洞",
+      "image": "https://image.anitabi.cn/points/26826/957276b9_1720027652103.jpg?plan=h160",
+      "geo": [
+        33.6032,
+        133.7452
+      ]
+    },
+    {
+      "id": "423b0db7",
+      "name": "小松神社",
+      "image": "https://image.anitabi.cn/points/26826/423b0db7_1720030558368.jpg?plan=h160",
+      "geo": [
+        33.7401,
+        133.9749
+      ]
+    },
+    {
+      "id": "e0c0e3b8",
+      "cn": "别府峡",
+      "name": "べふ峡",
+      "image": "https://image.anitabi.cn/points/26826/e0c0e3b8_1720029075544.jpg?plan=h160",
+      "geo": [
+        33.7733,
+        134.0303
+      ]
+    },
+    {
+      "id": "lxqfngp9k",
+      "name": "龍河洞商店街",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/26826/points/lxqfngp9k-1720030114607.jpg?plan=h160",
+      "geo": [
+        33.6038,
+        133.7435
+      ]
+    },
+    {
+      "id": "lxqt6zm81",
+      "name": "東椎屋の滝",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/26826/points/lxqt6zm81-1720031006055.jpg?plan=h160",
+      "geo": [
+        33.3595,
+        131.3838
+      ]
+    }
+  ],
+  "pointsLength": 12,
+  "imagesLength": 12,
+  "local_id": 228
+}

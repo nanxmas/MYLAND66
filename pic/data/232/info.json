@@ -1,0 +1,128 @@
+{
+  "id": 28230,
+  "cn": "散华礼弥",
+  "title": "さんかれあ",
+  "city": "神奈川县",
+  "cover": "https://image.xinu.ink/pic/data/232/images/28230.jpg",
+  "color": "#aa5595",
+  "geo": [
+    35.34471,
+    139.139421
+  ],
+  "modified": 1731953368838,
+  "litePoints": [
+    {
+      "id": "kpx6omkze",
+      "name": "JR御殿場線 川音川橋梁",
+      "image": "https://image.anitabi.cn/points/28230/kpx6omkze_1731949159393.jpg?plan=h160",
+      "ep": 1,
+      "s": 554,
+      "geo": [
+        35.3427,
+        139.1434
+      ]
+    },
+    {
+      "id": "kpx6omlij",
+      "name": "小田急小田原線 酒匂川橋梁",
+      "image": "https://image.anitabi.cn/points/28230/kpx6omlij_1731949136570.jpg?plan=h160",
+      "ep": 1,
+      "s": 555,
+      "geo": [
+        35.342,
+        139.1343
+      ]
+    },
+    {
+      "id": "kpx6omlt0",
+      "name": "聖心女子学院",
+      "image": "https://image.anitabi.cn/points/28230/kpx6omlt0_1731948232690.jpg?plan=h160",
+      "ep": 2,
+      "s": 404,
+      "geo": [
+        35.6415,
+        139.7264
+      ]
+    },
+    {
+      "id": "kpx6oml5c",
+      "name": "国道246号下",
+      "image": "https://image.anitabi.cn/points/28230/kpx6oml5c_1731949178849.jpg?plan=h160",
+      "ep": 2,
+      "s": 1101,
+      "geo": [
+        35.3489,
+        139.1396
+      ]
+    },
+    {
+      "id": "q5vk908a3",
+      "name": "酒匂川河川敷",
+      "image": "https://image.anitabi.cn/points/28230/q5vk908a3_1731952651473.jpg?plan=h160",
+      "ep": 4,
+      "s": 766,
+      "geo": [
+        35.3438,
+        139.1303
+      ]
+    },
+    {
+      "id": "kpx6omlsq",
+      "name": "小田急小田原線 新松田駅 跨線橋",
+      "image": "https://image.anitabi.cn/points/28230/kpx6omlsq_1731949560553.jpg?plan=h160",
+      "ep": 5,
+      "s": 599,
+      "geo": [
+        35.3446,
+        139.1397
+      ]
+    },
+    {
+      "id": "kpx6ommce",
+      "name": "小田急小田原線 新松田駅 秦野側踏切",
+      "image": "https://image.anitabi.cn/points/28230/kpx6ommce_1731949584328.jpg?plan=h160",
+      "ep": 5,
+      "s": 600,
+      "geo": [
+        35.345,
+        139.1404
+      ]
+    },
+    {
+      "id": "kpx6omn5u",
+      "name": "足柄大橋 西側",
+      "image": "https://image.anitabi.cn/points/28230/kpx6omn5u_1731949371216.jpg?plan=h160",
+      "ep": 5,
+      "s": 624,
+      "geo": [
+        35.3339,
+        139.1348
+      ]
+    },
+    {
+      "id": "kpx6ommi5",
+      "name": "小田急小田原線 新松田駅南口",
+      "image": "https://image.anitabi.cn/points/28230/kpx6ommi5_1731949602809.jpg?plan=h160",
+      "ep": 5,
+      "s": 634,
+      "geo": [
+        35.3446,
+        139.1401
+      ]
+    },
+    {
+      "id": "kpx6omlxr",
+      "name": "西平畑公園駐車場",
+      "image": "https://image.anitabi.cn/points/28230/kpx6omlxr_1731949246313.jpg?plan=h160",
+      "ep": 7,
+      "s": 1290,
+      "geo": [
+        35.3514,
+        139.1364
+      ]
+    }
+  ],
+  "pointsLength": 15,
+  "imagesLength": 15,
+  "local_id": 232
+}

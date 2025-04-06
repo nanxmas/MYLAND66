@@ -1,0 +1,129 @@
+{
+  "id": 40310,
+  "cn": "少女与战车",
+  "title": "ガールズ&パンツァー",
+  "city": "茨城县",
+  "cover": "https://image.xinu.ink/pic/data/257/images/40310.jpg",
+  "color": "#558b6b",
+  "geo": [
+    36.310431518872875,
+    140.5621772741772
+  ],
+  "zoom": 11.939,
+  "modified": 1742287500051,
+  "litePoints": [
+    {
+      "id": "biw9iufwp",
+      "name": "大洗マリンタワー",
+      "image": "https://image.anitabi.cn/user/1020/bangumi/40310/points/biw9iufwp-1741898301640.jpg?plan=h160",
+      "ep": 3,
+      "s": 1256,
+      "geo": [
+        36.3104,
+        140.5705
+      ]
+    },
+    {
+      "id": "biw9iufyb",
+      "name": "リゾートアウトレット イベントひろば",
+      "image": "https://image.anitabi.cn/user/1020/bangumi/40310/points/biw9iufyb-1741898462001.jpg?plan=h160",
+      "ep": 3,
+      "s": 1253,
+      "geo": [
+        36.3098,
+        140.5702
+      ]
+    },
+    {
+      "id": "biw9iufy7",
+      "name": "電化プラザヤギや",
+      "image": "https://image.anitabi.cn/user/1020/bangumi/40310/points/biw9iufy7-1741898526144.jpg?plan=h160",
+      "ep": 3,
+      "s": 1243,
+      "geo": [
+        36.3145,
+        140.5719
+      ]
+    },
+    {
+      "id": "biw9iug04",
+      "name": "大荒磯前神社前通り",
+      "image": "https://image.anitabi.cn/user/1020/bangumi/40310/points/biw9iug04-1741898776475.jpg?plan=h160",
+      "ep": 4,
+      "s": 536,
+      "geo": [
+        36.3142,
+        140.5867
+      ]
+    },
+    {
+      "id": "biw9iugao",
+      "name": "2号線カーブ",
+      "image": "https://image.anitabi.cn/user/1020/bangumi/40310/points/biw9iugao-1741899347898.jpg?plan=h160",
+      "ep": 4,
+      "s": 552,
+      "geo": [
+        36.3124,
+        140.5862
+      ]
+    },
+    {
+      "id": "kngdmcv9r",
+      "cn": "西住流战车道家元",
+      "name": "西住流戦車道家元",
+      "image": "https://image.anitabi.cn/user/0/bangumi/40310/points/kngdmcv9r-1716403494984.jpg?plan=h160",
+      "ep": 7,
+      "s": 405,
+      "geo": [
+        34.6825,
+        135.8391
+      ]
+    },
+    {
+      "id": "i0fzj282p",
+      "cn": "陆上自卫队​东富士演习场",
+      "name": "陸上​自衛隊\n東​富士​演習​場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/40310/points/i0fzj282p-1708958042288.jpg?plan=h160",
+      "ep": 10,
+      "s": 913,
+      "geo": [
+        35.3556,
+        138.8359
+      ]
+    },
+    {
+      "id": "biw9iuftb",
+      "name": "とんかつレストランクックファン",
+      "image": "https://image.anitabi.cn/user/0/bangumi/40310/points/biw9iuftb-1709012602455.jpg?plan=h160",
+      "ep": 10,
+      "s": 693,
+      "geo": [
+        36.3361,
+        140.4848
+      ]
+    },
+    {
+      "id": "biw9iufyo",
+      "name": "リゾートアウトレット South water garden 2F",
+      "image": "https://image.anitabi.cn/user/1020/bangumi/40310/points/biw9iufyo-1742235098119.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        36.309,
+        140.5691
+      ]
+    },
+    {
+      "id": "biw9iufyk",
+      "name": "リゾートアウトレット 大洗まいわい市場",
+      "image": "https://image.anitabi.cn/user/1020/bangumi/40310/points/biw9iufyk-1742235185088.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        36.31,
+        140.5696
+      ]
+    }
+  ],
+  "pointsLength": 84,
+  "imagesLength": 53,
+  "local_id": 257
+}

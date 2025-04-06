@@ -1,0 +1,124 @@
+[
+  {
+    "id": "d4w21un4h",
+    "name": "旧種子島空港（ハンガー）",
+    "image": "https://image.xinu.ink/pic/data/248/images/d4w21un4h_1695200910875.jpg",
+    "ep": 1,
+    "geo": [
+      30.5441,
+      130.9559
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tiOp1zfOAc3gI-YbLWnIKlVCw_I&ll=30.544196%2C130.955996&z=17"
+  },
+  {
+    "id": "d4w21umrt",
+    "name": "旧種子島空港（管制塔）",
+    "image": "https://image.xinu.ink/pic/data/248/images/d4w21umrt_1695200920332.jpg",
+    "ep": 1,
+    "geo": [
+      30.5435,
+      130.9567
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tiOp1zfOAc3gI-YbLWnIKlVCw_I&ll=30.543563%2C130.956798&z=17"
+  },
+  {
+    "id": "d4w21umsb",
+    "name": "フラウ宅（元ホテル）",
+    "image": "https://image.xinu.ink/pic/data/248/images/d4w21umsb_1695227467726.jpg",
+    "ep": 4,
+    "geo": [
+      30.5432,
+      130.9572
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tiOp1zfOAc3gI-YbLWnIKlVCw_I&ll=30.54326%2C130.957283&z=17"
+  },
+  {
+    "id": "d4w21unbe",
+    "name": "中央種子島高校（種子島中央高等学校）",
+    "image": "https://image.xinu.ink/pic/data/248/images/d4w21unbe_1695200975023.jpg",
+    "ep": 1,
+    "geo": [
+      30.5405,
+      130.9606
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tiOp1zfOAc3gI-YbLWnIKlVCw_I&ll=30.540585%2C130.960615&z=17"
+  },
+  {
+    "id": "d4w21un80",
+    "name": "中央種子島高校：駐輪場",
+    "image": "https://image.xinu.ink/pic/data/248/images/d4w21un80_1695200987454.jpg",
+    "ep": 1,
+    "geo": [
+      30.5408,
+      130.9605
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tiOp1zfOAc3gI-YbLWnIKlVCw_I&ll=30.540863%2C130.960515&z=17"
+  },
+  {
+    "id": "d4w21un3w",
+    "cn": "雄龍・雌龍の岩",
+    "name": "雄龍・雌龍の岩",
+    "image": "https://image.xinu.ink/pic/data/248/images/d4w21un3w-1695524797193.jpg",
+    "ep": 15,
+    "geo": [
+      30.6109,
+      130.9501
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tiOp1zfOAc3gI-YbLWnIKlVCw_I&ll=30.610986%2C130.950149&z=17"
+  },
+  {
+    "id": "d4w21un3t",
+    "name": "宇宙ヶ丘公園（展望台）",
+    "image": "https://image.xinu.ink/pic/data/248/images/d4w21un3t-1695524842230.jpg",
+    "ep": 5,
+    "geo": [
+      30.3982,
+      130.9029
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tiOp1zfOAc3gI-YbLWnIKlVCw_I&ll=30.398234%2C130.90299&z=17"
+  },
+  {
+    "id": "d4w21ump2",
+    "name": "公立種子島病院",
+    "image": "https://image.xinu.ink/pic/data/248/images/d4w21ump2-1695524898398.jpg",
+    "ep": 12,
+    "geo": [
+      30.4384,
+      130.914
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tiOp1zfOAc3gI-YbLWnIKlVCw_I&ll=30.438427%2C130.914022&z=17"
+  },
+  {
+    "id": "d4w21umqg",
+    "name": "門倉岬",
+    "image": "https://image.xinu.ink/pic/data/248/images/d4w21umqg-1695524931819.jpg",
+    "ep": 16,
+    "geo": [
+      30.3443,
+      130.8835
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tiOp1zfOAc3gI-YbLWnIKlVCw_I&ll=30.344311%2C130.883504&z=17"
+  },
+  {
+    "id": "d4w21unbh",
+    "name": "伊禮商店（アイSHOP永井店）",
+    "image": "https://image.xinu.ink/pic/data/248/images/d4w21unbh-1729757080753.jpg",
+    "ep": null,
+    "s": 115,
+    "geo": [
+      30.5397,
+      130.96
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tiOp1zfOAc3gI-YbLWnIKlVCw_I&ll=30.539784%2C130.96007&z=17"
+  }
+]

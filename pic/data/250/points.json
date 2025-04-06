@@ -1,0 +1,81 @@
+[
+  {
+    "id": "pg74n98x7",
+    "name": "南阿佐ヶ谷駅",
+    "image": "https://image.xinu.ink/pic/data/250/images/pg74n98x7_1729940332235.jpg",
+    "ep": 1,
+    "s": 14,
+    "geo": [
+      35.6993,
+      139.6356
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pg7auqmsq",
+    "name": "筑波山神社",
+    "image": "https://image.xinu.ink/pic/data/250/images/pg7auqmsq_1729940710572.jpg",
+    "ep": 3,
+    "s": 846,
+    "geo": [
+      36.2133,
+      140.1011
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pg5bn03uh",
+    "cn": "仓泽集落（废村）",
+    "name": "倉沢集落（廃村）",
+    "image": "https://image.xinu.ink/pic/data/250/images/pg5bn03uh_1729940064368.jpg",
+    "ep": 11,
+    "s": 712,
+    "geo": [
+      35.8444,
+      139.0641
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pg5l3mzyk",
+    "cn": "入谷集落（废村）",
+    "name": "入谷集落（廃村）",
+    "image": "https://image.xinu.ink/pic/data/250/images/pg5l3mzyk_1729940071460.jpg",
+    "ep": 11,
+    "s": 715,
+    "geo": [
+      35.2612,
+      136.3474
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pg5cqky0h",
+    "cn": "落合集落（废村） 落合神社",
+    "name": "落合集落（廃村） 落合神社",
+    "image": "https://image.xinu.ink/pic/data/250/images/pg5cqky0h_1729940077945.jpg",
+    "ep": 11,
+    "s": 721,
+    "geo": [
+      35.268,
+      136.3526
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pg5sh56y5",
+    "name": "神栖市",
+    "image": "https://image.xinu.ink/pic/data/250/images/pg5sh56y5_1729939466858.jpg",
+    "geo": [
+      35.8894,
+      140.6641
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  }
+]

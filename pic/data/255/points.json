@@ -1,0 +1,25 @@
+[
+  {
+    "id": "oj3rw12f8",
+    "cn": "甲州街道",
+    "name": "甲州街道",
+    "image": "https://image.xinu.ink/pic/data/255/images/oj3rw12f8-1727347036768.jpg",
+    "ep": null,
+    "s": "3825",
+    "geo": [
+      35.6839,
+      139.6907
+    ]
+  },
+  {
+    "id": "oj3z4ma5x",
+    "name": "新宿大ガード西",
+    "image": "https://image.xinu.ink/pic/data/255/images/oj3z4ma5x-1727347665043.jpg",
+    "ep": null,
+    "s": "3695",
+    "geo": [
+      35.6936,
+      139.699
+    ]
+  }
+]

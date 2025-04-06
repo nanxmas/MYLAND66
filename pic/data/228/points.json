@@ -1,0 +1,141 @@
+[
+  {
+    "id": "lxl56b7j4",
+    "cn": "土佐山田站",
+    "name": "土佐山田駅",
+    "image": "https://image.xinu.ink/pic/data/228/images/lxl56b7j4-1720019098610.jpg",
+    "ep": null,
+    "geo": [
+      33.607,
+      133.6849
+    ]
+  },
+  {
+    "id": "lxon717zq",
+    "name": "十二所神社",
+    "image": "https://image.xinu.ink/pic/data/228/images/lxon717zq-1720026399295.jpg",
+    "ep": null,
+    "geo": [
+      33.7132,
+      133.9164
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lxoxeqxww",
+    "name": "八王寺宮",
+    "image": "https://image.xinu.ink/pic/data/228/images/lxoxeqxww-1720026836352.jpg",
+    "ep": null,
+    "geo": [
+      33.6986,
+      133.8786
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lxp3qabm6",
+    "name": "大栃商店街",
+    "image": "https://image.xinu.ink/pic/data/228/images/lxp3qabm6-1720027228639.jpg",
+    "ep": null,
+    "geo": [
+      33.6985,
+      133.8781
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6fb9e907",
+    "name": "香美市立大栃診療所",
+    "image": "https://image.xinu.ink/pic/data/228/images/6fb9e907_1720027634232.jpg",
+    "geo": [
+      33.6968,
+      133.8744
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dBK0krZW9KPaVKuZb1VaZDsMI-Zl-CE&ll=33.696884%2C133.874419&z=17"
+  },
+  {
+    "id": "957276b9",
+    "name": "龍河洞",
+    "image": "https://image.xinu.ink/pic/data/228/images/957276b9_1720027652103.jpg",
+    "geo": [
+      33.6032,
+      133.7452
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dBK0krZW9KPaVKuZb1VaZDsMI-Zl-CE&ll=33.603205%2C133.745248&z=17"
+  },
+  {
+    "id": "423b0db7",
+    "name": "小松神社",
+    "image": "https://image.xinu.ink/pic/data/228/images/423b0db7_1720030558368.jpg",
+    "geo": [
+      33.7401,
+      133.9749
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dBK0krZW9KPaVKuZb1VaZDsMI-Zl-CE&ll=33.740155%2C133.974981&z=17"
+  },
+  {
+    "id": "e0c0e3b8",
+    "cn": "别府峡",
+    "name": "べふ峡",
+    "image": "https://image.xinu.ink/pic/data/228/images/e0c0e3b8_1720029075544.jpg",
+    "geo": [
+      33.7733,
+      134.0303
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dBK0krZW9KPaVKuZb1VaZDsMI-Zl-CE&ll=33.773305%2C134.030333&z=17"
+  },
+  {
+    "id": "lxqfngp9k",
+    "name": "龍河洞商店街",
+    "image": "https://image.xinu.ink/pic/data/228/images/lxqfngp9k-1720030114607.jpg",
+    "ep": null,
+    "geo": [
+      33.6038,
+      133.7435
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lxqt6zm81",
+    "name": "東椎屋の滝",
+    "image": "https://image.xinu.ink/pic/data/228/images/lxqt6zm81-1720031006055.jpg",
+    "ep": null,
+    "geo": [
+      33.3595,
+      131.3838
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lxr5t39ly",
+    "name": "湖畔の温泉宿 くにびき",
+    "image": "https://image.xinu.ink/pic/data/228/images/lxr5t39ly-1720031701256.jpg",
+    "ep": null,
+    "geo": [
+      35.324,
+      132.6768
+    ],
+    "originLink": "http://blog.livedoor.jp/brompton_traveling/archives/19243800.html"
+  },
+  {
+    "id": "lxs0ultjc",
+    "cn": "神西湖中鸟居",
+    "name": "神西湖中鳥居",
+    "image": "https://image.xinu.ink/pic/data/228/images/lxs0ultjc-1720033676390.jpg",
+    "ep": null,
+    "geo": [
+      35.3295,
+      132.6879
+    ],
+    "originLink": "http://blog.livedoor.jp/brompton_traveling/archives/19243800.html"
+  }
+]

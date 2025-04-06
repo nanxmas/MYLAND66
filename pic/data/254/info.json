@@ -1,0 +1,29 @@
+{
+  "id": 38125,
+  "cn": "名侦探柯南 柯南、平次与消失的少年",
+  "title": "名探偵コナン コナンと平次と消えた少年",
+  "city": "大阪府",
+  "cover": "https://image.xinu.ink/pic/data/254/images/38125.jpg",
+  "color": "#2a4080",
+  "geo": [
+    34.705241000000015,
+    135.49010599999997
+  ],
+  "zoom": 16,
+  "modified": 1728997528282,
+  "litePoints": [
+    {
+      "id": "m767ka6fa",
+      "cn": "梅田天空大楼空中庭园展望台",
+      "name": "梅田​スカイ​ビル​空中​庭園​展望台",
+      "image": "https://image.anitabi.cn/user/0/bangumi/899/points/m767ka6fa-1720769732116.jpg?plan=h160",
+      "geo": [
+        34.7052,
+        135.4901
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 254
+}

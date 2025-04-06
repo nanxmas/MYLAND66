@@ -1,0 +1,108 @@
+{
+  "id": 25444,
+  "cn": "听爸爸的话！",
+  "title": "パパのいうことを聞きなさい！",
+  "city": "八王子市",
+  "cover": "https://image.xinu.ink/pic/data/223/images/25444.jpg",
+  "color": "#ffb957",
+  "geo": [
+    35.65418066722748,
+    139.40884473328902
+  ],
+  "zoom": 10.071,
+  "modified": 1728554866586,
+  "litePoints": [
+    {
+      "id": "51i51o6is",
+      "name": "祐太のアパート",
+      "image": "https://image.anitabi.cn/points/25444/51i51o6is_1672370808183.jpg?plan=h160",
+      "geo": [
+        35.6471,
+        139.4025
+      ]
+    },
+    {
+      "id": "51i51o7ro",
+      "name": "OP　横断歩道",
+      "image": "https://image.anitabi.cn/points/25444/51i51o7ro_1672370808618.jpg?plan=h160",
+      "geo": [
+        35.6468,
+        139.4025
+      ]
+    },
+    {
+      "id": "51i51o7yh",
+      "name": "OP　モノレールのトンネル出入口",
+      "image": "https://image.anitabi.cn/points/25444/51i51o7yh_1672370809213.jpg?plan=h160",
+      "geo": [
+        35.6445,
+        139.4038
+      ]
+    },
+    {
+      "id": "51i51o7gf",
+      "name": "OP　中央大学明星大学駅の階段",
+      "image": "https://image.anitabi.cn/points/25444/51i51o7gf_1672370809615.jpg?plan=h160",
+      "geo": [
+        35.6416,
+        139.4089
+      ]
+    },
+    {
+      "id": "51i51o7hy",
+      "name": "OP　中央大学明星大学駅前のフェンス（中大側）",
+      "image": "https://image.anitabi.cn/points/25444/51i51o7hy_1672370810049.jpg?plan=h160",
+      "geo": [
+        35.6415,
+        139.409
+      ]
+    },
+    {
+      "id": "51i51o7zb",
+      "name": "OP　モノレール沿線",
+      "image": "https://image.anitabi.cn/points/25444/51i51o7zb_1672370810460.jpg?plan=h160",
+      "geo": [
+        35.6462,
+        139.4035
+      ]
+    },
+    {
+      "id": "51i51o87q",
+      "name": "OP　看板前",
+      "image": "https://image.anitabi.cn/points/25444/51i51o87q_1672370810817.jpg?plan=h160",
+      "geo": [
+        35.6468,
+        139.4025
+      ]
+    },
+    {
+      "id": "51i51o8g5",
+      "name": "OP　横断歩道2",
+      "image": "https://image.anitabi.cn/points/25444/51i51o8g5_1672370811222.jpg?plan=h160",
+      "geo": [
+        35.6469,
+        139.4026
+      ]
+    },
+    {
+      "id": "51i51o8kz",
+      "name": "OP（候補）　明星大学駐輪場",
+      "geo": [
+        35.6422,
+        139.4082
+      ]
+    },
+    {
+      "id": "51i51o8ex",
+      "name": "第01話　中大隧道",
+      "ep": 1,
+      "geo": [
+        35.6403,
+        139.4071
+      ]
+    }
+  ],
+  "pointsLength": 42,
+  "imagesLength": 8,
+  "local_id": 223
+}

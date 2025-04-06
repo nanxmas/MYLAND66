@@ -1,0 +1,69 @@
+[
+  {
+    "id": "005eb1bc",
+    "name": "改札",
+    "image": "https://image.xinu.ink/pic/data/258/images/005eb1bc_1725971685123.jpg",
+    "geo": [
+      35.6556,
+      139.3388
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1XL7t8MHr5otopt1KQw5tzv-jxCY&ll=35.655668%2C139.338862&z=17"
+  },
+  {
+    "id": "e0b72537",
+    "name": "交差点",
+    "image": "https://image.xinu.ink/pic/data/258/images/e0b72537_1725972363560.jpg",
+    "geo": [
+      35.657,
+      139.3382
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1XL7t8MHr5otopt1KQw5tzv-jxCY&ll=35.657022%2C139.338259&z=17"
+  },
+  {
+    "id": "o1kd5qg5a",
+    "cn": "八王子站北口 东眺",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/258/images/o1kd5qg5a_1725972576005.jpg",
+    "geo": [
+      35.6568,
+      139.3387
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "48a32ae1",
+    "name": "南口",
+    "image": "https://image.xinu.ink/pic/data/258/images/48a32ae1_1725972249484.jpg",
+    "geo": [
+      35.6543,
+      139.3383
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1XL7t8MHr5otopt1KQw5tzv-jxCY&ll=35.65438%2C139.338342&z=17"
+  },
+  {
+    "id": "091970ad",
+    "name": "エクセシオール・カフェ",
+    "image": "https://image.xinu.ink/pic/data/258/images/091970ad_1725971799003.jpg",
+    "geo": [
+      35.6562,
+      139.3391
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1XL7t8MHr5otopt1KQw5tzv-jxCY&ll=35.656241%2C139.339149&z=17"
+  },
+  {
+    "id": "o1jxb0ocn",
+    "name": "西放射線ユーロード",
+    "image": "https://image.xinu.ink/pic/data/258/images/o1jxb0ocn_1725971616134.jpg",
+    "geo": [
+      35.6571,
+      139.3381
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  }
+]

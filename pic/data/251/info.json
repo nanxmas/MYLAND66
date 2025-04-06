@@ -1,0 +1,132 @@
+{
+  "id": 37897,
+  "cn": "女子落语",
+  "title": "じょしらく",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/251/images/37897.jpg",
+  "color": "#ff8000",
+  "geo": [
+    35.697456,
+    139.643097
+  ],
+  "zoom": 10,
+  "modified": 1731261783525,
+  "litePoints": [
+    {
+      "id": "kpwqugpxb",
+      "name": "新宿末広亭",
+      "image": "https://image.anitabi.cn/points/37897/kpwqugpxb_1721916349400.jpg?plan=h160",
+      "ep": 1,
+      "s": 663,
+      "geo": [
+        35.6911,
+        139.7059
+      ]
+    },
+    {
+      "id": "kpwqugqay",
+      "cn": "东京塔",
+      "name": "東京タワー",
+      "image": "https://image.anitabi.cn/points/37897/kpwqugqay_1721916601135.jpg?plan=h160",
+      "ep": 2,
+      "s": 817,
+      "geo": [
+        35.6586,
+        139.7454
+      ]
+    },
+    {
+      "id": "kpwqugq9d",
+      "cn": "田无塔",
+      "name": "田無タワー",
+      "image": "https://image.anitabi.cn/points/37897/kpwqugq9d_1721916509817.jpg?plan=h160",
+      "ep": 2,
+      "s": 606,
+      "geo": [
+        35.7351,
+        139.523
+      ]
+    },
+    {
+      "id": "kpwqugq91",
+      "name": "浅草寺雷門",
+      "image": "https://image.anitabi.cn/points/37897/kpwqugq91_1721916778629.jpg?plan=h160",
+      "ep": 3,
+      "s": 608,
+      "geo": [
+        35.7109,
+        139.7963
+      ]
+    },
+    {
+      "id": "kpwqugqa5",
+      "name": "JR秋葉原駅",
+      "image": "https://image.anitabi.cn/points/37897/kpwqugqa5_1721916890662.jpg?plan=h160",
+      "ep": 3,
+      "s": 759,
+      "geo": [
+        35.6981,
+        139.7725
+      ]
+    },
+    {
+      "id": "kpwqugq8g",
+      "name": "JR吉祥寺駅",
+      "image": "https://image.anitabi.cn/points/37897/kpwqugq8g_1721916927256.jpg?plan=h160",
+      "ep": 3,
+      "s": 767,
+      "geo": [
+        35.7029,
+        139.5796
+      ]
+    },
+    {
+      "id": "kpwqugqb8",
+      "name": "国分寺駅",
+      "image": "https://image.anitabi.cn/points/37897/kpwqugqb8_1721916966209.jpg?plan=h160",
+      "ep": 3,
+      "s": 774,
+      "geo": [
+        35.7003,
+        139.4806
+      ]
+    },
+    {
+      "id": "kpwqugq0i",
+      "name": "ゆりかもめ新橋駅",
+      "image": "https://image.anitabi.cn/points/37897/kpwqugq0i_1721917084347.jpg?plan=h160",
+      "ep": 4,
+      "s": 552,
+      "geo": [
+        35.6653,
+        139.7602
+      ]
+    },
+    {
+      "id": "kpwqugpyp",
+      "name": "自由の女神像",
+      "image": "https://image.anitabi.cn/points/37897/kpwqugpyp_1721917445318.jpg?plan=h160",
+      "ep": 4,
+      "s": 805,
+      "geo": [
+        35.6266,
+        139.7727
+      ]
+    },
+    {
+      "id": "kpwqugpw5",
+      "cn": "彩虹大桥",
+      "name": "レインボーブリッジ",
+      "image": "https://image.anitabi.cn/points/37897/kpwqugpw5_1721917364265.jpg?plan=h160",
+      "ep": 4,
+      "s": 652,
+      "geo": [
+        35.6404,
+        139.7577
+      ]
+    }
+  ],
+  "pointsLength": 159,
+  "imagesLength": 131,
+  "local_id": 251
+}

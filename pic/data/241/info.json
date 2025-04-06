@@ -1,0 +1,128 @@
+{
+  "id": 33355,
+  "cn": "战国Collection",
+  "title": "戦国コレクション",
+  "cover": "https://image.xinu.ink/pic/data/241/images/33355.jpg",
+  "color": "#f96286",
+  "geo": [
+    35.516341918095065,
+    139.60753312268076
+  ],
+  "zoom": 9.137,
+  "modified": 1722512264938,
+  "litePoints": [
+    {
+      "id": "knioreklz",
+      "name": "ブックオフ吉祥寺駅北口店",
+      "image": "https://image.anitabi.cn/points/33355/knioreklz_1716409440632.jpg?plan=h160",
+      "ep": 1,
+      "s": 178,
+      "geo": [
+        35.7048,
+        139.5807
+      ]
+    },
+    {
+      "id": "kniorekpo",
+      "name": "ヨドバシカメラ吉祥寺店",
+      "image": "https://image.anitabi.cn/points/33355/kniorekpo_1716409440384.jpg?plan=h160",
+      "ep": 1,
+      "s": 188,
+      "geo": [
+        35.7047,
+        139.5813
+      ]
+    },
+    {
+      "id": "kniorel3f",
+      "name": "豊崎西公園 タコの山",
+      "image": "https://image.anitabi.cn/points/33355/kniorel3f_1716409440093.jpg?plan=h160",
+      "ep": 1,
+      "s": 852,
+      "geo": [
+        34.7115,
+        135.4988
+      ]
+    },
+    {
+      "id": "kniorel84",
+      "name": "お台場海浜公園",
+      "image": "https://image.anitabi.cn/points/33355/kniorel84_1716409440871.jpg?plan=h160",
+      "ep": 1,
+      "s": 932,
+      "geo": [
+        35.6311,
+        139.7767
+      ]
+    },
+    {
+      "id": "kniorekxu",
+      "name": "お台場海浜公園 錨オブジェ",
+      "image": "https://image.anitabi.cn/points/33355/kniorekxu_1716409441101.jpg?plan=h160",
+      "ep": 1,
+      "s": 964,
+      "geo": [
+        35.6281,
+        139.7716
+      ]
+    },
+    {
+      "id": "kniorel78",
+      "name": "立川駅北口",
+      "image": "https://image.anitabi.cn/points/33355/kniorel78_1716409441333.jpg?plan=h160",
+      "ep": 1,
+      "s": 1360,
+      "geo": [
+        35.6988,
+        139.4132
+      ]
+    },
+    {
+      "id": "kniorekx8",
+      "name": "JR渋谷駅 ガード下",
+      "image": "https://image.anitabi.cn/points/33355/kniorekx8_1716409442064.jpg?plan=h160",
+      "ep": 2,
+      "s": 14,
+      "geo": [
+        35.6593,
+        139.7011
+      ]
+    },
+    {
+      "id": "kniorekx0",
+      "name": "渋谷 ハチ公前交差点",
+      "image": "https://image.anitabi.cn/points/33355/kniorekx0_1716409441818.jpg?plan=h160",
+      "ep": 2,
+      "s": 41,
+      "geo": [
+        35.6593,
+        139.7007
+      ]
+    },
+    {
+      "id": "kniorel1b",
+      "name": "渋谷 ハチ公像",
+      "image": "https://image.anitabi.cn/points/33355/kniorel1b_1716409441574.jpg?plan=h160",
+      "ep": 2,
+      "s": 156,
+      "geo": [
+        35.659,
+        139.7006
+      ]
+    },
+    {
+      "id": "knjiuximf",
+      "name": "スペースW",
+      "image": "https://image.anitabi.cn/points/33355/knjiuximf_1716410328509.jpg?plan=h160",
+      "ep": 3,
+      "s": 307,
+      "geo": [
+        35.7039,
+        139.6454
+      ]
+    }
+  ],
+  "pointsLength": 34,
+  "imagesLength": 34,
+  "local_id": 241
+}

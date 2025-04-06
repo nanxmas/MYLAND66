@@ -1,0 +1,131 @@
+{
+  "id": 28431,
+  "cn": "一起一起这里那里",
+  "title": "あっちこっち",
+  "city": "千叶市",
+  "cover": "https://image.xinu.ink/pic/data/233/images/28431.jpg",
+  "color": "#7770b3",
+  "cp": "あっちこっち",
+  "geo": [
+    35.62525690372763,
+    140.0724577573248
+  ],
+  "zoom": 12.867,
+  "modified": 1742409998636,
+  "litePoints": [
+    {
+      "id": "4a67e034",
+      "cn": "千叶市立稻毛高等学校",
+      "name": "1-09 千葉市立稲毛高校",
+      "image": "https://image.anitabi.cn/points/28431/4a67e034_1738370366627.jpg?plan=h160",
+      "ep": 1,
+      "s": 334,
+      "geo": [
+        35.6207,
+        140.069
+      ]
+    },
+    {
+      "id": "ecd5c122",
+      "cn": "稻毛海岸站南口",
+      "name": "1-01-04 稲毛海岸駅南口",
+      "image": "https://image.anitabi.cn/points/28431/ecd5c122_1740935050822.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6292,
+        140.0731
+      ]
+    },
+    {
+      "id": "bf20ed92",
+      "cn": "稲毛海岸駅 お知らせ表示板",
+      "name": "1-05-06 稲毛海岸駅 お知らせ表示板",
+      "image": "https://image.anitabi.cn/points/28431/bf20ed92_1740935148094.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6293,
+        140.0733
+      ]
+    },
+    {
+      "id": "67e31d25",
+      "cn": "通学路のシーン",
+      "name": "1-07 通学路のシーン",
+      "image": "https://image.anitabi.cn/points/28431/67e31d25_1740935350534.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6288,
+        140.071
+      ]
+    },
+    {
+      "id": "024765d7",
+      "cn": "NTT信号塔",
+      "name": "1-08 NTT鉄塔",
+      "image": "https://image.anitabi.cn/points/28431/024765d7_1740935473614.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.627,
+        140.0687
+      ]
+    },
+    {
+      "id": "5500ad10",
+      "cn": "稻毛海岸站",
+      "name": "1-10 稲毛海岸駅",
+      "image": "https://image.anitabi.cn/points/28431/5500ad10_1740935595086.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6295,
+        140.0731
+      ]
+    },
+    {
+      "id": "5ff45166",
+      "cn": "稻毛海岸站北口",
+      "name": "1-11 稲毛海岸駅北口",
+      "image": "https://image.anitabi.cn/points/28431/5ff45166_1740935585213.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6296,
+        140.0731
+      ]
+    },
+    {
+      "id": "f057c851",
+      "cn": "稻毛海滨公园",
+      "name": "5-01,03 稲毛海浜公園",
+      "image": "https://image.anitabi.cn/points/28431/f057c851_1740935888326.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.6157,
+        140.0641
+      ]
+    },
+    {
+      "id": "237d37e7",
+      "cn": "稻毛海岸站２站台",
+      "name": "7-01 稲毛海岸駅２番線",
+      "image": "https://image.anitabi.cn/points/28431/237d37e7_1740936055743.jpg?plan=h160",
+      "ep": 7,
+      "geo": [
+        35.6293,
+        140.0742
+      ]
+    },
+    {
+      "id": "7a184d04",
+      "cn": "单行道出口",
+      "name": "8-01 一方通行路出口",
+      "image": "https://image.anitabi.cn/points/28431/7a184d04_1740936333511.jpg?plan=h160",
+      "ep": 8,
+      "geo": [
+        35.629,
+        140.0765
+      ]
+    }
+  ],
+  "pointsLength": 21,
+  "imagesLength": 21,
+  "local_id": 233
+}

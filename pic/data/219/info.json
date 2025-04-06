@@ -1,0 +1,73 @@
+{
+  "id": 24508,
+  "cn": "潜行吧！奈亚子",
+  "title": "這いよれ! ニャル子さん",
+  "cover": "https://image.xinu.ink/pic/data/219/images/24508.jpg",
+  "color": "#6aaa55",
+  "geo": [
+    43.058721,
+    141.355827
+  ],
+  "modified": 1737726275417,
+  "litePoints": [
+    {
+      "id": "kpx6ol0t4",
+      "name": "札幌市時計台",
+      "image": "https://image.anitabi.cn/user/0/bangumi/24508/points/kpx6ol0t4-1737034936282.jpg?plan=h160",
+      "ep": 12,
+      "s": 252,
+      "geo": [
+        43.0623,
+        141.3533
+      ]
+    },
+    {
+      "id": "kpx6okwtc",
+      "name": "アニメイト札幌店前",
+      "image": "https://image.anitabi.cn/points/24508/kpx6okwtc_1737726089466.jpg?plan=h160",
+      "geo": [
+        43.0587,
+        141.3557
+      ]
+    },
+    {
+      "id": "kpx6ol0lb",
+      "name": "スカイタワー西東京（田無タワー）",
+      "image": "https://image.anitabi.cn/points/24508/kpx6ol0lb_1737726137770.jpg?plan=h160",
+      "geo": [
+        35.735,
+        139.523
+      ]
+    },
+    {
+      "id": "kpx6ol1a1",
+      "name": "国分寺駅南口",
+      "image": "https://image.anitabi.cn/points/24508/kpx6ol1a1_1737726173298.jpg?plan=h160",
+      "geo": [
+        35.6991,
+        139.4807
+      ]
+    },
+    {
+      "id": "kpx6ol1c6",
+      "name": "池袋駅東口34番出口付近",
+      "image": "https://image.anitabi.cn/points/24508/kpx6ol1c6_1737726127274.jpg?plan=h160",
+      "geo": [
+        35.7302,
+        139.7129
+      ]
+    },
+    {
+      "id": "kpx6ol194",
+      "name": "北3条通り西2交差点",
+      "image": "https://image.anitabi.cn/points/24508/kpx6ol194_1737726254354.jpg?plan=h160",
+      "geo": [
+        43.0646,
+        141.3529
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 219
+}

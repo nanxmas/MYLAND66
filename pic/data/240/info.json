@@ -1,0 +1,112 @@
+{
+  "id": 33255,
+  "cn": "钓球",
+  "title": "つり球",
+  "city": "镰仓市",
+  "cover": "https://image.xinu.ink/pic/data/240/images/33255.jpg",
+  "color": "#15b5ea",
+  "geo": [
+    35.303359013251224,
+    139.48311300120872
+  ],
+  "zoom": 13.844,
+  "modified": 1732286435555,
+  "litePoints": [
+    {
+      "id": "4uicgsu3m",
+      "name": "江ノ島に到着したハル",
+      "image": "https://image.anitabi.cn/user/0/bangumi/33255/points/4uicgsu3m-1724997219674.jpg?plan=h160",
+      "ep": 1,
+      "s": 84,
+      "geo": [
+        35.3087,
+        139.4836
+      ]
+    },
+    {
+      "id": "4uicgsum2",
+      "name": "水族館の魚を集めるハル",
+      "image": "https://image.anitabi.cn/user/0/bangumi/33255/points/4uicgsum2-1724997428114.jpg?plan=h160",
+      "ep": 1,
+      "s": 97,
+      "geo": [
+        35.309,
+        139.4802
+      ]
+    },
+    {
+      "id": "4uicgsun8",
+      "name": "金魚鉢を載せて歩くハル",
+      "image": "https://image.anitabi.cn/user/0/bangumi/33255/points/4uicgsun8-1724997491265.jpg?plan=h160",
+      "ep": 1,
+      "s": 117,
+      "geo": [
+        35.3077,
+        139.4832
+      ]
+    },
+    {
+      "id": "4uicgsv5l",
+      "name": "登校初日のユキ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/33255/points/4uicgsv5l-1732257513113.jpg?plan=h160",
+      "geo": [
+        35.3111,
+        139.4872
+      ]
+    },
+    {
+      "id": "4uicgsvlx",
+      "name": "釣りをしないハル",
+      "image": "https://image.anitabi.cn/points/33255/4uicgsvlx.jpg?plan=h160",
+      "geo": [
+        35.3073,
+        139.484
+      ]
+    },
+    {
+      "id": "4uicgsvs0",
+      "name": "江ノ島を走るダックの装甲車",
+      "image": "https://image.anitabi.cn/points/33255/4uicgsvs0.jpg?plan=h160",
+      "geo": [
+        35.2997,
+        139.4829
+      ]
+    },
+    {
+      "id": "4uicgsw5e",
+      "name": "操られて名古屋",
+      "image": "https://image.anitabi.cn/points/33255/4uicgsw5e.jpg?plan=h160",
+      "geo": [
+        35.1707,
+        136.8846
+      ]
+    },
+    {
+      "id": "4uicgsv7r",
+      "name": "神社で踊りを見るハル",
+      "geo": [
+        35.3003,
+        139.4797
+      ]
+    },
+    {
+      "id": "4uicgsuzr",
+      "name": "グルグル回るハル",
+      "geo": [
+        35.2991,
+        139.4798
+      ]
+    },
+    {
+      "id": "4uicgsuz1",
+      "name": "双眼鏡でハルを見る、アキラとタピオカ",
+      "geo": [
+        35.2997,
+        139.4784
+      ]
+    }
+  ],
+  "pointsLength": 31,
+  "imagesLength": 10,
+  "local_id": 240
+}

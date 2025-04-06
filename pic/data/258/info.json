@@ -1,0 +1,105 @@
+{
+  "id": 40651,
+  "cn": "只要你说你爱我",
+  "title": "好きっていいなよ。",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/258/images/40651_4F4gX.jpg",
+  "geo": [
+    35.7743007694267,
+    139.49650200624728
+  ],
+  "zoom": 8.393,
+  "modified": 1726751917377,
+  "litePoints": [
+    {
+      "id": "005eb1bc",
+      "name": "改札",
+      "image": "https://image.anitabi.cn/points/40651/005eb1bc_1725971685123.jpg?plan=h160",
+      "geo": [
+        35.6556,
+        139.3388
+      ]
+    },
+    {
+      "id": "e0b72537",
+      "name": "交差点",
+      "image": "https://image.anitabi.cn/points/40651/e0b72537_1725972363560.jpg?plan=h160",
+      "geo": [
+        35.657,
+        139.3382
+      ]
+    },
+    {
+      "id": "o1kd5qg5a",
+      "cn": "八王子站北口 东眺",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/40651/o1kd5qg5a_1725972576005.jpg?plan=h160",
+      "geo": [
+        35.6568,
+        139.3387
+      ]
+    },
+    {
+      "id": "48a32ae1",
+      "name": "南口",
+      "image": "https://image.anitabi.cn/points/40651/48a32ae1_1725972249484.jpg?plan=h160",
+      "geo": [
+        35.6543,
+        139.3383
+      ]
+    },
+    {
+      "id": "091970ad",
+      "name": "エクセシオール・カフェ",
+      "image": "https://image.anitabi.cn/points/40651/091970ad_1725971799003.jpg?plan=h160",
+      "geo": [
+        35.6562,
+        139.3391
+      ]
+    },
+    {
+      "id": "o1jxb0ocn",
+      "name": "西放射線ユーロード",
+      "image": "https://image.anitabi.cn/points/40651/o1jxb0ocn_1725971616134.jpg?plan=h160",
+      "geo": [
+        35.6571,
+        139.3381
+      ]
+    },
+    {
+      "id": "9fe24958",
+      "name": "西浦和高校・門",
+      "geo": [
+        35.8894,
+        139.6526
+      ]
+    },
+    {
+      "id": "948b7727",
+      "name": "文志堂文具店",
+      "geo": [
+        35.8845,
+        139.6437
+      ]
+    },
+    {
+      "id": "f5abbeec",
+      "name": "６～８番バス乗り場",
+      "geo": [
+        35.6566,
+        139.3389
+      ]
+    },
+    {
+      "id": "bef7aeea",
+      "name": "八王子南口交差点",
+      "geo": [
+        35.654,
+        139.3383
+      ]
+    }
+  ],
+  "pointsLength": 15,
+  "imagesLength": 10,
+  "local_id": 258
+}

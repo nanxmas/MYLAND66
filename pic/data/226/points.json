@@ -1,0 +1,62 @@
+[
+  {
+    "id": "n80r5npg1",
+    "name": "小田急多摩センター中央口",
+    "image": "https://image.xinu.ink/pic/data/226/images/n80r5npg1-1723657345063.jpg",
+    "ep": null,
+    "geo": [
+      35.6244,
+      139.4246
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n80s6yv62",
+    "name": "パルテノン大通り",
+    "image": "https://image.xinu.ink/pic/data/226/images/n80s6yv62-1723657390737.jpg",
+    "ep": null,
+    "geo": [
+      35.6233,
+      139.4254
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n80wigrzb",
+    "name": "パルテノン多摩",
+    "image": "https://image.xinu.ink/pic/data/226/images/n80wigrzb-1723657649431.jpg",
+    "ep": null,
+    "geo": [
+      35.6211,
+      139.4266
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n813wfh5x",
+    "name": "多摩モノレール立川北駅下",
+    "image": "https://image.xinu.ink/pic/data/226/images/n813wfh5x-1723658098536.jpg",
+    "ep": null,
+    "geo": [
+      35.6992,
+      139.4124
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n816nucni",
+    "name": "立川駅北口",
+    "image": "https://image.xinu.ink/pic/data/226/images/n816nucni-1723658260800.jpg",
+    "ep": null,
+    "geo": [
+      35.6989,
+      139.4133
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  }
+]

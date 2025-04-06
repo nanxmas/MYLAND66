@@ -1,0 +1,109 @@
+{
+  "id": 28440,
+  "cn": "狼的孩子雨和雪",
+  "title": "おおかみこどもの雨と雪",
+  "city": "富山市",
+  "cover": "https://image.xinu.ink/pic/data/234/images/28440.jpg",
+  "color": "#435b2b",
+  "geo": [
+    36.697843826236706,
+    137.3853546304889
+  ],
+  "zoom": 8.99195596450175,
+  "modified": 1725825950425,
+  "litePoints": [
+    {
+      "id": "344b61de",
+      "name": "1一桥大学前道路，正门",
+      "image": "https://image.anitabi.cn/points/28440/344b61de_1725030005627.jpg?plan=h160",
+      "geo": [
+        35.6951,
+        139.4465
+      ]
+    },
+    {
+      "id": "6f5a0545",
+      "name": "2一桥大学",
+      "image": "https://image.anitabi.cn/points/28440/6f5a0545_1725030016911.jpg?plan=h160",
+      "geo": [
+        35.6944,
+        139.4454
+      ]
+    },
+    {
+      "id": "c15453a6",
+      "name": "3白十字",
+      "image": "https://image.anitabi.cn/points/28440/c15453a6_1725030026492.jpg?plan=h160",
+      "geo": [
+        35.6977,
+        139.4464
+      ]
+    },
+    {
+      "id": "c8a9c185",
+      "name": "4楼梯",
+      "image": "https://image.anitabi.cn/points/28440/c8a9c185_1725030032563.jpg?plan=h160",
+      "geo": [
+        35.7003,
+        139.4493
+      ]
+    },
+    {
+      "id": "361e1a94",
+      "name": "5関根橋",
+      "image": "https://image.anitabi.cn/points/28440/361e1a94_1725030045770.jpg?plan=h160",
+      "geo": [
+        35.708,
+        139.6018
+      ]
+    },
+    {
+      "id": "3d37f627",
+      "name": "6寻找路线1",
+      "image": "https://image.anitabi.cn/points/28440/3d37f627_1725030052301.jpg?plan=h160",
+      "geo": [
+        35.7034,
+        139.5667
+      ]
+    },
+    {
+      "id": "80b2f20a",
+      "name": "7丸山桥",
+      "image": "https://image.anitabi.cn/points/28440/80b2f20a_1725030056923.jpg?plan=h160",
+      "geo": [
+        35.7086,
+        139.604
+      ]
+    },
+    {
+      "id": "c9f1e8dd",
+      "name": "8井之头公园",
+      "image": "https://image.anitabi.cn/points/28440/c9f1e8dd_1725030062508.jpg?plan=h160",
+      "geo": [
+        35.6985,
+        139.5804
+      ]
+    },
+    {
+      "id": "e19d3d9b",
+      "name": "9おおかみこどもの花の家",
+      "image": "https://image.anitabi.cn/points/28440/e19d3d9b_1725030068003.jpg?plan=h160",
+      "geo": [
+        36.6599,
+        137.4058
+      ]
+    },
+    {
+      "id": "npjeag8fc",
+      "name": "おおかみ​こども​の​花​の​家",
+      "image": "https://image.anitabi.cn/points/28440/npjeag8fc_1725030094229.jpg?plan=h160",
+      "geo": [
+        36.6599,
+        137.4058
+      ]
+    }
+  ],
+  "pointsLength": 24,
+  "imagesLength": 23,
+  "local_id": 234
+}

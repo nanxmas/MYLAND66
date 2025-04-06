@@ -1,0 +1,121 @@
+{
+  "id": 37673,
+  "cn": "机器人笔记",
+  "title": "ROBOTICS;NOTES",
+  "city": "西之表市",
+  "cover": "https://image.xinu.ink/pic/data/248/images/37673.jpg",
+  "color": "#407fbf",
+  "cp": "ROBOTICS;NOTES P…",
+  "geo": [
+    30.5272723916284,
+    131.02358581880856
+  ],
+  "zoom": 9.492,
+  "modified": 1729757259341,
+  "litePoints": [
+    {
+      "id": "d4w21un4h",
+      "name": "旧種子島空港（ハンガー）",
+      "image": "https://image.anitabi.cn/points/37673/d4w21un4h_1695200910875.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        30.5441,
+        130.9559
+      ]
+    },
+    {
+      "id": "d4w21umrt",
+      "name": "旧種子島空港（管制塔）",
+      "image": "https://image.anitabi.cn/points/37673/d4w21umrt_1695200920332.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        30.5435,
+        130.9567
+      ]
+    },
+    {
+      "id": "d4w21umsb",
+      "name": "フラウ宅（元ホテル）",
+      "image": "https://image.anitabi.cn/points/37673/d4w21umsb_1695227467726.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        30.5432,
+        130.9572
+      ]
+    },
+    {
+      "id": "d4w21unbe",
+      "name": "中央種子島高校（種子島中央高等学校）",
+      "image": "https://image.anitabi.cn/points/37673/d4w21unbe_1695200975023.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        30.5405,
+        130.9606
+      ]
+    },
+    {
+      "id": "d4w21un80",
+      "name": "中央種子島高校：駐輪場",
+      "image": "https://image.anitabi.cn/points/37673/d4w21un80_1695200987454.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        30.5408,
+        130.9605
+      ]
+    },
+    {
+      "id": "d4w21un3w",
+      "cn": "雄龍・雌龍の岩",
+      "name": "雄龍・雌龍の岩",
+      "image": "https://image.anitabi.cn/user/1007/bangumi/37673/points/d4w21un3w-1695524797193.jpg?plan=h160",
+      "ep": 15,
+      "geo": [
+        30.6109,
+        130.9501
+      ]
+    },
+    {
+      "id": "d4w21un3t",
+      "name": "宇宙ヶ丘公園（展望台）",
+      "image": "https://image.anitabi.cn/user/1007/bangumi/37673/points/d4w21un3t-1695524842230.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        30.3982,
+        130.9029
+      ]
+    },
+    {
+      "id": "d4w21ump2",
+      "name": "公立種子島病院",
+      "image": "https://image.anitabi.cn/user/1007/bangumi/37673/points/d4w21ump2-1695524898398.jpg?plan=h160",
+      "ep": 12,
+      "geo": [
+        30.4384,
+        130.914
+      ]
+    },
+    {
+      "id": "d4w21umqg",
+      "name": "門倉岬",
+      "image": "https://image.anitabi.cn/user/1007/bangumi/37673/points/d4w21umqg-1695524931819.jpg?plan=h160",
+      "ep": 16,
+      "geo": [
+        30.3443,
+        130.8835
+      ]
+    },
+    {
+      "id": "d4w21unbh",
+      "name": "伊禮商店（アイSHOP永井店）",
+      "image": "https://image.anitabi.cn/user/1081/bangumi/37673/points/d4w21unbh-1729757080753.jpg?plan=h160",
+      "s": 115,
+      "geo": [
+        30.5397,
+        130.96
+      ]
+    }
+  ],
+  "pointsLength": 38,
+  "imagesLength": 10,
+  "local_id": 248
+}

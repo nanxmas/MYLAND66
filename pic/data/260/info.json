@@ -1,0 +1,131 @@
+{
+  "id": 41658,
+  "cn": "向山进发",
+  "title": "ヤマノススメ",
+  "city": "饭能市",
+  "cover": "https://image.xinu.ink/pic/data/260/images/41658.jpg",
+  "color": "#6a9580",
+  "cp": "スター エンターテイメント",
+  "geo": [
+    35.85786919164191,
+    139.31227604286403
+  ],
+  "zoom": 15.004,
+  "modified": 1734358363333,
+  "litePoints": [
+    {
+      "id": "97zexsr9u",
+      "name": "西武池袋線 東飯能2号踏切",
+      "image": "https://image.anitabi.cn/points/41658/97zexsr9u_1719899389490.jpg?plan=h160",
+      "ep": 1,
+      "s": 168,
+      "geo": [
+        35.8555,
+        139.3244
+      ]
+    },
+    {
+      "id": "9j2pz3kvp",
+      "name": "中央公園西側 箕ノ口公園",
+      "image": "https://image.anitabi.cn/points/41658/9j2pz3kvp_1719899382305.jpg?plan=h160",
+      "ep": 1,
+      "s": 174,
+      "geo": [
+        35.8589,
+        139.3092
+      ]
+    },
+    {
+      "id": "lw2zyimbg",
+      "name": "飯能銀座商店街",
+      "image": "https://image.anitabi.cn/user/0/bangumi/41658/points/lw2zyimbg-1720363563590.jpg?plan=h160",
+      "ep": 5,
+      "s": 173,
+      "geo": [
+        35.8536,
+        139.3174
+      ]
+    },
+    {
+      "id": "lw2wesiqz",
+      "cn": "儿童图书馆",
+      "name": "こども図書館",
+      "image": "https://image.anitabi.cn/points/41658/lw2wesiqz_1719900516559.jpg?plan=h160",
+      "ep": 2,
+      "s": 29,
+      "geo": [
+        35.8539,
+        139.3114
+      ]
+    },
+    {
+      "id": "9j2pz3kq6",
+      "name": "中央公園の遊具",
+      "image": "https://image.anitabi.cn/points/41658/9j2pz3kq6_1719900197720.jpg?plan=h160",
+      "ep": 2,
+      "s": 378,
+      "geo": [
+        35.8591,
+        139.3115
+      ]
+    },
+    {
+      "id": "9804j1vg4",
+      "name": "能仁寺",
+      "image": "https://image.anitabi.cn/points/41658/9804j1vg4_1719899247342.jpg?plan=h160",
+      "ep": 3,
+      "s": 55,
+      "geo": [
+        35.8593,
+        139.3103
+      ]
+    },
+    {
+      "id": "9804j1wet",
+      "name": "天覧山入口",
+      "image": "https://image.anitabi.cn/user/1020/bangumi/41658/points/9804j1wet-1684161966300.jpg?plan=h160",
+      "ep": 3,
+      "s": 60,
+      "geo": [
+        35.8599,
+        139.3113
+      ]
+    },
+    {
+      "id": "9804j1vvd",
+      "name": "天覧山標識",
+      "image": "https://image.anitabi.cn/points/41658/9804j1vvd_1719899366575.jpg?plan=h160",
+      "ep": 3,
+      "s": 75,
+      "geo": [
+        35.8593,
+        139.3113
+      ]
+    },
+    {
+      "id": "9804j1w1p",
+      "name": "天覧山登山道",
+      "image": "https://image.anitabi.cn/user/1020/bangumi/41658/points/9804j1w1p-1684162551441.jpg?plan=h160",
+      "ep": 3,
+      "s": 77,
+      "geo": [
+        35.8609,
+        139.3114
+      ]
+    },
+    {
+      "id": "9804j1vrb",
+      "name": "登山道",
+      "image": "https://image.anitabi.cn/user/1020/bangumi/41658/points/9804j1vrb-1684162730138.jpg?plan=h160",
+      "ep": 3,
+      "s": 98,
+      "geo": [
+        35.8621,
+        139.3091
+      ]
+    }
+  ],
+  "pointsLength": 67,
+  "imagesLength": 67,
+  "local_id": 260
+}

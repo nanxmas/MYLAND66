@@ -1,0 +1,85 @@
+{
+  "id": 24823,
+  "cn": "蜡笔小新",
+  "title": "クレヨンしんちゃん",
+  "city": "春日部市",
+  "cover": "https://image.xinu.ink/pic/data/221/images/24823.jpg",
+  "color": "#e63930",
+  "geo": [
+    35.98038477549851,
+    139.7576244596475
+  ],
+  "zoom": 13.106,
+  "modified": 1732697916247,
+  "litePoints": [
+    {
+      "id": "jp05zs24w",
+      "cn": "登别熊牧场",
+      "name": "のぼり​べつ​クマ​牧場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/24823/points/jp05zs24w-1713703884034.jpg?plan=h160",
+      "ep": 97,
+      "s": 731,
+      "geo": [
+        42.4893,
+        141.1589
+      ]
+    },
+    {
+      "id": "jp084786l",
+      "cn": "五棱郭塔",
+      "name": "五稜郭タワー",
+      "image": "https://image.anitabi.cn/user/0/bangumi/24823/points/jp084786l-1713703936265.jpg?plan=h160",
+      "ep": 356,
+      "s": 337,
+      "geo": [
+        41.7945,
+        140.7539
+      ]
+    },
+    {
+      "id": "jp0k8sega",
+      "cn": "八幡坂",
+      "name": "八幡坂通",
+      "image": "https://image.anitabi.cn/user/0/bangumi/24823/points/jp0k8sega-1713704685720.jpg?plan=h160",
+      "ep": 5,
+      "s": 1281,
+      "geo": [
+        41.7647,
+        140.7127
+      ]
+    },
+    {
+      "id": "nxap3l932",
+      "name": "イトーヨーカドー春日部店",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/24823/points/nxap3l932-1725638328347.jpg?plan=h160",
+      "ep": 17,
+      "s": 372,
+      "geo": [
+        35.9795,
+        139.75
+      ]
+    },
+    {
+      "id": "nx9hqria9",
+      "cn": "春日部站",
+      "name": "春日部駅",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/24823/points/nx9hqria9-1725635579845.jpg?plan=h160",
+      "geo": [
+        35.9804,
+        139.7526
+      ]
+    },
+    {
+      "id": "nxazuqxd4",
+      "name": "春日部市役所",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/24823/points/nxazuqxd4-1725638752369.jpg?plan=h160",
+      "geo": [
+        35.9742,
+        139.7559
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 221
+}

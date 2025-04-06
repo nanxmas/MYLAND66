@@ -1,0 +1,34 @@
+{
+  "id": 38655,
+  "cn": "奥特曼",
+  "title": "ULTRAMAN",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/255/images/38655_Kr0G9.jpg",
+  "modified": 1727368908629,
+  "litePoints": [
+    {
+      "id": "oj3rw12f8",
+      "cn": "甲州街道",
+      "name": "甲州街道",
+      "image": "https://image.anitabi.cn/user/0/bangumi/38655/points/oj3rw12f8-1727347036768.jpg?plan=h160",
+      "s": 3825,
+      "geo": [
+        35.6839,
+        139.6907
+      ]
+    },
+    {
+      "id": "oj3z4ma5x",
+      "name": "新宿大ガード西",
+      "image": "https://image.anitabi.cn/user/0/bangumi/38655/points/oj3z4ma5x-1727347665043.jpg?plan=h160",
+      "s": 3695,
+      "geo": [
+        35.6936,
+        139.699
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 255
+}

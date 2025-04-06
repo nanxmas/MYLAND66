@@ -1,0 +1,86 @@
+{
+  "id": 37785,
+  "cn": "来自新世界",
+  "title": "新世界より",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/250/images/37785.jpg",
+  "color": "#466698",
+  "geo": [
+    35.912928605319664,
+    140.22121231468776
+  ],
+  "zoom": 8.954,
+  "modified": 1729940758553,
+  "litePoints": [
+    {
+      "id": "pg74n98x7",
+      "name": "南阿佐ヶ谷駅",
+      "image": "https://image.anitabi.cn/points/37785/pg74n98x7_1729940332235.jpg?plan=h160",
+      "ep": 1,
+      "s": 14,
+      "geo": [
+        35.6993,
+        139.6356
+      ]
+    },
+    {
+      "id": "pg7auqmsq",
+      "name": "筑波山神社",
+      "image": "https://image.anitabi.cn/points/37785/pg7auqmsq_1729940710572.jpg?plan=h160",
+      "ep": 3,
+      "s": 846,
+      "geo": [
+        36.2133,
+        140.1011
+      ]
+    },
+    {
+      "id": "pg5bn03uh",
+      "cn": "仓泽集落（废村）",
+      "name": "倉沢集落（廃村）",
+      "image": "https://image.anitabi.cn/points/37785/pg5bn03uh_1729940064368.jpg?plan=h160",
+      "ep": 11,
+      "s": 712,
+      "geo": [
+        35.8444,
+        139.0641
+      ]
+    },
+    {
+      "id": "pg5l3mzyk",
+      "cn": "入谷集落（废村）",
+      "name": "入谷集落（廃村）",
+      "image": "https://image.anitabi.cn/points/37785/pg5l3mzyk_1729940071460.jpg?plan=h160",
+      "ep": 11,
+      "s": 715,
+      "geo": [
+        35.2612,
+        136.3474
+      ]
+    },
+    {
+      "id": "pg5cqky0h",
+      "cn": "落合集落（废村） 落合神社",
+      "name": "落合集落（廃村） 落合神社",
+      "image": "https://image.anitabi.cn/points/37785/pg5cqky0h_1729940077945.jpg?plan=h160",
+      "ep": 11,
+      "s": 721,
+      "geo": [
+        35.268,
+        136.3526
+      ]
+    },
+    {
+      "id": "pg5sh56y5",
+      "name": "神栖市",
+      "image": "https://image.anitabi.cn/points/37785/pg5sh56y5_1729939466858.jpg?plan=h160",
+      "geo": [
+        35.8894,
+        140.6641
+      ]
+    }
+  ],
+  "pointsLength": 13,
+  "imagesLength": 13,
+  "local_id": 250
+}

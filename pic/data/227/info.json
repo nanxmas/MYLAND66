@@ -1,0 +1,121 @@
+{
+  "id": 26825,
+  "cn": "夏色奇迹",
+  "title": "夏色キセキ",
+  "city": "下田市",
+  "cover": "https://image.xinu.ink/pic/data/227/images/26825.jpg",
+  "color": "#6a7f95",
+  "cp": "夏色キセキ",
+  "geo": [
+    34.67049529207719,
+    138.95005508113843
+  ],
+  "zoom": 13.95,
+  "modified": 1734538163692,
+  "litePoints": [
+    {
+      "id": "4v8quould",
+      "name": "伊豆急下田駅前バスターミナル",
+      "image": "https://image.anitabi.cn/points/26825/4v8quould_1734537962436.jpg?plan=h160",
+      "ep": 4,
+      "s": 92,
+      "geo": [
+        34.6786,
+        138.9444
+      ]
+    },
+    {
+      "id": "4v8quou8e",
+      "name": "伊豆急下田駅",
+      "image": "https://image.anitabi.cn/points/26825/4v8quou8e_1734537446439.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        34.6791,
+        138.9441
+      ]
+    },
+    {
+      "id": "4v8quotxx",
+      "name": "ローソン下田駅前店（门口）",
+      "image": "https://image.anitabi.cn/points/26825/4v8quotxx_1734537460751.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.6783,
+        138.9448
+      ]
+    },
+    {
+      "id": "4v8quou7i",
+      "name": "ローソン下田駅前店（对面）",
+      "image": "https://image.anitabi.cn/points/26825/4v8quou7i_1734537638471.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        34.6782,
+        138.9445
+      ]
+    },
+    {
+      "id": "4v8quou6y",
+      "name": "ローソン下田駅前店（马路）",
+      "image": "https://image.anitabi.cn/points/26825/4v8quou6y_1734537535726.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        34.6784,
+        138.9445
+      ]
+    },
+    {
+      "id": "4v8quou9b",
+      "name": "「中島橋」交差点",
+      "image": "https://image.anitabi.cn/points/26825/4v8quou9b_1734537834088.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        34.6779,
+        138.9453
+      ]
+    },
+    {
+      "id": "4v8quou8c",
+      "name": "まどが浜海遊公園",
+      "image": "https://image.anitabi.cn/points/26825/4v8quou8c_1734537844583.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        34.6758,
+        138.9554
+      ]
+    },
+    {
+      "id": "4v8quovdm",
+      "name": "下田公園（開国広場）俯瞰",
+      "image": "https://image.anitabi.cn/points/26825/4v8quovdm_1734536575157.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        34.6701,
+        138.9461
+      ]
+    },
+    {
+      "id": "4v8quov60",
+      "name": "下田公園（開国広場）阶梯口",
+      "image": "https://image.anitabi.cn/points/26825/4v8quov60_1734536596694.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        34.6702,
+        138.9453
+      ]
+    },
+    {
+      "id": "4v8quourh",
+      "name": "下田海中水族館（入口前のカメ池）",
+      "image": "https://image.anitabi.cn/points/26825/4v8quourh_1734537120886.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        34.6663,
+        138.9461
+      ]
+    }
+  ],
+  "pointsLength": 40,
+  "imagesLength": 40,
+  "local_id": 227
+}

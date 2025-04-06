@@ -1,0 +1,74 @@
+[
+  {
+    "id": "r903qf4fc",
+    "cn": "克里姆林宫",
+    "name": "Патриаршие палаты",
+    "image": "https://image.xinu.ink/pic/data/239/images/r903qf4fc-1735032264133.jpg",
+    "ep": "48",
+    "s": "851",
+    "geo": [
+      55.7513,
+      37.6172
+    ]
+  },
+  {
+    "id": "r96iv2wn6",
+    "cn": "白宫",
+    "name": "White House",
+    "image": "https://image.xinu.ink/pic/data/239/images/r96iv2wn6-1735032712844.jpg",
+    "ep": "48",
+    "s": "842",
+    "geo": [
+      38.8973,
+      -77.0366
+    ]
+  },
+  {
+    "id": "r96l7n44t",
+    "cn": "故宫",
+    "name": "故宫",
+    "image": "https://image.xinu.ink/pic/data/239/images/r96l7n44t-1735032833027.jpg",
+    "ep": "48",
+    "s": "845",
+    "geo": [
+      39.9166,
+      116.3908
+    ]
+  },
+  {
+    "id": "r96mxp938",
+    "cn": "卢浮宫博物馆",
+    "name": "Musée du Louvre",
+    "image": "https://image.xinu.ink/pic/data/239/images/r96mxp938-1735032958903.jpg",
+    "ep": "48",
+    "s": "846",
+    "geo": [
+      48.8608,
+      2.3364
+    ]
+  },
+  {
+    "id": "r96sasd43",
+    "cn": "大本钟",
+    "name": "Big Ben",
+    "image": "https://image.xinu.ink/pic/data/239/images/r96sasd43-1735033260323.jpg",
+    "ep": "48",
+    "s": "848",
+    "geo": [
+      51.5007,
+      -0.1246
+    ]
+  },
+  {
+    "id": "r96v4ld8o",
+    "cn": "悉尼歌剧院",
+    "name": "Sydney Opera House",
+    "image": "https://image.xinu.ink/pic/data/239/images/r96v4ld8o-1735033445808.jpg",
+    "ep": "48",
+    "s": "849",
+    "geo": [
+      -33.8571,
+      151.2152
+    ]
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "id": 27914,
+  "cn": "Root Double -Before Crime * After Days-",
+  "title": "ルートダブル -Before Crime * After Days-",
+  "city": "筑波市",
+  "cover": "https://image.xinu.ink/pic/data/231/images/27914.jpg",
+  "color": "#d10000",
+  "geo": [
+    36.07711835515781,
+    140.0830291050305
+  ],
+  "zoom": 10.94,
+  "modified": 1720317085562,
+  "litePoints": [
+    {
+      "id": "lxa35l6hv",
+      "name": "鹿鸣市地图",
+      "image": "https://image.anitabi.cn/points/27914/lxa35l6hv_1719994544837.jpg?plan=h160",
+      "geo": [
+        36.0857,
+        140.1104
+      ]
+    },
+    {
+      "id": "lxaa7qsd3",
+      "name": "大清水公園西交差点",
+      "image": "https://image.anitabi.cn/points/27914/lxaa7qsd3_1720001822681.jpg?plan=h160",
+      "geo": [
+        36.0803,
+        140.1131
+      ]
+    },
+    {
+      "id": "lxaquhiiz",
+      "name": "研究学園都市ゲート「白虎」",
+      "image": "https://image.anitabi.cn/points/27914/lxaquhiiz_1720001841128.jpg?plan=h160",
+      "geo": [
+        36.073,
+        140.0788
+      ]
+    },
+    {
+      "id": "lxdk3ynm0",
+      "name": "つくば市消防本部中央消防署跡地",
+      "image": "https://image.anitabi.cn/points/27914/lxdk3ynm0_1720002263717.jpg?plan=h160",
+      "geo": [
+        36.0906,
+        140.1021
+      ]
+    },
+    {
+      "id": "lxdp3ajn8",
+      "name": "霞ケ浦",
+      "image": "https://image.anitabi.cn/points/27914/lxdp3ajn8_1720002400312.jpg?plan=h160",
+      "geo": [
+        36.0633,
+        140.2221
+      ]
+    },
+    {
+      "id": "lxdxmlpff",
+      "name": "科学​万博​記念公園",
+      "image": "https://image.anitabi.cn/points/27914/lxdxmlpff_1720002903046.jpg?plan=h160",
+      "geo": [
+        36.0634,
+        140.0726
+      ]
+    },
+    {
+      "id": "lxagdwgci",
+      "name": "研究学園都市ゲート「青竜」",
+      "geo": [
+        36.0852,
+        140.1242
+      ]
+    },
+    {
+      "id": "lxatz7bgg",
+      "name": "研究学園都市ゲート「玄武」",
+      "geo": [
+        36.1569,
+        140.0771
+      ]
+    },
+    {
+      "id": "lxalj4bvh",
+      "name": "研究学園都市ゲート「朱雀」",
+      "geo": [
+        36.0078,
+        140.1344
+      ]
+    },
+    {
+      "id": "lxb6zxvcx",
+      "name": "研究学園都市ゲート「研究」",
+      "geo": [
+        36.0494,
+        140.1225
+      ]
+    }
+  ],
+  "pointsLength": 11,
+  "imagesLength": 6,
+  "local_id": 231
+}

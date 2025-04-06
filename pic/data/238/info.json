@@ -1,0 +1,110 @@
+{
+  "id": 31413,
+  "cn": "织田信奈的野望",
+  "title": "織田信奈の野望",
+  "city": "京都市",
+  "cover": "https://image.xinu.ink/pic/data/238/images/31413.jpg",
+  "color": "#8e711c",
+  "cp": "織田信奈の野望",
+  "geo": [
+    35.064019465229734,
+    135.83779131880016
+  ],
+  "zoom": 11.014,
+  "modified": 1726751900061,
+  "litePoints": [
+    {
+      "id": "d4911143",
+      "name": "子安の塔",
+      "image": "https://image.anitabi.cn/points/31413/d4911143_1718877171965.jpg?plan=h160",
+      "geo": [
+        34.993,
+        135.7849
+      ]
+    },
+    {
+      "id": "471247fa",
+      "name": "京都御所",
+      "image": "https://image.anitabi.cn/points/31413/471247fa_1718877982038.jpg?plan=h160",
+      "geo": [
+        35.0266,
+        135.7607
+      ]
+    },
+    {
+      "id": "e3c5b40d",
+      "name": "清水寺",
+      "image": "https://image.anitabi.cn/points/31413/e3c5b40d_1718877270565.jpg?plan=h160",
+      "geo": [
+        34.9946,
+        135.785
+      ]
+    },
+    {
+      "id": "870a4a33",
+      "name": "清水寺 奥の院",
+      "image": "https://image.anitabi.cn/points/31413/870a4a33_1718877511461.jpg?plan=h160",
+      "geo": [
+        34.9945,
+        135.7855
+      ]
+    },
+    {
+      "id": "3944a4e9",
+      "name": "清水寺 音羽の滝",
+      "image": "https://image.anitabi.cn/points/31413/3944a4e9_1718877198293.jpg?plan=h160",
+      "geo": [
+        34.9944,
+        135.7852
+      ]
+    },
+    {
+      "id": "57182a6f",
+      "name": "清水寺 仁王門",
+      "image": "https://image.anitabi.cn/points/31413/57182a6f_1718877225861.jpg?plan=h160",
+      "geo": [
+        34.9953,
+        135.7834
+      ]
+    },
+    {
+      "id": "7bc8df52",
+      "name": "清水寺 西門",
+      "image": "https://image.anitabi.cn/points/31413/7bc8df52_1718877234516.jpg?plan=h160",
+      "geo": [
+        34.9951,
+        135.7834
+      ]
+    },
+    {
+      "id": "166fd410",
+      "name": "紫宸殿",
+      "image": "https://image.anitabi.cn/points/31413/166fd410_1718877347655.jpg?plan=h160",
+      "geo": [
+        35.0235,
+        135.7624
+      ]
+    },
+    {
+      "id": "5d3d4908",
+      "name": "比叡山延暦寺（根本中堂）",
+      "image": "https://image.anitabi.cn/points/31413/5d3d4908_1718877877677.jpg?plan=h160",
+      "geo": [
+        35.0704,
+        135.8414
+      ]
+    },
+    {
+      "id": "8b679473",
+      "name": "比叡山延暦寺（阿弥陀堂・法華総持院東塔）",
+      "image": "https://image.anitabi.cn/points/31413/8b679473_1718877882317.jpg?plan=h160",
+      "geo": [
+        35.0689,
+        135.8384
+      ]
+    }
+  ],
+  "pointsLength": 12,
+  "imagesLength": 12,
+  "local_id": 238
+}

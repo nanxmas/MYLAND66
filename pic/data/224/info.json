@@ -1,0 +1,128 @@
+{
+  "id": 25961,
+  "cn": "猫和老鼠",
+  "title": "Tom and Jerry",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/224/images/25961.jpg",
+  "color": "#ffab01",
+  "geo": [
+    41.144000574117854,
+    -73.5251218966541
+  ],
+  "zoom": 6.055,
+  "modified": 1726751895109,
+  "litePoints": [
+    {
+      "id": "5hanyu97e",
+      "cn": "好莱坞露天剧场",
+      "name": "Hollywood Bowl",
+      "image": "https://image.anitabi.cn/user/0/bangumi/25961/points/5hanyu97e-1673604199914.jpg?plan=h160",
+      "ep": 51,
+      "geo": [
+        34.1121,
+        -118.3393
+      ]
+    },
+    {
+      "id": "5hafuzlpl",
+      "cn": "尼西达岛",
+      "name": "Isola di Nisida",
+      "image": "https://image.anitabi.cn/user/0/bangumi/25961/points/5hafuzlpl-1673603710350.jpg?plan=h160",
+      "ep": 86,
+      "geo": [
+        40.7961,
+        14.164
+      ]
+    },
+    {
+      "id": "5haee34re",
+      "name": "Fontana del Gigante",
+      "image": "https://image.anitabi.cn/user/0/bangumi/25961/points/5haee34re-1673603623497.jpg?plan=h160",
+      "ep": 86,
+      "geo": [
+        40.8297,
+        14.25
+      ]
+    },
+    {
+      "id": "5haa52cn3",
+      "cn": "圣卡洛剧院",
+      "name": "Teatro di San Carlo",
+      "image": "https://image.anitabi.cn/user/0/bangumi/25961/points/5haa52cn3-1673603375032.jpg?plan=h160",
+      "ep": 86,
+      "geo": [
+        40.8373,
+        14.2498
+      ]
+    },
+    {
+      "id": "5ha749oz8",
+      "cn": "海神喷泉",
+      "name": "Fontana del Carciofo",
+      "image": "https://image.anitabi.cn/user/0/bangumi/25961/points/5ha749oz8-1673603200731.jpg?plan=h160",
+      "ep": 86,
+      "geo": [
+        40.8371,
+        14.2487
+      ]
+    },
+    {
+      "id": "5ha4o2p2y",
+      "cn": "新堡",
+      "name": "Castel Nuovo",
+      "image": "https://image.anitabi.cn/user/0/bangumi/25961/points/5ha4o2p2y-1673603035501.jpg?plan=h160",
+      "ep": 86,
+      "geo": [
+        40.8382,
+        14.2537
+      ]
+    },
+    {
+      "id": "5h9yhgmqt",
+      "cn": "曼哈顿大桥",
+      "name": "Manhattan Bridge",
+      "image": "https://image.anitabi.cn/user/0/bangumi/25961/points/5h9yhgmqt-1673602665834.jpg?plan=h160",
+      "ep": 19,
+      "geo": [
+        40.707,
+        -73.9903
+      ]
+    },
+    {
+      "id": "5h9veq2jg",
+      "cn": "时报广场",
+      "name": "Times Square",
+      "image": "https://image.anitabi.cn/user/0/bangumi/25961/points/5h9veq2jg-1673602474474.jpg?plan=h160",
+      "ep": 19,
+      "geo": [
+        40.7572,
+        -73.986
+      ]
+    },
+    {
+      "id": "5h9pbos5y",
+      "cn": "中央车站",
+      "name": "Grand Central Terminal",
+      "image": "https://image.anitabi.cn/user/0/bangumi/25961/points/5h9pbos5y-1673602107749.jpg?plan=h160",
+      "ep": 19,
+      "geo": [
+        40.7526,
+        -73.9773
+      ]
+    },
+    {
+      "id": "5h9mwadwk",
+      "cn": "阿特拉斯雕像",
+      "name": "Atlas",
+      "image": "https://image.anitabi.cn/user/0/bangumi/25961/points/5h9mwadwk-1673602019538.jpg?plan=h160",
+      "ep": 19,
+      "geo": [
+        40.7589,
+        -73.9772
+      ]
+    }
+  ],
+  "pointsLength": 12,
+  "imagesLength": 12,
+  "local_id": 224
+}

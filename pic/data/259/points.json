@@ -1,0 +1,49 @@
+[
+  {
+    "id": "kpx6oo6ik",
+    "name": "札幌市時計台",
+    "image": "https://image.xinu.ink/pic/data/259/images/kpx6oo6ik-1737035010983.jpg",
+    "ep": 13,
+    "s": 140,
+    "geo": [
+      43.0625,
+      141.3533
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Cl5kkNXJHLpr7y1pR64oRjZIw8Q&ll=43.062556%2C141.353359&z=17"
+  },
+  {
+    "id": "kpx6oo6r8",
+    "cn": "新世界",
+    "name": "新世界",
+    "image": "https://image.xinu.ink/pic/data/259/images/kpx6oo6r8-1722161427445.jpg",
+    "ep": null,
+    "geo": [
+      34.651,
+      135.5057
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Cl5kkNXJHLpr7y1pR64oRjZIw8Q&ll=34.651083%2C135.505789&z=17"
+  },
+  {
+    "id": "g7cqze2ew",
+    "cn": "雷门",
+    "name": "雷門",
+    "image": "https://image.xinu.ink/pic/data/259/images/g7cqze2ew-1703857408457.jpg",
+    "ep": null,
+    "geo": [
+      35.7109,
+      139.7963
+    ]
+  },
+  {
+    "id": "g7cu1tmai",
+    "name": "仲見世通り",
+    "image": "https://image.xinu.ink/pic/data/259/images/g7cu1tmai-1703857510103.jpg",
+    "ep": null,
+    "geo": [
+      35.7118,
+      139.7964
+    ]
+  }
+]

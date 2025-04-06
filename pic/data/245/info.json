@@ -1,0 +1,128 @@
+{
+  "id": 37137,
+  "title": "TARI TARI",
+  "city": "镰仓市",
+  "cover": "https://image.xinu.ink/pic/data/245/images/37137.jpg",
+  "color": "#6a7f95",
+  "geo": [
+    35.307631,
+    139.488087
+  ],
+  "zoom": 14,
+  "modified": 1739081767602,
+  "litePoints": [
+    {
+      "id": "4slhba7x4",
+      "name": "和奏が立ち寄った花屋さん",
+      "image": "https://image.anitabi.cn/points/37137/4slhba7x4.jpg?plan=h160",
+      "ep": 1,
+      "s": 287,
+      "geo": [
+        35.3125,
+        139.4877
+      ]
+    },
+    {
+      "id": "4slhba8cc",
+      "name": "来夏が歌っていた時計台",
+      "image": "https://image.anitabi.cn/points/37137/4slhba8cc.jpg?plan=h160",
+      "ep": 1,
+      "s": 1281,
+      "geo": [
+        35.3191,
+        139.5499
+      ]
+    },
+    {
+      "id": "4slhba897",
+      "name": "OPに登場する駅",
+      "image": "https://image.anitabi.cn/points/37137/4slhba897.jpg?plan=h160",
+      "ep": 1,
+      "s": 233,
+      "geo": [
+        35.3067,
+        139.5003
+      ]
+    },
+    {
+      "id": "4slhba8fq",
+      "name": "OPに登場するワンシーン",
+      "image": "https://image.anitabi.cn/points/37137/4slhba8fq.jpg?plan=h160",
+      "ep": 13,
+      "s": 57,
+      "geo": [
+        35.3064,
+        139.502
+      ]
+    },
+    {
+      "id": "4slhba837",
+      "name": "OPワンシーン",
+      "image": "https://image.anitabi.cn/points/37137/4slhba837.jpg?plan=h160",
+      "ep": 6,
+      "s": 80,
+      "geo": [
+        35.3089,
+        139.5344
+      ]
+    },
+    {
+      "id": "4slhba8hq",
+      "name": "一瞬登場するATM",
+      "image": "https://image.anitabi.cn/points/37137/4slhba8hq.jpg?plan=h160",
+      "ep": 1,
+      "s": 1279,
+      "geo": [
+        35.3191,
+        139.5501
+      ]
+    },
+    {
+      "id": "4slhba8k1",
+      "name": "OP/紗羽と家の門",
+      "image": "https://image.anitabi.cn/points/37137/4slhba8k1.jpg?plan=h160",
+      "ep": 3,
+      "s": 44,
+      "geo": [
+        35.3332,
+        139.5467
+      ]
+    },
+    {
+      "id": "4slhba82a",
+      "name": "紗羽の家（お寺さん）のモデル",
+      "image": "https://image.anitabi.cn/points/37137/4slhba82a.jpg?plan=h160",
+      "ep": 13,
+      "s": 75,
+      "geo": [
+        35.3333,
+        139.5464
+      ]
+    },
+    {
+      "id": "4slhba842",
+      "name": "来夏と紗羽が休憩していたカフェ",
+      "image": "https://image.anitabi.cn/points/37137/4slhba842.jpg?plan=h160",
+      "ep": 1,
+      "s": 1214,
+      "geo": [
+        35.2992,
+        139.4787
+      ]
+    },
+    {
+      "id": "4slhba8bp",
+      "name": "半額セール中の緑の屋根のお店",
+      "image": "https://image.anitabi.cn/points/37137/4slhba8bp.jpg?plan=h160",
+      "ep": 2,
+      "s": 143,
+      "geo": [
+        35.3191,
+        139.55
+      ]
+    }
+  ],
+  "pointsLength": 116,
+  "imagesLength": 74,
+  "local_id": 245
+}

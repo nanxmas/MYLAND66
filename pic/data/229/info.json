@@ -1,0 +1,99 @@
+{
+  "id": 27236,
+  "cn": "恋爱与选举与巧克力",
+  "title": "恋と選挙とチョコレート",
+  "cover": "https://image.xinu.ink/pic/data/229/images/27236.jpg",
+  "color": "#2b7fd4",
+  "geo": [
+    35.683043,
+    139.847438
+  ],
+  "modified": 1714027975098,
+  "litePoints": [
+    {
+      "id": "ar08fb64f",
+      "cn": "木场大桥",
+      "name": "木場大橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/27236/points/ar08fb64f-1688470804605.jpg?plan=h160",
+      "geo": [
+        35.6749,
+        139.809
+      ]
+    },
+    {
+      "id": "kpx6omd1v",
+      "name": "ポイント1",
+      "geo": [
+        35.6897,
+        139.8359
+      ]
+    },
+    {
+      "id": "kpx6omda6",
+      "name": "ポイント2",
+      "geo": [
+        35.6953,
+        139.8137
+      ]
+    },
+    {
+      "id": "kpx6omdtj",
+      "name": "ポイント3",
+      "geo": [
+        35.6853,
+        139.8202
+      ]
+    },
+    {
+      "id": "kpx6omdyt",
+      "name": "ポイント4",
+      "geo": [
+        35.6832,
+        139.8475
+      ]
+    },
+    {
+      "id": "kpx6omeol",
+      "name": "ポイント5",
+      "geo": [
+        35.6928,
+        139.8471
+      ]
+    },
+    {
+      "id": "kpx6omer3",
+      "name": "ポイント6",
+      "geo": [
+        35.6906,
+        139.8377
+      ]
+    },
+    {
+      "id": "kpx6ome4y",
+      "name": "おかしのまちおか",
+      "geo": [
+        35.6927,
+        139.8373
+      ]
+    },
+    {
+      "id": "kpx6omfa8",
+      "name": "マクドナルド",
+      "geo": [
+        35.69,
+        139.8351
+      ]
+    },
+    {
+      "id": "kpx6omf3b",
+      "name": "この辺で",
+      "geo": [
+        35.6961,
+        139.8214
+      ]
+    }
+  ],
+  "pointsLength": 15,
+  "imagesLength": 1,
+  "local_id": 229
+}

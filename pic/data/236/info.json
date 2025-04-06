@@ -1,0 +1,61 @@
+{
+  "id": 29883,
+  "cn": "新・福音战士剧场版：终",
+  "title": "シン・エヴァンゲリオン劇場版",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/236/images/29883.jpg",
+  "color": "#0e559c",
+  "geo": [
+    34.89959,
+    135.81192
+  ],
+  "zoom": 5,
+  "modified": 1728654409891,
+  "litePoints": [
+    {
+      "id": "2m71ecrrv",
+      "cn": "宇部新川站",
+      "name": "宇部新川站",
+      "image": "https://image.anitabi.cn/user/0/bangumi/265/points/2m71ecrrv-1675396937410.jpg?plan=h160",
+      "geo": [
+        33.9585,
+        131.2423
+      ]
+    },
+    {
+      "id": "mbx31l47m",
+      "cn": "天龙二俣站（第3村）",
+      "name": "天竜二俣",
+      "image": "https://image.anitabi.cn/user/1144/bangumi/265/points/mbx31l47m-1721141751810.jpg?plan=h160",
+      "geo": [
+        34.8594,
+        137.8198
+      ]
+    },
+    {
+      "id": "ozphnjeoe",
+      "cn": "埃菲尔铁塔",
+      "name": "Tour Eiffel",
+      "image": "https://image.anitabi.cn/user/0/bangumi/29883/points/ozphnjeoe-1728648225984.jpg?plan=h160",
+      "s": 255,
+      "geo": [
+        48.8582,
+        2.2944
+      ]
+    },
+    {
+      "id": "ozpl1empx",
+      "cn": "凯旋门",
+      "name": "Arc de Triomphe",
+      "image": "https://image.anitabi.cn/user/0/bangumi/29883/points/ozpl1empx-1728648321084.jpg?plan=h160",
+      "s": 262,
+      "geo": [
+        48.8737,
+        2.2952
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 236
+}

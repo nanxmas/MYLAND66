@@ -1,0 +1,111 @@
+{
+  "id": 43525,
+  "cn": "元气少女缘结神",
+  "title": "神様はじめました",
+  "city": "川越市",
+  "cover": "https://image.xinu.ink/pic/data/262/images/43525.jpg",
+  "color": "#755800",
+  "cp": "神様はじめました",
+  "geo": [
+    35.920266,
+    139.489374
+  ],
+  "zoom": 14,
+  "modified": 1733301126600,
+  "litePoints": [
+    {
+      "id": "kpx6ooyok",
+      "name": "SHIBUYA１０９",
+      "image": "https://image.anitabi.cn/user/0/bangumi/43525/points/kpx6ooyok-1724510851313.jpg?plan=h160",
+      "ep": 11,
+      "geo": [
+        35.6596,
+        139.6988
+      ]
+    },
+    {
+      "id": "kpx6oovma",
+      "name": "品川アクアスタジアム",
+      "image": "https://image.anitabi.cn/points/43525/kpx6oovma_1733297256693.jpg?plan=h160",
+      "geo": [
+        35.6284,
+        139.7354
+      ]
+    },
+    {
+      "id": "kpx6oovr8",
+      "name": "品川駅前歩道橋から",
+      "image": "https://image.anitabi.cn/points/43525/kpx6oovr8_1733297316245.jpg?plan=h160",
+      "geo": [
+        35.6292,
+        139.7375
+      ]
+    },
+    {
+      "id": "kpx6oow1q",
+      "name": "時の鐘前",
+      "image": "https://image.anitabi.cn/points/43525/kpx6oow1q_1733296088420.jpg?plan=h160",
+      "geo": [
+        35.9234,
+        139.4836
+      ]
+    },
+    {
+      "id": "kpx6oowdd",
+      "name": "川越高校",
+      "image": "https://image.anitabi.cn/points/43525/kpx6oowdd_1733298903592.jpg?plan=h160",
+      "geo": [
+        35.9235,
+        139.489
+      ]
+    },
+    {
+      "id": "kpx6oox0g",
+      "name": "富士見櫓跡",
+      "image": "https://image.anitabi.cn/points/43525/kpx6oox0g_1733297172543.jpg?plan=h160",
+      "geo": [
+        35.9229,
+        139.4905
+      ]
+    },
+    {
+      "id": "kpx6oowsf",
+      "name": "伊佐沼公園",
+      "image": "https://image.anitabi.cn/points/43525/kpx6oowsf_1733297052725.jpg?plan=h160",
+      "geo": [
+        35.9224,
+        139.5142
+      ]
+    },
+    {
+      "id": "kpx6ooxdv",
+      "name": "うなぎ 林屋",
+      "image": "https://image.anitabi.cn/points/43525/kpx6ooxdv_1733298592704.jpg?plan=h160",
+      "geo": [
+        35.9211,
+        139.4834
+      ]
+    },
+    {
+      "id": "kpx6ooxm9",
+      "name": "菓子屋横丁",
+      "image": "https://image.anitabi.cn/points/43525/kpx6ooxm9_1733296461052.jpg?plan=h160",
+      "geo": [
+        35.9247,
+        139.481
+      ]
+    },
+    {
+      "id": "kpx6ooxgy",
+      "name": "通学路（右側）",
+      "image": "https://image.anitabi.cn/points/43525/kpx6ooxgy_1733298727069.jpg?plan=h160",
+      "geo": [
+        35.9205,
+        139.4833
+      ]
+    }
+  ],
+  "pointsLength": 44,
+  "imagesLength": 41,
+  "local_id": 262
+}

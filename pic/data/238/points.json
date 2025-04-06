@@ -1,0 +1,112 @@
+[
+  {
+    "id": "d4911143",
+    "name": "子安の塔",
+    "image": "https://image.xinu.ink/pic/data/238/images/d4911143_1718877171965.jpg",
+    "geo": [
+      34.993,
+      135.7849
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1lsdL2SRDPhsb0DKzaJZQuctXBpE&ll=34.993026%2C135.784978&z=17"
+  },
+  {
+    "id": "471247fa",
+    "name": "京都御所",
+    "image": "https://image.xinu.ink/pic/data/238/images/471247fa_1718877982038.jpg",
+    "geo": [
+      35.0266,
+      135.7607
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1lsdL2SRDPhsb0DKzaJZQuctXBpE&ll=35.026667%2C135.76075&z=17"
+  },
+  {
+    "id": "e3c5b40d",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/238/images/e3c5b40d_1718877270565.jpg",
+    "geo": [
+      34.9946,
+      135.785
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1lsdL2SRDPhsb0DKzaJZQuctXBpE&ll=34.994685%2C135.785072&z=17"
+  },
+  {
+    "id": "870a4a33",
+    "name": "清水寺 奥の院",
+    "image": "https://image.xinu.ink/pic/data/238/images/870a4a33_1718877511461.jpg",
+    "geo": [
+      34.9945,
+      135.7855
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1lsdL2SRDPhsb0DKzaJZQuctXBpE&ll=34.994587%2C135.785506&z=17"
+  },
+  {
+    "id": "3944a4e9",
+    "name": "清水寺 音羽の滝",
+    "image": "https://image.xinu.ink/pic/data/238/images/3944a4e9_1718877198293.jpg",
+    "geo": [
+      34.9944,
+      135.7852
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1lsdL2SRDPhsb0DKzaJZQuctXBpE&ll=34.994422%2C135.785262&z=17"
+  },
+  {
+    "id": "57182a6f",
+    "name": "清水寺 仁王門",
+    "image": "https://image.xinu.ink/pic/data/238/images/57182a6f_1718877225861.jpg",
+    "geo": [
+      34.9953,
+      135.7834
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1lsdL2SRDPhsb0DKzaJZQuctXBpE&ll=34.995386%2C135.783449&z=17"
+  },
+  {
+    "id": "7bc8df52",
+    "name": "清水寺 西門",
+    "image": "https://image.xinu.ink/pic/data/238/images/7bc8df52_1718877234516.jpg",
+    "geo": [
+      34.9951,
+      135.7834
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1lsdL2SRDPhsb0DKzaJZQuctXBpE&ll=34.995186%2C135.783438&z=17"
+  },
+  {
+    "id": "166fd410",
+    "name": "紫宸殿",
+    "image": "https://image.xinu.ink/pic/data/238/images/166fd410_1718877347655.jpg",
+    "geo": [
+      35.0235,
+      135.7624
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1lsdL2SRDPhsb0DKzaJZQuctXBpE&ll=35.023561%2C135.762493&z=17"
+  },
+  {
+    "id": "5d3d4908",
+    "name": "比叡山延暦寺（根本中堂）",
+    "image": "https://image.xinu.ink/pic/data/238/images/5d3d4908_1718877877677.jpg",
+    "geo": [
+      35.0704,
+      135.8414
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1lsdL2SRDPhsb0DKzaJZQuctXBpE&ll=35.070434%2C135.841457&z=17"
+  },
+  {
+    "id": "8b679473",
+    "name": "比叡山延暦寺（阿弥陀堂・法華総持院東塔）",
+    "image": "https://image.xinu.ink/pic/data/238/images/8b679473_1718877882317.jpg",
+    "geo": [
+      35.0689,
+      135.8384
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1lsdL2SRDPhsb0DKzaJZQuctXBpE&ll=35.06891%2C135.838496&z=17"
+  }
+]

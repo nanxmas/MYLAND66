@@ -1,0 +1,108 @@
+{
+  "id": 41488,
+  "cn": "樱花庄的宠物女孩",
+  "title": "さくら荘のペットな彼女",
+  "city": "札幌市",
+  "cover": "https://image.xinu.ink/pic/data/259/images/41488.jpg",
+  "color": "#557faa",
+  "cp": "樱花庄制作委员会",
+  "geo": [
+    38.513788,
+    137.834473
+  ],
+  "zoom": 5,
+  "modified": 1737037358780,
+  "litePoints": [
+    {
+      "id": "kpx6oo6ik",
+      "name": "札幌市時計台",
+      "image": "https://image.anitabi.cn/user/0/bangumi/41488/points/kpx6oo6ik-1737035010983.jpg?plan=h160",
+      "ep": 13,
+      "s": 140,
+      "geo": [
+        43.0625,
+        141.3533
+      ]
+    },
+    {
+      "id": "kpx6oo6r8",
+      "cn": "新世界",
+      "name": "新世界",
+      "image": "https://image.anitabi.cn/user/0/bangumi/41488/points/kpx6oo6r8-1722161427445.jpg?plan=h160",
+      "geo": [
+        34.651,
+        135.5057
+      ]
+    },
+    {
+      "id": "g7cqze2ew",
+      "cn": "雷门",
+      "name": "雷門",
+      "image": "https://image.anitabi.cn/user/0/bangumi/41488/points/g7cqze2ew-1703857408457.jpg?plan=h160",
+      "geo": [
+        35.7109,
+        139.7963
+      ]
+    },
+    {
+      "id": "g7cu1tmai",
+      "name": "仲見世通り",
+      "image": "https://image.anitabi.cn/user/0/bangumi/41488/points/g7cu1tmai-1703857510103.jpg?plan=h160",
+      "geo": [
+        35.7118,
+        139.7964
+      ]
+    },
+    {
+      "id": "kpx6oo73a",
+      "name": "新千歳空港",
+      "geo": [
+        42.7877,
+        141.6811
+      ]
+    },
+    {
+      "id": "kpx6oo7wp",
+      "name": "JR札幌駅",
+      "geo": [
+        43.0687,
+        141.3513
+      ]
+    },
+    {
+      "id": "kpx6oo7qb",
+      "name": "札幌市時計台(内部1F2F)",
+      "geo": [
+        43.0625,
+        141.3535
+      ]
+    },
+    {
+      "id": "kpx6oo8or",
+      "name": "時計台までの道のり（右折した交差点）",
+      "geo": [
+        43.0625,
+        141.3547
+      ]
+    },
+    {
+      "id": "kpx6oo8o3",
+      "name": "旭川に向かう美咲の車が走る道路",
+      "geo": [
+        43.0625,
+        141.3533
+      ]
+    },
+    {
+      "id": "kpx6oo91c",
+      "name": "大通公園噴水",
+      "geo": [
+        43.0606,
+        141.353
+      ]
+    }
+  ],
+  "pointsLength": 43,
+  "imagesLength": 4,
+  "local_id": 259
+}

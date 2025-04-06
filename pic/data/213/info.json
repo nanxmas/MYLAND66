@@ -1,0 +1,129 @@
+{
+  "id": 22657,
+  "cn": "在盛夏等待",
+  "title": "あの夏で待ってる",
+  "city": "小诸市",
+  "cover": "https://image.xinu.ink/pic/data/213/images/22657.jpg",
+  "color": "#e8433b",
+  "geo": [
+    36.327988,
+    138.418658
+  ],
+  "zoom": 15,
+  "modified": 1727432977115,
+  "litePoints": [
+    {
+      "id": "37gd7r1",
+      "name": "くりやかわ橋",
+      "image": "https://image.anitabi.cn/points/22657/37gd7r1_1672192259030.jpg?plan=h160",
+      "ep": 1,
+      "s": 96,
+      "geo": [
+        36.3109,
+        138.4411
+      ]
+    },
+    {
+      "id": "37gd7qf",
+      "name": "乙女駅",
+      "image": "https://image.anitabi.cn/points/22657/37gd7qf_1672192281033.jpg?plan=h160",
+      "ep": 1,
+      "s": 107,
+      "geo": [
+        36.3113,
+        138.4405
+      ]
+    },
+    {
+      "id": "37gd7pv",
+      "name": "乙女湖",
+      "image": "https://image.anitabi.cn/points/22657/37gd7pv_1672192291387.jpg?plan=h160",
+      "ep": 1,
+      "s": 107,
+      "geo": [
+        36.3106,
+        138.4367
+      ]
+    },
+    {
+      "id": "37gd7qc",
+      "name": "ほんまち町屋館",
+      "image": "https://image.anitabi.cn/points/22657/37gd7qc_1672192305056.jpg?plan=h160",
+      "ep": 1,
+      "s": 114,
+      "geo": [
+        36.3295,
+        138.4238
+      ]
+    },
+    {
+      "id": "37gd7r8",
+      "name": "相生町交差点",
+      "image": "https://image.anitabi.cn/points/22657/37gd7r8_1672192329812.jpg?plan=h160",
+      "ep": 1,
+      "s": 143,
+      "geo": [
+        36.3278,
+        138.4243
+      ]
+    },
+    {
+      "id": "37gd7q4",
+      "name": "小諸市文化センター",
+      "image": "https://image.anitabi.cn/points/22657/37gd7q4_1672192407845.jpg?plan=h160",
+      "ep": 1,
+      "s": 162,
+      "geo": [
+        36.3108,
+        138.4371
+      ]
+    },
+    {
+      "id": "37gd7q1",
+      "name": "光岳寺",
+      "image": "https://image.anitabi.cn/points/22657/37gd7q1_1672192444426.jpg?plan=h160",
+      "ep": 1,
+      "s": 163,
+      "geo": [
+        36.3291,
+        138.4264
+      ]
+    },
+    {
+      "id": "37gd7qs",
+      "name": "懐古園 二の門",
+      "image": "https://image.anitabi.cn/points/22657/37gd7qs.jpg?plan=h160",
+      "ep": 1,
+      "s": 93,
+      "geo": [
+        36.3273,
+        138.4193
+      ]
+    },
+    {
+      "id": "37gd7rp",
+      "name": "懐古園入口交差点",
+      "image": "https://image.anitabi.cn/points/22657/37gd7rp_1672192510793.jpg?plan=h160",
+      "ep": 1,
+      "s": 144,
+      "geo": [
+        36.3298,
+        138.4192
+      ]
+    },
+    {
+      "id": "37gd7qp",
+      "name": "みはらし庭",
+      "image": "https://image.anitabi.cn/points/22657/37gd7qp_1672192528747.jpg?plan=h160",
+      "ep": 1,
+      "s": 175,
+      "geo": [
+        36.3296,
+        138.4237
+      ]
+    }
+  ],
+  "pointsLength": 94,
+  "imagesLength": 94,
+  "local_id": 213
+}

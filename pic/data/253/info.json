@@ -1,0 +1,39 @@
+{
+  "id": 38040,
+  "cn": "Little Busters!",
+  "title": "リトルバスターズ！",
+  "cover": "https://image.xinu.ink/pic/data/253/images/38040.jpg",
+  "color": "#557fff",
+  "geo": [
+    1.8366544079174645,
+    -157.39686435741484
+  ],
+  "zoom": 9.646,
+  "modified": 1738166849858,
+  "litePoints": [
+    {
+      "id": "m0pyabw9h",
+      "cn": "吉尔伯特群岛 圣诞岛",
+      "name": "Kiritimati",
+      "image": "https://image.anitabi.cn/user/0/bangumi/38040/points/m0pyabw9h-1720264864571.jpg?plan=h160",
+      "ep": 19,
+      "geo": [
+        1.8752,
+        -157.3968
+      ]
+    },
+    {
+      "id": "sd5pczxlc",
+      "cn": "麻布十番",
+      "name": "麻布十番",
+      "image": "https://image.anitabi.cn/user/2157/bangumi/38040/points/sd5pczxlc-1738165528952.jpg?plan=h160",
+      "geo": [
+        35.6551,
+        139.7354
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 253
+}

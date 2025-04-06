@@ -1,0 +1,34 @@
+{
+  "id": 43558,
+  "cn": "JOJO的奇妙冒险",
+  "title": "ジョジョの奇妙な冒険",
+  "cover": "https://image.xinu.ink/pic/data/264/images/43558.jpg",
+  "color": "#d41d1d",
+  "cp": "ジョジョの奇妙な冒険",
+  "modified": 1725230598948,
+  "litePoints": [
+    {
+      "id": "nrtz0x8a6",
+      "cn": "食尸鬼街",
+      "name": "Ponton Rd",
+      "image": "https://image.anitabi.cn/user/0/bangumi/43558/points/nrtz0x8a6-1725209879154.jpg?plan=h160",
+      "geo": [
+        51.4801,
+        -0.1337
+      ]
+    },
+    {
+      "id": "nru8cu78n",
+      "cn": "乔纳森的老家",
+      "name": "乔家大院",
+      "image": "https://image.anitabi.cn/user/0/bangumi/43558/points/nru8cu78n-1725210439773.jpg?plan=h160",
+      "geo": [
+        50.8959,
+        -0.6675
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 264
+}

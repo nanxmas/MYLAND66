@@ -1,0 +1,52 @@
+[
+  {
+    "id": "2m71ecrrv",
+    "cn": "宇部新川站",
+    "name": "宇部新川站",
+    "image": "https://image.xinu.ink/pic/data/236/images/2m71ecrrv-1675396937410.jpg",
+    "ep": null,
+    "geo": [
+      33.9585,
+      131.2423
+    ],
+    "origin": "Anitabi@itorr",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mbx31l47m",
+    "cn": "天龙二俣站（第3村）",
+    "name": "天竜二俣",
+    "image": "https://image.xinu.ink/pic/data/236/images/mbx31l47m-1721141751810.jpg",
+    "ep": null,
+    "geo": [
+      34.8594,
+      137.8198
+    ],
+    "origin": "Anitabi@HSYanger",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ozphnjeoe",
+    "cn": "埃菲尔铁塔",
+    "name": "Tour Eiffel",
+    "image": "https://image.xinu.ink/pic/data/236/images/ozphnjeoe-1728648225984.jpg",
+    "ep": null,
+    "s": 255,
+    "geo": [
+      48.8582,
+      2.2944
+    ]
+  },
+  {
+    "id": "ozpl1empx",
+    "cn": "凯旋门",
+    "name": "Arc de Triomphe",
+    "image": "https://image.xinu.ink/pic/data/236/images/ozpl1empx-1728648321084.jpg",
+    "ep": null,
+    "s": 262,
+    "geo": [
+      48.8737,
+      2.2952
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "id": 26804,
+  "cn": "魔法禁书目录 恩底弥翁的奇迹",
+  "title": "とある魔術の禁書目録 エンデュミオンの奇蹟",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/226/images/26804.jpg",
+  "color": "#8aa8f0",
+  "geo": [
+    35.656560745211095,
+    139.42143759984413
+  ],
+  "zoom": 11.321,
+  "modified": 1723705225295,
+  "litePoints": [
+    {
+      "id": "n80r5npg1",
+      "name": "小田急多摩センター中央口",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/26804/points/n80r5npg1-1723657345063.jpg?plan=h160",
+      "geo": [
+        35.6244,
+        139.4246
+      ]
+    },
+    {
+      "id": "n80s6yv62",
+      "name": "パルテノン大通り",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/26804/points/n80s6yv62-1723657390737.jpg?plan=h160",
+      "geo": [
+        35.6233,
+        139.4254
+      ]
+    },
+    {
+      "id": "n80wigrzb",
+      "name": "パルテノン多摩",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/26804/points/n80wigrzb-1723657649431.jpg?plan=h160",
+      "geo": [
+        35.6211,
+        139.4266
+      ]
+    },
+    {
+      "id": "n813wfh5x",
+      "name": "多摩モノレール立川北駅下",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/26804/points/n813wfh5x-1723658098536.jpg?plan=h160",
+      "geo": [
+        35.6992,
+        139.4124
+      ]
+    },
+    {
+      "id": "n816nucni",
+      "name": "立川駅北口",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/26804/points/n816nucni-1723658260800.jpg?plan=h160",
+      "geo": [
+        35.6989,
+        139.4133
+      ]
+    }
+  ],
+  "pointsLength": 18,
+  "imagesLength": 18,
+  "local_id": 226
+}

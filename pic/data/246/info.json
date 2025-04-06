@@ -1,0 +1,128 @@
+{
+  "id": 37154,
+  "cn": "恋爱随意链接",
+  "title": "ココロコネクト",
+  "city": "横滨市",
+  "cover": "https://image.xinu.ink/pic/data/246/images/37154.jpg",
+  "color": "#ee7caa",
+  "cp": "私立山星高校文研部",
+  "geo": [
+    35.553606,
+    139.579496
+  ],
+  "modified": 1736231927609,
+  "litePoints": [
+    {
+      "id": "mmolcucql",
+      "name": "OP摩天轮",
+      "image": "https://image.anitabi.cn/points/37154/mmolcucql_1721985500539.jpg?plan=h160",
+      "ep": 1,
+      "s": 154,
+      "geo": [
+        35.5541,
+        139.5786
+      ]
+    },
+    {
+      "id": "mmoty9xy3",
+      "name": "伊织挥手",
+      "image": "https://image.anitabi.cn/points/37154/mmoty9xy3_1721985794985.jpg?plan=h160",
+      "ep": 1,
+      "s": 166,
+      "geo": [
+        35.5544,
+        139.5784
+      ]
+    },
+    {
+      "id": "mmp5478h6",
+      "name": "买冰淇淋",
+      "image": "https://image.anitabi.cn/points/37154/mmp5478h6_1721986439933.jpg?plan=h160",
+      "ep": 1,
+      "s": 1279,
+      "geo": [
+        35.543,
+        139.5731
+      ]
+    },
+    {
+      "id": "mmp9by18x",
+      "cn": "ED步行道上",
+      "name": "歩道に佇む太一たち",
+      "image": "https://image.anitabi.cn/points/37154/mmp9by18x_1721986701056.jpg?plan=h160",
+      "ep": 1,
+      "s": 1343,
+      "geo": [
+        35.547,
+        139.5753
+      ]
+    },
+    {
+      "id": "mmpbxyrs9",
+      "name": "OP内的五人",
+      "image": "https://image.anitabi.cn/points/37154/mmpbxyrs9_1721986846846.jpg?plan=h160",
+      "ep": 1,
+      "s": 171,
+      "geo": [
+        35.5542,
+        139.5784
+      ]
+    },
+    {
+      "id": "mmpidudnz",
+      "name": "ED里的桥",
+      "image": "https://image.anitabi.cn/points/37154/mmpidudnz_1721987304465.jpg?plan=h160",
+      "ep": 1,
+      "s": 1391,
+      "geo": [
+        35.496,
+        139.617
+      ]
+    },
+    {
+      "id": "mmpm4fqwv",
+      "name": "高架桥下",
+      "image": "https://image.anitabi.cn/points/37154/mmpm4fqwv_1721987530826.jpg?plan=h160",
+      "ep": 2,
+      "s": 1271,
+      "geo": [
+        35.5514,
+        139.5775
+      ]
+    },
+    {
+      "id": "mmq2cbopa",
+      "name": "太一出站",
+      "image": "https://image.anitabi.cn/points/37154/mmq2cbopa_1721988445505.jpg?plan=h160",
+      "ep": 2,
+      "s": 5,
+      "geo": [
+        35.5539,
+        139.5787
+      ]
+    },
+    {
+      "id": "robl3ekzn",
+      "name": "センター北駅",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/37154/points/robl3ekzn-1736219168387.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        35.554,
+        139.5788
+      ]
+    },
+    {
+      "id": "robwrdqr3",
+      "name": "田中小道",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/37154/points/robwrdqr3-1736219925547.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.5479,
+        139.576
+      ]
+    }
+  ],
+  "pointsLength": 18,
+  "imagesLength": 18,
+  "local_id": 246
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "4uicgsu3m",
+    "name": "江ノ島に到着したハル",
+    "image": "https://image.xinu.ink/pic/data/240/images/4uicgsu3m-1724997219674.jpg",
+    "ep": 1,
+    "s": 84,
+    "geo": [
+      35.3087,
+      139.4836
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1oSwM4pcTUpDO8u1iRovCYihrUVc&ll=35.308708%2C139.483602&z=17"
+  },
+  {
+    "id": "4uicgsum2",
+    "name": "水族館の魚を集めるハル",
+    "image": "https://image.xinu.ink/pic/data/240/images/4uicgsum2-1724997428114.jpg",
+    "ep": 1,
+    "s": 97,
+    "geo": [
+      35.309,
+      139.4802
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1oSwM4pcTUpDO8u1iRovCYihrUVc&ll=35.309095%2C139.480222&z=17"
+  },
+  {
+    "id": "4uicgsun8",
+    "name": "金魚鉢を載せて歩くハル",
+    "image": "https://image.xinu.ink/pic/data/240/images/4uicgsun8-1724997491265.jpg",
+    "ep": 1,
+    "s": 117,
+    "geo": [
+      35.3077,
+      139.4832
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1oSwM4pcTUpDO8u1iRovCYihrUVc&ll=35.307723%2C139.483216&z=17"
+  },
+  {
+    "id": "4uicgsv5l",
+    "name": "登校初日のユキ",
+    "image": "https://image.xinu.ink/pic/data/240/images/4uicgsv5l-1732257513113.jpg",
+    "ep": null,
+    "geo": [
+      35.3111,
+      139.4872
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1oSwM4pcTUpDO8u1iRovCYihrUVc&ll=35.311122%2C139.487279&z=17"
+  },
+  {
+    "id": "4uicgsvlx",
+    "name": "釣りをしないハル",
+    "image": "https://image.xinu.ink/pic/data/240/images/4uicgsvlx.jpg",
+    "geo": [
+      35.3073,
+      139.484
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1oSwM4pcTUpDO8u1iRovCYihrUVc&ll=35.307381%2C139.484077&z=17"
+  },
+  {
+    "id": "4uicgsvs0",
+    "name": "江ノ島を走るダックの装甲車",
+    "image": "https://image.xinu.ink/pic/data/240/images/4uicgsvs0.jpg",
+    "geo": [
+      35.2997,
+      139.4829
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1oSwM4pcTUpDO8u1iRovCYihrUVc&ll=35.299764%2C139.482921&z=17"
+  },
+  {
+    "id": "4uicgsw5e",
+    "name": "操られて名古屋",
+    "image": "https://image.xinu.ink/pic/data/240/images/4uicgsw5e.jpg",
+    "geo": [
+      35.1707,
+      136.8846
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1oSwM4pcTUpDO8u1iRovCYihrUVc&ll=35.170772%2C136.884681&z=17"
+  }
+]

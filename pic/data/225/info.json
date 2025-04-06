@@ -1,0 +1,109 @@
+{
+  "id": 26800,
+  "cn": "给桃子的信",
+  "title": "ももへの手紙",
+  "city": "广岛市",
+  "cover": "https://image.xinu.ink/pic/data/225/images/26800.jpg",
+  "color": "#80aad4",
+  "cp": "2012『ももへの手紙』",
+  "geo": [
+    34.16396333854021,
+    132.78550903803216
+  ],
+  "zoom": 10.766,
+  "modified": 1726752767857,
+  "litePoints": [
+    {
+      "id": "4u07uu2n0",
+      "name": "高速艇乗り場",
+      "image": "https://image.anitabi.cn/points/26800/4u07uu2n0.jpg?plan=h160",
+      "geo": [
+        34.1847,
+        132.8582
+      ]
+    },
+    {
+      "id": "4u07uu41n",
+      "name": "一峰寺山展望台",
+      "image": "https://image.anitabi.cn/points/26800/4u07uu41n.jpg?plan=h160",
+      "geo": [
+        34.1726,
+        132.8492
+      ]
+    },
+    {
+      "id": "4u07uu617",
+      "name": "大長　高速艇乗り場",
+      "image": "https://image.anitabi.cn/points/26800/4u07uu617.jpg?plan=h160",
+      "geo": [
+        34.1849,
+        132.8586
+      ]
+    },
+    {
+      "id": "4u07uu5c8",
+      "name": "松濤園（しょうとうえん）",
+      "image": "https://image.anitabi.cn/points/26800/4u07uu5c8.jpg?plan=h160",
+      "geo": [
+        34.1869,
+        132.6835
+      ]
+    },
+    {
+      "id": "4u07uu5ly",
+      "name": "十文字展望台",
+      "image": "https://image.anitabi.cn/points/26800/4u07uu5ly.jpg?plan=h160",
+      "geo": [
+        34.1669,
+        132.7826
+      ]
+    },
+    {
+      "id": "4u07uu61s",
+      "name": "県民の浜海水浴場",
+      "image": "https://image.anitabi.cn/points/26800/4u07uu61s.jpg?plan=h160",
+      "geo": [
+        34.164,
+        132.7443
+      ]
+    },
+    {
+      "id": "4u07uu61u",
+      "name": "お気に入り",
+      "image": "https://image.anitabi.cn/points/26800/4u07uu61u.jpg?plan=h160",
+      "geo": [
+        34.169,
+        132.7957
+      ]
+    },
+    {
+      "id": "4u07uu5ce",
+      "name": "ループ橋",
+      "image": "https://image.anitabi.cn/points/26800/4u07uu5ce.jpg?plan=h160",
+      "geo": [
+        34.1841,
+        132.8318
+      ]
+    },
+    {
+      "id": "4u07uu61a",
+      "name": "道の分岐",
+      "image": "https://image.anitabi.cn/points/26800/4u07uu61a.jpg?plan=h160",
+      "geo": [
+        34.1733,
+        132.8373
+      ]
+    },
+    {
+      "id": "4u07uu2gm",
+      "name": "海の上からのシーン",
+      "geo": [
+        34.1799,
+        132.867
+      ]
+    }
+  ],
+  "pointsLength": 42,
+  "imagesLength": 9,
+  "local_id": 225
+}

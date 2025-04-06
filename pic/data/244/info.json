@@ -1,0 +1,107 @@
+{
+  "id": 36261,
+  "cn": "晚安，布布",
+  "title": "おやすみプンプン",
+  "city": "鹿儿岛县",
+  "cover": "https://image.xinu.ink/pic/data/244/images/36261.jpg",
+  "color": "#eab515",
+  "geo": [
+    35.59912580819393,
+    139.63115665689776
+  ],
+  "zoom": 8.734,
+  "modified": 1725119451700,
+  "litePoints": [
+    {
+      "id": "lye1l81sg",
+      "name": "種子島宇宙センター 宇宙科学技術館",
+      "image": "https://image.anitabi.cn/points/36261/lye1l81sg_1720081544187.jpg?plan=h160",
+      "geo": [
+        30.3747,
+        130.9575
+      ]
+    },
+    {
+      "id": "lyd8ur6ss",
+      "name": "指宿港待合所",
+      "image": "https://image.anitabi.cn/points/36261/lyd8ur6ss_1720079825828.jpg?plan=h160",
+      "geo": [
+        31.2407,
+        130.6527
+      ]
+    },
+    {
+      "id": "lyev70exq",
+      "name": "種•屋久高速船 西之表窓口",
+      "image": "https://image.anitabi.cn/points/36261/lyev70exq_1720083371185.jpg?plan=h160",
+      "geo": [
+        30.7316,
+        130.9898
+      ]
+    },
+    {
+      "id": "mh8lzgkrp",
+      "cn": "鹿儿岛索拉瑞亚西铁酒店眺望鹿儿岛中央站",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/36261/mh8lzgkrp_1721558596488.jpg?plan=h160",
+      "geo": [
+        31.5835,
+        130.544
+      ]
+    },
+    {
+      "id": "mh8n8gy5g",
+      "cn": "鹿儿岛中央站前",
+      "name": 19,
+      "image": "https://image.anitabi.cn/points/36261/mh8n8gy5g_1721558698430.jpg?plan=h160",
+      "geo": [
+        31.5834,
+        130.5437
+      ]
+    },
+    {
+      "id": "n7wh2mfka",
+      "name": "大崎海岸北眺 发射场",
+      "image": "https://image.anitabi.cn/points/36261/n7wh2mfka_1723648010474.jpg?plan=h160",
+      "geo": [
+        30.3898,
+        130.9624
+      ]
+    },
+    {
+      "id": "7c4154d4",
+      "name": "背景カット",
+      "geo": [
+        35.6513,
+        139.637
+      ]
+    },
+    {
+      "id": "eca83b34",
+      "name": "町田駅",
+      "geo": [
+        35.5418,
+        139.4456
+      ]
+    },
+    {
+      "id": "facf3bb9",
+      "name": "新宿駅",
+      "geo": [
+        35.6909,
+        139.7002
+      ]
+    },
+    {
+      "id": "1c8acf3f",
+      "name": "星川演説地",
+      "geo": [
+        35.6893,
+        139.7004
+      ]
+    }
+  ],
+  "pointsLength": 22,
+  "imagesLength": 6,
+  "local_id": 244
+}

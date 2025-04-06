@@ -1,0 +1,127 @@
+{
+  "id": 22759,
+  "cn": "花开伊吕波",
+  "title": "花咲くいろは",
+  "city": "金泽市",
+  "cover": "https://image.xinu.ink/pic/data/214/images/22759.jpg",
+  "color": "#634e47",
+  "cp": "花いろ旅館組合",
+  "geo": [
+    36.486807,
+    136.756504
+  ],
+  "modified": 1742311793200,
+  "litePoints": [
+    {
+      "id": "kpx6ojoa0",
+      "name": "マルエツ一橋学園店付近",
+      "image": "https://image.anitabi.cn/user/0/bangumi/22759/points/kpx6ojoa0-1742225184442.jpg?plan=h160",
+      "ep": 1,
+      "s": 235,
+      "geo": [
+        35.7233,
+        139.48
+      ]
+    },
+    {
+      "id": "kpx6ojpgj",
+      "name": "H.I.S. 中野営業所が入っているビル（昼）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/22759/points/kpx6ojpgj-1741933191614.jpg?plan=h160",
+      "ep": 11,
+      "s": 842,
+      "geo": [
+        35.7077,
+        139.665
+      ]
+    },
+    {
+      "id": "tp8nqy1t2",
+      "name": "H.I.S. 中野営業所が入っているビル（夜）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/22759/points/tp8nqy1t2-1741933434798.jpg?plan=h160",
+      "ep": 12,
+      "s": 985,
+      "geo": [
+        35.7077,
+        139.6651
+      ]
+    },
+    {
+      "id": "kpx6ojq78",
+      "name": "西荻窪駅（３、４番線）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/22759/points/kpx6ojq78-1741932268048.jpg?plan=h160",
+      "ep": 12,
+      "s": 336,
+      "geo": [
+        35.7038,
+        139.5993
+      ]
+    },
+    {
+      "id": "kpx6ojqbe",
+      "name": "中野駅（７、８番線）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/22759/points/kpx6ojqbe-1741931922140.jpg?plan=h160",
+      "ep": 12,
+      "s": 774,
+      "geo": [
+        35.706,
+        139.6651
+      ]
+    },
+    {
+      "id": "kpx6ojr42",
+      "name": "東京ビジネスホテル",
+      "image": "https://image.anitabi.cn/user/0/bangumi/22759/points/kpx6ojr42-1741931592451.jpg?plan=h160",
+      "ep": 12,
+      "s": 120,
+      "geo": [
+        35.6932,
+        139.7102
+      ]
+    },
+    {
+      "id": "kpx6ojsdv",
+      "name": "新宿駅JR高速バスターミナル",
+      "image": "https://image.anitabi.cn/user/0/bangumi/22759/points/kpx6ojsdv-1742307883733.jpg?plan=h160",
+      "ep": 24,
+      "geo": [
+        35.6843,
+        139.7027
+      ]
+    },
+    {
+      "id": "kpx6ojt7x",
+      "name": "ジュンク堂書店池袋本店付近",
+      "image": "https://image.anitabi.cn/user/0/bangumi/22759/points/kpx6ojt7x-1742306330797.jpg?plan=h160",
+      "ep": 12,
+      "geo": [
+        35.7268,
+        139.7115
+      ]
+    },
+    {
+      "id": "kpx6ojti5",
+      "name": "サンシャイン60展望台",
+      "image": "https://image.anitabi.cn/user/0/bangumi/22759/points/kpx6ojti5-1742241206944.jpg?plan=h160",
+      "ep": 23,
+      "s": 888,
+      "geo": [
+        35.7295,
+        139.7181
+      ]
+    },
+    {
+      "id": "kpx6ojtnz",
+      "name": "「千登世橋」バス停付近の歩道橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/22759/points/kpx6ojtnz-1742239741495.jpg?plan=h160",
+      "ep": 23,
+      "s": 1309,
+      "geo": [
+        35.7208,
+        139.7128
+      ]
+    }
+  ],
+  "pointsLength": 129,
+  "imagesLength": 88,
+  "local_id": 214
+}
