@@ -1,0 +1,198 @@
+[
+  {
+    "id": "od3rzhefy",
+    "cn": "埃罗芒阿岛",
+    "name": "Erromango",
+    "image": "https://image.xinu.ink/pic/data/12/images/od3rzhefy-1726877181435.jpg",
+    "ep": "2",
+    "s": "690",
+    "geo": [
+      -18.8207,
+      169.145
+    ]
+  },
+  {
+    "id": "29qhbkm",
+    "name": "ボンボニエール",
+    "image": "https://image.xinu.ink/pic/data/12/images/29qhbkm.jpg",
+    "geo": [
+      34.7064,
+      137.6808
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1kh2rjJiD5-2oTP1p59UaymyF9V7u9G_-&ll=34.706438%2C137.680873&z=17"
+  },
+  {
+    "id": "29qhblm",
+    "name": "炭火焼肉 壱凛",
+    "image": "https://image.xinu.ink/pic/data/12/images/29qhblm.jpg",
+    "geo": [
+      34.7073,
+      137.6809
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1kh2rjJiD5-2oTP1p59UaymyF9V7u9G_-&ll=34.707315%2C137.680939&z=17"
+  },
+  {
+    "id": "29qhbl7",
+    "name": "休憩所",
+    "image": "https://image.xinu.ink/pic/data/12/images/29qhbl7.jpg",
+    "geo": [
+      34.7164,
+      137.6898
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1kh2rjJiD5-2oTP1p59UaymyF9V7u9G_-&ll=34.716494%2C137.689877&z=17"
+  },
+  {
+    "id": "29qhbm1",
+    "name": "自販機",
+    "image": "https://image.xinu.ink/pic/data/12/images/29qhbm1.jpg",
+    "geo": [
+      34.7136,
+      137.687
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1kh2rjJiD5-2oTP1p59UaymyF9V7u9G_-&ll=34.713606%2C137.687053&z=17"
+  },
+  {
+    "id": "29qhbki",
+    "name": "佐鳴湖看板",
+    "image": "https://image.xinu.ink/pic/data/12/images/29qhbki.jpg",
+    "geo": [
+      34.7199,
+      137.6937
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1kh2rjJiD5-2oTP1p59UaymyF9V7u9G_-&ll=34.71992%2C137.693789&z=17"
+  },
+  {
+    "id": "29qhbl4",
+    "name": "あけぼの公園",
+    "image": "https://image.xinu.ink/pic/data/12/images/29qhbl4.jpg",
+    "geo": [
+      34.7296,
+      137.7108
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1kh2rjJiD5-2oTP1p59UaymyF9V7u9G_-&ll=34.729686%2C137.710885&z=17"
+  },
+  {
+    "id": "29qhblx",
+    "name": "セブンイレブン浜松鴨江3丁目店",
+    "image": "https://image.xinu.ink/pic/data/12/images/29qhblx-1710858827114.jpg",
+    "ep": null,
+    "geo": [
+      34.7057,
+      137.7075
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1kh2rjJiD5-2oTP1p59UaymyF9V7u9G_-&ll=34.705736%2C137.707553&z=17"
+  },
+  {
+    "id": "29qhbmh",
+    "name": "リベロマム蜆塚店",
+    "image": "https://image.xinu.ink/pic/data/12/images/29qhbmh-1710859350915.jpg",
+    "ep": null,
+    "geo": [
+      34.708,
+      137.7097
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1kh2rjJiD5-2oTP1p59UaymyF9V7u9G_-&ll=34.708054%2C137.709774&z=17"
+  },
+  {
+    "id": "29qhbmi",
+    "name": "JAとぴあ浜松蜆塚",
+    "image": "https://image.xinu.ink/pic/data/12/images/29qhbmi-1710859221015.jpg",
+    "ep": null,
+    "geo": [
+      34.7094,
+      137.7116
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1kh2rjJiD5-2oTP1p59UaymyF9V7u9G_-&ll=34.709486%2C137.711612&z=17"
+  },
+  {
+    "id": "29qhbmk",
+    "name": "逃げる美羽",
+    "image": "https://image.xinu.ink/pic/data/12/images/29qhbmk-1710859104524.jpg",
+    "ep": null,
+    "geo": [
+      34.7111,
+      137.7127
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1kh2rjJiD5-2oTP1p59UaymyF9V7u9G_-&ll=34.711171%2C137.712793&z=17"
+  },
+  {
+    "id": "29qhbm4",
+    "name": "多々見クリニック",
+    "image": "https://image.xinu.ink/pic/data/12/images/29qhbm4-1710859311790.jpg",
+    "ep": null,
+    "geo": [
+      34.7113,
+      137.7128
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1kh2rjJiD5-2oTP1p59UaymyF9V7u9G_-&ll=34.711321%2C137.712836&z=17"
+  },
+  {
+    "id": "29qhbli",
+    "name": "松岡家",
+    "image": "https://image.xinu.ink/pic/data/12/images/29qhbli-1710859264604.jpg",
+    "ep": null,
+    "geo": [
+      34.7115,
+      137.7126
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1kh2rjJiD5-2oTP1p59UaymyF9V7u9G_-&ll=34.711582%2C137.712671&z=17"
+  },
+  {
+    "id": "29qhbkz",
+    "name": "コッポラ家",
+    "image": "https://image.xinu.ink/pic/data/12/images/29qhbkz-1710858856166.jpg",
+    "ep": null,
+    "geo": [
+      34.7128,
+      137.7144
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1kh2rjJiD5-2oTP1p59UaymyF9V7u9G_-&ll=34.712886%2C137.71446&z=17"
+  },
+  {
+    "id": "29qhbm2",
+    "name": "倉式珈琲 浜松蜆塚店",
+    "image": "https://image.xinu.ink/pic/data/12/images/29qhbm2-1710858929623.jpg",
+    "ep": null,
+    "geo": [
+      34.7119,
+      137.7057
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1kh2rjJiD5-2oTP1p59UaymyF9V7u9G_-&ll=34.711911%2C137.705707&z=17"
+  },
+  {
+    "id": "29qhbp0",
+    "name": "イオンモール浜松志都呂",
+    "image": "https://image.xinu.ink/pic/data/12/images/29qhbp0.jpg",
+    "geo": [
+      34.6964,
+      137.6501
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1kh2rjJiD5-2oTP1p59UaymyF9V7u9G_-&ll=34.696434%2C137.650163&z=17"
+  },
+  {
+    "id": "29qhbpb",
+    "name": "浜名湖パルパル",
+    "image": "https://image.xinu.ink/pic/data/12/images/29qhbpb.jpg",
+    "geo": [
+      34.7633,
+      137.6168
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1kh2rjJiD5-2oTP1p59UaymyF9V7u9G_-&ll=34.76335%2C137.61686&z=17"
+  }
+]

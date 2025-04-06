@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ln73528vl",
+    "name": "下井草駅南口",
+    "image": "https://image.xinu.ink/pic/data/16/images/ln73528vl_1719204804964.jpg",
+    "ep": 2,
+    "s": 486,
+    "geo": [
+      35.7237,
+      139.6243
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ln73662xc",
+    "name": "ブティック ラコー",
+    "image": "https://image.xinu.ink/pic/data/16/images/ln73662xc_1719204895331.jpg",
+    "ep": 5,
+    "s": 524,
+    "geo": [
+      35.7235,
+      139.6247
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ln7ibmt63",
+    "name": "国鉄万世橋駅",
+    "image": "https://image.xinu.ink/pic/data/16/images/ln7ibmt63_1719205540968.jpg",
+    "ep": 11,
+    "s": 44,
+    "geo": [
+      35.6973,
+      139.7699
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  }
+]

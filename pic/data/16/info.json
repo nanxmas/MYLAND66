@@ -1,0 +1,52 @@
+{
+  "id": 300,
+  "cn": "俗・再见绝望先生",
+  "title": "俗・さよなら絶望先生",
+  "city": "杉并区",
+  "cover": "https://image.xinu.ink/pic/data/16/images/300.jpg",
+  "color": "#ff0000",
+  "geo": [
+    35.699643672681674,
+    139.68897198749073
+  ],
+  "zoom": 9.911,
+  "modified": 1722511509280,
+  "litePoints": [
+    {
+      "id": "ln73528vl",
+      "name": "下井草駅南口",
+      "image": "https://image.anitabi.cn/points/300/ln73528vl_1719204804964.jpg?plan=h160",
+      "ep": 2,
+      "s": 486,
+      "geo": [
+        35.7237,
+        139.6243
+      ]
+    },
+    {
+      "id": "ln73662xc",
+      "name": "ブティック ラコー",
+      "image": "https://image.anitabi.cn/points/300/ln73662xc_1719204895331.jpg?plan=h160",
+      "ep": 5,
+      "s": 524,
+      "geo": [
+        35.7235,
+        139.6247
+      ]
+    },
+    {
+      "id": "ln7ibmt63",
+      "name": "国鉄万世橋駅",
+      "image": "https://image.anitabi.cn/points/300/ln7ibmt63_1719205540968.jpg?plan=h160",
+      "ep": 11,
+      "s": 44,
+      "geo": [
+        35.6973,
+        139.7699
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 16
+}

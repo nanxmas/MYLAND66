@@ -1,0 +1,112 @@
+{
+  "id": 284,
+  "cn": "草莓棉花糖",
+  "title": "苺ましまろ",
+  "city": "滨松市",
+  "cover": "https://image.xinu.ink/pic/data/12/images/284.jpg",
+  "color": "#dc2115",
+  "geo": [
+    34.706201899117204,
+    137.69201282368067
+  ],
+  "zoom": 11.184,
+  "modified": 1726884989675,
+  "litePoints": [
+    {
+      "id": "od3rzhefy",
+      "cn": "埃罗芒阿岛",
+      "name": "Erromango",
+      "image": "https://image.anitabi.cn/user/0/bangumi/284/points/od3rzhefy-1726877181435.jpg?plan=h160",
+      "ep": 2,
+      "s": 690,
+      "geo": [
+        -18.8207,
+        169.145
+      ]
+    },
+    {
+      "id": "29qhbkm",
+      "name": "ボンボニエール",
+      "image": "https://image.anitabi.cn/points/284/29qhbkm.jpg?plan=h160",
+      "geo": [
+        34.7064,
+        137.6808
+      ]
+    },
+    {
+      "id": "29qhblm",
+      "name": "炭火焼肉 壱凛",
+      "image": "https://image.anitabi.cn/points/284/29qhblm.jpg?plan=h160",
+      "geo": [
+        34.7073,
+        137.6809
+      ]
+    },
+    {
+      "id": "29qhbl7",
+      "name": "休憩所",
+      "image": "https://image.anitabi.cn/points/284/29qhbl7.jpg?plan=h160",
+      "geo": [
+        34.7164,
+        137.6898
+      ]
+    },
+    {
+      "id": "29qhbm1",
+      "name": "自販機",
+      "image": "https://image.anitabi.cn/points/284/29qhbm1.jpg?plan=h160",
+      "geo": [
+        34.7136,
+        137.687
+      ]
+    },
+    {
+      "id": "29qhbki",
+      "name": "佐鳴湖看板",
+      "image": "https://image.anitabi.cn/points/284/29qhbki.jpg?plan=h160",
+      "geo": [
+        34.7199,
+        137.6937
+      ]
+    },
+    {
+      "id": "29qhbl4",
+      "name": "あけぼの公園",
+      "image": "https://image.anitabi.cn/points/284/29qhbl4.jpg?plan=h160",
+      "geo": [
+        34.7296,
+        137.7108
+      ]
+    },
+    {
+      "id": "29qhblx",
+      "name": "セブンイレブン浜松鴨江3丁目店",
+      "image": "https://image.anitabi.cn/user/1007/bangumi/284/points/29qhblx-1710858827114.jpg?plan=h160",
+      "geo": [
+        34.7057,
+        137.7075
+      ]
+    },
+    {
+      "id": "29qhbmh",
+      "name": "リベロマム蜆塚店",
+      "image": "https://image.anitabi.cn/user/1007/bangumi/284/points/29qhbmh-1710859350915.jpg?plan=h160",
+      "geo": [
+        34.708,
+        137.7097
+      ]
+    },
+    {
+      "id": "29qhbmi",
+      "name": "JAとぴあ浜松蜆塚",
+      "image": "https://image.anitabi.cn/user/1007/bangumi/284/points/29qhbmi-1710859221015.jpg?plan=h160",
+      "geo": [
+        34.7094,
+        137.7116
+      ]
+    }
+  ],
+  "pointsLength": 38,
+  "imagesLength": 17,
+  "local_id": 12
+}

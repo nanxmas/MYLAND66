@@ -1,0 +1,83 @@
+{
+  "id": 302,
+  "cn": "龙猫",
+  "title": "となりのトトロ",
+  "city": "所泽市",
+  "cover": "https://image.xinu.ink/pic/data/17/images/302.jpg",
+  "color": "#90959d",
+  "geo": [
+    35.77116808097003,
+    139.46837222093825
+  ],
+  "zoom": 11.147,
+  "modified": 1726574853482,
+  "litePoints": [
+    {
+      "id": "o1icr2jn9",
+      "name": "狭山丘陵",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/302/points/o1icr2jn9-1725968333533.jpg?plan=h160",
+      "s": 4345,
+      "geo": [
+        35.78,
+        139.4211
+      ]
+    },
+    {
+      "id": "o1ii7tjgz",
+      "name": "白旗塚",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/302/points/o1ii7tjgz-1725968551186.jpg?plan=h160",
+      "s": 1854,
+      "geo": [
+        35.7963,
+        139.4217
+      ]
+    },
+    {
+      "id": "o1ingcxvz",
+      "name": "稲荷町停留所",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/302/points/o1ingcxvz-1725968854812.jpg?plan=h160",
+      "s": 3169,
+      "geo": [
+        35.7855,
+        139.4899
+      ]
+    },
+    {
+      "id": "o1iri1br5",
+      "name": "新山手病院",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/302/points/o1iri1br5-1725969088165.jpg?plan=h160",
+      "s": 1427,
+      "geo": [
+        35.771,
+        139.4619
+      ]
+    },
+    {
+      "id": "51i52ztws",
+      "name": "クロスケの家",
+      "geo": [
+        35.7912,
+        139.407
+      ]
+    },
+    {
+      "id": "51i52zu8c",
+      "name": "三鷹の森ジブリ美術館",
+      "geo": [
+        35.6962,
+        139.5704
+      ]
+    },
+    {
+      "id": "51i52zub6",
+      "name": "サツキとメイの家",
+      "geo": [
+        35.1693,
+        137.0928
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 4,
+  "local_id": 17
+}

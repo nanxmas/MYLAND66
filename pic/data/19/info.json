@@ -1,0 +1,27 @@
+{
+  "id": 307,
+  "cn": "红猪",
+  "title": "紅の豚",
+  "cover": "https://image.xinu.ink/pic/data/19/images/307.jpg",
+  "color": "#e3aa71",
+  "geo": [
+    43.02122255403657,
+    16.173667148564846
+  ],
+  "zoom": 9.512,
+  "modified": 1724658297984,
+  "litePoints": [
+    {
+      "id": "nknajy5b2",
+      "name": "Stiniva",
+      "image": "https://image.anitabi.cn/user/0/bangumi/307/points/nknajy5b2-1724646863390.jpg?plan=h160",
+      "geo": [
+        43.0213,
+        16.1716
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 19
+}

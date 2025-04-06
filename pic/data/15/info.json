@@ -1,0 +1,47 @@
+{
+  "id": 298,
+  "cn": "天空之城",
+  "title": "天空の城ラピュタ",
+  "cover": "https://image.xinu.ink/pic/data/15/images/298.jpg",
+  "color": "#06d3b6",
+  "geo": [
+    53.13913889909168,
+    -4.2769296966713455
+  ],
+  "zoom": 15.995,
+  "modified": 1741312419800,
+  "litePoints": [
+    {
+      "id": "tgm6hryq8",
+      "cn": "十三層遺址",
+      "name": "十三層遺址",
+      "image": "https://image.anitabi.cn/user/0/bangumi/298/points/tgm6hryq8-1741257878969.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        25.12,
+        121.8639
+      ]
+    },
+    {
+      "id": "51i531l9k",
+      "cn": "崩密列",
+      "name": "ベンメリア",
+      "image": "https://image.anitabi.cn/user/0/bangumi/298/points/51i531l9k-1732466075097.jpg?plan=h160",
+      "geo": [
+        13.4755,
+        104.2288
+      ]
+    },
+    {
+      "id": "51i531l0o",
+      "name": "カーナーヴォン城",
+      "geo": [
+        53.1391,
+        -4.277
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 2,
+  "local_id": 15
+}

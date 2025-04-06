@@ -1,0 +1,113 @@
+{
+  "id": 297,
+  "cn": "拜托了老师",
+  "title": "おねがい☆ティーチャー",
+  "city": "长野县",
+  "cover": "https://image.xinu.ink/pic/data/14/images/297.jpg",
+  "color": "#d15479",
+  "geo": [
+    36.55911011879695,
+    137.84136988958437
+  ],
+  "zoom": 11.967,
+  "modified": 1740559183430,
+  "litePoints": [
+    {
+      "id": "a86t1rpp",
+      "name": "海ノ口駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/297/points/a86t1rpp-1734399780529.jpg?plan=h160",
+      "s": 5008,
+      "geo": [
+        36.5656,
+        137.8419
+      ]
+    },
+    {
+      "id": "a86t1roc",
+      "name": "稲尾駅",
+      "image": "https://image.anitabi.cn/points/297/a86t1roc_1740556398623.jpg?plan=h160",
+      "geo": [
+        36.5543,
+        137.8426
+      ]
+    },
+    {
+      "id": "a86t1rut",
+      "name": "信濃木崎駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/297/points/a86t1rut-1734399603248.jpg?plan=h160",
+      "s": 8,
+      "geo": [
+        36.5357,
+        137.8459
+      ]
+    },
+    {
+      "id": "a86t1s2t",
+      "name": "ツインズOPの坂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/297/points/a86t1s2t-1734399866221.jpg?plan=h160",
+      "s": 567,
+      "geo": [
+        36.5482,
+        137.8416
+      ]
+    },
+    {
+      "id": "a86t1rrm",
+      "name": "みずほ桟橋",
+      "image": "https://image.anitabi.cn/points/297/a86t1rrm_1740556689046.jpg?plan=h160",
+      "geo": [
+        36.548,
+        137.8373
+      ]
+    },
+    {
+      "id": "a86t1s2f",
+      "name": "苺桟橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/297/points/a86t1s2f-1734399844174.jpg?plan=h160",
+      "geo": [
+        36.5479,
+        137.8379
+      ]
+    },
+    {
+      "id": "a86t1s5n",
+      "name": "公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/297/points/a86t1s5n-1734399888809.jpg?plan=h160",
+      "s": 204,
+      "geo": [
+        36.5439,
+        137.8414
+      ]
+    },
+    {
+      "id": "a86t1s8k",
+      "name": "小熊山",
+      "image": "https://image.anitabi.cn/points/297/a86t1s8k_1740556605927.jpg?plan=h160",
+      "geo": [
+        36.5714,
+        137.8225
+      ]
+    },
+    {
+      "id": "a86t1sax",
+      "name": "ゆーぷる木崎湖",
+      "image": "https://image.anitabi.cn/points/297/a86t1sax_1740555927631.jpg?plan=h160",
+      "geo": [
+        36.5425,
+        137.8413
+      ]
+    },
+    {
+      "id": "a86t1rqa",
+      "name": "ローソン 大町木崎湖店",
+      "image": "https://image.anitabi.cn/points/297/a86t1rqa_1740556790047.jpg?plan=h160",
+      "geo": [
+        36.54,
+        137.8421
+      ]
+    }
+  ],
+  "pointsLength": 36,
+  "imagesLength": 20,
+  "local_id": 14
+}

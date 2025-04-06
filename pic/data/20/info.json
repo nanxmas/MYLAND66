@@ -1,0 +1,116 @@
+{
+  "id": 309,
+  "cn": "真实之泪",
+  "title": "true tears",
+  "city": "南砺市",
+  "cover": "https://image.xinu.ink/pic/data/20/images/309.jpg",
+  "color": "#f1cd63",
+  "geo": [
+    36.70478518565413,
+    137.04383201374685
+  ],
+  "zoom": 10.189,
+  "modified": 1731863672265,
+  "litePoints": [
+    {
+      "id": "kpwsqgrmn",
+      "name": "HACHI-HACHI(今川焼あいちゃん)",
+      "image": "https://image.anitabi.cn/points/309/kpwsqgrmn_1730086563774.jpg?plan=h160",
+      "ep": 3,
+      "s": 292,
+      "geo": [
+        36.7502,
+        137.0272
+      ]
+    },
+    {
+      "id": "5fcjj67qs",
+      "name": "高岡古城公園 噴水と石碑",
+      "image": "https://image.anitabi.cn/user/1012/bangumi/309/points/5fcjj67qs-1673452272585.jpg?plan=h160",
+      "ep": 4,
+      "s": 640,
+      "geo": [
+        36.7472,
+        137.0201
+      ]
+    },
+    {
+      "id": "kpwsqgrrq",
+      "name": "麦端高校",
+      "image": "https://image.anitabi.cn/points/309/kpwsqgrrq_1730086601188.jpg?plan=h160",
+      "ep": 3,
+      "s": 1167,
+      "geo": [
+        36.5068,
+        136.8956
+      ]
+    },
+    {
+      "id": "5fcjj672e",
+      "name": "薮田バス停",
+      "image": "https://image.anitabi.cn/user/1012/bangumi/309/points/5fcjj672e-1673451915036.jpg?plan=h160",
+      "ep": 13,
+      "geo": [
+        36.8895,
+        137.0009
+      ]
+    },
+    {
+      "id": "kpwsqgrzc",
+      "name": "薮田交差点",
+      "image": "https://image.anitabi.cn/points/309/kpwsqgrzc_1729669549969.jpg?plan=h160",
+      "geo": [
+        36.8895,
+        137
+      ]
+    },
+    {
+      "id": "q4pp01ixx",
+      "name": "地蔵町地区の海岸線",
+      "image": "https://image.anitabi.cn/points/309/q4pp01ixx_1731861709014.jpg?plan=h160",
+      "geo": [
+        36.8508,
+        136.9931
+      ]
+    },
+    {
+      "id": "q4q9lw49v",
+      "name": "氷見港北防波堤",
+      "image": "https://image.anitabi.cn/points/309/q4q9lw49v_1731862941708.jpg?plan=h160",
+      "geo": [
+        36.8633,
+        136.9924
+      ]
+    },
+    {
+      "id": "kpwsqgre3",
+      "name": "八重津浜海水浴場",
+      "image": "https://image.anitabi.cn/points/309/kpwsqgre3_1731859226309.jpg?plan=h160",
+      "geo": [
+        36.7593,
+        137.2028
+      ]
+    },
+    {
+      "id": "q4qg9ird9",
+      "name": "西新田神明社",
+      "image": "https://image.anitabi.cn/points/309/q4qg9ird9_1731863138847.jpg?plan=h160",
+      "geo": [
+        36.5169,
+        136.9002
+      ]
+    },
+    {
+      "id": "kpwsqgrej",
+      "name": "善徳寺会館",
+      "image": "https://image.anitabi.cn/points/309/kpwsqgrej_1729670275872.jpg?plan=h160",
+      "geo": [
+        36.5151,
+        136.9015
+      ]
+    }
+  ],
+  "pointsLength": 32,
+  "imagesLength": 29,
+  "local_id": 20
+}

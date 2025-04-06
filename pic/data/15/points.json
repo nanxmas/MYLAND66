@@ -1,0 +1,28 @@
+[
+  {
+    "id": "tgm6hryq8",
+    "cn": "十三層遺址",
+    "name": "十三層遺址",
+    "image": "https://image.xinu.ink/pic/data/15/images/tgm6hryq8-1741257878969.jpg",
+    "ep": "1",
+    "geo": [
+      25.12,
+      121.8639
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1REOemlKfHJALZhLVLQucISYpIbo&ll=25.120079%2C121.863918&z=17"
+  },
+  {
+    "id": "51i531l9k",
+    "cn": "崩密列",
+    "name": "ベンメリア",
+    "image": "https://image.xinu.ink/pic/data/15/images/51i531l9k-1732466075097.jpg",
+    "ep": null,
+    "geo": [
+      13.4755,
+      104.2288
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1REOemlKfHJALZhLVLQucISYpIbo&ll=13.475576%2C104.228808&z=17"
+  }
+]

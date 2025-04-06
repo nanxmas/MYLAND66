@@ -1,0 +1,235 @@
+[
+  {
+    "id": "a86t1rpp",
+    "name": "海ノ口駅",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1rpp-1734399780529.jpg",
+    "ep": null,
+    "s": 5008,
+    "geo": [
+      36.5656,
+      137.8419
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.565655%2C137.841929&z=17"
+  },
+  {
+    "id": "a86t1roc",
+    "name": "稲尾駅",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1roc_1740556398623.jpg",
+    "geo": [
+      36.5543,
+      137.8426
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.554301%2C137.842616&z=17"
+  },
+  {
+    "id": "a86t1rut",
+    "name": "信濃木崎駅",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1rut-1734399603248.jpg",
+    "ep": null,
+    "s": 8,
+    "geo": [
+      36.5357,
+      137.8459
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.535752%2C137.845953&z=17"
+  },
+  {
+    "id": "a86t1s2t",
+    "name": "ツインズOPの坂",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1s2t-1734399866221.jpg",
+    "ep": null,
+    "s": 567,
+    "geo": [
+      36.5482,
+      137.8416
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.548255%2C137.841602&z=17"
+  },
+  {
+    "id": "a86t1rrm",
+    "name": "みずほ桟橋",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1rrm_1740556689046.jpg",
+    "ep": null,
+    "geo": [
+      36.548,
+      137.8373
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.548014%2C137.837383&z=17"
+  },
+  {
+    "id": "a86t1s2f",
+    "name": "苺桟橋",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1s2f-1734399844174.jpg",
+    "ep": null,
+    "geo": [
+      36.5479,
+      137.8379
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.54797%2C137.837957&z=17"
+  },
+  {
+    "id": "a86t1s5n",
+    "name": "公園",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1s5n-1734399888809.jpg",
+    "ep": null,
+    "s": 204,
+    "geo": [
+      36.5439,
+      137.8414
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.543945%2C137.841462&z=17"
+  },
+  {
+    "id": "a86t1s8k",
+    "name": "小熊山",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1s8k_1740556605927.jpg",
+    "geo": [
+      36.5714,
+      137.8225
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.571441%2C137.822564&z=17"
+  },
+  {
+    "id": "a86t1sax",
+    "name": "ゆーぷる木崎湖",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1sax_1740555927631.jpg",
+    "geo": [
+      36.5425,
+      137.8413
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.542506%2C137.841387&z=17"
+  },
+  {
+    "id": "a86t1rqa",
+    "name": "ローソン 大町木崎湖店",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1rqa_1740556790047.jpg",
+    "s": "",
+    "geo": [
+      36.54,
+      137.8421
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.54%2C137.842101&z=17"
+  },
+  {
+    "id": "a86t1s8x",
+    "name": "分岐路",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1s8x_1740557020327.jpg",
+    "geo": [
+      36.5609,
+      137.8314
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.560945%2C137.831404&z=17"
+  },
+  {
+    "id": "a86t1rvk",
+    "name": "海ノ口上諏訪神社",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1rvk_1740557137432.jpg",
+    "geo": [
+      36.5677,
+      137.8325
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.567777%2C137.832501&z=17"
+  },
+  {
+    "id": "a86t1rnu",
+    "name": "一津踏切",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1rnu_1740557724871.jpg",
+    "geo": [
+      36.5642,
+      137.843
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.564224%2C137.843018&z=17"
+  },
+  {
+    "id": "a86t1s6h",
+    "name": "縁川商店",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1s6h_1740557797495.jpg",
+    "ep": null,
+    "s": 220,
+    "geo": [
+      36.563,
+      137.844
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.563018%2C137.84408&z=17"
+  },
+  {
+    "id": "a86t1s6e",
+    "name": "あがたの森文化会館",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1s6e_1740558391248.jpg",
+    "geo": [
+      36.2311,
+      137.9817
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.231193%2C137.981782&z=17"
+  },
+  {
+    "id": "a86t1s3h",
+    "name": "講堂",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1s3h_1740558802929.jpg",
+    "geo": [
+      36.2313,
+      137.9818
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.231386%2C137.981863&z=17"
+  },
+  {
+    "id": "a86t1s1q",
+    "name": "中庭",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1s1q_1740558549752.jpg",
+    "geo": [
+      36.2309,
+      137.9823
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.230996%2C137.982332&z=17"
+  },
+  {
+    "id": "a86t1s2u",
+    "name": "水飲み場",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1s2u_1740558118735.jpg",
+    "geo": [
+      36.2304,
+      137.9835
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.230419%2C137.983582&z=17"
+  },
+  {
+    "id": "a86t1ru3",
+    "name": "川沿いの階段",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1ru3_1740557977848.jpg",
+    "geo": [
+      36.2274,
+      137.9863
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.227444%2C137.986377&z=17"
+  },
+  {
+    "id": "a86t1s90",
+    "name": "城山公園展望台",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1s90_1740558059695.jpg",
+    "geo": [
+      36.2456,
+      137.9543
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.245688%2C137.954351&z=17"
+  }
+]

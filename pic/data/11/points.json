@@ -1,0 +1,38 @@
+[
+  {
+    "id": "nb2cpe1pf",
+    "cn": "弗赖堡新市政厅",
+    "name": "Neues Rathaus",
+    "image": "https://image.xinu.ink/pic/data/11/images/nb2cpe1pf-1723895958656.jpg",
+    "ep": 10,
+    "s": 1106,
+    "geo": [
+      47.9961,
+      7.8491
+    ]
+  },
+  {
+    "id": "nb2fzbzme",
+    "cn": "弗赖堡旧市政厅",
+    "name": "Altes Rathaus",
+    "image": "https://image.xinu.ink/pic/data/11/images/nb2fzbzme-1723896105703.jpg",
+    "ep": 10,
+    "s": 1129,
+    "geo": [
+      47.9964,
+      7.8492
+    ]
+  },
+  {
+    "id": "o4fjm3xwp",
+    "cn": "兑换桥",
+    "name": "Pont au Change",
+    "image": "https://image.xinu.ink/pic/data/11/images/o4fjm3xwp-1726197206950.jpg",
+    "ep": "3",
+    "s": "1022",
+    "geo": [
+      48.8567,
+      2.3468
+    ]
+  }
+]

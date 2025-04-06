@@ -1,0 +1,119 @@
+{
+  "id": 289,
+  "cn": "寒蝉鸣泣之时",
+  "title": "ひぐらしのなく頃に",
+  "city": "岐阜县",
+  "cover": "https://image.xinu.ink/pic/data/13/images/289.jpg",
+  "color": "#ad0054",
+  "cp": "創通",
+  "geo": [
+    36.26638176824626,
+    136.90795610315467
+  ],
+  "zoom": 12.965,
+  "modified": 1728808927242,
+  "litePoints": [
+    {
+      "id": "2ar4ldv",
+      "name": "雛見沢を見下ろす展望台",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/289/points/2ar4ldv-1723721976927.jpg?plan=h160",
+      "ep": 2,
+      "s": 235,
+      "geo": [
+        36.2606,
+        136.9091
+      ]
+    },
+    {
+      "id": "2ar4lga",
+      "cn": "白川八幡神社",
+      "name": "古手神社",
+      "image": "https://image.anitabi.cn/points/289/2ar4lga_1723720519866_half.jpg?plan=h160",
+      "ep": 4,
+      "s": 1144,
+      "geo": [
+        36.2547,
+        136.9058
+      ]
+    },
+    {
+      "id": "2ar4lf7",
+      "name": "鉄平宅 (沙都子の家)",
+      "image": "https://image.anitabi.cn/points/289/2ar4lf7_1723720003251.jpg?plan=h160",
+      "ep": 13,
+      "s": 182,
+      "geo": [
+        36.2595,
+        136.9086
+      ]
+    },
+    {
+      "id": "lqgq6l08p",
+      "name": "梨花の家",
+      "image": "https://image.anitabi.cn/points/289/lqgq6l08p_1723726571835.jpg?plan=h160",
+      "ep": 24,
+      "s": 864,
+      "geo": [
+        36.2599,
+        136.9089
+      ]
+    },
+    {
+      "id": "2ar4lgb",
+      "name": "祭具殿",
+      "image": "https://image.anitabi.cn/points/289/2ar4lgb_1723725226427.jpg?plan=h160",
+      "geo": [
+        36.2793,
+        136.9007
+      ]
+    },
+    {
+      "id": "n8w9nwj0o",
+      "name": "祭具殿, ＢＢＱプレート洗い場",
+      "image": "https://image.anitabi.cn/points/289/n8w9nwj0o_1723729980068.jpg?plan=h160",
+      "geo": [
+        36.2791,
+        136.9007
+      ]
+    },
+    {
+      "id": "n8y5tm3qm",
+      "name": "蕎麦庄やまこし",
+      "image": "https://image.anitabi.cn/points/289/n8y5tm3qm_1723730041224.jpg?plan=h160",
+      "geo": [
+        36.2724,
+        136.9031
+      ]
+    },
+    {
+      "id": "n8y6lmpjl",
+      "name": "雏见泽水坝",
+      "image": "https://image.anitabi.cn/points/289/n8y6lmpjl_1723730110121.jpg?plan=h160",
+      "geo": [
+        36.1353,
+        136.9085
+      ]
+    },
+    {
+      "id": "n8yb8b1sc",
+      "name": "レナの告白の場所",
+      "image": "https://image.anitabi.cn/points/289/n8yb8b1sc_1723730368192.jpg?plan=h160",
+      "geo": [
+        36.139,
+        136.9125
+      ]
+    },
+    {
+      "id": "n8wdbj1km",
+      "name": "村の風景",
+      "image": "https://image.anitabi.cn/points/289/n8wdbj1km_1723726152741.jpg?plan=h160",
+      "geo": [
+        36.2659,
+        136.9034
+      ]
+    }
+  ],
+  "pointsLength": 148,
+  "imagesLength": 147,
+  "local_id": 13
+}

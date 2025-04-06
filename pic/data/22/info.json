@@ -1,0 +1,80 @@
+{
+  "id": 311,
+  "cn": "千与千寻",
+  "title": "千と千尋の神隠し",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/22/images/311.jpg",
+  "color": "#683f20",
+  "geo": [
+    25.111054,
+    121.843829
+  ],
+  "modified": 1725042707699,
+  "litePoints": [
+    {
+      "id": "51i532bn0",
+      "cn": "巴瑟尔顿码头",
+      "name": "Busselton Jetty バッセルトン桟橋 ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/311/points/51i532bn0-1724649321266.jpg?plan=h160",
+      "ep": 9,
+      "s": 1081,
+      "geo": [
+        -33.6358,
+        115.3402
+      ]
+    },
+    {
+      "id": "51i532a1i",
+      "name": "九份 阿妹茶酒館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/311/points/51i532a1i-1725038829874.jpg?plan=h160",
+      "s": 1032,
+      "geo": [
+        25.1086,
+        121.8436
+      ]
+    },
+    {
+      "id": "51i532b6m",
+      "name": "積善館本館",
+      "geo": [
+        36.6863,
+        138.7737
+      ]
+    },
+    {
+      "id": "51i532avl",
+      "name": "道後温泉本館",
+      "geo": [
+        33.852,
+        132.7864
+      ]
+    },
+    {
+      "id": "51i532as3",
+      "name": "江戸東京たてもの園 子宝湯",
+      "geo": [
+        35.7167,
+        139.515
+      ]
+    },
+    {
+      "id": "51i532al7",
+      "name": "銀山温泉 能登屋旅館",
+      "geo": [
+        38.5692,
+        140.5314
+      ]
+    },
+    {
+      "id": "51i532ao1",
+      "name": "目黒雅叙園",
+      "geo": [
+        35.632,
+        139.7135
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 2,
+  "local_id": 22
+}

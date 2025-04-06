@@ -1,0 +1,28 @@
+{
+  "id": 310,
+  "cn": "幽灵公主",
+  "title": "もののけ姫",
+  "city": "鹿儿岛市",
+  "cover": "https://image.xinu.ink/pic/data/21/images/310.jpg",
+  "color": "#aaaaaa",
+  "cp": "吉卜力工作室",
+  "geo": [
+    30.362329,
+    130.568106
+  ],
+  "modified": 1719115441396,
+  "litePoints": [
+    {
+      "id": "as4nr0r7r",
+      "name": "苔むす森",
+      "image": "https://image.anitabi.cn/user/0/bangumi/310/points/as4nr0r7r-1688558804167.jpg?plan=h160",
+      "geo": [
+        30.3637,
+        130.576
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 1,
+  "local_id": 21
+}

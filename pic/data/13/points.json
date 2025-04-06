@@ -1,0 +1,996 @@
+[
+  {
+    "id": "2ar4ldv",
+    "name": "雛見沢を見下ろす展望台",
+    "image": "https://image.xinu.ink/pic/data/13/images/2ar4ldv-1723721976927.jpg",
+    "ep": 2,
+    "s": 235,
+    "geo": [
+      36.2606,
+      136.9091
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1A4Rzqare42KF5d5p9oPf7MnBmWA&ll=36.260633%2C136.909161&z=17"
+  },
+  {
+    "id": "2ar4lga",
+    "cn": "白川八幡神社",
+    "name": "古手神社",
+    "image": "https://image.xinu.ink/pic/data/13/images/2ar4lga_1723720519866_half.jpg",
+    "ep": 4,
+    "s": 1144,
+    "geo": [
+      36.2547,
+      136.9058
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1A4Rzqare42KF5d5p9oPf7MnBmWA&ll=36.25476%2C136.905817&z=17"
+  },
+  {
+    "id": "2ar4lf7",
+    "name": "鉄平宅 (沙都子の家)",
+    "image": "https://image.xinu.ink/pic/data/13/images/2ar4lf7_1723720003251.jpg",
+    "ep": 13,
+    "s": 182,
+    "geo": [
+      36.2595,
+      136.9086
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1A4Rzqare42KF5d5p9oPf7MnBmWA&ll=36.259594%2C136.908644&z=17"
+  },
+  {
+    "id": "lqgq6l08p",
+    "name": "梨花の家",
+    "image": "https://image.xinu.ink/pic/data/13/images/lqgq6l08p_1723726571835.jpg",
+    "ep": 24,
+    "s": 864,
+    "geo": [
+      36.2599,
+      136.9089
+    ]
+  },
+  {
+    "id": "2ar4lgb",
+    "name": "祭具殿",
+    "image": "https://image.xinu.ink/pic/data/13/images/2ar4lgb_1723725226427.jpg",
+    "geo": [
+      36.2793,
+      136.9007
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1A4Rzqare42KF5d5p9oPf7MnBmWA&ll=36.279325%2C136.900712&z=17"
+  },
+  {
+    "id": "n8w9nwj0o",
+    "name": "祭具殿, ＢＢＱプレート洗い場",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8w9nwj0o_1723729980068.jpg",
+    "geo": [
+      36.2791,
+      136.9007
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8y5tm3qm",
+    "name": "蕎麦庄やまこし",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8y5tm3qm_1723730041224.jpg",
+    "geo": [
+      36.2724,
+      136.9031
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8y6lmpjl",
+    "name": "雏见泽水坝",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8y6lmpjl_1723730110121.jpg",
+    "geo": [
+      36.1353,
+      136.9085
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8yb8b1sc",
+    "name": "レナの告白の場所",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8yb8b1sc_1723730368192.jpg",
+    "geo": [
+      36.139,
+      136.9125
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8wdbj1km",
+    "name": "村の風景",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8wdbj1km_1723726152741.jpg",
+    "geo": [
+      36.2659,
+      136.9034
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8x6tc3uv",
+    "name": "古手本家",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8x6tc3uv_1723727924594.jpg",
+    "geo": [
+      36.2605,
+      136.9071
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8x7pyhr6",
+    "name": "園崎本家",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8x7pyhr6_1723727991055.jpg",
+    "geo": [
+      36.2599,
+      136.908
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2ar4lfl",
+    "name": "白川クリーンセンター",
+    "image": "https://image.xinu.ink/pic/data/13/images/2ar4lfl_1723725247165.jpg",
+    "geo": [
+      36.2797,
+      136.903
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1A4Rzqare42KF5d5p9oPf7MnBmWA&ll=36.27971%2C136.903083&z=17"
+  },
+  {
+    "id": "n8vz5or2w",
+    "name": "かんじや 付近",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8vz5or2w_1723725284542.jpg",
+    "geo": [
+      36.2564,
+      136.9076
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8w3r1m2j",
+    "name": "長瀬家裏",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8w3r1m2j_1723725599492.jpg",
+    "geo": [
+      36.2573,
+      136.9082
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8wl7w412",
+    "name": "「嘘だッ！！！」坂 Game Ver.",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8wl7w412_1723726626733.jpg",
+    "geo": [
+      36.2598,
+      136.9087
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8sqzkary",
+    "name": "荻町秋葉神社",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8sqzkary-1723718265616.jpg",
+    "ep": null,
+    "geo": [
+      36.2793,
+      136.9003
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8svjibsv",
+    "name": "和田家 周辺",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8svjibsv-1723718541367.jpg",
+    "ep": null,
+    "geo": [
+      36.2603,
+      136.9075
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8t2sepli",
+    "name": "今昔 付近",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8t2sepli-1723718991585.jpg",
+    "ep": null,
+    "geo": [
+      36.2563,
+      136.9049
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8tc4aj6l",
+    "name": "二の鳥居",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8tc4aj6l-1723719545451.jpg",
+    "ep": null,
+    "geo": [
+      36.2548,
+      136.9056
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8tdq86io",
+    "name": "荻町八幡神社",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8tdq86io-1723719650326.jpg",
+    "ep": null,
+    "geo": [
+      36.2547,
+      136.9056
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8xksmrys",
+    "name": "ダム現場の沢",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8xksmrys_1723728778110.jpg",
+    "geo": [
+      36.2585,
+      136.9061
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8xlcampu",
+    "name": "園崎家",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8xlcampu_1723728813587.jpg",
+    "geo": [
+      36.2584,
+      136.9059
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8xltf27z",
+    "name": "魅音と別れ道",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8xltf27z_1723728836176.jpg",
+    "geo": [
+      36.2583,
+      136.9058
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8xn5s0rr",
+    "name": "高津戸の風景",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8xn5s0rr_1723728918123.jpg",
+    "geo": [
+      36.2579,
+      136.9049
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8xnpgjl1",
+    "name": "園崎家内部, 料亭内部",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8xnpgjl1_1723728957020.jpg",
+    "geo": [
+      36.2581,
+      136.9054
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8xr1lxkb",
+    "name": "レナと待ち合わせ",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8xr1lxkb_1723729147575.jpg",
+    "geo": [
+      36.2574,
+      136.9055
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8thqqomz",
+    "name": "白川郷合掌文化館（旧松井家）付近",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8thqqomz-1723719889551.jpg",
+    "ep": null,
+    "geo": [
+      36.2586,
+      136.9075
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8xbv74ed",
+    "name": "沙都子との帰り道",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8xbv74ed_1723728237500.jpg",
+    "geo": [
+      36.2582,
+      136.9074
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8xekvbto",
+    "name": "北条家通り",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8xekvbto_1723728404365.jpg",
+    "geo": [
+      36.2584,
+      136.9066
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8xffs77i",
+    "name": "興宮公園",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8xffs77i_1723728459201.jpg",
+    "geo": [
+      36.2578,
+      136.9067
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8xhsxfj6",
+    "name": "谷河内の風景",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8xhsxfj6_1723728589810.jpg",
+    "geo": [
+      36.2576,
+      136.908
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8xiv0dae",
+    "name": "長瀬家",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8xiv0dae_1723728661421.jpg",
+    "geo": [
+      36.2573,
+      136.9076
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8xjadiz8",
+    "name": "古手本家２",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8xjadiz8_1723728680237.jpg",
+    "geo": [
+      36.2573,
+      136.9076
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8uhjqoa8",
+    "name": "嘘だ坂",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8uhjqoa8-1723722060186.jpg",
+    "ep": null,
+    "geo": [
+      36.2629,
+      136.9079
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8whnvtdu",
+    "name": "通学路",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8whnvtdu_1723726404828.jpg",
+    "geo": [
+      36.2629,
+      136.908
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8wj1tc6c",
+    "name": "大臣の孫監禁小屋",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8wj1tc6c_1723726493620.jpg",
+    "geo": [
+      36.2604,
+      136.9093
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8wjnujxa",
+    "name": "トラップ裏山",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8wjnujxa_1723726525367.jpg",
+    "geo": [
+      36.2603,
+      136.9092
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8wjxk77x",
+    "name": "地下祭具殿入口",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8wjxk77x_1723726540644.jpg",
+    "geo": [
+      36.2603,
+      136.9095
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8wk4cjvy",
+    "name": "森の入口",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8wk4cjvy_1723726551958.jpg",
+    "geo": [
+      36.2602,
+      136.9094
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8uixawub",
+    "name": "荻町城跡展望台",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8uixawub-1723722126338.jpg",
+    "ep": null,
+    "geo": [
+      36.263,
+      136.9071
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8wfdq22l",
+    "name": "天狗堂",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8wfdq22l_1723726268195.jpg",
+    "geo": [
+      36.2634,
+      136.9071
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8wgox6fv",
+    "name": "お食事処天守閣",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8wgox6fv_1723726345881.jpg",
+    "geo": [
+      36.263,
+      136.9085
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8ujxz3fd",
+    "name": "明善寺 付近",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8ujxz3fd-1723722193985.jpg",
+    "ep": null,
+    "geo": [
+      36.2559,
+      136.9063
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8ulau3z7",
+    "name": "明善寺",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8ulau3z7-1723722270063.jpg",
+    "ep": null,
+    "geo": [
+      36.2558,
+      136.9066
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8ut1soft",
+    "name": "本覺寺前",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8ut1soft-1723722743177.jpg",
+    "ep": null,
+    "geo": [
+      36.2573,
+      136.9055
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8uucti50",
+    "name": "山楽堂裏",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8uucti50-1723722818051.jpg",
+    "ep": null,
+    "geo": [
+      36.2568,
+      136.9064
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8uyd97im",
+    "name": "かんじや",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8uyd97im-1723723060449.jpg",
+    "ep": null,
+    "geo": [
+      36.2561,
+      136.9076
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8vdkqkwz",
+    "name": "久松 付近",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8vdkqkwz-1723723984017.jpg",
+    "ep": null,
+    "geo": [
+      36.2554,
+      136.9065
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8ve45vjo",
+    "name": "さとう民芸品店",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8ve45vjo-1723724021628.jpg",
+    "ep": null,
+    "geo": [
+      36.2576,
+      136.9063
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8vqpldp4",
+    "name": "レナの家",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8vqpldp4_1723724788429.jpg",
+    "geo": [
+      36.2597,
+      136.9084
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8ws1f6x7",
+    "name": "入江診療所",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8ws1f6x7_1723727042444.jpg",
+    "geo": [
+      36.2621,
+      136.9065
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8wt565dv",
+    "name": "園崎本家への道",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8wt565dv_1723727097836.jpg",
+    "geo": [
+      36.2615,
+      136.9077
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8wtphu04",
+    "name": "轢逃げの道, 公由家",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8wtphu04_1723727133350.jpg",
+    "geo": [
+      36.2612,
+      136.9072
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8xrn9n40",
+    "name": "綿流しの水辺",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8xrn9n40_1723729191685.jpg",
+    "geo": [
+      36.2562,
+      136.9041
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8xsti9t8",
+    "name": "園崎庭園",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8xsti9t8_1723729255102.jpg",
+    "geo": [
+      36.2553,
+      136.9018
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8xt9n0rc",
+    "name": "魅音と待ち合わせ",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8xt9n0rc_1723729287861.jpg",
+    "geo": [
+      36.2546,
+      136.9019
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8xulzb1p",
+    "name": "園崎家仏間, 台所, 祭具殿前室",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8xulzb1p_1723729363174.jpg",
+    "geo": [
+      36.255,
+      136.9007
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8xvbhkf0",
+    "name": "集会所２, ３, 古手本家４",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8xvbhkf0_1723729406260.jpg",
+    "geo": [
+      36.2547,
+      136.9012
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8xvmrm8n",
+    "name": "祭具殿内部２",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8xvmrm8n_1723729434583.jpg",
+    "geo": [
+      36.2545,
+      136.9009
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8xwafo7q",
+    "name": "裏山戦闘, 美代子逃げる",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8xwafo7q_1723729473469.jpg",
+    "geo": [
+      36.2543,
+      136.9014
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8y1l207a",
+    "name": "大坝工程现场",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8y1l207a_1723729795238.jpg",
+    "geo": [
+      36.2799,
+      136.9035
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8y47g26o",
+    "name": "レナとエンジェルモート行きの坂道",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8y47g26o_1723729953945.jpg",
+    "geo": [
+      36.2788,
+      136.9024
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8yfeoapc",
+    "name": "白川街道",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8yfeoapc_1723730622782.jpg",
+    "geo": [
+      36.127,
+      136.9056
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8ytv3ww1",
+    "name": "記念碑",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8ytv3ww1_1723731557704.jpg",
+    "geo": [
+      36.0861,
+      136.9442
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8ywyk1ap",
+    "name": "吊り橋",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8ywyk1ap_1723731699728.jpg",
+    "geo": [
+      36.0571,
+      136.9409
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8yz8aop0",
+    "name": "雛見沢分校",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8yz8aop0_1723731827781.jpg",
+    "geo": [
+      36.0561,
+      136.942
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8z1gt2ua",
+    "name": "鬼ヶ淵沼",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8z1gt2ua_1723731967681.jpg",
+    "geo": [
+      36.0558,
+      136.9406
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8z20qjof",
+    "name": "雛見沢分譲地の野原",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8z20qjof_1723731987687.jpg",
+    "geo": [
+      36.0557,
+      136.9412
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8z2ud44d",
+    "name": "××県鹿骨市雛見沢",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8z2ud44d_1723732045464.jpg",
+    "geo": [
+      36.0222,
+      136.9623
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8z88cuo6",
+    "name": "警視庁公安部",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8z88cuo6_1723732364011.jpg",
+    "geo": [
+      35.6818,
+      139.7658
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8z8pyfk5",
+    "name": "名古屋駅",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8z8pyfk5_1723732393299.jpg",
+    "geo": [
+      35.6816,
+      139.7667
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8zc4p4zv",
+    "name": "玩具店",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8zc4p4zv_1723732621418.jpg",
+    "geo": [
+      35.6638,
+      139.8575
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8zdlsi43",
+    "name": "关东煮店",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8zdlsi43_1723732701593.jpg",
+    "geo": [
+      35.6629,
+      139.8571
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8zeogdev",
+    "name": "Angel Mort",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8zeogdev_1723732798853.jpg",
+    "geo": [
+      35.662,
+      139.859
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8zggmz9p",
+    "name": "清新町​コミュニティ​図書館",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8zggmz9p_1723732868521.jpg",
+    "geo": [
+      35.6588,
+      139.8559
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8zgz0v6m",
+    "name": "西葛西​少年​野球場",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8zgz0v6m_1723732897973.jpg",
+    "geo": [
+      35.6596,
+      139.858
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8zhsqifv",
+    "name": "公厕",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8zhsqifv_1723732975790.jpg",
+    "geo": [
+      35.6572,
+      139.8609
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8zjrz7s1",
+    "name": "鹿骨繁華街",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8zjrz7s1_1723733102734.jpg",
+    "geo": [
+      35.6639,
+      139.8691
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8zo6rmbu",
+    "name": "雀荘入口",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8zo6rmbu_1723733340356.jpg",
+    "geo": [
+      35.6638,
+      139.8712
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8zoyclz2",
+    "name": "興宮警察署",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8zoyclz2_1723733382438.jpg",
+    "geo": [
+      35.6614,
+      139.8795
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8zpp3xms",
+    "name": "大臣の孫誘拐現場",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8zpp3xms_1723733419491.jpg",
+    "geo": [
+      35.6492,
+      139.8783
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8zrp9yhs",
+    "name": "集会所",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8zrp9yhs_1723733540909.jpg",
+    "geo": [
+      35.676,
+      139.8798
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8ztb6ww9",
+    "name": "高級料亭",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8ztb6ww9_1723733643449.jpg",
+    "geo": [
+      35.6799,
+      139.7976
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n9004wh18",
+    "name": "街と村をつなげる車道",
+    "image": "https://image.xinu.ink/pic/data/13/images/n9004wh18-1723734068402.jpg",
+    "ep": null,
+    "geo": [
+      35.5361,
+      140.2613
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n90249ud4",
+    "name": "どぶ川横のアパート",
+    "image": "https://image.xinu.ink/pic/data/13/images/n90249ud4-1723734179018.jpg",
+    "ep": null,
+    "geo": [
+      35.5354,
+      140.2642
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n903b6p1s",
+    "name": "ケンタくん人形救出現場",
+    "image": "https://image.xinu.ink/pic/data/13/images/n903b6p1s-1723734244922.jpg",
+    "ep": null,
+    "geo": [
+      35.5376,
+      140.2629
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n9062r6pt",
+    "name": "Miboro Damside",
+    "image": "https://image.xinu.ink/pic/data/13/images/n9062r6pt-1723734412556.jpg",
+    "ep": null,
+    "geo": [
+      36.1456,
+      136.9085
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  }
+]
