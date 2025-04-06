@@ -1,0 +1,136 @@
+[
+  {
+    "id": "kii6ddmzs",
+    "cn": "町田站北口",
+    "name": "町田駅北口",
+    "image": "https://image.xinu.ink/pic/data/277/images/kii6ddmzs-1716015668121.jpg",
+    "ep": 8,
+    "s": 475,
+    "geo": [
+      35.5425,
+      139.4459
+    ],
+    "origin": "Anitabi@萝可穗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kiii2xfmb",
+    "cn": "Dennys 町田南口店",
+    "name": "デニーズ 町田南口店",
+    "image": "https://image.xinu.ink/pic/data/277/images/kiii2xfmb-1716016308703.jpg",
+    "ep": 1,
+    "s": 433,
+    "geo": [
+      35.5418,
+      139.4449
+    ],
+    "origin": "Anitabi@萝可穗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ow5ft523x",
+    "name": "ホテル​アイリーン・​ドナン​町田​店",
+    "image": "https://image.xinu.ink/pic/data/277/images/ow5ft523x_1728369894782.jpg",
+    "ep": 3,
+    "s": 609,
+    "geo": [
+      35.5414,
+      139.445
+    ],
+    "origin": "Anitabi@caherle",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kiip627sn",
+    "cn": "町田天满宫",
+    "name": "町田天満宮",
+    "image": "https://image.xinu.ink/pic/data/277/images/kiip627sn-1716017337740.jpg",
+    "ep": 4,
+    "s": 42,
+    "geo": [
+      35.5384,
+      139.4514
+    ],
+    "origin": "Anitabi@萝可穗",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ow4zzetsf",
+    "name": "小陽生煎饅頭屋",
+    "image": "https://image.xinu.ink/pic/data/277/images/ow4zzetsf_1728368495593.jpg",
+    "ep": "M1",
+    "s": 2530,
+    "geo": [
+      35.5413,
+      139.4483
+    ],
+    "origin": "Anitabi@caherle",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ow5xnb314",
+    "name": "鹿島橋",
+    "image": "https://image.xinu.ink/pic/data/277/images/ow5xnb314_1728371482813.jpg",
+    "ep": 3,
+    "s": 471,
+    "geo": [
+      35.5411,
+      139.445
+    ],
+    "origin": "Anitabi@caherle",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ow6lw151d",
+    "name": "町田站（小田急小原线）路口",
+    "image": "https://image.xinu.ink/pic/data/277/images/ow6lw151d_1728372187962.jpg",
+    "ep": "OP3",
+    "s": 119,
+    "geo": [
+      35.545,
+      139.4459
+    ],
+    "origin": "Anitabi@caherle",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ow5zt62wd",
+    "name": "谷口橋",
+    "image": "https://image.xinu.ink/pic/data/277/images/ow5zt62wd_1728371441351.jpg",
+    "ep": 3,
+    "s": 455,
+    "geo": [
+      35.5416,
+      139.4445
+    ],
+    "origin": "Anitabi@caherle",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ow7h8c5by",
+    "cn": "吉祥寺odeon（电影院）",
+    "name": "吉祥寺オデヲン",
+    "image": "https://image.xinu.ink/pic/data/277/images/ow7h8c5by_1728373879138.jpg",
+    "ep": 3,
+    "s": 519,
+    "geo": [
+      35.7028,
+      139.5809
+    ],
+    "origin": "Anitabi@caherle",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pj1hn9jrn",
+    "name": "bic camera 别馆",
+    "image": "https://image.xinu.ink/pic/data/277/images/pj1hn9jrn_1730163762815.jpg",
+    "ep": "M1",
+    "s": 911,
+    "geo": [
+      35.5425,
+      139.4479
+    ],
+    "origin": "Anitabi@caherle",
+    "originURL": "https://anitabi.cn/"
+  }
+]

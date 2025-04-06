@@ -1,0 +1,44 @@
+{
+  "id": 56705,
+  "cn": "侠盗猎车手5",
+  "title": "Grand Theft Auto V",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/291/images/56705.jpg",
+  "color": "#4b8424",
+  "modified": 1726143015103,
+  "litePoints": [
+    {
+      "id": "nxhnj3evh",
+      "cn": "好莱坞山标志",
+      "name": "Hollywood Sign",
+      "image": "https://image.anitabi.cn/user/0/bangumi/56705/points/nxhnj3evh-1725653383440.jpg?plan=h160",
+      "geo": [
+        34.134,
+        -118.3217
+      ]
+    },
+    {
+      "id": "o3k9qbxly",
+      "cn": "威斯普奇沙滩",
+      "name": "圣莫尼卡沙滩",
+      "image": "https://image.anitabi.cn/user/0/bangumi/56705/points/o3k9qbxly-1726129251869.jpg?plan=h160",
+      "geo": [
+        34.0073,
+        -118.4955
+      ]
+    },
+    {
+      "id": "o3m1ce1ck",
+      "cn": "花园银行大楼",
+      "name": "美国合众银行大厦",
+      "image": "https://image.anitabi.cn/user/0/bangumi/56705/points/o3m1ce1ck-1726133000655.jpg?plan=h160",
+      "geo": [
+        34.0532,
+        -118.2534
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 291
+}

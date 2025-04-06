@@ -1,0 +1,129 @@
+{
+  "id": 62285,
+  "cn": "美妙旋律 Rainbow Live",
+  "title": "プリティーリズム・レインボーライブ",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/301/images/62285.jpg",
+  "color": "#e08e87",
+  "geo": [
+    40.207106571859356,
+    137.7703370245506
+  ],
+  "zoom": 4.836,
+  "modified": 1726751755861,
+  "litePoints": [
+    {
+      "id": "ko1ulybak",
+      "name": "虹立駅（国立駅）",
+      "image": "https://image.anitabi.cn/points/62285/ko1ulybak_1716450321461.jpg?plan=h160",
+      "ep": 1,
+      "s": 274,
+      "geo": [
+        35.6992,
+        139.446
+      ]
+    },
+    {
+      "id": "ko1ulyawr",
+      "name": "原宿駅",
+      "image": "https://image.anitabi.cn/points/62285/ko1ulyawr_1716450211686.jpg?plan=h160",
+      "ep": 1,
+      "s": 562,
+      "geo": [
+        35.6715,
+        139.7029
+      ]
+    },
+    {
+      "id": "ko1ulybal",
+      "name": "Dear Crown（表参道ヒルズ）",
+      "image": "https://image.anitabi.cn/points/62285/ko1ulybal_1716450321707.jpg?plan=h160",
+      "ep": 1,
+      "s": 612,
+      "geo": [
+        35.6672,
+        139.7086
+      ]
+    },
+    {
+      "id": "ko1ulyban",
+      "name": "エーデルローズ（エイベックスビル）",
+      "image": "https://image.anitabi.cn/points/62285/ko1ulyban_1716450320783.jpg?plan=h160",
+      "ep": 3,
+      "s": 349,
+      "geo": [
+        35.6678,
+        139.7156
+      ]
+    },
+    {
+      "id": "ko1ulyaut",
+      "name": "Prism Stone（ジュビリプーラザビル）",
+      "image": "https://image.anitabi.cn/points/62285/ko1ulyaut_1716450321970.jpg?plan=h160",
+      "ep": 6,
+      "s": 2,
+      "geo": [
+        35.6668,
+        139.7082
+      ]
+    },
+    {
+      "id": "ko1ulyb4o",
+      "name": "歩道橋",
+      "image": "https://image.anitabi.cn/points/62285/ko1ulyb4o_1716450321217.jpg?plan=h160",
+      "ep": 24,
+      "s": 1175,
+      "geo": [
+        35.6676,
+        139.7147
+      ]
+    },
+    {
+      "id": "ko1ulyb36",
+      "name": "札幌市時計台",
+      "image": "https://image.anitabi.cn/points/99748/50ve9oy04_1672317190050.jpg?plan=h160",
+      "ep": 29,
+      "s": 2,
+      "geo": [
+        43.0625,
+        141.3533
+      ]
+    },
+    {
+      "id": "ko1ulybc8",
+      "name": "大通公園・さっぽろテレビ塔",
+      "image": "https://image.anitabi.cn/points/62285/ko1ulybc8_1716451025984.jpg?plan=h160",
+      "ep": 29,
+      "s": 253,
+      "geo": [
+        43.0607,
+        141.3542
+      ]
+    },
+    {
+      "id": "ko1ulyb10",
+      "name": "大通公園西11丁目",
+      "image": "https://image.anitabi.cn/points/62285/ko1ulyb10_1716451026869.jpg?plan=h160",
+      "ep": 29,
+      "s": 346,
+      "geo": [
+        43.0588,
+        141.3407
+      ]
+    },
+    {
+      "id": "ko1ulybb1",
+      "name": "ファーム富田 花人の畑",
+      "image": "https://image.anitabi.cn/points/99748/50ve9oy3d_1672317177037.jpg?plan=h160",
+      "ep": 29,
+      "s": 1177,
+      "geo": [
+        43.4188,
+        142.4265
+      ]
+    }
+  ],
+  "pointsLength": 17,
+  "imagesLength": 16,
+  "local_id": 301
+}

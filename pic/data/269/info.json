@@ -1,0 +1,119 @@
+{
+  "id": 46307,
+  "cn": "恶之华",
+  "title": "惡の華",
+  "city": "桐生市",
+  "cover": "https://image.xinu.ink/pic/data/269/images/46307.jpg",
+  "color": "#475563",
+  "geo": [
+    36.408711,
+    139.33857
+  ],
+  "zoom": 13,
+  "modified": 1725007892019,
+  "litePoints": [
+    {
+      "id": "4sm3aj1qi",
+      "name": "浜松町1丁目交差点南",
+      "image": "https://image.anitabi.cn/points/46307/4sm3aj1qi.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        36.4037,
+        139.3388
+      ]
+    },
+    {
+      "id": "4sm3aj1vd",
+      "name": "浜松町２丁目",
+      "image": "https://image.anitabi.cn/points/46307/4sm3aj1vd.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        36.4012,
+        139.3405
+      ]
+    },
+    {
+      "id": "4sm3aj1xx",
+      "name": "浜松町２丁目交差点",
+      "image": "https://image.anitabi.cn/points/46307/4sm3aj1xx.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        36.4001,
+        139.3414
+      ]
+    },
+    {
+      "id": "4sm3aj251",
+      "name": "１０日５キロの看板",
+      "image": "https://image.anitabi.cn/points/46307/4sm3aj251.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        36.3997,
+        139.3419
+      ]
+    },
+    {
+      "id": "4sm3aj1ix",
+      "name": "水路が見える交差点",
+      "image": "https://image.anitabi.cn/points/46307/4sm3aj1ix.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        36.3961,
+        139.3445
+      ]
+    },
+    {
+      "id": "4sm3aj24e",
+      "name": "学校（桐生総合福祉センター）",
+      "image": "https://image.anitabi.cn/points/46307/4sm3aj24e.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        36.3952,
+        139.3448
+      ]
+    },
+    {
+      "id": "4sm3aj274",
+      "name": "星野モータース前T字路",
+      "image": "https://image.anitabi.cn/points/46307/4sm3aj274.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        36.4032,
+        139.3392
+      ]
+    },
+    {
+      "id": "4sm3aj1jr",
+      "name": "うどんそば処やぶよし",
+      "image": "https://image.anitabi.cn/points/46307/4sm3aj1jr.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        36.4058,
+        139.3363
+      ]
+    },
+    {
+      "id": "4sm3aj1q5",
+      "name": "猫町堂（雄文堂書店）",
+      "image": "https://image.anitabi.cn/points/46307/4sm3aj1q5.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        36.4145,
+        139.3413
+      ]
+    },
+    {
+      "id": "4sm3aj1yd",
+      "name": "奈良書店",
+      "image": "https://image.anitabi.cn/points/46307/4sm3aj1yd.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        36.411,
+        139.3439
+      ]
+    }
+  ],
+  "pointsLength": 76,
+  "imagesLength": 42,
+  "local_id": 269
+}

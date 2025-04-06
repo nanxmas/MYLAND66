@@ -1,0 +1,41 @@
+{
+  "id": 43951,
+  "cn": "魔法少女☆伊莉雅",
+  "title": "Fate/kaleid liner プリズマ☆イリヤ",
+  "city": "神户市",
+  "cover": "https://image.xinu.ink/pic/data/265/images/43951.jpg",
+  "color": "#557faa",
+  "geo": [
+    34.677701835086,
+    135.2037956207455
+  ],
+  "zoom": 16.243,
+  "modified": 1723708259602,
+  "litePoints": [
+    {
+      "id": "n80ilqt6s",
+      "name": "神戶大橋",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/109418/points/n80ilqt6s-1723656836524.jpg?plan=h160",
+      "ep": 6,
+      "s": 194,
+      "geo": [
+        34.6786,
+        135.2033
+      ]
+    },
+    {
+      "id": "n80jld4wi",
+      "name": "ポートアイランド北公園",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/109418/points/n80jld4wi-1723656868290.jpg?plan=h160",
+      "ep": 1,
+      "s": 751,
+      "geo": [
+        34.6772,
+        135.204
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 265
+}

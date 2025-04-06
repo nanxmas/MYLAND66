@@ -1,0 +1,110 @@
+{
+  "id": 59664,
+  "cn": "银之匙 Silver Spoon",
+  "title": "銀の匙 Silver Spoon",
+  "city": "带广市",
+  "cover": "https://image.xinu.ink/pic/data/296/images/59664.jpg",
+  "color": "#d4aa80",
+  "cp": "エゾノー祭実行委員会",
+  "geo": [
+    42.9017524094198,
+    143.17922838631586
+  ],
+  "zoom": 11.611,
+  "modified": 1729315701376,
+  "litePoints": [
+    {
+      "id": "e33ebd2f",
+      "name": "北海道帯広農業高等学校",
+      "image": "https://image.anitabi.cn/points/59664/e33ebd2f_1729258663865.jpg?plan=h160",
+      "geo": [
+        42.8774,
+        143.1821
+      ]
+    },
+    {
+      "id": "8a350e58",
+      "name": "北海道帯広農業高校正門",
+      "image": "https://image.anitabi.cn/points/59664/8a350e58_1729258672813.jpg?plan=h160",
+      "geo": [
+        42.8803,
+        143.1835
+      ]
+    },
+    {
+      "id": "9f9e92e3",
+      "name": "農校住宅前バス亭",
+      "image": "https://image.anitabi.cn/points/59664/9f9e92e3_1729260284278.jpg?plan=h160",
+      "geo": [
+        42.8799,
+        143.1794
+      ]
+    },
+    {
+      "id": "a7e71aed",
+      "name": "農業高校前バス亭",
+      "image": "https://image.anitabi.cn/points/59664/a7e71aed_1729260293006.jpg?plan=h160",
+      "geo": [
+        42.8801,
+        143.1828
+      ]
+    },
+    {
+      "id": "e95932b4",
+      "name": "帯広の森野球場",
+      "image": "https://image.anitabi.cn/points/59664/e95932b4_1729260330870.jpg?plan=h160",
+      "geo": [
+        42.8912,
+        143.1464
+      ]
+    },
+    {
+      "id": "a7c365c2",
+      "name": "十勝柏友会乗馬クラブ",
+      "image": "https://image.anitabi.cn/points/59664/a7c365c2_1729259599845.jpg?plan=h160",
+      "geo": [
+        42.8756,
+        143.1406
+      ]
+    },
+    {
+      "id": "04e68459",
+      "name": "広小路商店街入口",
+      "image": "https://image.anitabi.cn/points/59664/04e68459_1729258501874.jpg?plan=h160",
+      "geo": [
+        42.9227,
+        143.2052
+      ]
+    },
+    {
+      "id": "518d6a9e",
+      "name": "緑が丘公園",
+      "image": "https://image.anitabi.cn/points/59664/518d6a9e_1729259241487.jpg?plan=h160",
+      "geo": [
+        42.9066,
+        143.1868
+      ]
+    },
+    {
+      "id": "9057913a",
+      "name": "帯広神社",
+      "image": "https://image.anitabi.cn/points/59664/9057913a_1729258526061.jpg?plan=h160",
+      "geo": [
+        42.9307,
+        143.2089
+      ]
+    },
+    {
+      "id": "f01ab393",
+      "name": "帯広神社境内",
+      "image": "https://image.anitabi.cn/points/59664/f01ab393_1729258543502.jpg?plan=h160",
+      "geo": [
+        42.9318,
+        143.2088
+      ]
+    }
+  ],
+  "pointsLength": 29,
+  "imagesLength": 24,
+  "local_id": 296
+}

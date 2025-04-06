@@ -1,0 +1,82 @@
+{
+  "id": 58850,
+  "cn": "恋爱研究所",
+  "title": "恋愛ラボ",
+  "city": "岐阜市",
+  "cover": "https://image.xinu.ink/pic/data/293/images/58850.jpg",
+  "color": "#ce9095",
+  "cp": "藤女生徒会",
+  "geo": [
+    35.42342259,
+    136.7606217
+  ],
+  "modified": 1726752286881,
+  "litePoints": [
+    {
+      "id": "jizxjejo8",
+      "name": "明治村（旧制第八高等学校正門）",
+      "image": "https://image.anitabi.cn/points/58850/jizxjejo8_1713233990832.jpg?plan=h160",
+      "geo": [
+        35.3408,
+        136.9884
+      ]
+    },
+    {
+      "id": "jizxjejwm",
+      "name": "佐鳴予備校長良校",
+      "image": "https://image.anitabi.cn/points/58850/jizxjejwm_1713233991220.jpg?plan=h160",
+      "geo": [
+        35.4476,
+        136.774
+      ]
+    },
+    {
+      "id": "jizxjejt8",
+      "name": "イオンモール各務原",
+      "image": "https://image.anitabi.cn/points/58850/jizxjejt8_1713233991524.jpg?plan=h160",
+      "geo": [
+        35.3925,
+        136.8233
+      ]
+    },
+    {
+      "id": "jizxjejn0",
+      "name": "フロンティア丸杉ビル横駐車場",
+      "image": "https://image.anitabi.cn/points/58850/jizxjejn0_1713233991827.jpg?plan=h160",
+      "geo": [
+        35.4123,
+        136.7573
+      ]
+    },
+    {
+      "id": "jizxjeji9",
+      "name": "「神田町10」交差点",
+      "image": "https://image.anitabi.cn/points/58850/jizxjeji9_1713233992095.jpg?plan=h160",
+      "geo": [
+        35.4109,
+        136.7586
+      ]
+    },
+    {
+      "id": "jizxjejz6",
+      "name": "ベンリー中板橋店",
+      "image": "https://image.anitabi.cn/points/58850/jizxjejz6_1713233993177.jpg?plan=h160",
+      "geo": [
+        35.7561,
+        139.6991
+      ]
+    },
+    {
+      "id": "jizxjejym",
+      "name": "渋谷センター街ちとせ会館前",
+      "image": "https://image.anitabi.cn/points/58850/jizxjejym_1713233993570.jpg?plan=h160",
+      "geo": [
+        35.6609,
+        139.6982
+      ]
+    }
+  ],
+  "pointsLength": 9,
+  "imagesLength": 9,
+  "local_id": 293
+}

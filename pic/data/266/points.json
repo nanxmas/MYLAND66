@@ -1,0 +1,64 @@
+[
+  {
+    "id": "nmrh0lgku",
+    "cn": "哥本哈根贝拉天空AC酒店",
+    "name": "AC Hotel Bella Sky Copenhagen",
+    "image": "https://image.xinu.ink/pic/data/266/images/nmrh0lgku_1728212549113_c16v9.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      55.6392,
+      12.5781
+    ],
+    "origin": "Anitabi@Nelson",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nr4hwqyok",
+    "name": "Prada Tokyo Aoyama",
+    "image": "https://image.xinu.ink/pic/data/266/images/nr4hwqyok-1725154851553.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      35.6619,
+      139.7127
+    ],
+    "origin": "Anitabi@Nelson",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nr4qona3o",
+    "cn": "吉野家原宿竹下口店",
+    "name": "吉野家\n原宿​竹​下口​店",
+    "image": "https://image.xinu.ink/pic/data/266/images/nr4qona3o-1725154978944.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      35.6714,
+      139.7031
+    ],
+    "origin": "Anitabi@Nelson",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "oaa4ffpui",
+    "name": "表参道ヒルズ",
+    "image": "https://image.xinu.ink/pic/data/266/images/oaa4ffpui-1726655619102.jpg",
+    "ep": null,
+    "geo": [
+      35.667,
+      139.709
+    ]
+  },
+  {
+    "id": "otze3z992",
+    "name": "Schloss Bartenstein",
+    "image": "https://image.xinu.ink/pic/data/266/images/otze3z992-1728199639931.jpg",
+    "ep": null,
+    "geo": [
+      49.356,
+      9.8777
+    ],
+    "originLink": "https://b23.tv/uIPHm2q"
+  }
+]

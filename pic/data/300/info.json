@@ -1,0 +1,119 @@
+{
+  "id": 62214,
+  "cn": "跳跃大搜查线 秋天的犯罪扑灭SP",
+  "title": "踊る大捜査線 秋の犯罪撲滅スペシャル",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/300/images/62214_6hTRh.jpg",
+  "color": "#2b6b00",
+  "geo": [
+    35.63167822702944,
+    139.94026130527544
+  ],
+  "zoom": 9.169,
+  "modified": 1725731414323,
+  "litePoints": [
+    {
+      "id": "nyci5wcgc",
+      "name": "カシオ計算機本社",
+      "image": "https://image.anitabi.cn/points/62214/nyci5wcgc_1725720379596.jpg?plan=h160",
+      "s": 29,
+      "geo": [
+        35.6808,
+        139.6852
+      ]
+    },
+    {
+      "id": "nycnqi6sx",
+      "name": "錦2丁目交差点",
+      "image": "https://image.anitabi.cn/points/62214/nycnqi6sx_1725720711861.jpg?plan=h160",
+      "s": 716,
+      "geo": [
+        35.7631,
+        139.6632
+      ]
+    },
+    {
+      "id": "nydsce66z",
+      "name": "放火現場",
+      "image": "https://image.anitabi.cn/points/62214/nydsce66z_1725723197164.jpg?plan=h160",
+      "s": 752,
+      "geo": [
+        35.7488,
+        139.6675
+      ]
+    },
+    {
+      "id": "nydx425c5",
+      "name": "豊洲埠頭",
+      "image": "https://image.anitabi.cn/points/62214/nydx425c5_1725723463504.jpg?plan=h160",
+      "s": 1427,
+      "geo": [
+        35.6419,
+        139.7783
+      ]
+    },
+    {
+      "id": "nye15r8ut",
+      "name": "警察庁北門",
+      "image": "https://image.anitabi.cn/points/62214/nye15r8ut_1725723754084.jpg?plan=h160",
+      "s": 1800,
+      "geo": [
+        35.6764,
+        139.769
+      ]
+    },
+    {
+      "id": "nye70614j",
+      "name": "ビッグ・カントリー",
+      "image": "https://image.anitabi.cn/points/62214/nye70614j_1725724102393.jpg?plan=h160",
+      "s": 1982,
+      "geo": [
+        35.7435,
+        140.3406
+      ]
+    },
+    {
+      "id": "nyed8dz2a",
+      "name": "東京テレポート駅改札",
+      "image": "https://image.anitabi.cn/points/62214/nyed8dz2a_1725724452115.jpg?plan=h160",
+      "s": 3800,
+      "geo": [
+        35.6271,
+        139.7785
+      ]
+    },
+    {
+      "id": "nyegiimh8",
+      "name": "藤が丘1丁目 国道246号線のガード",
+      "image": "https://image.anitabi.cn/points/62214/nyegiimh8_1725724630317.jpg?plan=h160",
+      "s": 3824,
+      "geo": [
+        35.5466,
+        139.5288
+      ]
+    },
+    {
+      "id": "nyeqbpd16",
+      "name": "恩田堇家",
+      "image": "https://image.anitabi.cn/points/62214/nyeqbpd16_1725725442644.jpg?plan=h160",
+      "s": 3844,
+      "geo": [
+        35.6516,
+        139.9015
+      ]
+    },
+    {
+      "id": "nyf317272",
+      "name": "佐竹商店街",
+      "image": "https://image.anitabi.cn/points/62214/nyf317272_1725726062925.jpg?plan=h160",
+      "s": 3964,
+      "geo": [
+        35.7068,
+        139.7812
+      ]
+    }
+  ],
+  "pointsLength": 41,
+  "imagesLength": 41,
+  "local_id": 300
+}

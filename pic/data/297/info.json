@@ -1,0 +1,122 @@
+{
+  "id": 59825,
+  "cn": "百合熊风暴",
+  "title": "ユリ熊嵐",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/297/images/59825.jpg",
+  "color": "#f75299",
+  "cp": "ユリクマニクル",
+  "geo": [
+    35.671933115803995,
+    139.75466106006115
+  ],
+  "zoom": 13.685,
+  "modified": 1729703507100,
+  "litePoints": [
+    {
+      "id": "51i5281vi",
+      "name": "日比谷図書文化舘",
+      "image": "https://image.anitabi.cn/user/0/bangumi/59825/points/51i5281vi-1719932556071.jpg?plan=h160",
+      "ep": 1,
+      "s": 368,
+      "geo": [
+        35.6719,
+        139.7545
+      ]
+    },
+    {
+      "id": "51i5282ov",
+      "name": "日比谷公会堂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/59825/points/51i5282ov-1719933225247.jpg?plan=h160",
+      "ep": 1,
+      "s": 430,
+      "geo": [
+        35.6717,
+        139.7555
+      ]
+    },
+    {
+      "id": "51i5282x0",
+      "name": "大塚公園 露壇",
+      "image": "https://image.anitabi.cn/user/0/bangumi/59825/points/51i5282x0-1720290390369.jpg?plan=h160",
+      "ep": 8,
+      "s": 546,
+      "geo": [
+        35.7237,
+        139.7313
+      ]
+    },
+    {
+      "id": "51i52838s",
+      "name": "大塚公園 大噴水",
+      "image": "https://image.anitabi.cn/user/0/bangumi/59825/points/51i52838s-1719933011532.jpg?plan=h160",
+      "ep": 1,
+      "s": 406,
+      "geo": [
+        35.7242,
+        139.7316
+      ]
+    },
+    {
+      "id": "51i5282j3",
+      "name": "大塚公園 四阿（きのこ屋根ベンチ）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/59825/points/51i5282j3-1720291458031.jpg?plan=h160",
+      "ep": 6,
+      "s": 825,
+      "geo": [
+        35.7242,
+        139.7313
+      ]
+    },
+    {
+      "id": "51i5283av",
+      "name": "日比谷公園 大噴水",
+      "image": "https://image.anitabi.cn/user/0/bangumi/59825/points/51i5283av-1720290499268.jpg?plan=h160",
+      "ep": 10,
+      "s": 987,
+      "geo": [
+        35.6736,
+        139.7568
+      ]
+    },
+    {
+      "id": "51i5283pi",
+      "name": "日比谷公園 雲形池噴水",
+      "image": "https://image.anitabi.cn/user/0/bangumi/59825/points/51i5283pi-1719934538849.jpg?plan=h160",
+      "ep": 9,
+      "s": 389,
+      "geo": [
+        35.6734,
+        139.7548
+      ]
+    },
+    {
+      "id": "51i5282og",
+      "name": "礫川公園 噴水",
+      "image": "https://image.anitabi.cn/user/0/bangumi/59825/points/51i5282og-1719933488081.jpg?plan=h160",
+      "geo": [
+        35.7077,
+        139.7514
+      ]
+    },
+    {
+      "id": "51i528231",
+      "name": "日比谷図書文化舘 裏側",
+      "geo": [
+        35.6718,
+        139.7541
+      ]
+    },
+    {
+      "id": "51i5282ub",
+      "name": "日比谷野外大音楽場",
+      "geo": [
+        35.672,
+        139.754
+      ]
+    }
+  ],
+  "pointsLength": 18,
+  "imagesLength": 8,
+  "local_id": 297
+}

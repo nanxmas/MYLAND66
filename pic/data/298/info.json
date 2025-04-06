@@ -1,0 +1,119 @@
+{
+  "id": 62202,
+  "cn": "跳跃大搜查线 剧场版 湾岸署史上最恶之三日",
+  "title": "踊る大捜査線 THE MOVIE 湾岸署史上最悪の3日間!",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/298/images/62202_5C6VN.jpg",
+  "color": "#007a18",
+  "geo": [
+    35.464151279069185,
+    139.8277525457662
+  ],
+  "zoom": 8.562,
+  "modified": 1742409345188,
+  "litePoints": [
+    {
+      "id": "om7wfa72r",
+      "name": "警視庁副総監宅",
+      "image": "https://image.anitabi.cn/points/62202/om7wfa72r_1727591100520.jpg?plan=h160",
+      "s": 64,
+      "geo": [
+        35.6232,
+        139.6173
+      ]
+    },
+    {
+      "id": "om87zqj4q",
+      "name": "東名高速道路",
+      "image": "https://image.anitabi.cn/points/62202/om87zqj4q_1727591790159.jpg?plan=h160",
+      "s": 237,
+      "geo": [
+        35.6283,
+        139.613
+      ]
+    },
+    {
+      "id": "om89akksp",
+      "name": "袋田の滝カントリークラブ",
+      "image": "https://image.anitabi.cn/points/62202/om89akksp_1727591923358.jpg?plan=h160",
+      "s": 248,
+      "geo": [
+        36.797,
+        140.3241
+      ]
+    },
+    {
+      "id": "om8kbu27i",
+      "name": "鶴見川 鴨池人道橋",
+      "image": "https://image.anitabi.cn/points/62202/om8kbu27i_1727592545120.jpg?plan=h160",
+      "s": 398,
+      "geo": [
+        35.5122,
+        139.5661
+      ]
+    },
+    {
+      "id": "om8luxq7x",
+      "name": "鶴見川北",
+      "image": "https://image.anitabi.cn/points/62202/om8luxq7x_1727592637306.jpg?plan=h160",
+      "s": 428,
+      "geo": [
+        35.5124,
+        139.5663
+      ]
+    },
+    {
+      "id": "om8jiy3at",
+      "name": "鶴見川南",
+      "image": "https://image.anitabi.cn/points/62202/om8jiy3at_1727592484994.jpg?plan=h160",
+      "s": 454,
+      "geo": [
+        35.5122,
+        139.567
+      ]
+    },
+    {
+      "id": "om8xg7h7y",
+      "name": "横浜ドリームランド",
+      "image": "https://image.anitabi.cn/points/62202/om8xg7h7y_1727593335331.jpg?plan=h160",
+      "s": 2564,
+      "geo": [
+        35.3859,
+        139.4931
+      ]
+    },
+    {
+      "id": "om8zoj16y",
+      "name": "クイーンズスクエア横浜",
+      "image": "https://image.anitabi.cn/points/62202/om8zoj16y_1727593459727.jpg?plan=h160",
+      "s": 2645,
+      "geo": [
+        35.4567,
+        139.6341
+      ]
+    },
+    {
+      "id": "om93oqy98",
+      "name": "世田谷区立岡本福祉作業ホーム",
+      "image": "https://image.anitabi.cn/points/62202/om93oqy98_1727593709369.jpg?plan=h160",
+      "s": 3777,
+      "geo": [
+        35.6234,
+        139.6171
+      ]
+    },
+    {
+      "id": "om96bts5m",
+      "name": "湾岸署内",
+      "image": "https://image.anitabi.cn/points/62202/om96bts5m_1727593878599.jpg?plan=h160",
+      "s": 3966,
+      "geo": [
+        35.6559,
+        139.8182
+      ]
+    }
+  ],
+  "pointsLength": 50,
+  "imagesLength": 50,
+  "local_id": 298
+}

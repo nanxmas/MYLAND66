@@ -1,0 +1,486 @@
+[
+  {
+    "id": "4sm3aj1qi",
+    "name": "浜松町1丁目交差点南",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1qi.jpg",
+    "ep": 1,
+    "geo": [
+      36.4037,
+      139.3388
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.403779%2C139.338892&z=17"
+  },
+  {
+    "id": "4sm3aj1vd",
+    "name": "浜松町２丁目",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1vd.jpg",
+    "ep": 1,
+    "geo": [
+      36.4012,
+      139.3405
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.401201%2C139.34052&z=17"
+  },
+  {
+    "id": "4sm3aj1xx",
+    "name": "浜松町２丁目交差点",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1xx.jpg",
+    "ep": 1,
+    "geo": [
+      36.4001,
+      139.3414
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.400117%2C139.341483&z=17"
+  },
+  {
+    "id": "4sm3aj251",
+    "name": "１０日５キロの看板",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj251.jpg",
+    "ep": 1,
+    "geo": [
+      36.3997,
+      139.3419
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.399787%2C139.341938&z=17"
+  },
+  {
+    "id": "4sm3aj1ix",
+    "name": "水路が見える交差点",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1ix.jpg",
+    "ep": 1,
+    "geo": [
+      36.3961,
+      139.3445
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.396108%2C139.344503&z=17"
+  },
+  {
+    "id": "4sm3aj24e",
+    "name": "学校（桐生総合福祉センター）",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj24e.jpg",
+    "ep": 1,
+    "geo": [
+      36.3952,
+      139.3448
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.39521%2C139.344857&z=17"
+  },
+  {
+    "id": "4sm3aj274",
+    "name": "星野モータース前T字路",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj274.jpg",
+    "ep": 1,
+    "geo": [
+      36.4032,
+      139.3392
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.403284%2C139.339213&z=17"
+  },
+  {
+    "id": "4sm3aj1jr",
+    "name": "うどんそば処やぶよし",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1jr.jpg",
+    "ep": 1,
+    "geo": [
+      36.4058,
+      139.3363
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.405868%2C139.336392&z=17"
+  },
+  {
+    "id": "4sm3aj1q5",
+    "name": "猫町堂（雄文堂書店）",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1q5.jpg",
+    "ep": 1,
+    "geo": [
+      36.4145,
+      139.3413
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.414585%2C139.341332&z=17"
+  },
+  {
+    "id": "4sm3aj1yd",
+    "name": "奈良書店",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1yd.jpg",
+    "ep": 1,
+    "geo": [
+      36.411,
+      139.3439
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.411077%2C139.343913&z=17"
+  },
+  {
+    "id": "4sm3aj1xu",
+    "name": "サンアイ",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1xu.jpg",
+    "ep": 1,
+    "geo": [
+      36.4052,
+      139.3353
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.405288%2C139.335378&z=17"
+  },
+  {
+    "id": "4sm3aj1nc",
+    "name": "浜松一丁目交差点北",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1nc.jpg",
+    "ep": 1,
+    "geo": [
+      36.4049,
+      139.3381
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.404962%2C139.338157&z=17"
+  },
+  {
+    "id": "4sm3aj28r",
+    "name": "柵越しの平屋家屋",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj28r.jpg",
+    "ep": 1,
+    "geo": [
+      36.4057,
+      139.3367
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.405717%2C139.336746&z=17"
+  },
+  {
+    "id": "4sm3aj1o3",
+    "name": "路地裏通り",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1o3.jpg",
+    "ep": 1,
+    "geo": [
+      36.4034,
+      139.339
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.403496%2C139.339082&z=17"
+  },
+  {
+    "id": "4sm3aj1qs",
+    "name": "アサヒ堂",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1qs.jpg",
+    "ep": 2,
+    "geo": [
+      36.4054,
+      139.3351
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.405458%2C139.335161&z=17"
+  },
+  {
+    "id": "4sm3aj237",
+    "name": "堤防道路01",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj237.jpg",
+    "ep": 2,
+    "geo": [
+      36.3945,
+      139.3382
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.394571%2C139.338259&z=17"
+  },
+  {
+    "id": "4sm3aj1wj",
+    "name": "堤防道路02",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1wj.jpg",
+    "ep": 2,
+    "geo": [
+      36.395,
+      139.3374
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.395072%2C139.337414&z=17"
+  },
+  {
+    "id": "4sm3aj1ns",
+    "name": "堤防道路03",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1ns.jpg",
+    "ep": 2,
+    "geo": [
+      36.3899,
+      139.344
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.389938%2C139.344047&z=17"
+  },
+  {
+    "id": "4sm3aj1sw",
+    "name": "末広町交差点",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1sw.jpg",
+    "ep": 2,
+    "geo": [
+      36.4113,
+      139.336
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.411302%2C139.336016&z=17"
+  },
+  {
+    "id": "4sm3aj1ql",
+    "name": "太田衣料店側",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1ql.jpg",
+    "ep": 3,
+    "geo": [
+      36.4036,
+      139.3389
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.403608%2C139.338977&z=17"
+  },
+  {
+    "id": "4sm3aj29i",
+    "name": "PUB「M」跡地",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj29i.jpg",
+    "ep": 3,
+    "geo": [
+      36.4101,
+      139.3372
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.410121%2C139.33722&z=17"
+  },
+  {
+    "id": "4sm3aj1xy",
+    "name": "渡辺鋼鉄店周辺",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1xy.jpg",
+    "ep": 3,
+    "geo": [
+      36.4037,
+      139.3399
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.403725%2C139.339932&z=17"
+  },
+  {
+    "id": "4sm3aj29h",
+    "name": "うどん八州",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj29h.jpg",
+    "geo": [
+      36.4004,
+      139.3414
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.400411%2C139.341474&z=17"
+  },
+  {
+    "id": "4sm3aj1jx",
+    "name": "志多美屋",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1jx.jpg",
+    "geo": [
+      36.4053,
+      139.3379
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.405337%2C139.337939&z=17"
+  },
+  {
+    "id": "4sm3aj1sg",
+    "name": "朝倉染布倉庫前",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1sg.jpg",
+    "geo": [
+      36.3963,
+      139.3353
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.396393%2C139.335342&z=17"
+  },
+  {
+    "id": "4sm3aj1xa",
+    "name": "総合福祉センター入り口",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1xa.jpg",
+    "geo": [
+      36.3956,
+      139.344
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.395651%2C139.344082&z=17"
+  },
+  {
+    "id": "4sm3aj1zr",
+    "name": "博文堂前",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1zr.jpg",
+    "geo": [
+      36.3959,
+      139.3409
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.395974%2C139.340994&z=17"
+  },
+  {
+    "id": "4sm3aj29r",
+    "name": "アサヒ堂前",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj29r.jpg",
+    "geo": [
+      36.4054,
+      139.3352
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.405484%2C139.33523&z=17"
+  },
+  {
+    "id": "4sm3aj24p",
+    "name": "川田商店",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj24p.jpg",
+    "geo": [
+      36.4052,
+      139.335
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.405283%2C139.335093&z=17"
+  },
+  {
+    "id": "4sm3aj24g",
+    "name": "桐生市総合福祉センター",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj24g.jpg",
+    "geo": [
+      36.3954,
+      139.3448
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.395452%2C139.34487&z=17"
+  },
+  {
+    "id": "4sm3aj25u",
+    "name": "両毛線架線下",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj25u.jpg",
+    "geo": [
+      36.4091,
+      139.3378
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.409178%2C139.337845&z=17"
+  },
+  {
+    "id": "4sm3aj1li",
+    "name": "本町5丁目交差点",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1li.jpg",
+    "geo": [
+      36.4102,
+      139.3387
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.410253%2C139.338714&z=17"
+  },
+  {
+    "id": "4sm3aj21n",
+    "name": "シロキヤ書店",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj21n.jpg",
+    "geo": [
+      36.4097,
+      139.3384
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.409795%2C139.338403&z=17"
+  },
+  {
+    "id": "4sm3aj20k",
+    "name": "文化堂",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj20k.jpg",
+    "geo": [
+      36.4094,
+      139.3381
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.409411%2C139.338146&z=17"
+  },
+  {
+    "id": "4sm3aj1sa",
+    "name": "花清パートIII",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1sa.jpg",
+    "geo": [
+      36.4104,
+      139.3389
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.410417%2C139.338902&z=17"
+  },
+  {
+    "id": "4sm3aj1i4",
+    "name": "ローズ",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj1i4.jpg",
+    "geo": [
+      36.4107,
+      139.339
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.410775%2C139.339079&z=17"
+  },
+  {
+    "id": "4sm3aj23z",
+    "name": "桐生信用金庫",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj23z.jpg",
+    "geo": [
+      36.4111,
+      139.339
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.411198%2C139.339085&z=17"
+  },
+  {
+    "id": "4sm3aj30q",
+    "name": "Village",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj30q.jpg",
+    "geo": [
+      36.4107,
+      139.3388
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.410777%2C139.338806&z=17"
+  },
+  {
+    "id": "4sm3aj2vw",
+    "name": "AIKO",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj2vw.jpg",
+    "geo": [
+      36.4105,
+      139.3385
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.410542%2C139.338548&z=17"
+  },
+  {
+    "id": "4sm3aj2zg",
+    "name": "雄文堂書店（猫町堂）",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj2zg.jpg",
+    "geo": [
+      36.4145,
+      139.3413
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.414557%2C139.341356&z=17"
+  },
+  {
+    "id": "4sm3aj2r8",
+    "name": "喫茶ガス灯",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj2r8.jpg",
+    "geo": [
+      36.4103,
+      139.3384
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.410324%2C139.338446&z=17"
+  },
+  {
+    "id": "4sm3aj2an",
+    "name": "桐生市公営住宅裏公園",
+    "image": "https://image.xinu.ink/pic/data/269/images/4sm3aj2an.jpg",
+    "geo": [
+      36.4042,
+      139.3404
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.404299%2C139.34041&z=17"
+  }
+]

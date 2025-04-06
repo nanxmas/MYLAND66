@@ -1,0 +1,110 @@
+{
+  "id": 48034,
+  "cn": "琴浦小姐",
+  "title": "琴浦さん",
+  "city": "仓吉市",
+  "cover": "https://image.xinu.ink/pic/data/275/images/48034.jpg",
+  "color": "#6a6a95",
+  "cp": "後援会",
+  "geo": [
+    35.461229,
+    133.648682
+  ],
+  "zoom": 11,
+  "modified": 1726751849713,
+  "litePoints": [
+    {
+      "id": "4sm3l6fgx",
+      "name": "大山滝",
+      "image": "https://image.anitabi.cn/points/48034/4sm3l6fgx.jpg?plan=h160",
+      "geo": [
+        35.3814,
+        133.6118
+      ]
+    },
+    {
+      "id": "4sm3l6f8l",
+      "name": "転法輪寺",
+      "image": "https://image.anitabi.cn/points/48034/4sm3l6f8l.jpg?plan=h160",
+      "geo": [
+        35.4253,
+        133.6584
+      ]
+    },
+    {
+      "id": "4sm3l6ffd",
+      "name": "大山隠岐国立公園　船上山",
+      "image": "https://image.anitabi.cn/points/48034/4sm3l6ffd.jpg?plan=h160",
+      "geo": [
+        35.4263,
+        133.607
+      ]
+    },
+    {
+      "id": "4sm3l6fcg",
+      "name": "鳴り石の浜",
+      "image": "https://image.anitabi.cn/points/48034/4sm3l6fcg.jpg?plan=h160",
+      "geo": [
+        35.5191,
+        133.6311
+      ]
+    },
+    {
+      "id": "4sm3l6f9f",
+      "name": "浦安駅",
+      "image": "https://image.anitabi.cn/points/48034/4sm3l6f9f.jpg?plan=h160",
+      "geo": [
+        35.4998,
+        133.6934
+      ]
+    },
+    {
+      "id": "4sm3l6fjf",
+      "name": "国指定重要文化財 河本家住宅",
+      "image": "https://image.anitabi.cn/points/48034/4sm3l6fjf.jpg?plan=h160",
+      "geo": [
+        35.5155,
+        133.6151
+      ]
+    },
+    {
+      "id": "4sm3l6fkx",
+      "name": "琴浦町防災備蓄倉庫",
+      "image": "https://image.anitabi.cn/points/48034/4sm3l6fkx.jpg?plan=h160",
+      "geo": [
+        35.5039,
+        133.6991
+      ]
+    },
+    {
+      "id": "4sm3l6fy3",
+      "name": "波しぐれ三度笠",
+      "image": "https://image.anitabi.cn/points/48034/4sm3l6fy3.jpg?plan=h160",
+      "geo": [
+        35.5153,
+        133.6506
+      ]
+    },
+    {
+      "id": "4sm3l6ff1",
+      "name": "光徳寺",
+      "image": "https://image.anitabi.cn/points/48034/4sm3l6ff1.jpg?plan=h160",
+      "geo": [
+        35.4658,
+        133.6912
+      ]
+    },
+    {
+      "id": "4sm3l6fk9",
+      "name": "光の鏝絵",
+      "image": "https://image.anitabi.cn/points/48034/4sm3l6fk9.jpg?plan=h160",
+      "geo": [
+        35.5041,
+        133.62
+      ]
+    }
+  ],
+  "pointsLength": 13,
+  "imagesLength": 13,
+  "local_id": 275
+}

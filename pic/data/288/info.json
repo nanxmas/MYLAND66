@@ -1,0 +1,101 @@
+{
+  "id": 56116,
+  "cn": "稻荷恋之歌",
+  "title": "いなり、こんこん、恋いろは。",
+  "city": "京都市",
+  "cover": "https://image.xinu.ink/pic/data/288/images/56116.jpg",
+  "color": "#b8a39c",
+  "geo": [
+    34.967948,
+    135.772583
+  ],
+  "zoom": 15,
+  "modified": 1739694180110,
+  "litePoints": [
+    {
+      "id": "swjhi3ffa",
+      "cn": "伏见稻荷大社",
+      "name": "Fukakusa Yabunouchicho",
+      "image": "https://image.anitabi.cn/user/0/bangumi/56116/points/swjhi3ffa-1739684522919.jpg?plan=h160",
+      "geo": [
+        34.9682,
+        135.7782
+      ]
+    },
+    {
+      "id": "kpx6oqgpk",
+      "name": "伏見稲荷大社",
+      "geo": [
+        34.9671,
+        135.7721
+      ]
+    },
+    {
+      "id": "kpx6oqhko",
+      "name": "伏見稲荷大社・奥社",
+      "geo": [
+        34.9664,
+        135.7754
+      ]
+    },
+    {
+      "id": "kpx6oqhdm",
+      "name": "赤い橋",
+      "geo": [
+        34.9675,
+        135.7746
+      ]
+    },
+    {
+      "id": "kpx6oqidm",
+      "name": "青山たばこ店前",
+      "geo": [
+        34.9682,
+        135.7738
+      ]
+    },
+    {
+      "id": "kpx6oqicm",
+      "name": "いなり大神間力大神前",
+      "geo": [
+        34.9686,
+        135.7741
+      ]
+    },
+    {
+      "id": "kpx6oqibs",
+      "name": "伏見稲荷駅",
+      "geo": [
+        34.9682,
+        135.7693
+      ]
+    },
+    {
+      "id": "kpx6oqjdf",
+      "name": "ローソン伏見稲荷駅前店",
+      "geo": [
+        34.9683,
+        135.7687
+      ]
+    },
+    {
+      "id": "kpx6oqiww",
+      "name": "伏見稲荷駅東側路地",
+      "geo": [
+        34.9685,
+        135.7695
+      ]
+    },
+    {
+      "id": "kpx6oqk3h",
+      "name": "いなり",
+      "geo": [
+        34.9681,
+        135.7694
+      ]
+    }
+  ],
+  "pointsLength": 38,
+  "imagesLength": 1,
+  "local_id": 288
+}

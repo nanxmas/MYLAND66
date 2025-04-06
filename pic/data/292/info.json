@@ -1,0 +1,124 @@
+{
+  "id": 57978,
+  "cn": "黄金拼图",
+  "title": "きんいろモザイク",
+  "city": "千叶市",
+  "cover": "https://image.xinu.ink/pic/data/292/images/57978.jpg",
+  "color": "#557faa",
+  "geo": [
+    35.69501965171335,
+    140.12888581782636
+  ],
+  "zoom": 10.5506996216077,
+  "modified": 1736968160444,
+  "litePoints": [
+    {
+      "id": "5hc0ff45b",
+      "name": "Fosse Farmhouse",
+      "image": "https://image.anitabi.cn/user/0/bangumi/57978/points/5hc0ff45b-1673607250258.jpg?plan=h160",
+      "ep": 1,
+      "s": 150,
+      "geo": [
+        51.5003,
+        -2.2464
+      ]
+    },
+    {
+      "id": "pm1s2bulf",
+      "cn": "大本钟",
+      "name": "ビッグベン",
+      "image": "https://image.anitabi.cn/points/57978/pm1s2bulf_1730398877564.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        51.5006,
+        -0.1246
+      ]
+    },
+    {
+      "id": "pm1soark9",
+      "cn": "白金汉宫",
+      "name": "バッキンガム宮殿",
+      "image": "https://image.anitabi.cn/points/57978/pm1soark9_1730398921023.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        51.5014,
+        -0.1416
+      ]
+    },
+    {
+      "id": "pm1sd7du2",
+      "cn": "伦敦眼",
+      "name": "ロンドン・アイ",
+      "image": "https://image.anitabi.cn/points/57978/pm1sd7du2_1730398893427.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        51.5033,
+        -0.1197
+      ]
+    },
+    {
+      "id": "pm1vebpp6",
+      "cn": "英格兰银行",
+      "name": "Bank of England",
+      "image": "https://image.anitabi.cn/points/57978/pm1vebpp6_1730399086772.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        51.5137,
+        -0.0881
+      ]
+    },
+    {
+      "id": "pm1ybsung",
+      "cn": "千禧桥",
+      "name": "Millennium Bridge",
+      "image": "https://image.anitabi.cn/points/57978/pm1ybsung_1730399256255.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        51.5094,
+        -0.0986
+      ]
+    },
+    {
+      "id": "pm2afbo82",
+      "cn": "艾比路",
+      "name": "Abbey Road Crossing",
+      "image": "https://image.anitabi.cn/points/57978/pm2afbo82_1730399988275.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        51.532,
+        -0.1774
+      ]
+    },
+    {
+      "id": "rbiaplzwm",
+      "name": "Fosse Farmhouse Front",
+      "image": "https://image.anitabi.cn/user/0/bangumi/57978/points/rbiaplzwm-1735215054104.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        51.5006,
+        -2.2459
+      ]
+    },
+    {
+      "id": "kpx6ordbi",
+      "name": "実籾本郷公園通学路",
+      "image": "https://image.anitabi.cn/points/57978/kpx6ordbi_1731308677818.jpg?plan=h160",
+      "geo": [
+        35.6853,
+        140.0645
+      ]
+    },
+    {
+      "id": "kpx6ordbd",
+      "name": "佐倉そめい野インフォメーションプラザ 1",
+      "image": "https://image.anitabi.cn/points/57978/kpx6ordbd_1731308134940.jpg?plan=h160",
+      "geo": [
+        35.7216,
+        140.1892
+      ]
+    }
+  ],
+  "pointsLength": 90,
+  "imagesLength": 87,
+  "local_id": 292
+}

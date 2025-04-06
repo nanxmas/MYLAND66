@@ -1,0 +1,74 @@
+[
+  {
+    "id": "p0stufnvd",
+    "name": "汐見台中学校",
+    "image": "https://image.xinu.ink/pic/data/290/images/p0stufnvd_1728733817895.jpg",
+    "ep": "序章",
+    "geo": [
+      35.407,
+      139.6114
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p0sscr6xm",
+    "name": "井の頭公園",
+    "image": "https://image.xinu.ink/pic/data/290/images/p0sscr6xm_1728733656101.jpg",
+    "ep": 1,
+    "geo": [
+      35.7,
+      139.5759
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p0tcbfiw5",
+    "name": "井の頭公園 彫刻園",
+    "image": "https://image.xinu.ink/pic/data/290/images/p0tcbfiw5_1728734927029.jpg",
+    "ep": 1,
+    "geo": [
+      35.7002,
+      139.5697
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p0taylgye",
+    "name": "井の頭公園 ひょうたん橋",
+    "image": "https://image.xinu.ink/pic/data/290/images/p0taylgye_1728734777983.jpg",
+    "ep": 1,
+    "geo": [
+      35.6982,
+      139.5809
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p0te4eq95",
+    "name": "武蔵小金井駅",
+    "image": "https://image.xinu.ink/pic/data/290/images/p0te4eq95_1728735117674.jpg",
+    "ep": 4,
+    "geo": [
+      35.7011,
+      139.5063
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p0u2za73j",
+    "name": "朝日通り商店街",
+    "image": "https://image.xinu.ink/pic/data/290/images/p0u2za73j_1728736476395.jpg",
+    "ep": 10,
+    "geo": [
+      35.7034,
+      139.5789
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  }
+]

@@ -1,0 +1,128 @@
+{
+  "id": 49278,
+  "cn": "境界的彼方",
+  "title": "境界の彼方",
+  "city": "奈良市",
+  "cover": "https://image.xinu.ink/pic/data/278/images/49278.jpg",
+  "color": "#cb610b",
+  "geo": [
+    34.685109,
+    135.8048019
+  ],
+  "modified": 1739559581560,
+  "litePoints": [
+    {
+      "id": "a2x0tw3nl",
+      "name": "秋篠川サイクリングロード",
+      "image": "https://image.anitabi.cn/user/0/bangumi/49278/points/a2x0tw3nl-1725245088072.jpg?plan=h160",
+      "ep": 1,
+      "s": 235,
+      "geo": [
+        34.6901,
+        135.787
+      ]
+    },
+    {
+      "id": "a2vixis0j",
+      "name": "大和西大寺駅5,6番ホーム",
+      "image": "https://image.anitabi.cn/user/1024/bangumi/49278/points/a2vixis0j-1686580055713.jpg?plan=h160",
+      "ep": 1,
+      "s": 961,
+      "geo": [
+        34.6938,
+        135.7828
+      ]
+    },
+    {
+      "id": "a2vixis1f",
+      "name": "天下一品 東向店",
+      "image": "https://image.anitabi.cn/user/1024/bangumi/49278/points/a2vixis1f-1686579804333.jpg?plan=h160",
+      "ep": 1,
+      "s": 1310,
+      "geo": [
+        34.6822,
+        135.8287
+      ]
+    },
+    {
+      "id": "a2vixir9u",
+      "name": "料理旅館 江戸三",
+      "image": "https://image.anitabi.cn/user/1024/bangumi/49278/points/a2vixir9u-1686579992833.jpg?plan=h160",
+      "ep": 1,
+      "s": 1394,
+      "geo": [
+        34.6815,
+        135.8358
+      ]
+    },
+    {
+      "id": "a2vpptep2",
+      "name": "橿原神宮前駅中央改札",
+      "image": "https://image.anitabi.cn/user/1024/bangumi/49278/points/a2vpptep2-1686580143363.jpg?plan=h160",
+      "ep": 1,
+      "s": 1872,
+      "geo": [
+        34.4835,
+        135.7937
+      ]
+    },
+    {
+      "id": "a2vpptg03",
+      "name": "聖心学園東側",
+      "image": "https://image.anitabi.cn/user/1024/bangumi/49278/points/a2vpptg03-1686580380713.jpg?plan=h160",
+      "ep": 1,
+      "s": 3378,
+      "geo": [
+        34.4835,
+        135.7857
+      ]
+    },
+    {
+      "id": "a2wzg32sf",
+      "name": "邪宗門 世田谷店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/49278/points/a2wzg32sf-1725267261173.jpg?plan=h160",
+      "ep": 2,
+      "s": 462,
+      "geo": [
+        35.653,
+        139.6651
+      ]
+    },
+    {
+      "id": "a2vpptg4f",
+      "name": "聖心学園中等教育学校",
+      "image": "https://image.anitabi.cn/user/1024/bangumi/49278/points/a2vpptg4f-1686580401363.jpg?plan=h160",
+      "ep": 2,
+      "s": 651,
+      "geo": [
+        34.4841,
+        135.7847
+      ]
+    },
+    {
+      "id": "a2vixirse",
+      "name": "よねやメガネ東向商店街",
+      "image": "https://image.anitabi.cn/user/1024/bangumi/49278/points/a2vixirse-1686579823880.jpg?plan=h160",
+      "ep": 2,
+      "s": 1250,
+      "geo": [
+        34.6825,
+        135.8287
+      ]
+    },
+    {
+      "id": "a2wzg339f",
+      "name": "西大寺検車区",
+      "image": "https://image.anitabi.cn/user/0/bangumi/49278/points/a2wzg339f-1725096671586.jpg?plan=h160",
+      "ep": 3,
+      "s": 609,
+      "geo": [
+        34.6893,
+        135.7867
+      ]
+    }
+  ],
+  "pointsLength": 62,
+  "imagesLength": 32,
+  "local_id": 278
+}

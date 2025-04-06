@@ -1,0 +1,118 @@
+{
+  "id": 46826,
+  "cn": "幻想玩偶",
+  "title": "ファンタジスタドール",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/270/images/46826.jpg",
+  "color": "#232732",
+  "geo": [
+    35.741483999999446,
+    139.53909899999678
+  ],
+  "zoom": 13.006,
+  "modified": 1730534081997,
+  "litePoints": [
+    {
+      "id": "8b7d2122",
+      "name": "西東京いこいの森公園",
+      "image": "https://image.anitabi.cn/points/46826/8b7d2122_1728722095083.jpg?plan=h160",
+      "ep": 3,
+      "s": 345,
+      "geo": [
+        35.7414,
+        139.539
+      ]
+    },
+    {
+      "id": "e21e4f64",
+      "name": "田無駅北口バス停",
+      "image": "https://image.anitabi.cn/points/46826/e21e4f64_1728722163729.jpg?plan=h160",
+      "ep": 5,
+      "s": 981,
+      "geo": [
+        35.7275,
+        139.5401
+      ]
+    },
+    {
+      "id": "b31c8777",
+      "name": "田無駅北口SMBC前",
+      "image": "https://image.anitabi.cn/points/46826/b31c8777_1728722299705.jpg?plan=h160",
+      "ep": 5,
+      "s": 1025,
+      "geo": [
+        35.7276,
+        139.5389
+      ]
+    },
+    {
+      "id": "707cba80",
+      "name": "武蔵野茶房田無本店",
+      "image": "https://image.anitabi.cn/points/46826/707cba80_1728722343276.jpg?plan=h160",
+      "ep": 5,
+      "s": 583,
+      "geo": [
+        35.7282,
+        139.5388
+      ]
+    },
+    {
+      "id": "1e034799",
+      "name": "田無駅北口西側線路沿い",
+      "image": "https://image.anitabi.cn/points/46826/1e034799_1728722385832.jpg?plan=h160",
+      "ep": 5,
+      "s": 1139,
+      "geo": [
+        35.7271,
+        139.537
+      ]
+    },
+    {
+      "id": "46362f39",
+      "name": "田無駅南口",
+      "image": "https://image.anitabi.cn/points/46826/46362f39_1728722414431.jpg?plan=h160",
+      "ep": 5,
+      "s": 597,
+      "geo": [
+        35.727,
+        139.5392
+      ]
+    },
+    {
+      "id": "965dcf26",
+      "name": "田無駅北口ロータリー",
+      "image": "https://image.anitabi.cn/points/46826/965dcf26_1728722224125.jpg?plan=h160",
+      "geo": [
+        35.7279,
+        139.5397
+      ]
+    },
+    {
+      "id": "1a6a5c7f",
+      "name": "荻窪駅北口",
+      "geo": [
+        35.7047,
+        139.6204
+      ]
+    },
+    {
+      "id": "f5e2dcf3",
+      "name": "ルミネ荻窪屋上",
+      "geo": [
+        35.7043,
+        139.6196
+      ]
+    },
+    {
+      "id": "8402be9d",
+      "name": "JR荻窪駅西側",
+      "geo": [
+        35.7046,
+        139.6191
+      ]
+    }
+  ],
+  "pointsLength": 12,
+  "imagesLength": 7,
+  "local_id": 270
+}

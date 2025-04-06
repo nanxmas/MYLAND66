@@ -1,0 +1,302 @@
+[
+  {
+    "id": "om7wfa72r",
+    "name": "警視庁副総監宅",
+    "image": "https://image.xinu.ink/pic/data/298/images/om7wfa72r_1727591100520.jpg",
+    "s": 64,
+    "geo": [
+      35.6232,
+      139.6173
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "om87zqj4q",
+    "name": "東名高速道路",
+    "image": "https://image.xinu.ink/pic/data/298/images/om87zqj4q_1727591790159.jpg",
+    "s": 237,
+    "geo": [
+      35.6283,
+      139.613
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "om89akksp",
+    "name": "袋田の滝カントリークラブ",
+    "image": "https://image.xinu.ink/pic/data/298/images/om89akksp_1727591923358.jpg",
+    "s": 248,
+    "geo": [
+      36.797,
+      140.3241
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "om8kbu27i",
+    "name": "鶴見川 鴨池人道橋",
+    "image": "https://image.xinu.ink/pic/data/298/images/om8kbu27i_1727592545120.jpg",
+    "s": 398,
+    "geo": [
+      35.5122,
+      139.5661
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "om8luxq7x",
+    "name": "鶴見川北",
+    "image": "https://image.xinu.ink/pic/data/298/images/om8luxq7x_1727592637306.jpg",
+    "s": 428,
+    "geo": [
+      35.5124,
+      139.5663
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "om8jiy3at",
+    "name": "鶴見川南",
+    "image": "https://image.xinu.ink/pic/data/298/images/om8jiy3at_1727592484994.jpg",
+    "s": 454,
+    "geo": [
+      35.5122,
+      139.567
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "om8xg7h7y",
+    "name": "横浜ドリームランド",
+    "image": "https://image.xinu.ink/pic/data/298/images/om8xg7h7y_1727593335331.jpg",
+    "s": 2564,
+    "geo": [
+      35.3859,
+      139.4931
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "om8zoj16y",
+    "name": "クイーンズスクエア横浜",
+    "image": "https://image.xinu.ink/pic/data/298/images/om8zoj16y_1727593459727.jpg",
+    "s": 2645,
+    "geo": [
+      35.4567,
+      139.6341
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "om93oqy98",
+    "name": "世田谷区立岡本福祉作業ホーム",
+    "image": "https://image.xinu.ink/pic/data/298/images/om93oqy98_1727593709369.jpg",
+    "s": 3777,
+    "geo": [
+      35.6234,
+      139.6171
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "om96bts5m",
+    "name": "湾岸署内",
+    "image": "https://image.xinu.ink/pic/data/298/images/om96bts5m_1727593878599.jpg",
+    "s": 3966,
+    "geo": [
+      35.6559,
+      139.8182
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "om9gfkf8d",
+    "name": "東京ビッグサイト",
+    "image": "https://image.xinu.ink/pic/data/298/images/om9gfkf8d_1727594540233.jpg",
+    "s": 4819,
+    "geo": [
+      35.628,
+      139.7975
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "om9d8qlkg",
+    "name": "なぎさ​ニュー​タウン​",
+    "image": "https://image.xinu.ink/pic/data/298/images/om9d8qlkg_1727594296628.jpg",
+    "s": 5045,
+    "geo": [
+      35.6441,
+      139.8789
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "om9kyvyke",
+    "name": "都営光が丘第三アパート4号棟前",
+    "image": "https://image.xinu.ink/pic/data/298/images/om9kyvyke_1727594771495.jpg",
+    "s": 5055,
+    "geo": [
+      35.762,
+      139.6311
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "om9s45d8f",
+    "name": "都営光が丘第三アパート8号棟前",
+    "image": "https://image.xinu.ink/pic/data/298/images/om9s45d8f_1727595232220.jpg",
+    "s": 5069,
+    "geo": [
+      35.7625,
+      139.6325
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "om9yf85cv",
+    "name": "湾岸署屋上",
+    "image": "https://image.xinu.ink/pic/data/298/images/om9yf85cv_1727595586278.jpg",
+    "s": 5304,
+    "geo": [
+      35.6554,
+      139.8182
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "omafew40w",
+    "name": "都営光が丘第三アパート7号棟前",
+    "image": "https://image.xinu.ink/pic/data/298/images/omafew40w_1727596590913.jpg",
+    "s": 5369,
+    "geo": [
+      35.7625,
+      139.6308
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "oma967sjo",
+    "name": "都営光が丘第三アパート6号棟前",
+    "image": "https://image.xinu.ink/pic/data/298/images/oma967sjo_1727596253395.jpg",
+    "s": 5370,
+    "geo": [
+      35.7623,
+      139.6308
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "omaxe783p",
+    "name": "都営光が丘第三アパート4号棟",
+    "image": "https://image.xinu.ink/pic/data/298/images/omaxe783p_1727597679785.jpg",
+    "s": 5447,
+    "geo": [
+      35.7618,
+      139.6313
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "omb053q4o",
+    "name": "江戸川の土手",
+    "image": "https://image.xinu.ink/pic/data/298/images/omb053q4o_1727597859333.jpg",
+    "s": 5859,
+    "geo": [
+      35.6439,
+      139.8782
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "omb5k2hvn",
+    "name": "なぎさ​ニュー​タウン​前",
+    "image": "https://image.xinu.ink/pic/data/298/images/omb5k2hvn_1727598188715.jpg",
+    "s": 6105,
+    "geo": [
+      35.6441,
+      139.8777
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "omb7ib2oo",
+    "name": "都営光が丘第三アパート3号棟前",
+    "image": "https://image.xinu.ink/pic/data/298/images/omb7ib2oo_1727598312029.jpg",
+    "s": 6085,
+    "geo": [
+      35.7617,
+      139.631
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "omb8k2ru9",
+    "name": "潮路橋交差点",
+    "image": "https://image.xinu.ink/pic/data/298/images/omb8k2ru9_1727598388110.jpg",
+    "s": 6314,
+    "geo": [
+      35.6429,
+      139.7554
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ombdr9rsx",
+    "name": "交差点",
+    "image": "https://image.xinu.ink/pic/data/298/images/ombdr9rsx_1727598663957.jpg",
+    "s": 6322,
+    "geo": [
+      35.6392,
+      139.7557
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ombjrqfug",
+    "name": "青海一丁目交差点",
+    "image": "https://image.xinu.ink/pic/data/298/images/ombjrqfug_1727599036471.jpg",
+    "s": 6326,
+    "geo": [
+      35.6228,
+      139.7781
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ombro7kk6",
+    "name": "聖マリアンナ医科大学 横浜市西部病院",
+    "image": "https://image.xinu.ink/pic/data/298/images/ombro7kk6_1727599506047.jpg",
+    "s": 6912,
+    "geo": [
+      35.4771,
+      139.5028
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  }
+]

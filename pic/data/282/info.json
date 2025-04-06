@@ -1,0 +1,133 @@
+{
+  "id": 51928,
+  "cn": "某科学的超电磁炮S",
+  "title": "とある科学の超電磁砲S",
+  "city": "立川市",
+  "cover": "https://image.xinu.ink/pic/data/282/images/51928.jpg",
+  "color": "#e86028",
+  "cp": "PROJECT-RAILGUN …",
+  "geo": [
+    35.64525013251544,
+    139.58689600000002
+  ],
+  "zoom": 10.82,
+  "modified": 1742409385553,
+  "litePoints": [
+    {
+      "id": "o516ekmxe",
+      "name": "多摩センター三角広場",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/51928/points/o516ekmxe-1726244264380.jpg?plan=h160",
+      "ep": 1,
+      "s": 59,
+      "geo": [
+        35.6224,
+        139.4235
+      ]
+    },
+    {
+      "id": "o51ez4x9t",
+      "name": "立川駅",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/51928/points/o51ez4x9t-1726244784716.jpg?plan=h160",
+      "ep": 1,
+      "s": 152,
+      "geo": [
+        35.6988,
+        139.4127
+      ]
+    },
+    {
+      "id": "odvxh0zc2",
+      "name": "Cinema One 立川",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/51928/points/odvxh0zc2-1726938114877.jpg?plan=h160",
+      "ep": 1,
+      "s": 153,
+      "geo": [
+        35.7003,
+        139.4138
+      ]
+    },
+    {
+      "id": "odvnwr45h",
+      "name": "昭和記念公園",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/51928/points/odvnwr45h-1726937564312.jpg?plan=h160",
+      "ep": 1,
+      "s": 157,
+      "geo": [
+        35.7029,
+        139.4023
+      ]
+    },
+    {
+      "id": "odvr0mnkj",
+      "name": "「背中あわせの円」①フェリーチェ·ヴァリーニ",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/51928/points/odvr0mnkj-1726937826686.jpg?plan=h160",
+      "ep": 1,
+      "s": 158,
+      "geo": [
+        35.7014,
+        139.4136
+      ]
+    },
+    {
+      "id": "pqcij7j1e",
+      "name": "ドン・キホーテ秋葉原店",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/51928/points/pqcij7j1e-1730735769836.jpg?plan=h160",
+      "ep": 3,
+      "s": 495,
+      "geo": [
+        35.7005,
+        139.7713
+      ]
+    },
+    {
+      "id": "pqc424nkz",
+      "cn": "星巴克吉祥寺東急店",
+      "name": "Starbucks Coffee - Kichijoji Tokyu",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/51928/points/pqc424nkz-1730734913880.jpg?plan=h160",
+      "ep": 4,
+      "s": 478,
+      "geo": [
+        35.7053,
+        139.5775
+      ]
+    },
+    {
+      "id": "pqbyisx27",
+      "cn": "星巴克 吉祥寺東急店",
+      "name": "Starbucks Coffee - Kichijoji Tokyu",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/51928/points/pqbyisx27-1730734537478.jpg?plan=h160",
+      "ep": 4,
+      "s": 519,
+      "geo": [
+        35.7053,
+        139.5775
+      ]
+    },
+    {
+      "id": "l08ijapkq",
+      "cn": "星巴克 吉祥寺东急百货店",
+      "name": "スターバックスコーヒー吉祥寺東急店",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/2585/points/l08ijapkq-1717405709101.jpg?plan=h160",
+      "ep": 4,
+      "s": 570,
+      "geo": [
+        35.7052,
+        139.5774
+      ]
+    },
+    {
+      "id": "odw1uth94",
+      "name": "伊勢丹立川店",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/51928/points/odw1uth94-1726938396012.jpg?plan=h160",
+      "ep": 4,
+      "s": 1079,
+      "geo": [
+        35.699,
+        139.4128
+      ]
+    }
+  ],
+  "pointsLength": 39,
+  "imagesLength": 39,
+  "local_id": 282
+}

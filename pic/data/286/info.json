@@ -1,0 +1,132 @@
+{
+  "id": 55113,
+  "cn": "玉子市场",
+  "title": "たまこまーけっと",
+  "city": "京都市",
+  "cover": "https://image.xinu.ink/pic/data/286/images/55113.jpg",
+  "color": "#ed85a8",
+  "cp": "うさぎ山商店街",
+  "geo": [
+    34.99239900904723,
+    135.7699642571837
+  ],
+  "zoom": 11.76,
+  "modified": 1739750138150,
+  "litePoints": [
+    {
+      "id": "31pe111",
+      "cn": "豆大福（出町ふたば）",
+      "name": "豆大福（出町ふたば）",
+      "image": "https://image.anitabi.cn/points/55113/31pe111_1724030450735.jpg?plan=h160",
+      "ep": 12,
+      "s": 962,
+      "geo": [
+        35.03,
+        135.7696
+      ]
+    },
+    {
+      "id": "31pe112",
+      "name": "京阪電車藤森駅東改札口付近",
+      "image": "https://image.anitabi.cn/points/55113/31pe112_1724030228647.jpg?plan=h160",
+      "ep": 1,
+      "s": 1,
+      "geo": [
+        34.9569,
+        135.7704
+      ]
+    },
+    {
+      "id": "nct13xkw9",
+      "name": "藤森駅北改札口",
+      "image": "https://image.anitabi.cn/points/55113/nct13xkw9_1724032334388.jpg?plan=h160",
+      "ep": 3,
+      "s": 704,
+      "geo": [
+        34.9569,
+        135.7703
+      ]
+    },
+    {
+      "id": "nct1k43xn",
+      "name": "第二軍道の師団橋",
+      "image": "https://image.anitabi.cn/points/55113/nct1k43xn_1724032354780.jpg?plan=h160",
+      "ep": 3,
+      "s": 916,
+      "geo": [
+        34.9591,
+        135.7704
+      ]
+    },
+    {
+      "id": "nct3qlqsb",
+      "name": "キトロ橋",
+      "image": "https://image.anitabi.cn/points/55113/nct3qlqsb_1724032486764.jpg?plan=h160",
+      "ep": 6,
+      "s": 528,
+      "geo": [
+        34.9578,
+        135.7706
+      ]
+    },
+    {
+      "id": "nct45qulq",
+      "cn": "堀田橋",
+      "name": "堀田橋",
+      "image": "https://image.anitabi.cn/points/55113/nct45qulq_1724032512098.jpg?plan=h160",
+      "ep": 8,
+      "s": 1080,
+      "geo": [
+        34.9568,
+        135.7704
+      ]
+    },
+    {
+      "id": "nct59ktih",
+      "name": "師団橋付近",
+      "image": "https://image.anitabi.cn/points/55113/nct59ktih_1724032578896.jpg?plan=h160",
+      "ep": 9,
+      "s": 386,
+      "geo": [
+        34.9589,
+        135.7704
+      ]
+    },
+    {
+      "id": "nctxy45l1",
+      "name": "ユズキ君の家付近",
+      "image": "https://image.anitabi.cn/points/55113/nctxy45l1_1724034313439.jpg?plan=h160",
+      "ep": 9,
+      "s": 1070,
+      "geo": [
+        34.9612,
+        135.7716
+      ]
+    },
+    {
+      "id": "ncu2egft4",
+      "name": "深草商店街",
+      "image": "https://image.anitabi.cn/points/55113/ncu2egft4_1724034583215.jpg?plan=h160",
+      "ep": 3,
+      "s": 57,
+      "geo": [
+        34.9577,
+        135.7712
+      ]
+    },
+    {
+      "id": "ncu3zryzc",
+      "name": "聖母女学院对面",
+      "image": "https://image.anitabi.cn/points/55113/ncu3zryzc_1724034680706.jpg?plan=h160",
+      "ep": 3,
+      "s": 343,
+      "geo": [
+        34.9584,
+        135.7712
+      ]
+    }
+  ],
+  "pointsLength": 95,
+  "imagesLength": 95,
+  "local_id": 286
+}

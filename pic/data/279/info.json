@@ -1,0 +1,133 @@
+{
+  "id": 49294,
+  "cn": "LoveLive!",
+  "title": "ラブライブ!",
+  "city": "千代田区",
+  "cover": "https://image.xinu.ink/pic/data/279/images/49294.jpg",
+  "color": "#e4007f",
+  "cp": "2013 プロジェクトラブライブ…",
+  "geo": [
+    35.6761919,
+    139.6503106
+  ],
+  "modified": 1733545699623,
+  "litePoints": [
+    {
+      "id": "kpx6opmcj",
+      "name": "とんかつ屋さん",
+      "image": "https://image.anitabi.cn/user/0/bangumi/49294/points/kpx6opmcj-1724943721691.jpg?plan=h160",
+      "ep": 9,
+      "s": 460,
+      "geo": [
+        35.7002,
+        139.7706
+      ]
+    },
+    {
+      "id": "kpx6opmix",
+      "name": "品川駅 京急連絡改札",
+      "image": "https://image.anitabi.cn/user/0/bangumi/49294/points/kpx6opmix-1726638780054.jpg?plan=h160",
+      "s": 883,
+      "geo": [
+        35.6282,
+        139.7383
+      ]
+    },
+    {
+      "id": "kpx6opnx7",
+      "name": "神田郵便局前交差点",
+      "image": "https://image.anitabi.cn/user/0/bangumi/49294/points/kpx6opnx7-1724944108154.jpg?plan=h160",
+      "ep": 9,
+      "s": 656,
+      "geo": [
+        35.6981,
+        139.7686
+      ]
+    },
+    {
+      "id": "kpx6opoiw",
+      "name": "一年级放学地",
+      "image": "https://image.anitabi.cn/user/0/bangumi/49294/points/kpx6opoiw-1721732495866.jpg?plan=h160",
+      "ep": 5,
+      "s": 628,
+      "geo": [
+        35.7097,
+        139.7643
+      ]
+    },
+    {
+      "id": "cxfdy2b0l",
+      "cn": "神田明神",
+      "name": "神田明神",
+      "image": "https://image.anitabi.cn/user/0/bangumi/49294/points/cxfdy2b0l-1694617233071.jpg?plan=h160",
+      "ep": 2,
+      "s": 1336,
+      "geo": [
+        35.7016,
+        139.7679
+      ]
+    },
+    {
+      "id": "cxfz4st2i",
+      "cn": "秋叶原UDX",
+      "name": "秋葉原UDX",
+      "image": "https://image.anitabi.cn/user/0/bangumi/49294/points/cxfz4st2i-1694617649891.jpg?plan=h160",
+      "ep": 1,
+      "s": 11.16,
+      "geo": [
+        35.6996,
+        139.7724
+      ]
+    },
+    {
+      "id": "ids9xqdzi",
+      "cn": "根府川车站",
+      "name": "根府川駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/49294/points/ids9xqdzi-1710003733008.jpg?plan=h160",
+      "s": 1135,
+      "geo": [
+        35.2026,
+        139.1383
+      ]
+    },
+    {
+      "id": "kncu2clym",
+      "cn": "音乃木坂体育场（成蹊大学橄榄球场）",
+      "name": "音ノ木坂の陸上競技場（成蹊大学ラグビー場）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/49294/points/kncu2clym-1716395926632.jpg?plan=h160",
+      "ep": 1,
+      "s": 348,
+      "geo": [
+        35.7143,
+        139.574
+      ]
+    },
+    {
+      "id": "knd32xw1c",
+      "cn": "音乃木坂学院（成蹊大学）",
+      "name": "音ノ木坂学院（成蹊大学）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/49294/points/knd32xw1c-1716396332040.jpg?plan=h160",
+      "ep": 1,
+      "s": 3,
+      "geo": [
+        35.711,
+        139.5731
+      ]
+    },
+    {
+      "id": "knd91s3j8",
+      "cn": "男坂下",
+      "name": "男坂の下",
+      "image": "https://image.anitabi.cn/user/0/bangumi/49294/points/knd91s3j8-1716396701853.jpg?plan=h160",
+      "ep": 2,
+      "s": 1242,
+      "geo": [
+        35.7013,
+        139.7683
+      ]
+    }
+  ],
+  "pointsLength": 56,
+  "imagesLength": 47,
+  "local_id": 279
+}

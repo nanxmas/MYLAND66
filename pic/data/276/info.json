@@ -1,0 +1,128 @@
+{
+  "id": 48880,
+  "title": "Wake Up, Girls!",
+  "city": "仙台市",
+  "cover": "https://image.xinu.ink/pic/data/276/images/48880.jpg",
+  "color": "#55aa80",
+  "geo": [
+    38.26819499999789,
+    140.86941799999317
+  ],
+  "zoom": 10,
+  "modified": 1728649579463,
+  "litePoints": [
+    {
+      "id": "4uiarivqt",
+      "name": "未来塾進学会木町通教室",
+      "image": "https://image.anitabi.cn/points/48880/4uiarivqt.jpg?plan=h160",
+      "ep": 4,
+      "s": 169,
+      "geo": [
+        38.2725,
+        140.8664
+      ]
+    },
+    {
+      "id": "4uiariwh5",
+      "name": "愛宕橋より望む大年寺",
+      "image": "https://image.anitabi.cn/points/48880/4uiariwh5.jpg?plan=h160",
+      "ep": 1,
+      "s": 1397,
+      "geo": [
+        38.2469,
+        140.8797
+      ]
+    },
+    {
+      "id": "4uiariybj",
+      "name": "気仙沼湾・気仙沼プラザホテルより",
+      "image": "https://image.anitabi.cn/points/48880/4uiariybj.jpg?plan=h160",
+      "ep": 9,
+      "s": 1260,
+      "geo": [
+        38.9039,
+        141.5783
+      ]
+    },
+    {
+      "id": "4uiariy04",
+      "name": "勾当台通り・JTB前",
+      "image": "https://image.anitabi.cn/points/48880/4uiariy04.jpg?plan=h160",
+      "ep": 15,
+      "s": 511,
+      "geo": [
+        38.2634,
+        140.8727
+      ]
+    },
+    {
+      "id": "4uiariy84",
+      "name": "八木山動物公園",
+      "image": "https://image.anitabi.cn/points/48880/4uiariy84.jpg?plan=h160",
+      "ep": 9,
+      "s": 1337,
+      "geo": [
+        38.2456,
+        140.8468
+      ]
+    },
+    {
+      "id": "4uiariy57",
+      "name": "瑞鳳殿",
+      "image": "https://image.anitabi.cn/points/48880/4uiariy57.jpg?plan=h160",
+      "ep": 6,
+      "s": 1367,
+      "geo": [
+        38.2504,
+        140.8666
+      ]
+    },
+    {
+      "id": "4uiariy37",
+      "name": "大崎八幡宮",
+      "image": "https://image.anitabi.cn/points/48880/4uiariy37.jpg?plan=h160",
+      "ep": 8,
+      "s": 1344,
+      "geo": [
+        38.2725,
+        140.845
+      ]
+    },
+    {
+      "id": "4uiariykv",
+      "name": "秋保大滝",
+      "image": "https://image.anitabi.cn/points/48880/4uiariykv.jpg?plan=h160",
+      "ep": 8,
+      "s": 1389,
+      "geo": [
+        38.2749,
+        140.6038
+      ]
+    },
+    {
+      "id": "4uiariyl6",
+      "name": "松島西戻し松公園",
+      "image": "https://image.anitabi.cn/points/48880/4uiariyl6.jpg?plan=h160",
+      "ep": 6,
+      "s": 1353,
+      "geo": [
+        38.3671,
+        141.0537
+      ]
+    },
+    {
+      "id": "4uiariybx",
+      "name": "桜ヶ丘公園",
+      "image": "https://image.anitabi.cn/points/48880/4uiariybx.jpg?plan=h160",
+      "ep": 3,
+      "s": 301,
+      "geo": [
+        38.3067,
+        140.8493
+      ]
+    }
+  ],
+  "pointsLength": 95,
+  "imagesLength": 94,
+  "local_id": 276
+}

@@ -1,0 +1,30 @@
+{
+  "id": 62680,
+  "cn": "机动战士高达 THE ORIGIN",
+  "title": "機動戦士ガンダム THE ORIGIN",
+  "cover": "https://image.xinu.ink/pic/data/302/images/62680.jpg",
+  "color": "#aa5555",
+  "geo": [
+    -33.857251999999995,
+    151.21529499999997
+  ],
+  "zoom": 16,
+  "modified": 1719518400148,
+  "litePoints": [
+    {
+      "id": "ifok5g9zh",
+      "cn": "悉尼歌剧院",
+      "name": "Sydney Opera House",
+      "image": "https://image.anitabi.cn/user/0/bangumi/62680/points/ifok5g9zh-1710152292983.jpg?plan=h160",
+      "ep": 5,
+      "s": 226,
+      "geo": [
+        -33.8573,
+        151.2152
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 302
+}

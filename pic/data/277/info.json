@@ -1,0 +1,131 @@
+{
+  "id": 49131,
+  "cn": "约会大作战",
+  "title": "デート・ア・ライブ",
+  "city": "町田市",
+  "cover": "https://image.xinu.ink/pic/data/277/images/49131.jpg",
+  "color": "#407fbf",
+  "cp": "ライブ｣",
+  "geo": [
+    35.53765635840746,
+    139.44699854430735
+  ],
+  "zoom": 12.776,
+  "modified": 1730253972042,
+  "litePoints": [
+    {
+      "id": "kii6ddmzs",
+      "cn": "町田站北口",
+      "name": "町田駅北口",
+      "image": "https://image.anitabi.cn/user/1042/bangumi/49131/points/kii6ddmzs-1716015668121.jpg?plan=h160",
+      "ep": 8,
+      "s": 475,
+      "geo": [
+        35.5425,
+        139.4459
+      ]
+    },
+    {
+      "id": "kiii2xfmb",
+      "cn": "Dennys 町田南口店",
+      "name": "デニーズ 町田南口店",
+      "image": "https://image.anitabi.cn/user/1042/bangumi/49131/points/kiii2xfmb-1716016308703.jpg?plan=h160",
+      "ep": 1,
+      "s": 433,
+      "geo": [
+        35.5418,
+        139.4449
+      ]
+    },
+    {
+      "id": "ow5ft523x",
+      "name": "ホテル​アイリーン・​ドナン​町田​店",
+      "image": "https://image.anitabi.cn/points/49131/ow5ft523x_1728369894782.jpg?plan=h160",
+      "ep": 3,
+      "s": 609,
+      "geo": [
+        35.5414,
+        139.445
+      ]
+    },
+    {
+      "id": "kiip627sn",
+      "cn": "町田天满宫",
+      "name": "町田天満宮",
+      "image": "https://image.anitabi.cn/user/1042/bangumi/49131/points/kiip627sn-1716017337740.jpg?plan=h160",
+      "ep": 4,
+      "s": 42,
+      "geo": [
+        35.5384,
+        139.4514
+      ]
+    },
+    {
+      "id": "ow4zzetsf",
+      "name": "小陽生煎饅頭屋",
+      "image": "https://image.anitabi.cn/points/49131/ow4zzetsf_1728368495593.jpg?plan=h160",
+      "s": 2530,
+      "geo": [
+        35.5413,
+        139.4483
+      ]
+    },
+    {
+      "id": "ow5xnb314",
+      "name": "鹿島橋",
+      "image": "https://image.anitabi.cn/points/49131/ow5xnb314_1728371482813.jpg?plan=h160",
+      "ep": 3,
+      "s": 471,
+      "geo": [
+        35.5411,
+        139.445
+      ]
+    },
+    {
+      "id": "ow6lw151d",
+      "name": "町田站（小田急小原线）路口",
+      "image": "https://image.anitabi.cn/points/49131/ow6lw151d_1728372187962.jpg?plan=h160",
+      "s": 119,
+      "geo": [
+        35.545,
+        139.4459
+      ]
+    },
+    {
+      "id": "ow5zt62wd",
+      "name": "谷口橋",
+      "image": "https://image.anitabi.cn/points/49131/ow5zt62wd_1728371441351.jpg?plan=h160",
+      "ep": 3,
+      "s": 455,
+      "geo": [
+        35.5416,
+        139.4445
+      ]
+    },
+    {
+      "id": "ow7h8c5by",
+      "cn": "吉祥寺odeon（电影院）",
+      "name": "吉祥寺オデヲン",
+      "image": "https://image.anitabi.cn/points/49131/ow7h8c5by_1728373879138.jpg?plan=h160",
+      "ep": 3,
+      "s": 519,
+      "geo": [
+        35.7028,
+        139.5809
+      ]
+    },
+    {
+      "id": "pj1hn9jrn",
+      "name": "bic camera 别馆",
+      "image": "https://image.anitabi.cn/points/49131/pj1hn9jrn_1730163762815.jpg?plan=h160",
+      "s": 911,
+      "geo": [
+        35.5425,
+        139.4479
+      ]
+    }
+  ],
+  "pointsLength": 10,
+  "imagesLength": 10,
+  "local_id": 277
+}

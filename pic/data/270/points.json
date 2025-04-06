@@ -1,0 +1,91 @@
+[
+  {
+    "id": "8b7d2122",
+    "name": "西東京いこいの森公園",
+    "image": "https://image.xinu.ink/pic/data/270/images/8b7d2122_1728722095083.jpg",
+    "ep": 3,
+    "s": 345,
+    "geo": [
+      35.7414,
+      139.539
+    ],
+    "origin": "ぱふぇ (id:paffue)",
+    "originLink": "https://btsoken.hatenablog.com/entry/20130911/1378903027"
+  },
+  {
+    "id": "e21e4f64",
+    "name": "田無駅北口バス停",
+    "image": "https://image.xinu.ink/pic/data/270/images/e21e4f64_1728722163729.jpg",
+    "ep": 5,
+    "s": 981,
+    "geo": [
+      35.7275,
+      139.5401
+    ],
+    "origin": "ぱふぇ (id:paffue)",
+    "originLink": "https://btsoken.hatenablog.com/entry/20130911/1378903027"
+  },
+  {
+    "id": "b31c8777",
+    "name": "田無駅北口SMBC前",
+    "image": "https://image.xinu.ink/pic/data/270/images/b31c8777_1728722299705.jpg",
+    "ep": 5,
+    "s": 1025,
+    "geo": [
+      35.7276,
+      139.5389
+    ],
+    "origin": "ぱふぇ (id:paffue)",
+    "originLink": "https://btsoken.hatenablog.com/entry/20130911/1378903027"
+  },
+  {
+    "id": "707cba80",
+    "name": "武蔵野茶房田無本店",
+    "image": "https://image.xinu.ink/pic/data/270/images/707cba80_1728722343276.jpg",
+    "ep": 5,
+    "s": 583,
+    "geo": [
+      35.7282,
+      139.5388
+    ],
+    "origin": "ぱふぇ (id:paffue)",
+    "originLink": "https://btsoken.hatenablog.com/entry/20130911/1378903027"
+  },
+  {
+    "id": "1e034799",
+    "name": "田無駅北口西側線路沿い",
+    "image": "https://image.xinu.ink/pic/data/270/images/1e034799_1728722385832.jpg",
+    "ep": 5,
+    "s": 1139,
+    "geo": [
+      35.7271,
+      139.537
+    ],
+    "origin": "ぱふぇ (id:paffue)",
+    "originLink": "https://btsoken.hatenablog.com/entry/20130911/1378903027"
+  },
+  {
+    "id": "46362f39",
+    "name": "田無駅南口",
+    "image": "https://image.xinu.ink/pic/data/270/images/46362f39_1728722414431.jpg",
+    "ep": 5,
+    "s": 597,
+    "geo": [
+      35.727,
+      139.5392
+    ],
+    "origin": "ぱふぇ (id:paffue)",
+    "originLink": "https://btsoken.hatenablog.com/entry/20130911/1378903027"
+  },
+  {
+    "id": "965dcf26",
+    "name": "田無駅北口ロータリー",
+    "image": "https://image.xinu.ink/pic/data/270/images/965dcf26_1728722224125.jpg",
+    "geo": [
+      35.7279,
+      139.5397
+    ],
+    "origin": "ぱふぇ (id:paffue)",
+    "originLink": "https://btsoken.hatenablog.com/entry/20130911/1378903027"
+  }
+]

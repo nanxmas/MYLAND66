@@ -1,0 +1,131 @@
+{
+  "id": 47889,
+  "cn": "来自风平浪静的明天",
+  "title": "凪のあすから",
+  "city": "熊野市",
+  "cover": "https://image.xinu.ink/pic/data/274/images/47889.jpg",
+  "color": "#07194e",
+  "cp": "凪のあすから",
+  "geo": [
+    33.90358965827339,
+    136.13757720645475
+  ],
+  "zoom": 12.023,
+  "modified": 1740045778598,
+  "litePoints": [
+    {
+      "id": "idliekq4i",
+      "cn": "天女座咖啡厅",
+      "name": "CAFE天女座",
+      "image": "https://image.anitabi.cn/user/0/bangumi/47889/points/idliekq4i-1709988974241.jpg?plan=h160",
+      "s": 23,
+      "geo": [
+        33.9133,
+        136.1373
+      ]
+    },
+    {
+      "id": "j1s04fmgx",
+      "cn": "海水浴場",
+      "name": "新鹿海水浴場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/47889/points/j1s04fmgx-1711883702505.jpg?plan=h160",
+      "s": 90,
+      "geo": [
+        33.928,
+        136.1471
+      ]
+    },
+    {
+      "id": "qepsdjrtb",
+      "name": "ＪＲ紀勢本線を県道737号から撮影した図",
+      "image": "https://image.anitabi.cn/points/47889/qepsdjrtb_1732647159981.jpg?plan=h160",
+      "ep": 1,
+      "s": 997,
+      "geo": [
+        33.9309,
+        136.1442
+      ]
+    },
+    {
+      "id": "qeq2vnppn",
+      "name": "波田須駅",
+      "image": "https://image.anitabi.cn/points/47889/qeq2vnppn_1732647216068.jpg?plan=h160",
+      "ep": 5,
+      "s": 679,
+      "geo": [
+        33.9102,
+        136.1383
+      ]
+    },
+    {
+      "id": "qer6xm35g",
+      "name": "桥2",
+      "image": "https://image.anitabi.cn/points/47889/qer6xm35g_1732648518413.jpg?plan=h160",
+      "ep": 5,
+      "s": 691,
+      "geo": [
+        33.9303,
+        136.1433
+      ]
+    },
+    {
+      "id": "qeqcdee4l",
+      "name": "清七屋ストアー",
+      "image": "https://image.anitabi.cn/points/47889/qeqcdee4l_1732646618806.jpg?plan=h160",
+      "ep": 9,
+      "s": 446,
+      "geo": [
+        33.929,
+        136.1456
+      ]
+    },
+    {
+      "id": "qepvmvp22",
+      "name": "魚作商店前",
+      "image": "https://image.anitabi.cn/points/47889/qepvmvp22_1732647328999.jpg?plan=h160",
+      "ep": 14,
+      "s": 255,
+      "geo": [
+        33.9299,
+        136.146
+      ]
+    },
+    {
+      "id": "jljlyne6k",
+      "cn": "鬼之城",
+      "name": "鬼ヶ城",
+      "image": "https://image.anitabi.cn/user/0/bangumi/47889/points/jljlyne6k-1713432701696.jpg?plan=h160",
+      "ep": 15,
+      "s": 96,
+      "geo": [
+        33.8907,
+        136.1164
+      ]
+    },
+    {
+      "id": "qepp1za8x",
+      "name": "熊野漁協二木島支所",
+      "image": "https://image.anitabi.cn/points/47889/qepp1za8x_1732647623909.jpg?plan=h160",
+      "ep": 15,
+      "s": 558,
+      "geo": [
+        33.9389,
+        136.1811
+      ]
+    },
+    {
+      "id": "qeplg3604",
+      "name": "きりゅう造船所内※旧長島造船所",
+      "image": "https://image.anitabi.cn/points/47889/qeplg3604_1732646141756.jpg?plan=h160",
+      "ep": 16,
+      "s": 1044,
+      "geo": [
+        34.1959,
+        136.3226
+      ]
+    }
+  ],
+  "pointsLength": 15,
+  "imagesLength": 15,
+  "local_id": 274
+}

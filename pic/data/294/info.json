@@ -1,0 +1,120 @@
+{
+  "id": 58949,
+  "cn": "言叶之庭",
+  "title": "言の葉の庭",
+  "city": "新宿区",
+  "cover": "https://image.xinu.ink/pic/data/294/images/58949.jpg",
+  "color": "#007533",
+  "cp": "CoMix Wave Films",
+  "geo": [
+    35.68479271456643,
+    139.71064559710584
+  ],
+  "zoom": 16,
+  "modified": 1728608037958,
+  "litePoints": [
+    {
+      "id": "b19f8f8c",
+      "name": "JR新宿駅远景",
+      "image": "https://image.anitabi.cn/points/58949/b19f8f8c_1720194006405.jpg?plan=h160",
+      "s": 53,
+      "geo": [
+        35.6926,
+        139.7002
+      ]
+    },
+    {
+      "id": "bc7c885c",
+      "name": "JR新宿駅ホーム",
+      "image": "https://image.anitabi.cn/points/58949/bc7c885c_1720194008132.jpg?plan=h160",
+      "s": 58,
+      "geo": [
+        35.6907,
+        139.7001
+      ]
+    },
+    {
+      "id": "6b517e1d",
+      "name": "JR新宿駅  前景（ホーム）",
+      "image": "https://image.anitabi.cn/points/58949/6b517e1d_1720194048010.jpg?plan=h160",
+      "s": 71,
+      "geo": [
+        35.6901,
+        139.7
+      ]
+    },
+    {
+      "id": "bc6c12cd",
+      "name": "JR新宿駅 背景看板",
+      "image": "https://image.anitabi.cn/points/58949/bc6c12cd_1720194050940.jpg?plan=h160",
+      "s": 71,
+      "geo": [
+        35.6903,
+        139.7009
+      ]
+    },
+    {
+      "id": "bb42ef80",
+      "name": "新宿駅東口（メガネスーパー新宿中央東口店前）",
+      "image": "https://image.anitabi.cn/points/58949/bb42ef80_1720194009180.jpg?plan=h160",
+      "s": 79,
+      "geo": [
+        35.6914,
+        139.7012
+      ]
+    },
+    {
+      "id": "3cf8c26a",
+      "name": "東京都庁遠景",
+      "image": "https://image.anitabi.cn/points/58949/3cf8c26a_1720194010187.jpg?plan=h160",
+      "s": 83,
+      "geo": [
+        35.6897,
+        139.7059
+      ]
+    },
+    {
+      "id": "3f192ddf",
+      "name": "ルミネ新宿遠景",
+      "image": "https://image.anitabi.cn/points/58949/3f192ddf_1720194053965.jpg?plan=h160",
+      "s": 87,
+      "geo": [
+        35.6897,
+        139.7059
+      ]
+    },
+    {
+      "id": "36f76be4",
+      "name": "国道20号遠景",
+      "image": "https://image.anitabi.cn/points/58949/36f76be4_1720194056743.jpg?plan=h160",
+      "s": 90,
+      "geo": [
+        35.6897,
+        139.7059
+      ]
+    },
+    {
+      "id": "edefcb37",
+      "name": "NTTドコモタワー遠景*",
+      "image": "https://image.anitabi.cn/points/58949/edefcb37_1720194060522.jpg?plan=h160",
+      "s": 97,
+      "geo": [
+        35.6895,
+        139.7064
+      ]
+    },
+    {
+      "id": "ce95011d",
+      "name": "新宿御苑 新宿門",
+      "image": "https://image.anitabi.cn/points/58949/ce95011d_1720194039765.jpg?plan=h160",
+      "s": 101,
+      "geo": [
+        35.6886,
+        139.7071
+      ]
+    }
+  ],
+  "pointsLength": 68,
+  "imagesLength": 68,
+  "local_id": 294
+}

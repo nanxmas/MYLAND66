@@ -1,0 +1,105 @@
+{
+  "id": 56621,
+  "cn": "黄昏症候群 探索篇/究明編",
+  "title": "トワイライトシンドローム 探索編/究明編",
+  "city": "武藏野市",
+  "cover": "https://image.xinu.ink/pic/data/290/images/56621_EEtrP.jpg",
+  "color": "#9c4042",
+  "modified": 1728738552143,
+  "litePoints": [
+    {
+      "id": "p0stufnvd",
+      "name": "汐見台中学校",
+      "image": "https://image.anitabi.cn/points/56621/p0stufnvd_1728733817895.jpg?plan=h160",
+      "geo": [
+        35.407,
+        139.6114
+      ]
+    },
+    {
+      "id": "p0sscr6xm",
+      "name": "井の頭公園",
+      "image": "https://image.anitabi.cn/points/56621/p0sscr6xm_1728733656101.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7,
+        139.5759
+      ]
+    },
+    {
+      "id": "p0tcbfiw5",
+      "name": "井の頭公園 彫刻園",
+      "image": "https://image.anitabi.cn/points/56621/p0tcbfiw5_1728734927029.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7002,
+        139.5697
+      ]
+    },
+    {
+      "id": "p0taylgye",
+      "name": "井の頭公園 ひょうたん橋",
+      "image": "https://image.anitabi.cn/points/56621/p0taylgye_1728734777983.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6982,
+        139.5809
+      ]
+    },
+    {
+      "id": "p0te4eq95",
+      "name": "武蔵小金井駅",
+      "image": "https://image.anitabi.cn/points/56621/p0te4eq95_1728735117674.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        35.7011,
+        139.5063
+      ]
+    },
+    {
+      "id": "p0u2za73j",
+      "name": "朝日通り商店街",
+      "image": "https://image.anitabi.cn/points/56621/p0u2za73j_1728736476395.jpg?plan=h160",
+      "ep": 10,
+      "geo": [
+        35.7034,
+        139.5789
+      ]
+    },
+    {
+      "id": "c121758e",
+      "name": "雛城高校モデル",
+      "geo": [
+        35.4073,
+        139.6112
+      ]
+    },
+    {
+      "id": "2a299bae",
+      "name": "心霊写真量産公園",
+      "geo": [
+        35.6997,
+        139.5737
+      ]
+    },
+    {
+      "id": "dc7be662",
+      "name": "野外劇場",
+      "geo": [
+        35.6998,
+        139.5787
+      ]
+    },
+    {
+      "id": "2bcb2a44",
+      "name": "こうべ橋",
+      "geo": [
+        35.6995,
+        139.5754
+      ]
+    }
+  ],
+  "pointsLength": 32,
+  "imagesLength": 6,
+  "local_id": 290
+}

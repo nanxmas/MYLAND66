@@ -1,0 +1,104 @@
+{
+  "id": 51705,
+  "cn": "Muv-Luv Alternative Total Eclipse",
+  "title": "マブラヴ オルタネイティヴ トータル・イクリプス",
+  "cover": "https://image.xinu.ink/pic/data/281/images/51705.jpg",
+  "color": "#554763",
+  "geo": [
+    34.99746591037656,
+    135.7403365573586
+  ],
+  "zoom": 11.505,
+  "modified": 1725353516686,
+  "litePoints": [
+    {
+      "id": "n7iol8ktw",
+      "cn": "京都塔",
+      "name": "京都塔",
+      "image": "https://image.anitabi.cn/points/51705/n7iol8ktw_1725352221758.jpg?plan=h160",
+      "s": 183,
+      "geo": [
+        34.9874,
+        135.7592
+      ]
+    },
+    {
+      "id": "n7iqnepxs",
+      "cn": "渡月橋",
+      "name": "渡月橋",
+      "image": "https://image.anitabi.cn/points/51705/n7iqnepxs_1725352385611.jpg?plan=h160",
+      "s": 275,
+      "geo": [
+        35.0136,
+        135.6798
+      ]
+    },
+    {
+      "id": "n7it8et3x",
+      "cn": "清水寺",
+      "name": "清水寺",
+      "image": "https://image.anitabi.cn/user/0/bangumi/51705/points/n7it8et3x-1723618294433.jpg?plan=h160",
+      "s": 471,
+      "geo": [
+        34.9946,
+        135.7853
+      ]
+    },
+    {
+      "id": "n7iwnqe29",
+      "cn": "二尊院",
+      "name": "二尊院",
+      "image": "https://image.anitabi.cn/points/51705/n7iwnqe29_1725353067195.jpg?plan=h160",
+      "s": 533,
+      "geo": [
+        35.0158,
+        135.6734
+      ]
+    },
+    {
+      "id": "n7j241n12",
+      "cn": "京都站",
+      "name": "京都站",
+      "image": "https://image.anitabi.cn/points/51705/n7j241n12_1725353436867.jpg?plan=h160",
+      "s": 1168,
+      "geo": [
+        34.9858,
+        135.7563
+      ]
+    },
+    {
+      "id": "n7jybarwk",
+      "cn": "育空基地",
+      "name": "Fort Yukon Airport",
+      "image": "https://image.anitabi.cn/user/0/bangumi/51705/points/n7jybarwk-1723620819725.jpg?plan=h160",
+      "s": 447,
+      "geo": [
+        66.572,
+        -145.2456
+      ]
+    },
+    {
+      "id": "n7keo3vru",
+      "cn": "彼得巴甫洛夫斯克‧勘察加基地",
+      "name": "彼得巴甫洛夫斯克‧勘察加基地",
+      "image": "https://image.anitabi.cn/user/0/bangumi/51705/points/n7keo3vru-1723621751539.jpg?plan=h160",
+      "geo": [
+        53.0148,
+        158.6483
+      ]
+    },
+    {
+      "id": "n7kb3ot50",
+      "cn": "瓜得罗普基地",
+      "name": "瓜得罗普基地",
+      "image": "https://image.anitabi.cn/user/0/bangumi/51705/points/n7kb3ot50-1723621527350.jpg?plan=h160",
+      "geo": [
+        16.2656,
+        -61.5275
+      ]
+    }
+  ],
+  "pointsLength": 8,
+  "imagesLength": 8,
+  "local_id": 281
+}

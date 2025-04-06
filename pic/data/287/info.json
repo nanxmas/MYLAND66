@@ -1,0 +1,40 @@
+{
+  "id": 55770,
+  "cn": "进击的巨人",
+  "title": "進撃の巨人",
+  "cover": "https://image.xinu.ink/pic/data/287/images/55770.jpg",
+  "color": "#471c0e",
+  "cp": "進撃の巨人",
+  "geo": [
+    48.85133388984238,
+    10.488374195494316
+  ],
+  "zoom": 14.811,
+  "modified": 1728345745618,
+  "litePoints": [
+    {
+      "id": "fl5zln17z",
+      "cn": "讷德林根",
+      "name": "Nördlingen",
+      "image": "https://image.anitabi.cn/user/0/bangumi/55770/points/fl5zln17z-1702118764318.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        48.8513,
+        10.4883
+      ]
+    },
+    {
+      "id": "npd18wq7n",
+      "cn": "帕拉迪岛",
+      "name": "パラディ島",
+      "image": "https://image.anitabi.cn/points/55770/npd18wq7n_1725017515108.jpg?plan=h160",
+      "geo": [
+        -20.7403,
+        45.2325
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 287
+}

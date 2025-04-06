@@ -1,0 +1,38 @@
+{
+  "id": 46012,
+  "cn": "黑塔利亚 第5期",
+  "title": "ヘタリア The Beautiful World",
+  "city": "欧洲",
+  "cover": "https://image.xinu.ink/pic/data/268/images/46012.jpg",
+  "color": "#636347",
+  "cp": "ヘタリア",
+  "modified": 1728836034552,
+  "litePoints": [
+    {
+      "id": "nre6nai8x",
+      "cn": "圣米歇尔山",
+      "name": "Mont-Saint-Michel",
+      "image": "https://image.anitabi.cn/user/0/bangumi/46012/points/nre6nai8x-1725175512451.jpg?plan=h160",
+      "ep": 15,
+      "geo": [
+        48.635,
+        -1.5111
+      ]
+    },
+    {
+      "id": "nrgceohry",
+      "cn": "楚德湖",
+      "name": "Чудском озере",
+      "image": "https://image.anitabi.cn/user/0/bangumi/46012/points/nrgceohry-1725180209185.jpg?plan=h160",
+      "ep": 4,
+      "s": 170,
+      "geo": [
+        58.0388,
+        27.8869
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 268
+}

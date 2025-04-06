@@ -1,0 +1,115 @@
+{
+  "id": 46874,
+  "cn": "月姬 -A piece of blue glass moon-",
+  "title": "月姫 -A piece of blue glass moon-",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/271/images/46874.jpg",
+  "color": "#0e83f4",
+  "geo": [
+    35.637429552765,
+    139.7364773185746
+  ],
+  "zoom": 9.409,
+  "modified": 1742288629555,
+  "litePoints": [
+    {
+      "id": "mkbia3zt6",
+      "name": "越谷·横田诊所",
+      "image": "https://image.anitabi.cn/points/46874/mkbia3zt6_1721800009750.jpg?plan=h160",
+      "geo": [
+        35.8917,
+        139.7878
+      ]
+    },
+    {
+      "id": "mkbpz2tpk",
+      "name": "シャングリーラなぞというお",
+      "image": "https://image.anitabi.cn/points/46874/mkbpz2tpk_1721800458048.jpg?plan=h160",
+      "geo": [
+        35.5414,
+        139.4473
+      ]
+    },
+    {
+      "id": "minc654bm",
+      "cn": "萨沃伊饭店",
+      "name": 1,
+      "image": "https://image.anitabi.cn/points/46874/minc654bm_1721707066922.jpg?plan=h160",
+      "geo": [
+        51.51,
+        -0.1204
+      ]
+    },
+    {
+      "id": "miniagj2z",
+      "cn": "中野二丁目2-21",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/46874/miniagj2z_1721669401564.jpg?plan=h160",
+      "geo": [
+        35.7032,
+        139.6683
+      ]
+    },
+    {
+      "id": "minmjhnii",
+      "cn": "涩谷道玄坂",
+      "name": 3,
+      "image": "https://image.anitabi.cn/points/46874/minmjhnii_1721669641348.jpg?plan=h160",
+      "geo": [
+        35.6595,
+        139.6995
+      ]
+    },
+    {
+      "id": "minohufqe",
+      "cn": "涩谷Modi前",
+      "name": 3,
+      "image": "https://image.anitabi.cn/points/46874/minohufqe_1721669767664.jpg?plan=h160",
+      "geo": [
+        35.6611,
+        139.7007
+      ]
+    },
+    {
+      "id": "minzng2j2",
+      "name": "練馬区立田柄中学校運動場",
+      "image": "https://image.anitabi.cn/points/46874/minzng2j2_1721670452367.jpg?plan=h160",
+      "geo": [
+        35.7591,
+        139.6408
+      ]
+    },
+    {
+      "id": "mio1g0skf",
+      "name": "練馬区立田柄中学校校門前",
+      "image": "https://image.anitabi.cn/points/46874/mio1g0skf_1721670555712.jpg?plan=h160",
+      "geo": [
+        35.7596,
+        139.6421
+      ]
+    },
+    {
+      "id": "mio4o1n5i",
+      "cn": "日比谷公园 喷泉",
+      "name": 7,
+      "image": "https://image.anitabi.cn/points/46874/mio4o1n5i_1721670738798.jpg?plan=h160",
+      "geo": [
+        35.6733,
+        139.7567
+      ]
+    },
+    {
+      "id": "mio6vva59",
+      "cn": "日比谷公园",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/46874/mio6vva59_1721670870975.jpg?plan=h160",
+      "geo": [
+        35.673,
+        139.756
+      ]
+    }
+  ],
+  "pointsLength": 20,
+  "imagesLength": 20,
+  "local_id": 271
+}

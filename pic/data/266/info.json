@@ -1,0 +1,60 @@
+{
+  "id": 44123,
+  "cn": "近月少女的礼仪",
+  "title": "月に寄りそう乙女の作法",
+  "cover": "https://image.xinu.ink/pic/data/266/images/44123_nmu96l7rl.jpg",
+  "color": "#4e4763",
+  "modified": 1728212556819,
+  "litePoints": [
+    {
+      "id": "nmrh0lgku",
+      "cn": "哥本哈根贝拉天空AC酒店",
+      "name": "AC Hotel Bella Sky Copenhagen",
+      "image": "https://image.anitabi.cn/points/44123/nmrh0lgku_1728212549113_c16v9.jpg?plan=h160",
+      "geo": [
+        55.6392,
+        12.5781
+      ]
+    },
+    {
+      "id": "nr4hwqyok",
+      "name": "Prada Tokyo Aoyama",
+      "image": "https://image.anitabi.cn/user/0/bangumi/44123/points/nr4hwqyok-1725154851553.jpg?plan=h160",
+      "geo": [
+        35.6619,
+        139.7127
+      ]
+    },
+    {
+      "id": "nr4qona3o",
+      "cn": "吉野家原宿竹下口店",
+      "name": "吉野家\n原宿​竹​下口​店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/44123/points/nr4qona3o-1725154978944.jpg?plan=h160",
+      "geo": [
+        35.6714,
+        139.7031
+      ]
+    },
+    {
+      "id": "oaa4ffpui",
+      "name": "表参道ヒルズ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/44123/points/oaa4ffpui-1726655619102.jpg?plan=h160",
+      "geo": [
+        35.667,
+        139.709
+      ]
+    },
+    {
+      "id": "otze3z992",
+      "name": "Schloss Bartenstein",
+      "image": "https://image.anitabi.cn/user/2098/bangumi/44123/points/otze3z992-1728199639931.jpg?plan=h160",
+      "geo": [
+        49.356,
+        9.8777
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 266
+}

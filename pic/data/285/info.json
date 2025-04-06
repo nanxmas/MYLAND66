@@ -1,0 +1,28 @@
+{
+  "id": 55032,
+  "cn": "写真女友",
+  "title": "フォトカノ",
+  "cover": "https://image.xinu.ink/pic/data/285/images/55032.jpg",
+  "color": "#80552a",
+  "cp": "フォトカノ",
+  "geo": [
+    35.774354,
+    139.499438
+  ],
+  "modified": 1710224537627,
+  "litePoints": [
+    {
+      "id": "ig1ak7xjr",
+      "cn": "平井站",
+      "name": "平井駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/55032/points/ig1ak7xjr-1710179939322.jpg?plan=h160",
+      "geo": [
+        35.7063,
+        139.8432
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 285
+}

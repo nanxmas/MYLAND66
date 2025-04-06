@@ -1,0 +1,64 @@
+{
+  "id": 47144,
+  "cn": "麦兜故事",
+  "title": "麥兜故事",
+  "city": "中国",
+  "cover": "https://image.xinu.ink/pic/data/272/images/47144.jpg",
+  "color": "#6777c4",
+  "cp": "Bliss Picture Lt…",
+  "geo": [
+    22.281526464701187,
+    114.2150233465486
+  ],
+  "zoom": 8.916,
+  "modified": 1722576241289,
+  "litePoints": [
+    {
+      "id": "msykd0umg",
+      "cn": "山顶缆车",
+      "name": "山頂纜車",
+      "image": "https://image.anitabi.cn/user/0/bangumi/47144/points/msykd0umg-1722477178381.jpg?plan=h160",
+      "s": 1776,
+      "geo": [
+        22.2777,
+        114.1595
+      ]
+    },
+    {
+      "id": "msz2l4t2t",
+      "cn": "山顶广场",
+      "name": "山頂廣場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/47144/points/msz2l4t2t-1722478204239.jpg?plan=h160",
+      "s": 1845,
+      "geo": [
+        22.2704,
+        114.1498
+      ]
+    },
+    {
+      "id": "msz7h9b4q",
+      "cn": "太平山餐厅",
+      "name": "太平山餐廳",
+      "image": "https://image.anitabi.cn/user/0/bangumi/47144/points/msz7h9b4q-1722478548954.jpg?plan=h160",
+      "s": 1894,
+      "geo": [
+        22.2711,
+        114.1494
+      ]
+    },
+    {
+      "id": "mtc7io0ew",
+      "cn": "深水埗站",
+      "name": "深水埗站",
+      "image": "https://image.anitabi.cn/user/0/bangumi/47144/points/mtc7io0ew-1722506825073.jpg?plan=h160",
+      "s": 3737,
+      "geo": [
+        22.3307,
+        114.1623
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 272
+}

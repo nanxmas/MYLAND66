@@ -1,0 +1,86 @@
+{
+  "id": 50814,
+  "cn": "打工吧！魔王大人",
+  "title": "はたらく魔王さま!",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/280/images/50814.jpg",
+  "color": "#2a802a",
+  "geo": [
+    35.6737870857214,
+    139.66860874852074
+  ],
+  "zoom": 15.501,
+  "modified": 1728215043605,
+  "litePoints": [
+    {
+      "id": "otxiwibwg",
+      "name": "京王​笹塚​駅​北口",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/50814/points/otxiwibwg-1728195505706.jpg?plan=h160",
+      "ep": 8,
+      "s": 601,
+      "geo": [
+        35.6737,
+        139.6674
+      ]
+    },
+    {
+      "id": "otxsxfvix",
+      "name": "笹冢站",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/50814/points/otxsxfvix-1728196032563.jpg?plan=h160",
+      "ep": 8,
+      "s": 625,
+      "geo": [
+        35.6737,
+        139.6674
+      ]
+    },
+    {
+      "id": "otxvrag36",
+      "name": "笹塚駅 南口",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/50814/points/otxvrag36-1728196195453.jpg?plan=h160",
+      "ep": 8,
+      "s": 597,
+      "geo": [
+        35.6735,
+        139.6674
+      ]
+    },
+    {
+      "id": "otya923d6",
+      "name": "タイムズ笹塚駅前",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/50814/points/otya923d6-1728197073217.jpg?plan=h160",
+      "ep": 2,
+      "s": 188,
+      "geo": [
+        35.6747,
+        139.6674
+      ]
+    },
+    {
+      "id": "otydsvr0y",
+      "cn": "笹冢一丁目东十字路口",
+      "name": "総栄ビル",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/50814/points/otydsvr0y-1728197439072.jpg?plan=h160",
+      "ep": 1,
+      "s": 486,
+      "geo": [
+        35.6744,
+        139.6678
+      ]
+    },
+    {
+      "id": "otyw9ynp0",
+      "name": "Chiba Bldg.",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/50814/points/otyw9ynp0-1728198409848.jpg?plan=h160",
+      "ep": 1,
+      "s": 958,
+      "geo": [
+        35.6753,
+        139.6709
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "local_id": 280
+}

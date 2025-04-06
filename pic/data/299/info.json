@@ -1,0 +1,119 @@
+{
+  "id": 62212,
+  "cn": "跳跃大搜查线 岁末特别警戒SP",
+  "title": "踊る大捜査線 歳末特別警戒スペシャル",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/299/images/62212.jpg",
+  "color": "#2b6b00",
+  "geo": [
+    35.649413971631404,
+    140.01285942812365
+  ],
+  "zoom": 8.592,
+  "modified": 1725731430460,
+  "litePoints": [
+    {
+      "id": "m87602bp6",
+      "name": "湾岸署",
+      "image": "https://image.anitabi.cn/points/62212/m87602bp6_1720850181447.jpg?plan=h160",
+      "s": 6,
+      "geo": [
+        35.6562,
+        139.8182
+      ]
+    },
+    {
+      "id": "m874ux4zo",
+      "name": "帝京平成大学 千葉キャンパス",
+      "image": "https://image.anitabi.cn/points/62212/m874ux4zo_1720850102395.jpg?plan=h160",
+      "s": 276,
+      "geo": [
+        35.5054,
+        140.1729
+      ]
+    },
+    {
+      "id": "m8d0eg2ld",
+      "name": "警察庁",
+      "image": "https://image.anitabi.cn/points/62212/m8d0eg2ld_1720862897547.jpg?plan=h160",
+      "s": 540,
+      "geo": [
+        35.6756,
+        139.7514
+      ]
+    },
+    {
+      "id": "m86vsahxv",
+      "name": "東京東信用金庫潮見支店付近",
+      "image": "https://image.anitabi.cn/points/62212/m86vsahxv_1720849611792.jpg?plan=h160",
+      "s": 1271,
+      "geo": [
+        35.6585,
+        139.8142
+      ]
+    },
+    {
+      "id": "m86v122im",
+      "name": "東京東信用金庫潮見支店",
+      "image": "https://image.anitabi.cn/points/62212/m86v122im_1720849535035.jpg?plan=h160",
+      "s": 1299,
+      "geo": [
+        35.6583,
+        139.8145
+      ]
+    },
+    {
+      "id": "nyb2obh2r",
+      "name": "台場青海線タイム24南側カーブ",
+      "image": "https://image.anitabi.cn/points/62212/nyb2obh2r_1725717263205.jpg?plan=h160",
+      "s": 2000,
+      "geo": [
+        35.6166,
+        139.7771
+      ]
+    },
+    {
+      "id": "nybc7ij0a",
+      "name": "テレコム駅前交差点",
+      "image": "https://image.anitabi.cn/points/62212/nybc7ij0a_1725717841928.jpg?plan=h160",
+      "s": 2056,
+      "geo": [
+        35.6163,
+        139.7786
+      ]
+    },
+    {
+      "id": "nybgtg3vd",
+      "name": "あけみ橋",
+      "image": "https://image.anitabi.cn/points/62212/nybgtg3vd_1725718118350.jpg?plan=h160",
+      "s": 2112,
+      "geo": [
+        35.6276,
+        139.7864
+      ]
+    },
+    {
+      "id": "nybqsaqif",
+      "name": "東京湾岸警察署前交差点",
+      "image": "https://image.anitabi.cn/points/62212/nybqsaqif_1725718734616.jpg?plan=h160",
+      "s": 2141,
+      "geo": [
+        35.6192,
+        139.7749
+      ]
+    },
+    {
+      "id": "nybtsx1p0",
+      "name": "横浜市立浦島小学校",
+      "image": "https://image.anitabi.cn/points/62212/nybtsx1p0_1725718914047.jpg?plan=h160",
+      "s": 2150,
+      "geo": [
+        35.4842,
+        139.6361
+      ]
+    }
+  ],
+  "pointsLength": 18,
+  "imagesLength": 18,
+  "local_id": 299
+}

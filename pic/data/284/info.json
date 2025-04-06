@@ -1,0 +1,126 @@
+{
+  "id": 54433,
+  "cn": "我的青春恋爱物语果然有问题",
+  "title": "やはり俺の青春ラブコメはまちがっている。",
+  "city": "千叶市",
+  "cover": "https://image.xinu.ink/pic/data/284/images/54433.jpg",
+  "color": "#3d4761",
+  "cp": "やはりこの",
+  "geo": [
+    35.62145638068024,
+    140.0696860991261
+  ],
+  "zoom": 15.833,
+  "modified": 1742272544134,
+  "litePoints": [
+    {
+      "id": "auh3tefqd",
+      "cn": "幕张新大谷酒店",
+      "name": "ホテル​ニュー​オータニ​幕張",
+      "image": "https://image.anitabi.cn/points/54433/auh3tefqd_1721537935403.jpg?plan=h160",
+      "ep": 5,
+      "s": 774,
+      "geo": [
+        35.6451,
+        140.0382
+      ]
+    },
+    {
+      "id": "igtiwp90o",
+      "cn": "岚山竹林小径",
+      "name": "竹林の小径",
+      "image": "https://image.anitabi.cn/user/0/bangumi/54433/points/igtiwp90o-1710241471200.jpg?plan=h160",
+      "ep": 2,
+      "s": 604,
+      "geo": [
+        35.0173,
+        135.6752
+      ]
+    },
+    {
+      "id": "a099d587",
+      "cn": "千叶站东口",
+      "name": "千葉駅東口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/54433/points/a099d587-1725076702150.jpg?plan=h160",
+      "ep": 5,
+      "s": 650,
+      "geo": [
+        35.612,
+        140.1151
+      ]
+    },
+    {
+      "id": "o732fdnv6",
+      "cn": "稻毛浅间神社",
+      "name": "稲毛浅間神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/54433/points/o732fdnv6-1726405202672.jpg?plan=h160",
+      "ep": 10,
+      "s": 931,
+      "geo": [
+        35.6365,
+        140.0824
+      ]
+    },
+    {
+      "id": "t0y55th3w",
+      "cn": "Lalaport Tokyo-bay",
+      "name": "Lalaport Tokyo-bay",
+      "image": "https://image.anitabi.cn/user/0/bangumi/54433/points/t0y55th3w-1740029846777.jpg?plan=h160",
+      "ep": 6,
+      "s": 901,
+      "geo": [
+        35.6864,
+        139.9902
+      ]
+    },
+    {
+      "id": "06bbb88e",
+      "name": "稻毛海滨公园 いなげの浜",
+      "image": "https://image.anitabi.cn/points/54433/06bbb88e_1742244817290.jpg?plan=h160",
+      "geo": [
+        35.6156,
+        140.0639
+      ]
+    },
+    {
+      "id": "d4d1548a",
+      "name": "千葉県総合教育センター本館前",
+      "image": "https://image.anitabi.cn/points/54433/d4d1548a_1720516174658.jpg?plan=h160",
+      "geo": [
+        35.6541,
+        140.0474
+      ]
+    },
+    {
+      "id": "ddcb2eed",
+      "name": "検見川の浜",
+      "image": "https://image.anitabi.cn/points/54433/ddcb2eed_1720516183017.jpg?plan=h160",
+      "geo": [
+        35.6267,
+        140.0481
+      ]
+    },
+    {
+      "id": "913761af",
+      "cn": "Messe Amuse Mall 人行天桥",
+      "name": "メッセアミューズモール ペデストリアンデッキ",
+      "image": "https://image.anitabi.cn/points/54433/913761af_1720516192784.jpg?plan=h160",
+      "geo": [
+        35.6503,
+        140.0425
+      ]
+    },
+    {
+      "id": "381a4bb6",
+      "name": "幕張の浜",
+      "image": "https://image.anitabi.cn/points/54433/381a4bb6_1720516205272.jpg?plan=h160",
+      "geo": [
+        35.6335,
+        140.0422
+      ]
+    }
+  ],
+  "pointsLength": 46,
+  "imagesLength": 39,
+  "local_id": 284
+}
