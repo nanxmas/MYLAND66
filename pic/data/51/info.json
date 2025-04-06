@@ -1,0 +1,28 @@
+{
+  "id": 896,
+  "cn": "向阳素描",
+  "title": "ひだまりスケッチ",
+  "cover": "https://image.xinu.ink/pic/data/51/images/896.jpg",
+  "color": "#aa9555",
+  "geo": [
+    32.81117699999999,
+    130.73902499999997
+  ],
+  "zoom": 16,
+  "modified": 1719518107862,
+  "litePoints": [
+    {
+      "id": "k2b8pp7xy",
+      "cn": "向阳庄",
+      "name": "ひだまり荘",
+      "image": "https://image.anitabi.cn/points/896/k2b8pp7xy_1714756494042.jpg?plan=h160",
+      "geo": [
+        32.8111,
+        130.739
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 51
+}

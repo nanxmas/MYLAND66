@@ -1,0 +1,129 @@
+{
+  "id": 909,
+  "cn": "龙与虎",
+  "title": "とらドラ!",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/54/images/909.jpg",
+  "color": "#be586d",
+  "cp": "とらドラ！",
+  "geo": [
+    35.786958,
+    139.706376
+  ],
+  "modified": 1735800187064,
+  "litePoints": [
+    {
+      "id": "odjug0kfp",
+      "name": "荻窪駅北口",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/909/points/odjug0kfp-1726911814443.jpg?plan=h160",
+      "ep": 7,
+      "s": 392,
+      "geo": [
+        35.705,
+        139.6209
+      ]
+    },
+    {
+      "id": "odjgiwanw",
+      "name": " 荻窪駅北口周辺",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/909/points/odjgiwanw-1726910996227.jpg?plan=h160",
+      "ep": 10,
+      "s": 1294,
+      "geo": [
+        35.7047,
+        139.6204
+      ]
+    },
+    {
+      "id": "odk3tbvih",
+      "name": "ジョナサン下井草店",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/909/points/odk3tbvih-1726912746854.jpg?plan=h160",
+      "ep": 5,
+      "s": 176,
+      "geo": [
+        35.7191,
+        139.6156
+      ]
+    },
+    {
+      "id": "pzntthiuj",
+      "name": "テン薬局 北赤羽駅前店",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/909/points/pzntthiuj-1731465616505.jpg?plan=h160",
+      "ep": 6,
+      "s": 802,
+      "geo": [
+        35.7864,
+        139.7074
+      ]
+    },
+    {
+      "id": "pz568lga9",
+      "name": "北食堂",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/909/points/pz568lga9-1731424993732.jpg?plan=h160",
+      "ep": 6,
+      "s": 1171,
+      "geo": [
+        35.7872,
+        139.709
+      ]
+    },
+    {
+      "id": "pzsdacyb0",
+      "name": "新宿駅南口",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/909/points/pzsdacyb0-1731475488522.jpg?plan=h160",
+      "ep": 9,
+      "s": 246,
+      "geo": [
+        35.6894,
+        139.7006
+      ]
+    },
+    {
+      "id": "pzs9zohl7",
+      "name": "新宿駅南口  JRで案内Information 旁",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/909/points/pzs9zohl7-1731475343428.jpg?plan=h160",
+      "ep": 9,
+      "s": 266,
+      "geo": [
+        35.6893,
+        139.7004
+      ]
+    },
+    {
+      "id": "pzriaijcp",
+      "name": "焼鳥居酒屋ビッグ 上板橋店",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/909/points/pzriaijcp-1731473690465.jpg?plan=h160",
+      "ep": 14,
+      "s": 1009,
+      "geo": [
+        35.7634,
+        139.6772
+      ]
+    },
+    {
+      "id": "pzrfwdg74",
+      "name": "きらぼし銀行 上板橋支店",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/909/points/pzrfwdg74-1731473471646.jpg?plan=h160",
+      "ep": 14,
+      "s": 1020,
+      "geo": [
+        35.764,
+        139.6769
+      ]
+    },
+    {
+      "id": "pz50mlxyg",
+      "name": "ダイアパレス北赤羽",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/909/points/pz50mlxyg-1731424658894.jpg?plan=h160",
+      "ep": 14,
+      "s": 1073,
+      "geo": [
+        35.7879,
+        139.7089
+      ]
+    }
+  ],
+  "pointsLength": 34,
+  "imagesLength": 32,
+  "local_id": 54
+}

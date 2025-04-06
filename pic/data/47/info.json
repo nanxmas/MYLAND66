@@ -1,0 +1,128 @@
+{
+  "id": 876,
+  "title": "CLANNAD 〜AFTER STORY〜",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/47/images/876.jpg",
+  "color": "#1c1c39",
+  "geo": [
+    38.153818497149956,
+    138.62222499999996
+  ],
+  "zoom": 5.405,
+  "modified": 1742477491295,
+  "litePoints": [
+    {
+      "id": "5c4dgq9n1",
+      "name": "陸奥横浜駅１",
+      "image": "https://image.anitabi.cn/points/51/5c4dgq9n1_1673198713404.jpg?plan=h160",
+      "ep": 22,
+      "s": 811,
+      "geo": [
+        41.0866,
+        141.2496
+      ]
+    },
+    {
+      "id": "5c4dgq9td",
+      "name": "陸奥横浜駅２",
+      "image": "https://image.anitabi.cn/points/51/5c4dgq9td_1673198714602.jpg?plan=h160",
+      "ep": 17,
+      "s": 1442,
+      "geo": [
+        41.0861,
+        141.2492
+      ]
+    },
+    {
+      "id": "5c4dgq9e8",
+      "name": "陸奥横浜駅３",
+      "image": "https://image.anitabi.cn/points/51/5c4dgq9e8_1673198715473.jpg?plan=h160",
+      "ep": 18,
+      "s": 423,
+      "geo": [
+        41.0858,
+        141.2494
+      ]
+    },
+    {
+      "id": "5c4dgq9sm",
+      "name": "陸奥横浜駅４",
+      "image": "https://image.anitabi.cn/points/51/5c4dgq9sm_1673198716314.jpg?plan=h160",
+      "ep": 22,
+      "s": 808,
+      "geo": [
+        41.0862,
+        141.2498
+      ]
+    },
+    {
+      "id": "5c4dgq9vd",
+      "name": "陸奥横浜駅５",
+      "image": "https://image.anitabi.cn/points/51/5c4dgq9vd_1673198717161.jpg?plan=h160",
+      "ep": 18,
+      "s": 425,
+      "geo": [
+        41.086,
+        141.2495
+      ]
+    },
+    {
+      "id": "5c4dgq9e6",
+      "name": "陸奥横浜駅6",
+      "image": "https://image.anitabi.cn/points/51/5c4dgq9e6_1673198718480.jpg?plan=h160",
+      "ep": 18,
+      "s": 437,
+      "geo": [
+        41.086,
+        141.2496
+      ]
+    },
+    {
+      "id": "5c4dgq9cg",
+      "name": "大湊駅",
+      "image": "https://image.anitabi.cn/points/51/5c4dgq9cg_1673198719742.jpg?plan=h160",
+      "ep": 17,
+      "s": 1441,
+      "geo": [
+        41.2803,
+        141.1615
+      ]
+    },
+    {
+      "id": "5c4dgq9s3",
+      "name": "菜の花畑",
+      "image": "https://image.anitabi.cn/points/51/5c4dgq9s3_1673198720593.jpg?plan=h160",
+      "ep": 23,
+      "s": 1410,
+      "geo": [
+        41.1159,
+        141.2727
+      ]
+    },
+    {
+      "id": "5c4dgq9yz",
+      "name": "竜飛崎3",
+      "image": "https://image.anitabi.cn/points/51/5c4dgq9yz_1673198723185.jpg?plan=h160",
+      "ep": 18,
+      "s": 755,
+      "geo": [
+        41.2592,
+        140.3425
+      ]
+    },
+    {
+      "id": "5c4dgq9pa",
+      "name": "竜飛崎4",
+      "image": "https://image.anitabi.cn/points/51/5c4dgq9pa_1673198724024.jpg?plan=h160",
+      "ep": 24,
+      "s": 1098,
+      "geo": [
+        41.2586,
+        140.3426
+      ]
+    }
+  ],
+  "pointsLength": 45,
+  "imagesLength": 45,
+  "local_id": 47
+}

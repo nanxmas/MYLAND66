@@ -1,0 +1,53 @@
+{
+  "id": 885,
+  "cn": "食灵-零-",
+  "title": "喰霊-零-",
+  "cover": "https://image.xinu.ink/pic/data/50/images/885.jpg",
+  "color": "#aa9cb8",
+  "cp": "[喰霊-零-]",
+  "geo": [
+    35.997361,
+    139.811427
+  ],
+  "modified": 1719459434281,
+  "litePoints": [
+    {
+      "id": "lqf55nld0",
+      "cn": "首都圈外郭放水路",
+      "name": "地底​探険​ミュージアム​龍Q館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/885/points/lqf55nld0-1719457501120.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.9972,
+        139.8117
+      ]
+    },
+    {
+      "id": "kpx6oufsu",
+      "name": "めがね橋",
+      "geo": [
+        36.3581,
+        138.6978
+      ]
+    },
+    {
+      "id": "kpx6oufnc",
+      "name": "大谷資料館",
+      "geo": [
+        36.5999,
+        139.8246
+      ]
+    },
+    {
+      "id": "kpx6oufsv",
+      "name": "殺生石",
+      "geo": [
+        37.1014,
+        139.9989
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 1,
+  "local_id": 50
+}

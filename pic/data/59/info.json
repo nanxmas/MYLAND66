@@ -1,0 +1,120 @@
+{
+  "id": 1014,
+  "cn": "魔法禁书目录",
+  "title": "とある魔術の禁書目録",
+  "city": "立川市",
+  "cover": "https://image.xinu.ink/pic/data/59/images/1014.jpg",
+  "color": "#9edaff",
+  "cp": "PROJECT-INDEX",
+  "geo": [
+    35.54369675592652,
+    139.68182810440533
+  ],
+  "zoom": 10.485,
+  "modified": 1735005356898,
+  "litePoints": [
+    {
+      "id": "o4kd3s4f2",
+      "name": "Cocolia Tama Center",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/1014/points/o4kd3s4f2-1726208225446.jpg?plan=h160",
+      "ep": 2,
+      "s": 1008,
+      "geo": [
+        35.6226,
+        139.4243
+      ]
+    },
+    {
+      "id": "qwwy68wl1",
+      "name": "立川北口",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/1014/points/qwwy68wl1-1734071690097.jpg?plan=h160",
+      "ep": 1,
+      "s": 1207,
+      "geo": [
+        35.6986,
+        139.4131
+      ]
+    },
+    {
+      "id": "qwxk580r1",
+      "name": "ISETAN Tachikawa",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/1014/points/qwxk580r1-1734073000227.jpg?plan=h160",
+      "ep": 4,
+      "s": 977,
+      "geo": [
+        35.699,
+        139.4133
+      ]
+    },
+    {
+      "id": "r801zxn1r",
+      "name": "立川警察署 立川駅北口交番 旁",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/1014/points/r801zxn1r-1734940272984.jpg?plan=h160",
+      "ep": 20,
+      "s": 1332,
+      "geo": [
+        35.6986,
+        139.4139
+      ]
+    },
+    {
+      "id": "r80b5ge1t",
+      "name": "ココリア多摩センター 旁",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/1014/points/r80b5ge1t-1734940817364.jpg?plan=h160",
+      "ep": 21,
+      "s": 1329,
+      "geo": [
+        35.6228,
+        139.4244
+      ]
+    },
+    {
+      "id": "n81cc02nu",
+      "name": "丸子橋",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/1014/points/n81cc02nu-1723658623502.jpg?plan=h160",
+      "geo": [
+        35.5854,
+        139.6689
+      ]
+    },
+    {
+      "id": "n81dkdfyi",
+      "name": "川崎アゼリア",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/1014/points/n81dkdfyi-1723658687533.jpg?plan=h160",
+      "geo": [
+        35.5312,
+        139.6971
+      ]
+    },
+    {
+      "id": "qwyulpcwx",
+      "name": "【联动贩卖机】",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/1014/points/qwyulpcwx-1734075826771.jpg?plan=h160",
+      "geo": [
+        35.6989,
+        139.4116
+      ]
+    },
+    {
+      "id": "qwz0hbftv",
+      "name": "【联动贩卖机】立川伊勢屋",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/1014/points/qwz0hbftv-1734076072703.jpg?plan=h160",
+      "geo": [
+        35.703,
+        139.4166
+      ]
+    },
+    {
+      "id": "qwze23t8i",
+      "name": "【联动贩卖机】鮨 みやした",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/1014/points/qwze23t8i-1734076909342.jpg?plan=h160",
+      "geo": [
+        35.7028,
+        139.415
+      ]
+    }
+  ],
+  "pointsLength": 13,
+  "imagesLength": 13,
+  "local_id": 59
+}

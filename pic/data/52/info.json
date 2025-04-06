@@ -1,0 +1,136 @@
+{
+  "id": 899,
+  "cn": "名侦探柯南",
+  "title": "名探偵コナン",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/52/images/899.jpg",
+  "color": "#da3732",
+  "geo": [
+    36.98767639504378,
+    72.12301876947672
+  ],
+  "zoom": 1.113,
+  "modified": 1740032780557,
+  "litePoints": [
+    {
+      "id": "ejf7l82jg",
+      "cn": "清水舞台",
+      "name": "清水の舞台",
+      "image": "https://image.anitabi.cn/user/0/bangumi/899/points/ejf7l82jg-1722927922746.jpg?plan=h160",
+      "ep": 929,
+      "s": 201,
+      "geo": [
+        34.9947,
+        135.7851
+      ]
+    },
+    {
+      "id": "si5wwnioi",
+      "name": "天王寺動物園",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/899/points/si5wwnioi-1738557767498.jpg?plan=h160",
+      "ep": 124,
+      "s": 167,
+      "geo": [
+        34.6513,
+        135.5103
+      ]
+    },
+    {
+      "id": "si61u4gce",
+      "cn": "大阪巨蛋",
+      "name": "京セラドーム大阪",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/899/points/si61u4gce-1738558070412.jpg?plan=h160",
+      "ep": 124,
+      "s": 170,
+      "geo": [
+        34.6686,
+        135.4771
+      ]
+    },
+    {
+      "id": "m758xi1a7",
+      "cn": "通天阁",
+      "name": "通天阁",
+      "image": "https://image.anitabi.cn/user/0/bangumi/899/points/m758xi1a7-1720767694027.jpg?plan=h160",
+      "ep": 124,
+      "s": 701,
+      "geo": [
+        34.6511,
+        135.5057
+      ]
+    },
+    {
+      "id": "si6pbdg2e",
+      "name": "箕面大滝",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/899/points/si6pbdg2e-1738559476635.jpg?plan=h160",
+      "ep": 125,
+      "s": 560,
+      "geo": [
+        34.8537,
+        135.4719
+      ]
+    },
+    {
+      "id": "ojap5y329",
+      "cn": "道顿堀格力高广告牌",
+      "name": "グリコサイン",
+      "image": "https://image.anitabi.cn/user/0/bangumi/899/points/ojap5y329-1727362167528.jpg?plan=h160",
+      "ep": 236,
+      "s": 265,
+      "geo": [
+        34.6688,
+        135.5015
+      ]
+    },
+    {
+      "id": "ptgpheztn",
+      "cn": "下关外浜町防波堤灯台",
+      "name": "あるかぽーと​東​防波堤​灯台",
+      "image": "https://image.anitabi.cn/user/0/bangumi/899/points/ptgpheztn-1730980707986.jpg?plan=h160",
+      "s": 1449,
+      "geo": [
+        33.955,
+        130.9441
+      ]
+    },
+    {
+      "id": "ntwa82rjq",
+      "cn": "福尔摩斯博物馆",
+      "name": "The Sherlock Holmes Museum and shop",
+      "image": "https://image.anitabi.cn/user/0/bangumi/899/points/ntwa82rjq-1725371726392.jpg?plan=h160",
+      "ep": 667,
+      "s": 582,
+      "geo": [
+        51.5237,
+        -0.1586
+      ]
+    },
+    {
+      "id": "nodo0vws9",
+      "cn": "大本钟",
+      "name": "big ben",
+      "image": "https://image.anitabi.cn/user/0/bangumi/899/points/nodo0vws9-1724939728623.jpg?plan=h160",
+      "ep": 672,
+      "s": 1190,
+      "geo": [
+        51.5007,
+        -0.1246
+      ]
+    },
+    {
+      "id": "fue3vpqpl",
+      "cn": "汤田温泉",
+      "name": "湯田温泉",
+      "image": "https://image.anitabi.cn/user/0/bangumi/899/points/fue3vpqpl-1702841551033.jpg?plan=h160",
+      "ep": 891,
+      "s": 574,
+      "geo": [
+        34.1597,
+        131.4601
+      ]
+    }
+  ],
+  "pointsLength": 29,
+  "imagesLength": 29,
+  "local_id": 52
+}

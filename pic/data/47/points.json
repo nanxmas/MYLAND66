@@ -1,0 +1,439 @@
+[
+  {
+    "id": "5c4dgq9n1",
+    "name": "陸奥横浜駅１",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgq9n1_1673198713404.jpg",
+    "ep": 22,
+    "s": 811,
+    "geo": [
+      41.0866,
+      141.2496
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=41.086601%2C141.249659&z=17"
+  },
+  {
+    "id": "5c4dgq9td",
+    "name": "陸奥横浜駅２",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgq9td_1673198714602.jpg",
+    "ep": 17,
+    "s": 1442,
+    "geo": [
+      41.0861,
+      141.2492
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=41.086108%2C141.249212&z=17"
+  },
+  {
+    "id": "5c4dgq9e8",
+    "name": "陸奥横浜駅３",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgq9e8_1673198715473.jpg",
+    "ep": 18,
+    "s": 423,
+    "geo": [
+      41.0858,
+      141.2494
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=41.085869%2C141.249472&z=17"
+  },
+  {
+    "id": "5c4dgq9sm",
+    "name": "陸奥横浜駅４",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgq9sm_1673198716314.jpg",
+    "ep": 22,
+    "s": 808,
+    "geo": [
+      41.0862,
+      141.2498
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=41.086276%2C141.249893&z=17"
+  },
+  {
+    "id": "5c4dgq9vd",
+    "name": "陸奥横浜駅５",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgq9vd_1673198717161.jpg",
+    "ep": 18,
+    "s": 425,
+    "geo": [
+      41.086,
+      141.2495
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=41.086092%2C141.249552&z=17"
+  },
+  {
+    "id": "5c4dgq9e6",
+    "name": "陸奥横浜駅6",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgq9e6_1673198718480.jpg",
+    "ep": 18,
+    "s": 437,
+    "geo": [
+      41.086,
+      141.2496
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=41.086086%2C141.249613&z=17"
+  },
+  {
+    "id": "5c4dgq9cg",
+    "name": "大湊駅",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgq9cg_1673198719742.jpg",
+    "ep": 17,
+    "s": 1441,
+    "geo": [
+      41.2803,
+      141.1615
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=41.280325%2C141.161573&z=17"
+  },
+  {
+    "id": "5c4dgq9s3",
+    "name": "菜の花畑",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgq9s3_1673198720593.jpg",
+    "ep": 23,
+    "s": 1410,
+    "geo": [
+      41.1159,
+      141.2727
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=41.115965%2C141.272792&z=17"
+  },
+  {
+    "id": "5c4dgq9yz",
+    "name": "竜飛崎3",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgq9yz_1673198723185.jpg",
+    "ep": 18,
+    "s": 755,
+    "geo": [
+      41.2592,
+      140.3425
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=41.259259%2C140.342579&z=17"
+  },
+  {
+    "id": "5c4dgq9pa",
+    "name": "竜飛崎4",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgq9pa_1673198724024.jpg",
+    "ep": 24,
+    "s": 1098,
+    "geo": [
+      41.2586,
+      140.3426
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=41.25861%2C140.34266&z=17"
+  },
+  {
+    "id": "5c4dgq9p7",
+    "name": "竜飛崎5",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgq9p7_1673198725326.jpg",
+    "ep": 18,
+    "s": 639,
+    "geo": [
+      41.2588,
+      140.3422
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=41.25884%2C140.342215&z=17"
+  },
+  {
+    "id": "5c4dgqa0g",
+    "name": "竜飛崎6",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgqa0g_1673198726588.jpg",
+    "ep": 18,
+    "s": 589,
+    "geo": [
+      41.2576,
+      140.3428
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=41.25765%2C140.342875&z=17"
+  },
+  {
+    "id": "5c4dgq9o1",
+    "name": "竜飛崎7",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgq9o1_1673198727922.jpg",
+    "ep": 24,
+    "s": 1103,
+    "geo": [
+      41.2588,
+      140.3419
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=41.258868%2C140.341968&z=17"
+  },
+  {
+    "id": "5c4dgq9rk",
+    "name": "竜飛崎9",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgq9rk_1673198730559.jpg",
+    "ep": 18,
+    "s": 759,
+    "geo": [
+      41.259,
+      140.3427
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=41.259029%2C140.342708&z=17"
+  },
+  {
+    "id": "5c4dgq9pd",
+    "name": "竜飛崎10",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgq9pd_1673198731967.jpg",
+    "ep": 18,
+    "s": 775,
+    "geo": [
+      41.2585,
+      140.3424
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=41.258598%2C140.342429&z=17"
+  },
+  {
+    "id": "5c4dgq9q6",
+    "name": "竜飛崎11",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgq9q6_1673198732867.jpg",
+    "ep": 18,
+    "s": 857,
+    "geo": [
+      41.2592,
+      140.3421
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=41.259283%2C140.342166&z=17"
+  },
+  {
+    "id": "5c4dgq9vq",
+    "name": "竜飛崎12",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgq9vq_1673198734112.jpg",
+    "ep": 18,
+    "s": 626,
+    "geo": [
+      41.2592,
+      140.3428
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=41.259267%2C140.342853&z=17"
+  },
+  {
+    "id": "cmaasci12",
+    "cn": "龟石楼",
+    "name": "亀石楼",
+    "image": "https://image.xinu.ink/pic/data/47/images/cmaasci12_1721973699859_cut.jpg",
+    "ep": 18,
+    "s": 311,
+    "geo": [
+      34.8873,
+      135.8133
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "jm1m130mx",
+    "name": "八戸駅",
+    "image": "https://image.xinu.ink/pic/data/47/images/jm1m130mx_1721973713211_cut.jpg",
+    "ep": 18,
+    "s": 245,
+    "geo": [
+      40.5093,
+      141.4311
+    ]
+  },
+  {
+    "id": "k5cjvptrq",
+    "cn": "松原西公园",
+    "name": "松原西公園",
+    "image": "https://image.xinu.ink/pic/data/47/images/k5cjvptrq-1714984674721.jpg",
+    "ep": 6,
+    "s": 71,
+    "geo": [
+      35.7692,
+      139.3356
+    ]
+  },
+  {
+    "id": "mjbe9p72i",
+    "cn": "小樱第二幼儿园",
+    "name": "こ​ざくら​第二​幼稚園",
+    "image": "https://image.xinu.ink/pic/data/47/images/mjbe9p72i-1721721772223.jpg",
+    "ep": 20,
+    "s": 203,
+    "geo": [
+      35.6414,
+      140.0581
+    ]
+  },
+  {
+    "id": "qa3uf9aeo",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/47/images/qa3uf9aeo_1732285956391.jpg",
+    "ep": 19,
+    "s": 589,
+    "geo": [
+      34.7741,
+      135.5063
+    ],
+    "origin": "【图片】CL超硬核圣地巡礼（大阪篇）【clannad吧】_百度贴吧",
+    "originLink": "【图片】CL超硬核圣地巡礼（大阪篇）【clannad吧】_百度贴吧"
+  },
+  {
+    "id": "qa41z1d3c",
+    "name": "レオパレスF2",
+    "image": "https://image.xinu.ink/pic/data/47/images/qa41z1d3c_1732285944324.jpg",
+    "ep": 10,
+    "s": 926,
+    "geo": [
+      34.7755,
+      135.506
+    ],
+    "origin": "【图片】CL超硬核圣地巡礼（大阪篇）【clannad吧】_百度贴吧",
+    "originLink": "https://tieba.baidu.com/p/8406880971"
+  },
+  {
+    "id": "qz2o2urgy",
+    "cn": "有纪宁线决斗的地方",
+    "name": "有纪宁线决斗的地方",
+    "image": "https://image.xinu.ink/pic/data/47/images/qz2o2urgy-1734240743533.jpg",
+    "ep": 8,
+    "s": 752,
+    "geo": [
+      34.8824,
+      135.71
+    ]
+  },
+  {
+    "id": "qz22r37y6",
+    "cn": "ED的桥洞",
+    "name": "ED的桥洞",
+    "image": "https://image.xinu.ink/pic/data/47/images/qz22r37y6-1734239453247.jpg",
+    "ep": 1,
+    "s": 1350,
+    "geo": [
+      34.8859,
+      135.7038
+    ]
+  },
+  {
+    "id": "qz2itj25f",
+    "cn": "冈崎汐的命名处",
+    "name": "冈崎汐的命名处",
+    "image": "https://image.xinu.ink/pic/data/47/images/qz2itj25f-1734240357227.jpg",
+    "ep": 15,
+    "s": 1254,
+    "geo": [
+      34.8824,
+      135.7102
+    ]
+  },
+  {
+    "id": "qz2vdm4c9",
+    "cn": "朋也和渚一起回家的地方",
+    "name": "朋也和渚一起回家的地方",
+    "image": "https://image.xinu.ink/pic/data/47/images/qz2vdm4c9-1734241112775.jpg",
+    "ep": 14,
+    "s": 454,
+    "geo": [
+      34.8801,
+      135.7171
+    ]
+  },
+  {
+    "id": "qz18j5p8s",
+    "cn": "大阪拘留所",
+    "name": "大阪拘置所",
+    "image": "https://image.xinu.ink/pic/data/47/images/qz18j5p8s-1734237784945.jpg",
+    "ep": 12,
+    "s": 1151,
+    "geo": [
+      34.7139,
+      135.5226
+    ]
+  },
+  {
+    "id": "tw3ktwxyh",
+    "cn": "朋也和渚的家",
+    "name": "朋也和渚的家",
+    "image": "https://image.xinu.ink/pic/data/47/images/tw3ktwxyh-1742470964266.jpg",
+    "ep": "10",
+    "s": "15:27",
+    "geo": [
+      34.714,
+      135.5277
+    ]
+  },
+  {
+    "id": "5c4dgq9jf",
+    "name": "竜飛崎1",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgq9jf_1673198721426.jpg",
+    "ep": 18,
+    "geo": [
+      41.259,
+      140.3424
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=41.259038%2C140.342494&z=17"
+  },
+  {
+    "id": "5c4dgq9st",
+    "name": "竜飛崎2",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgq9st_1673198722355.jpg",
+    "ep": 18,
+    "s": "",
+    "geo": [
+      41.259,
+      140.3421
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=41.259045%2C140.342177&z=17"
+  },
+  {
+    "id": "s34waql8p",
+    "cn": "千里山东",
+    "name": "千里山东",
+    "image": "https://image.xinu.ink/pic/data/47/images/s34waql8p-1737380087231.jpg",
+    "ep": 21,
+    "geo": [
+      34.7751,
+      135.506
+    ]
+  },
+  {
+    "id": "5c4dgq9cv",
+    "name": "竜飛崎8",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgq9cv_1673198729248.jpg",
+    "geo": [
+      41.2591,
+      140.342
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=41.25915%2C140.342032&z=17"
+  },
+  {
+    "id": "qz28wccer",
+    "cn": "铁道桥",
+    "name": "铁道桥",
+    "image": "https://image.xinu.ink/pic/data/47/images/qz28wccer-1734239837874.jpg",
+    "ep": null,
+    "geo": [
+      34.8857,
+      135.7043
+    ]
+  },
+  {
+    "id": "s351vrj9d",
+    "cn": "山手町",
+    "name": "山手町",
+    "image": "https://image.xinu.ink/pic/data/47/images/s351vrj9d-1737380451792.jpg",
+    "ep": null,
+    "geo": [
+      34.7717,
+      135.5123
+    ]
+  }
+]

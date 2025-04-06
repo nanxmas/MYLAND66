@@ -1,0 +1,120 @@
+{
+  "id": 955,
+  "cn": "428 ～被封锁的涩谷～",
+  "title": "428 ～封鎖された渋谷で～",
+  "city": "涩谷区",
+  "cover": "https://image.xinu.ink/pic/data/56/images/955.jpg",
+  "color": "#1b170d",
+  "geo": [
+    35.654158816734736,
+    139.70073144425578
+  ],
+  "zoom": 14.554,
+  "modified": 1725828620186,
+  "litePoints": [
+    {
+      "id": "kk08iwrdp",
+      "cn": "南平台",
+      "name": "二葉ビル",
+      "image": "https://image.anitabi.cn/user/0/bangumi/955/points/kk08iwrdp-1716133538531.jpg?plan=h160",
+      "geo": [
+        35.6566,
+        139.6977
+      ]
+    },
+    {
+      "id": "kk0h51idw",
+      "cn": "涩谷全向十字路口",
+      "name": "涩谷全向十字路口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/955/points/kk0h51idw-1716133774904.jpg?plan=h160",
+      "geo": [
+        35.6594,
+        139.7005
+      ]
+    },
+    {
+      "id": "kk0ms14mh",
+      "cn": "宮下第1歩道橋",
+      "name": "宮下第1歩道橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/955/points/kk0ms14mh-1716134106124.jpg?plan=h160",
+      "geo": [
+        35.6613,
+        139.7021
+      ]
+    },
+    {
+      "id": "kkpy29ycg",
+      "cn": "神泉横断地下歩道",
+      "name": "神泉横断地下歩道",
+      "image": "https://image.anitabi.cn/user/0/bangumi/955/points/kkpy29ycg-1716189426917.jpg?plan=h160",
+      "geo": [
+        35.655,
+        139.6946
+      ]
+    },
+    {
+      "id": "kkq884kox",
+      "cn": "爆炸点",
+      "name": "爆炸点",
+      "image": "https://image.anitabi.cn/user/0/bangumi/955/points/kkq884kox-1716189918137.jpg?plan=h160",
+      "geo": [
+        35.6624,
+        139.6992
+      ]
+    },
+    {
+      "id": "kkqof7efd",
+      "cn": "忠犬八公像旁",
+      "name": "忠犬八公像旁",
+      "image": "https://image.anitabi.cn/user/0/bangumi/955/points/kkqof7efd-1716190794804.jpg?plan=h160",
+      "s": 1200,
+      "geo": [
+        35.659,
+        139.7007
+      ]
+    },
+    {
+      "id": "kkqs50ncr",
+      "cn": "忠犬八公像",
+      "name": "忠犬八公像",
+      "image": "https://image.anitabi.cn/user/0/bangumi/955/points/kkqs50ncr-1716191017804.jpg?plan=h160",
+      "geo": [
+        35.659,
+        139.7006
+      ]
+    },
+    {
+      "id": "kkr0omdaa",
+      "cn": "远藤电器店",
+      "name": "远藤电器店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/955/points/kkr0omdaa-1716191534630.jpg?plan=h160",
+      "geo": [
+        35.6577,
+        139.6963
+      ]
+    },
+    {
+      "id": "kkrnc2uuu",
+      "cn": "劳特累克咖啡店",
+      "name": "喫茶ロートレック",
+      "image": "https://image.anitabi.cn/user/0/bangumi/955/points/kkrnc2uuu-1716192905420.jpg?plan=h160",
+      "geo": [
+        35.6591,
+        139.6992
+      ]
+    },
+    {
+      "id": "kkrsx0tgk",
+      "cn": "天堂出版社",
+      "name": "天堂出版社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/955/points/kkrsx0tgk-1716193336900.jpg?plan=h160",
+      "geo": [
+        35.6609,
+        139.7056
+      ]
+    }
+  ],
+  "pointsLength": 26,
+  "imagesLength": 26,
+  "local_id": 56
+}

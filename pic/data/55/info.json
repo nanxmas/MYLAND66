@@ -1,0 +1,137 @@
+{
+  "id": 927,
+  "cn": "秒速5厘米",
+  "title": "秒速5センチメートル",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/55/images/927.jpg",
+  "color": "#735ac4",
+  "cp": "CoMix Wave Films",
+  "geo": [
+    36.633162,
+    138.977051
+  ],
+  "zoom": 5,
+  "modified": 1730992792762,
+  "litePoints": [
+    {
+      "id": "ndhb37t83",
+      "cn": "JR小山站 9号线 站长事务室旁",
+      "name": "JR小山駅　9番線　駅長事務室横",
+      "image": "https://image.anitabi.cn/points/927/ndhb37t83_1724085186111.jpg?plan=h160",
+      "ep": 5,
+      "s": 734,
+      "geo": [
+        36.3131,
+        139.8064
+      ]
+    },
+    {
+      "id": "ndh3qnxxd",
+      "name": "JR小山駅　北側跨線橋",
+      "image": "https://image.anitabi.cn/points/927/ndh3qnxxd_1724084864897.jpg?plan=h160",
+      "ep": 5,
+      "s": 927,
+      "geo": [
+        36.3131,
+        139.8065
+      ]
+    },
+    {
+      "id": "ndh773h8n",
+      "name": "JR小山駅　待合広場",
+      "image": "https://image.anitabi.cn/points/927/ndh773h8n_1724084942807.jpg?plan=h160",
+      "ep": 5,
+      "s": 932,
+      "geo": [
+        36.3133,
+        139.8064
+      ]
+    },
+    {
+      "id": "ndh7macyt",
+      "name": "JR小山駅　新幹線改札への通路",
+      "image": "https://image.anitabi.cn/points/927/ndh7macyt_1724085013437.jpg?plan=h160",
+      "ep": 5,
+      "s": 935,
+      "geo": [
+        36.3134,
+        139.8064
+      ]
+    },
+    {
+      "id": "n8zfwusaw",
+      "cn": "JR小山站　6号线站台楼梯",
+      "name": "JR小山駅　6番線ホーム階段",
+      "image": "https://image.anitabi.cn/points/927/n8zfwusaw_1723732890376.jpg?plan=h160",
+      "ep": 5,
+      "s": 943,
+      "geo": [
+        36.3139,
+        139.8065
+      ]
+    },
+    {
+      "id": "n8zbxm4jr",
+      "cn": "JR小山駅　6・8站台　时刻表・时钟",
+      "name": "JR小山駅　6・8番線ホーム　時刻表・時計",
+      "image": "https://image.anitabi.cn/points/927/n8zbxm4jr_1723732670566.jpg?plan=h160",
+      "ep": 5,
+      "s": 948,
+      "geo": [
+        36.3141,
+        139.8066
+      ]
+    },
+    {
+      "id": "n8zdubkdf",
+      "cn": "JR小山站　6・8站台(1)",
+      "name": "JR小山駅　6・8番線ホーム(1)",
+      "image": "https://image.anitabi.cn/points/927/n8zdubkdf_1723732740838.jpg?plan=h160",
+      "ep": 5,
+      "s": 951,
+      "geo": [
+        36.314,
+        139.8066
+      ]
+    },
+    {
+      "id": "n7s90dagy",
+      "cn": "JR小山站　外观",
+      "name": "JR小山駅　外観",
+      "image": "https://image.anitabi.cn/points/927/n7s90dagy_1723638813303.jpg?plan=h160",
+      "ep": 5,
+      "s": 960,
+      "geo": [
+        36.3133,
+        139.8079
+      ]
+    },
+    {
+      "id": "n7rzopenl",
+      "cn": "小山站附近的公寓",
+      "name": "小山近くのマンション",
+      "image": "https://image.anitabi.cn/points/927/n7rzopenl_1723638336371.jpg?plan=h160",
+      "ep": 1,
+      "s": 965,
+      "geo": [
+        36.315,
+        139.8085
+      ]
+    },
+    {
+      "id": "n7s306bbl",
+      "cn": "JR小山站 站内的铁塔",
+      "name": "JR小山駅　構内の鉄塔",
+      "image": "https://image.anitabi.cn/points/927/n7s306bbl_1723638457348.jpg?plan=h160",
+      "ep": 1,
+      "s": 968,
+      "geo": [
+        36.3146,
+        139.8082
+      ]
+    }
+  ],
+  "pointsLength": 255,
+  "imagesLength": 255,
+  "local_id": 55
+}

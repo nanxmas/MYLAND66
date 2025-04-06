@@ -1,0 +1,128 @@
+[
+  {
+    "id": "o4kd3s4f2",
+    "name": "Cocolia Tama Center",
+    "image": "https://image.xinu.ink/pic/data/59/images/o4kd3s4f2-1726208225446.jpg",
+    "ep": 2,
+    "s": 1008,
+    "geo": [
+      35.6226,
+      139.4243
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qwwy68wl1",
+    "name": "立川北口",
+    "image": "https://image.xinu.ink/pic/data/59/images/qwwy68wl1-1734071690097.jpg",
+    "ep": 1,
+    "s": 1207,
+    "geo": [
+      35.6986,
+      139.4131
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qwxk580r1",
+    "name": "ISETAN Tachikawa",
+    "image": "https://image.xinu.ink/pic/data/59/images/qwxk580r1-1734073000227.jpg",
+    "ep": 4,
+    "s": 977,
+    "geo": [
+      35.699,
+      139.4133
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "r801zxn1r",
+    "name": "立川警察署 立川駅北口交番 旁",
+    "image": "https://image.xinu.ink/pic/data/59/images/r801zxn1r-1734940272984.jpg",
+    "ep": 20,
+    "s": 1332,
+    "geo": [
+      35.6986,
+      139.4139
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "r80b5ge1t",
+    "name": "ココリア多摩センター 旁",
+    "image": "https://image.xinu.ink/pic/data/59/images/r80b5ge1t-1734940817364.jpg",
+    "ep": 21,
+    "s": 1329,
+    "geo": [
+      35.6228,
+      139.4244
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n81cc02nu",
+    "name": "丸子橋",
+    "image": "https://image.xinu.ink/pic/data/59/images/n81cc02nu-1723658623502.jpg",
+    "ep": null,
+    "geo": [
+      35.5854,
+      139.6689
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n81dkdfyi",
+    "name": "川崎アゼリア",
+    "image": "https://image.xinu.ink/pic/data/59/images/n81dkdfyi-1723658687533.jpg",
+    "ep": null,
+    "geo": [
+      35.5312,
+      139.6971
+    ],
+    "origin": "Anitabi@Zyglisfer",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qwyulpcwx",
+    "name": "【联动贩卖机】",
+    "image": "https://image.xinu.ink/pic/data/59/images/qwyulpcwx-1734075826771.jpg",
+    "ep": "",
+    "s": "",
+    "geo": [
+      35.6989,
+      139.4116
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qwz0hbftv",
+    "name": "【联动贩卖机】立川伊勢屋",
+    "image": "https://image.xinu.ink/pic/data/59/images/qwz0hbftv-1734076072703.jpg",
+    "ep": null,
+    "geo": [
+      35.703,
+      139.4166
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qwze23t8i",
+    "name": "【联动贩卖机】鮨 みやした",
+    "image": "https://image.xinu.ink/pic/data/59/images/qwze23t8i-1734076909342.jpg",
+    "ep": null,
+    "geo": [
+      35.7028,
+      139.415
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  }
+]

@@ -1,0 +1,109 @@
+{
+  "id": 902,
+  "cn": "神薙",
+  "title": "かんなぎ",
+  "city": "多贺城市",
+  "cover": "https://image.xinu.ink/pic/data/53/images/902.jpg",
+  "color": "#aa8055",
+  "geo": [
+    38.305025,
+    140.982742
+  ],
+  "zoom": 11,
+  "modified": 1731488739838,
+  "litePoints": [
+    {
+      "id": "kpx6ouqr6",
+      "name": "多賀城高校",
+      "image": "https://image.anitabi.cn/points/902/kpx6ouqr6_1731487086212.jpg?plan=h160",
+      "geo": [
+        38.3032,
+        141.027
+      ]
+    },
+    {
+      "id": "kpx6oumgu",
+      "name": "鼻節神社",
+      "image": "https://image.anitabi.cn/points/902/kpx6oumgu_1731487219084.jpg?plan=h160",
+      "geo": [
+        38.296,
+        141.0848
+      ]
+    },
+    {
+      "id": "pzxtwwgcm",
+      "name": "鼻節神社 階段",
+      "image": "https://image.anitabi.cn/points/902/pzxtwwgcm_1731487497638.jpg?plan=h160",
+      "geo": [
+        38.2958,
+        141.0848
+      ]
+    },
+    {
+      "id": "pzy4aavrq",
+      "name": "鼻節神社 神道",
+      "image": "https://image.anitabi.cn/points/902/pzy4aavrq_1731488032586.jpg?plan=h160",
+      "geo": [
+        38.2958,
+        141.0848
+      ]
+    },
+    {
+      "id": "kpx6ouu4z",
+      "name": "陸前高砂駅前",
+      "image": "https://image.anitabi.cn/points/902/kpx6ouu4z_1731485123267.jpg?plan=h160",
+      "geo": [
+        38.2732,
+        140.968
+      ]
+    },
+    {
+      "id": "kpx6oumy1",
+      "name": "陸前高砂駅",
+      "image": "https://image.anitabi.cn/points/902/kpx6oumy1_1731485072172.jpg?plan=h160",
+      "geo": [
+        38.2738,
+        140.9686
+      ]
+    },
+    {
+      "id": "kpx6outty",
+      "name": "陸前高砂駅西側踏切",
+      "image": "https://image.anitabi.cn/points/902/kpx6outty_1731485000988.jpg?plan=h160",
+      "geo": [
+        38.2731,
+        140.9666
+      ]
+    },
+    {
+      "id": "kpx6ouo38",
+      "name": "駅東側踏切（ひろとクリニック看板）",
+      "image": "https://image.anitabi.cn/points/902/kpx6ouo38_1731485012796.jpg?plan=h160",
+      "geo": [
+        38.2741,
+        140.9694
+      ]
+    },
+    {
+      "id": "kpx6ouq2j",
+      "name": "福室半在家公園",
+      "image": "https://image.anitabi.cn/points/902/kpx6ouq2j_1731486083341.jpg?plan=h160",
+      "geo": [
+        38.2744,
+        140.9684
+      ]
+    },
+    {
+      "id": "kpx6ouqpd",
+      "name": "陣宅",
+      "image": "https://image.anitabi.cn/points/902/kpx6ouqpd_1731486256197.jpg?plan=h160",
+      "geo": [
+        38.2771,
+        140.9684
+      ]
+    }
+  ],
+  "pointsLength": 34,
+  "imagesLength": 34,
+  "local_id": 53
+}
