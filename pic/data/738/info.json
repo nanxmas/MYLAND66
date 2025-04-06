@@ -1,0 +1,66 @@
+{
+  "id": 320493,
+  "cn": "天使降临到了我身边！Precious Friends",
+  "title": "私に天使が舞い降りた！プレシャス・フレンズ",
+  "cover": "https://image.xinu.ink/pic/data/738/images/320493_mMG4Z.jpg",
+  "cp": "わたてん",
+  "modified": 1729431567479,
+  "litePoints": [
+    {
+      "id": "p9mmql5j2",
+      "cn": "西武秩父站",
+      "name": "西武秩父駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/320493/points/p9mmql5j2-1729425601172.jpg?plan=h160",
+      "ep": 1,
+      "s": 650,
+      "geo": [
+        35.9899,
+        139.0838
+      ]
+    },
+    {
+      "id": "nkofq2pqq",
+      "cn": "长瀞站",
+      "name": "長瀞駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/320493/points/nkofq2pqq-1724649319279.jpg?plan=h160",
+      "s": 109,
+      "geo": [
+        36.095,
+        139.1122
+      ]
+    },
+    {
+      "id": "p9mtor4a3",
+      "cn": "宝登山小动物园",
+      "name": "宝登山小動物園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/320493/points/p9mtor4a3-1729425981731.jpg?plan=h160",
+      "geo": [
+        36.0944,
+        139.092
+      ]
+    },
+    {
+      "id": "p9mow4mqa",
+      "cn": "御花畑站",
+      "name": "御花畑駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/320493/points/p9mow4mqa-1729425696243.jpg?plan=h160",
+      "geo": [
+        35.9923,
+        139.0836
+      ]
+    },
+    {
+      "id": "p9mqfsaso",
+      "cn": "长瀞",
+      "name": "長瀞",
+      "image": "https://image.anitabi.cn/user/0/bangumi/320493/points/p9mqfsaso-1729425784269.jpg?plan=h160",
+      "geo": [
+        36.0949,
+        139.115
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 738
+}

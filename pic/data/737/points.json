@@ -1,0 +1,38 @@
+[
+  {
+    "id": "nozyzj4uc",
+    "cn": "阜新南站",
+    "name": "阜新站",
+    "image": "https://image.xinu.ink/pic/data/737/images/nozyzj4uc_1725000097215_cut.jpg",
+    "ep": 1,
+    "s": 330,
+    "geo": [
+      41.9851,
+      121.6327
+    ]
+  },
+  {
+    "id": "np0o4sti4",
+    "cn": "人民空军东北老航校旧址",
+    "name": "人民空军东北老航校旧址",
+    "image": "https://image.xinu.ink/pic/data/737/images/np0o4sti4_1725000102779_cut.jpg",
+    "ep": 12,
+    "s": 100,
+    "geo": [
+      44.5418,
+      129.5749
+    ]
+  },
+  {
+    "id": "npj2vb35n",
+    "cn": "辽宁省北镇市六台子村",
+    "name": "辽宁省北镇市六台子村",
+    "image": "https://image.xinu.ink/pic/data/737/images/npj2vb35n_1726916300443_c16v9.jpg",
+    "ep": 4,
+    "s": 150,
+    "geo": [
+      41.523,
+      121.9579
+    ]
+  }
+]

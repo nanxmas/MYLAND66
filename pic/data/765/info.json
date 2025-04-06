@@ -1,0 +1,46 @@
+{
+  "id": 333813,
+  "cn": "真 流行之神3",
+  "title": "真 流行り神３",
+  "city": "岐阜县",
+  "cover": "https://image.xinu.ink/pic/data/765/images/333813_T11Gd.jpg",
+  "color": "#e91e24",
+  "geo": [
+    35.651698000000025,
+    136.821329
+  ],
+  "zoom": 18.535,
+  "modified": 1729360896567,
+  "litePoints": [
+    {
+      "id": "p8rturpc9",
+      "name": "モネの池",
+      "image": "https://image.anitabi.cn/points/333813/p8rturpc9_1729359357377.jpg?plan=h160",
+      "geo": [
+        35.6516,
+        136.8213
+      ]
+    },
+    {
+      "id": "p8s4fcqw7",
+      "name": "さきタワー・サンクタス尼崎駅前",
+      "image": "https://image.anitabi.cn/points/333813/p8s4fcqw7_1729359400366.jpg?plan=h160",
+      "geo": [
+        34.7187,
+        135.4151
+      ]
+    },
+    {
+      "id": "p8sqy6sen",
+      "name": "松本市営葬祭センター",
+      "image": "https://image.anitabi.cn/points/333813/p8sqy6sen_1729360487694.jpg?plan=h160",
+      "geo": [
+        36.2454,
+        137.9612
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 765
+}

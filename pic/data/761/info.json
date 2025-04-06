@@ -1,0 +1,31 @@
+{
+  "id": 332261,
+  "cn": "JOJO的奇妙冒险 石之海",
+  "title": "ジョジョの奇妙な冒険 ストーンオーシャン",
+  "cover": "https://image.xinu.ink/pic/data/761/images/332261.jpg",
+  "color": "#233232",
+  "cp": "ジョジョの奇妙な冒険SO",
+  "geo": [
+    28.52474500000001,
+    -80.68192799999997
+  ],
+  "zoom": 16,
+  "modified": 1723295561636,
+  "litePoints": [
+    {
+      "id": "ieinzae95",
+      "cn": "肯尼迪航天中心参观园区",
+      "name": "ケネディ宇宙センター・ビジター・コンプレックス",
+      "image": "https://image.anitabi.cn/user/0/bangumi/332261/points/ieinzae95-1710061204392.jpg?plan=h160",
+      "ep": 35,
+      "s": 110,
+      "geo": [
+        28.5247,
+        -80.682
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 761
+}

@@ -1,0 +1,49 @@
+{
+  "id": 315490,
+  "title": "BanG Dream! Episode of Roselia Ⅱ : Song I am.",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/724/images/315490_oowWP.jpg",
+  "cp": "BanG Dream! Proj…",
+  "modified": 1725356134118,
+  "litePoints": [
+    {
+      "id": "nsjqloe51",
+      "cn": "荒川二丁目站周边",
+      "name": "荒川二丁目駅周辺",
+      "image": "https://image.anitabi.cn/user/0/bangumi/315490/points/nsjqloe51-1725266741660.jpg?plan=h160",
+      "ep": 2,
+      "s": 217,
+      "geo": [
+        35.7386,
+        139.7842
+      ]
+    },
+    {
+      "id": "nsk6a60ye",
+      "cn": "荒川二丁目",
+      "name": "荒川二丁目",
+      "image": "https://image.anitabi.cn/user/0/bangumi/315490/points/nsk6a60ye-1725266928171.jpg?plan=h160",
+      "ep": 2,
+      "s": 221,
+      "geo": [
+        35.7385,
+        139.7846
+      ]
+    },
+    {
+      "id": "nskec2rau",
+      "cn": "面影桥前",
+      "name": "面影橋駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/315490/points/nskec2rau-1725267413524.jpg?plan=h160",
+      "ep": 2,
+      "s": 527,
+      "geo": [
+        35.7131,
+        139.7142
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 724
+}

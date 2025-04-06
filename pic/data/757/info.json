@@ -1,0 +1,49 @@
+{
+  "id": 331480,
+  "cn": "明日同学的水手服",
+  "title": "明日ちゃんのセーラー服",
+  "cover": "https://image.xinu.ink/pic/data/757/images/331480.jpg",
+  "color": "#555555",
+  "cp": "明日ちゃんのセーラー服",
+  "geo": [
+    41.78379467584179,
+    140.75685138749634
+  ],
+  "zoom": 10.893,
+  "modified": 1717331454321,
+  "litePoints": [
+    {
+      "id": "51i52ia4k",
+      "name": "遺愛女子中学校・高等学校",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/331480/points/51i52ia4k-1714024698678.jpg?plan=h160",
+      "ep": 1,
+      "s": 1057,
+      "geo": [
+        41.7873,
+        140.7573
+      ]
+    },
+    {
+      "id": "jt595h9xi",
+      "name": "蕎麦志な乃",
+      "image": "https://image.anitabi.cn/user/1069/bangumi/331480/points/jt595h9xi-1714028376148.jpg?plan=h160",
+      "ep": 1,
+      "s": 328,
+      "geo": [
+        36.3341,
+        138.6018
+      ]
+    },
+    {
+      "id": "51i52i9x7",
+      "name": "旧上岡小学校",
+      "geo": [
+        36.7781,
+        140.327
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 2,
+  "local_id": 757
+}

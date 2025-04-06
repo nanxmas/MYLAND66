@@ -1,0 +1,28 @@
+{
+  "id": 345565,
+  "cn": "征服",
+  "title": "征服",
+  "cover": "https://image.xinu.ink/pic/data/774/images/345565_7F7kE.jpg",
+  "geo": [
+    38.03081408136367,
+    114.46445324318665
+  ],
+  "zoom": 12.593,
+  "modified": 1725969524706,
+  "litePoints": [
+    {
+      "id": "nyg8kk2rb",
+      "cn": "华强买瓜遗址",
+      "name": "工农路与维明南大街交叉口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/345565/points/nyg8kk2rb-1725728914218.jpg?plan=h160",
+      "ep": 8,
+      "geo": [
+        38.0308,
+        114.4642
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 774
+}

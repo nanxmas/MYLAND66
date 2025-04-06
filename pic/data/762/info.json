@@ -1,0 +1,46 @@
+{
+  "id": 332649,
+  "cn": "漂流少年",
+  "title": "Sonny Boy -サニーボーイ-",
+  "cover": "https://image.xinu.ink/pic/data/762/images/332649.jpg",
+  "color": "#080403",
+  "geo": [
+    35.3229171550972,
+    139.2839785313032
+  ],
+  "zoom": 7.919,
+  "modified": 1722514629059,
+  "litePoints": [
+    {
+      "id": "m7c9qgfxc",
+      "cn": "箱根雕刻之森美术馆",
+      "name": "彫刻の森クラブ",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/332649/points/m7c9qgfxc-1720783081486.jpg?plan=h160",
+      "geo": [
+        35.2449,
+        139.0512
+      ]
+    },
+    {
+      "id": "m7cvk5gvv",
+      "name": "府中市立府中第二中學校",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/332649/points/m7cvk5gvv-1720784289112.jpg?plan=h160",
+      "geo": [
+        35.6722,
+        139.5098
+      ]
+    },
+    {
+      "id": "m7czbmkvb",
+      "name": "白糸台駅",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/332649/points/m7czbmkvb-1720784480586.jpg?plan=h160",
+      "geo": [
+        35.6664,
+        139.5095
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 762
+}

@@ -1,0 +1,38 @@
+{
+  "id": 331369,
+  "cn": "五等分的新娘∬ ～夏日回忆也五等分～",
+  "title": "五等分の花嫁∬ ～夏の思い出も五等分～",
+  "city": "东海市",
+  "cover": "https://image.xinu.ink/pic/data/755/images/331369.jpg",
+  "color": "#f1cd63",
+  "cp": "五等分の花嫁∬",
+  "geo": [
+    35.15020371267644,
+    136.92419801872234
+  ],
+  "zoom": 24,
+  "modified": 1732721405718,
+  "litePoints": [
+    {
+      "id": "p920xqp30",
+      "name": "西口広場",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/331369/points/p920xqp30-1729380737683.jpg?plan=h160",
+      "geo": [
+        35.0204,
+        136.8924
+      ]
+    },
+    {
+      "id": "p94gbkt0u",
+      "name": "グラストニア",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/331369/points/p94gbkt0u-1729385982562.jpg?plan=h160",
+      "geo": [
+        35.1501,
+        136.9242
+      ]
+    }
+  ],
+  "pointsLength": 9,
+  "imagesLength": 9,
+  "local_id": 755
+}

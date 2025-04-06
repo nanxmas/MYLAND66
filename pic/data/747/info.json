@@ -1,0 +1,116 @@
+{
+  "id": 325281,
+  "cn": "白沙的水族馆",
+  "title": "白い砂のアクアトープ",
+  "city": "南城市",
+  "cover": "https://image.xinu.ink/pic/data/747/images/325281.jpg",
+  "color": "#34a5d5",
+  "cp": "projectティンガーラ",
+  "geo": [
+    26.145244232073267,
+    127.79432644284697
+  ],
+  "zoom": 11.758,
+  "modified": 1737786672952,
+  "litePoints": [
+    {
+      "id": "51i52h2zi",
+      "name": "果報バンタ",
+      "image": "https://image.anitabi.cn/points/325281/51i52h2zi_1672374315966.jpg?plan=h160",
+      "ep": 21,
+      "s": 323,
+      "geo": [
+        26.3607,
+        127.9923
+      ]
+    },
+    {
+      "id": "82742v2hl",
+      "cn": "曼谷大皇宫",
+      "name": "王宮",
+      "image": "https://image.anitabi.cn/user/0/bangumi/325281/points/82742v2hl-1680884500416.jpg?plan=h160",
+      "ep": 1,
+      "s": 224,
+      "geo": [
+        13.7497,
+        100.4917
+      ]
+    },
+    {
+      "id": "dscce5fsl",
+      "name": "那覇空港 見学者デッキ",
+      "image": "https://image.anitabi.cn/user/1028/bangumi/325281/points/dscce5fsl-1697038790805.jpg?plan=h160",
+      "ep": 12,
+      "geo": [
+        26.2115,
+        127.6504
+      ]
+    },
+    {
+      "id": "51i52gx11",
+      "name": "あざまサンサンビーチのブランコ",
+      "image": "https://image.anitabi.cn/points/325281/51i52gx11_1672374177916.jpg?plan=h160",
+      "geo": [
+        26.1786,
+        127.8287
+      ]
+    },
+    {
+      "id": "51i52gwgy",
+      "name": "東屋",
+      "image": "https://image.anitabi.cn/points/325281/51i52gwgy_1672374180351.jpg?plan=h160",
+      "geo": [
+        26.1766,
+        127.8305
+      ]
+    },
+    {
+      "id": "51i52gwzj",
+      "name": "駐車場",
+      "image": "https://image.anitabi.cn/points/325281/51i52gwzj_1672374181364.jpg?plan=h160",
+      "geo": [
+        26.1761,
+        127.8298
+      ]
+    },
+    {
+      "id": "51i52gwg3",
+      "name": "水族館前",
+      "image": "https://image.anitabi.cn/points/325281/51i52gwg3_1672374183525.jpg?plan=h160",
+      "geo": [
+        26.1756,
+        127.8299
+      ]
+    },
+    {
+      "id": "51i52gwem",
+      "name": "風車",
+      "image": "https://image.anitabi.cn/points/325281/51i52gwem_1672374184799.jpg?plan=h160",
+      "geo": [
+        26.1647,
+        127.8078
+      ]
+    },
+    {
+      "id": "51i52gwfz",
+      "name": "知念小学校前の交差点",
+      "image": "https://image.anitabi.cn/points/325281/51i52gwfz_1672374187725.jpg?plan=h160",
+      "geo": [
+        26.1696,
+        127.8209
+      ]
+    },
+    {
+      "id": "51i52gwgx",
+      "name": "知念久手堅の路地①",
+      "image": "https://image.anitabi.cn/points/325281/51i52gwgx_1672374210064.jpg?plan=h160",
+      "geo": [
+        26.1717,
+        127.8217
+      ]
+    }
+  ],
+  "pointsLength": 73,
+  "imagesLength": 73,
+  "local_id": 747
+}

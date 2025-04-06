@@ -1,0 +1,38 @@
+[
+  {
+    "id": "nsjqloe51",
+    "cn": "荒川二丁目站周边",
+    "name": "荒川二丁目駅周辺",
+    "image": "https://image.xinu.ink/pic/data/724/images/nsjqloe51-1725266741660.jpg",
+    "ep": 2,
+    "s": 217,
+    "geo": [
+      35.7386,
+      139.7842
+    ]
+  },
+  {
+    "id": "nsk6a60ye",
+    "cn": "荒川二丁目",
+    "name": "荒川二丁目",
+    "image": "https://image.xinu.ink/pic/data/724/images/nsk6a60ye-1725266928171.jpg",
+    "ep": 2,
+    "s": 221,
+    "geo": [
+      35.7385,
+      139.7846
+    ]
+  },
+  {
+    "id": "nskec2rau",
+    "cn": "面影桥前",
+    "name": "面影橋駅",
+    "image": "https://image.xinu.ink/pic/data/724/images/nskec2rau-1725267413524.jpg",
+    "ep": 2,
+    "s": 527,
+    "geo": [
+      35.7131,
+      139.7142
+    ]
+  }
+]

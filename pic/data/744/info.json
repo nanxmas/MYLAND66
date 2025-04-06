@@ -1,0 +1,42 @@
+{
+  "id": 323196,
+  "cn": "赛马娘 Cinderella Gray",
+  "title": "ウマ娘 シンデレラグレイ",
+  "cover": "https://image.xinu.ink/pic/data/744/images/323196.jpg",
+  "color": "#634e47",
+  "geo": [
+    35.373261000000014,
+    136.769186
+  ],
+  "zoom": 16,
+  "modified": 1725006239086,
+  "litePoints": [
+    {
+      "id": "nlvifytdo",
+      "cn": "笠松競馬場",
+      "name": "笠松競馬場スタンド",
+      "image": "https://image.anitabi.cn/user/0/bangumi/323196/points/nlvifytdo-1724747484500.jpg?plan=h160",
+      "ep": 1,
+      "s": 56,
+      "geo": [
+        35.3732,
+        136.7691
+      ]
+    },
+    {
+      "id": "nlzmmn0er",
+      "cn": "日本岐阜県岐阜市金华山观景台",
+      "name": "日本岐阜県岐阜市",
+      "image": "https://image.anitabi.cn/user/1493/bangumi/323196/points/nlzmmn0er-1724752228923.jpg?plan=h160",
+      "ep": 6,
+      "s": 20,
+      "geo": [
+        35.4338,
+        136.782
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 744
+}

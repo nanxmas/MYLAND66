@@ -1,0 +1,55 @@
+{
+  "id": 324273,
+  "cn": "孤独的美食家 2020除夕特别篇～我的饮食没有秘密，孤独的烟花大作战！～",
+  "title": "孤独のグルメ 2020大晦日スペシャル～俺の食事に密はない、孤独の花火大作戦！～",
+  "cover": "https://image.xinu.ink/pic/data/745/images/324273_xSbRp.jpg",
+  "modified": 1741541763042,
+  "litePoints": [
+    {
+      "id": "5db6b08b",
+      "cn": "中国家庭料理 楊",
+      "name": "高柳ビル",
+      "image": "https://image.anitabi.cn/points/324273/5db6b08b_1741540481366.jpg?plan=h160",
+      "s": 127,
+      "geo": [
+        35.73,
+        139.7072
+      ]
+    },
+    {
+      "id": "cd5b41a4",
+      "cn": "口福処 平五郎",
+      "name": "第二ジェスペールビル 1f",
+      "image": "https://image.anitabi.cn/points/324273/cd5b41a4_1741540863779.jpg?plan=h160",
+      "s": 932,
+      "geo": [
+        35.6689,
+        139.7501
+      ]
+    },
+    {
+      "id": "6642cbf0",
+      "name": "焼肉 清月苑",
+      "image": "https://image.anitabi.cn/points/324273/6642cbf0_1741541061708.jpg?plan=h160",
+      "s": 2015,
+      "geo": [
+        35.5706,
+        139.599
+      ]
+    },
+    {
+      "id": "39655f17",
+      "cn": "餃子菜苑",
+      "name": "東町２４−５",
+      "image": "https://image.anitabi.cn/points/324273/39655f17_1741541242119.jpg?plan=h160",
+      "s": 3092,
+      "geo": [
+        35.9916,
+        139.0838
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 745
+}

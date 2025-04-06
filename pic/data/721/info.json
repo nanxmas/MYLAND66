@@ -1,0 +1,120 @@
+{
+  "id": 313495,
+  "cn": "黑神话：悟空",
+  "title": "黑神话：悟空",
+  "city": "中国",
+  "cover": "https://image.xinu.ink/pic/data/721/images/313495.jpg",
+  "color": "#380000",
+  "geo": [
+    35.54642597364021,
+    112.93693293593662
+  ],
+  "zoom": 15.555,
+  "modified": 1728619472696,
+  "litePoints": [
+    {
+      "id": "nihtkghr0",
+      "cn": "玉皇庙",
+      "name": "玉皇庙",
+      "image": "https://image.anitabi.cn/user/0/bangumi/313495/points/nihtkghr0-1724478969907.jpg?plan=h160",
+      "geo": [
+        35.5464,
+        112.9369
+      ]
+    },
+    {
+      "id": "ozaguty1d",
+      "cn": "双林寺",
+      "name": "双林寺",
+      "image": "https://image.anitabi.cn/user/0/bangumi/313495/points/ozaguty1d-1728615637643.jpg?plan=h160",
+      "ep": 10,
+      "s": 692,
+      "geo": [
+        37.1708,
+        112.125
+      ]
+    },
+    {
+      "id": "ozb86a9ey",
+      "cn": "佛光寺",
+      "name": "佛光寺",
+      "image": "https://image.anitabi.cn/user/0/bangumi/313495/points/ozb86a9ey-1728617155728.jpg?plan=h160",
+      "ep": 1,
+      "s": 1088,
+      "geo": [
+        38.8691,
+        113.3879
+      ]
+    },
+    {
+      "id": "nks7ue3gp",
+      "name": "隰县小西天",
+      "image": "https://image.anitabi.cn/user/0/bangumi/498760/points/nks7ue3gp-1724657609942.jpg?plan=h160",
+      "geo": [
+        36.7019,
+        110.9264
+      ]
+    },
+    {
+      "id": "nyurm83d1",
+      "name": "云冈石窟",
+      "image": "https://image.anitabi.cn/user/0/bangumi/313495/points/nyurm83d1-1725760260884.jpg?plan=h160",
+      "geo": [
+        40.1101,
+        113.1259
+      ]
+    },
+    {
+      "id": "npi7m217v",
+      "cn": "崇福寺",
+      "name": "崇福寺",
+      "image": "https://image.anitabi.cn/points/313495/npi7m217v_1725027518276.jpg?plan=h160",
+      "geo": [
+        39.3137,
+        112.4258
+      ]
+    },
+    {
+      "id": "npihumlb6",
+      "cn": "大足石刻",
+      "name": "Dazu Rock Carvings",
+      "image": "https://image.anitabi.cn/points/313495/npihumlb6_1725028143465.jpg?plan=h160",
+      "geo": [
+        29.7461,
+        105.7858
+      ]
+    },
+    {
+      "id": "npibwcbii",
+      "cn": "悬空寺",
+      "name": "Hengshan Mountain (The Hanging Temple)",
+      "image": "https://image.anitabi.cn/points/313495/npibwcbii_1725027780476.jpg?plan=h160",
+      "geo": [
+        39.6595,
+        113.7083
+      ]
+    },
+    {
+      "id": "nq66rgkz6",
+      "name": "天柱峰",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/313495/points/nq66rgkz6-1725079950127.jpg?plan=h160",
+      "geo": [
+        30.7454,
+        116.4499
+      ]
+    },
+    {
+      "id": "nqim67ip6",
+      "cn": "四门塔",
+      "name": "四门塔",
+      "image": "https://image.anitabi.cn/user/0/bangumi/313495/points/nqim67ip6-1725106870994.jpg?plan=h160",
+      "geo": [
+        36.453,
+        117.1296
+      ]
+    }
+  ],
+  "pointsLength": 17,
+  "imagesLength": 17,
+  "local_id": 721
+}

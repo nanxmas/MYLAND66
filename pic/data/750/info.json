@@ -1,0 +1,132 @@
+{
+  "id": 328609,
+  "cn": "孤独摇滚！",
+  "title": "ぼっち・ざ・ろっく！",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/750/images/328609.jpg",
+  "color": "#ff428e",
+  "cp": "アニプレックス",
+  "geo": [
+    35.47945836269817,
+    139.58924738015327
+  ],
+  "zoom": 9.65,
+  "modified": 1742662350409,
+  "litePoints": [
+    {
+      "id": "dfbf2731",
+      "name": "金泽八景駅内",
+      "image": "https://image.anitabi.cn/points/328609/dfbf2731_1739363147444.jpg?plan=h160",
+      "ep": 1,
+      "s": 373,
+      "geo": [
+        35.3314,
+        139.6202
+      ]
+    },
+    {
+      "id": "4xydgsp7r",
+      "name": "金沢八景マンション前の歩道",
+      "image": "https://image.anitabi.cn/points/328609/4xydgsp7r_1672251037005.jpg?plan=h160",
+      "ep": 1,
+      "s": 423,
+      "geo": [
+        35.3297,
+        139.6238
+      ]
+    },
+    {
+      "id": "4yd2vzbcg",
+      "cn": "金沢八景站前罗森",
+      "name": "Lawson 金沢八景駅前",
+      "image": "https://image.anitabi.cn/points/328609/4yd2vzbcg_1672251032670.jpg?plan=h160",
+      "ep": 1,
+      "s": 433,
+      "geo": [
+        35.3311,
+        139.6206
+      ]
+    },
+    {
+      "id": "4xyfjc6rm",
+      "name": "松ノ木児童遊園",
+      "image": "https://image.anitabi.cn/points/328609/4xyfjc6rm_1672251023469.jpg?plan=h160",
+      "ep": 1,
+      "s": 511,
+      "geo": [
+        35.6949,
+        139.6468
+      ]
+    },
+    {
+      "id": "4yd2vzb5s",
+      "name": "下北沢駅前",
+      "image": "https://image.anitabi.cn/points/328609/4yd2vzb5s.jpg?plan=h160",
+      "ep": 1,
+      "s": 626,
+      "geo": [
+        35.6617,
+        139.6674
+      ]
+    },
+    {
+      "id": "4xygg8inc",
+      "cn": "Village Vanguard 下北沢店",
+      "name": "ヴィレッジヴァン ガード下北沢店",
+      "image": "https://image.anitabi.cn/points/328609/4xygg8inc_1672251053625.jpg?plan=h160",
+      "ep": 1,
+      "s": 633,
+      "geo": [
+        35.6618,
+        139.6686
+      ]
+    },
+    {
+      "id": "4yd2vzc93",
+      "name": "劇・小劇場",
+      "image": "https://image.anitabi.cn/points/328609/4yd2vzc93_1672251061029.jpg?plan=h160",
+      "ep": 1,
+      "s": 683,
+      "geo": [
+        35.6616,
+        139.669
+      ]
+    },
+    {
+      "id": "4yd2vzc27",
+      "name": "下北沢Shelter",
+      "image": "https://image.anitabi.cn/points/328609/4yd2vzc27.jpg?plan=h160",
+      "ep": 1,
+      "s": 728,
+      "geo": [
+        35.6614,
+        139.6694
+      ]
+    },
+    {
+      "id": "4xyinrqum",
+      "name": "下北沢SHELTER",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/328609/points/4xyinrqum.jpg?plan=h160",
+      "ep": 1,
+      "s": 1331,
+      "geo": [
+        35.6615,
+        139.6695
+      ]
+    },
+    {
+      "id": "4yd2vzbrm",
+      "name": "本多劇場前",
+      "image": "https://image.anitabi.cn/points/328609/4yd2vzbrm.jpg?plan=h160",
+      "ep": 3,
+      "s": 595,
+      "geo": [
+        35.6615,
+        139.6687
+      ]
+    }
+  ],
+  "pointsLength": 63,
+  "imagesLength": 63,
+  "local_id": 750
+}

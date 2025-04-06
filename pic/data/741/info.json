@@ -1,0 +1,52 @@
+{
+  "id": 321885,
+  "cn": "链锯人",
+  "title": "チェンソーマン",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/741/images/321885.jpg",
+  "color": "#a00d32",
+  "cp": "MAPPA",
+  "geo": [
+    35.94520964382866,
+    137.53436891626643
+  ],
+  "zoom": 5.059137241739416,
+  "modified": 1717676322892,
+  "litePoints": [
+    {
+      "id": "4t3lk8bu9",
+      "name": "大神神社",
+      "image": "https://image.anitabi.cn/points/321885/4t3lk8bu9.jpg?plan=h160",
+      "ep": 9,
+      "s": 809,
+      "geo": [
+        34.5289,
+        135.8514
+      ]
+    },
+    {
+      "id": "4t3osyzmz",
+      "name": "练马站",
+      "image": "https://image.anitabi.cn/points/321885/4t3osyzmz.jpg?plan=h160",
+      "ep": 2,
+      "s": 1348,
+      "geo": [
+        35.7375,
+        139.6539
+      ]
+    },
+    {
+      "id": "csisxbghx",
+      "cn": "江之岛神社中津宫",
+      "name": "江島神社中津宮",
+      "image": null,
+      "geo": [
+        35.2993,
+        139.4802
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 2,
+  "local_id": 741
+}

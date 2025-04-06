@@ -1,0 +1,130 @@
+{
+  "id": 330973,
+  "cn": "看得见的女孩",
+  "title": "見える子ちゃん",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/754/images/330973_HpbMw.jpg",
+  "color": "#8d4a99",
+  "cp": "見える子ちゃん",
+  "geo": [
+    35.69271337350939,
+    139.73824918437873
+  ],
+  "zoom": 12.967,
+  "modified": 1729344772758,
+  "litePoints": [
+    {
+      "id": "p8khz3xht",
+      "name": "女子学院中学校・高等学校",
+      "image": "https://image.anitabi.cn/points/330973/p8khz3xht_1729342535102.jpg?plan=h160",
+      "ep": 1,
+      "s": 350,
+      "geo": [
+        35.6874,
+        139.738
+      ]
+    },
+    {
+      "id": "p86g4hunf",
+      "name": "千代田区立外濠公園（九段北4丁目側）",
+      "image": "https://image.anitabi.cn/points/330973/p86g4hunf_1729312970948.jpg?plan=h160",
+      "ep": 1,
+      "s": 642,
+      "geo": [
+        35.6916,
+        139.7366
+      ]
+    },
+    {
+      "id": "p86959foz",
+      "name": "市ヶ谷駅交差点",
+      "image": "https://image.anitabi.cn/points/330973/p86959foz_1729312967988.jpg?plan=h160",
+      "ep": 1,
+      "s": 661,
+      "geo": [
+        35.6911,
+        139.7359
+      ]
+    },
+    {
+      "id": "p86m3mtf9",
+      "name": "市ヶ谷駅前バス停",
+      "image": "https://image.anitabi.cn/points/330973/p86m3mtf9_1729312975827.jpg?plan=h160",
+      "ep": 1,
+      "s": 760,
+      "geo": [
+        35.6903,
+        139.7356
+      ]
+    },
+    {
+      "id": "p86r34k3k",
+      "name": "東郷元帥記念公園の南側",
+      "image": "https://image.anitabi.cn/points/330973/p86r34k3k_1729312979362.jpg?plan=h160",
+      "ep": 2,
+      "s": 990,
+      "geo": [
+        35.6898,
+        139.7401
+      ]
+    },
+    {
+      "id": "p86u6wrp4",
+      "name": "東郷元帥記念公園の獅子像",
+      "image": "https://image.anitabi.cn/points/330973/p86u6wrp4_1729312980838.jpg?plan=h160",
+      "ep": 2,
+      "s": 1051,
+      "geo": [
+        35.6906,
+        139.7397
+      ]
+    },
+    {
+      "id": "p8jkau1a6",
+      "name": "牛込北町バス停",
+      "image": "https://image.anitabi.cn/points/330973/p8jkau1a6_1729340485240.jpg?plan=h160",
+      "ep": 3,
+      "s": 14,
+      "geo": [
+        35.6997,
+        139.7325
+      ]
+    },
+    {
+      "id": "p8jl9xtgz",
+      "name": "都営バス",
+      "image": "https://image.anitabi.cn/points/330973/p8jl9xtgz_1729340545097.jpg?plan=h160",
+      "ep": 3,
+      "s": 68,
+      "geo": [
+        35.6996,
+        139.7325
+      ]
+    },
+    {
+      "id": "p86ikd5g2",
+      "name": "スターバックス コーヒー 市ヶ谷駅前店",
+      "image": "https://image.anitabi.cn/points/330973/p86ikd5g2_1729313240338.jpg?plan=h160",
+      "ep": 3,
+      "s": 369,
+      "geo": [
+        35.6909,
+        139.7358
+      ]
+    },
+    {
+      "id": "p85v8wykc",
+      "name": "ドン・キホーテ 新宿歌舞伎町店",
+      "image": "https://image.anitabi.cn/points/330973/p85v8wykc_1729310966278.jpg?plan=h160",
+      "ep": 3,
+      "s": 641,
+      "geo": [
+        35.6937,
+        139.7016
+      ]
+    }
+  ],
+  "pointsLength": 60,
+  "imagesLength": 60,
+  "local_id": 754
+}

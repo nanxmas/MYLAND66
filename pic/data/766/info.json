@@ -1,0 +1,111 @@
+{
+  "id": 333826,
+  "cn": "黑潮",
+  "title": "クロシオカレント",
+  "city": "高知县",
+  "cover": "https://image.xinu.ink/pic/data/766/images/333826_ufe72.jpg",
+  "geo": [
+    33.27348888930952,
+    133.27892449387923
+  ],
+  "zoom": 8.849,
+  "modified": 1729535321954,
+  "litePoints": [
+    {
+      "id": "ovk4rbwvf",
+      "cn": "早明浦大坝",
+      "name": "早明浦ダム",
+      "image": "https://image.anitabi.cn/points/333826/ovk4rbwvf_1728333836469.jpg?plan=h160",
+      "geo": [
+        33.7569,
+        133.5503
+      ]
+    },
+    {
+      "id": "p7zv9au3t",
+      "name": "早明浦​ダム・​高知​分水​管理​所",
+      "image": "https://image.anitabi.cn/points/333826/p7zv9au3t_1729297613908.jpg?plan=h160",
+      "geo": [
+        33.7561,
+        133.5481
+      ]
+    },
+    {
+      "id": "ovqp9gbak",
+      "cn": "高知赛马场",
+      "name": "高知競馬場",
+      "image": "https://image.anitabi.cn/points/333826/ovqp9gbak_1728337290837.jpg?plan=h160",
+      "geo": [
+        33.5047,
+        133.53
+      ]
+    },
+    {
+      "id": "ovp0t0uty",
+      "name": "ナン​コク​スーパー",
+      "image": "https://image.anitabi.cn/points/333826/ovp0t0uty_1728333651388.jpg?plan=h160",
+      "geo": [
+        33.5785,
+        133.645
+      ]
+    },
+    {
+      "id": "ovpo76c0i",
+      "name": "やなせたかしロード",
+      "image": "https://image.anitabi.cn/points/333826/ovpo76c0i_1728335209863.jpg?plan=h160",
+      "geo": [
+        33.576,
+        133.6464
+      ]
+    },
+    {
+      "id": "ovprdr07f",
+      "name": "やなせたかしロード  アンパンマン、ばいきんまん像",
+      "image": "https://image.anitabi.cn/points/333826/ovprdr07f_1728335240681.jpg?plan=h160",
+      "geo": [
+        33.576,
+        133.6464
+      ]
+    },
+    {
+      "id": "ovpyux1e9",
+      "cn": "市立吾冈山文化之森体育之家",
+      "name": "市​立​吾​岡山​文化​の​森​スポーツ​ハウス",
+      "image": "https://image.anitabi.cn/points/333826/ovpyux1e9_1728335701247.jpg?plan=h160",
+      "geo": [
+        33.5671,
+        133.6421
+      ]
+    },
+    {
+      "id": "ovq8g2tzi",
+      "name": "が出てきそうな道（駐車場～展望台の間）",
+      "image": "https://image.anitabi.cn/points/333826/ovq8g2tzi_1728336285241.jpg?plan=h160",
+      "geo": [
+        33.5665,
+        133.6425
+      ]
+    },
+    {
+      "id": "ovq2grf0t",
+      "name": "吾岡山展望台",
+      "image": "https://image.anitabi.cn/points/333826/ovq2grf0t_1728335972622.jpg?plan=h160",
+      "geo": [
+        33.567,
+        133.6421
+      ]
+    },
+    {
+      "id": "ovqfbx9dy",
+      "name": "ガスト高知野市町店",
+      "image": "https://image.anitabi.cn/points/333826/ovqfbx9dy_1728336716492.jpg?plan=h160",
+      "geo": [
+        33.5612,
+        133.6978
+      ]
+    }
+  ],
+  "pointsLength": 27,
+  "imagesLength": 27,
+  "local_id": 766
+}

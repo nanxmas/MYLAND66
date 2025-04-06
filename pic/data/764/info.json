@@ -1,0 +1,120 @@
+{
+  "id": 333664,
+  "cn": "相合之物",
+  "title": "であいもん",
+  "city": "京都市",
+  "cover": "https://image.xinu.ink/pic/data/764/images/333664.jpg",
+  "color": "#86956a",
+  "cp": "緑松",
+  "geo": [
+    35.017766,
+    135.764837
+  ],
+  "zoom": 13,
+  "modified": 1737825308359,
+  "litePoints": [
+    {
+      "id": "4tdzf5ibo",
+      "name": "京都タワー",
+      "image": "https://image.anitabi.cn/points/333664/4tdzf5ibo.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.9875,
+        135.7593
+      ]
+    },
+    {
+      "id": "4tdzf5igz",
+      "name": "京都駅",
+      "image": "https://image.anitabi.cn/points/333664/4tdzf5igz.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.986,
+        135.7589
+      ]
+    },
+    {
+      "id": "4tdzf5iqa",
+      "name": "出町柳駅前バス停",
+      "image": "https://image.anitabi.cn/points/333664/4tdzf5iqa.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.0289,
+        135.773
+      ]
+    },
+    {
+      "id": "4tdzf5ie7",
+      "name": "鴨川デルタ",
+      "image": "https://image.anitabi.cn/points/333664/4tdzf5ie7.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.0298,
+        135.7717
+      ]
+    },
+    {
+      "id": "4tdzf5jj1",
+      "name": "阿闍梨餅本舗満月本店横道",
+      "image": "https://image.anitabi.cn/points/333664/4tdzf5jj1.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.03,
+        135.7779
+      ]
+    },
+    {
+      "id": "4tdzf5jai",
+      "name": "甘春堂東店",
+      "image": "https://image.anitabi.cn/points/333664/4tdzf5jai.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.9918,
+        135.7706
+      ]
+    },
+    {
+      "id": "4tdzf5j50",
+      "name": "烏丸今出川交差点",
+      "image": "https://image.anitabi.cn/points/333664/4tdzf5j50.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.0291,
+        135.7595
+      ]
+    },
+    {
+      "id": "4tdzf5j38",
+      "name": "地下鉄今出川駅前",
+      "image": "https://image.anitabi.cn/points/333664/4tdzf5j38.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.0292,
+        135.7595
+      ]
+    },
+    {
+      "id": "4tdzf5k8d",
+      "name": "京都御苑乾御門",
+      "image": "https://image.anitabi.cn/points/333664/4tdzf5k8d.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.0274,
+        135.7594
+      ]
+    },
+    {
+      "id": "4tdzf5jrg",
+      "name": "京都御苑",
+      "image": "https://image.anitabi.cn/points/333664/4tdzf5jrg.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.0275,
+        135.7617
+      ]
+    }
+  ],
+  "pointsLength": 38,
+  "imagesLength": 38,
+  "local_id": 764
+}

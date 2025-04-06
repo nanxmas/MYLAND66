@@ -1,0 +1,28 @@
+[
+  {
+    "id": "mp2dfw3d9",
+    "name": "歩道橋",
+    "image": "https://image.xinu.ink/pic/data/735/images/mp2dfw3d9_1722171941064.jpg",
+    "ep": 6,
+    "s": 1102,
+    "geo": [
+      35.4701,
+      139.4794
+    ],
+    "origin": "Anitabi@K",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mp2sgkdc8",
+    "name": "橋戸北第二公園",
+    "image": "https://image.xinu.ink/pic/data/735/images/mp2sgkdc8_1722172845942.jpg",
+    "ep": 12,
+    "s": 667,
+    "geo": [
+      35.468,
+      139.4779
+    ],
+    "origin": "Anitabi@K",
+    "originURL": "https://anitabi.cn/"
+  }
+]

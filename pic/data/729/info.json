@@ -1,0 +1,31 @@
+{
+  "id": 316756,
+  "cn": "少年将帅",
+  "title": "소년장수",
+  "city": "亚洲",
+  "cover": "https://image.xinu.ink/pic/data/729/images/316756.jpg",
+  "color": "#b22d19",
+  "geo": [
+    39.07828663661854,
+    125.83680105585859
+  ],
+  "zoom": 12.165,
+  "modified": 1730202364406,
+  "litePoints": [
+    {
+      "id": "84vilt19d",
+      "cn": "大城山城",
+      "name": "대성산성",
+      "image": "https://image.anitabi.cn/user/0/bangumi/316756/points/84vilt19d-1681094534312.jpg?plan=h160",
+      "ep": 1,
+      "s": 32,
+      "geo": [
+        39.0784,
+        125.8364
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 729
+}

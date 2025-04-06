@@ -1,0 +1,29 @@
+{
+  "id": 320223,
+  "title": "上海故事",
+  "cover": "https://image.xinu.ink/pic/data/736/images/320223.jpg",
+  "color": "#d4bf80",
+  "geo": [
+    31.240155566624864,
+    121.49816183662233
+  ],
+  "zoom": 14.233,
+  "modified": 1725656212862,
+  "litePoints": [
+    {
+      "id": "nx7bavlas",
+      "cn": "陆家嘴地铁站",
+      "name": "陆家嘴",
+      "image": "https://image.anitabi.cn/user/0/bangumi/320223/points/nx7bavlas-1725630957060.jpg?plan=h160",
+      "ep": 1,
+      "s": 929,
+      "geo": [
+        31.2401,
+        121.4981
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 736
+}

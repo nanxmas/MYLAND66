@@ -1,0 +1,149 @@
+[
+  {
+    "id": "4ytx3ds9r",
+    "name": "賀茂大橋",
+    "image": "https://image.xinu.ink/pic/data/776/images/4ytx3ds9r_1672160402904.jpg",
+    "ep": 12,
+    "s": 1113,
+    "geo": [
+      35.0289,
+      135.7715
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1glX6dNIGC2JZY9uz1uz9SVh61bI1LBk&ll=35.028998%2C135.771598&z=17"
+  },
+  {
+    "id": "mlobfttg5",
+    "cn": "河合桥",
+    "name": "河合橋",
+    "image": "https://image.xinu.ink/pic/data/776/images/mlobfttg5-1721906286698.jpg",
+    "ep": "op",
+    "geo": [
+      35.0304,
+      135.7722
+    ]
+  },
+  {
+    "id": "4ytx3drzs",
+    "name": "KBS京都",
+    "image": "https://image.xinu.ink/pic/data/776/images/4ytx3drzs_1672160397566.jpg",
+    "ep": "",
+    "s": "",
+    "geo": [
+      35.0235,
+      135.7586
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1glX6dNIGC2JZY9uz1uz9SVh61bI1LBk&ll=35.023503%2C135.758637&z=17"
+  },
+  {
+    "id": "4ytx3dshm",
+    "name": "河合橋",
+    "image": "https://image.xinu.ink/pic/data/776/images/4ytx3dshm_1672160398570.jpg",
+    "ep": "",
+    "s": "",
+    "geo": [
+      35.0304,
+      135.7722
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1glX6dNIGC2JZY9uz1uz9SVh61bI1LBk&ll=35.030473%2C135.772243&z=17"
+  },
+  {
+    "id": "4ytx3druy",
+    "name": "下鸭古本祭",
+    "image": "https://image.xinu.ink/pic/data/776/images/4ytx3druy_1672160399458.jpg",
+    "ep": "",
+    "s": "",
+    "geo": [
+      35.0356,
+      135.7715
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1glX6dNIGC2JZY9uz1uz9SVh61bI1LBk&ll=35.035683%2C135.771594&z=17"
+  },
+  {
+    "id": "4ytx3ds5h",
+    "name": "源湯",
+    "image": "https://image.xinu.ink/pic/data/776/images/4ytx3ds5h_1672160400257.jpg",
+    "ep": "",
+    "s": "",
+    "geo": [
+      35.0231,
+      135.7331
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1glX6dNIGC2JZY9uz1uz9SVh61bI1LBk&ll=35.023104%2C135.733138&z=17"
+  },
+  {
+    "id": "4ytx3dsd7",
+    "name": "鴨川デルタ",
+    "image": "https://image.xinu.ink/pic/data/776/images/4ytx3dsd7_1672160401792.jpg",
+    "ep": "",
+    "s": "",
+    "geo": [
+      35.0288,
+      135.7717
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1glX6dNIGC2JZY9uz1uz9SVh61bI1LBk&ll=35.028898%2C135.77174&z=17"
+  },
+  {
+    "id": "4ytx3ds8m",
+    "name": "贺茂大桥东北",
+    "image": "https://image.xinu.ink/pic/data/776/images/4ytx3ds8m_1672160404111.jpg",
+    "geo": [
+      35.0292,
+      135.7723
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1glX6dNIGC2JZY9uz1uz9SVh61bI1LBk&ll=35.029269%2C135.77232&z=17"
+  },
+  {
+    "id": "4ytx3drxb",
+    "name": "叡电出町柳站外",
+    "image": "https://image.xinu.ink/pic/data/776/images/4ytx3drxb_1672160405115.jpg",
+    "geo": [
+      35.0303,
+      135.7732
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1glX6dNIGC2JZY9uz1uz9SVh61bI1LBk&ll=35.030317%2C135.77327&z=17"
+  },
+  {
+    "id": "m2k0ijeku",
+    "cn": "吉田寮内",
+    "name": "吉田寮内",
+    "image": "https://image.xinu.ink/pic/data/776/images/m2k0ijeku_1720407981025.jpg",
+    "geo": [
+      35.0224,
+      135.7798
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m2k5nqem2",
+    "cn": "鸭川三角洲",
+    "name": "鴨川デルタ",
+    "image": "https://image.xinu.ink/pic/data/776/images/m2k5nqem2_1720408276409.jpg",
+    "geo": [
+      35.0297,
+      135.7717
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m2k8j3uuc",
+    "cn": "鸭川三角洲西",
+    "name": "鴨川デルタ西",
+    "image": "https://image.xinu.ink/pic/data/776/images/m2k8j3uuc_1720408447005.jpg",
+    "geo": [
+      35.0296,
+      135.7712
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  }
+]

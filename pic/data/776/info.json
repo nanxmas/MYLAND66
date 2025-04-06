@@ -1,0 +1,114 @@
+{
+  "id": 345980,
+  "cn": "四叠半时光机布鲁斯",
+  "title": "四畳半タイムマシンブルース",
+  "city": "京都市",
+  "cover": "https://image.xinu.ink/pic/data/776/images/345980.jpg",
+  "color": "#23c73f",
+  "cp": "四畳半タイムマシンブルース",
+  "geo": [
+    35.02829881655744,
+    135.76669215916195
+  ],
+  "zoom": 13.095,
+  "modified": 1721907068039,
+  "litePoints": [
+    {
+      "id": "4ytx3ds9r",
+      "name": "賀茂大橋",
+      "image": "https://image.anitabi.cn/points/345980/4ytx3ds9r_1672160402904.jpg?plan=h160",
+      "ep": 12,
+      "s": 1113,
+      "geo": [
+        35.0289,
+        135.7715
+      ]
+    },
+    {
+      "id": "mlobfttg5",
+      "cn": "河合桥",
+      "name": "河合橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/345980/points/mlobfttg5-1721906286698.jpg?plan=h160",
+      "geo": [
+        35.0304,
+        135.7722
+      ]
+    },
+    {
+      "id": "4ytx3drzs",
+      "name": "KBS京都",
+      "image": "https://image.anitabi.cn/points/345980/4ytx3drzs_1672160397566.jpg?plan=h160",
+      "geo": [
+        35.0235,
+        135.7586
+      ]
+    },
+    {
+      "id": "4ytx3dshm",
+      "name": "河合橋",
+      "image": "https://image.anitabi.cn/points/345980/4ytx3dshm_1672160398570.jpg?plan=h160",
+      "geo": [
+        35.0304,
+        135.7722
+      ]
+    },
+    {
+      "id": "4ytx3druy",
+      "name": "下鸭古本祭",
+      "image": "https://image.anitabi.cn/points/345980/4ytx3druy_1672160399458.jpg?plan=h160",
+      "geo": [
+        35.0356,
+        135.7715
+      ]
+    },
+    {
+      "id": "4ytx3ds5h",
+      "name": "源湯",
+      "image": "https://image.anitabi.cn/points/345980/4ytx3ds5h_1672160400257.jpg?plan=h160",
+      "geo": [
+        35.0231,
+        135.7331
+      ]
+    },
+    {
+      "id": "4ytx3dsd7",
+      "name": "鴨川デルタ",
+      "image": "https://image.anitabi.cn/points/345980/4ytx3dsd7_1672160401792.jpg?plan=h160",
+      "geo": [
+        35.0288,
+        135.7717
+      ]
+    },
+    {
+      "id": "4ytx3ds8m",
+      "name": "贺茂大桥东北",
+      "image": "https://image.anitabi.cn/points/345980/4ytx3ds8m_1672160404111.jpg?plan=h160",
+      "geo": [
+        35.0292,
+        135.7723
+      ]
+    },
+    {
+      "id": "4ytx3drxb",
+      "name": "叡电出町柳站外",
+      "image": "https://image.anitabi.cn/points/345980/4ytx3drxb_1672160405115.jpg?plan=h160",
+      "geo": [
+        35.0303,
+        135.7732
+      ]
+    },
+    {
+      "id": "m2k0ijeku",
+      "cn": "吉田寮内",
+      "name": "吉田寮内",
+      "image": "https://image.anitabi.cn/points/345980/m2k0ijeku_1720407981025.jpg?plan=h160",
+      "geo": [
+        35.0224,
+        135.7798
+      ]
+    }
+  ],
+  "pointsLength": 13,
+  "imagesLength": 13,
+  "local_id": 776
+}

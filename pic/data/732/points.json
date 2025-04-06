@@ -1,0 +1,81 @@
+[
+  {
+    "id": "pt9xpgyvb",
+    "name": "湯本駅",
+    "image": "https://image.xinu.ink/pic/data/732/images/pt9xpgyvb_1730965190049.jpg",
+    "geo": [
+      37.0065,
+      140.8499
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pt9ym0whi",
+    "cn": "Hotel Hawaiians",
+    "name": "ホテル​ハワイ​アンズ",
+    "image": "https://image.xinu.ink/pic/data/732/images/pt9ym0whi_1730965243848.jpg",
+    "geo": [
+      36.9937,
+      140.8175
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ptauzo3cz",
+    "cn": "Spa Resort Hawaiians",
+    "name": "スパ​リゾート​ハワイ​アンズ",
+    "image": "https://image.xinu.ink/pic/data/732/images/ptauzo3cz_1730967256251.jpg",
+    "geo": [
+      36.9939,
+      140.816
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pta319x1w",
+    "name": "いわき​回廊​美術館のステージ",
+    "image": "https://image.xinu.ink/pic/data/732/images/pta319x1w_1730965607313.jpg",
+    "geo": [
+      37.0707,
+      140.9256
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ptabdlbq4",
+    "name": "末続駅前",
+    "image": "https://image.xinu.ink/pic/data/732/images/ptabdlbq4_1730966030656.jpg",
+    "geo": [
+      37.1727,
+      140.9949
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ptac1o7ax",
+    "name": "末続駅内",
+    "image": "https://image.xinu.ink/pic/data/732/images/ptac1o7ax_1730966050843.jpg",
+    "geo": [
+      37.1725,
+      140.9955
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ptahhlxox",
+    "name": "いわき​駅南口",
+    "image": "https://image.xinu.ink/pic/data/732/images/ptahhlxox_1730966419441.jpg",
+    "geo": [
+      37.0579,
+      140.8922
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

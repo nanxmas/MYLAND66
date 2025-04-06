@@ -1,0 +1,135 @@
+[
+  {
+    "id": "nffi2uxvq",
+    "cn": "加太站",
+    "name": "加太站 (和歌山縣)",
+    "image": "https://image.xinu.ink/pic/data/734/images/nffi2uxvq_1724238078058.jpg",
+    "geo": [
+      34.275,
+      135.0809
+    ],
+    "origin": "Anitabi@7月の翼",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nfflcu9bb",
+    "cn": "加太站2",
+    "name": "加太駅",
+    "image": "https://image.xinu.ink/pic/data/734/images/nfflcu9bb_1724238174874.jpg",
+    "geo": [
+      34.2751,
+      135.081
+    ],
+    "origin": "Anitabi@7月の翼",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nffokvy3g",
+    "name": "桃山町元",
+    "image": "https://image.xinu.ink/pic/data/734/images/nffokvy3g_1724238452712.jpg",
+    "geo": [
+      34.2355,
+      135.3531
+    ],
+    "origin": "Anitabi@7月の翼",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nfv34is56",
+    "name": "熊野古道大門坂",
+    "image": "https://image.xinu.ink/pic/data/734/images/nfv34is56_1724276974311_cblack.jpg",
+    "s": 127,
+    "geo": [
+      33.6714,
+      135.899
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nfv5rrzbu",
+    "cn": "冒險大世界",
+    "name": "アドベンチャー​ワールド",
+    "image": "https://image.xinu.ink/pic/data/734/images/nfv5rrzbu_1724276978605_cblack.jpg",
+    "s": 145,
+    "geo": [
+      33.6676,
+      135.373
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nfvdj10fa",
+    "name": "SHIRAHAMA ​KEY ​TERRACE\nHOTEL ​SEAMORE",
+    "image": "https://image.xinu.ink/pic/data/734/images/nfvdj10fa_1724277012330_cblack.jpg",
+    "s": 192,
+    "geo": [
+      33.6761,
+      135.3374
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nftad8we8",
+    "name": "橋杭港",
+    "image": "https://image.xinu.ink/pic/data/734/images/nftad8we8_1724277020880_cblack.jpg",
+    "ep": null,
+    "s": 66,
+    "geo": [
+      33.4846,
+      135.7943
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nfurzmabq",
+    "name": "欧罗巴港",
+    "image": "https://image.xinu.ink/pic/data/734/images/nfurzmabq_1724277023863_cblack.jpg",
+    "s": 71,
+    "geo": [
+      34.1537,
+      135.1769
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nfu73t35t",
+    "name": "白良浜海水浴場",
+    "image": "https://image.xinu.ink/pic/data/734/images/nfu73t35t_1724277036210_cblack.jpg",
+    "s": 53,
+    "geo": [
+      33.68,
+      135.3439
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nfuko1nee",
+    "name": "宇久井蛭子神社附近",
+    "image": "https://image.xinu.ink/pic/data/734/images/nfuko1nee_1724277038329_cblack.jpg",
+    "s": 61,
+    "geo": [
+      33.6556,
+      135.9784
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nfxh2zxci",
+    "name": "没找到",
+    "image": "https://image.xinu.ink/pic/data/734/images/nfxh2zxci_1724277915383_cblack.jpg",
+    "s": 130,
+    "geo": [
+      33.9076,
+      134.9466
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  }
+]

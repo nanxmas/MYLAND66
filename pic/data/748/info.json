@@ -1,0 +1,33 @@
+{
+  "id": 326865,
+  "cn": "Muv-Luv photonflowers*",
+  "title": "マブラヴ photonflowers*",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/748/images/326865.jpg",
+  "color": "#ff6161",
+  "modified": 1725011152167,
+  "litePoints": [
+    {
+      "id": "n7tkm4yhy",
+      "cn": "多佛尔城堡",
+      "name": "Dover Castle",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/326865/points/n7tkm4yhy-1723641813963.jpg?plan=h160",
+      "geo": [
+        51.1284,
+        1.3228
+      ]
+    },
+    {
+      "id": "n7tqe8eui",
+      "name": "Drop Redoubt Fort",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/326865/points/n7tqe8eui-1723642040677.jpg?plan=h160",
+      "geo": [
+        51.1227,
+        1.3076
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 748
+}

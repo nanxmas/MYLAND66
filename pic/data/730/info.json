@@ -1,0 +1,56 @@
+{
+  "id": 317615,
+  "cn": "黑塔利亚 World★Stars",
+  "title": "ヘタリア World★Stars",
+  "city": "欧洲",
+  "cover": "https://image.xinu.ink/pic/data/730/images/317615.jpg",
+  "color": "#95806a",
+  "cp": "ヘタリアW★S",
+  "geo": [
+    52.51620264121502,
+    13.378225022318475
+  ],
+  "zoom": 10.814,
+  "modified": 1728836012601,
+  "litePoints": [
+    {
+      "id": "nrft0neg8",
+      "cn": "勃兰登堡门",
+      "name": "Brandenburger Tor",
+      "image": "https://image.anitabi.cn/user/0/bangumi/253046/points/nrft0neg8-1725179013113.jpg?plan=h160",
+      "ep": 12,
+      "s": 167,
+      "geo": [
+        52.5162,
+        13.3777
+      ]
+    },
+    {
+      "id": "nrj5lqfxb",
+      "cn": "国家博物馆 (布拉格)",
+      "name": "Národní muzeum",
+      "image": "https://image.anitabi.cn/user/0/bangumi/317615/points/nrj5lqfxb-1725186331592.jpg?plan=h160",
+      "ep": 4,
+      "s": 70,
+      "geo": [
+        50.0789,
+        14.4309
+      ]
+    },
+    {
+      "id": "nrjipqqhu",
+      "cn": "圣母百花大教堂",
+      "name": "Cattedrale di Santa Maria del Fiore",
+      "image": "https://image.anitabi.cn/user/0/bangumi/317615/points/nrjipqqhu-1725187105339.jpg?plan=h160",
+      "ep": 12,
+      "s": 63,
+      "geo": [
+        43.7731,
+        11.2566
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 730
+}

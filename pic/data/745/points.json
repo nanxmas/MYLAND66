@@ -1,0 +1,53 @@
+[
+  {
+    "id": "5db6b08b",
+    "cn": "中国家庭料理 楊",
+    "name": "高柳ビル",
+    "image": "https://image.xinu.ink/pic/data/745/images/5db6b08b_1741540481366.jpg",
+    "s": 127,
+    "geo": [
+      35.73,
+      139.7072
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1EXQneD6QLN5KGzK_VlnD1dg5MkyUCrE&ll=35.730038%2C139.707283&z=17"
+  },
+  {
+    "id": "cd5b41a4",
+    "cn": "口福処 平五郎",
+    "name": "第二ジェスペールビル 1f",
+    "image": "https://image.xinu.ink/pic/data/745/images/cd5b41a4_1741540863779.jpg",
+    "s": 932,
+    "geo": [
+      35.6689,
+      139.7501
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1EXQneD6QLN5KGzK_VlnD1dg5MkyUCrE&ll=35.668955%2C139.750193&z=17"
+  },
+  {
+    "id": "6642cbf0",
+    "name": "焼肉 清月苑",
+    "image": "https://image.xinu.ink/pic/data/745/images/6642cbf0_1741541061708.jpg",
+    "s": 2015,
+    "geo": [
+      35.5706,
+      139.599
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1EXQneD6QLN5KGzK_VlnD1dg5MkyUCrE&ll=35.570653%2C139.599038&z=17"
+  },
+  {
+    "id": "39655f17",
+    "cn": "餃子菜苑",
+    "name": "東町２４−５",
+    "image": "https://image.xinu.ink/pic/data/745/images/39655f17_1741541242119.jpg",
+    "s": 3092,
+    "geo": [
+      35.9916,
+      139.0838
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1EXQneD6QLN5KGzK_VlnD1dg5MkyUCrE&ll=35.991606%2C139.083874&z=17"
+  }
+]

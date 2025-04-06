@@ -1,0 +1,87 @@
+{
+  "id": 312310,
+  "title": "一人之下4 出发！碧游村",
+  "city": "贵州省",
+  "cover": "https://image.xinu.ink/pic/data/719/images/312310.jpg",
+  "color": "#63cdf1",
+  "geo": [
+    26.661986299169826,
+    108.29452458826972
+  ],
+  "zoom": 8.343,
+  "modified": 1734460572324,
+  "litePoints": [
+    {
+      "id": "nmz9z8di8",
+      "cn": "西江千户苗寨",
+      "name": "西江千戶苗寨",
+      "image": "https://image.anitabi.cn/user/0/bangumi/312310/points/nmz9z8di8-1724829577320.jpg?plan=h160",
+      "ep": 6,
+      "s": 956,
+      "geo": [
+        26.4945,
+        108.1697
+      ]
+    },
+    {
+      "id": "nmzcu5zgs",
+      "cn": "北盘江大桥",
+      "name": "北盘江大桥",
+      "image": "https://image.anitabi.cn/user/0/bangumi/312310/points/nmzcu5zgs-1724829748459.jpg?plan=h160",
+      "ep": 23,
+      "s": 1174,
+      "geo": [
+        26.3855,
+        104.6743
+      ]
+    },
+    {
+      "id": "nmzynm4qm",
+      "cn": "六盘水国贸广场",
+      "name": "六盘水国贸广场",
+      "image": "https://image.anitabi.cn/user/0/bangumi/312310/points/nmzynm4qm-1724831109718.jpg?plan=h160",
+      "ep": 13,
+      "s": 1373,
+      "geo": [
+        26.5882,
+        104.8489
+      ]
+    },
+    {
+      "id": "nn03mlevl",
+      "cn": "六盘水市",
+      "name": "六盘水市",
+      "image": "https://image.anitabi.cn/user/0/bangumi/312310/points/nn03mlevl-1724831365682.jpg?plan=h160",
+      "ep": 14,
+      "s": 1358,
+      "geo": [
+        26.6505,
+        104.7688
+      ]
+    },
+    {
+      "id": "r1o0tf96g",
+      "cn": "都匀市区",
+      "name": "都匀市区",
+      "image": "https://image.anitabi.cn/user/0/bangumi/312310/points/r1o0tf96g-1734443910481.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        26.2561,
+        107.5123
+      ]
+    },
+    {
+      "id": "njiobjw6n",
+      "cn": "镇远古城",
+      "name": "镇远古城",
+      "image": "https://image.anitabi.cn/user/0/bangumi/312310/points/njiobjw6n-1724559582563.jpg?plan=h160",
+      "geo": [
+        27.0521,
+        108.4249
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 719
+}

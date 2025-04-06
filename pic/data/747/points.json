@@ -1,0 +1,811 @@
+[
+  {
+    "id": "51i52h2zi",
+    "name": "果報バンタ",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h2zi_1672374315966.jpg",
+    "ep": 21,
+    "s": 323,
+    "geo": [
+      26.3607,
+      127.9923
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.360728%2C127.992301&z=17"
+  },
+  {
+    "id": "82742v2hl",
+    "cn": "曼谷大皇宫",
+    "name": "王宮",
+    "image": "https://image.xinu.ink/pic/data/747/images/82742v2hl-1680884500416.jpg",
+    "ep": 1,
+    "s": "224",
+    "geo": [
+      13.7497,
+      100.4917
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=13.749752%2C100.49178&z=17"
+  },
+  {
+    "id": "dscce5fsl",
+    "name": "那覇空港 見学者デッキ",
+    "image": "https://image.xinu.ink/pic/data/747/images/dscce5fsl-1697038790805.jpg",
+    "ep": 12,
+    "geo": [
+      26.2115,
+      127.6504
+    ],
+    "origin": "Anitabi@pshow",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "51i52gx11",
+    "name": "あざまサンサンビーチのブランコ",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gx11_1672374177916.jpg",
+    "geo": [
+      26.1786,
+      127.8287
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.178667%2C127.828717&z=17"
+  },
+  {
+    "id": "51i52gwgy",
+    "name": "東屋",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gwgy_1672374180351.jpg",
+    "geo": [
+      26.1766,
+      127.8305
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.176609%2C127.830504&z=17"
+  },
+  {
+    "id": "51i52gwzj",
+    "name": "駐車場",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gwzj_1672374181364.jpg",
+    "geo": [
+      26.1761,
+      127.8298
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.176109%2C127.82986&z=17"
+  },
+  {
+    "id": "51i52gwg3",
+    "name": "水族館前",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gwg3_1672374183525.jpg",
+    "geo": [
+      26.1756,
+      127.8299
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.17568%2C127.829962&z=17"
+  },
+  {
+    "id": "51i52gwem",
+    "name": "風車",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gwem_1672374184799.jpg",
+    "geo": [
+      26.1647,
+      127.8078
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.164701%2C127.807862&z=17"
+  },
+  {
+    "id": "51i52gwfz",
+    "name": "知念小学校前の交差点",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gwfz_1672374187725.jpg",
+    "geo": [
+      26.1696,
+      127.8209
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.16966%2C127.820941&z=17"
+  },
+  {
+    "id": "51i52gwgx",
+    "name": "知念久手堅の路地①",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gwgx_1672374210064.jpg",
+    "geo": [
+      26.1717,
+      127.8217
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.171763%2C127.821758&z=17"
+  },
+  {
+    "id": "51i52gwxj",
+    "name": "知念久手堅の路地②",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gwxj_1672374212473.jpg",
+    "geo": [
+      26.1695,
+      127.8232
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.169546%2C127.823273&z=17"
+  },
+  {
+    "id": "51i52gwzf",
+    "name": "くくる家の位置的モデル地（候補）",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gwzf_1672374213606.jpg",
+    "geo": [
+      26.1669,
+      127.8225
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.166998%2C127.822538&z=17"
+  },
+  {
+    "id": "51i52gxsb",
+    "name": "バスの車窓",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gxsb_1672374215161.jpg",
+    "geo": [
+      26.1504,
+      127.7528
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.150451%2C127.752884&z=17"
+  },
+  {
+    "id": "51i52gxit",
+    "name": "百名バスターミナル",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gxit_1672374216817.jpg",
+    "geo": [
+      26.1397,
+      127.7892
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.139744%2C127.789298&z=17"
+  },
+  {
+    "id": "51i52gx7d",
+    "name": "百名バスターミナル前",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gx7d_1672374218285.jpg",
+    "geo": [
+      26.1396,
+      127.7894
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.139683%2C127.789492&z=17"
+  },
+  {
+    "id": "51i52gxgq",
+    "name": "百名ビーチ　ヤハラヅカサ付近",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gxgq_1672374220224.jpg",
+    "geo": [
+      26.1398,
+      127.7965
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.139899%2C127.796512&z=17"
+  },
+  {
+    "id": "51i52gxqp",
+    "name": "くくるがバイクで走っていた道（候補）",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gxqp_1672374222053.jpg",
+    "geo": [
+      26.1482,
+      127.7976
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.148289%2C127.797601&z=17"
+  },
+  {
+    "id": "51i52gxbw",
+    "name": "風花が歩いていた道（ニライカナイ橋を望む）",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gxbw_1672374223706.jpg",
+    "geo": [
+      26.1655,
+      127.8184
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.165549%2C127.818443&z=17"
+  },
+  {
+    "id": "51i52gxk1",
+    "name": "風花が歩いていた道②",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gxk1_1672374224924.jpg",
+    "geo": [
+      26.167,
+      127.8184
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.167004%2C127.81847&z=17"
+  },
+  {
+    "id": "51i52gxoc",
+    "name": "「がんじゅう駅・南城」付近",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gxoc_1672374226082.jpg",
+    "geo": [
+      26.1701,
+      127.8265
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.170175%2C127.826559&z=17"
+  },
+  {
+    "id": "51i52gxb6",
+    "name": "風花と夏凛が休憩していた場所？（候補）",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gxb6_1672374232829.jpg",
+    "geo": [
+      26.1693,
+      127.8231
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.169372%2C127.823184&z=17"
+  },
+  {
+    "id": "51i52gxn9",
+    "name": "知念岬公園",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gxn9_1672374234057.jpg",
+    "geo": [
+      26.1667,
+      127.83
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.166746%2C127.830087&z=17"
+  },
+  {
+    "id": "51i52gxag",
+    "name": "「ごはんやカメー」立地モデル地",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gxag_1672374235137.jpg",
+    "geo": [
+      26.1688,
+      127.8257
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.168809%2C127.825766&z=17"
+  },
+  {
+    "id": "51i52gy97",
+    "name": "知念の海岸線　遠景",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gy97_1672374236163.jpg",
+    "geo": [
+      26.169,
+      127.8256
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.169006%2C127.825696&z=17"
+  },
+  {
+    "id": "51i52gyoa",
+    "name": "久手堅ビーチ",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gyoa_1672374237585.jpg",
+    "geo": [
+      26.1661,
+      127.8255
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.166151%2C127.825569&z=17"
+  },
+  {
+    "id": "51i52gycn",
+    "name": "海岸へ至る道",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gycn_1672374245064.jpg",
+    "geo": [
+      26.1676,
+      127.8266
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.167656%2C127.82667&z=17"
+  },
+  {
+    "id": "51i52gya6",
+    "name": "水族館の裏",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gya6_1672374246619.jpg",
+    "geo": [
+      26.1754,
+      127.83
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.175406%2C127.830063&z=17"
+  },
+  {
+    "id": "51i52gyhd",
+    "name": "Aコープ",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gyhd_1672374256023.jpg",
+    "geo": [
+      26.1693,
+      127.8212
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.169375%2C127.821287&z=17"
+  },
+  {
+    "id": "51i52gyhp",
+    "name": "キジムナーが座っていた東屋",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gyhp_1672374257093.jpg",
+    "geo": [
+      26.1467,
+      127.805
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.146799%2C127.805097&z=17"
+  },
+  {
+    "id": "51i52gyac",
+    "name": "夏凛の裏道①",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gyac_1672374258380.jpg",
+    "geo": [
+      26.1533,
+      127.8025
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.153343%2C127.802592&z=17"
+  },
+  {
+    "id": "51i52gyg6",
+    "name": "夏凛の裏道②",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gyg6_1672374259285.jpg",
+    "geo": [
+      26.1402,
+      127.7831
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.140229%2C127.783117&z=17"
+  },
+  {
+    "id": "51i52gych",
+    "name": "夏凛の裏道③",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gych_1672374260567.jpg",
+    "geo": [
+      26.1411,
+      127.7809
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.141168%2C127.780998&z=17"
+  },
+  {
+    "id": "51i52gxyp",
+    "name": "水族館へ続く坂道",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gxyp_1672374261820.jpg",
+    "geo": [
+      26.1749,
+      127.829
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.174987%2C127.829013&z=17"
+  },
+  {
+    "id": "51i52gy0j",
+    "name": "イルカ像",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gy0j_1672374262827.jpg",
+    "geo": [
+      26.1742,
+      127.8288
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.174291%2C127.82886&z=17"
+  },
+  {
+    "id": "51i52gy8v",
+    "name": "知念海洋レジャーセンター前バス停",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gy8v_1672374264240.jpg",
+    "geo": [
+      26.1738,
+      127.8288
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.173812%2C127.828898&z=17"
+  },
+  {
+    "id": "51i52gys8",
+    "name": "「カメー」前の道路",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gys8_1672374265322.jpg",
+    "geo": [
+      26.1689,
+      127.826
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.168979%2C127.826012&z=17"
+  },
+  {
+    "id": "51i52gzfh",
+    "name": "「ニライカナイ橋」青看板",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gzfh_1672374267980.jpg",
+    "geo": [
+      26.168,
+      127.8171
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.16801%2C127.817144&z=17"
+  },
+  {
+    "id": "51i52gyto",
+    "name": "Y字路",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gyto_1672374269238.jpg",
+    "geo": [
+      26.1668,
+      127.8119
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.166874%2C127.811981&z=17"
+  },
+  {
+    "id": "51i52gyxp",
+    "name": "トンネル",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gyxp_1672374270641.jpg",
+    "geo": [
+      26.1673,
+      127.815
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.16733%2C127.815047&z=17"
+  },
+  {
+    "id": "51i52gz6i",
+    "name": "「ニライカナイ橋」俯瞰カット",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gz6i_1672374271950.jpg",
+    "geo": [
+      26.1674,
+      127.815
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.167458%2C127.815033&z=17"
+  },
+  {
+    "id": "51i52gz7e",
+    "name": "安座真港",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gz7e_1672374277339.jpg",
+    "geo": [
+      26.1793,
+      127.8258
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.179309%2C127.825884&z=17"
+  },
+  {
+    "id": "51i52gz5m",
+    "name": "安座真港付近",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gz5m_1672374278678.jpg",
+    "geo": [
+      26.179,
+      127.825
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.179097%2C127.825079&z=17"
+  },
+  {
+    "id": "51i52gz2c",
+    "name": "安座真サンサンビーチ入口バス停",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gz2c_1672374279614.jpg",
+    "geo": [
+      26.178,
+      127.8252
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.178096%2C127.825261&z=17"
+  },
+  {
+    "id": "51i52gypy",
+    "name": "ハートの鐘",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gypy_1672374280574.jpg",
+    "geo": [
+      26.1788,
+      127.8297
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.178852%2C127.829723&z=17"
+  },
+  {
+    "id": "51i52gyrl",
+    "name": "サンサンビーチ入口",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gyrl_1672374281826.jpg",
+    "geo": [
+      26.1741,
+      127.8287
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.174144%2C127.828739&z=17"
+  },
+  {
+    "id": "51i52gypr",
+    "name": "国道331号（知念海洋レジャーセンター付近）",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gypr_1672374282782.jpg",
+    "geo": [
+      26.1728,
+      127.8286
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.172808%2C127.828643&z=17"
+  },
+  {
+    "id": "51i52gzlq",
+    "name": "新原ビーチバス停",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gzlq_1672374283995.jpg",
+    "geo": [
+      26.1347,
+      127.7911
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.134795%2C127.791129&z=17"
+  },
+  {
+    "id": "51i52gzm5",
+    "name": "斎場御嶽　三庫理",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52gzm5_1672374285074.jpg",
+    "geo": [
+      26.1731,
+      127.8271
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.173132%2C127.827103&z=17"
+  },
+  {
+    "id": "51i52h077",
+    "name": "那覇空港",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h077_1672374286433.jpg",
+    "geo": [
+      26.2078,
+      127.6508
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.207889%2C127.650851&z=17"
+  },
+  {
+    "id": "51i52h052",
+    "name": "那覇バスターミナル",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h052_1672374287418.jpg",
+    "geo": [
+      26.211,
+      127.6763
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.211069%2C127.676329&z=17"
+  },
+  {
+    "id": "51i52h05j",
+    "name": "県庁北口交差点",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h05j_1672374288494.jpg",
+    "geo": [
+      26.2137,
+      127.6806
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.21377%2C127.680621&z=17"
+  },
+  {
+    "id": "51i52h05z",
+    "name": "松尾交差点",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h05z_1672374289601.jpg",
+    "geo": [
+      26.215,
+      127.6844
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.215024%2C127.684455&z=17"
+  },
+  {
+    "id": "51i52h0we",
+    "name": "新天地市場本通り商店街（北詰）",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h0we_1672374290862.jpg",
+    "geo": [
+      26.2161,
+      127.6879
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.216139%2C127.68793&z=17"
+  },
+  {
+    "id": "51i52h0hz",
+    "name": "プランタビル",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h0hz_1672374291841.jpg",
+    "geo": [
+      26.2162,
+      127.688
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.21629%2C127.688077&z=17"
+  },
+  {
+    "id": "51i52h0tw",
+    "name": "市場本通り",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h0tw_1672374292860.jpg",
+    "geo": [
+      26.2148,
+      127.6884
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.214873%2C127.688458&z=17"
+  },
+  {
+    "id": "51i52h0c3",
+    "name": "魚久鮮魚　横",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h0c3_1672374293922.jpg",
+    "geo": [
+      26.2149,
+      127.6878
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.214961%2C127.687888&z=17"
+  },
+  {
+    "id": "51i52h0pz",
+    "name": "那覇の街並み遠景（ダイワロイネットホテル那覇おもろまち）",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h0pz_1672374295081.jpg",
+    "geo": [
+      26.2231,
+      127.695
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.223156%2C127.695046&z=17"
+  },
+  {
+    "id": "51i52h0a5",
+    "name": "ブライダルハウス チュチュ",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h0a5_1672374295991.jpg",
+    "geo": [
+      26.2194,
+      127.6817
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.219498%2C127.681744&z=17"
+  },
+  {
+    "id": "51i52h1dg",
+    "name": "ジャネー浜",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h1dg_1672374297146.jpg",
+    "geo": [
+      26.4412,
+      127.7677
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.441261%2C127.767778&z=17"
+  },
+  {
+    "id": "51i52h1ba",
+    "name": "南冥の塔入口の石碑",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h1ba_1672374298750.jpg",
+    "geo": [
+      26.0905,
+      127.7185
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.090582%2C127.718534&z=17"
+  },
+  {
+    "id": "51i52h1cl",
+    "name": "祠のモデル？",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h1cl_1672374299932.jpg",
+    "geo": [
+      26.4402,
+      127.715
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.440249%2C127.715018&z=17"
+  },
+  {
+    "id": "51i52h1on",
+    "name": "生き物をとっていた海岸",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h1on_1672374300803.jpg",
+    "geo": [
+      26.1158,
+      127.7454
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.11588%2C127.745423&z=17"
+  },
+  {
+    "id": "51i52h18c",
+    "name": "ティンガーラ建設地",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h18c_1672374301764.jpg",
+    "geo": [
+      26.344,
+      127.7481
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.344067%2C127.748132&z=17"
+  },
+  {
+    "id": "51i52h2e9",
+    "name": "南風原さんが泊まっていたホテル",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h2e9_1672374302961.jpg",
+    "geo": [
+      26.5943,
+      127.9682
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.594322%2C127.968244&z=17"
+  },
+  {
+    "id": "51i52h2g9",
+    "name": "渡具知ビーチ",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h2g9_1672374304071.jpg",
+    "geo": [
+      26.3646,
+      127.7376
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.364676%2C127.737683&z=17"
+  },
+  {
+    "id": "51i52h234",
+    "name": "比謝川大橋",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h234_1672374305155.jpg",
+    "geo": [
+      26.364,
+      127.7482
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.364033%2C127.748268&z=17"
+  },
+  {
+    "id": "51i52h26v",
+    "name": "備瀬のフクギ並木 OPのカット",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h26v_1672374306692.jpg",
+    "geo": [
+      26.7033,
+      127.8812
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.703342%2C127.881287&z=17"
+  },
+  {
+    "id": "51i52h2he",
+    "name": "備瀬のフクギ並木　くくるが歩いていた道",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h2he_1672374307831.jpg",
+    "geo": [
+      26.7056,
+      127.8809
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.705661%2C127.880932&z=17"
+  },
+  {
+    "id": "51i52h1vn",
+    "name": "アーチ状の建物",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h1vn_1672374308767.jpg",
+    "geo": [
+      26.6957,
+      127.8779
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.695777%2C127.877928&z=17"
+  },
+  {
+    "id": "51i52h2gj",
+    "name": "海岸へ続く道",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h2gj_1672374311535.jpg",
+    "geo": [
+      26.6952,
+      127.8771
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.695204%2C127.877174&z=17"
+  },
+  {
+    "id": "51i52h1v8",
+    "name": "道の駅「許田」",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h1v8_1672374312559.jpg",
+    "geo": [
+      26.5521,
+      127.9697
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.552109%2C127.969767&z=17"
+  },
+  {
+    "id": "51i52h386",
+    "name": "くくると風花のアパート付近",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h386_1672374313530.jpg",
+    "geo": [
+      26.3277,
+      127.7738
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.327745%2C127.773809&z=17"
+  },
+  {
+    "id": "51i52h2zf",
+    "name": "上勢頭南公園",
+    "image": "https://image.xinu.ink/pic/data/747/images/51i52h2zf_1672374314703.jpg",
+    "geo": [
+      26.3285,
+      127.774
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.3285%2C127.774097&z=17"
+  }
+]

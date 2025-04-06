@@ -1,0 +1,88 @@
+{
+  "id": 340167,
+  "cn": "爱丽丝和特蕾丝的梦幻工厂",
+  "title": "アリスとテレスのまぼろし工場",
+  "city": "釜石市",
+  "cover": "https://image.xinu.ink/pic/data/772/images/340167.jpg",
+  "geo": [
+    39.26701896789638,
+    141.87467212201807
+  ],
+  "zoom": 11.124,
+  "modified": 1727512445742,
+  "litePoints": [
+    {
+      "id": "ikvlalggv",
+      "cn": "海云铁道神社",
+      "name": "ひたちなか開運鐵道神社",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/340167/points/ikvlalggv-1710559421492.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        36.3837,
+        140.6124
+      ]
+    },
+    {
+      "id": "ikdalvkdm",
+      "cn": "三号桥",
+      "name": "三の橋",
+      "image": "https://image.anitabi.cn/points/340167/ikdalvkdm_1710562615423.jpg?plan=h160",
+      "geo": [
+        39.2725,
+        141.8748
+      ]
+    },
+    {
+      "id": "ikdu7nfyw",
+      "cn": "新日铁釜石制铁所发电厂",
+      "name": "日本製鉄（株） 北日本製鉄所釜石地区 釜石火力発電所",
+      "image": "https://image.anitabi.cn/points/340167/ikdu7nfyw_1710562622987.jpg?plan=h160",
+      "geo": [
+        39.2692,
+        141.8766
+      ]
+    },
+    {
+      "id": "ikwvetvhs",
+      "name": "鉄剣タロー跡",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/340167/points/ikwvetvhs-1710562128143.jpg?plan=h160",
+      "geo": [
+        36.1249,
+        139.4596
+      ]
+    },
+    {
+      "id": "ikwmhp0ar",
+      "cn": " 岩泉商工会（原岩泉站址）",
+      "name": " 岩泉商工会（旧岩泉駅舎）",
+      "image": "https://image.anitabi.cn/points/340167/ikwmhp0ar_1710562634087.jpg?plan=h160",
+      "geo": [
+        39.8451,
+        141.7865
+      ]
+    },
+    {
+      "id": "ikwbmydt7",
+      "cn": "惣郷川桥",
+      "name": "惣郷川橋梁",
+      "image": "https://image.anitabi.cn/points/340167/ikwbmydt7_1710562640624.jpg?plan=h160",
+      "geo": [
+        34.5875,
+        131.5559
+      ]
+    },
+    {
+      "id": "ikw4hxksa",
+      "cn": "神田桥",
+      "name": "神田橋",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/340167/points/ikw4hxksa-1710560654020.jpg?plan=h160",
+      "geo": [
+        34.3473,
+        135.6903
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "local_id": 772
+}

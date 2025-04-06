@@ -1,0 +1,107 @@
+{
+  "id": 347953,
+  "cn": "群青的号角",
+  "title": "群青のファンファーレ",
+  "city": "白井市",
+  "cover": "https://image.xinu.ink/pic/data/778/images/347953.jpg",
+  "color": "#06adde",
+  "cp": "Fanfare Anime Pr…",
+  "geo": [
+    35.776763788053245,
+    140.03349879993743
+  ],
+  "zoom": 13.911949248298361,
+  "modified": 1727685018377,
+  "litePoints": [
+    {
+      "id": "5pcovxk0",
+      "name": "日本中央競馬会競馬学校",
+      "image": "https://image.anitabi.cn/points/347953/5pcovxk0_1727684916930.jpg?plan=h160",
+      "geo": [
+        35.7804,
+        140.0381
+      ]
+    },
+    {
+      "id": "5pcovxu3",
+      "name": "旧木下街道交差点",
+      "image": "https://image.anitabi.cn/points/347953/5pcovxu3_1727684933253.jpg?plan=h160",
+      "geo": [
+        35.7714,
+        140.0298
+      ]
+    },
+    {
+      "id": "5pcovxj9",
+      "name": "ローソン 白井根店",
+      "image": "https://image.anitabi.cn/points/347953/5pcovxj9_1727684940411.jpg?plan=h160",
+      "geo": [
+        35.7718,
+        140.0322
+      ]
+    },
+    {
+      "id": "5pcovxbd",
+      "name": "白井ゴルフ",
+      "image": "https://image.anitabi.cn/points/347953/5pcovxbd_1727684948628.jpg?plan=h160",
+      "geo": [
+        35.7758,
+        140.0395
+      ]
+    },
+    {
+      "id": "5pcovxuj",
+      "name": "東京競馬場",
+      "image": "https://image.anitabi.cn/points/347953/5pcovxuj_1727683726704.jpg?plan=h160",
+      "geo": [
+        35.6624,
+        139.4858
+      ]
+    },
+    {
+      "id": "5pcovxh5",
+      "name": "府中競馬正門前駅",
+      "image": "https://image.anitabi.cn/points/347953/5pcovxh5_1727683738487.jpg?plan=h160",
+      "geo": [
+        35.6683,
+        139.485
+      ]
+    },
+    {
+      "id": "oneh5kb69",
+      "name": "渋谷スクランブル交差点",
+      "image": "https://image.anitabi.cn/points/347953/oneh5kb69_1727683800447.jpg?plan=h160",
+      "geo": [
+        35.6594,
+        139.7004
+      ]
+    },
+    {
+      "id": "5pcovxn4",
+      "name": "西白井駅",
+      "geo": [
+        35.7844,
+        140.0317
+      ]
+    },
+    {
+      "id": "5pcovxbi",
+      "name": "オブジェ",
+      "geo": [
+        35.7823,
+        140.0317
+      ]
+    },
+    {
+      "id": "5pcovxb7",
+      "name": "けやき台多目的広場 調整池",
+      "geo": [
+        35.781,
+        140.0328
+      ]
+    }
+  ],
+  "pointsLength": 14,
+  "imagesLength": 7,
+  "local_id": 778
+}

@@ -1,0 +1,80 @@
+{
+  "id": 318543,
+  "cn": "扶桑花之舞",
+  "title": "フラ・フラダンス",
+  "city": "磐城市",
+  "cover": "https://image.xinu.ink/pic/data/732/images/318543_O1507.jpg",
+  "color": "#fcc900",
+  "cp": "おしゃれサロンなつなぎ",
+  "modified": 1730967396965,
+  "litePoints": [
+    {
+      "id": "pt9xpgyvb",
+      "name": "湯本駅",
+      "image": "https://image.anitabi.cn/points/318543/pt9xpgyvb_1730965190049.jpg?plan=h160",
+      "geo": [
+        37.0065,
+        140.8499
+      ]
+    },
+    {
+      "id": "pt9ym0whi",
+      "cn": "Hotel Hawaiians",
+      "name": "ホテル​ハワイ​アンズ",
+      "image": "https://image.anitabi.cn/points/318543/pt9ym0whi_1730965243848.jpg?plan=h160",
+      "geo": [
+        36.9937,
+        140.8175
+      ]
+    },
+    {
+      "id": "ptauzo3cz",
+      "cn": "Spa Resort Hawaiians",
+      "name": "スパ​リゾート​ハワイ​アンズ",
+      "image": "https://image.anitabi.cn/points/318543/ptauzo3cz_1730967256251.jpg?plan=h160",
+      "geo": [
+        36.9939,
+        140.816
+      ]
+    },
+    {
+      "id": "pta319x1w",
+      "name": "いわき​回廊​美術館のステージ",
+      "image": "https://image.anitabi.cn/points/318543/pta319x1w_1730965607313.jpg?plan=h160",
+      "geo": [
+        37.0707,
+        140.9256
+      ]
+    },
+    {
+      "id": "ptabdlbq4",
+      "name": "末続駅前",
+      "image": "https://image.anitabi.cn/points/318543/ptabdlbq4_1730966030656.jpg?plan=h160",
+      "geo": [
+        37.1727,
+        140.9949
+      ]
+    },
+    {
+      "id": "ptac1o7ax",
+      "name": "末続駅内",
+      "image": "https://image.anitabi.cn/points/318543/ptac1o7ax_1730966050843.jpg?plan=h160",
+      "geo": [
+        37.1725,
+        140.9955
+      ]
+    },
+    {
+      "id": "ptahhlxox",
+      "name": "いわき​駅南口",
+      "image": "https://image.anitabi.cn/points/318543/ptahhlxox_1730966419441.jpg?plan=h160",
+      "geo": [
+        37.0579,
+        140.8922
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "local_id": 732
+}

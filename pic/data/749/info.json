@@ -1,0 +1,123 @@
+{
+  "id": 326895,
+  "cn": "夏日重现",
+  "title": "サマータイムレンダ",
+  "city": "和歌山市",
+  "cover": "https://image.xinu.ink/pic/data/749/images/326895.jpg",
+  "color": "#1f6fde",
+  "cp": "サマータイムレンダ",
+  "geo": [
+    34.3151540275863,
+    134.67858267816484
+  ],
+  "zoom": 8.73019628176991,
+  "modified": 1741707693142,
+  "litePoints": [
+    {
+      "id": "5plrht1r",
+      "name": "第２砲台跡",
+      "image": "https://image.anitabi.cn/points/326895/5plrht1r.jpg?plan=h160",
+      "ep": 1,
+      "s": 1287,
+      "geo": [
+        34.2822,
+        135.0005
+      ]
+    },
+    {
+      "id": "5plrhu26",
+      "name": "加太小学校前",
+      "image": "https://image.anitabi.cn/points/326895/5plrhu26.jpg?plan=h160",
+      "ep": 3,
+      "s": 853,
+      "geo": [
+        34.2736,
+        135.0762
+      ]
+    },
+    {
+      "id": "5plrhv7c",
+      "name": "男木港①",
+      "image": "https://image.anitabi.cn/points/326895/5plrhv7c.jpg?plan=h160",
+      "ep": 1,
+      "s": 162,
+      "geo": [
+        34.4223,
+        134.0539
+      ]
+    },
+    {
+      "id": "svrfqp568",
+      "name": "Y字路",
+      "image": "https://image.anitabi.cn/user/0/bangumi/326895/points/svrfqp568-1739623379504.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.2743,
+        135.0704
+      ]
+    },
+    {
+      "id": "svrs3mipi",
+      "cn": "和歌山市站5站台",
+      "name": "和歌山市駅5のりば",
+      "image": "https://image.anitabi.cn/user/0/bangumi/326895/points/svrs3mipi-1739624115863.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        34.2364,
+        135.1661
+      ]
+    },
+    {
+      "id": "svs35635c",
+      "cn": "和歌山市站3站台",
+      "name": "和歌山市駅三のりば",
+      "image": "https://image.anitabi.cn/user/0/bangumi/326895/points/svs35635c-1739624796422.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        34.2366,
+        135.1667
+      ]
+    },
+    {
+      "id": "svs8ogoci",
+      "cn": "小嶋一商店",
+      "name": "小嶋一商店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/326895/points/svs8ogoci-1739625233850.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        34.2744,
+        135.0707
+      ]
+    },
+    {
+      "id": "5plrht7x",
+      "name": "砲台跡へ続く道",
+      "image": "https://image.anitabi.cn/points/326895/5plrht7x.jpg?plan=h160",
+      "geo": [
+        34.2839,
+        135.0033
+      ]
+    },
+    {
+      "id": "5plrht8v",
+      "name": "第４砲台跡",
+      "image": "https://image.anitabi.cn/points/326895/5plrht8v.jpg?plan=h160",
+      "geo": [
+        34.2842,
+        135.0147
+      ]
+    },
+    {
+      "id": "5plrhu2q",
+      "name": "レンガ倉庫付近①",
+      "image": "https://image.anitabi.cn/points/326895/5plrhu2q.jpg?plan=h160",
+      "geo": [
+        34.2743,
+        135.0727
+      ]
+    }
+  ],
+  "pointsLength": 18,
+  "imagesLength": 18,
+  "local_id": 749
+}

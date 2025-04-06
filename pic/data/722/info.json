@@ -1,0 +1,55 @@
+{
+  "id": 313852,
+  "cn": "街角魔族 2丁目",
+  "title": "まちカドまぞく 2丁目",
+  "city": "多摩市",
+  "cover": "https://image.xinu.ink/pic/data/722/images/313852.jpg",
+  "color": "#9f1c6c",
+  "cp": "まちカドまぞく",
+  "geo": [
+    35.62618794369534,
+    139.42642183777286
+  ],
+  "zoom": 10.35,
+  "modified": 1724029846097,
+  "litePoints": [
+    {
+      "id": "n7ehbox0c",
+      "cn": "万朵庄",
+      "name": "ホーム・ベース",
+      "image": "https://image.anitabi.cn/user/0/bangumi/272510/points/n7ehbox0c-1723609266232.jpg?plan=h160",
+      "ep": 1,
+      "s": 1,
+      "geo": [
+        35.6502,
+        139.4449
+      ]
+    },
+    {
+      "id": "ncb4n2xv6",
+      "cn": "animate 圣迹樱丘店",
+      "name": "アニメイト 聖蹟桜ヶ丘オーパ店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/272510/points/ncb4n2xv6-1723993415374.jpg?plan=h160",
+      "ep": 1,
+      "s": 400,
+      "geo": [
+        35.6495,
+        139.4466
+      ]
+    },
+    {
+      "id": "cfdsbxdc8",
+      "cn": "多摩动物公园",
+      "name": "多摩動物公園",
+      "image": "https://image.anitabi.cn/points/272510/cfdsbxdc8_1724029334928_cut.jpg?plan=h160",
+      "ep": 8,
+      "geo": [
+        35.649,
+        139.4043
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 722
+}

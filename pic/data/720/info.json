@@ -1,0 +1,28 @@
+{
+  "id": 312783,
+  "cn": "月球坠落时",
+  "title": "月球坠落时 Moon Fall",
+  "cover": "https://image.xinu.ink/pic/data/720/images/312783.jpg",
+  "color": "#2a5580",
+  "geo": [
+    22.28575500000001,
+    114.13514699999996
+  ],
+  "zoom": 16,
+  "modified": 1723295585925,
+  "litePoints": [
+    {
+      "id": "ioyr0itao",
+      "cn": "山道",
+      "name": "香港大学山道天桥",
+      "image": "https://image.anitabi.cn/user/0/bangumi/312783/points/ioyr0itao-1710879751665.jpg?plan=h160",
+      "geo": [
+        22.2857,
+        114.1351
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 720
+}

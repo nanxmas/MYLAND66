@@ -1,0 +1,110 @@
+{
+  "id": 348598,
+  "cn": "神之山岭",
+  "title": "Le sommet des dieux",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/779/images/348598.jpg",
+  "color": "#42b7ff",
+  "cp": "Netflix",
+  "geo": [
+    27.87351567120686,
+    86.8082232994293
+  ],
+  "zoom": 9.384,
+  "modified": 1725838873602,
+  "litePoints": [
+    {
+      "id": "kp6w1f9tb",
+      "name": "新橋駅",
+      "image": "https://image.anitabi.cn/points/348598/kp6w1f9tb_1716539554329.jpg?plan=h160",
+      "geo": [
+        35.6663,
+        139.7583
+      ]
+    },
+    {
+      "id": "kp6w1f9un",
+      "name": "ローソン 築地四丁目店",
+      "image": "https://image.anitabi.cn/points/348598/kp6w1f9un_1716539567840.jpg?plan=h160",
+      "geo": [
+        35.6661,
+        139.7705
+      ]
+    },
+    {
+      "id": "kp6w1f9nc",
+      "name": "阿佐谷北１丁目３８",
+      "image": "https://image.anitabi.cn/points/348598/kp6w1f9nc_1716539575842.jpg?plan=h160",
+      "geo": [
+        35.7089,
+        139.6368
+      ]
+    },
+    {
+      "id": "kp6w1f9sk",
+      "name": "東が丘１丁目２７",
+      "image": "https://image.anitabi.cn/points/348598/kp6w1f9sk_1716539581337.jpg?plan=h160",
+      "geo": [
+        35.6305,
+        139.6683
+      ]
+    },
+    {
+      "id": "kp7us1fdc",
+      "name": "国道15号の案内標識",
+      "image": "https://image.anitabi.cn/points/348598/kp7us1fdc_1716541672806.jpg?plan=h160",
+      "geo": [
+        35.664,
+        139.7581
+      ]
+    },
+    {
+      "id": "kp6w1f9o4",
+      "name": "三愛ドリームセンター",
+      "image": "https://image.anitabi.cn/points/348598/kp6w1f9o4_1716539588292.jpg?plan=h160",
+      "geo": [
+        35.6712,
+        139.7646
+      ]
+    },
+    {
+      "id": "kp6w1fa4d",
+      "name": "森永地球儀ネオン",
+      "image": "https://image.anitabi.cn/points/348598/kp6w1fa4d_1716539652369.jpg?plan=h160",
+      "geo": [
+        35.6716,
+        139.7639
+      ]
+    },
+    {
+      "id": "kp6w1f9nm",
+      "name": "明神男坂",
+      "image": "https://image.anitabi.cn/points/348598/kp6w1f9nm_1716539674246.jpg?plan=h160",
+      "geo": [
+        35.7013,
+        139.7683
+      ]
+    },
+    {
+      "id": "kp6w1fa30",
+      "name": "明神女坂",
+      "image": "https://image.anitabi.cn/points/348598/kp6w1fa30_1716539723702.jpg?plan=h160",
+      "geo": [
+        35.7009,
+        139.768
+      ]
+    },
+    {
+      "id": "kp6w1f9lv",
+      "name": "屏風岩（1700m~2300m）",
+      "image": "https://image.anitabi.cn/points/348598/kp6w1f9lv_1716539739930.jpg?plan=h160",
+      "geo": [
+        36.3026,
+        137.6817
+      ]
+    }
+  ],
+  "pointsLength": 37,
+  "imagesLength": 37,
+  "local_id": 779
+}

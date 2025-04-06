@@ -1,0 +1,56 @@
+{
+  "id": 328674,
+  "cn": "夏日幽灵",
+  "title": "サマーゴースト",
+  "cover": "https://image.xinu.ink/pic/data/751/images/328674.jpg",
+  "color": "#1c398e",
+  "geo": [
+    34.81524760933041,
+    135.53282215545346
+  ],
+  "zoom": 8.953,
+  "modified": 1727218353507,
+  "litePoints": [
+    {
+      "id": "lllk0u7n5",
+      "name": "京都大学",
+      "image": "https://image.anitabi.cn/points/328674/lllk0u7n5_1719080465680.jpg?plan=h160",
+      "geo": [
+        35.0253,
+        135.7809
+      ]
+    },
+    {
+      "id": "lllqcsxbv",
+      "name": "京都​大学​大学院​理学​研究​科​岡山​天文台",
+      "image": "https://image.anitabi.cn/points/328674/lllqcsxbv_1719080467167.jpg?plan=h160",
+      "geo": [
+        34.5769,
+        133.5967
+      ]
+    },
+    {
+      "id": "lllwwvnoy",
+      "name": "兵庫縣立美術館",
+      "image": "https://image.anitabi.cn/points/328674/lllwwvnoy_1719079903840.jpg?plan=h160",
+      "s": 847,
+      "geo": [
+        34.6986,
+        135.2186
+      ]
+    },
+    {
+      "id": "oh714daj1",
+      "cn": "加古川市道新加古川左岸线",
+      "name": "加古川市道新加古川左岸線",
+      "image": "https://image.anitabi.cn/user/0/bangumi/328674/points/oh714daj1-1727197402850.jpg?plan=h160",
+      "geo": [
+        34.7809,
+        134.8506
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "local_id": 751
+}

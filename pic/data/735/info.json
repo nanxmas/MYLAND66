@@ -1,0 +1,41 @@
+{
+  "id": 320052,
+  "cn": "佐佐木与宫野",
+  "title": "佐々木と宮野",
+  "city": "横滨市",
+  "cover": "https://image.xinu.ink/pic/data/735/images/320052.jpg",
+  "color": "#f6b585",
+  "geo": [
+    35.46884082577968,
+    139.47950948504348
+  ],
+  "zoom": 15.427,
+  "modified": 1722514671227,
+  "litePoints": [
+    {
+      "id": "mp2dfw3d9",
+      "name": "歩道橋",
+      "image": "https://image.anitabi.cn/points/320052/mp2dfw3d9_1722171941064.jpg?plan=h160",
+      "ep": 6,
+      "s": 1102,
+      "geo": [
+        35.4701,
+        139.4794
+      ]
+    },
+    {
+      "id": "mp2sgkdc8",
+      "name": "橋戸北第二公園",
+      "image": "https://image.anitabi.cn/points/320052/mp2sgkdc8_1722172845942.jpg?plan=h160",
+      "ep": 12,
+      "s": 667,
+      "geo": [
+        35.468,
+        139.4779
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 735
+}

@@ -1,0 +1,52 @@
+{
+  "id": 332250,
+  "cn": "超自然武装当哒当",
+  "title": "ダンダダン",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/760/images/332250_XmrMI.jpg",
+  "modified": 1729837225243,
+  "litePoints": [
+    {
+      "id": "pevntbgbo",
+      "cn": "伊香保温泉",
+      "name": "伊香保温泉",
+      "image": "https://image.anitabi.cn/points/332250/pevntbgbo_1729837008278.jpg?plan=h160",
+      "geo": [
+        36.4973,
+        138.9163
+      ]
+    },
+    {
+      "id": "pevj3qaib",
+      "cn": "伊香保温泉石造台阶",
+      "name": "伊香保温泉石段街",
+      "image": "https://image.anitabi.cn/points/332250/pevj3qaib_1729836757289.jpg?plan=h160",
+      "geo": [
+        36.4972,
+        138.9163
+      ]
+    },
+    {
+      "id": "pevqn9xxd",
+      "name": "国立西洋美術館",
+      "image": "https://image.anitabi.cn/points/332250/pevqn9xxd_1729837176535.jpg?plan=h160",
+      "geo": [
+        35.715,
+        139.7754
+      ]
+    },
+    {
+      "id": "pevqweue7",
+      "cn": "国立西洋美术馆 地狱之门",
+      "name": "国立西洋美術館",
+      "image": "https://image.anitabi.cn/points/332250/pevqweue7_1729837201797.jpg?plan=h160",
+      "geo": [
+        35.715,
+        139.7757
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 760
+}

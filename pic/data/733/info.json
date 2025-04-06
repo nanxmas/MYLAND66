@@ -1,0 +1,101 @@
+{
+  "id": 319115,
+  "cn": "6天6人6把枪",
+  "title": "クロクロクロック",
+  "city": "名古屋市",
+  "cover": "https://image.xinu.ink/pic/data/733/images/319115.jpg",
+  "color": "#635547",
+  "geo": [
+    35.17102609805703,
+    136.8905415769757
+  ],
+  "zoom": 13.607,
+  "modified": 1723991241203,
+  "litePoints": [
+    {
+      "id": "ilaogt3ph",
+      "name": "ジェイアール名古屋タカシマヤ",
+      "image": "https://image.anitabi.cn/points/319115/ilaogt3ph_1710592607134.jpg?plan=h160",
+      "geo": [
+        35.1707,
+        136.8825
+      ]
+    },
+    {
+      "id": "ilauts2ml",
+      "name": "ゴールド劇場・シルバー劇場",
+      "image": "https://image.anitabi.cn/points/319115/ilauts2ml_1710592573386.jpg?plan=h160",
+      "geo": [
+        35.1672,
+        136.881
+      ]
+    },
+    {
+      "id": "ilaogt42u",
+      "name": "名古屋駅",
+      "geo": [
+        35.1709,
+        136.8815
+      ]
+    },
+    {
+      "id": "ilaogt3f4",
+      "name": "ソフマップ 名古屋駅ナカ店",
+      "geo": [
+        35.169,
+        136.8817
+      ]
+    },
+    {
+      "id": "ilaogt3ng",
+      "name": "驛釜きしめん",
+      "geo": [
+        35.1702,
+        136.8818
+      ]
+    },
+    {
+      "id": "ilaogt42n",
+      "name": "銀時計",
+      "geo": [
+        35.1702,
+        136.881
+      ]
+    },
+    {
+      "id": "ilaogt3cc",
+      "name": "金時計",
+      "geo": [
+        35.1708,
+        136.8829
+      ]
+    },
+    {
+      "id": "ilaogt3d3",
+      "name": "マーメイドカフェ JR 名古屋駅店",
+      "geo": [
+        35.1703,
+        136.882
+      ]
+    },
+    {
+      "id": "ilaogt419",
+      "name": "ゆりの噴水",
+      "geo": [
+        35.1704,
+        136.8804
+      ]
+    },
+    {
+      "id": "ilaogt3ye",
+      "name": "中村警察署 名古屋駅西交番",
+      "geo": [
+        35.1707,
+        136.8817
+      ]
+    }
+  ],
+  "pointsLength": 32,
+  "imagesLength": 2,
+  "local_id": 733
+}

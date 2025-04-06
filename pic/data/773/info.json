@@ -1,0 +1,28 @@
+{
+  "id": 340822,
+  "cn": "数码宝贝幽灵游戏",
+  "title": "デジモンゴーストゲーム",
+  "cover": "https://image.xinu.ink/pic/data/773/images/340822.jpg",
+  "color": "#bf4060",
+  "cp": "東映アニメーション",
+  "geo": [
+    35.715467000000004,
+    139.79331100000002
+  ],
+  "zoom": 16,
+  "modified": 1723295540471,
+  "litePoints": [
+    {
+      "id": "837hyo69b",
+      "name": "凌雲閣記念碑",
+      "image": "https://image.anitabi.cn/user/0/bangumi/340822/points/837hyo69b-1680964277433.jpg?plan=h160",
+      "geo": [
+        35.7154,
+        139.7933
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 773
+}

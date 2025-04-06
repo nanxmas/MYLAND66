@@ -1,0 +1,32 @@
+{
+  "id": 345825,
+  "cn": "剑来",
+  "title": "剑来",
+  "cover": "https://image.xinu.ink/pic/data/775/images/345825_CP6Fc.jpg",
+  "modified": 1736680187845,
+  "litePoints": [
+    {
+      "id": "rtveemdhz",
+      "cn": "永和桥",
+      "name": "永和桥",
+      "image": "https://image.anitabi.cn/user/0/bangumi/345825/points/rtveemdhz-1736654132044.jpg?plan=h160",
+      "geo": [
+        28.0653,
+        119.3399
+      ]
+    },
+    {
+      "id": "rtvi6pm0d",
+      "cn": "千年老槐",
+      "name": "千年老槐",
+      "image": "https://image.anitabi.cn/user/0/bangumi/345825/points/rtvi6pm0d-1736654776985.jpg?plan=h160",
+      "geo": [
+        28.0749,
+        119.1164
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 775
+}

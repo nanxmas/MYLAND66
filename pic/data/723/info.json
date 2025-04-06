@@ -1,0 +1,131 @@
+{
+  "id": 315069,
+  "cn": "堀与宫村",
+  "title": "ホリミヤ",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/723/images/315069_2zYW6.jpg",
+  "color": "#83544f",
+  "cp": "ホリミヤ",
+  "geo": [
+    35.62432742932786,
+    139.57190687137052
+  ],
+  "zoom": 9.607,
+  "modified": 1740308652744,
+  "litePoints": [
+    {
+      "id": "rl0w6t4w6",
+      "name": "セブン-イレブン 原町田６丁目店",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/315069/points/rl0w6t4w6-1735960865687.jpg?plan=h160",
+      "ep": 2,
+      "s": 14,
+      "geo": [
+        35.5436,
+        139.4469
+      ]
+    },
+    {
+      "id": "rl10kbts0",
+      "name": "Gi GO Machida",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/315069/points/rl10kbts0-1735961115901.jpg?plan=h160",
+      "ep": 2,
+      "s": 18,
+      "geo": [
+        35.5437,
+        139.4468
+      ]
+    },
+    {
+      "id": "rl13sq5l2",
+      "name": "おかしのまちおか町田店",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/315069/points/rl13sq5l2-1735961280703.jpg?plan=h160",
+      "ep": 2,
+      "s": 22,
+      "geo": [
+        35.5438,
+        139.4467
+      ]
+    },
+    {
+      "id": "rl168hfv6",
+      "name": "ラムタラ 町田駅前店",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/315069/points/rl168hfv6-1735961438446.jpg?plan=h160",
+      "ep": 2,
+      "s": 29,
+      "geo": [
+        35.5438,
+        139.4468
+      ]
+    },
+    {
+      "id": "rl18f9tbc",
+      "name": "餃子販売所 町田いち五郎",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/315069/points/rl18f9tbc-1735961569693.jpg?plan=h160",
+      "ep": 2,
+      "s": 32,
+      "geo": [
+        35.5439,
+        139.4467
+      ]
+    },
+    {
+      "id": "rl1gjoaej",
+      "cn": "豚山 町田店",
+      "name": "Ramen BUTAYAMA Machida",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/315069/points/rl1gjoaej-1735962047397.jpg?plan=h160",
+      "ep": 1,
+      "s": 200,
+      "geo": [
+        35.5436,
+        139.4477
+      ]
+    },
+    {
+      "id": "rl1in378x",
+      "name": "エスポアなかのや",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/315069/points/rl1in378x-1735962170947.jpg?plan=h160",
+      "ep": 1,
+      "s": 203,
+      "geo": [
+        35.5437,
+        139.448
+      ]
+    },
+    {
+      "id": "rl1nxt7fi",
+      "name": " 伏見通り",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/315069/points/rl1nxt7fi-1735962507338.jpg?plan=h160",
+      "ep": 4,
+      "s": 618,
+      "geo": [
+        35.7041,
+        139.5994
+      ]
+    },
+    {
+      "id": "rl1pofkcr",
+      "name": "モスバーガー西荻窪北口店",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/315069/points/rl1pofkcr-1735962592160.jpg?plan=h160",
+      "ep": 4,
+      "s": 616,
+      "geo": [
+        35.7041,
+        139.5993
+      ]
+    },
+    {
+      "id": "rl2s6993r",
+      "name": "（有）ニューリーフ",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/315069/points/rl2s6993r-1735964914357.jpg?plan=h160",
+      "ep": 4,
+      "s": 626,
+      "geo": [
+        35.7047,
+        139.5979
+      ]
+    }
+  ],
+  "pointsLength": 12,
+  "imagesLength": 12,
+  "local_id": 723
+}

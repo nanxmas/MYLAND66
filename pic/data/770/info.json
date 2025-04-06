@@ -1,0 +1,32 @@
+{
+  "id": 338567,
+  "cn": "战地2042",
+  "title": "Battlefield 2042",
+  "cover": "https://image.xinu.ink/pic/data/770/images/338567_1ByR6.jpg",
+  "modified": 1730272928836,
+  "litePoints": [
+    {
+      "id": "mticu8bjt",
+      "cn": "勿拉尼岛",
+      "name": "Brani Island",
+      "image": "https://image.anitabi.cn/user/0/bangumi/338567/points/mticu8bjt-1722520227478.jpg?plan=h160",
+      "geo": [
+        1.2613,
+        103.8349
+      ]
+    },
+    {
+      "id": "mtisayc00",
+      "cn": "航天发射中心",
+      "name": "97387 Rte de l'Espace, Kourou 97310",
+      "image": "https://image.anitabi.cn/user/0/bangumi/338567/points/mtisayc00-1722521135537.jpg?plan=h160",
+      "geo": [
+        5.1676,
+        -52.6831
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 770
+}

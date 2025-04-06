@@ -1,0 +1,119 @@
+{
+  "id": 319577,
+  "cn": "Chapter I",
+  "title": "Chapter I",
+  "city": "和歌山市",
+  "cover": "https://image.xinu.ink/pic/data/734/images/319577.jpg",
+  "color": "#9ed8f5",
+  "geo": [
+    33.88277934485879,
+    135.45663292445715
+  ],
+  "zoom": 8.148,
+  "modified": 1727308960847,
+  "litePoints": [
+    {
+      "id": "nffi2uxvq",
+      "cn": "加太站",
+      "name": "加太站 (和歌山縣)",
+      "image": "https://image.anitabi.cn/points/319577/nffi2uxvq_1724238078058.jpg?plan=h160",
+      "geo": [
+        34.275,
+        135.0809
+      ]
+    },
+    {
+      "id": "nfflcu9bb",
+      "cn": "加太站2",
+      "name": "加太駅",
+      "image": "https://image.anitabi.cn/points/319577/nfflcu9bb_1724238174874.jpg?plan=h160",
+      "geo": [
+        34.2751,
+        135.081
+      ]
+    },
+    {
+      "id": "nffokvy3g",
+      "name": "桃山町元",
+      "image": "https://image.anitabi.cn/points/319577/nffokvy3g_1724238452712.jpg?plan=h160",
+      "geo": [
+        34.2355,
+        135.3531
+      ]
+    },
+    {
+      "id": "nfv34is56",
+      "name": "熊野古道大門坂",
+      "image": "https://image.anitabi.cn/points/319577/nfv34is56_1724276974311_cblack.jpg?plan=h160",
+      "s": 127,
+      "geo": [
+        33.6714,
+        135.899
+      ]
+    },
+    {
+      "id": "nfv5rrzbu",
+      "cn": "冒險大世界",
+      "name": "アドベンチャー​ワールド",
+      "image": "https://image.anitabi.cn/points/319577/nfv5rrzbu_1724276978605_cblack.jpg?plan=h160",
+      "s": 145,
+      "geo": [
+        33.6676,
+        135.373
+      ]
+    },
+    {
+      "id": "nfvdj10fa",
+      "name": "SHIRAHAMA ​KEY ​TERRACE\nHOTEL ​SEAMORE",
+      "image": "https://image.anitabi.cn/points/319577/nfvdj10fa_1724277012330_cblack.jpg?plan=h160",
+      "s": 192,
+      "geo": [
+        33.6761,
+        135.3374
+      ]
+    },
+    {
+      "id": "nftad8we8",
+      "name": "橋杭港",
+      "image": "https://image.anitabi.cn/points/319577/nftad8we8_1724277020880_cblack.jpg?plan=h160",
+      "s": 66,
+      "geo": [
+        33.4846,
+        135.7943
+      ]
+    },
+    {
+      "id": "nfurzmabq",
+      "name": "欧罗巴港",
+      "image": "https://image.anitabi.cn/points/319577/nfurzmabq_1724277023863_cblack.jpg?plan=h160",
+      "s": 71,
+      "geo": [
+        34.1537,
+        135.1769
+      ]
+    },
+    {
+      "id": "nfu73t35t",
+      "name": "白良浜海水浴場",
+      "image": "https://image.anitabi.cn/points/319577/nfu73t35t_1724277036210_cblack.jpg?plan=h160",
+      "s": 53,
+      "geo": [
+        33.68,
+        135.3439
+      ]
+    },
+    {
+      "id": "nfuko1nee",
+      "name": "宇久井蛭子神社附近",
+      "image": "https://image.anitabi.cn/points/319577/nfuko1nee_1724277038329_cblack.jpg?plan=h160",
+      "s": 61,
+      "geo": [
+        33.6556,
+        135.9784
+      ]
+    }
+  ],
+  "pointsLength": 26,
+  "imagesLength": 26,
+  "local_id": 734
+}

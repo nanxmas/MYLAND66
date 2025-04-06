@@ -1,0 +1,366 @@
+[
+  {
+    "id": "p8khz3xht",
+    "name": "女子学院中学校・高等学校",
+    "image": "https://image.xinu.ink/pic/data/754/images/p8khz3xht_1729342535102.jpg",
+    "ep": 1,
+    "s": 350,
+    "geo": [
+      35.6874,
+      139.738
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p86g4hunf",
+    "name": "千代田区立外濠公園（九段北4丁目側）",
+    "image": "https://image.xinu.ink/pic/data/754/images/p86g4hunf_1729312970948.jpg",
+    "ep": 1,
+    "s": 642,
+    "geo": [
+      35.6916,
+      139.7366
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p86959foz",
+    "name": "市ヶ谷駅交差点",
+    "image": "https://image.xinu.ink/pic/data/754/images/p86959foz_1729312967988.jpg",
+    "ep": 1,
+    "s": 661,
+    "geo": [
+      35.6911,
+      139.7359
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p86m3mtf9",
+    "name": "市ヶ谷駅前バス停",
+    "image": "https://image.xinu.ink/pic/data/754/images/p86m3mtf9_1729312975827.jpg",
+    "ep": 1,
+    "s": 760,
+    "geo": [
+      35.6903,
+      139.7356
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p86r34k3k",
+    "name": "東郷元帥記念公園の南側",
+    "image": "https://image.xinu.ink/pic/data/754/images/p86r34k3k_1729312979362.jpg",
+    "ep": 2,
+    "s": 990,
+    "geo": [
+      35.6898,
+      139.7401
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p86u6wrp4",
+    "name": "東郷元帥記念公園の獅子像",
+    "image": "https://image.xinu.ink/pic/data/754/images/p86u6wrp4_1729312980838.jpg",
+    "ep": 2,
+    "s": 1051,
+    "geo": [
+      35.6906,
+      139.7397
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p8jkau1a6",
+    "name": "牛込北町バス停",
+    "image": "https://image.xinu.ink/pic/data/754/images/p8jkau1a6_1729340485240.jpg",
+    "ep": 3,
+    "s": 14,
+    "geo": [
+      35.6997,
+      139.7325
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p8jl9xtgz",
+    "name": "都営バス",
+    "image": "https://image.xinu.ink/pic/data/754/images/p8jl9xtgz_1729340545097.jpg",
+    "ep": 3,
+    "s": 68,
+    "geo": [
+      35.6996,
+      139.7325
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p86ikd5g2",
+    "name": "スターバックス コーヒー 市ヶ谷駅前店",
+    "image": "https://image.xinu.ink/pic/data/754/images/p86ikd5g2_1729313240338.jpg",
+    "ep": 3,
+    "s": 369,
+    "geo": [
+      35.6909,
+      139.7358
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p85v8wykc",
+    "name": "ドン・キホーテ 新宿歌舞伎町店",
+    "image": "https://image.xinu.ink/pic/data/754/images/p85v8wykc_1729310966278.jpg",
+    "ep": 3,
+    "s": 641,
+    "geo": [
+      35.6937,
+      139.7016
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p85w4igrr",
+    "name": "マイアミガーデン新宿東口店",
+    "image": "https://image.xinu.ink/pic/data/754/images/p85w4igrr_1729310967751.jpg",
+    "ep": 3,
+    "s": 645,
+    "geo": [
+      35.6939,
+      139.7016
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p85x2zy1q",
+    "name": "セントラルロード",
+    "image": "https://image.xinu.ink/pic/data/754/images/p85x2zy1q_1729310971799.jpg",
+    "ep": 3,
+    "s": 685,
+    "geo": [
+      35.6939,
+      139.7016
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p85yjvoll",
+    "name": "新宿区立 新宿公園",
+    "image": "https://image.xinu.ink/pic/data/754/images/p85yjvoll_1729310973284.jpg",
+    "ep": 3,
+    "s": 911,
+    "geo": [
+      35.6902,
+      139.7094
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p86wmsytj",
+    "name": "佐竹商店街",
+    "image": "https://image.xinu.ink/pic/data/754/images/p86wmsytj_1729312985892.jpg",
+    "ep": 3,
+    "s": 955,
+    "geo": [
+      35.7042,
+      139.781
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p85tlqwga",
+    "name": "新都心歩道橋下交差点",
+    "image": "https://image.xinu.ink/pic/data/754/images/p85tlqwga_1729310962564.jpg",
+    "ep": 3,
+    "s": 1277,
+    "geo": [
+      35.6929,
+      139.6969
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p85umk3yy",
+    "name": "ファミリーマート 新宿損保ジャパン店",
+    "image": "https://image.xinu.ink/pic/data/754/images/p85umk3yy_1729310964758.jpg",
+    "ep": 3,
+    "s": 1295,
+    "geo": [
+      35.6932,
+      139.6966
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p86jftova",
+    "name": "JS市ヶ谷ビル",
+    "image": "https://image.xinu.ink/pic/data/754/images/p86jftova_1729312987372.jpg",
+    "ep": 4,
+    "s": 253,
+    "geo": [
+      35.6895,
+      139.7355
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p8jvzl7mt",
+    "name": "ファミリースナック ロッキー",
+    "image": "https://image.xinu.ink/pic/data/754/images/p8jvzl7mt_1729341195218.jpg",
+    "ep": 5,
+    "s": 48,
+    "geo": [
+      35.7056,
+      139.7812
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p8jxhs574",
+    "name": "スーパークリーニング タムラ",
+    "image": "https://image.xinu.ink/pic/data/754/images/p8jxhs574_1729341283666.jpg",
+    "ep": 5,
+    "s": 78,
+    "geo": [
+      35.7056,
+      139.7811
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p8kg988rh",
+    "name": "市ヶ谷駅",
+    "image": "https://image.xinu.ink/pic/data/754/images/p8kg988rh_1729342419182.jpg",
+    "ep": 6,
+    "s": 698,
+    "geo": [
+      35.6909,
+      139.7357
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p8hrh0otj",
+    "name": "黒沢バス停（梅74 河辺駅北口）",
+    "image": "https://image.xinu.ink/pic/data/754/images/p8hrh0otj_1729337159095.jpg",
+    "ep": 7,
+    "s": 419,
+    "geo": [
+      35.8133,
+      139.2537
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p8hvg92kr",
+    "name": "旧吹上隧道",
+    "image": "https://image.xinu.ink/pic/data/754/images/p8hvg92kr_1729336879709.jpg",
+    "ep": 7,
+    "s": 477,
+    "geo": [
+      35.815,
+      139.2504
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p8iiftl6v",
+    "name": "ルミネ新宿 ルミネ1",
+    "image": "https://image.xinu.ink/pic/data/754/images/p8iiftl6v_1729338209585.jpg",
+    "ep": 8,
+    "s": 2,
+    "geo": [
+      35.6883,
+      139.6989
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p8i6wh38l",
+    "name": "高田馬場駅（東西線）",
+    "image": "https://image.xinu.ink/pic/data/754/images/p8i6wh38l_1729337530651.jpg",
+    "ep": 8,
+    "s": 559,
+    "geo": [
+      35.7128,
+      139.7058
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p8i5fxfd8",
+    "name": "早稲田駅（東西線）",
+    "image": "https://image.xinu.ink/pic/data/754/images/p8i5fxfd8_1729337417478.jpg",
+    "ep": 8,
+    "s": 645,
+    "geo": [
+      35.7058,
+      139.721
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p8i7m4ya1",
+    "name": "早稲田通り",
+    "image": "https://image.xinu.ink/pic/data/754/images/p8i7m4ya1_1729337542759.jpg",
+    "ep": 8,
+    "s": 650,
+    "geo": [
+      35.7058,
+      139.721
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p8l62zqpw",
+    "name": "東郷元帥記念公園",
+    "image": "https://image.xinu.ink/pic/data/754/images/p8l62zqpw_1729343983034.jpg",
+    "ep": 10,
+    "s": 922,
+    "geo": [
+      35.6907,
+      139.74
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p866hg42n",
+    "name": "外堀通り",
+    "image": "https://image.xinu.ink/pic/data/754/images/p866hg42n_1729311372109.jpg",
+    "ep": "ED1",
+    "s": 11,
+    "geo": [
+      35.6928,
+      139.7364
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  }
+]

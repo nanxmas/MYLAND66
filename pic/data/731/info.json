@@ -1,0 +1,39 @@
+{
+  "id": 318227,
+  "cn": "指名！",
+  "title": "CUE!",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/731/images/318227_ad6A1.jpg",
+  "color": "#f09cac",
+  "cp": "CUE! Animation P…",
+  "modified": 1725372830053,
+  "litePoints": [
+    {
+      "id": "ntwf94ntc",
+      "cn": "公园桥前上坡路",
+      "name": "公園橋前の上り坂",
+      "image": "https://image.anitabi.cn/user/2106/bangumi/318227/points/ntwf94ntc-1725372002995.jpg?plan=h160",
+      "ep": 14,
+      "s": 824,
+      "geo": [
+        35.6284,
+        139.615
+      ]
+    },
+    {
+      "id": "ntwsl6t9f",
+      "cn": "公园桥",
+      "name": "公園橋",
+      "image": "https://image.anitabi.cn/user/2106/bangumi/318227/points/ntwsl6t9f-1725372725931.jpg?plan=h160",
+      "ep": 14,
+      "s": 841,
+      "geo": [
+        35.6283,
+        139.6143
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 731
+}

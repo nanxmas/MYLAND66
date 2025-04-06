@@ -1,0 +1,30 @@
+[
+  {
+    "id": "nlvifytdo",
+    "cn": "笠松競馬場",
+    "name": "笠松競馬場スタンド",
+    "image": "https://image.xinu.ink/pic/data/744/images/nlvifytdo-1724747484500.jpg",
+    "ep": "01",
+    "s": "56",
+    "geo": [
+      35.3732,
+      136.7691
+    ],
+    "origin": "Anitabi@枣子",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nlzmmn0er",
+    "cn": "日本岐阜県岐阜市金华山观景台",
+    "name": "日本岐阜県岐阜市",
+    "image": "https://image.xinu.ink/pic/data/744/images/nlzmmn0er-1724752228923.jpg",
+    "ep": 6,
+    "s": "20",
+    "geo": [
+      35.4338,
+      136.782
+    ],
+    "origin": "Anitabi@枣子",
+    "originURL": "https://anitabi.cn/"
+  }
+]

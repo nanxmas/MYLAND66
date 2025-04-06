@@ -1,0 +1,41 @@
+{
+  "id": 322535,
+  "cn": "龙与雀斑公主",
+  "title": "竜とそばかすの姫",
+  "city": "高知县",
+  "cover": "https://image.xinu.ink/pic/data/743/images/322535.jpg",
+  "color": "#0080aa",
+  "cp": "️2021 スタジオ地図",
+  "geo": [
+    33.56774108351034,
+    133.25618259187513
+  ],
+  "zoom": 16.655,
+  "modified": 1725014184449,
+  "litePoints": [
+    {
+      "id": "njph2bvll",
+      "cn": "淺尾沈下橋",
+      "name": "浅尾沈下橋",
+      "image": "https://image.anitabi.cn/points/322535/njph2bvll_1724617564771.jpg?plan=h160",
+      "s": 4250,
+      "geo": [
+        33.5677,
+        133.2558
+      ]
+    },
+    {
+      "id": "nmrw5mv85",
+      "cn": "浅尾沉下桥",
+      "name": "淺尾沈下橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/322535/points/nmrw5mv85-1724813716613.jpg?plan=h160",
+      "geo": [
+        33.5675,
+        133.2558
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 743
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "nrft0neg8",
+    "cn": "勃兰登堡门",
+    "name": "Brandenburger Tor",
+    "image": "https://image.xinu.ink/pic/data/730/images/nrft0neg8-1725179013113.jpg",
+    "ep": 12,
+    "s": 167,
+    "geo": [
+      52.5162,
+      13.3777
+    ]
+  },
+  {
+    "id": "nrj5lqfxb",
+    "cn": "国家博物馆 (布拉格)",
+    "name": "Národní muzeum",
+    "image": "https://image.xinu.ink/pic/data/730/images/nrj5lqfxb-1725186331592.jpg",
+    "ep": 4,
+    "s": 70,
+    "geo": [
+      50.0789,
+      14.4309
+    ]
+  },
+  {
+    "id": "nrjipqqhu",
+    "cn": "圣母百花大教堂",
+    "name": "Cattedrale di Santa Maria del Fiore",
+    "image": "https://image.xinu.ink/pic/data/730/images/nrjipqqhu-1725187105339.jpg",
+    "ep": 12,
+    "s": 63,
+    "geo": [
+      43.7731,
+      11.2566
+    ]
+  }
+]

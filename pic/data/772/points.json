@@ -1,0 +1,95 @@
+[
+  {
+    "id": "ikvlalggv",
+    "cn": "海云铁道神社",
+    "name": "ひたちなか開運鐵道神社",
+    "image": "https://image.xinu.ink/pic/data/772/images/ikvlalggv-1710559421492.jpg",
+    "ep": 1,
+    "geo": [
+      36.3837,
+      140.6124
+    ],
+    "origin": "Anitabi@Eureka",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ikdalvkdm",
+    "cn": "三号桥",
+    "name": "三の橋",
+    "image": "https://image.xinu.ink/pic/data/772/images/ikdalvkdm_1710562615423.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      39.2725,
+      141.8748
+    ],
+    "originLink": "https://www.google.com/maps/place/Sanno+Bridge/@39.2700174,141.8768368,458m/data=!3m1!1e3!4m6!3m5!1s0x5f860fdc1f304de1:0x56598938c6f07066!8m2!3d39.2709386!4d141.8764989!16s%2Fg%2F11ghg4p2ph?entry=ttu"
+  },
+  {
+    "id": "ikdu7nfyw",
+    "cn": "新日铁釜石制铁所发电厂",
+    "name": "日本製鉄（株） 北日本製鉄所釜石地区 釜石火力発電所",
+    "image": "https://image.xinu.ink/pic/data/772/images/ikdu7nfyw_1710562622987.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      39.2692,
+      141.8766
+    ],
+    "origin": "Anitabi@Eureka",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ikwvetvhs",
+    "name": "鉄剣タロー跡",
+    "image": "https://image.xinu.ink/pic/data/772/images/ikwvetvhs-1710562128143.jpg",
+    "ep": null,
+    "geo": [
+      36.1249,
+      139.4596
+    ],
+    "origin": "Anitabi@Eureka",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ikwmhp0ar",
+    "cn": " 岩泉商工会（原岩泉站址）",
+    "name": " 岩泉商工会（旧岩泉駅舎）",
+    "image": "https://image.xinu.ink/pic/data/772/images/ikwmhp0ar_1710562634087.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      39.8451,
+      141.7865
+    ],
+    "origin": "Anitabi@Eureka",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ikwbmydt7",
+    "cn": "惣郷川桥",
+    "name": "惣郷川橋梁",
+    "image": "https://image.xinu.ink/pic/data/772/images/ikwbmydt7_1710562640624.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      34.5875,
+      131.5559
+    ],
+    "origin": "Anitabi@Eureka",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ikw4hxksa",
+    "cn": "神田桥",
+    "name": "神田橋",
+    "image": "https://image.xinu.ink/pic/data/772/images/ikw4hxksa-1710560654020.jpg",
+    "ep": null,
+    "geo": [
+      34.3473,
+      135.6903
+    ],
+    "origin": "Anitabi@Eureka",
+    "originURL": "https://anitabi.cn/"
+  }
+]

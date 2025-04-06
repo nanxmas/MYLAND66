@@ -1,0 +1,130 @@
+{
+  "id": 331445,
+  "cn": "少女手工",
+  "title": "Do It Yourself!!",
+  "city": "三条市",
+  "cover": "https://image.xinu.ink/pic/data/756/images/331445.jpg",
+  "color": "#fe8263",
+  "cp": "DIY!!",
+  "geo": [
+    37.77827863875838,
+    139.06808645758292
+  ],
+  "zoom": 9.489,
+  "modified": 1723440091089,
+  "litePoints": [
+    {
+      "id": "k7e4u01uz",
+      "name": "大崎山公園",
+      "image": "https://image.anitabi.cn/points/331445/k7e4u01uz_1715144910612.jpg?plan=h160",
+      "ep": 1,
+      "s": 1,
+      "geo": [
+        37.6165,
+        139.0014
+      ]
+    },
+    {
+      "id": "k7e4u033c",
+      "name": "一新橋",
+      "image": "https://image.anitabi.cn/points/331445/k7e4u033c_1715144912500.jpg?plan=h160",
+      "ep": 1,
+      "s": 3,
+      "geo": [
+        37.6283,
+        138.9639
+      ]
+    },
+    {
+      "id": "k7e4u0335",
+      "name": "シェアスペース＆ライブラリー 燕三条トライク",
+      "image": "https://image.anitabi.cn/points/331445/k7e4u0335_1715144913596.jpg?plan=h160",
+      "ep": 1,
+      "s": 265,
+      "geo": [
+        37.6295,
+        138.9614
+      ]
+    },
+    {
+      "id": "k7e4u02su",
+      "name": "ＴＲＥＥ",
+      "image": "https://image.anitabi.cn/points/331445/k7e4u02su_1715144915603.jpg?plan=h160",
+      "ep": 2,
+      "s": 926,
+      "geo": [
+        37.6294,
+        138.9633
+      ]
+    },
+    {
+      "id": "k7e4u031w",
+      "name": "カネギフルーツ",
+      "image": "https://image.anitabi.cn/points/331445/k7e4u031w_1715144917990.jpg?plan=h160",
+      "ep": 8,
+      "s": 1167,
+      "geo": [
+        37.6285,
+        138.9651
+      ]
+    },
+    {
+      "id": "k7e4u02mx",
+      "name": "八幡公園",
+      "image": "https://image.anitabi.cn/points/331445/k7e4u02mx_1715144918883.jpg?plan=h160",
+      "ep": 4,
+      "s": 1129,
+      "geo": [
+        37.6335,
+        138.9506
+      ]
+    },
+    {
+      "id": "k7e4u032u",
+      "name": "JR北三条駅",
+      "image": "https://image.anitabi.cn/points/331445/k7e4u032u_1715144919760.jpg?plan=h160",
+      "ep": 6,
+      "s": 303,
+      "geo": [
+        37.6327,
+        138.9557
+      ]
+    },
+    {
+      "id": "k7e4u0313",
+      "name": "ステージえんがわ",
+      "image": "https://image.anitabi.cn/points/331445/k7e4u0313_1715144922264.jpg?plan=h160",
+      "ep": 7,
+      "s": 1218,
+      "geo": [
+        37.6325,
+        138.9546
+      ]
+    },
+    {
+      "id": "k7e4u03ax",
+      "name": "野積海水浴場",
+      "image": "https://image.anitabi.cn/points/331445/k7e4u03ax_1715144923855.jpg?plan=h160",
+      "ep": 6,
+      "s": 1019,
+      "geo": [
+        37.6977,
+        138.7844
+      ]
+    },
+    {
+      "id": "k7e4u02ta",
+      "name": "新発田城跡",
+      "image": "https://image.anitabi.cn/points/331445/k7e4u02ta_1723439917165.jpg?plan=h160",
+      "ep": 6,
+      "s": 948,
+      "geo": [
+        37.9549,
+        139.3259
+      ]
+    }
+  ],
+  "pointsLength": 19,
+  "imagesLength": 13,
+  "local_id": 756
+}

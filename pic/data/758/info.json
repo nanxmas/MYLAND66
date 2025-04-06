@@ -1,0 +1,120 @@
+{
+  "id": 331489,
+  "cn": "电影 五等分的新娘",
+  "title": "映画 五等分の花嫁",
+  "city": "春日井市",
+  "cover": "https://image.xinu.ink/pic/data/758/images/331489.jpg",
+  "color": "#ff9428",
+  "cp": "映画五等分の花嫁",
+  "geo": [
+    35.27401281195442,
+    137.0137626775761
+  ],
+  "zoom": 24,
+  "modified": 1732872022154,
+  "litePoints": [
+    {
+      "id": "p1ajaq5jd",
+      "name": "グラストニア",
+      "image": "https://image.anitabi.cn/points/331489/p1ajaq5jd_1729190418272_c16v9.jpg?plan=h160",
+      "s": 16,
+      "geo": [
+        35.1501,
+        136.9242
+      ]
+    },
+    {
+      "id": "p1am0c0or",
+      "name": "ジャンボ海水プール 入口",
+      "image": "https://image.anitabi.cn/points/331489/p1am0c0or_1729190422989_c16v9.jpg?plan=h160",
+      "s": 117,
+      "geo": [
+        35.0289,
+        136.7306
+      ]
+    },
+    {
+      "id": "p1apvxj4w",
+      "name": "冲浪池",
+      "image": "https://image.anitabi.cn/points/331489/p1apvxj4w_1729190424870_c16v9.jpg?plan=h160",
+      "s": 117,
+      "geo": [
+        35.0287,
+        136.7278
+      ]
+    },
+    {
+      "id": "p1atwg78f",
+      "name": "Free Fall Slider",
+      "image": "https://image.anitabi.cn/points/331489/p1atwg78f_1729190426709_c16v9.jpg?plan=h160",
+      "s": 139,
+      "geo": [
+        35.0289,
+        136.7269
+      ]
+    },
+    {
+      "id": "p1az9qsbs",
+      "name": "ぴょん・ぴょん・ドボン！",
+      "image": "https://image.anitabi.cn/points/331489/p1az9qsbs_1729190428865_c16v9.jpg?plan=h160",
+      "s": 169,
+      "geo": [
+        35.028,
+        136.7285
+      ]
+    },
+    {
+      "id": "p1b4jlaze",
+      "name": "Water Tube",
+      "image": "https://image.anitabi.cn/points/331489/p1b4jlaze_1729190430967_c16v9.jpg?plan=h160",
+      "s": 170,
+      "geo": [
+        35.0292,
+        136.7294
+      ]
+    },
+    {
+      "id": "p3bduo5bb",
+      "name": "ザ・​ライオンズミッドキャピタルタワー",
+      "image": "https://image.anitabi.cn/points/331489/p3bduo5bb_1729190435370_c16v9.jpg?plan=h160",
+      "s": 427,
+      "geo": [
+        35.1349,
+        136.9098
+      ]
+    },
+    {
+      "id": "p3biwk5in",
+      "name": "日本​福祉​大​東海​キャンパス",
+      "image": "https://image.anitabi.cn/points/331489/p3biwk5in_1729190439770_c16v9.jpg?plan=h160",
+      "s": 482,
+      "geo": [
+        35.0222,
+        136.8891
+      ]
+    },
+    {
+      "id": "nu93mzkho",
+      "name": "东海市艺术剧场附近的天桥",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/331489/points/nu93mzkho-1725399625518.jpg?plan=h160",
+      "s": 779,
+      "geo": [
+        35.0207,
+        136.8913
+      ]
+    },
+    {
+      "id": "npabo9af8",
+      "name": "中部大学春日井キャンパスメイングラウンド",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/331489/points/npabo9af8-1725010418685.jpg?plan=h160",
+      "s": 879,
+      "geo": [
+        35.274,
+        137.0112
+      ]
+    }
+  ],
+  "pointsLength": 132,
+  "imagesLength": 132,
+  "local_id": 758
+}

@@ -1,0 +1,49 @@
+{
+  "id": 337709,
+  "cn": "梅时露霁书 ~雨潺海汐间~",
+  "title": "ツユチル・レター～海と栞に雨音を～",
+  "city": "镰仓市",
+  "cover": "https://image.xinu.ink/pic/data/769/images/337709.jpg",
+  "color": "#71c6e3",
+  "geo": [
+    35.3081190288311,
+    139.49208816135643
+  ],
+  "zoom": 11.994,
+  "modified": 1722448235688,
+  "litePoints": [
+    {
+      "id": "mqx7p4y7m",
+      "cn": "弁天桥",
+      "name": "弁天桥",
+      "image": "https://image.anitabi.cn/user/0/bangumi/337709/points/mqx7p4y7m-1722317539720.jpg?plan=h160",
+      "geo": [
+        35.3081,
+        139.4841
+      ]
+    },
+    {
+      "id": "mr7z94y44",
+      "cn": "镰仓高校前（下面的沙滩）",
+      "name": "镰仓高校前",
+      "image": "https://image.anitabi.cn/user/0/bangumi/337709/points/mr7z94y44-1722340881258.jpg?plan=h160",
+      "geo": [
+        35.3064,
+        139.5002
+      ]
+    },
+    {
+      "id": "mr82dzgf6",
+      "cn": "新江之岛水族馆",
+      "name": "新江ノ島水族館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/337709/points/mr82dzgf6-1722341048492.jpg?plan=h160",
+      "geo": [
+        35.31,
+        139.4794
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 769
+}

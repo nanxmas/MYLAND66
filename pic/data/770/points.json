@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mticu8bjt",
+    "cn": "勿拉尼岛",
+    "name": "Brani Island",
+    "image": "https://image.xinu.ink/pic/data/770/images/mticu8bjt-1722520227478.jpg",
+    "ep": null,
+    "geo": [
+      1.2613,
+      103.8349
+    ]
+  },
+  {
+    "id": "mtisayc00",
+    "cn": "航天发射中心",
+    "name": "97387 Rte de l'Espace, Kourou 97310",
+    "image": "https://image.xinu.ink/pic/data/770/images/mtisayc00-1722521135537.jpg",
+    "ep": null,
+    "geo": [
+      5.1676,
+      -52.6831
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "4t3lk8bu9",
+    "name": "大神神社",
+    "image": "https://image.xinu.ink/pic/data/741/images/4t3lk8bu9.jpg",
+    "ep": 9,
+    "s": 809,
+    "geo": [
+      34.5289,
+      135.8514
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4t3osyzmz",
+    "name": "练马站",
+    "image": "https://image.xinu.ink/pic/data/741/images/4t3osyzmz.jpg",
+    "ep": 2,
+    "s": 1348,
+    "geo": [
+      35.7375,
+      139.6539
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  }
+]

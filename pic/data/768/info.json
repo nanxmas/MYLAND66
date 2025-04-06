@@ -1,0 +1,106 @@
+{
+  "id": 335225,
+  "cn": "古见同学有交流障碍症",
+  "title": "古見さんは、コミュ症です。",
+  "city": "大和市",
+  "cover": "https://image.xinu.ink/pic/data/768/images/335225.jpg",
+  "color": "#5f5381",
+  "cp": "私立伊旦高校",
+  "geo": [
+    35.427648358975205,
+    139.46734109126425
+  ],
+  "zoom": 10.683,
+  "modified": 1727354802052,
+  "litePoints": [
+    {
+      "id": "o47397jbr",
+      "name": "大和駅ビル プロス",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/335225/points/o47397jbr-1726178831798.jpg?plan=h160",
+      "ep": 6,
+      "s": 366,
+      "geo": [
+        35.47,
+        139.4617
+      ]
+    },
+    {
+      "id": "o478e79xm",
+      "name": "読売ランド前駅",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/335225/points/o478e79xm-1726179082227.jpg?plan=h160",
+      "ep": 7,
+      "s": 67,
+      "geo": [
+        35.6145,
+        139.5278
+      ]
+    },
+    {
+      "id": "o479riop5",
+      "name": "よみうりランド",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/335225/points/o479riop5-1726179227584.jpg?plan=h160",
+      "ep": 7,
+      "s": 264,
+      "geo": [
+        35.6254,
+        139.5188
+      ]
+    },
+    {
+      "id": "o47g493pi",
+      "name": "蒲郡市立図書館",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/335225/points/o47g493pi-1726179583466.jpg?plan=h160",
+      "ep": 7,
+      "s": 1123,
+      "geo": [
+        34.8315,
+        137.2264
+      ]
+    },
+    {
+      "id": "o48qbnjs9",
+      "name": "県営​いちょう​下和田​団地​57​号棟",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/335225/points/o48qbnjs9-1726182446239.jpg?plan=h160",
+      "ep": 8,
+      "s": 1070,
+      "geo": [
+        35.4272,
+        139.4726
+      ]
+    },
+    {
+      "id": "o48wivl7a",
+      "name": "ローソン\n大和​高座​渋谷​東​店",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/335225/points/o48wivl7a-1726183002697.jpg?plan=h160",
+      "ep": 5,
+      "s": 1401,
+      "geo": [
+        35.4297,
+        139.4663
+      ]
+    },
+    {
+      "id": "o4bp4khks",
+      "name": "中央１号公園",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/335225/points/o4bp4khks-1726189048496.jpg?plan=h160",
+      "ep": 7,
+      "s": 1274,
+      "geo": [
+        35.4677,
+        139.4598
+      ]
+    },
+    {
+      "id": "o3dvhlwbj",
+      "name": "高座渋谷駅周辺",
+      "image": "https://image.anitabi.cn/user/1751/bangumi/335225/points/o3dvhlwbj-1726115325750.jpg?plan=h160",
+      "geo": [
+        35.4314,
+        139.4663
+      ]
+    }
+  ],
+  "pointsLength": 8,
+  "imagesLength": 8,
+  "local_id": 768
+}

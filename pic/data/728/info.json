@@ -1,0 +1,127 @@
+{
+  "id": 316607,
+  "cn": "奇蛋物语",
+  "title": "ワンダーエッグ・プライオリティ",
+  "city": "印西市",
+  "cover": "https://image.xinu.ink/pic/data/728/images/316607.jpg",
+  "color": "#0c00b8",
+  "geo": [
+    35.800671585508056,
+    140.14606965564792
+  ],
+  "zoom": 12.138,
+  "modified": 1740888325699,
+  "litePoints": [
+    {
+      "id": "693a5834",
+      "name": "牧の原公園・古墳型展望山",
+      "image": "https://image.anitabi.cn/points/316607/693a5834_1723113650310.jpg?plan=h160",
+      "ep": 9,
+      "s": 75,
+      "geo": [
+        35.8093,
+        140.1708
+      ]
+    },
+    {
+      "id": "e166fec2",
+      "name": "印西小倉台郵便局そばのアンダーパス",
+      "image": "https://image.anitabi.cn/points/316607/e166fec2_1723113653394.jpg?plan=h160",
+      "ep": 5,
+      "s": 204,
+      "geo": [
+        35.807,
+        140.1117
+      ]
+    },
+    {
+      "id": "b21f8479",
+      "name": "永旺夢樂城千葉新市鎮 3楼美食广场",
+      "image": "https://image.anitabi.cn/points/316607/b21f8479_1723113659583.jpg?plan=h160",
+      "s": 131,
+      "geo": [
+        35.8022,
+        140.112
+      ]
+    },
+    {
+      "id": "d61bb4f9",
+      "name": "有限会社 東日本観光バス",
+      "image": "https://image.anitabi.cn/user/2123/bangumi/316607/points/d61bb4f9-1728648319655.jpg?plan=h160",
+      "s": 1283,
+      "geo": [
+        35.7978,
+        140.1672
+      ]
+    },
+    {
+      "id": "bd68c624",
+      "name": "地中海広場",
+      "image": "https://image.anitabi.cn/points/316607/bd68c624_1723113662066.jpg?plan=h160",
+      "ep": 1,
+      "s": 99,
+      "geo": [
+        35.8031,
+        140.1637
+      ]
+    },
+    {
+      "id": "21b5f89c",
+      "name": "摩天轮",
+      "image": "https://image.anitabi.cn/points/316607/21b5f89c_1723113663575.jpg?plan=h160",
+      "ep": 1,
+      "s": 96,
+      "geo": [
+        35.8034,
+        140.1614
+      ]
+    },
+    {
+      "id": "9abd22cb",
+      "name": "BIGHOP前",
+      "image": "https://image.anitabi.cn/points/316607/9abd22cb_1723113664665.jpg?plan=h160",
+      "ep": 4,
+      "s": 1120,
+      "geo": [
+        35.8031,
+        140.162
+      ]
+    },
+    {
+      "id": "7a95ec71",
+      "name": "2F",
+      "image": "https://image.anitabi.cn/points/316607/7a95ec71_1723113665854.jpg?plan=h160",
+      "ep": 6,
+      "s": 471,
+      "geo": [
+        35.8031,
+        140.1621
+      ]
+    },
+    {
+      "id": "4d978dc0",
+      "name": "千葉ニュータウン中央駅ホーム",
+      "image": "https://image.anitabi.cn/points/316607/4d978dc0_1723113666945.jpg?plan=h160",
+      "ep": 3,
+      "s": 1286,
+      "geo": [
+        35.8001,
+        140.1163
+      ]
+    },
+    {
+      "id": "16647829",
+      "name": "大塚前公園",
+      "image": "https://image.anitabi.cn/points/316607/16647829_1723113668490.jpg?plan=h160",
+      "ep": 3,
+      "s": 1297,
+      "geo": [
+        35.8042,
+        140.1121
+      ]
+    }
+  ],
+  "pointsLength": 41,
+  "imagesLength": 41,
+  "local_id": 728
+}

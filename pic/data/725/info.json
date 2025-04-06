@@ -1,0 +1,85 @@
+{
+  "id": 315745,
+  "cn": "租借女友 2期",
+  "title": "彼女、お借りします 第2期",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/725/images/315745.jpg",
+  "color": "#ca4943",
+  "geo": [
+    35.693003179775616,
+    139.69538963390266
+  ],
+  "zoom": 10.42,
+  "modified": 1727512461092,
+  "litePoints": [
+    {
+      "id": "ho9lsxc6i",
+      "cn": "新都心人行天桥",
+      "name": "新都心歩道橋",
+      "image": "https://image.anitabi.cn/user/1038/bangumi/315745/points/ho9lsxc6i-1708003871155.jpg?plan=h160",
+      "s": 1337,
+      "geo": [
+        35.6933,
+        139.6973
+      ]
+    },
+    {
+      "id": "ho9pueexm",
+      "cn": "片濑海岸",
+      "name": "片瀨海岸",
+      "image": "https://image.anitabi.cn/user/1038/bangumi/315745/points/ho9pueexm-1708004018167.jpg?plan=h160",
+      "s": 1352,
+      "geo": [
+        35.3079,
+        139.4804
+      ]
+    },
+    {
+      "id": "ho9rk5ial",
+      "cn": "春海桥公园",
+      "name": "春海橋公園",
+      "image": "https://image.anitabi.cn/user/1038/bangumi/315745/points/ho9rk5ial-1708004119583.jpg?plan=h160",
+      "s": 1359,
+      "geo": [
+        35.6533,
+        139.7921
+      ]
+    },
+    {
+      "id": "ho9syrcft",
+      "cn": "彩虹农场",
+      "name": "WILDMAGIC - The Rainbow Farm",
+      "image": "https://image.anitabi.cn/user/1038/bangumi/315745/points/ho9syrcft-1708004218065.jpg?plan=h160",
+      "s": 1375,
+      "geo": [
+        35.6501,
+        139.7894
+      ]
+    },
+    {
+      "id": "ho9vc3aef",
+      "cn": "布田站前广场",
+      "name": "布田駅前広場",
+      "image": "https://image.anitabi.cn/user/1038/bangumi/315745/points/ho9vc3aef-1708004360145.jpg?plan=h160",
+      "s": 1345,
+      "geo": [
+        35.6501,
+        139.5511
+      ]
+    },
+    {
+      "id": "ho9ysh4yv",
+      "cn": "下落合人行天桥",
+      "name": "下落合歩道橋",
+      "image": "https://image.anitabi.cn/user/1038/bangumi/315745/points/ho9ysh4yv-1708004568673.jpg?plan=h160",
+      "s": 1394,
+      "geo": [
+        35.7164,
+        139.6998
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "local_id": 725
+}
