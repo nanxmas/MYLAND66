@@ -1,0 +1,297 @@
+[
+  {
+    "id": "nhsy44j4n",
+    "cn": "藤泽市民医院",
+    "name": "藤沢市民病院",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhsy44j4n-1724424058077.jpg",
+    "ep": null,
+    "s": 794,
+    "geo": [
+      35.3498,
+      139.4813
+    ]
+  },
+  {
+    "id": "nht1oa5t3",
+    "cn": "七里滨海岸",
+    "name": "七里ヶ浜",
+    "image": "https://image.xinu.ink/pic/data/624/images/nht1oa5t3-1724424257516.jpg",
+    "ep": null,
+    "s": 925,
+    "geo": [
+      35.3052,
+      139.5096
+    ]
+  },
+  {
+    "id": "nhsow17k7",
+    "cn": "七里滨海岸停车场",
+    "name": "七里ヶ浜海岸駐車場",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhsow17k7-1724423440193.jpg",
+    "ep": null,
+    "s": 1072,
+    "geo": [
+      35.3049,
+      139.5113
+    ]
+  },
+  {
+    "id": "nhdyu1e2b",
+    "cn": "江之电镰仓站JR联络口",
+    "name": "江ノ電鎌倉駅JR連絡口改札",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhdyu1e2b-1724391376948.jpg",
+    "ep": null,
+    "s": 1086,
+    "geo": [
+      35.3188,
+      139.5501
+    ]
+  },
+  {
+    "id": "nhdvbe6mv",
+    "cn": "镰仓站1号站台",
+    "name": "鎌倉駅　1番線",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhdvbe6mv-1724391180176.jpg",
+    "ep": null,
+    "s": 1088,
+    "geo": [
+      35.3191,
+      139.5504
+    ]
+  },
+  {
+    "id": "nhe2as03k",
+    "cn": "逗子站东口",
+    "name": "逗子駅 東口 改札",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhe2as03k-1724391616075.jpg",
+    "ep": null,
+    "s": 1091,
+    "geo": [
+      35.2974,
+      139.5794
+    ]
+  },
+  {
+    "id": "nhs3a7d5v",
+    "cn": "森户海岸 公交站",
+    "name": "森戸海岸（バス）",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhs3a7d5v-1724422167792.jpg",
+    "ep": null,
+    "s": 1094,
+    "geo": [
+      35.2732,
+      139.5718
+    ]
+  },
+  {
+    "id": "nhsafz9uz",
+    "name": "ベネフィットステーション葉山",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhsafz9uz-1724422545421.jpg",
+    "ep": null,
+    "s": 1101,
+    "geo": [
+      35.2748,
+      139.5718
+    ]
+  },
+  {
+    "id": "nhshxv6k6",
+    "name": "スケープス ザ スィート SCAPES THE SUITE",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhshxv6k6-1724423015177.jpg",
+    "ep": null,
+    "s": 1107,
+    "geo": [
+      35.2751,
+      139.5717
+    ]
+  },
+  {
+    "id": "nhsnkb94a",
+    "cn": "森户海水浴场",
+    "name": "森戸海水浴場",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhsnkb94a-1724423356817.jpg",
+    "ep": null,
+    "s": 1245,
+    "geo": [
+      35.2753,
+      139.5712
+    ]
+  },
+  {
+    "id": "nhtdkvoo5",
+    "cn": "七里滨1号道口",
+    "name": "七里ヶ浜1号踏切",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhtdkvoo5-1724425005639.jpg",
+    "ep": null,
+    "s": 2052,
+    "geo": [
+      35.3062,
+      139.5108
+    ]
+  },
+  {
+    "id": "nhtqfr62h",
+    "cn": "茅崎站前",
+    "name": "茅ヶ崎駅前",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhtqfr62h-1724425732202.jpg",
+    "ep": null,
+    "s": 2173,
+    "geo": [
+      35.3305,
+      139.4063
+    ]
+  },
+  {
+    "id": "nhd9ufswb",
+    "cn": "热海站 2/3站台",
+    "name": "熱海駅 2/3番線",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhd9ufswb-1724389953694.jpg",
+    "ep": "",
+    "s": 2221,
+    "geo": [
+      35.1036,
+      139.0779
+    ]
+  },
+  {
+    "id": "nhdkjpfsb",
+    "cn": "热海站 东海道线下行时刻表",
+    "name": "熱海駅 東海道線 下り 時刻表",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhdkjpfsb-1724390501064.jpg",
+    "ep": null,
+    "s": 2250,
+    "geo": [
+      35.1036,
+      139.0779
+    ]
+  },
+  {
+    "id": "nhdmbfif7",
+    "cn": "热海站 2/3号站台",
+    "name": "熱海駅 2/3番線",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhdmbfif7-1724390609164.jpg",
+    "ep": null,
+    "s": 2299,
+    "geo": [
+      35.1037,
+      139.0779
+    ]
+  },
+  {
+    "id": "nhcug5slz",
+    "cn": "片濑江之岛站",
+    "name": "片瀬江ノ島駅",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhcug5slz-1724388938313.jpg",
+    "ep": null,
+    "s": 2604,
+    "geo": [
+      35.3087,
+      139.4836
+    ]
+  },
+  {
+    "id": "nhf246u3t",
+    "cn": "新桥站乌森口",
+    "name": "新橋駅烏森口",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhf246u3t-1724393740827.jpg",
+    "ep": null,
+    "s": 3622,
+    "geo": [
+      35.6658,
+      139.7578
+    ]
+  },
+  {
+    "id": "nikh882ix",
+    "cn": "片濑江之岛交番",
+    "name": "片瀬江の島交番",
+    "image": "https://image.xinu.ink/pic/data/624/images/nikh882ix-1724484110371.jpg",
+    "ep": null,
+    "s": 3977,
+    "geo": [
+      35.3074,
+      139.4841
+    ]
+  },
+  {
+    "id": "nhtx0eehy",
+    "name": "八幡宮前",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhtx0eehy-1724426088590.jpg",
+    "ep": null,
+    "s": 5005,
+    "geo": [
+      35.3236,
+      139.5548
+    ]
+  },
+  {
+    "id": "nhtzuc97i",
+    "cn": "鹤冈八幡宫 太鼓桥",
+    "name": "鶴岡八幡宮 太鼓橋",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhtzuc97i-1724426324470.jpg",
+    "ep": null,
+    "s": 5008,
+    "geo": [
+      35.324,
+      139.555
+    ]
+  },
+  {
+    "id": "nhu61uk31",
+    "cn": "大银杏树",
+    "name": "大銀杏",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhu61uk31-1724426653831.jpg",
+    "ep": null,
+    "s": 5009,
+    "geo": [
+      35.3255,
+      139.556
+    ]
+  },
+  {
+    "id": "nhu7belf7",
+    "cn": "鹤冈八幡宫",
+    "name": "鶴岡八幡宮",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhu7belf7-1724426742099.jpg",
+    "ep": null,
+    "s": 5011,
+    "geo": [
+      35.3255,
+      139.556
+    ]
+  },
+  {
+    "id": "nhubp7i3b",
+    "cn": "鹤岗八幡宫",
+    "name": "鶴岡八幡宮",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhubp7i3b-1724426986423.jpg",
+    "ep": null,
+    "s": 5032,
+    "geo": [
+      35.325,
+      139.5557
+    ]
+  },
+  {
+    "id": "nhf08v3hk",
+    "cn": "七里滨站",
+    "name": "七里ヶ浜駅",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhf08v3hk_1724415745067.jpg",
+    "ep": null,
+    "s": 5050,
+    "geo": [
+      35.3061,
+      139.5099
+    ]
+  },
+  {
+    "id": "nhtiiuspw",
+    "name": "江ノ島弁天橋",
+    "image": "https://image.xinu.ink/pic/data/624/images/nhtiiuspw-1724425239093.jpg",
+    "ep": null,
+    "geo": [
+      35.3048,
+      139.4823
+    ]
+  }
+]

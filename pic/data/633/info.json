@@ -1,0 +1,44 @@
+{
+  "id": 266663,
+  "cn": "孤独的美食家 2018除夕特别篇 京都·名古屋出差篇",
+  "title": "孤独のグルメ 大晦日スペシャル 京都・名古屋出張編",
+  "cover": "https://image.xinu.ink/pic/data/633/images/266663_PyYNW.jpg",
+  "modified": 1741539835565,
+  "litePoints": [
+    {
+      "id": "d2d2753c",
+      "name": "梨門邸",
+      "image": "https://image.anitabi.cn/points/266663/d2d2753c_1741376392125.jpg?plan=h160",
+      "s": 476,
+      "geo": [
+        35.0256,
+        135.7949
+      ]
+    },
+    {
+      "id": "18909931",
+      "cn": "喫茶カラス",
+      "name": "カラス",
+      "image": "https://image.anitabi.cn/points/266663/18909931_1741376415018.jpg?plan=h160",
+      "s": 1815,
+      "geo": [
+        35.166,
+        136.8968
+      ]
+    },
+    {
+      "id": "f503f155",
+      "cn": "台湾ラーメン光陽",
+      "name": "ＪＭヒラ",
+      "image": "https://image.anitabi.cn/points/266663/f503f155_1741376510908.jpg?plan=h160",
+      "s": 2486,
+      "geo": [
+        35.2304,
+        136.8973
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "local_id": 633
+}

@@ -1,0 +1,133 @@
+{
+  "id": 252655,
+  "cn": "佐贺偶像是传奇",
+  "title": "ゾンビランドサガ",
+  "city": "佐贺县",
+  "cover": "https://image.xinu.ink/pic/data/615/images/252655.jpg",
+  "color": "#aa556a",
+  "cp": "ゾンビランドサガ",
+  "geo": [
+    33.283851979809185,
+    130.11625461905408
+  ],
+  "zoom": 8.811,
+  "modified": 1731823494918,
+  "litePoints": [
+    {
+      "id": "51i521tb9",
+      "cn": "鍋島直正公銅像",
+      "name": "鍋島直正公銅像",
+      "image": "https://image.anitabi.cn/user/0/bangumi/252655/points/51i521tb9-1731776589175.jpg?plan=h160",
+      "ep": 2,
+      "s": 526,
+      "geo": [
+        33.2463,
+        130.3023
+      ]
+    },
+    {
+      "id": "51i521tdm",
+      "name": "ライブハウス",
+      "image": "https://image.anitabi.cn/user/0/bangumi/252655/points/51i521tdm-1727412362245.jpg?plan=h160",
+      "ep": 1,
+      "s": 1367,
+      "geo": [
+        33.267,
+        130.2978
+      ]
+    },
+    {
+      "id": "nhtztjwwz",
+      "name": "祐徳稲荷",
+      "image": "https://image.anitabi.cn/user/0/bangumi/252655/points/nhtztjwwz-1724426330402.jpg?plan=h160",
+      "ep": 2,
+      "s": 711,
+      "geo": [
+        33.0734,
+        130.1082
+      ]
+    },
+    {
+      "id": "ojs07j2uq",
+      "name": "諸富橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/252655/points/ojs07j2uq-1727399805616.jpg?plan=h160",
+      "ep": 2,
+      "s": 821,
+      "geo": [
+        33.2219,
+        130.3626
+      ]
+    },
+    {
+      "id": "51i521t2y",
+      "cn": "佐賀城跡",
+      "name": "佐賀城跡",
+      "image": "https://image.anitabi.cn/user/0/bangumi/252655/points/51i521t2y-1731776522218.jpg?plan=h160",
+      "ep": 2,
+      "s": 923,
+      "geo": [
+        33.2454,
+        130.3025
+      ]
+    },
+    {
+      "id": "kdi0yk6nm",
+      "cn": "九州佐贺国际机场",
+      "name": "九州​佐賀​国際​空港",
+      "image": "https://image.anitabi.cn/user/0/bangumi/252655/points/kdi0yk6nm-1715623429050.jpg?plan=h160",
+      "ep": 3,
+      "s": 763,
+      "geo": [
+        33.1495,
+        130.3034
+      ]
+    },
+    {
+      "id": "q3mqk338s",
+      "name": "唐津曳山像 赤獅子",
+      "image": "https://image.anitabi.cn/user/0/bangumi/252655/points/q3mqk338s-1731776787543.jpg?plan=h160",
+      "ep": 3,
+      "s": 906,
+      "geo": [
+        33.4466,
+        129.9678
+      ]
+    },
+    {
+      "id": "q3mt0v8w9",
+      "name": "唐津駅北口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/252655/points/q3mt0v8w9-1731776867574.jpg?plan=h160",
+      "ep": 3,
+      "s": 979,
+      "geo": [
+        33.4465,
+        129.9678
+      ]
+    },
+    {
+      "id": "q3mwaojjz",
+      "name": "井手酒造",
+      "image": "https://image.anitabi.cn/user/0/bangumi/252655/points/q3mwaojjz-1731777032743.jpg?plan=h160",
+      "ep": 4,
+      "s": 402,
+      "geo": [
+        33.0968,
+        129.9866
+      ]
+    },
+    {
+      "id": "51i521tvj",
+      "name": "シーボルトの湯",
+      "image": "https://image.anitabi.cn/user/0/bangumi/252655/points/51i521tvj-1731777058877.jpg?plan=h160",
+      "ep": 4,
+      "s": 416,
+      "geo": [
+        33.0967,
+        129.9855
+      ]
+    }
+  ],
+  "pointsLength": 41,
+  "imagesLength": 31,
+  "local_id": 615
+}

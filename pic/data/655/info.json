@@ -1,0 +1,86 @@
+{
+  "id": 279450,
+  "cn": "破烂机器迷糊子",
+  "title": "ぽんこつポン子",
+  "city": "沼津市",
+  "cover": "https://image.xinu.ink/pic/data/655/images/279450.jpg",
+  "color": "#8f96c7",
+  "geo": [
+    34.974071810109876,
+    138.77229555080373
+  ],
+  "zoom": 9.632,
+  "modified": 1720698972936,
+  "litePoints": [
+    {
+      "id": "kr71ouj3b",
+      "cn": "一开始下巴士的地方",
+      "name": "最初バスから降りた場所",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/279450/points/kr71ouj3b-1716696662824.jpg?plan=h160",
+      "ep": 1,
+      "s": 6,
+      "geo": [
+        34.9705,
+        138.7774
+      ]
+    },
+    {
+      "id": "m5ce5tmx7",
+      "name": "戸田港",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/279450/points/m5ce5tmx7-1720626502549.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        34.9737,
+        138.7768
+      ]
+    },
+    {
+      "id": "m5cl7jm4z",
+      "name": "海山スーパー（海竹山竹ストア）",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/279450/points/m5cl7jm4z-1720626882839.jpg?plan=h160",
+      "geo": [
+        34.9703,
+        138.7773
+      ]
+    },
+    {
+      "id": "m5coqzsi2",
+      "name": "日坂小学校（沼津市立戸田小学校）",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/279450/points/m5coqzsi2-1720627099528.jpg?plan=h160",
+      "geo": [
+        34.9728,
+        138.7791
+      ]
+    },
+    {
+      "id": "m5crxqef9",
+      "name": "海風（喫茶セピア）",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/279450/points/m5crxqef9-1720627287675.jpg?plan=h160",
+      "geo": [
+        34.9694,
+        138.7755
+      ]
+    },
+    {
+      "id": "m5cqi3qy0",
+      "name": "漁協直売所",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/279450/points/m5cqi3qy0-1720627201101.jpg?plan=h160",
+      "geo": [
+        34.9698,
+        138.7765
+      ]
+    },
+    {
+      "id": "m5ctpr1l5",
+      "name": "網元直営店（網元光徳丸 食事処 かにや へだ本店）",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/279450/points/m5ctpr1l5-1720627394969.jpg?plan=h160",
+      "geo": [
+        34.972,
+        138.7776
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "local_id": 655
+}

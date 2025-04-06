@@ -1,0 +1,129 @@
+{
+  "id": 272510,
+  "cn": "街角魔族",
+  "title": "まちカドまぞく",
+  "city": "多摩市",
+  "cover": "https://image.xinu.ink/pic/data/642/images/272510.jpg",
+  "color": "#cd6076",
+  "cp": "まちカドまぞく",
+  "geo": [
+    35.64993331234528,
+    139.44817114143206
+  ],
+  "zoom": 13.155,
+  "modified": 1724029707074,
+  "litePoints": [
+    {
+      "id": "39zlm4io",
+      "name": "関戸橋南からの多摩川北側遠景",
+      "image": "https://image.anitabi.cn/points/272510/39zlm4io.jpg?plan=h160",
+      "ep": 1,
+      "s": 627,
+      "geo": [
+        35.6519,
+        139.4549
+      ]
+    },
+    {
+      "id": "39zlm4fj",
+      "name": "大栗川 飛び石",
+      "image": "https://image.anitabi.cn/points/272510/39zlm4fj.jpg?plan=h160",
+      "ep": 1,
+      "s": 1224,
+      "geo": [
+        35.6478,
+        139.4399
+      ]
+    },
+    {
+      "id": "39zlm4mj",
+      "name": "エコにこセンター前",
+      "image": "https://image.anitabi.cn/points/272510/39zlm4mj.jpg?plan=h160",
+      "ep": 1,
+      "s": 1246,
+      "geo": [
+        35.6134,
+        139.4118
+      ]
+    },
+    {
+      "id": "39zlm48f",
+      "name": "霞ヶ関橋（参考）",
+      "image": "https://image.anitabi.cn/points/272510/39zlm48f.jpg?plan=h160",
+      "ep": 1,
+      "s": 1243,
+      "geo": [
+        35.6474,
+        139.4462
+      ]
+    },
+    {
+      "id": "ncacmvjeo",
+      "name": "霞ヶ関橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/272510/points/ncacmvjeo-1723991694557.jpg?plan=h160",
+      "s": 465,
+      "geo": [
+        35.6475,
+        139.4464
+      ]
+    },
+    {
+      "id": "39zlm45q",
+      "name": "明神橋（参考）",
+      "image": "https://image.anitabi.cn/points/272510/39zlm45q.jpg?plan=h160",
+      "ep": 1,
+      "s": 1250,
+      "geo": [
+        35.6488,
+        139.4387
+      ]
+    },
+    {
+      "id": "39zlm467",
+      "name": "多摩市立唐木田図書館",
+      "image": "https://image.anitabi.cn/points/272510/39zlm467.jpg?plan=h160",
+      "ep": 3,
+      "s": 561,
+      "geo": [
+        35.6154,
+        139.4133
+      ]
+    },
+    {
+      "id": "39zlm442",
+      "name": "多摩川 南側堤防",
+      "image": "https://image.anitabi.cn/points/272510/39zlm442.jpg?plan=h160",
+      "ep": 3,
+      "s": 1047,
+      "geo": [
+        35.6517,
+        139.4536
+      ]
+    },
+    {
+      "id": "39zlm4qm",
+      "name": "立日橋",
+      "image": "https://image.anitabi.cn/points/272510/39zlm4qm.jpg?plan=h160",
+      "ep": 4,
+      "s": 661,
+      "geo": [
+        35.6831,
+        139.4124
+      ]
+    },
+    {
+      "id": "39zlm4kt",
+      "name": "おふろの王様 多摩百草店",
+      "image": "https://image.anitabi.cn/points/272510/39zlm4kt.jpg?plan=h160",
+      "ep": 4,
+      "s": 728,
+      "geo": [
+        35.6449,
+        139.4203
+      ]
+    }
+  ],
+  "pointsLength": 21,
+  "imagesLength": 21,
+  "local_id": 642
+}

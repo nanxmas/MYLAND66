@@ -1,0 +1,77 @@
+{
+  "id": 274613,
+  "cn": "爱、死亡和机器人",
+  "title": "Love, Death & Robots",
+  "city": "中国",
+  "cover": "https://image.xinu.ink/pic/data/644/images/274613.jpg",
+  "color": "#ff480f",
+  "geo": [
+    22.305138999999997,
+    114.18842500000005
+  ],
+  "zoom": 16,
+  "modified": 1726478174035,
+  "litePoints": [
+    {
+      "id": "mcsuvzhuv",
+      "cn": "船坞街",
+      "name": "船塢街",
+      "image": "https://image.anitabi.cn/user/1147/bangumi/274613/points/mcsuvzhuv-1721210890681.jpg?plan=h160",
+      "ep": 3,
+      "s": 714,
+      "geo": [
+        22.3052,
+        114.1883
+      ]
+    },
+    {
+      "id": "mcspmn6dc",
+      "cn": "红磡道",
+      "name": "紅磡道",
+      "image": "https://image.anitabi.cn/user/1147/bangumi/274613/points/mcspmn6dc-1721210628884.jpg?plan=h160",
+      "ep": 3,
+      "s": 795,
+      "geo": [
+        22.3051,
+        114.1884
+      ]
+    },
+    {
+      "id": "md03ptmxi",
+      "cn": "红磡道x德丰街",
+      "name": "紅磡道x德豐街",
+      "image": "https://image.anitabi.cn/user/1147/bangumi/274613/points/md03ptmxi-1721226734517.jpg?plan=h160",
+      "ep": 3,
+      "s": 586,
+      "geo": [
+        22.3043,
+        114.188
+      ]
+    },
+    {
+      "id": "me52ttnwb",
+      "cn": "黄埔花园金柏苑行人天桥",
+      "name": "黃埔花園金柏苑行人天橋",
+      "image": "https://image.anitabi.cn/points/274613/me52ttnwb_1726478158736_cblack.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        22.3049,
+        114.1881
+      ]
+    },
+    {
+      "id": "me5a9ulrr",
+      "cn": "黄埔花园锦桃苑行人天桥",
+      "name": "黃埔花園錦桃苑行人天橋",
+      "image": "https://image.anitabi.cn/points/274613/me5a9ulrr_1721316284127.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        22.3047,
+        114.1884
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 644
+}

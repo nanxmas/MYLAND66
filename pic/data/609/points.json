@@ -1,0 +1,143 @@
+[
+  {
+    "id": "riacv5t90",
+    "cn": "JR安房鸭川站",
+    "name": "安房鴨川",
+    "image": "https://image.xinu.ink/pic/data/609/images/riacv5t90_1742808830139.jpg",
+    "ep": 11,
+    "s": 141,
+    "geo": [
+      35.1076,
+      140.1037
+    ]
+  },
+  {
+    "id": "rhwxbtxm6",
+    "cn": "鸭川市立鸭川中学",
+    "name": "鴨川市立鴨川中學",
+    "image": "https://image.xinu.ink/pic/data/609/images/rhwxbtxm6_1742808976724.jpg",
+    "ep": 11,
+    "s": 172,
+    "geo": [
+      35.1173,
+      140.0994
+    ]
+  },
+  {
+    "id": "rhw4htsnt",
+    "cn": "加茂川海桥",
+    "name": "かもがわマリーンブリッジ",
+    "image": "https://image.xinu.ink/pic/data/609/images/rhw4htsnt-1735715599534.jpg",
+    "ep": 11,
+    "s": 223,
+    "geo": [
+      35.097,
+      140.1053
+    ]
+  },
+  {
+    "id": "rhwims0qu",
+    "cn": "笹生土木有限会社",
+    "name": "笹生土木（有）",
+    "image": "https://image.xinu.ink/pic/data/609/images/rhwims0qu_1742809252153.jpg",
+    "ep": 11,
+    "s": 238,
+    "geo": [
+      35.0938,
+      140.1065
+    ]
+  },
+  {
+    "id": "rhw0f6lkk",
+    "cn": "鴨川漁港前原港区内观景平台",
+    "name": "フィッシャリーナ鴨川 クラブハウス海太郎",
+    "image": "https://image.xinu.ink/pic/data/609/images/rhw0f6lkk_1742809710536.jpg",
+    "ep": 11,
+    "s": 298,
+    "geo": [
+      35.0986,
+      140.1084
+    ]
+  },
+  {
+    "id": "krltr748i",
+    "cn": "安房鸭川",
+    "name": "安房鴨川",
+    "image": "https://image.xinu.ink/pic/data/609/images/krltr748i-1716728915600.jpg",
+    "ep": 11,
+    "s": 721,
+    "geo": [
+      35.1076,
+      140.1038
+    ]
+  },
+  {
+    "id": "78e0cd5e",
+    "cn": "明治大街",
+    "name": "明治通り",
+    "image": "https://image.xinu.ink/pic/data/609/images/78e0cd5e_1722414043756.jpg",
+    "ep": 3,
+    "s": 1063,
+    "geo": [
+      35.718,
+      139.713
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1J0K2QKstx1fjyCXMh2ZgWzgA5287_ZCt&ll=35.718%2C139.71301&z=17"
+  },
+  {
+    "id": "8dea6856",
+    "cn": "大久保大街",
+    "name": "大久保通り",
+    "image": "https://image.xinu.ink/pic/data/609/images/8dea6856_1722414020795.jpg",
+    "ep": 9,
+    "s": 754,
+    "geo": [
+      35.7013,
+      139.7082
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1J0K2QKstx1fjyCXMh2ZgWzgA5287_ZCt&ll=35.701393%2C139.708219&z=17"
+  },
+  {
+    "id": "eae9a5b7",
+    "cn": "sunmall大塚商店街振興組合",
+    "name": "サンモール大塚商店街振興組合",
+    "image": "https://image.xinu.ink/pic/data/609/images/eae9a5b7_1722418421194.jpg",
+    "ep": 10,
+    "s": 20,
+    "geo": [
+      35.7301,
+      139.728
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1J0K2QKstx1fjyCXMh2ZgWzgA5287_ZCt&ll=35.730179%2C139.728015&z=17"
+  },
+  {
+    "id": "u0eb5o6q5",
+    "name": "東京​ゲート​ブリッジ",
+    "image": "https://image.xinu.ink/pic/data/609/images/u0eb5o6q5_1742807694068.jpg",
+    "ep": 10,
+    "s": 1278,
+    "geo": [
+      35.6126,
+      139.8297
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cae584a5",
+    "cn": "武道馆",
+    "name": "武道館",
+    "image": "https://image.xinu.ink/pic/data/609/images/cae584a5_1722418426144.jpg",
+    "ep": 13,
+    "s": 153,
+    "geo": [
+      35.693,
+      139.7492
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1J0K2QKstx1fjyCXMh2ZgWzgA5287_ZCt&ll=35.693043%2C139.749237&z=17"
+  }
+]

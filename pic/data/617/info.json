@@ -1,0 +1,127 @@
+{
+  "id": 253047,
+  "cn": "联盟空军航空魔法音乐队 光辉魔女",
+  "title": "連盟空軍航空魔法音楽隊 ルミナスウィッチーズ",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/617/images/253047.jpg",
+  "color": "#001555",
+  "cp": "連盟空軍航空魔法音楽隊",
+  "geo": [
+    51.50089201295154,
+    -0.17636774755612805
+  ],
+  "zoom": 10.063,
+  "modified": 1723735105025,
+  "litePoints": [
+    {
+      "id": "64r6ipe0p",
+      "cn": "皇家阿尔伯特音乐厅",
+      "name": "Royal Albert Hall",
+      "image": "https://image.anitabi.cn/user/0/bangumi/253047/points/64r6ipe0p-1675442535903.jpg?plan=h160",
+      "ep": 1,
+      "s": 807,
+      "geo": [
+        51.5009,
+        -0.1774
+      ]
+    },
+    {
+      "id": "64qvo2xob",
+      "name": "Brooklyn Bridge",
+      "image": "https://image.anitabi.cn/user/0/bangumi/253047/points/64qvo2xob-1675441886263.jpg?plan=h160",
+      "ep": 9,
+      "s": 894,
+      "geo": [
+        40.7056,
+        -73.9964
+      ]
+    },
+    {
+      "id": "64qt0oo5b",
+      "name": "Fort Jay",
+      "image": "https://image.anitabi.cn/user/0/bangumi/253047/points/64qt0oo5b-1675441804299.jpg?plan=h160",
+      "ep": 9,
+      "s": 868,
+      "geo": [
+        40.6913,
+        -74.016
+      ]
+    },
+    {
+      "id": "64r7jszai",
+      "cn": "阿尔伯特纪念亭",
+      "name": "Albert Memorial",
+      "image": "https://image.anitabi.cn/user/0/bangumi/253047/points/64r7jszai-1675442600513.jpg?plan=h160",
+      "ep": 1,
+      "s": 1034,
+      "geo": [
+        51.5023,
+        -0.1777
+      ]
+    },
+    {
+      "id": "64rc06rzh",
+      "cn": "皮卡迪利圆环",
+      "name": "Piccadilly Circus",
+      "image": "https://image.anitabi.cn/user/0/bangumi/253047/points/64rc06rzh-1675442912874.jpg?plan=h160",
+      "ep": 1,
+      "s": 466,
+      "geo": [
+        51.51,
+        -0.135
+      ]
+    },
+    {
+      "id": "64rr4trqe",
+      "cn": "鲜花广场",
+      "name": "Campo dei Fiori",
+      "image": "https://image.anitabi.cn/user/0/bangumi/253047/points/64rr4trqe-1675443819648.jpg?plan=h160",
+      "ep": 5,
+      "s": 463,
+      "geo": [
+        41.8955,
+        12.4721
+      ]
+    },
+    {
+      "id": "n7uzvhdym",
+      "name": "Victoria Tower Gardens",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/253047/points/n7uzvhdym-1723644796939.jpg?plan=h160",
+      "geo": [
+        51.497,
+        -0.1245
+      ]
+    },
+    {
+      "id": "n7v2jn3z4",
+      "name": "Thames Cruises",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/253047/points/n7v2jn3z4-1723644965683.jpg?plan=h160",
+      "geo": [
+        51.497,
+        -0.1206
+      ]
+    },
+    {
+      "id": "n7v55l9cq",
+      "name": "Kensington Gore",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/253047/points/n7v55l9cq-1723645112765.jpg?plan=h160",
+      "geo": [
+        51.5015,
+        -0.1776
+      ]
+    },
+    {
+      "id": "n7v72oet7",
+      "cn": "大英博物馆",
+      "name": "British Museum",
+      "image": "https://image.anitabi.cn/user/1181/bangumi/253047/points/n7v72oet7-1723645242955.jpg?plan=h160",
+      "geo": [
+        51.5193,
+        -0.1282
+      ]
+    }
+  ],
+  "pointsLength": 16,
+  "imagesLength": 16,
+  "local_id": 617
+}

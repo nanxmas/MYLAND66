@@ -1,0 +1,129 @@
+{
+  "id": 277518,
+  "cn": "GIVEN 被赠与的未来",
+  "title": "ギヴン",
+  "city": "町田市",
+  "cover": "https://image.xinu.ink/pic/data/647/images/277518.jpg",
+  "color": "#ad1517",
+  "geo": [
+    35.518038391973036,
+    139.61545807821892
+  ],
+  "zoom": 9.874,
+  "modified": 1724953585048,
+  "litePoints": [
+    {
+      "id": "ls7rbj9o7",
+      "name": "「光の舞い」伊藤隆道",
+      "image": "https://image.anitabi.cn/points/277518/ls7rbj9o7_1719597631090.jpg?plan=h160",
+      "ep": 1,
+      "s": 42,
+      "geo": [
+        35.5425,
+        139.4458
+      ]
+    },
+    {
+      "id": "ls7s65cyz",
+      "name": "小田急町田駅",
+      "image": "https://image.anitabi.cn/points/277518/ls7s65cyz_1719597682219.jpg?plan=h160",
+      "ep": 1,
+      "s": 48,
+      "geo": [
+        35.544,
+        139.4452
+      ]
+    },
+    {
+      "id": "ls7u27bb2",
+      "name": "下北沢駅東口改札口",
+      "image": "https://image.anitabi.cn/points/277518/ls7u27bb2_1719597797184.jpg?plan=h160",
+      "ep": 2,
+      "s": 497,
+      "geo": [
+        35.6617,
+        139.6675
+      ]
+    },
+    {
+      "id": "hhm50c8oa",
+      "name": "下北沢商店街 Pero Hair",
+      "image": "https://image.anitabi.cn/points/277518/hhm50c8oa_1707486641479.jpg?plan=h160",
+      "ep": 1,
+      "s": 927,
+      "geo": [
+        35.6633,
+        139.6669
+      ]
+    },
+    {
+      "id": "ls7uo8um4",
+      "name": "下北沢駅東口外",
+      "image": "https://image.anitabi.cn/points/277518/ls7uo8um4_1719597833950.jpg?plan=h160",
+      "ep": 2,
+      "s": 514,
+      "geo": [
+        35.6616,
+        139.6675
+      ]
+    },
+    {
+      "id": "hhm50c88j",
+      "name": "下北沢駅東口前",
+      "image": "https://image.anitabi.cn/points/277518/hhm50c88j_1707486667837.jpg?plan=h160",
+      "ep": 2,
+      "s": 519,
+      "geo": [
+        35.6615,
+        139.6677
+      ]
+    },
+    {
+      "id": "hhm50c8e4",
+      "name": "Rinky Dink Studio",
+      "image": "https://image.anitabi.cn/points/277518/hhm50c8e4_1707486815961.jpg?plan=h160",
+      "ep": 2,
+      "s": 529,
+      "geo": [
+        35.6633,
+        139.6671
+      ]
+    },
+    {
+      "id": "hhm50c8i8",
+      "name": "下北沢駅南口",
+      "image": "https://image.anitabi.cn/points/277518/hhm50c8i8_1707486647515.jpg?plan=h160",
+      "ep": 2,
+      "s": 1013,
+      "geo": [
+        35.6612,
+        139.6676
+      ]
+    },
+    {
+      "id": "hhm50c88y",
+      "name": "下北沢商店街",
+      "image": "https://image.anitabi.cn/points/277518/hhm50c88y_1707486620195.jpg?plan=h160",
+      "ep": 2,
+      "s": 1043,
+      "geo": [
+        35.6606,
+        139.6673
+      ]
+    },
+    {
+      "id": "hhm50c8cs",
+      "name": "町田駅上から景色",
+      "image": "https://image.anitabi.cn/points/277518/hhm50c8cs_1707482990876.jpg?plan=h160",
+      "ep": 3,
+      "s": 14,
+      "geo": [
+        35.5428,
+        139.445
+      ]
+    }
+  ],
+  "pointsLength": 101,
+  "imagesLength": 101,
+  "local_id": 647
+}

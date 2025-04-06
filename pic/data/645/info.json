@@ -1,0 +1,130 @@
+{
+  "id": 276150,
+  "cn": "恋爱小行星",
+  "title": "恋する小惑星",
+  "city": "川越市",
+  "cover": "https://image.xinu.ink/pic/data/645/images/276150.jpg",
+  "color": "#3555b6",
+  "cp": "星咲高校地学部",
+  "geo": [
+    35.917069110160114,
+    139.4866435662601
+  ],
+  "zoom": 12.849,
+  "modified": 1720091000575,
+  "litePoints": [
+    {
+      "id": "4sd1mkrg6",
+      "name": "OP 霞ケ関東緑地",
+      "image": "https://image.anitabi.cn/points/276150/4sd1mkrg6.jpg?plan=h160",
+      "ep": 2,
+      "s": 158,
+      "geo": [
+        35.922,
+        139.4523
+      ]
+    },
+    {
+      "id": "4sd1mkrzt",
+      "name": "OP 八幡橋西&電柱",
+      "image": "https://image.anitabi.cn/points/276150/4sd1mkrzt.jpg?plan=h160",
+      "ep": 1,
+      "s": 463,
+      "geo": [
+        35.9146,
+        139.4724
+      ]
+    },
+    {
+      "id": "4sd1mksb2",
+      "name": "OP 本川越駅西口",
+      "image": "https://image.anitabi.cn/points/276150/4sd1mksb2.jpg?plan=h160",
+      "ep": 2,
+      "s": 198,
+      "geo": [
+        35.9143,
+        139.4812
+      ]
+    },
+    {
+      "id": "4sd1mks1j",
+      "name": "OP八幡橋",
+      "image": "https://image.anitabi.cn/points/276150/4sd1mks1j.jpg?plan=h160",
+      "ep": 2,
+      "s": 212,
+      "geo": [
+        35.9146,
+        139.4727
+      ]
+    },
+    {
+      "id": "4sd1mksq9",
+      "name": "1# 川越ベーカリー楽楽",
+      "image": "https://image.anitabi.cn/points/276150/4sd1mksq9.jpg?plan=h160",
+      "ep": 1,
+      "s": 1218,
+      "geo": [
+        35.9244,
+        139.4816
+      ]
+    },
+    {
+      "id": "4sd1mksx3",
+      "name": "1# 陶路子前",
+      "image": "https://image.anitabi.cn/points/276150/4sd1mksx3.jpg?plan=h160",
+      "ep": 1,
+      "s": 1220,
+      "geo": [
+        35.9231,
+        139.4824
+      ]
+    },
+    {
+      "id": "4sd1mkstp",
+      "name": "ED 時の鐘",
+      "image": "https://image.anitabi.cn/points/276150/4sd1mkstp.jpg?plan=h160",
+      "ep": 2,
+      "s": 1373,
+      "geo": [
+        35.9234,
+        139.483
+      ]
+    },
+    {
+      "id": "4sd1mksrv",
+      "name": "2# さいたま清河寺温泉",
+      "image": "https://image.anitabi.cn/points/276150/4sd1mksrv.jpg?plan=h160",
+      "ep": 2,
+      "s": 1051,
+      "geo": [
+        35.9338,
+        139.5817
+      ]
+    },
+    {
+      "id": "4sd1mkst3",
+      "name": "3# 粉とクリーム 石窯夢工房 下妻店",
+      "image": "https://image.anitabi.cn/points/276150/4sd1mkst3.jpg?plan=h160",
+      "ep": 3,
+      "s": 540,
+      "geo": [
+        36.1795,
+        139.9542
+      ]
+    },
+    {
+      "id": "4sd1mkthy",
+      "name": "3# 本川越駅西口ベンチ",
+      "image": "https://image.anitabi.cn/points/276150/4sd1mkthy.jpg?plan=h160",
+      "ep": 3,
+      "s": 841,
+      "geo": [
+        35.9143,
+        139.4807
+      ]
+    }
+  ],
+  "pointsLength": 77,
+  "imagesLength": 75,
+  "local_id": 645
+}

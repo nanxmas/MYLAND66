@@ -1,0 +1,119 @@
+{
+  "id": 277134,
+  "cn": "黑暗集会",
+  "title": "ダークギャザリング",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/646/images/277134_yrhyr.jpg",
+  "color": "#9265c8",
+  "geo": [
+    35.4744644048255,
+    136.62871679206802
+  ],
+  "zoom": 6.811,
+  "modified": 1730468398957,
+  "litePoints": [
+    {
+      "id": "lt797narx",
+      "name": "昭和パーキング第３",
+      "image": "https://image.anitabi.cn/points/390794/lt797narx_1719675111196.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        35.9777,
+        139.7488
+      ]
+    },
+    {
+      "id": "lt7fxaixd",
+      "name": "御幸公園交差点",
+      "image": "https://image.anitabi.cn/points/390794/lt7fxaixd_1719675539469.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        35.5512,
+        139.6943
+      ]
+    },
+    {
+      "id": "lt7p9ghpv",
+      "name": "中央町第四公園",
+      "image": "https://image.anitabi.cn/points/390794/lt7p9ghpv_1719675930834.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.9782,
+        139.7497
+      ]
+    },
+    {
+      "id": "lrwyfc5l7",
+      "name": "鳥貴族 豊春店",
+      "image": "https://image.anitabi.cn/points/390794/lrwyfc5l7_1719574224773.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.9674,
+        139.7252
+      ]
+    },
+    {
+      "id": "lt74h3cpu",
+      "name": "ルネ春日部5号棟",
+      "image": "https://image.anitabi.cn/points/390794/lt74h3cpu_1719676222957.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.9665,
+        139.7225
+      ]
+    },
+    {
+      "id": "lrw3llrpk",
+      "name": "ナラ入沢渓流釣りキャンプ場",
+      "image": "https://image.anitabi.cn/points/390794/lrw3llrpk_1719572474950.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        37.0288,
+        139.7325
+      ]
+    },
+    {
+      "id": "lrvy81lup",
+      "name": "荒川サイクリングロード",
+      "image": "https://image.anitabi.cn/points/390794/lrvy81lup_1719571996197.jpg?plan=h160",
+      "ep": 12,
+      "geo": [
+        35.7568,
+        139.8127
+      ]
+    },
+    {
+      "id": "lty7e2hkq",
+      "name": "青梅市多摩川敷",
+      "image": "https://image.anitabi.cn/points/390794/lty7e2hkq_1719733572942.jpg?plan=h160",
+      "ep": 16,
+      "geo": [
+        35.7775,
+        139.2826
+      ]
+    },
+    {
+      "id": "ltxv2qmnv",
+      "cn": "JR御茶之水站 圣桥口",
+      "name": "JR御茶ノ水駅 聖橋口",
+      "image": "https://image.anitabi.cn/points/390794/ltxv2qmnv_1719732913272.jpg?plan=h160",
+      "geo": [
+        35.6992,
+        139.7654
+      ]
+    },
+    {
+      "id": "ltxuaphnt",
+      "cn": "神田明神",
+      "name": "神田明神",
+      "image": "https://image.anitabi.cn/points/390794/ltxuaphnt_1719732962597.jpg?plan=h160",
+      "geo": [
+        35.7009,
+        139.7669
+      ]
+    }
+  ],
+  "pointsLength": 128,
+  "imagesLength": 128,
+  "local_id": 646
+}

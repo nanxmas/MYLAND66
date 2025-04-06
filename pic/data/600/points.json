@@ -1,0 +1,38 @@
+[
+  {
+    "id": "niq80agyz",
+    "cn": "伦敦桥",
+    "name": "London Bridge",
+    "image": "https://image.xinu.ink/pic/data/600/images/niq80agyz-1724496460547.jpg",
+    "ep": 9,
+    "s": 3,
+    "geo": [
+      51.508,
+      -0.0877
+    ]
+  },
+  {
+    "id": "pgfei6jim",
+    "cn": "法罗群岛峡湾",
+    "name": "法罗群岛峡湾",
+    "image": "https://image.xinu.ink/pic/data/600/images/pgfei6jim-1729958672856.jpg",
+    "ep": 3,
+    "s": 975,
+    "geo": [
+      62.2463,
+      -7.2101
+    ]
+  },
+  {
+    "id": "phi6xvvw8",
+    "cn": "文兰",
+    "name": "Newfoundland and Labrador",
+    "image": "https://image.xinu.ink/pic/data/600/images/phi6xvvw8-1730042928693.jpg",
+    "ep": 1,
+    "s": 484,
+    "geo": [
+      51.5961,
+      -55.5333
+    ]
+  }
+]

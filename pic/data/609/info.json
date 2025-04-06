@@ -1,0 +1,139 @@
+{
+  "id": 246430,
+  "cn": "BanG Dream! 第三季",
+  "title": "BanG Dream! 3rd Season",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/609/images/246430_BpvBB.jpg",
+  "color": "#33cccc",
+  "cp": "BanG Dream! Proj…",
+  "geo": [
+    35.40708960467403,
+    139.86382547242204
+  ],
+  "zoom": 8.115,
+  "modified": 1742809770888,
+  "litePoints": [
+    {
+      "id": "riacv5t90",
+      "cn": "JR安房鸭川站",
+      "name": "安房鴨川",
+      "image": "https://image.anitabi.cn/points/246430/riacv5t90_1742808830139.jpg?plan=h160",
+      "ep": 11,
+      "s": 141,
+      "geo": [
+        35.1076,
+        140.1037
+      ]
+    },
+    {
+      "id": "rhwxbtxm6",
+      "cn": "鸭川市立鸭川中学",
+      "name": "鴨川市立鴨川中學",
+      "image": "https://image.anitabi.cn/points/246430/rhwxbtxm6_1742808976724.jpg?plan=h160",
+      "ep": 11,
+      "s": 172,
+      "geo": [
+        35.1173,
+        140.0994
+      ]
+    },
+    {
+      "id": "rhw4htsnt",
+      "cn": "加茂川海桥",
+      "name": "かもがわマリーンブリッジ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/246430/points/rhw4htsnt-1735715599534.jpg?plan=h160",
+      "ep": 11,
+      "s": 223,
+      "geo": [
+        35.097,
+        140.1053
+      ]
+    },
+    {
+      "id": "rhwims0qu",
+      "cn": "笹生土木有限会社",
+      "name": "笹生土木（有）",
+      "image": "https://image.anitabi.cn/points/246430/rhwims0qu_1742809252153.jpg?plan=h160",
+      "ep": 11,
+      "s": 238,
+      "geo": [
+        35.0938,
+        140.1065
+      ]
+    },
+    {
+      "id": "rhw0f6lkk",
+      "cn": "鴨川漁港前原港区内观景平台",
+      "name": "フィッシャリーナ鴨川 クラブハウス海太郎",
+      "image": "https://image.anitabi.cn/points/246430/rhw0f6lkk_1742809710536.jpg?plan=h160",
+      "ep": 11,
+      "s": 298,
+      "geo": [
+        35.0986,
+        140.1084
+      ]
+    },
+    {
+      "id": "krltr748i",
+      "cn": "安房鸭川",
+      "name": "安房鴨川",
+      "image": "https://image.anitabi.cn/user/0/bangumi/186515/points/krltr748i-1716728915600.jpg?plan=h160",
+      "ep": 11,
+      "s": 721,
+      "geo": [
+        35.1076,
+        140.1038
+      ]
+    },
+    {
+      "id": "78e0cd5e",
+      "cn": "明治大街",
+      "name": "明治通り",
+      "image": "https://image.anitabi.cn/points/186515/78e0cd5e_1722414043756.jpg?plan=h160",
+      "ep": 3,
+      "s": 1063,
+      "geo": [
+        35.718,
+        139.713
+      ]
+    },
+    {
+      "id": "8dea6856",
+      "cn": "大久保大街",
+      "name": "大久保通り",
+      "image": "https://image.anitabi.cn/points/186515/8dea6856_1722414020795.jpg?plan=h160",
+      "ep": 9,
+      "s": 754,
+      "geo": [
+        35.7013,
+        139.7082
+      ]
+    },
+    {
+      "id": "eae9a5b7",
+      "cn": "sunmall大塚商店街振興組合",
+      "name": "サンモール大塚商店街振興組合",
+      "image": "https://image.anitabi.cn/points/186515/eae9a5b7_1722418421194.jpg?plan=h160",
+      "ep": 10,
+      "s": 20,
+      "geo": [
+        35.7301,
+        139.728
+      ]
+    },
+    {
+      "id": "u0eb5o6q5",
+      "name": "東京​ゲート​ブリッジ",
+      "image": "https://image.anitabi.cn/points/246430/u0eb5o6q5_1742807694068.jpg?plan=h160",
+      "ep": 10,
+      "s": 1278,
+      "geo": [
+        35.6126,
+        139.8297
+      ]
+    }
+  ],
+  "pointsLength": 11,
+  "imagesLength": 11,
+  "local_id": 609
+}

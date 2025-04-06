@@ -1,0 +1,94 @@
+{
+  "id": 241158,
+  "cn": "邻家的吸血鬼小妹",
+  "title": "となりの吸血鬼さん",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/604/images/241158.jpg",
+  "color": "#b30024",
+  "cp": "となりの吸血鬼さん",
+  "geo": [
+    35.643271990062374,
+    139.73077814011776
+  ],
+  "zoom": 9.406,
+  "modified": 1729411761154,
+  "litePoints": [
+    {
+      "id": "51i523m2v",
+      "name": "東京メトロ 神保町駅A1出口",
+      "image": "https://image.anitabi.cn/points/241158/51i523m2v_1729406291162.jpg?plan=h160",
+      "ep": 2,
+      "s": 496,
+      "geo": [
+        35.6958,
+        139.7557
+      ]
+    },
+    {
+      "id": "51i523msu",
+      "name": "東急東横線 東白楽駅",
+      "image": "https://image.anitabi.cn/points/241158/51i523msu_1729407471985.jpg?plan=h160",
+      "ep": 6,
+      "s": 868,
+      "geo": [
+        35.4831,
+        139.6293
+      ]
+    },
+    {
+      "id": "51i523n3n",
+      "name": "東京ビッグサイト",
+      "image": "https://image.anitabi.cn/points/241158/51i523n3n_1729409130190.jpg?plan=h160",
+      "ep": 7,
+      "s": 288,
+      "geo": [
+        35.6299,
+        139.7939
+      ]
+    },
+    {
+      "id": "51i523myq",
+      "name": "秋葉原中央通り",
+      "image": "https://image.anitabi.cn/points/241158/51i523myq_1729410356043.jpg?plan=h160",
+      "ep": 8,
+      "s": 955,
+      "geo": [
+        35.6988,
+        139.771
+      ]
+    },
+    {
+      "id": "51i523n01",
+      "name": "コミックZIN 秋葉原店",
+      "image": "https://image.anitabi.cn/points/241158/51i523n01_1729410288022.jpg?plan=h160",
+      "ep": 8,
+      "s": 975,
+      "geo": [
+        35.6995,
+        139.7711
+      ]
+    },
+    {
+      "id": "51i523n9y",
+      "name": "中野サンモール",
+      "image": "https://image.anitabi.cn/points/241158/51i523n9y_1729411709382.jpg?plan=h160",
+      "ep": 11,
+      "s": 712,
+      "geo": [
+        35.7064,
+        139.6657
+      ]
+    },
+    {
+      "id": "51i523my6",
+      "name": "なごみの湯",
+      "geo": [
+        35.7048,
+        139.6181
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 6,
+  "local_id": 604
+}

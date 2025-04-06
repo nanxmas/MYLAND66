@@ -1,0 +1,106 @@
+[
+  {
+    "id": "nr469zc3c",
+    "cn": "坎伯兰瀑布",
+    "name": "Cumberland Falls",
+    "image": "https://image.xinu.ink/pic/data/618/images/nr469zc3c-1725153775854.jpg",
+    "ep": null,
+    "geo": [
+      36.8388,
+      -84.345
+    ]
+  },
+  {
+    "id": "nr4a9u7ve",
+    "cn": "美臣街",
+    "name": "Mason Street",
+    "image": "https://image.xinu.ink/pic/data/618/images/nr4a9u7ve-1725154002465.jpg",
+    "ep": null,
+    "geo": [
+      37.7977,
+      -122.4121
+    ]
+  },
+  {
+    "id": "nr5ryeurt",
+    "name": "七里ヶ浜",
+    "image": "https://image.xinu.ink/pic/data/618/images/nr5ryeurt-1725157353496.jpg",
+    "ep": null,
+    "geo": [
+      35.3063,
+      139.5016
+    ],
+    "origin": "Anitabi@Nelson",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qlr4pezil",
+    "cn": "清水寺",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/618/images/qlr4pezil-1733196807253.jpg",
+    "ep": null,
+    "geo": [
+      34.9945,
+      135.7853
+    ]
+  },
+  {
+    "id": "qmq5enxn9",
+    "cn": "京都站乌丸中央口",
+    "name": "京都駅烏丸中央口",
+    "image": "https://image.xinu.ink/pic/data/618/images/qmq5enxn9-1733273120019.jpg",
+    "ep": null,
+    "geo": [
+      34.9868,
+      135.7593
+    ]
+  },
+  {
+    "id": "s6b88kt8w",
+    "name": "セブン​イレブン\n藤沢​片瀬​海岸​1丁目​店",
+    "image": "https://image.xinu.ink/pic/data/618/images/s6b88kt8w-1737628996849.jpg",
+    "ep": null,
+    "geo": [
+      35.3092,
+      139.4865
+    ],
+    "origin": "Anitabi@Nelson",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "sr0pyxqb0",
+    "cn": "江之岛SeaCandle（展望灯台）",
+    "name": "江の島シーキャンドル",
+    "image": "https://image.xinu.ink/pic/data/618/images/sr0pyxqb0-1739251783297.jpg",
+    "ep": "",
+    "s": "",
+    "geo": [
+      35.2997,
+      139.4783
+    ]
+  },
+  {
+    "id": "sr1mdwmeu",
+    "cn": "江之岛大桥",
+    "name": "江の島大橋",
+    "image": "https://image.xinu.ink/pic/data/618/images/sr1mdwmeu-1739253694849.jpg",
+    "ep": null,
+    "geo": [
+      35.304,
+      139.4819
+    ]
+  },
+  {
+    "id": "t63d9krwe",
+    "cn": "优胜美地瀑布",
+    "name": "Yosemite Falls",
+    "image": "https://image.xinu.ink/pic/data/618/images/t63d9krwe-1740433131828.jpg",
+    "ep": null,
+    "geo": [
+      37.7571,
+      -119.5966
+    ],
+    "origin": "Anitabi@Nelson",
+    "originURL": "https://anitabi.cn/"
+  }
+]

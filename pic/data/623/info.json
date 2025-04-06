@@ -1,0 +1,55 @@
+{
+  "id": 259061,
+  "cn": "美好的每一天 ～不连续的存在～全语音HD版",
+  "title": "素晴らしき日々 ～不連続存在～ フルボイスHD版",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/623/images/259061.jpg",
+  "color": "#6a6a95",
+  "geo": [
+    35.59431541666555,
+    139.60912984598133
+  ],
+  "zoom": 8.425,
+  "modified": 1729835053763,
+  "litePoints": [
+    {
+      "id": "lx718qg4u",
+      "name": "京王･小田急多摩センター駅 南口",
+      "image": "https://image.anitabi.cn/points/259061/lx718qg4u_1719987878907.jpg?plan=h160",
+      "geo": [
+        35.624,
+        139.4249
+      ]
+    },
+    {
+      "id": "lx72z5b5q",
+      "name": "多摩センター中央第１",
+      "image": "https://image.anitabi.cn/points/259061/lx72z5b5q_1719987982523.jpg?plan=h160",
+      "geo": [
+        35.6217,
+        139.4238
+      ]
+    },
+    {
+      "id": "lx77pejed",
+      "name": "飛龍五番館ビル",
+      "image": "https://image.anitabi.cn/points/259061/lx77pejed_1719988268328.jpg?plan=h160",
+      "geo": [
+        35.6999,
+        139.7261
+      ]
+    },
+    {
+      "id": "p4zhzxndh",
+      "name": "新宿区立加賀公園",
+      "image": "https://image.anitabi.cn/points/259061/p4zhzxndh_1729061746877.jpg?plan=h160",
+      "geo": [
+        35.6963,
+        139.7277
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 623
+}

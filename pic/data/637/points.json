@@ -1,0 +1,213 @@
+[
+  {
+    "id": "39rws3il",
+    "name": "丸子橋交差点南",
+    "image": "https://image.xinu.ink/pic/data/637/images/39rws3il.jpg",
+    "ep": 1,
+    "s": 214,
+    "geo": [
+      35.5845,
+      139.6708
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OCtVZAXzcam51D_pcOY0Ps5eGjQuNEOE&ll=35.584551%2C139.67085&z=17"
+  },
+  {
+    "id": "39rws3kh",
+    "name": "丸子橋交差点",
+    "image": "https://image.xinu.ink/pic/data/637/images/39rws3kh.jpg",
+    "ep": 1,
+    "s": 217,
+    "geo": [
+      35.5857,
+      139.67
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OCtVZAXzcam51D_pcOY0Ps5eGjQuNEOE&ll=35.585784%2C139.670099&z=17"
+  },
+  {
+    "id": "39rws319",
+    "name": "丸子橋",
+    "image": "https://image.xinu.ink/pic/data/637/images/39rws319.jpg",
+    "ep": 1,
+    "s": 241,
+    "geo": [
+      35.5856,
+      139.6697
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OCtVZAXzcam51D_pcOY0Ps5eGjQuNEOE&ll=35.585688%2C139.669742&z=17"
+  },
+  {
+    "id": "39rws3e8",
+    "name": "中板橋北",
+    "image": "https://image.xinu.ink/pic/data/637/images/39rws3e8.jpg",
+    "ep": 1,
+    "s": 1238,
+    "geo": [
+      35.7575,
+      139.693
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OCtVZAXzcam51D_pcOY0Ps5eGjQuNEOE&ll=35.757572%2C139.693096&z=17"
+  },
+  {
+    "id": "39rws36q",
+    "name": "向屋敷橋",
+    "image": "https://image.xinu.ink/pic/data/637/images/39rws36q.jpg",
+    "ep": 1,
+    "s": 1241,
+    "geo": [
+      35.7574,
+      139.6949
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OCtVZAXzcam51D_pcOY0Ps5eGjQuNEOE&ll=35.757427%2C139.694931&z=17"
+  },
+  {
+    "id": "39rws32l",
+    "name": "中板橋商店街？",
+    "image": "https://image.xinu.ink/pic/data/637/images/39rws32l.jpg",
+    "ep": 1,
+    "s": 1259,
+    "geo": [
+      35.7567,
+      139.6949
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OCtVZAXzcam51D_pcOY0Ps5eGjQuNEOE&ll=35.75676%2C139.694939&z=17"
+  },
+  {
+    "id": "39rws310",
+    "name": "多摩川河川敷",
+    "image": "https://image.xinu.ink/pic/data/637/images/39rws310.jpg",
+    "ep": 1,
+    "s": 1390,
+    "geo": [
+      35.5793,
+      139.6733
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OCtVZAXzcam51D_pcOY0Ps5eGjQuNEOE&ll=35.579346%2C139.67338&z=17"
+  },
+  {
+    "id": "39rws351",
+    "name": "住吉書房",
+    "image": "https://image.xinu.ink/pic/data/637/images/39rws351.jpg",
+    "ep": 2,
+    "s": 24,
+    "geo": [
+      35.5804,
+      139.6614
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OCtVZAXzcam51D_pcOY0Ps5eGjQuNEOE&ll=35.580426%2C139.661472&z=17"
+  },
+  {
+    "id": "39rws3gh",
+    "name": "東急電鉄 渋谷駅出口",
+    "image": "https://image.xinu.ink/pic/data/637/images/39rws3gh.jpg",
+    "ep": 3,
+    "s": 665,
+    "geo": [
+      35.6593,
+      139.7018
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OCtVZAXzcam51D_pcOY0Ps5eGjQuNEOE&ll=35.659391%2C139.701853&z=17"
+  },
+  {
+    "id": "39rws35o",
+    "name": "渋谷モヤイ像",
+    "image": "https://image.xinu.ink/pic/data/637/images/39rws35o.jpg",
+    "ep": 3,
+    "s": 710,
+    "geo": [
+      35.6584,
+      139.7008
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OCtVZAXzcam51D_pcOY0Ps5eGjQuNEOE&ll=35.658485%2C139.700874&z=17"
+  },
+  {
+    "id": "39rws3m9",
+    "name": "丸子橋下",
+    "image": "https://image.xinu.ink/pic/data/637/images/39rws3m9.jpg",
+    "ep": 11,
+    "s": 175,
+    "geo": [
+      35.5849,
+      139.6698
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OCtVZAXzcam51D_pcOY0Ps5eGjQuNEOE&ll=35.58497%2C139.669861&z=17"
+  },
+  {
+    "id": "39rws379",
+    "name": "新丸子駅西口",
+    "image": "https://image.xinu.ink/pic/data/637/images/39rws379.jpg",
+    "ep": 2,
+    "s": 0,
+    "geo": [
+      35.5803,
+      139.6616
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OCtVZAXzcam51D_pcOY0Ps5eGjQuNEOE&ll=35.580388%2C139.661608&z=17"
+  },
+  {
+    "id": "39rws35g",
+    "name": "カラオケルームロックス 新丸子店",
+    "image": "https://image.xinu.ink/pic/data/637/images/39rws35g.jpg",
+    "geo": [
+      35.5798,
+      139.6605
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OCtVZAXzcam51D_pcOY0Ps5eGjQuNEOE&ll=35.579843%2C139.660555&z=17"
+  },
+  {
+    "id": "39rws30x",
+    "name": "新丸子駅東",
+    "image": "https://image.xinu.ink/pic/data/637/images/39rws30x.jpg",
+    "geo": [
+      35.5802,
+      139.6626
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OCtVZAXzcam51D_pcOY0Ps5eGjQuNEOE&ll=35.580287%2C139.662636&z=17"
+  },
+  {
+    "id": "39rws3mp",
+    "name": "新丸子駅改札口",
+    "image": "https://image.xinu.ink/pic/data/637/images/39rws3mp.jpg",
+    "geo": [
+      35.5803,
+      139.6618
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OCtVZAXzcam51D_pcOY0Ps5eGjQuNEOE&ll=35.580334%2C139.661872&z=17"
+  },
+  {
+    "id": "39rws3n7",
+    "name": "都立大学駅",
+    "image": "https://image.xinu.ink/pic/data/637/images/39rws3n7.jpg",
+    "geo": [
+      35.6175,
+      139.6761
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OCtVZAXzcam51D_pcOY0Ps5eGjQuNEOE&ll=35.617536%2C139.676181&z=17"
+  },
+  {
+    "id": "39rws32i",
+    "name": "元住吉駅",
+    "image": "https://image.xinu.ink/pic/data/637/images/39rws32i.jpg",
+    "geo": [
+      35.5644,
+      139.6541
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OCtVZAXzcam51D_pcOY0Ps5eGjQuNEOE&ll=35.564438%2C139.654107&z=17"
+  }
+]

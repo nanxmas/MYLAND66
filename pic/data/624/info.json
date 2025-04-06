@@ -1,0 +1,128 @@
+{
+  "id": 260680,
+  "cn": "青春笨蛋少年不做怀梦美少女的梦",
+  "title": "青春ブタ野郎はゆめみる少女の夢を見ない",
+  "city": "藤泽市",
+  "cover": "https://image.xinu.ink/pic/data/624/images/260680.jpg",
+  "color": "#152040",
+  "cp": "青ブタ Project",
+  "geo": [
+    35.12851832883712,
+    139.71887561616836
+  ],
+  "zoom": 7.796,
+  "modified": 1734204431442,
+  "litePoints": [
+    {
+      "id": "nhsy44j4n",
+      "cn": "藤泽市民医院",
+      "name": "藤沢市民病院",
+      "image": "https://image.anitabi.cn/user/0/bangumi/260680/points/nhsy44j4n-1724424058077.jpg?plan=h160",
+      "s": 794,
+      "geo": [
+        35.3498,
+        139.4813
+      ]
+    },
+    {
+      "id": "nht1oa5t3",
+      "cn": "七里滨海岸",
+      "name": "七里ヶ浜",
+      "image": "https://image.anitabi.cn/user/0/bangumi/260680/points/nht1oa5t3-1724424257516.jpg?plan=h160",
+      "s": 925,
+      "geo": [
+        35.3052,
+        139.5096
+      ]
+    },
+    {
+      "id": "nhsow17k7",
+      "cn": "七里滨海岸停车场",
+      "name": "七里ヶ浜海岸駐車場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/260680/points/nhsow17k7-1724423440193.jpg?plan=h160",
+      "s": 1072,
+      "geo": [
+        35.3049,
+        139.5113
+      ]
+    },
+    {
+      "id": "nhdyu1e2b",
+      "cn": "江之电镰仓站JR联络口",
+      "name": "江ノ電鎌倉駅JR連絡口改札",
+      "image": "https://image.anitabi.cn/user/0/bangumi/260680/points/nhdyu1e2b-1724391376948.jpg?plan=h160",
+      "s": 1086,
+      "geo": [
+        35.3188,
+        139.5501
+      ]
+    },
+    {
+      "id": "nhdvbe6mv",
+      "cn": "镰仓站1号站台",
+      "name": "鎌倉駅　1番線",
+      "image": "https://image.anitabi.cn/user/0/bangumi/260680/points/nhdvbe6mv-1724391180176.jpg?plan=h160",
+      "s": 1088,
+      "geo": [
+        35.3191,
+        139.5504
+      ]
+    },
+    {
+      "id": "nhe2as03k",
+      "cn": "逗子站东口",
+      "name": "逗子駅 東口 改札",
+      "image": "https://image.anitabi.cn/user/0/bangumi/260680/points/nhe2as03k-1724391616075.jpg?plan=h160",
+      "s": 1091,
+      "geo": [
+        35.2974,
+        139.5794
+      ]
+    },
+    {
+      "id": "nhs3a7d5v",
+      "cn": "森户海岸 公交站",
+      "name": "森戸海岸（バス）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/260680/points/nhs3a7d5v-1724422167792.jpg?plan=h160",
+      "s": 1094,
+      "geo": [
+        35.2732,
+        139.5718
+      ]
+    },
+    {
+      "id": "nhsafz9uz",
+      "name": "ベネフィットステーション葉山",
+      "image": "https://image.anitabi.cn/user/0/bangumi/260680/points/nhsafz9uz-1724422545421.jpg?plan=h160",
+      "s": 1101,
+      "geo": [
+        35.2748,
+        139.5718
+      ]
+    },
+    {
+      "id": "nhshxv6k6",
+      "name": "スケープス ザ スィート SCAPES THE SUITE",
+      "image": "https://image.anitabi.cn/user/0/bangumi/260680/points/nhshxv6k6-1724423015177.jpg?plan=h160",
+      "s": 1107,
+      "geo": [
+        35.2751,
+        139.5717
+      ]
+    },
+    {
+      "id": "nhsnkb94a",
+      "cn": "森户海水浴场",
+      "name": "森戸海水浴場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/260680/points/nhsnkb94a-1724423356817.jpg?plan=h160",
+      "s": 1245,
+      "geo": [
+        35.2753,
+        139.5712
+      ]
+    }
+  ],
+  "pointsLength": 33,
+  "imagesLength": 33,
+  "local_id": 624
+}

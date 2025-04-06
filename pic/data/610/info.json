@@ -1,0 +1,29 @@
+{
+  "id": 247791,
+  "title": "我是江小白 第二季",
+  "city": "重庆市",
+  "cover": "https://image.xinu.ink/pic/data/610/images/247791.jpg",
+  "color": "#df5652",
+  "geo": [
+    29.57037600000001,
+    106.57640200000003
+  ],
+  "zoom": 16,
+  "modified": 1723415533882,
+  "litePoints": [
+    {
+      "id": "k31j7v8fy",
+      "name": "重庆江北嘴江滩公园",
+      "image": "https://image.anitabi.cn/user/0/bangumi/247791/points/k31j7v8fy-1714804134965.jpg?plan=h160",
+      "ep": 11,
+      "s": 1426,
+      "geo": [
+        29.5703,
+        106.5764
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "local_id": 610
+}

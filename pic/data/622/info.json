@@ -1,0 +1,37 @@
+{
+  "id": 257494,
+  "title": "夜思",
+  "city": "黑龙江省",
+  "cover": "https://image.xinu.ink/pic/data/622/images/257494.jpg",
+  "color": "#475c63",
+  "geo": [
+    45.76532152946507,
+    126.62466228750645
+  ],
+  "zoom": 13.25,
+  "modified": 1727257235618,
+  "litePoints": [
+    {
+      "id": "ohn9kkp33",
+      "name": "霁虹桥",
+      "image": "https://image.anitabi.cn/user/0/bangumi/257494/points/ohn9kkp33-1727232800115.jpg?plan=h160",
+      "s": 356,
+      "geo": [
+        45.7627,
+        126.6288
+      ]
+    },
+    {
+      "id": "ohnfpuxmy",
+      "name": "圣·索菲亚教堂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/257494/points/ohnfpuxmy-1727233090950.jpg?plan=h160",
+      "geo": [
+        45.7679,
+        126.6203
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 622
+}

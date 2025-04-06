@@ -1,0 +1,80 @@
+[
+  {
+    "id": "51i523m2v",
+    "name": "東京メトロ 神保町駅A1出口",
+    "image": "https://image.xinu.ink/pic/data/604/images/51i523m2v_1729406291162.jpg",
+    "ep": 2,
+    "s": 496,
+    "geo": [
+      35.6958,
+      139.7557
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1xo7t_6GJex0R4YYneiDUzln5qm8_TV2c&ll=35.695835%2C139.755791&z=17"
+  },
+  {
+    "id": "51i523msu",
+    "name": "東急東横線 東白楽駅",
+    "image": "https://image.xinu.ink/pic/data/604/images/51i523msu_1729407471985.jpg",
+    "ep": 6,
+    "s": 868,
+    "geo": [
+      35.4831,
+      139.6293
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1xo7t_6GJex0R4YYneiDUzln5qm8_TV2c&ll=35.483191%2C139.629388&z=17"
+  },
+  {
+    "id": "51i523n3n",
+    "name": "東京ビッグサイト",
+    "image": "https://image.xinu.ink/pic/data/604/images/51i523n3n_1729409130190.jpg",
+    "ep": 7,
+    "s": 288,
+    "geo": [
+      35.6299,
+      139.7939
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1xo7t_6GJex0R4YYneiDUzln5qm8_TV2c&ll=35.629944%2C139.79396&z=17"
+  },
+  {
+    "id": "51i523myq",
+    "name": "秋葉原中央通り",
+    "image": "https://image.xinu.ink/pic/data/604/images/51i523myq_1729410356043.jpg",
+    "ep": 8,
+    "s": 955,
+    "geo": [
+      35.6988,
+      139.771
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1xo7t_6GJex0R4YYneiDUzln5qm8_TV2c&ll=35.698849%2C139.771073&z=17"
+  },
+  {
+    "id": "51i523n01",
+    "name": "コミックZIN 秋葉原店",
+    "image": "https://image.xinu.ink/pic/data/604/images/51i523n01_1729410288022.jpg",
+    "ep": 8,
+    "s": 975,
+    "geo": [
+      35.6995,
+      139.7711
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1xo7t_6GJex0R4YYneiDUzln5qm8_TV2c&ll=35.699503%2C139.771153&z=17"
+  },
+  {
+    "id": "51i523n9y",
+    "name": "中野サンモール",
+    "image": "https://image.xinu.ink/pic/data/604/images/51i523n9y_1729411709382.jpg",
+    "ep": 11,
+    "s": 712,
+    "geo": [
+      35.7064,
+      139.6657
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1xo7t_6GJex0R4YYneiDUzln5qm8_TV2c&ll=35.706426%2C139.665772&z=17"
+  }
+]

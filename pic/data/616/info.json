@@ -1,0 +1,75 @@
+{
+  "id": 253046,
+  "cn": "强袭魔女 通往柏林之路",
+  "title": "ストライクウィッチーズ ROAD to BERLIN",
+  "city": "欧洲",
+  "cover": "https://image.xinu.ink/pic/data/616/images/253046.jpg",
+  "color": "#444afd",
+  "geo": [
+    52.77531551094205,
+    9.446420864658052
+  ],
+  "zoom": 5.515,
+  "modified": 1725433962406,
+  "litePoints": [
+    {
+      "id": "n7phka5a2",
+      "name": "Klosterstraße",
+      "image": "https://image.anitabi.cn/user/0/bangumi/253046/points/n7phka5a2-1723632803914.jpg?plan=h160",
+      "ep": 12,
+      "s": 232,
+      "geo": [
+        52.5172,
+        13.4124
+      ]
+    },
+    {
+      "id": "n7pcve0tz",
+      "name": "Gendarmenmarkt",
+      "image": "https://image.anitabi.cn/user/0/bangumi/253046/points/n7pcve0tz-1723632526783.jpg?plan=h160",
+      "ep": 1,
+      "s": 28,
+      "geo": [
+        52.5132,
+        13.3927
+      ]
+    },
+    {
+      "id": "n7pabbrsb",
+      "cn": "勃兰登堡门",
+      "name": "Brandenburger Tor",
+      "image": "https://image.anitabi.cn/user/0/bangumi/253046/points/n7pabbrsb-1723632400771.jpg?plan=h160",
+      "ep": 1,
+      "s": 7,
+      "geo": [
+        52.5162,
+        13.3781
+      ]
+    },
+    {
+      "id": "n7p7wv0x0",
+      "name": "Fort Kijkduin",
+      "image": "https://image.anitabi.cn/user/0/bangumi/253046/points/n7p7wv0x0-1723632216522.jpg?plan=h160",
+      "ep": 6,
+      "s": 83,
+      "geo": [
+        52.9509,
+        4.7218
+      ]
+    },
+    {
+      "id": "n7p5l1bq1",
+      "name": "Lange Jaap",
+      "image": "https://image.anitabi.cn/user/0/bangumi/253046/points/n7p5l1bq1-1723632112338.jpg?plan=h160",
+      "ep": 6,
+      "s": 82,
+      "geo": [
+        52.9552,
+        4.7265
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 616
+}

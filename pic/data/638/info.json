@@ -1,0 +1,129 @@
+{
+  "id": 269090,
+  "cn": "",
+  "title": "HELLO WORLD",
+  "city": "京都市",
+  "cover": "https://image.xinu.ink/pic/data/638/images/269090.jpg",
+  "color": "#e14a2f",
+  "cp": "2019HELLO WORLD",
+  "geo": [
+    35.007012608963095,
+    135.7571825781647
+  ],
+  "zoom": 11.111,
+  "modified": 1743055882704,
+  "litePoints": [
+    {
+      "id": "idd9dksjl",
+      "cn": "锦高",
+      "name": "堀川高",
+      "image": "https://image.anitabi.cn/user/0/bangumi/269090/points/idd9dksjl-1709971308006.jpg?plan=h160",
+      "ep": 11,
+      "s": 303,
+      "geo": [
+        35.0052,
+        135.7527
+      ]
+    },
+    {
+      "id": "96rwljrnz",
+      "cn": "鸭川三角洲",
+      "name": "鴨川デルタ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/269090/points/96rwljrnz-1684064449810.jpg?plan=h160",
+      "s": 811,
+      "geo": [
+        35.0293,
+        135.7722
+      ]
+    },
+    {
+      "id": "a1sd7f1m2",
+      "cn": "朝雾桥",
+      "name": "朝霧橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/269090/points/a1sd7f1m2-1716887031187.jpg?plan=h160",
+      "s": 3026,
+      "geo": [
+        34.8902,
+        135.8094
+      ]
+    },
+    {
+      "id": "a1sib00rh",
+      "cn": "京都站大楼梯",
+      "name": "京都駅ビル 大階段",
+      "image": "https://image.anitabi.cn/user/0/bangumi/269090/points/a1sib00rh-1710647064766.jpg?plan=h160",
+      "geo": [
+        34.9858,
+        135.7575
+      ]
+    },
+    {
+      "id": "im6tlu0gj",
+      "cn": "稻荷大社",
+      "name": "稲荷大社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/269090/points/im6tlu0gj-1710662179989.jpg?plan=h160",
+      "s": 451,
+      "geo": [
+        34.9673,
+        135.7733
+      ]
+    },
+    {
+      "id": "im2yht2gs",
+      "cn": "北泉通",
+      "name": "北泉通",
+      "image": "https://image.anitabi.cn/user/0/bangumi/269090/points/im2yht2gs-1710653813341.jpg?plan=h160",
+      "geo": [
+        35.0478,
+        135.7695
+      ]
+    },
+    {
+      "id": "im09ib8yf",
+      "cn": "梅之桥",
+      "name": "梅ノ橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/269090/points/im09ib8yf-1710647917840.jpg?plan=h160",
+      "s": 2279,
+      "geo": [
+        35.0455,
+        135.7689
+      ]
+    },
+    {
+      "id": "im05awd0j",
+      "cn": "伏见稻荷大社",
+      "name": "伏見稲荷大社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/269090/points/im05awd0j-1710647617566.jpg?plan=h160",
+      "s": 446,
+      "geo": [
+        34.967,
+        135.7708
+      ]
+    },
+    {
+      "id": "im01gv6dw",
+      "cn": "下鸭北园町",
+      "name": "下鸭北園町",
+      "image": "https://image.anitabi.cn/user/0/bangumi/269090/points/im01gv6dw-1710647401369.jpg?plan=h160",
+      "s": 1556,
+      "geo": [
+        35.0474,
+        135.7706
+      ]
+    },
+    {
+      "id": "ilzybf2bq",
+      "cn": "京都府庁",
+      "name": "京都府庁",
+      "image": "https://image.anitabi.cn/user/0/bangumi/269090/points/ilzybf2bq-1710647198958.jpg?plan=h160",
+      "s": 656,
+      "geo": [
+        35.0199,
+        135.7555
+      ]
+    }
+  ],
+  "pointsLength": 32,
+  "imagesLength": 32,
+  "local_id": 638
+}

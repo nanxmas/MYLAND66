@@ -1,0 +1,27 @@
+[
+  {
+    "id": "5he9g6qfr",
+    "cn": "安全理事会会议厅",
+    "name": "UN Security Council Chamber",
+    "image": "https://image.xinu.ink/pic/data/607/images/5he9g6qfr-1673612150414.jpg",
+    "ep": "3",
+    "s": "188",
+    "geo": [
+      40.7495,
+      -73.9677
+    ]
+  },
+  {
+    "id": "5icee09ra",
+    "name": "旅顺军港",
+    "image": "https://image.xinu.ink/pic/data/607/images/5icee09ra-1673686350684.jpg",
+    "ep": 1,
+    "s": 305,
+    "geo": [
+      38.8038,
+      121.2499
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  }
+]

@@ -1,0 +1,130 @@
+{
+  "id": 256114,
+  "cn": "五等分的新娘",
+  "title": "五等分の花嫁",
+  "city": "东海市",
+  "cover": "https://image.xinu.ink/pic/data/621/images/256114.jpg",
+  "color": "#f0b18f",
+  "cp": "五等分の花嫁",
+  "geo": [
+    35.021873998336375,
+    136.88880242369316
+  ],
+  "zoom": 24,
+  "modified": 1732141778366,
+  "litePoints": [
+    {
+      "id": "ovtkkxbe6",
+      "name": "グラストニア",
+      "image": "https://image.anitabi.cn/points/256114/ovtkkxbe6_1728345073286_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 13,
+      "geo": [
+        35.1501,
+        136.9242
+      ]
+    },
+    {
+      "id": "nsdhx9wij",
+      "name": "Cafeteria BREATH",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/256114/points/nsdhx9wij-1725252376310.jpg?plan=h160",
+      "ep": 1,
+      "s": 31,
+      "geo": [
+        34.6691,
+        135.2027
+      ]
+    },
+    {
+      "id": "51i51w8f8",
+      "name": "ソラト太田川",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/256114/points/51i51w8f8-1725344190183.jpg?plan=h160",
+      "ep": 1,
+      "s": 584,
+      "geo": [
+        35.0196,
+        136.8935
+      ]
+    },
+    {
+      "id": "ovmkjhwjk",
+      "name": "聚楽園大仏",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/256114/points/ovmkjhwjk-1728328335779.jpg?plan=h160",
+      "ep": 1,
+      "s": 594,
+      "geo": [
+        35.0438,
+        136.9044
+      ]
+    },
+    {
+      "id": "nxo6rde8u",
+      "name": "Sorato 太田川 北侧",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/256114/points/nxo6rde8u-1725667517700.jpg?plan=h160",
+      "ep": 1,
+      "s": 617,
+      "geo": [
+        35.0196,
+        136.8936
+      ]
+    },
+    {
+      "id": "o6shq3xmm",
+      "name": "日本福祉大東海キャンパス 右侧入口",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/256114/points/o6shq3xmm-1726382228214.jpg?plan=h160",
+      "ep": 2,
+      "s": 208,
+      "geo": [
+        35.0218,
+        136.8889
+      ]
+    },
+    {
+      "id": "ntk9z18j4",
+      "name": "日本​福祉​大​東海​キャンパス",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/256114/points/ntk9z18j4-1725345467354.jpg?plan=h160",
+      "ep": 2,
+      "s": 310,
+      "geo": [
+        35.0218,
+        136.8888
+      ]
+    },
+    {
+      "id": "ovu0wtgzy",
+      "name": "日本福祉大東海キャンパス",
+      "image": "https://image.anitabi.cn/points/256114/ovu0wtgzy_1728345086688_c16v9.jpg?plan=h160",
+      "ep": 2,
+      "s": 435,
+      "geo": [
+        35.0219,
+        136.8889
+      ]
+    },
+    {
+      "id": "ovu1zstlk",
+      "name": "日本福祉大東海キャンパス 天台",
+      "image": "https://image.anitabi.cn/points/256114/ovu1zstlk_1728345089643_c16v9.jpg?plan=h160",
+      "ep": 2,
+      "s": 494,
+      "geo": [
+        35.0221,
+        136.8889
+      ]
+    },
+    {
+      "id": "oautftse8",
+      "name": "日本福祉大学 東海キャンパス 西南侧楼梯",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/256114/points/oautftse8-1726700697321.jpg?plan=h160",
+      "ep": 2,
+      "s": 864,
+      "geo": [
+        35.0213,
+        136.8883
+      ]
+    }
+  ],
+  "pointsLength": 52,
+  "imagesLength": 52,
+  "local_id": 621
+}

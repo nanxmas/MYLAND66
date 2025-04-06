@@ -1,0 +1,40 @@
+[
+  {
+    "id": "d2d2753c",
+    "name": "梨門邸",
+    "image": "https://image.xinu.ink/pic/data/633/images/d2d2753c_1741376392125.jpg",
+    "s": 476,
+    "geo": [
+      35.0256,
+      135.7949
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1qmw6xKlLpQS6H5Yt5PaaUP6YzAfjq4E&ll=35.02563%2C135.794938&z=17"
+  },
+  {
+    "id": "18909931",
+    "cn": "喫茶カラス",
+    "name": "カラス",
+    "image": "https://image.xinu.ink/pic/data/633/images/18909931_1741376415018.jpg",
+    "s": 1815,
+    "geo": [
+      35.166,
+      136.8968
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1qmw6xKlLpQS6H5Yt5PaaUP6YzAfjq4E&ll=35.166051%2C136.896806&z=17"
+  },
+  {
+    "id": "f503f155",
+    "cn": "台湾ラーメン光陽",
+    "name": "ＪＭヒラ",
+    "image": "https://image.xinu.ink/pic/data/633/images/f503f155_1741376510908.jpg",
+    "s": 2486,
+    "geo": [
+      35.2304,
+      136.8973
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1qmw6xKlLpQS6H5Yt5PaaUP6YzAfjq4E&ll=35.230446%2C136.897384&z=17"
+  }
+]

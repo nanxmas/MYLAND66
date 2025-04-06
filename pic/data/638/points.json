@@ -1,0 +1,360 @@
+[
+  {
+    "id": "idd9dksjl",
+    "cn": "锦高",
+    "name": "堀川高",
+    "image": "https://image.xinu.ink/pic/data/638/images/idd9dksjl-1709971308006.jpg",
+    "ep": 11,
+    "s": 303,
+    "geo": [
+      35.0052,
+      135.7527
+    ]
+  },
+  {
+    "id": "96rwljrnz",
+    "cn": "鸭川三角洲",
+    "name": "鴨川デルタ",
+    "image": "https://image.xinu.ink/pic/data/638/images/96rwljrnz-1684064449810.jpg",
+    "ep": null,
+    "s": 811,
+    "geo": [
+      35.0293,
+      135.7722
+    ]
+  },
+  {
+    "id": "a1sd7f1m2",
+    "cn": "朝雾桥",
+    "name": "朝霧橋",
+    "image": "https://image.xinu.ink/pic/data/638/images/a1sd7f1m2-1716887031187.jpg",
+    "ep": null,
+    "s": 3026,
+    "geo": [
+      34.8902,
+      135.8094
+    ]
+  },
+  {
+    "id": "a1sib00rh",
+    "cn": "京都站大楼梯",
+    "name": "京都駅ビル 大階段",
+    "image": "https://image.xinu.ink/pic/data/638/images/a1sib00rh-1710647064766.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      34.9858,
+      135.7575
+    ]
+  },
+  {
+    "id": "im6tlu0gj",
+    "cn": "稻荷大社",
+    "name": "稲荷大社",
+    "image": "https://image.xinu.ink/pic/data/638/images/im6tlu0gj-1710662179989.jpg",
+    "ep": null,
+    "s": 451,
+    "geo": [
+      34.9673,
+      135.7733
+    ]
+  },
+  {
+    "id": "im2yht2gs",
+    "cn": "北泉通",
+    "name": "北泉通",
+    "image": "https://image.xinu.ink/pic/data/638/images/im2yht2gs-1710653813341.jpg",
+    "ep": null,
+    "geo": [
+      35.0478,
+      135.7695
+    ]
+  },
+  {
+    "id": "im09ib8yf",
+    "cn": "梅之桥",
+    "name": "梅ノ橋",
+    "image": "https://image.xinu.ink/pic/data/638/images/im09ib8yf-1710647917840.jpg",
+    "ep": null,
+    "s": 2279,
+    "geo": [
+      35.0455,
+      135.7689
+    ]
+  },
+  {
+    "id": "im05awd0j",
+    "cn": "伏见稻荷大社",
+    "name": "伏見稲荷大社",
+    "image": "https://image.xinu.ink/pic/data/638/images/im05awd0j-1710647617566.jpg",
+    "ep": null,
+    "s": 446,
+    "geo": [
+      34.967,
+      135.7708
+    ]
+  },
+  {
+    "id": "im01gv6dw",
+    "cn": "下鸭北园町",
+    "name": "下鸭北園町",
+    "image": "https://image.xinu.ink/pic/data/638/images/im01gv6dw-1710647401369.jpg",
+    "ep": null,
+    "s": 1556,
+    "geo": [
+      35.0474,
+      135.7706
+    ]
+  },
+  {
+    "id": "ilzybf2bq",
+    "cn": "京都府庁",
+    "name": "京都府庁",
+    "image": "https://image.xinu.ink/pic/data/638/images/ilzybf2bq-1710647198958.jpg",
+    "ep": null,
+    "s": 656,
+    "geo": [
+      35.0199,
+      135.7555
+    ]
+  },
+  {
+    "id": "ilzqbomsz",
+    "cn": "堀川五条路口",
+    "name": "堀川通",
+    "image": "https://image.xinu.ink/pic/data/638/images/ilzqbomsz-1710646698543.jpg",
+    "ep": null,
+    "geo": [
+      34.9963,
+      135.7523
+    ]
+  },
+  {
+    "id": "ilztvsclx",
+    "cn": "二条駅",
+    "name": "二条駅",
+    "image": "https://image.xinu.ink/pic/data/638/images/ilztvsclx-1710646969279.jpg",
+    "ep": null,
+    "geo": [
+      35.0109,
+      135.7414
+    ]
+  },
+  {
+    "id": "ipqp3z6h0",
+    "name": "葵橋",
+    "image": "https://image.xinu.ink/pic/data/638/images/ipqp3z6h0-1710940580779.jpg",
+    "ep": null,
+    "s": 2133,
+    "geo": [
+      35.0332,
+      135.769
+    ]
+  },
+  {
+    "id": "itbjz10o6",
+    "cn": "JR宇治站前",
+    "name": "JR宇治駅前",
+    "image": "https://image.xinu.ink/pic/data/638/images/itbjz10o6-1716885776659.jpg",
+    "ep": null,
+    "s": 2705,
+    "geo": [
+      34.8902,
+      135.8012
+    ]
+  },
+  {
+    "id": "itbpq53my",
+    "cn": "京都南图书馆",
+    "name": "京都南図書館",
+    "image": "https://image.xinu.ink/pic/data/638/images/itbpq53my-1716884587963.jpg",
+    "ep": null,
+    "s": 399,
+    "geo": [
+      34.9811,
+      135.7611
+    ]
+  },
+  {
+    "id": "itbxsobj2",
+    "cn": "四条堀川",
+    "name": "四条堀川",
+    "image": "https://image.xinu.ink/pic/data/638/images/itbxsobj2-1716885178054.jpg",
+    "ep": null,
+    "s": 66,
+    "geo": [
+      35.0037,
+      135.7514
+    ]
+  },
+  {
+    "id": "itbzrz3g7",
+    "cn": "出町柳站前",
+    "name": "出町柳駅前",
+    "image": "https://image.xinu.ink/pic/data/638/images/itbzrz3g7-1716885347133.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      35.0289,
+      135.7728
+    ]
+  },
+  {
+    "id": "itcbnqk74",
+    "cn": "东寺",
+    "name": "東寺",
+    "image": "https://image.xinu.ink/pic/data/638/images/itcbnqk74-1716885612160.jpg",
+    "ep": null,
+    "s": 2453,
+    "geo": [
+      34.9793,
+      135.7468
+    ]
+  },
+  {
+    "id": "itchjc4wf",
+    "cn": "堀川蛸药师",
+    "name": "堀川蛸薬師",
+    "image": "https://image.xinu.ink/pic/data/638/images/itchjc4wf-1716885452313.jpg",
+    "ep": null,
+    "s": 1695,
+    "geo": [
+      35.0055,
+      135.7519
+    ]
+  },
+  {
+    "id": "ktljmiuzo",
+    "name": "雙ヶ岡",
+    "image": "https://image.xinu.ink/pic/data/638/images/ktljmiuzo-1716884990816.jpg",
+    "ep": null,
+    "s": 1364,
+    "geo": [
+      35.0222,
+      135.7135
+    ]
+  },
+  {
+    "id": "ktmgiw5gm",
+    "name": "京都第二赤十字病院",
+    "image": "https://image.xinu.ink/pic/data/638/images/ktmgiw5gm-1716886954321.jpg",
+    "ep": null,
+    "s": 4262,
+    "geo": [
+      35.0186,
+      135.7563
+    ]
+  },
+  {
+    "id": "txzn8evz6",
+    "cn": "神泉苑通",
+    "name": "神泉苑通",
+    "image": "https://image.xinu.ink/pic/data/638/images/txzn8evz6-1742619041735.jpg",
+    "ep": null,
+    "geo": [
+      35.0068,
+      135.7473
+    ]
+  },
+  {
+    "id": "txztvej2c",
+    "name": "堀川高对侧",
+    "image": "https://image.xinu.ink/pic/data/638/images/txztvej2c-1742619444343.jpg",
+    "ep": null,
+    "geo": [
+      35.0049,
+      135.7515
+    ]
+  },
+  {
+    "id": "ty00l4026",
+    "name": "伏見稲荷駅",
+    "image": "https://image.xinu.ink/pic/data/638/images/ty00l4026-1742619845714.jpg",
+    "ep": null,
+    "geo": [
+      34.9685,
+      135.7691
+    ]
+  },
+  {
+    "id": "ty02xhj2e",
+    "name": "西大路三条",
+    "image": "https://image.xinu.ink/pic/data/638/images/ty02xhj2e-1742620005498.jpg",
+    "ep": null,
+    "geo": [
+      35.0084,
+      135.7318
+    ]
+  },
+  {
+    "id": "ty063l0ew",
+    "name": "四条乌丸",
+    "image": "https://image.xinu.ink/pic/data/638/images/ty063l0ew-1742620205127.jpg",
+    "ep": null,
+    "geo": [
+      35.0036,
+      135.7595
+    ]
+  },
+  {
+    "id": "ty07br0vq",
+    "name": "四条",
+    "image": "https://image.xinu.ink/pic/data/638/images/ty07br0vq-1742620429530.jpg",
+    "ep": null,
+    "geo": [
+      35.0022,
+      135.7595
+    ]
+  },
+  {
+    "id": "ty0bbg0ac",
+    "name": "四条仏光寺通",
+    "image": "https://image.xinu.ink/pic/data/638/images/ty0bbg0ac-1742620554597.jpg",
+    "ep": null,
+    "geo": [
+      35.0013,
+      135.7595
+    ]
+  },
+  {
+    "id": "ty0egvi19",
+    "cn": "京都站楼上",
+    "name": "京都駅",
+    "image": "https://image.xinu.ink/pic/data/638/images/ty0egvi19-1742620798980.jpg",
+    "ep": null,
+    "geo": [
+      34.9859,
+      135.7569
+    ]
+  },
+  {
+    "id": "ty0it1h44",
+    "name": "鸭川納涼床",
+    "image": "https://image.xinu.ink/pic/data/638/images/ty0it1h44-1742621062971.jpg",
+    "ep": null,
+    "geo": [
+      35.0051,
+      135.7714
+    ]
+  },
+  {
+    "id": "u3i99vjye",
+    "name": "壬生川通",
+    "image": "https://image.xinu.ink/pic/data/638/images/u3i99vjye-1743052007298.jpg",
+    "ep": null,
+    "geo": [
+      35.0051,
+      135.7462
+    ]
+  },
+  {
+    "id": "u3ikws919",
+    "name": "四条大宮",
+    "image": "https://image.xinu.ink/pic/data/638/images/u3ikws919-1743052189007.jpg",
+    "ep": null,
+    "geo": [
+      35.0045,
+      135.7468
+    ]
+  }
+]

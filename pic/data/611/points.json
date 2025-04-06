@@ -1,0 +1,86 @@
+[
+  {
+    "id": "noh1gepoz",
+    "cn": "祖师谷大藏",
+    "name": "祖師ヶ谷大蔵",
+    "image": "https://image.xinu.ink/pic/data/611/images/noh1gepoz_1725001416635_cut.jpg",
+    "ep": 2,
+    "s": 86,
+    "geo": [
+      35.6432,
+      139.6093
+    ]
+  },
+  {
+    "id": "nus0rglxi",
+    "cn": "读卖新闻总部大楼",
+    "name": "読売新聞 東京本社",
+    "image": "https://image.xinu.ink/pic/data/611/images/nus0rglxi-1725440755365.jpg",
+    "ep": 17,
+    "s": 594,
+    "geo": [
+      35.6871,
+      139.7646
+    ]
+  },
+  {
+    "id": "nus4xf508",
+    "cn": "多摩川",
+    "name": "多摩川",
+    "image": "https://image.xinu.ink/pic/data/611/images/nus4xf508-1725440971663.jpg",
+    "ep": 5,
+    "s": 243,
+    "geo": [
+      35.6282,
+      139.5683
+    ]
+  },
+  {
+    "id": "nzjkr2pmv",
+    "cn": "箱根汤本",
+    "name": "箱根湯本",
+    "image": "https://image.xinu.ink/pic/data/611/images/nzjkr2pmv-1725814190719.jpg",
+    "ep": 17,
+    "s": 735,
+    "geo": [
+      35.2332,
+      139.1035
+    ]
+  },
+  {
+    "id": "nzjr0l5zo",
+    "cn": "箱根驿传纪念碑",
+    "name": "箱根駅伝栄光の碑「若き力を讃えて」",
+    "image": "https://image.xinu.ink/pic/data/611/images/nzjr0l5zo-1725814534727.jpg",
+    "ep": 20,
+    "s": 919,
+    "geo": [
+      35.1902,
+      139.0254
+    ]
+  },
+  {
+    "id": "51i52epey",
+    "cn": "仙川桥",
+    "name": "仙川歩道橋",
+    "image": "https://image.xinu.ink/pic/data/611/images/51i52epey-1725440552178.jpg",
+    "ep": "op",
+    "geo": [
+      35.6408,
+      139.6019
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=14jU68uv8HbkU06W4p9vD0g7FmT7R8Hl2&ll=35.64084%2C139.601911&z=17"
+  },
+  {
+    "id": "nzjoaczez",
+    "cn": "根神社第一鳥居",
+    "name": "箱根神社 第一鳥居",
+    "image": "https://image.xinu.ink/pic/data/611/images/nzjoaczez-1725814365569.jpg",
+    "ep": null,
+    "geo": [
+      35.2008,
+      139.0308
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+{
+  "id": 243981,
+  "cn": "终将成为你",
+  "title": "やがて君になる",
+  "city": "品川区",
+  "cover": "https://image.xinu.ink/pic/data/606/images/243981.jpg",
+  "color": "#e38e71",
+  "geo": [
+    35.62709503612933,
+    139.7377315903712
+  ],
+  "zoom": 12.879,
+  "modified": 1738772049491,
+  "litePoints": [
+    {
+      "id": "lqkrt6806",
+      "name": "マクセル アクアパーク品川",
+      "image": "https://image.anitabi.cn/user/0/bangumi/243981/points/lqkrt6806-1719470108818.jpg?plan=h160",
+      "ep": 13,
+      "s": 619,
+      "geo": [
+        35.6284,
+        139.7355
+      ]
+    },
+    {
+      "id": "skvmwz4c0",
+      "cn": "西武池袋线清濑站附近踏切",
+      "name": "新堀茜通り西武池袋線踏み切り",
+      "image": "https://image.anitabi.cn/points/243981/skvmwz4c0_1738770467292.jpg?plan=h160",
+      "ep": 2,
+      "s": 661,
+      "geo": [
+        35.7697,
+        139.5245
+      ]
+    },
+    {
+      "id": "skw1d2jst",
+      "name": "星野ハイツ",
+      "image": "https://image.anitabi.cn/points/243981/skw1d2jst_1738771378130.jpg?plan=h160",
+      "ep": 8,
+      "s": 981,
+      "geo": [
+        35.7504,
+        139.5989
+      ]
+    },
+    {
+      "id": "skw87e3j6",
+      "name": "マクドナルド\n中村橋​店",
+      "image": "https://image.anitabi.cn/points/243981/skw87e3j6_1738771752604.jpg?plan=h160",
+      "ep": 8,
+      "s": 568,
+      "geo": [
+        35.7359,
+        139.6385
+      ]
+    },
+    {
+      "id": "ofyel6032",
+      "cn": "售票处",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/243981/ofyel6032_1727100233839.jpg?plan=h160",
+      "ep": 13,
+      "s": 617,
+      "geo": [
+        35.6282,
+        139.7354
+      ]
+    },
+    {
+      "id": "ofyfno3l2",
+      "cn": "品川水族馆内部",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/243981/ofyfno3l2_1727100328057.jpg?plan=h160",
+      "ep": 13,
+      "s": 667,
+      "geo": [
+        35.6281,
+        139.7353
+      ]
+    },
+    {
+      "id": "ofyj075u1",
+      "cn": "麦克赛尔品川王子大饭店水族馆",
+      "name": "マクセル​アクア​パーク​品川",
+      "image": "https://image.anitabi.cn/points/243981/ofyj075u1_1727100499911.jpg?plan=h160",
+      "ep": 13,
+      "s": 938,
+      "geo": [
+        35.6278,
+        139.7352
+      ]
+    }
+  ],
+  "pointsLength": 30,
+  "imagesLength": 30,
+  "local_id": 606
+}

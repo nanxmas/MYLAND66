@@ -1,0 +1,114 @@
+{
+  "id": 274234,
+  "cn": "小林家的龙女仆S",
+  "title": "小林さんちのメイドラゴンS",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/643/images/274234.jpg",
+  "color": "#fad563",
+  "cp": "ドラゴン生活向上委員会",
+  "geo": [
+    40.72303844097425,
+    -74.00878026618295
+  ],
+  "zoom": 10.813,
+  "modified": 1723708257887,
+  "litePoints": [
+    {
+      "id": "n8nwd32fe",
+      "cn": "自由女神像",
+      "name": "自由の女神像",
+      "image": "https://image.anitabi.cn/points/274234/n8nwd32fe_1723707734699.jpg?plan=h160",
+      "ep": 10,
+      "s": 47,
+      "geo": [
+        40.6891,
+        -74.0444
+      ]
+    },
+    {
+      "id": "n8o06q4kn",
+      "cn": "哈德孙河口",
+      "name": "Hudson Estuary",
+      "image": "https://image.anitabi.cn/points/274234/n8o06q4kn_1723707953235.jpg?plan=h160",
+      "ep": 10,
+      "s": 53,
+      "geo": [
+        40.6961,
+        -74.0137
+      ]
+    },
+    {
+      "id": "n8nxndwgl",
+      "cn": "时报广场",
+      "name": "Times Square",
+      "image": "https://image.anitabi.cn/points/274234/n8nxndwgl_1723707799996.jpg?plan=h160",
+      "ep": 10,
+      "s": 287,
+      "geo": [
+        40.7571,
+        -73.986
+      ]
+    },
+    {
+      "id": "n8o199ayl",
+      "name": "Gapstow Bridge",
+      "image": "https://image.anitabi.cn/points/274234/n8o199ayl_1723708013108.jpg?plan=h160",
+      "ep": 10,
+      "s": 407,
+      "geo": [
+        40.7669,
+        -73.9739
+      ]
+    },
+    {
+      "id": "n8nynxeh7",
+      "cn": "毕士达喷泉",
+      "name": "Bethesda Fountain",
+      "image": "https://image.anitabi.cn/points/274234/n8nynxeh7_1723707899981.jpg?plan=h160",
+      "ep": 10,
+      "s": 413,
+      "geo": [
+        40.7743,
+        -73.9709
+      ]
+    },
+    {
+      "id": "n8o1x5wo1",
+      "cn": "巴特里公园",
+      "name": "Battery Park",
+      "image": "https://image.anitabi.cn/points/274234/n8o1x5wo1_1723708065436.jpg?plan=h160",
+      "ep": 10,
+      "s": 434,
+      "geo": [
+        40.7018,
+        -74.0164
+      ]
+    },
+    {
+      "id": "n8o331nc7",
+      "cn": "美国海关局大楼前",
+      "name": "United States Custom House",
+      "image": "https://image.anitabi.cn/points/274234/n8o331nc7_1723708122522.jpg?plan=h160",
+      "ep": 10,
+      "s": 474,
+      "geo": [
+        40.7046,
+        -74.0139
+      ]
+    },
+    {
+      "id": "n8o3r0ys9",
+      "name": "Weehawken Tower Plaza",
+      "image": "https://image.anitabi.cn/points/274234/n8o3r0ys9_1723708169579.jpg?plan=h160",
+      "ep": 10,
+      "s": 655,
+      "geo": [
+        40.774,
+        -74.0201
+      ]
+    }
+  ],
+  "pointsLength": 8,
+  "imagesLength": 8,
+  "local_id": 643
+}

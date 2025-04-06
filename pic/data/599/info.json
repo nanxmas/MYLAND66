@@ -1,0 +1,134 @@
+{
+  "id": 240038,
+  "cn": "青春笨蛋少年不做兔女郎学姐的梦",
+  "title": "青春ブタ野郎はバニーガール先輩の夢を見ない",
+  "city": "镰仓市",
+  "cover": "https://image.xinu.ink/pic/data/599/images/240038.jpg",
+  "color": "#1c398e",
+  "cp": "青ブタ Project",
+  "geo": [
+    35.31162302207248,
+    139.49295111590806
+  ],
+  "zoom": 12.699,
+  "modified": 1741258917202,
+  "litePoints": [
+    {
+      "id": "4z8llj896",
+      "name": "七里滨高校",
+      "image": "https://image.anitabi.cn/points/240038/4z8llj896_1672189201093.jpg?plan=h160",
+      "ep": 1,
+      "s": 312,
+      "geo": [
+        35.3063,
+        139.5109
+      ]
+    },
+    {
+      "id": "4z8nbyia1",
+      "name": "七里ヶ浜駅",
+      "image": "https://image.anitabi.cn/points/240038/4z8nbyia1_1672189254737.jpg?plan=h160",
+      "ep": 1,
+      "s": 504,
+      "geo": [
+        35.3062,
+        139.5103
+      ]
+    },
+    {
+      "id": "4z8r6pubk",
+      "name": "行合橋",
+      "image": "https://image.anitabi.cn/points/240038/4z8r6pubk_1672189484448.jpg?plan=h160",
+      "ep": 1,
+      "s": 499,
+      "geo": [
+        35.3052,
+        139.5105
+      ]
+    },
+    {
+      "id": "4z8rwi4mj",
+      "cn": "Seven Eleven便利店镰仓七里滨店",
+      "name": "セブン​イレブン\n鎌倉​七里​ガ​浜​店",
+      "image": "https://image.anitabi.cn/points/240038/4z8rwi4mj_1672189524508.jpg?plan=h160",
+      "ep": 11,
+      "s": 478,
+      "geo": [
+        35.3054,
+        139.511
+      ]
+    },
+    {
+      "id": "4z8s10dlb",
+      "name": "七里ケ浜",
+      "image": "https://image.anitabi.cn/points/240038/4z8s10dlb_1672189531689.jpg?plan=h160",
+      "ep": 9,
+      "s": 176,
+      "geo": [
+        35.304,
+        139.514
+      ]
+    },
+    {
+      "id": "4z8uwu6pw",
+      "cn": "镰仓高校前",
+      "name": "鎌倉高校前",
+      "image": "https://image.anitabi.cn/points/240038/4z8uwu6pw_1672189706636.jpg?plan=h160",
+      "ep": 8,
+      "s": 339,
+      "geo": [
+        35.3066,
+        139.5021
+      ]
+    },
+    {
+      "id": "4z8vf1kie",
+      "name": "腰越",
+      "image": "https://image.anitabi.cn/points/240038/4z8vf1kie_1672189738777.jpg?plan=h160",
+      "ep": 11,
+      "s": 1333,
+      "geo": [
+        35.3088,
+        139.4923
+      ]
+    },
+    {
+      "id": "4z8vzooxw",
+      "cn": "江之岛",
+      "name": "江ノ島",
+      "image": "https://image.anitabi.cn/points/240038/4z8vzooxw_1672189778587.jpg?plan=h160",
+      "ep": 1,
+      "s": 284,
+      "geo": [
+        35.3112,
+        139.4872
+      ]
+    },
+    {
+      "id": "4z8wren1w",
+      "cn": "江之岛弁天橋",
+      "name": "江の島弁天橋",
+      "image": "https://image.anitabi.cn/points/240038/4z8wren1w_1672189826238.jpg?plan=h160",
+      "ep": 5,
+      "s": 575,
+      "geo": [
+        35.304,
+        139.4819
+      ]
+    },
+    {
+      "id": "4z8xnx9ug",
+      "name": "辺津宮",
+      "image": "https://image.anitabi.cn/points/240038/4z8xnx9ug_1672189873660.jpg?plan=h160",
+      "ep": 6,
+      "s": 885,
+      "geo": [
+        35.3003,
+        139.4795
+      ]
+    }
+  ],
+  "pointsLength": 89,
+  "imagesLength": 89,
+  "local_id": 599
+}

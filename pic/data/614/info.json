@@ -1,0 +1,129 @@
+{
+  "id": 252321,
+  "cn": "Re:Stage！Dream Days♪",
+  "title": "Re:ステージ! ドリームデイズ♪",
+  "city": "八王子市",
+  "cover": "https://image.xinu.ink/pic/data/614/images/252321.jpg",
+  "color": "#dd3b8e",
+  "geo": [
+    35.61381541873571,
+    139.4950326381101
+  ],
+  "zoom": 9.043,
+  "modified": 1726751550148,
+  "litePoints": [
+    {
+      "id": "fe15b131",
+      "name": "1話·12話 高尾山口駅北",
+      "image": "https://image.anitabi.cn/points/252321/fe15b131_1719897130533.jpg?plan=h160",
+      "ep": 12,
+      "s": 951,
+      "geo": [
+        35.6337,
+        139.2709
+      ]
+    },
+    {
+      "id": "7c00c1cb",
+      "name": "1話·4話·12話 氷川神社 鳥居前",
+      "image": "https://image.anitabi.cn/points/252321/7c00c1cb_1719897132369.jpg?plan=h160",
+      "ep": 1,
+      "s": 4,
+      "geo": [
+        35.6328,
+        139.2709
+      ]
+    },
+    {
+      "id": "a90444d7",
+      "name": "OP·1話·2話·12話 高尾山口駅改札",
+      "image": "https://image.anitabi.cn/points/252321/a90444d7_1719897132909.jpg?plan=h160",
+      "ep": 1,
+      "s": 7,
+      "geo": [
+        35.6324,
+        139.27
+      ]
+    },
+    {
+      "id": "f1d501e6",
+      "name": "1話·5話·12話 高尾山口駅前",
+      "image": "https://image.anitabi.cn/points/252321/f1d501e6_1719897133829.jpg?plan=h160",
+      "ep": 1,
+      "s": 24,
+      "geo": [
+        35.6324,
+        139.2702
+      ]
+    },
+    {
+      "id": "05c8a27c",
+      "name": "1話·12話 高尾町 もみじ通り",
+      "image": "https://image.anitabi.cn/points/252321/05c8a27c_1719897134453.jpg?plan=h160",
+      "ep": 1,
+      "s": 13,
+      "geo": [
+        35.6313,
+        139.2685
+      ]
+    },
+    {
+      "id": "54847ce2",
+      "name": "1話·11話 清滝駅前広場",
+      "image": "https://image.anitabi.cn/points/252321/54847ce2_1719897135051.jpg?plan=h160",
+      "ep": 1,
+      "s": 13,
+      "geo": [
+        35.6311,
+        139.2673
+      ]
+    },
+    {
+      "id": "aea49673",
+      "name": "1話 高尾登山電鉄 清滝駅",
+      "image": "https://image.anitabi.cn/points/252321/aea49673_1719897135594.jpg?plan=h160",
+      "ep": 1,
+      "s": 15,
+      "geo": [
+        35.631,
+        139.2668
+      ]
+    },
+    {
+      "id": "83841259",
+      "name": "1話 高尾山薬王院",
+      "image": "https://image.anitabi.cn/points/252321/83841259_1719897136273.jpg?plan=h160",
+      "ep": 1,
+      "s": 17,
+      "geo": [
+        35.6257,
+        139.2503
+      ]
+    },
+    {
+      "id": "40c91a53",
+      "name": "1話 飯縄権現社",
+      "image": "https://image.anitabi.cn/points/252321/40c91a53_1719897137376.jpg?plan=h160",
+      "ep": 1,
+      "s": 19,
+      "geo": [
+        35.626,
+        139.2498
+      ]
+    },
+    {
+      "id": "6f56945c",
+      "name": "OP·ED·1話·12話 高尾山大見晴園地",
+      "image": "https://image.anitabi.cn/points/252321/6f56945c_1719897138001.jpg?plan=h160",
+      "ep": 10.5,
+      "s": 65,
+      "geo": [
+        35.6245,
+        139.2431
+      ]
+    }
+  ],
+  "pointsLength": 53,
+  "imagesLength": 53,
+  "local_id": 614
+}

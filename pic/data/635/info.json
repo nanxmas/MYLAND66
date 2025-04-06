@@ -1,0 +1,136 @@
+{
+  "id": 267732,
+  "cn": "君主·埃尔梅罗二世事件簿 魔眼收集列车 Grace note",
+  "title": "ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note-",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/635/images/267732.jpg",
+  "color": "#1c2339",
+  "geo": [
+    51.66527340076581,
+    0.008438434391791816
+  ],
+  "zoom": 6.817,
+  "modified": 1742626069115,
+  "litePoints": [
+    {
+      "id": "lldh3lev9",
+      "cn": "巴比伦古城",
+      "name": "القصر الجنوبي",
+      "image": "https://image.anitabi.cn/points/267732/lldh3lev9_1719061671388.jpg?plan=h160",
+      "ep": 1,
+      "s": 176,
+      "geo": [
+        32.5422,
+        44.4207
+      ]
+    },
+    {
+      "id": "lldl91d3r",
+      "cn": "巴比伦之狮",
+      "name": "اسد بابل",
+      "image": "https://image.anitabi.cn/points/267732/lldl91d3r_1719061985516.jpg?plan=h160",
+      "ep": 1,
+      "s": 196,
+      "geo": [
+        32.5449,
+        44.4215
+      ]
+    },
+    {
+      "id": "kvlb7y74i",
+      "name": "The Manor House Hotel",
+      "image": "https://image.anitabi.cn/user/0/bangumi/267732/points/kvlb7y74i-1717041231209.jpg?plan=h160",
+      "ep": 1,
+      "s": 660,
+      "geo": [
+        51.4938,
+        -2.2321
+      ]
+    },
+    {
+      "id": "kdgeg24iv",
+      "cn": "新世纪环球中心",
+      "name": "新世纪环球中心",
+      "image": "https://image.anitabi.cn/user/0/bangumi/267732/points/kdgeg24iv-1715620096959.jpg?plan=h160",
+      "ep": 1,
+      "s": 881,
+      "geo": [
+        30.5714,
+        104.063
+      ]
+    },
+    {
+      "id": "lld5atzjr",
+      "name": "Comptoir Gourmand Maltby",
+      "image": "https://image.anitabi.cn/points/267732/lld5atzjr_1719060951437.jpg?plan=h160",
+      "ep": 3,
+      "s": 301,
+      "geo": [
+        51.499,
+        -0.0751
+      ]
+    },
+    {
+      "id": "llewtm0kx",
+      "name": "St Pancras Renaissance London Hotel",
+      "image": "https://image.anitabi.cn/points/267732/llewtm0kx_1719064673883.jpg?plan=h160",
+      "ep": 4,
+      "s": 428,
+      "geo": [
+        51.5299,
+        -0.1259
+      ]
+    },
+    {
+      "id": "lleyfehq8",
+      "cn": "哈洛德百货公司",
+      "name": "Harrods",
+      "image": "https://image.anitabi.cn/points/267732/lleyfehq8_1719064772602.jpg?plan=h160",
+      "ep": 6,
+      "s": 284,
+      "geo": [
+        51.499,
+        -0.1629
+      ]
+    },
+    {
+      "id": "llhi3ha3a",
+      "cn": "大本钟",
+      "name": "Big Ben",
+      "image": "https://image.anitabi.cn/points/267732/llhi3ha3a_1719070347275.jpg?plan=h160",
+      "ep": 13,
+      "s": 2,
+      "geo": [
+        51.5008,
+        -0.1239
+      ]
+    },
+    {
+      "id": "llgrgwnf5",
+      "cn": "福南梅森",
+      "name": "Fortnum & Mason",
+      "image": "https://image.anitabi.cn/points/267732/llgrgwnf5_1719070349277.jpg?plan=h160",
+      "ep": 13,
+      "s": 460,
+      "geo": [
+        51.5084,
+        -0.1384
+      ]
+    },
+    {
+      "id": "llgs8dpeo",
+      "cn": "皮卡迪利街",
+      "name": "Piccadilly",
+      "image": "https://image.anitabi.cn/points/267732/llgs8dpeo_1719070349913.jpg?plan=h160",
+      "ep": 13,
+      "s": 460,
+      "geo": [
+        51.508,
+        -0.1401
+      ]
+    }
+  ],
+  "pointsLength": 19,
+  "imagesLength": 18,
+  "local_id": 635
+}

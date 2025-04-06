@@ -1,0 +1,129 @@
+{
+  "id": 266070,
+  "cn": "房间露营△",
+  "title": "へやキャン△",
+  "city": "山梨县",
+  "cover": "https://image.xinu.ink/pic/data/632/images/266070.jpg",
+  "color": "#9cb8b8",
+  "geo": [
+    35.503591,
+    138.77723500000002
+  ],
+  "zoom": 18,
+  "modified": 1742800283308,
+  "litePoints": [
+    {
+      "id": "i9hzobcex",
+      "name": "天上山",
+      "image": "https://image.anitabi.cn/user/0/bangumi/266070/points/i9hzobcex-1709667811058.jpg?plan=h160",
+      "ep": 5,
+      "s": 113,
+      "geo": [
+        35.5035,
+        138.7772
+      ]
+    },
+    {
+      "id": "539b1598",
+      "name": "旧下部中学校",
+      "image": "https://image.anitabi.cn/points/266070/539b1598_1729480771764.jpg?plan=h160",
+      "ep": 1,
+      "s": 6,
+      "geo": [
+        35.4478,
+        138.4816
+      ]
+    },
+    {
+      "id": "23df2eb1",
+      "name": "富士山世界遺産センター",
+      "image": "https://image.anitabi.cn/points/266070/23df2eb1_1729480844921.jpg?plan=h160",
+      "ep": 2,
+      "s": 4,
+      "geo": [
+        35.4859,
+        138.7706
+      ]
+    },
+    {
+      "id": "fc642e0e",
+      "name": "河口湖大橋",
+      "image": "https://image.anitabi.cn/points/266070/fc642e0e_1729480989464.jpg?plan=h160",
+      "ep": 3,
+      "s": 8,
+      "geo": [
+        35.511,
+        138.7639
+      ]
+    },
+    {
+      "id": "288cf8cd",
+      "name": "河口湖自然生活館",
+      "image": "https://image.anitabi.cn/points/266070/288cf8cd_1729481253008.jpg?plan=h160",
+      "ep": 3,
+      "s": 90,
+      "geo": [
+        35.5228,
+        138.7454
+      ]
+    },
+    {
+      "id": "21fd2ab5",
+      "name": "県道404号線",
+      "image": "https://image.anitabi.cn/points/266070/21fd2ab5_1729481610616.jpg?plan=h160",
+      "ep": 4,
+      "s": 52,
+      "geo": [
+        35.4759,
+        138.5246
+      ]
+    },
+    {
+      "id": "6b88c379",
+      "name": "河口湖 富士山パノラマロープウェイ",
+      "image": "https://image.anitabi.cn/points/266070/6b88c379_1729482139508.jpg?plan=h160",
+      "ep": 5,
+      "s": 8,
+      "geo": [
+        35.504,
+        138.772
+      ]
+    },
+    {
+      "id": "d442d313",
+      "name": "たぬき茶屋",
+      "image": "https://image.anitabi.cn/points/266070/d442d313_1729482223133.jpg?plan=h160",
+      "ep": 5,
+      "s": 112,
+      "geo": [
+        35.5036,
+        138.777
+      ]
+    },
+    {
+      "id": "pafd7mdjr",
+      "name": "たぬき茶屋　富士山",
+      "image": "https://image.anitabi.cn/points/266070/pafd7mdjr_1729488186486.jpg?plan=h160",
+      "ep": 5,
+      "s": 100,
+      "geo": [
+        35.5035,
+        138.777
+      ]
+    },
+    {
+      "id": "pafd944q5",
+      "name": "たぬき茶屋　河口湖",
+      "image": "https://image.anitabi.cn/points/266070/pafd944q5_1729488247300.jpg?plan=h160",
+      "ep": 5,
+      "s": 103,
+      "geo": [
+        35.5036,
+        138.7769
+      ]
+    }
+  ],
+  "pointsLength": 37,
+  "imagesLength": 36,
+  "local_id": 632
+}

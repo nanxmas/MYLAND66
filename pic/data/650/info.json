@@ -1,0 +1,119 @@
+{
+  "id": 278557,
+  "cn": "知晓天空之蓝的人啊",
+  "title": "空の青さを知る人よ",
+  "city": "秩父市",
+  "cover": "https://image.xinu.ink/pic/data/650/images/278557.jpg",
+  "color": "#5dc2d9",
+  "geo": [
+    35.991619,
+    139.064426
+  ],
+  "zoom": 12,
+  "modified": 1723425429290,
+  "litePoints": [
+    {
+      "id": "59yg07lyg",
+      "name": "(5)『佐久良橋』付近の県道72号沿い",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/278557/points/59yg07lyg-1673029854347.jpg?plan=h160",
+      "s": 495,
+      "geo": [
+        35.9964,
+        139.0668
+      ]
+    },
+    {
+      "id": "59yg07m10",
+      "name": "(8-1)『旧秩父橋』",
+      "image": "https://image.anitabi.cn/points/278557/59yg07m10_1673029130864.jpg?plan=h160",
+      "s": 5,
+      "geo": [
+        36.0184,
+        139.0868
+      ]
+    },
+    {
+      "id": "59yg07lwu",
+      "name": "(8-2)『旧秩父橋』",
+      "image": "https://image.anitabi.cn/points/278557/59yg07lwu_1673029188241.jpg?plan=h160",
+      "s": 28,
+      "geo": [
+        36.0183,
+        139.0871
+      ]
+    },
+    {
+      "id": "59yg07m0k",
+      "name": "(8-3)『旧秩父橋』",
+      "image": "https://image.anitabi.cn/points/278557/59yg07m0k_1673029230559.jpg?plan=h160",
+      "s": 29,
+      "geo": [
+        36.0188,
+        139.0859
+      ]
+    },
+    {
+      "id": "59yg07mtr",
+      "name": "(8-4)『旧秩父橋』",
+      "image": "https://image.anitabi.cn/points/278557/59yg07mtr_1673029235490.jpg?plan=h160",
+      "s": 62,
+      "geo": [
+        36.0183,
+        139.0871
+      ]
+    },
+    {
+      "id": "59yg07n3l",
+      "name": "(9-1)『熊野神社』",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/278557/points/59yg07n3l-1673029545959.jpg?plan=h160",
+      "s": 295,
+      "geo": [
+        36.0599,
+        138.9701
+      ]
+    },
+    {
+      "id": "59yg07n3u",
+      "name": "(9-2)『熊野神社』",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/278557/points/59yg07n3u-1673029584858.jpg?plan=h160",
+      "s": 284,
+      "geo": [
+        36.0599,
+        138.9701
+      ]
+    },
+    {
+      "id": "59z8bfi4w",
+      "name": "(10-1)『西武秩父駅』",
+      "image": "https://image.anitabi.cn/points/278557/59z8bfi4w_1673030760782.jpg?plan=h160",
+      "s": 1107,
+      "geo": [
+        35.9895,
+        139.0839
+      ]
+    },
+    {
+      "id": "59yg07mjh",
+      "name": "(10-1)『西武秩父駅』の改札口",
+      "image": "https://image.anitabi.cn/points/278557/59yg07mjh_1673030714848.jpg?plan=h160",
+      "s": 1176,
+      "geo": [
+        35.9896,
+        139.0834
+      ]
+    },
+    {
+      "id": "59yg07n6q",
+      "name": "(12)『秩父市役所』の駐車場",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/278557/points/59yg07n6q-1673030165621.jpg?plan=h160",
+      "s": 767,
+      "geo": [
+        35.9908,
+        139.0849
+      ]
+    }
+  ],
+  "pointsLength": 57,
+  "imagesLength": 17,
+  "local_id": 650
+}

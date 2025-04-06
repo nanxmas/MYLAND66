@@ -1,0 +1,72 @@
+{
+  "id": 265372,
+  "cn": "若能与你共乘海浪之上",
+  "title": "きみと、波にのれたら",
+  "city": "千叶县",
+  "cover": "https://image.xinu.ink/pic/data/630/images/265372.jpg",
+  "color": "#1991d6",
+  "geo": [
+    35.34737736106952,
+    140.25804727181162
+  ],
+  "zoom": 8.733,
+  "modified": 1727682707299,
+  "litePoints": [
+    {
+      "id": "jv5zodjrq",
+      "cn": "钓崎海岸广场",
+      "name": "釣ヶ崎海岸広場",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/265372/points/jv5zodjrq-1714186838575.jpg?plan=h160",
+      "geo": [
+        35.3356,
+        140.3935
+      ]
+    },
+    {
+      "id": "jv6g9zj9m",
+      "cn": "县立九十九里自然公园",
+      "name": "県立​九十九里​自然​公園",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/265372/points/jv6g9zj9m-1714187662277.jpg?plan=h160",
+      "s": 4130,
+      "geo": [
+        35.5074,
+        140.4357
+      ]
+    },
+    {
+      "id": "jv6y7vqvm",
+      "cn": "千叶科技大学",
+      "name": "千葉科学大学",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/265372/points/jv6y7vqvm-1714188798987.jpg?plan=h160",
+      "s": 2224,
+      "geo": [
+        35.7059,
+        140.8432
+      ]
+    },
+    {
+      "id": "jvb029o7j",
+      "cn": "冈本栈桥",
+      "name": "岡本桟橋",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/265372/points/jvb029o7j-1714197567277.jpg?plan=h160",
+      "s": 1304,
+      "geo": [
+        35.0442,
+        139.831
+      ]
+    },
+    {
+      "id": "jvbbfnn05",
+      "cn": "千叶港塔",
+      "name": "千葉​ポート​タワー",
+      "image": "https://image.anitabi.cn/user/1058/bangumi/265372/points/jvbbfnn05-1714198260226.jpg?plan=h160",
+      "geo": [
+        35.6004,
+        140.0978
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "local_id": 630
+}

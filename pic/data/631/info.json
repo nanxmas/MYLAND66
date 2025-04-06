@@ -1,0 +1,109 @@
+{
+  "id": 265708,
+  "cn": "女高中生的无所事事",
+  "title": "女子高生の無駄づかい",
+  "city": "东村山市",
+  "cover": "https://image.xinu.ink/pic/data/631/images/265708.jpg",
+  "color": "#ffff00",
+  "geo": [
+    35.80568769855836,
+    139.7805921745171
+  ],
+  "zoom": 7.976,
+  "modified": 1731424702575,
+  "litePoints": [
+    {
+      "id": "00f2b7f1",
+      "name": "八坂駅",
+      "image": "https://image.anitabi.cn/points/265708/00f2b7f1_1731421329846.jpg?plan=h160",
+      "geo": [
+        35.7452,
+        139.4672
+      ]
+    },
+    {
+      "id": "564a9927",
+      "name": "八坂駅歩道橋",
+      "image": "https://image.anitabi.cn/points/265708/564a9927_1731421880901.jpg?plan=h160",
+      "geo": [
+        35.7458,
+        139.4659
+      ]
+    },
+    {
+      "id": "d92e5c27",
+      "name": "西武国分寺線踏切",
+      "image": "https://image.anitabi.cn/points/265708/d92e5c27_1731421475048.jpg?plan=h160",
+      "geo": [
+        35.7463,
+        139.465
+      ]
+    },
+    {
+      "id": "ab52549d",
+      "name": "多摩自転車道(公園までの道中)",
+      "image": "https://image.anitabi.cn/points/265708/ab52549d_1731421681079.jpg?plan=h160",
+      "geo": [
+        35.7464,
+        139.4645
+      ]
+    },
+    {
+      "id": "55dda899",
+      "name": "西武多摩線架橋",
+      "image": "https://image.anitabi.cn/points/265708/55dda899_1731421658257.jpg?plan=h160",
+      "geo": [
+        35.7466,
+        139.4637
+      ]
+    },
+    {
+      "id": "d13b61cb",
+      "name": "公園芝生エリア(東)",
+      "image": "https://image.anitabi.cn/points/265708/d13b61cb_1731421939925.jpg?plan=h160",
+      "geo": [
+        35.7472,
+        139.4612
+      ]
+    },
+    {
+      "id": "d857530a",
+      "name": "公園芝生エリア(中央)",
+      "image": "https://image.anitabi.cn/points/265708/d857530a_1731421922668.jpg?plan=h160",
+      "geo": [
+        35.7479,
+        139.4593
+      ]
+    },
+    {
+      "id": "82bd3293",
+      "name": "公園遊具エリア①",
+      "image": "https://image.anitabi.cn/points/265708/82bd3293_1731421737793.jpg?plan=h160",
+      "geo": [
+        35.7483,
+        139.4579
+      ]
+    },
+    {
+      "id": "83915527",
+      "name": "公園ゲートボール場横",
+      "image": "https://image.anitabi.cn/points/265708/83915527_1731421757689.jpg?plan=h160",
+      "geo": [
+        35.7488,
+        139.4578
+      ]
+    },
+    {
+      "id": "d2575fb9",
+      "name": "公園東屋",
+      "image": "https://image.anitabi.cn/points/265708/d2575fb9_1731421768368.jpg?plan=h160",
+      "geo": [
+        35.7486,
+        139.4554
+      ]
+    }
+  ],
+  "pointsLength": 63,
+  "imagesLength": 57,
+  "local_id": 631
+}

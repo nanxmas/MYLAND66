@@ -1,0 +1,130 @@
+{
+  "id": 262898,
+  "cn": "电影 摇曳露营△",
+  "title": "映画 ゆるキャン△",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/627/images/262898.jpg",
+  "color": "#64cdf0",
+  "cp": "野外活動委員会",
+  "geo": [
+    35.48755222738836,
+    137.98400820633105
+  ],
+  "zoom": 6.542,
+  "modified": 1734592820527,
+  "litePoints": [
+    {
+      "id": "5hgbrhnt3",
+      "cn": "户泽中心露营地",
+      "name": "戸沢​センター​キャンプ場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/262898/points/5hgbrhnt3-1673616625605.jpg?plan=h160",
+      "s": 85,
+      "geo": [
+        35.5226,
+        138.7538
+      ]
+    },
+    {
+      "id": "5hgizhayz",
+      "cn": "多摩大橋付近",
+      "name": "多摩大橋付近",
+      "image": "https://image.anitabi.cn/user/0/bangumi/262898/points/5hgizhayz-1673616972195.jpg?plan=h160",
+      "s": 549,
+      "geo": [
+        35.6939,
+        139.3778
+      ]
+    },
+    {
+      "id": "5hgn26rug",
+      "cn": "Coleman昭岛Outdoor Village店",
+      "name": "コールマン​昭島​アウトドア​ヴィレッジ​店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/262898/points/5hgn26rug-1673617202871.jpg?plan=h160",
+      "s": 719,
+      "geo": [
+        35.7158,
+        139.3612
+      ]
+    },
+    {
+      "id": "5hglp8bu1",
+      "cn": "A&F COUNTRY HEDGE",
+      "name": "A&F​カントリー​ヘッジ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/262898/points/5hglp8bu1-1673617121385.jpg?plan=h160",
+      "s": 722,
+      "geo": [
+        35.7159,
+        139.3615
+      ]
+    },
+    {
+      "id": "5hgp4sqww",
+      "cn": "JRCentralTowers",
+      "name": "JR​セントラル​タワーズ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/262898/points/5hgp4sqww-1673617333233.jpg?plan=h160",
+      "s": 863,
+      "geo": [
+        35.1712,
+        136.8829
+      ]
+    },
+    {
+      "id": "5hgsgvpv0",
+      "cn": "山梨县厅",
+      "name": "山梨県庁",
+      "image": "https://image.anitabi.cn/user/0/bangumi/262898/points/5hgsgvpv0-1673617530699.jpg?plan=h160",
+      "s": 2066,
+      "geo": [
+        35.6641,
+        138.5684
+      ]
+    },
+    {
+      "id": "5hhc2m1lq",
+      "cn": "身延町身延自然之里",
+      "name": "身延町​みのぶ​自然​の​里",
+      "image": "https://image.anitabi.cn/user/0/bangumi/262898/points/5hhc2m1lq-1673618719351.jpg?plan=h160",
+      "s": 2343,
+      "geo": [
+        35.4723,
+        138.4099
+      ]
+    },
+    {
+      "id": "5hgujw8ow",
+      "cn": "Central Lodge浩​庵",
+      "name": "セントラル​ロッジ​浩​庵",
+      "image": "https://image.anitabi.cn/user/0/bangumi/262898/points/5hgujw8ow-1673617656619.jpg?plan=h160",
+      "s": 2682,
+      "geo": [
+        35.4735,
+        138.5732
+      ]
+    },
+    {
+      "id": "5hgvnn2vy",
+      "cn": "浩庵露营地",
+      "name": "浩庵キャンプ場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/262898/points/5hgvnn2vy-1673617725316.jpg?plan=h160",
+      "s": 2691,
+      "geo": [
+        35.4731,
+        138.5747
+      ]
+    },
+    {
+      "id": "5hgwy2g5i",
+      "cn": "水明庄露营地",
+      "name": "水明​荘​キャンプ場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/262898/points/5hgwy2g5i-1673617812075.jpg?plan=h160",
+      "s": 2766,
+      "geo": [
+        35.5304,
+        138.5187
+      ]
+    }
+  ],
+  "pointsLength": 28,
+  "imagesLength": 28,
+  "local_id": 627
+}

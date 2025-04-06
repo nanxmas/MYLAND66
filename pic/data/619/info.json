@@ -1,0 +1,109 @@
+{
+  "id": 253674,
+  "cn": "海岛与少女还有猫",
+  "title": "青の島とねこ一匹",
+  "city": "广岛县",
+  "cover": "https://image.xinu.ink/pic/data/619/images/253674.jpg",
+  "color": "#2baad4",
+  "geo": [
+    34.27511606509003,
+    133.1191748700728
+  ],
+  "zoom": 10.26,
+  "modified": 1719938780189,
+  "litePoints": [
+    {
+      "id": "51i52kugi",
+      "name": "フェリー乗り場（岩城島）",
+      "image": "https://image.anitabi.cn/points/253674/51i52kugi_1672382958654.jpg?plan=h160",
+      "geo": [
+        34.2788,
+        133.1449
+      ]
+    },
+    {
+      "id": "51i52kuqz",
+      "name": "灯台",
+      "image": "https://image.anitabi.cn/points/253674/51i52kuqz_1672382961630.jpg?plan=h160",
+      "geo": [
+        34.2787,
+        133.1442
+      ]
+    },
+    {
+      "id": "51i52kv0a",
+      "name": "堤防からの風景",
+      "image": "https://image.anitabi.cn/points/253674/51i52kv0a_1672382963613.jpg?plan=h160",
+      "geo": [
+        34.2452,
+        133.1489
+      ]
+    },
+    {
+      "id": "51i52kuo0",
+      "name": "小漕港①",
+      "image": "https://image.anitabi.cn/points/253674/51i52kuo0_1672382965614.jpg?plan=h160",
+      "geo": [
+        34.2797,
+        133.1452
+      ]
+    },
+    {
+      "id": "51i52kujw",
+      "name": "小漕港②",
+      "image": "https://image.anitabi.cn/points/253674/51i52kujw_1672382967668.jpg?plan=h160",
+      "geo": [
+        34.2792,
+        133.1448
+      ]
+    },
+    {
+      "id": "51i52kuks",
+      "name": "港から家へ向かう路地①",
+      "image": "https://image.anitabi.cn/points/253674/51i52kuks_1672382969569.jpg?plan=h160",
+      "geo": [
+        34.2459,
+        133.1499
+      ]
+    },
+    {
+      "id": "51i52kv2a",
+      "name": "港から家へ向かう路地②",
+      "image": "https://image.anitabi.cn/points/253674/51i52kv2a_1672382971733.jpg?plan=h160",
+      "geo": [
+        34.2455,
+        133.1497
+      ]
+    },
+    {
+      "id": "51i52kvq9",
+      "name": "岩城八幡神社前",
+      "image": "https://image.anitabi.cn/points/253674/51i52kvq9_1672382974729.jpg?plan=h160",
+      "geo": [
+        34.2463,
+        133.1499
+      ]
+    },
+    {
+      "id": "51i52kv8b",
+      "name": "参道",
+      "image": "https://image.anitabi.cn/points/253674/51i52kv8b_1672382978612.jpg?plan=h160",
+      "geo": [
+        34.2459,
+        133.1501
+      ]
+    },
+    {
+      "id": "51i52kvuv",
+      "name": "岩城八幡神社",
+      "image": "https://image.anitabi.cn/points/253674/51i52kvuv_1672382980629.jpg?plan=h160",
+      "geo": [
+        34.2457,
+        133.1503
+      ]
+    }
+  ],
+  "pointsLength": 108,
+  "imagesLength": 108,
+  "local_id": 619
+}

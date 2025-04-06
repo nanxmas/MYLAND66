@@ -1,0 +1,133 @@
+{
+  "id": 262940,
+  "cn": "某科学的超电磁炮T",
+  "title": "とある科学の超電磁砲T",
+  "city": "立川市",
+  "cover": "https://image.xinu.ink/pic/data/629/images/262940.jpg",
+  "color": "#d62f37",
+  "cp": "PROJECT-RAILGUN …",
+  "geo": [
+    35.70152866422811,
+    139.4144598912938
+  ],
+  "zoom": 15.162,
+  "modified": 1742409452459,
+  "litePoints": [
+    {
+      "id": "l0m0ef68x",
+      "cn": "曙陆桥",
+      "name": "曙陸橋",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/2585/points/l0m0ef68x-1717434763775.jpg?plan=h160",
+      "ep": 1,
+      "s": 66,
+      "geo": [
+        35.6987,
+        139.4181
+      ]
+    },
+    {
+      "id": "nhgzxscqt",
+      "name": "”The Conversation” ニキ・ド・サンファル「会話」",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/2585/points/nhgzxscqt-1724398120315.jpg?plan=h160",
+      "ep": 1,
+      "s": 211,
+      "geo": [
+        35.7013,
+        139.4132
+      ]
+    },
+    {
+      "id": "l02wh8yxw",
+      "name": "Patisserie Tsunagu",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/2585/points/l02wh8yxw-1717393673539.jpg?plan=h160",
+      "ep": 1,
+      "s": 767,
+      "geo": [
+        35.7042,
+        139.418
+      ]
+    },
+    {
+      "id": "l03evks1o",
+      "name": "レジス​立川​高松町",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/2585/points/l03evks1o-1717394151825.jpg?plan=h160",
+      "ep": 1,
+      "s": 776,
+      "geo": [
+        35.7042,
+        139.4182
+      ]
+    },
+    {
+      "id": "o4jc3861p",
+      "name": "パルテノン大通リ",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/262940/points/o4jc3861p-1726206483830.jpg?plan=h160",
+      "ep": 1,
+      "s": 873,
+      "geo": [
+        35.6234,
+        139.425
+      ]
+    },
+    {
+      "id": "o4jywwhce",
+      "name": "京王プラザホテル 多摩",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/262940/points/o4jywwhce-1726206915781.jpg?plan=h160",
+      "ep": 1,
+      "s": 873,
+      "geo": [
+        35.6233,
+        139.425
+      ]
+    },
+    {
+      "id": "l01sm9mge",
+      "name": "Sakurano 桜乃",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/2585/points/l01sm9mge-1717390482120.jpg?plan=h160",
+      "ep": 1,
+      "s": 1077,
+      "geo": [
+        35.7015,
+        139.4124
+      ]
+    },
+    {
+      "id": "l171nckph",
+      "cn": "中央劳动银行立川分行",
+      "name": "中央労働金庫立川支店",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/2585/points/l171nckph-1717480444079.jpg?plan=h160",
+      "ep": 2,
+      "s": 1320,
+      "geo": [
+        35.7011,
+        139.4143
+      ]
+    },
+    {
+      "id": "psi27ocf1",
+      "name": "株式会社　藤和ハウス　立川店",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/262940/points/psi27ocf1-1730904575825.jpg?plan=h160",
+      "ep": 2,
+      "s": 1322,
+      "geo": [
+        35.7017,
+        139.4138
+      ]
+    },
+    {
+      "id": "l6r0lb7lc",
+      "cn": "东京多摩地区业务接管支援中心",
+      "name": "東京都多摩地域事業引継ぎ支援センター",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/2585/points/l6r0lb7lc-1717915654428.jpg?plan=h160",
+      "ep": 2,
+      "s": 1325,
+      "geo": [
+        35.7013,
+        139.4138
+      ]
+    }
+  ],
+  "pointsLength": 34,
+  "imagesLength": 34,
+  "local_id": 629
+}

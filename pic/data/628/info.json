@@ -1,0 +1,109 @@
+{
+  "id": 262939,
+  "cn": "某科学的一方通行",
+  "title": "とある科学の一方通行",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/628/images/262939.jpg",
+  "color": "#afafaf",
+  "cp": "PROJECT-ACCELERA…",
+  "modified": 1736150366949,
+  "litePoints": [
+    {
+      "id": "rll9u54e7",
+      "name": "1 Chome 东新桥",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/262939/points/rll9u54e7-1736005249528.jpg?plan=h160",
+      "geo": [
+        35.6644,
+        139.7609
+      ]
+    },
+    {
+      "id": "rlmhot44o",
+      "name": "ゆうゆう橋",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/2585/points/rlmhot44o-1736008002694.jpg?plan=h160",
+      "geo": [
+        35.6222,
+        139.4224
+      ]
+    },
+    {
+      "id": "rm45nj7dz",
+      "cn": "汐留十字路口",
+      "name": "汐留交差点",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/262939/points/rm45nj7dz-1736046318980.jpg?plan=h160",
+      "geo": [
+        35.6633,
+        139.7601
+      ]
+    },
+    {
+      "id": "rm4igvz9v",
+      "name": "環二通り",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/262939/points/rm4igvz9v-1736047059201.jpg?plan=h160",
+      "geo": [
+        35.6634,
+        139.7612
+      ]
+    },
+    {
+      "id": "rm4l4b78n",
+      "cn": "環二通り 步行道",
+      "name": "環二通り ",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/262939/points/rm4l4b78n-1736047201588.jpg?plan=h160",
+      "geo": [
+        35.6633,
+        139.7606
+      ]
+    },
+    {
+      "id": "rm4plyxhl",
+      "name": "港区, 东京都 都道481号",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/262939/points/rm4plyxhl-1736047510627.jpg?plan=h160",
+      "geo": [
+        35.6636,
+        139.7593
+      ]
+    },
+    {
+      "id": "rm4y7mg61",
+      "name": "マルエツプチ 汐留シオサイト店",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/262939/points/rm4y7mg61-1736048000785.jpg?plan=h160",
+      "geo": [
+        35.6578,
+        139.7583
+      ]
+    },
+    {
+      "id": "rm58q5ey7",
+      "cn": "东京帕克酒店",
+      "name": "パークホテル 東京",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/262939/points/rm58q5ey7-1736048636991.jpg?plan=h160",
+      "geo": [
+        35.6629,
+        139.7593
+      ]
+    },
+    {
+      "id": "rndpigwjh",
+      "cn": "汐留北1丁目十字路口",
+      "name": "1 Chome 东新桥",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/262939/points/rndpigwjh-1736145545717.jpg?plan=h160",
+      "geo": [
+        35.6646,
+        139.761
+      ]
+    },
+    {
+      "id": "rne3rr4cz",
+      "name": "噴水・彫刻「泉」",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/262939/points/rne3rr4cz-1736146430633.jpg?plan=h160",
+      "geo": [
+        35.6605,
+        139.7591
+      ]
+    }
+  ],
+  "pointsLength": 17,
+  "imagesLength": 17,
+  "local_id": 628
+}

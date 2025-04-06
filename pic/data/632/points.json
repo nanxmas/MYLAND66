@@ -1,0 +1,447 @@
+[
+  {
+    "id": "i9hzobcex",
+    "name": "天上山",
+    "image": "https://image.xinu.ink/pic/data/632/images/i9hzobcex-1709667811058.jpg",
+    "ep": 5,
+    "s": 113,
+    "geo": [
+      35.5035,
+      138.7772
+    ]
+  },
+  {
+    "id": "539b1598",
+    "name": "旧下部中学校",
+    "image": "https://image.xinu.ink/pic/data/632/images/539b1598_1729480771764.jpg",
+    "ep": 1,
+    "s": 6,
+    "geo": [
+      35.4478,
+      138.4816
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.447887%2C138.481669&z=17"
+  },
+  {
+    "id": "23df2eb1",
+    "name": "富士山世界遺産センター",
+    "image": "https://image.xinu.ink/pic/data/632/images/23df2eb1_1729480844921.jpg",
+    "ep": 2,
+    "s": 4,
+    "geo": [
+      35.4859,
+      138.7706
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.485929%2C138.770608&z=17"
+  },
+  {
+    "id": "fc642e0e",
+    "name": "河口湖大橋",
+    "image": "https://image.xinu.ink/pic/data/632/images/fc642e0e_1729480989464.jpg",
+    "ep": 3,
+    "s": 8,
+    "geo": [
+      35.511,
+      138.7639
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.511069%2C138.763978&z=17"
+  },
+  {
+    "id": "288cf8cd",
+    "name": "河口湖自然生活館",
+    "image": "https://image.xinu.ink/pic/data/632/images/288cf8cd_1729481253008.jpg",
+    "ep": 3,
+    "s": 90,
+    "geo": [
+      35.5228,
+      138.7454
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.522851%2C138.745493&z=17"
+  },
+  {
+    "id": "21fd2ab5",
+    "name": "県道404号線",
+    "image": "https://image.xinu.ink/pic/data/632/images/21fd2ab5_1729481610616.jpg",
+    "ep": 4,
+    "s": 52,
+    "geo": [
+      35.4759,
+      138.5246
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.475954%2C138.524646&z=17"
+  },
+  {
+    "id": "6b88c379",
+    "name": "河口湖 富士山パノラマロープウェイ",
+    "image": "https://image.xinu.ink/pic/data/632/images/6b88c379_1729482139508.jpg",
+    "ep": 5,
+    "s": 8,
+    "geo": [
+      35.504,
+      138.772
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.504012%2C138.772049&z=17"
+  },
+  {
+    "id": "d442d313",
+    "name": "たぬき茶屋",
+    "image": "https://image.xinu.ink/pic/data/632/images/d442d313_1729482223133.jpg",
+    "ep": 5,
+    "s": 112,
+    "geo": [
+      35.5036,
+      138.777
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.503621%2C138.777085&z=17"
+  },
+  {
+    "id": "pafd7mdjr",
+    "name": "たぬき茶屋　富士山",
+    "image": "https://image.xinu.ink/pic/data/632/images/pafd7mdjr_1729488186486.jpg",
+    "ep": 5,
+    "s": 100,
+    "geo": [
+      35.5035,
+      138.777
+    ],
+    "origin": "なづかり",
+    "originLink": "http://blog.livedoor.jp/nadukari/archives/23114677.html"
+  },
+  {
+    "id": "pafd944q5",
+    "name": "たぬき茶屋　河口湖",
+    "image": "https://image.xinu.ink/pic/data/632/images/pafd944q5_1729488247300.jpg",
+    "ep": 5,
+    "s": 103,
+    "geo": [
+      35.5036,
+      138.7769
+    ],
+    "origin": "なづかり",
+    "originLink": "http://blog.livedoor.jp/nadukari/archives/23114677.html"
+  },
+  {
+    "id": "c17d0320",
+    "name": "身延山久遠寺",
+    "image": "https://image.xinu.ink/pic/data/632/images/c17d0320_1729486171878.jpg",
+    "ep": 6,
+    "s": 49,
+    "geo": [
+      35.3814,
+      138.426
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.381489%2C138.426076&z=17"
+  },
+  {
+    "id": "e78bf899",
+    "name": "南部橋",
+    "image": "https://image.xinu.ink/pic/data/632/images/e78bf899_1729486272851.jpg",
+    "ep": 6,
+    "s": 68,
+    "geo": [
+      35.284,
+      138.4579
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.28406%2C138.457971&z=17"
+  },
+  {
+    "id": "f5593024",
+    "name": "ハッピードリンクショップ南部内船2号店",
+    "image": "https://image.xinu.ink/pic/data/632/images/f5593024_1729486358152.jpg",
+    "ep": 6,
+    "s": 122,
+    "geo": [
+      35.2927,
+      138.4594
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.29275%2C138.459443&z=17"
+  },
+  {
+    "id": "564adff2",
+    "name": "ハッピードリンクショップ 身延宮木店",
+    "image": "https://image.xinu.ink/pic/data/632/images/564adff2_1729486528930.jpg",
+    "ep": 6,
+    "s": 132,
+    "geo": [
+      35.4384,
+      138.4396
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.438422%2C138.439665&z=17"
+  },
+  {
+    "id": "9a42f5e0",
+    "name": "富士川堤防",
+    "image": "https://image.xinu.ink/pic/data/632/images/9a42f5e0_1729486620862.jpg",
+    "ep": 7,
+    "s": 5,
+    "geo": [
+      35.2843,
+      138.4573
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.284315%2C138.457361&z=17"
+  },
+  {
+    "id": "051c48b7",
+    "name": "大石公園",
+    "image": "https://image.xinu.ink/pic/data/632/images/051c48b7_1729481170442.jpg",
+    "ep": 3,
+    "geo": [
+      35.5229,
+      138.746
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.522902%2C138.74606&z=17"
+  },
+  {
+    "id": "fcdd7223",
+    "name": "しまりん家",
+    "image": "https://image.xinu.ink/pic/data/632/images/fcdd7223_1729481538996.jpg",
+    "ep": 3,
+    "geo": [
+      35.4793,
+      138.5273
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.479397%2C138.527388&z=17"
+  },
+  {
+    "id": "91bb24a5",
+    "name": "神泉橋",
+    "image": "https://image.xinu.ink/pic/data/632/images/91bb24a5_1729486724603.jpg",
+    "ep": 8,
+    "geo": [
+      35.4226,
+      138.4818
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.422681%2C138.481813&z=17"
+  },
+  {
+    "id": "f1c509f1",
+    "name": "しもべ黄金の足湯",
+    "image": "https://image.xinu.ink/pic/data/632/images/f1c509f1_1729486826585.jpg",
+    "ep": 8,
+    "geo": [
+      35.4239,
+      138.473
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.423945%2C138.473046&z=17"
+  },
+  {
+    "id": "paf7wv36m",
+    "name": "しもべ​黄金​の​足湯 内景",
+    "image": "https://image.xinu.ink/pic/data/632/images/paf7wv36m_1729487843009.jpg",
+    "ep": 8,
+    "geo": [
+      35.4238,
+      138.4729
+    ],
+    "origin": "なづかり",
+    "originLink": "http://blog.livedoor.jp/nadukari/archives/23740968.html"
+  },
+  {
+    "id": "394c2964",
+    "name": "和菓子処ニュー梅月",
+    "image": "https://image.xinu.ink/pic/data/632/images/394c2964_1729486992111.jpg",
+    "ep": 8,
+    "geo": [
+      35.4251,
+      138.4726
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.425103%2C138.472663&z=17"
+  },
+  {
+    "id": "bf98b996",
+    "name": "道の駅なんぶ",
+    "image": "https://image.xinu.ink/pic/data/632/images/bf98b996_1729487080609.jpg",
+    "ep": 9,
+    "geo": [
+      35.3065,
+      138.4472
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.306546%2C138.447214&z=17"
+  },
+  {
+    "id": "paf5dgop0",
+    "name": "南部光行の銅像",
+    "image": "https://image.xinu.ink/pic/data/632/images/paf5dgop0_1729487724111.jpg",
+    "ep": 9,
+    "geo": [
+      35.3065,
+      138.4474
+    ],
+    "origin": "なづかり",
+    "originLink": "http://blog.livedoor.jp/nadukari/archives/23740968.html"
+  },
+  {
+    "id": "acd5f29b",
+    "name": "鳴沢氷穴",
+    "image": "https://image.xinu.ink/pic/data/632/images/acd5f29b_1729488815063.jpg",
+    "ep": 10,
+    "geo": [
+      35.4749,
+      138.6669
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.474928%2C138.666969&z=17"
+  },
+  {
+    "id": "9cd6aa5e",
+    "name": "鳴沢・精進湖・本栖湖周遊バス(鳴沢氷穴バス停)",
+    "image": "https://image.xinu.ink/pic/data/632/images/9cd6aa5e_1729488555901.jpg",
+    "ep": 10,
+    "geo": [
+      35.4777,
+      138.6642
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.477718%2C138.66426&z=17"
+  },
+  {
+    "id": "0fee9457",
+    "name": "セルバ みのぶ店",
+    "image": "https://image.xinu.ink/pic/data/632/images/0fee9457_1729488744071.jpg",
+    "ep": 10,
+    "geo": [
+      35.4326,
+      138.441
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.432685%2C138.441053&z=17"
+  },
+  {
+    "id": "9a39cb5a",
+    "name": "くるみや",
+    "image": "https://image.xinu.ink/pic/data/632/images/9a39cb5a_1729489688339.jpg",
+    "ep": 11,
+    "geo": [
+      35.5645,
+      138.5008
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.564539%2C138.500824&z=17"
+  },
+  {
+    "id": "f8eee676",
+    "name": "中央公園　市川",
+    "image": "https://image.xinu.ink/pic/data/632/images/f8eee676_1729489847696.jpg",
+    "ep": 11,
+    "geo": [
+      35.5619,
+      138.5007
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.561912%2C138.50079&z=17"
+  },
+  {
+    "id": "9ba8ba32",
+    "name": "青洲公園",
+    "image": "https://image.xinu.ink/pic/data/632/images/9ba8ba32_1729489914454.jpg",
+    "ep": 11,
+    "geo": [
+      35.5692,
+      138.5027
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.569275%2C138.50275&z=17"
+  },
+  {
+    "id": "81fee131",
+    "name": "みはらしの丘 みたまの湯",
+    "image": "https://image.xinu.ink/pic/data/632/images/81fee131_1729489973299.jpg",
+    "ep": 11,
+    "geo": [
+      35.5658,
+      138.5341
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.565813%2C138.534127&z=17"
+  },
+  {
+    "id": "58b8cfc8",
+    "name": "国道52号線",
+    "image": "https://image.xinu.ink/pic/data/632/images/58b8cfc8_1729490208476.jpg",
+    "ep": 13,
+    "geo": [
+      35.4826,
+      138.4488
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.482639%2C138.448879&z=17"
+  },
+  {
+    "id": "a6da740c",
+    "name": "延命の湯",
+    "image": "https://image.xinu.ink/pic/data/632/images/a6da740c_1729490251613.jpg",
+    "ep": 13,
+    "geo": [
+      35.8786,
+      138.3185
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.878695%2C138.318508&z=17"
+  },
+  {
+    "id": "3fa06740",
+    "name": "延命の湯→高岡",
+    "image": "https://image.xinu.ink/pic/data/632/images/3fa06740_1729490339981.jpg",
+    "ep": 13,
+    "geo": [
+      35.8616,
+      138.3402
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.861691%2C138.340217&z=17"
+  },
+  {
+    "id": "28ba0688",
+    "name": "高岡和食処",
+    "image": "https://image.xinu.ink/pic/data/632/images/28ba0688_1729490412346.jpg",
+    "ep": 13,
+    "geo": [
+      35.8695,
+      138.3425
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.869568%2C138.342554&z=17"
+  },
+  {
+    "id": "f4d109ac",
+    "name": "ひまわり市場",
+    "image": "https://image.xinu.ink/pic/data/632/images/f4d109ac_1729491201643.jpg",
+    "ep": 13,
+    "geo": [
+      35.8614,
+      138.3813
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.861415%2C138.381334&z=17"
+  },
+  {
+    "id": "78e58fb7",
+    "name": "キャンプ場への道中",
+    "image": "https://image.xinu.ink/pic/data/632/images/78e58fb7_1729491315796.jpg",
+    "ep": 13,
+    "geo": [
+      35.9103,
+      138.2189
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jzwO_3dyg9cw9AAIcn7JrccRvGgZAgp_&ll=35.910342%2C138.218911&z=17"
+  }
+]

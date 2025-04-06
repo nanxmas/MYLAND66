@@ -1,0 +1,67 @@
+{
+  "id": 241089,
+  "cn": "天狼 Sirius the Jaeger",
+  "title": "天狼 Sirius the Jaeger",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/603/images/241089.jpg",
+  "color": "#80552a",
+  "cp": "天狼 Sirius the Ja…",
+  "geo": [
+    46.62155072086833,
+    142.7619289120846
+  ],
+  "zoom": 14.499,
+  "modified": 1723434915720,
+  "litePoints": [
+    {
+      "id": "fov3bgsnf",
+      "cn": "大泊港站",
+      "name": "ст. Порт Корсаков",
+      "image": "https://image.anitabi.cn/user/0/bangumi/241089/points/fov3bgsnf-1702408319854.jpg?plan=h160",
+      "ep": 8,
+      "s": 491,
+      "geo": [
+        46.6215,
+        142.7619
+      ]
+    },
+    {
+      "id": "for6cfgz4",
+      "cn": "大泊码头",
+      "name": "южный пирс",
+      "image": "https://image.anitabi.cn/user/0/bangumi/241089/points/for6cfgz4-1702400146146.jpg?plan=h160",
+      "ep": 8,
+      "s": 507,
+      "geo": [
+        46.6202,
+        142.7597
+      ]
+    },
+    {
+      "id": "fork3p1hf",
+      "name": "码头铁桥",
+      "image": "https://image.anitabi.cn/user/0/bangumi/241089/points/fork3p1hf-1702400637473.jpg?plan=h160",
+      "ep": 8,
+      "s": 518,
+      "geo": [
+        46.6197,
+        142.7646
+      ]
+    },
+    {
+      "id": "forr4cjzg",
+      "cn": "大泊港",
+      "name": "Корсаков,RU",
+      "image": "https://image.anitabi.cn/user/0/bangumi/241089/points/forr4cjzg-1702401043886.jpg?plan=h160",
+      "ep": 8,
+      "s": 574,
+      "geo": [
+        46.6238,
+        142.7675
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 603
+}

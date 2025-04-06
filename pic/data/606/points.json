@@ -1,0 +1,95 @@
+[
+  {
+    "id": "lqkrt6806",
+    "name": "マクセル アクアパーク品川",
+    "image": "https://image.xinu.ink/pic/data/606/images/lqkrt6806-1719470108818.jpg",
+    "ep": 13,
+    "s": 619,
+    "geo": [
+      35.6284,
+      139.7355
+    ]
+  },
+  {
+    "id": "skvmwz4c0",
+    "cn": "西武池袋线清濑站附近踏切",
+    "name": "新堀茜通り西武池袋線踏み切り",
+    "image": "https://image.xinu.ink/pic/data/606/images/skvmwz4c0_1738770467292.jpg",
+    "ep": 2,
+    "s": 661,
+    "geo": [
+      35.7697,
+      139.5245
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "skw1d2jst",
+    "name": "星野ハイツ",
+    "image": "https://image.xinu.ink/pic/data/606/images/skw1d2jst_1738771378130.jpg",
+    "ep": 8,
+    "s": 981,
+    "geo": [
+      35.7504,
+      139.5989
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "skw87e3j6",
+    "name": "マクドナルド\n中村橋​店",
+    "image": "https://image.xinu.ink/pic/data/606/images/skw87e3j6_1738771752604.jpg",
+    "ep": 8,
+    "s": 568,
+    "geo": [
+      35.7359,
+      139.6385
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ofyel6032",
+    "cn": "售票处",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/606/images/ofyel6032_1727100233839.jpg",
+    "ep": 13,
+    "s": 617,
+    "geo": [
+      35.6282,
+      139.7354
+    ],
+    "origin": "Anitabi@小funny",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ofyfno3l2",
+    "cn": "品川水族馆内部",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/606/images/ofyfno3l2_1727100328057.jpg",
+    "ep": 13,
+    "s": 667,
+    "geo": [
+      35.6281,
+      139.7353
+    ],
+    "origin": "Anitabi@小funny",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ofyj075u1",
+    "cn": "麦克赛尔品川王子大饭店水族馆",
+    "name": "マクセル​アクア​パーク​品川",
+    "image": "https://image.xinu.ink/pic/data/606/images/ofyj075u1_1727100499911.jpg",
+    "ep": 13,
+    "s": 938,
+    "geo": [
+      35.6278,
+      139.7352
+    ],
+    "origin": "Anitabi@小funny",
+    "originURL": "https://anitabi.cn/"
+  }
+]

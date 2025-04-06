@@ -1,0 +1,794 @@
+[
+  {
+    "id": "4sd1mkrg6",
+    "name": "OP 霞ケ関東緑地",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkrg6.jpg",
+    "ep": 2,
+    "s": 158,
+    "geo": [
+      35.922,
+      139.4523
+    ]
+  },
+  {
+    "id": "4sd1mkrzt",
+    "name": "OP 八幡橋西&電柱",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkrzt.jpg",
+    "ep": 1,
+    "s": 463,
+    "geo": [
+      35.9146,
+      139.4724
+    ]
+  },
+  {
+    "id": "4sd1mksb2",
+    "name": "OP 本川越駅西口",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mksb2.jpg",
+    "ep": 2,
+    "s": 198,
+    "geo": [
+      35.9143,
+      139.4812
+    ]
+  },
+  {
+    "id": "4sd1mks1j",
+    "name": "OP八幡橋",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mks1j.jpg",
+    "ep": 2,
+    "s": 212,
+    "geo": [
+      35.9146,
+      139.4727
+    ]
+  },
+  {
+    "id": "4sd1mksq9",
+    "name": "1# 川越ベーカリー楽楽",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mksq9.jpg",
+    "ep": 1,
+    "s": 1218,
+    "geo": [
+      35.9244,
+      139.4816
+    ]
+  },
+  {
+    "id": "4sd1mksx3",
+    "name": "1# 陶路子前",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mksx3.jpg",
+    "ep": 1,
+    "s": 1220,
+    "geo": [
+      35.9231,
+      139.4824
+    ]
+  },
+  {
+    "id": "4sd1mkstp",
+    "name": "ED 時の鐘",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkstp.jpg",
+    "ep": 2,
+    "s": 1373,
+    "geo": [
+      35.9234,
+      139.483
+    ]
+  },
+  {
+    "id": "4sd1mksrv",
+    "name": "2# さいたま清河寺温泉",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mksrv.jpg",
+    "ep": 2,
+    "s": 1051,
+    "geo": [
+      35.9338,
+      139.5817
+    ]
+  },
+  {
+    "id": "4sd1mkst3",
+    "name": "3# 粉とクリーム 石窯夢工房 下妻店",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkst3.jpg",
+    "ep": 3,
+    "s": 540,
+    "geo": [
+      36.1795,
+      139.9542
+    ]
+  },
+  {
+    "id": "4sd1mkthy",
+    "name": "3# 本川越駅西口ベンチ",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkthy.jpg",
+    "ep": 3,
+    "s": 841,
+    "geo": [
+      35.9143,
+      139.4807
+    ]
+  },
+  {
+    "id": "4sd1mksz9",
+    "name": "3# 本川越駅西口Lawson前",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mksz9.jpg",
+    "ep": 3,
+    "s": 858,
+    "geo": [
+      35.9145,
+      139.481
+    ]
+  },
+  {
+    "id": "4sd1mktu1",
+    "name": "3# 本川越駅西口",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mktu1.jpg",
+    "ep": 3,
+    "s": 872,
+    "geo": [
+      35.9143,
+      139.4811
+    ]
+  },
+  {
+    "id": "4sd1mktvk",
+    "name": "3# 時の鐘入口",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mktvk.jpg",
+    "ep": 3,
+    "s": 885,
+    "geo": [
+      35.9233,
+      139.4829
+    ]
+  },
+  {
+    "id": "4sd1mku1k",
+    "name": "3# 鐘つき通り",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mku1k.jpg",
+    "ep": 3,
+    "s": 889,
+    "geo": [
+      35.9234,
+      139.4834
+    ]
+  },
+  {
+    "id": "4sd1mktsa",
+    "name": "3# 日乃本帆布前",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mktsa.jpg",
+    "ep": 3,
+    "s": 885,
+    "geo": [
+      35.9234,
+      139.4837
+    ]
+  },
+  {
+    "id": "4sd1mkv1b",
+    "name": "3# 鶴ケ岡四丁目",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkv1b.jpg",
+    "ep": 3,
+    "s": 918,
+    "geo": [
+      35.8684,
+      139.4999
+    ]
+  },
+  {
+    "id": "4sd1mkucb",
+    "name": "3# 鶴ケ岡五丁目3",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkucb.jpg",
+    "ep": 3,
+    "s": 990,
+    "geo": [
+      35.8671,
+      139.498
+    ]
+  },
+  {
+    "id": "4sd1mkv2k",
+    "name": "3# 飛び地",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkv2k.jpg",
+    "ep": 3,
+    "s": 1012,
+    "geo": [
+      35.8669,
+      139.4982
+    ]
+  },
+  {
+    "id": "4sd1mkv1r",
+    "name": "4# 大清水公園前交差点",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkv1r.jpg",
+    "ep": 4,
+    "s": 13,
+    "geo": [
+      36.0811,
+      140.115
+    ]
+  },
+  {
+    "id": "4sd1mkven",
+    "name": "4# つくば看護専門学校",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkven.jpg",
+    "ep": 4,
+    "s": 19,
+    "geo": [
+      36.0891,
+      140.1064
+    ]
+  },
+  {
+    "id": "4sd1mkvqw",
+    "name": "4# H2ロケット実物大モデル付近",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkvqw.jpg",
+    "ep": 4,
+    "s": 29,
+    "geo": [
+      36.0873,
+      140.1112
+    ]
+  },
+  {
+    "id": "4sd1mkvot",
+    "name": "4# つくば駅前交差点",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkvot.jpg",
+    "ep": 4,
+    "s": 42,
+    "geo": [
+      36.0826,
+      140.1116
+    ]
+  },
+  {
+    "id": "4sd1mkvkq",
+    "name": "4# 吾妻セントラル歩道橋下",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkvkq.jpg",
+    "ep": 4,
+    "s": 44,
+    "geo": [
+      36.0833,
+      140.1126
+    ]
+  },
+  {
+    "id": "4sd1mkv4h",
+    "name": "4# 並木二丁目交差点",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkv4h.jpg",
+    "ep": 6.5,
+    "s": 599,
+    "geo": [
+      36.0645,
+      140.1362
+    ]
+  },
+  {
+    "id": "4sd1mkvny",
+    "name": "4# 地質標本館前",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkvny.jpg",
+    "ep": 4,
+    "s": 141,
+    "geo": [
+      36.0618,
+      140.1331
+    ]
+  },
+  {
+    "id": "4sd1mkwiz",
+    "name": "4# 地質標本館",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkwiz.jpg",
+    "ep": 4,
+    "s": 189,
+    "geo": [
+      36.0619,
+      140.1327
+    ]
+  },
+  {
+    "id": "4sd1mkw8k",
+    "name": "4# スペースドーム前",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkw8k.jpg",
+    "ep": 4,
+    "s": 595,
+    "geo": [
+      36.0684,
+      140.1302
+    ]
+  },
+  {
+    "id": "4sd1mkw0d",
+    "name": "4# H-IIロケット",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkw0d.jpg",
+    "ep": 4,
+    "s": 633,
+    "geo": [
+      36.0681,
+      140.1292
+    ]
+  },
+  {
+    "id": "4sd1mkw0t",
+    "name": "4# 広報・情報棟 視聴覚室",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkw0t.jpg",
+    "ep": 4,
+    "s": 688,
+    "geo": [
+      36.0682,
+      140.1298
+    ]
+  },
+  {
+    "id": "4sd1mkvwo",
+    "name": "4# 宇宙飛行士養成棟",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkvwo.jpg",
+    "ep": 4,
+    "s": 733,
+    "geo": [
+      36.067,
+      140.1271
+    ]
+  },
+  {
+    "id": "4sd1mkxa6",
+    "name": "4# スペースドーム",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkxa6.jpg",
+    "ep": 4,
+    "s": 819,
+    "geo": [
+      36.0681,
+      140.1304
+    ]
+  },
+  {
+    "id": "4sd1mkwrw",
+    "name": "4# プラネットキューブ",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkwrw.jpg",
+    "ep": 4,
+    "s": 901,
+    "geo": [
+      36.0679,
+      140.1302
+    ]
+  },
+  {
+    "id": "4sd1mkx0m",
+    "name": "4# 筑波宇宙センター駐車場",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkx0m.jpg",
+    "ep": 4,
+    "s": 917,
+    "geo": [
+      36.0686,
+      140.1302
+    ]
+  },
+  {
+    "id": "4sd1mkwy9",
+    "name": "4# 広報・情報棟前",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkwy9.jpg",
+    "ep": 4,
+    "s": 925,
+    "geo": [
+      36.068,
+      140.1296
+    ]
+  },
+  {
+    "id": "4sd1mkx6p",
+    "name": "4# 地図と測量の科学館前",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkx6p.jpg",
+    "ep": 4,
+    "s": 1231,
+    "geo": [
+      36.1037,
+      140.0854
+    ]
+  },
+  {
+    "id": "4sd1mkxw9",
+    "name": "4# 国土地理院駐車場",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkxw9.jpg",
+    "ep": 6.5,
+    "s": 904,
+    "geo": [
+      36.1033,
+      140.0855
+    ]
+  },
+  {
+    "id": "4sd1mky3i",
+    "name": "4# つくばVLBIアンテナ部品展示",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mky3i.jpg",
+    "ep": 4,
+    "s": 1273,
+    "geo": [
+      36.1037,
+      140.086
+    ]
+  },
+  {
+    "id": "4sd1mkyrv",
+    "name": "5# 舞磯浜？",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkyrv.jpg",
+    "ep": 5,
+    "s": 22,
+    "geo": [
+      34.6548,
+      138.922
+    ]
+  },
+  {
+    "id": "4sd1mkya2",
+    "name": "5# 田牛サンドスキー場",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkya2.jpg",
+    "ep": 5,
+    "s": 320,
+    "geo": [
+      34.6428,
+      138.9157
+    ]
+  },
+  {
+    "id": "4sd1mkybf",
+    "name": "5# 伊豆稻取付近",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkybf.jpg",
+    "ep": 5,
+    "s": 371,
+    "geo": [
+      34.774,
+      139.0379
+    ]
+  },
+  {
+    "id": "4sd1mkyvq",
+    "name": "5# 片瀬白田付近",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkyvq.jpg",
+    "ep": 5,
+    "s": 476,
+    "geo": [
+      34.8028,
+      139.0622
+    ]
+  },
+  {
+    "id": "4sd1ml0io",
+    "name": "5# Sunshine City",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1ml0io.jpg",
+    "ep": 5,
+    "s": 508,
+    "geo": [
+      35.7299,
+      139.7181
+    ]
+  },
+  {
+    "id": "4sd1ml1r6",
+    "name": "5# Chouette",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1ml1r6.jpg",
+    "ep": 5,
+    "s": 667,
+    "geo": [
+      35.9142,
+      139.4788
+    ]
+  },
+  {
+    "id": "4sd1ml2n3",
+    "name": "5# 川越駅西口",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1ml2n3.jpg",
+    "ep": 5,
+    "s": 781,
+    "geo": [
+      35.9068,
+      139.4824
+    ]
+  },
+  {
+    "id": "4sd1ml37b",
+    "name": "7# 伊佐沼公園",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1ml37b.jpg",
+    "ep": 5,
+    "s": 848,
+    "geo": [
+      35.9229,
+      139.5138
+    ]
+  },
+  {
+    "id": "4sd1ml9l0",
+    "name": "7# 伊佐沼",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1ml9l0.jpg",
+    "ep": 7,
+    "s": 360,
+    "geo": [
+      35.924,
+      139.5145
+    ]
+  },
+  {
+    "id": "4sd1ml9lt",
+    "name": "7# 時の鐘東",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1ml9lt.jpg",
+    "ep": 7,
+    "s": 782,
+    "geo": [
+      35.9234,
+      139.484
+    ]
+  },
+  {
+    "id": "4sd1ml9ck",
+    "name": "8# へび道(藍染川跡)",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1ml9ck.jpg",
+    "ep": 8,
+    "s": 215,
+    "geo": [
+      35.7245,
+      139.7643
+    ]
+  },
+  {
+    "id": "4sd1ml9ww",
+    "name": "8# 東大弥生門",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1ml9ww.jpg",
+    "ep": 8,
+    "s": 227,
+    "geo": [
+      35.7149,
+      139.7629
+    ]
+  },
+  {
+    "id": "4sd1mlaf5",
+    "name": "8# studio CLIP",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mlaf5.jpg",
+    "ep": 8,
+    "s": 615,
+    "geo": [
+      35.9144,
+      139.4815
+    ]
+  },
+  {
+    "id": "4sd1ml9xn",
+    "name": "8# 鷲宮神社 鳥居（元 二の鳥居）",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1ml9xn.jpg",
+    "ep": 8,
+    "s": 914,
+    "geo": [
+      36.1002,
+      139.6566
+    ]
+  },
+  {
+    "id": "4sd1mla56",
+    "name": "8# 鷲宮神社 絵馬掛け所",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mla56.jpg",
+    "ep": 8,
+    "s": 908,
+    "geo": [
+      36.1,
+      139.6554
+    ]
+  },
+  {
+    "id": "4sd1ml9tm",
+    "name": "8# 鹫宫神社",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1ml9tm.jpg",
+    "ep": 8,
+    "s": 976,
+    "geo": [
+      36.0998,
+      139.6549
+    ]
+  },
+  {
+    "id": "4sd1mla3h",
+    "name": "9# 本川越駅西口ベンチ",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mla3h.jpg",
+    "ep": 9,
+    "s": 1045,
+    "geo": [
+      35.9143,
+      139.4807
+    ]
+  },
+  {
+    "id": "4sd1mlawq",
+    "name": "10# 菓子屋橫丁",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mlawq.jpg",
+    "ep": 10,
+    "s": 395,
+    "geo": [
+      35.9245,
+      139.4812
+    ]
+  },
+  {
+    "id": "4sd1mlbub",
+    "name": "10# 伊佐沼公園",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mlbub.jpg",
+    "ep": 10,
+    "s": 559,
+    "geo": [
+      35.9228,
+      139.5138
+    ]
+  },
+  {
+    "id": "4sd1mlbog",
+    "name": "10# 川越元町郵便局",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mlbog.jpg",
+    "ep": 10,
+    "s": 1092,
+    "geo": [
+      35.9247,
+      139.483
+    ]
+  },
+  {
+    "id": "4sd1mlbit",
+    "name": "10# 羽田空港第２ターミナル",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mlbit.jpg",
+    "ep": 10,
+    "s": 1270,
+    "geo": [
+      35.5511,
+      139.788
+    ]
+  },
+  {
+    "id": "4sd1mlbgo",
+    "name": "10# 石垣空港",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mlbgo.jpg",
+    "ep": 10,
+    "s": 1289,
+    "geo": [
+      24.3906,
+      124.2461
+    ]
+  },
+  {
+    "id": "4sd1mlcrv",
+    "name": "11# 国道390号線 道標",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mlcrv.jpg",
+    "ep": 11,
+    "s": 77,
+    "geo": [
+      24.3532,
+      124.1984
+    ]
+  },
+  {
+    "id": "4sd1mlc7p",
+    "name": "11# 石垣青少年の家入口",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mlc7p.jpg",
+    "ep": 11,
+    "s": 180,
+    "geo": [
+      24.3686,
+      124.1445
+    ]
+  },
+  {
+    "id": "4sd1mle6s",
+    "name": "11# 石垣青少年の家",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mle6s.jpg",
+    "ep": 11,
+    "s": 174,
+    "geo": [
+      24.3686,
+      124.1439
+    ]
+  },
+  {
+    "id": "4sd1mldnw",
+    "name": "11# VERA石垣島観測局・電波望遠鏡",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mldnw.jpg",
+    "ep": 11,
+    "s": 504,
+    "geo": [
+      24.4117,
+      124.171
+    ]
+  },
+  {
+    "id": "4sd1mleq1",
+    "name": "11# H2ロケット実物大モデル付近",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mleq1.jpg",
+    "ep": 11,
+    "s": 276,
+    "geo": [
+      36.0863,
+      140.1119
+    ]
+  },
+  {
+    "id": "4sd1mlejk",
+    "name": "11# 筑波宇宙センター",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mlejk.jpg",
+    "ep": 11,
+    "s": 294,
+    "geo": [
+      36.0685,
+      140.1296
+    ]
+  },
+  {
+    "id": "4sd1mlepd",
+    "name": "11# 石垣島天文台",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mlepd.jpg",
+    "ep": 11,
+    "s": 579,
+    "geo": [
+      24.3732,
+      124.1392
+    ]
+  },
+  {
+    "id": "4sd1mled4",
+    "name": "11# A&W 石垣店",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mled4.jpg",
+    "ep": 11,
+    "s": 665,
+    "geo": [
+      24.3387,
+      124.1573
+    ]
+  },
+  {
+    "id": "4sd1mletk",
+    "name": "11# 石垣島天文台第1駐車場付近",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mletk.jpg",
+    "ep": 11,
+    "s": 736,
+    "geo": [
+      24.3708,
+      124.1422
+    ]
+  },
+  {
+    "id": "4sd1mlfla",
+    "name": "11# 民宿 八重山荘",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mlfla.jpg",
+    "ep": 11,
+    "s": 1322,
+    "geo": [
+      24.3405,
+      124.1612
+    ]
+  },
+  {
+    "id": "4sd1mlfjh",
+    "name": "星咲高校のモデル",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mlfjh.jpg",
+    "ep": 9,
+    "s": 1286,
+    "geo": [
+      35.9162,
+      139.4789
+    ]
+  },
+  {
+    "id": "4sd1mkybd",
+    "name": "5# 吉佐美大浜海水浴場？",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkybd.jpg",
+    "ep": 5,
+    "s": 0,
+    "geo": [
+      34.6531,
+      138.9192
+    ]
+  },
+  {
+    "id": "4sd1mlbfb",
+    "name": "11# 国道390号線",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mlbfb.jpg",
+    "ep": 11,
+    "s": 0,
+    "geo": [
+      24.3882,
+      124.2372
+    ]
+  }
+]

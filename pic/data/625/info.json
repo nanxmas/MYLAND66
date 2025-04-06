@@ -1,0 +1,41 @@
+{
+  "id": 261591,
+  "cn": "Slow Loop",
+  "title": "スローループ",
+  "city": "横须贺市",
+  "cover": "https://image.xinu.ink/pic/data/625/images/261591.jpg",
+  "color": "#89a9c0",
+  "geo": [
+    35.25960304950095,
+    139.74091484458972
+  ],
+  "zoom": 14.305,
+  "modified": 1717331509569,
+  "litePoints": [
+    {
+      "id": "7crrozop9",
+      "name": "観音崎小突堤",
+      "image": "https://image.anitabi.cn/user/0/bangumi/261591/points/7crrozop9-1678892043391.jpg?plan=h160",
+      "ep": 1,
+      "s": 170,
+      "geo": [
+        35.2596,
+        139.7409
+      ]
+    },
+    {
+      "id": "7cs41rfdh",
+      "name": "県道２０９",
+      "image": "https://image.anitabi.cn/user/0/bangumi/261591/points/7cs41rfdh-1678892681518.jpg?plan=h160",
+      "ep": 1,
+      "s": 1131,
+      "geo": [
+        35.2598,
+        139.7395
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 625
+}

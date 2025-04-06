@@ -1,0 +1,100 @@
+{
+  "id": 248154,
+  "cn": "强风吹拂",
+  "title": "風が強く吹いている",
+  "city": "世田谷区",
+  "cover": "https://image.xinu.ink/pic/data/611/images/248154.jpg",
+  "color": "#5595aa",
+  "cp": "寛政大学陸上競技部後援会",
+  "geo": [
+    35.652886941329896,
+    139.67137550710203
+  ],
+  "zoom": 10.579,
+  "modified": 1727300177831,
+  "litePoints": [
+    {
+      "id": "noh1gepoz",
+      "cn": "祖师谷大藏",
+      "name": "祖師ヶ谷大蔵",
+      "image": "https://image.anitabi.cn/points/248154/noh1gepoz_1725001416635_cut.jpg?plan=h160",
+      "ep": 2,
+      "s": 86,
+      "geo": [
+        35.6432,
+        139.6093
+      ]
+    },
+    {
+      "id": "nus0rglxi",
+      "cn": "读卖新闻总部大楼",
+      "name": "読売新聞 東京本社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/248154/points/nus0rglxi-1725440755365.jpg?plan=h160",
+      "ep": 17,
+      "s": 594,
+      "geo": [
+        35.6871,
+        139.7646
+      ]
+    },
+    {
+      "id": "nus4xf508",
+      "cn": "多摩川",
+      "name": "多摩川",
+      "image": "https://image.anitabi.cn/user/0/bangumi/248154/points/nus4xf508-1725440971663.jpg?plan=h160",
+      "ep": 5,
+      "s": 243,
+      "geo": [
+        35.6282,
+        139.5683
+      ]
+    },
+    {
+      "id": "nzjkr2pmv",
+      "cn": "箱根汤本",
+      "name": "箱根湯本",
+      "image": "https://image.anitabi.cn/user/0/bangumi/248154/points/nzjkr2pmv-1725814190719.jpg?plan=h160",
+      "ep": 17,
+      "s": 735,
+      "geo": [
+        35.2332,
+        139.1035
+      ]
+    },
+    {
+      "id": "nzjr0l5zo",
+      "cn": "箱根驿传纪念碑",
+      "name": "箱根駅伝栄光の碑「若き力を讃えて」",
+      "image": "https://image.anitabi.cn/user/0/bangumi/248154/points/nzjr0l5zo-1725814534727.jpg?plan=h160",
+      "ep": 20,
+      "s": 919,
+      "geo": [
+        35.1902,
+        139.0254
+      ]
+    },
+    {
+      "id": "51i52epey",
+      "cn": "仙川桥",
+      "name": "仙川歩道橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/248154/points/51i52epey-1725440552178.jpg?plan=h160",
+      "geo": [
+        35.6408,
+        139.6019
+      ]
+    },
+    {
+      "id": "nzjoaczez",
+      "cn": "根神社第一鳥居",
+      "name": "箱根神社 第一鳥居",
+      "image": "https://image.anitabi.cn/user/0/bangumi/248154/points/nzjoaczez-1725814365569.jpg?plan=h160",
+      "geo": [
+        35.2008,
+        139.0308
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "local_id": 611
+}

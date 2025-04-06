@@ -1,0 +1,130 @@
+{
+  "id": 262897,
+  "cn": "摇曳露营△ 二期",
+  "title": "ゆるキャン△ SEASON 2",
+  "city": "静冈县",
+  "cover": "https://image.xinu.ink/pic/data/626/images/262897.jpg",
+  "color": "#634e47",
+  "cp": "野外活動委員会",
+  "geo": [
+    35.03288139972939,
+    138.28534225305884
+  ],
+  "zoom": 7.594,
+  "modified": 1743240713669,
+  "litePoints": [
+    {
+      "id": "5fchw27pi",
+      "name": "S2-1武田書店（旧古関郵便局）",
+      "image": "https://image.anitabi.cn/points/262897/5fchw27pi_1673452341747.jpg?plan=h160",
+      "ep": 1,
+      "s": 12,
+      "geo": [
+        35.4748,
+        138.5237
+      ]
+    },
+    {
+      "id": "5fchw27oo",
+      "name": "S2-1参宮司橋",
+      "image": "https://image.anitabi.cn/points/262897/5fchw27oo_1673452345071.jpg?plan=h160",
+      "ep": 1,
+      "s": 38,
+      "geo": [
+        35.4744,
+        138.5239
+      ]
+    },
+    {
+      "id": "5fchw27sy",
+      "name": "S2-1本栖湖",
+      "image": "https://image.anitabi.cn/points/262897/5fchw27sy_1673452342245.jpg?plan=h160",
+      "ep": 1,
+      "s": 710,
+      "geo": [
+        35.4723,
+        138.5749
+      ]
+    },
+    {
+      "id": "5fchw27ir",
+      "name": "S2-1波木井",
+      "image": "https://image.anitabi.cn/points/262897/5fchw27ir_1673452342789.jpg?plan=h160",
+      "ep": 1,
+      "s": 725,
+      "geo": [
+        35.3771,
+        138.446
+      ]
+    },
+    {
+      "id": "5fchw27n0",
+      "name": "S2-1身延郵便局",
+      "image": "https://image.anitabi.cn/points/262897/5fchw27n0_1673452343295.jpg?plan=h160",
+      "ep": 1,
+      "s": 796,
+      "geo": [
+        35.3715,
+        138.4411
+      ]
+    },
+    {
+      "id": "5fchw27fb",
+      "name": "S2-1波木井川河川敷",
+      "image": "https://image.anitabi.cn/points/262897/5fchw27fb_1673452344033.jpg?plan=h160",
+      "ep": 1,
+      "s": 815,
+      "geo": [
+        35.3722,
+        138.4403
+      ]
+    },
+    {
+      "id": "5fchw27tw",
+      "name": "S2-1波木井橋",
+      "image": "https://image.anitabi.cn/points/262897/5fchw27tw_1673452344509.jpg?plan=h160",
+      "ep": 1,
+      "s": 909,
+      "geo": [
+        35.3716,
+        138.4438
+      ]
+    },
+    {
+      "id": "5fchw27ej",
+      "name": "S2-1酒の川本 身延店",
+      "image": "https://image.anitabi.cn/points/262897/5fchw27ej_1719894808554.jpg?plan=h160",
+      "ep": 1,
+      "s": 911,
+      "geo": [
+        35.433,
+        138.4414
+      ]
+    },
+    {
+      "id": "5fchw27li",
+      "name": "S2-1浜名湖",
+      "image": "https://image.anitabi.cn/points/262897/5fchw27li_1719894819696.jpg?plan=h160",
+      "ep": 1,
+      "s": 964,
+      "geo": [
+        34.7851,
+        137.5889
+      ]
+    },
+    {
+      "id": "5fchw27m9",
+      "name": "S2-1参宮司橋西",
+      "image": "https://image.anitabi.cn/points/262897/5fchw27m9_1673452345555.jpg?plan=h160",
+      "ep": 1,
+      "s": 1213,
+      "geo": [
+        35.4744,
+        138.5236
+      ]
+    }
+  ],
+  "pointsLength": 251,
+  "imagesLength": 249,
+  "local_id": 626
+}

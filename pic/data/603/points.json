@@ -1,0 +1,57 @@
+[
+  {
+    "id": "fov3bgsnf",
+    "cn": "大泊港站",
+    "name": "ст. Порт Корсаков",
+    "image": "https://image.xinu.ink/pic/data/603/images/fov3bgsnf-1702408319854.jpg",
+    "ep": 8,
+    "s": 491,
+    "geo": [
+      46.6215,
+      142.7619
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "for6cfgz4",
+    "cn": "大泊码头",
+    "name": "южный пирс",
+    "image": "https://image.xinu.ink/pic/data/603/images/for6cfgz4-1702400146146.jpg",
+    "ep": 8,
+    "s": 507,
+    "geo": [
+      46.6202,
+      142.7597
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "fork3p1hf",
+    "name": "码头铁桥",
+    "image": "https://image.xinu.ink/pic/data/603/images/fork3p1hf-1702400637473.jpg",
+    "ep": 8,
+    "s": 518,
+    "geo": [
+      46.6197,
+      142.7646
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "forr4cjzg",
+    "cn": "大泊港",
+    "name": "Корсаков,RU",
+    "image": "https://image.xinu.ink/pic/data/603/images/forr4cjzg-1702401043886.jpg",
+    "ep": 8,
+    "s": 574,
+    "geo": [
+      46.6238,
+      142.7675
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

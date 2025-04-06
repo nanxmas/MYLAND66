@@ -1,0 +1,113 @@
+{
+  "id": 280440,
+  "cn": "死月妖花～四月八日～",
+  "title": "死月妖花～四月八日～",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/657/images/280440_do0j5.jpg",
+  "color": "#f00608",
+  "geo": [
+    36.36692559080447,
+    136.69610596866966
+  ],
+  "zoom": 5.303,
+  "modified": 1742409409385,
+  "litePoints": [
+    {
+      "id": "r1u007ofj",
+      "cn": "群马县附近",
+      "name": "群馬県付近",
+      "image": "https://image.anitabi.cn/points/280440/r1u007ofj_1734533938024.jpg?plan=h160",
+      "geo": [
+        36.8986,
+        139.1614
+      ]
+    },
+    {
+      "id": "r1vkyuz28",
+      "name": "銀座駅 C2口",
+      "image": "https://image.anitabi.cn/points/280440/r1vkyuz28_1734533812935.jpg?plan=h160",
+      "geo": [
+        35.6724,
+        139.763
+      ]
+    },
+    {
+      "id": "r1vayfgte",
+      "name": "東京スカイツリー",
+      "image": "https://image.anitabi.cn/points/280440/r1vayfgte_1734527082861.jpg?plan=h160",
+      "geo": [
+        35.71,
+        139.8102
+      ]
+    },
+    {
+      "id": "r2q9stkyd",
+      "name": "東京​スカイ​ツリー",
+      "image": "https://image.anitabi.cn/points/280440/r2q9stkyd_1734527122211.jpg?plan=h160",
+      "geo": [
+        35.71,
+        139.8107
+      ]
+    },
+    {
+      "id": "r1x1njsou",
+      "name": "東京駅",
+      "image": "https://image.anitabi.cn/points/280440/r1x1njsou_1734527484331.jpg?plan=h160",
+      "geo": [
+        35.6815,
+        139.7661
+      ]
+    },
+    {
+      "id": "r1uigz7kr",
+      "name": "渋谷スクランブル交差点",
+      "image": "https://image.anitabi.cn/points/280440/r1uigz7kr_1734527738269.jpg?plan=h160",
+      "geo": [
+        35.6594,
+        139.7004
+      ]
+    },
+    {
+      "id": "r2qtv5fjl",
+      "cn": "狮身人面大道",
+      "name": "طريق الكباش",
+      "image": "https://image.anitabi.cn/points/280440/r2qtv5fjl_1734528391255.jpg?plan=h160",
+      "geo": [
+        25.7031,
+        32.6429
+      ]
+    },
+    {
+      "id": "r2qv0ox1q",
+      "cn": "自由女神像",
+      "name": "Statue of Liberty",
+      "image": "https://image.anitabi.cn/points/280440/r2qv0ox1q_1734528421684.jpg?plan=h160",
+      "geo": [
+        40.6892,
+        -74.0446
+      ]
+    },
+    {
+      "id": "r2qoy6kjr",
+      "cn": "斯德哥尔摩音乐厅",
+      "name": "Stockholms Konserthus",
+      "image": "https://image.anitabi.cn/points/280440/r2qoy6kjr_1734528146367.jpg?plan=h160",
+      "geo": [
+        59.335,
+        18.0631
+      ]
+    },
+    {
+      "id": "r1vbfev2x",
+      "name": "清洲城",
+      "image": "https://image.anitabi.cn/points/280440/r1vbfev2x_1734529340432.jpg?plan=h160",
+      "geo": [
+        35.2167,
+        136.8437
+      ]
+    }
+  ],
+  "pointsLength": 37,
+  "imagesLength": 35,
+  "local_id": 657
+}

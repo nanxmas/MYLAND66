@@ -1,0 +1,124 @@
+{
+  "id": 269235,
+  "cn": "天气之子",
+  "title": "天気の子",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/639/images/269235.jpg",
+  "color": "#71c6e3",
+  "cp": "2019天気の子",
+  "geo": [
+    35.70735862701672,
+    139.73339441798896
+  ],
+  "zoom": 12.278,
+  "modified": 1739694343274,
+  "litePoints": [
+    {
+      "id": "4ui73krdd",
+      "name": "朝日稲荷神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/269235/points/4ui73krdd-1723654022035.jpg?plan=h160",
+      "s": 196,
+      "geo": [
+        35.6713,
+        139.7672
+      ]
+    },
+    {
+      "id": "4ui73krj7",
+      "name": "マクドナルド西武新宿駅前店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/269235/points/4ui73krj7-1710234719464.jpg?plan=h160",
+      "s": 643,
+      "geo": [
+        35.6942,
+        139.7006
+      ]
+    },
+    {
+      "id": "jwc91asrn",
+      "name": "アメ横",
+      "image": "https://image.anitabi.cn/user/0/bangumi/269235/points/jwc91asrn-1714278675257.jpg?plan=h160",
+      "s": 1105,
+      "geo": [
+        35.7077,
+        139.7745
+      ]
+    },
+    {
+      "id": "jkqteu1qh",
+      "cn": "田端六丁目",
+      "name": "田端六丁目",
+      "image": "https://image.anitabi.cn/user/0/bangumi/269235/points/jkqteu1qh-1713370162904.jpg?plan=h160",
+      "s": 1983,
+      "geo": [
+        35.7407,
+        139.757
+      ]
+    },
+    {
+      "id": "n83bof1bp",
+      "cn": "侦探坡",
+      "name": "侦探坡",
+      "image": "https://image.anitabi.cn/user/0/bangumi/269235/points/n83bof1bp-1723662946456.jpg?plan=h160",
+      "s": 2262,
+      "geo": [
+        35.7166,
+        139.7134
+      ]
+    },
+    {
+      "id": "jwcqfl3pn",
+      "name": "雷門通り",
+      "image": "https://image.anitabi.cn/user/0/bangumi/269235/points/jwcqfl3pn-1714279706825.jpg?plan=h160",
+      "s": 2291,
+      "geo": [
+        35.7108,
+        139.7963
+      ]
+    },
+    {
+      "id": "4ui73kr9l",
+      "name": "東京シティビュー",
+      "image": "https://image.anitabi.cn/user/0/bangumi/269235/points/4ui73kr9l-1722758856787.jpg?plan=h160",
+      "s": 2393,
+      "geo": [
+        35.6603,
+        139.7291
+      ]
+    },
+    {
+      "id": "4ui73kr7s",
+      "name": "永代橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/269235/points/4ui73kr7s-1714277365714.jpg?plan=h160",
+      "s": 3632,
+      "geo": [
+        35.6763,
+        139.7875
+      ]
+    },
+    {
+      "id": "4ui73kr2z",
+      "cn": "池袋大桥",
+      "name": "池袋大橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/269235/points/4ui73kr2z-1721905959858.jpg?plan=h160",
+      "s": 3862,
+      "geo": [
+        35.7338,
+        139.7138
+      ]
+    },
+    {
+      "id": "6c7cflyg2",
+      "cn": "神津岛港",
+      "name": "神津島港",
+      "image": "https://image.anitabi.cn/user/0/bangumi/269235/points/6c7cflyg2-1676026265532.jpg?plan=h160",
+      "s": 5981,
+      "geo": [
+        34.2101,
+        139.1302
+      ]
+    }
+  ],
+  "pointsLength": 16,
+  "imagesLength": 16,
+  "local_id": 639
+}

@@ -1,0 +1,40 @@
+{
+  "id": 242216,
+  "cn": "剧场版 紫罗兰永恒花园",
+  "title": "劇場版 ヴァイオレット・エヴァーガーデン",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/605/images/242216.jpg",
+  "color": "#80aad4",
+  "cp": "エヴァーガーデン",
+  "geo": [
+    36.62751995636603,
+    24.901689831585372
+  ],
+  "zoom": 14.54,
+  "modified": 1723480675249,
+  "litePoints": [
+    {
+      "id": "ab857wyni",
+      "cn": "福莱甘兹罗斯岛",
+      "name": "Folegandros",
+      "image": "https://image.anitabi.cn/user/0/bangumi/242216/points/ab857wyni-1687234430335.jpg?plan=h160",
+      "geo": [
+        36.6275,
+        24.9016
+      ]
+    },
+    {
+      "id": "mhh4h4h2o",
+      "cn": "圣十字圣保罗医院",
+      "name": "Hospital de la Santa Creu i Sant Pau",
+      "image": "https://image.anitabi.cn/points/242216/mhh4h4h2o_1721577136784.jpg?plan=h160",
+      "geo": [
+        41.4127,
+        2.174
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "local_id": 605
+}

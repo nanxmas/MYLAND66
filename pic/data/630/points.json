@@ -1,0 +1,71 @@
+[
+  {
+    "id": "jv5zodjrq",
+    "cn": "钓崎海岸广场",
+    "name": "釣ヶ崎海岸広場",
+    "image": "https://image.xinu.ink/pic/data/630/images/jv5zodjrq-1714186838575.jpg",
+    "ep": "",
+    "s": "",
+    "geo": [
+      35.3356,
+      140.3935
+    ],
+    "origin": "Anitabi@Eureka",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "jv6g9zj9m",
+    "cn": "县立九十九里自然公园",
+    "name": "県立​九十九里​自然​公園",
+    "image": "https://image.xinu.ink/pic/data/630/images/jv6g9zj9m-1714187662277.jpg",
+    "ep": null,
+    "s": 4130,
+    "geo": [
+      35.5074,
+      140.4357
+    ],
+    "origin": "Anitabi@Eureka",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "jv6y7vqvm",
+    "cn": "千叶科技大学",
+    "name": "千葉科学大学",
+    "image": "https://image.xinu.ink/pic/data/630/images/jv6y7vqvm-1714188798987.jpg",
+    "ep": null,
+    "s": 2224,
+    "geo": [
+      35.7059,
+      140.8432
+    ],
+    "origin": "Anitabi@Eureka",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "jvb029o7j",
+    "cn": "冈本栈桥",
+    "name": "岡本桟橋",
+    "image": "https://image.xinu.ink/pic/data/630/images/jvb029o7j-1714197567277.jpg",
+    "ep": null,
+    "s": 1304,
+    "geo": [
+      35.0442,
+      139.831
+    ],
+    "origin": "Anitabi@Eureka",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "jvbbfnn05",
+    "cn": "千叶港塔",
+    "name": "千葉​ポート​タワー",
+    "image": "https://image.xinu.ink/pic/data/630/images/jvbbfnn05-1714198260226.jpg",
+    "s": "",
+    "geo": [
+      35.6004,
+      140.0978
+    ],
+    "origin": "Anitabi@Eureka",
+    "originURL": "https://anitabi.cn/"
+  }
+]

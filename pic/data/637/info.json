@@ -1,0 +1,130 @@
+{
+  "id": 268070,
+  "cn": "骚动时节的少女们啊",
+  "title": "荒ぶる季節の乙女どもよ。",
+  "city": "神奈川县",
+  "cover": "https://image.xinu.ink/pic/data/637/images/268070.jpg",
+  "color": "#956a75",
+  "cp": "荒乙",
+  "geo": [
+    35.645559254556574,
+    139.71305577159916
+  ],
+  "zoom": 10.495,
+  "modified": 1726751733602,
+  "litePoints": [
+    {
+      "id": "39rws3il",
+      "name": "丸子橋交差点南",
+      "image": "https://image.anitabi.cn/points/268070/39rws3il.jpg?plan=h160",
+      "ep": 1,
+      "s": 214,
+      "geo": [
+        35.5845,
+        139.6708
+      ]
+    },
+    {
+      "id": "39rws3kh",
+      "name": "丸子橋交差点",
+      "image": "https://image.anitabi.cn/points/268070/39rws3kh.jpg?plan=h160",
+      "ep": 1,
+      "s": 217,
+      "geo": [
+        35.5857,
+        139.67
+      ]
+    },
+    {
+      "id": "39rws319",
+      "name": "丸子橋",
+      "image": "https://image.anitabi.cn/points/268070/39rws319.jpg?plan=h160",
+      "ep": 1,
+      "s": 241,
+      "geo": [
+        35.5856,
+        139.6697
+      ]
+    },
+    {
+      "id": "39rws3e8",
+      "name": "中板橋北",
+      "image": "https://image.anitabi.cn/points/268070/39rws3e8.jpg?plan=h160",
+      "ep": 1,
+      "s": 1238,
+      "geo": [
+        35.7575,
+        139.693
+      ]
+    },
+    {
+      "id": "39rws36q",
+      "name": "向屋敷橋",
+      "image": "https://image.anitabi.cn/points/268070/39rws36q.jpg?plan=h160",
+      "ep": 1,
+      "s": 1241,
+      "geo": [
+        35.7574,
+        139.6949
+      ]
+    },
+    {
+      "id": "39rws32l",
+      "name": "中板橋商店街？",
+      "image": "https://image.anitabi.cn/points/268070/39rws32l.jpg?plan=h160",
+      "ep": 1,
+      "s": 1259,
+      "geo": [
+        35.7567,
+        139.6949
+      ]
+    },
+    {
+      "id": "39rws310",
+      "name": "多摩川河川敷",
+      "image": "https://image.anitabi.cn/points/268070/39rws310.jpg?plan=h160",
+      "ep": 1,
+      "s": 1390,
+      "geo": [
+        35.5793,
+        139.6733
+      ]
+    },
+    {
+      "id": "39rws351",
+      "name": "住吉書房",
+      "image": "https://image.anitabi.cn/points/268070/39rws351.jpg?plan=h160",
+      "ep": 2,
+      "s": 24,
+      "geo": [
+        35.5804,
+        139.6614
+      ]
+    },
+    {
+      "id": "39rws3gh",
+      "name": "東急電鉄 渋谷駅出口",
+      "image": "https://image.anitabi.cn/points/268070/39rws3gh.jpg?plan=h160",
+      "ep": 3,
+      "s": 665,
+      "geo": [
+        35.6593,
+        139.7018
+      ]
+    },
+    {
+      "id": "39rws35o",
+      "name": "渋谷モヤイ像",
+      "image": "https://image.anitabi.cn/points/268070/39rws35o.jpg?plan=h160",
+      "ep": 3,
+      "s": 710,
+      "geo": [
+        35.6584,
+        139.7008
+      ]
+    }
+  ],
+  "pointsLength": 21,
+  "imagesLength": 20,
+  "local_id": 637
+}

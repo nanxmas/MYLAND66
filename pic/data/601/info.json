@@ -1,0 +1,113 @@
+{
+  "id": 240562,
+  "cn": "来自多彩世界的明天",
+  "title": "色づく世界の明日から",
+  "city": "长崎市",
+  "cover": "https://image.xinu.ink/pic/data/601/images/240562.jpg",
+  "color": "#8666b9",
+  "cp": "色づく世界の明日から",
+  "geo": [
+    32.73925422725013,
+    129.87934971095376
+  ],
+  "zoom": 13.356,
+  "modified": 1738333571337,
+  "litePoints": [
+    {
+      "id": "sfam6r2wf",
+      "cn": "魔法屋入口的石阶",
+      "name": "まほう屋入口の石段",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/240562/points/sfam6r2wf-1738332933274.jpg?plan=h160",
+      "ep": 11,
+      "s": 303,
+      "geo": [
+        32.7322,
+        129.8707
+      ]
+    },
+    {
+      "id": "51i51rirz",
+      "name": "祈念坂（キービジュアルのカット）",
+      "image": "https://image.anitabi.cn/points/240562/51i51rirz_1672369270443.jpg?plan=h160",
+      "geo": [
+        32.7334,
+        129.8704
+      ]
+    },
+    {
+      "id": "51i51ri2e",
+      "name": "第2弾キービジュアル（眼鏡橋）",
+      "image": "https://image.anitabi.cn/points/240562/51i51ri2e_1672369274686.jpg?plan=h160",
+      "geo": [
+        32.7471,
+        129.88
+      ]
+    },
+    {
+      "id": "51i51rigz",
+      "name": "大浦展望公園からの眺望",
+      "image": "https://image.anitabi.cn/points/240562/51i51rigz_1672369275794.jpg?plan=h160",
+      "geo": [
+        32.7334,
+        129.8706
+      ]
+    },
+    {
+      "id": "51i51rjar",
+      "name": "大浦展望公園",
+      "image": "https://image.anitabi.cn/points/240562/51i51rjar_1672369276931.jpg?plan=h160",
+      "geo": [
+        32.7334,
+        129.8706
+      ]
+    },
+    {
+      "id": "51i51rj7y",
+      "name": "グラバースカイロードからの眺望",
+      "image": "https://image.anitabi.cn/points/240562/51i51rj7y_1672369278044.jpg?plan=h160",
+      "geo": [
+        32.7327,
+        129.8702
+      ]
+    },
+    {
+      "id": "51i51rjjh",
+      "name": "出雲近隣公園",
+      "image": "https://image.anitabi.cn/points/240562/51i51rjjh_1672369279490.jpg?plan=h160",
+      "geo": [
+        32.7291,
+        129.874
+      ]
+    },
+    {
+      "id": "51i51rjah",
+      "name": "出雲近隣公園（ステージ）",
+      "image": "https://image.anitabi.cn/points/240562/51i51rjah_1672369281561.jpg?plan=h160",
+      "geo": [
+        32.729,
+        129.8743
+      ]
+    },
+    {
+      "id": "51i51rj40",
+      "name": "公園のステージ遠景撮影ポイント",
+      "image": "https://image.anitabi.cn/points/240562/51i51rj40_1672369282852.jpg?plan=h160",
+      "geo": [
+        32.7282,
+        129.8751
+      ]
+    },
+    {
+      "id": "51i51rj45",
+      "name": "東山公園",
+      "image": "https://image.anitabi.cn/points/240562/51i51rj45_1672369285054.jpg?plan=h160",
+      "geo": [
+        32.7344,
+        129.8754
+      ]
+    }
+  ],
+  "pointsLength": 123,
+  "imagesLength": 122,
+  "local_id": 601
+}

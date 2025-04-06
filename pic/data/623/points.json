@@ -1,0 +1,46 @@
+[
+  {
+    "id": "lx718qg4u",
+    "name": "京王･小田急多摩センター駅 南口",
+    "image": "https://image.xinu.ink/pic/data/623/images/lx718qg4u_1719987878907.jpg",
+    "geo": [
+      35.624,
+      139.4249
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lx72z5b5q",
+    "name": "多摩センター中央第１",
+    "image": "https://image.xinu.ink/pic/data/623/images/lx72z5b5q_1719987982523.jpg",
+    "geo": [
+      35.6217,
+      139.4238
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lx77pejed",
+    "name": "飛龍五番館ビル",
+    "image": "https://image.xinu.ink/pic/data/623/images/lx77pejed_1719988268328.jpg",
+    "geo": [
+      35.6999,
+      139.7261
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p4zhzxndh",
+    "name": "新宿区立加賀公園",
+    "image": "https://image.xinu.ink/pic/data/623/images/p4zhzxndh_1729061746877.jpg",
+    "geo": [
+      35.6963,
+      139.7277
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

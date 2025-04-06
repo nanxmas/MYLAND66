@@ -1,0 +1,130 @@
+{
+  "id": 248665,
+  "cn": "星合之空",
+  "title": "星合の空 -ほしあいのそら-",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/613/images/248665.jpg",
+  "color": "#8eb8c6",
+  "cp": "星合の空",
+  "geo": [
+    35.626871527899326,
+    139.69363952413732
+  ],
+  "zoom": 10.072,
+  "modified": 1726751610771,
+  "litePoints": [
+    {
+      "id": "5c3u3gpf2",
+      "name": "六郷水門正面 #01",
+      "image": "https://image.anitabi.cn/points/248665/5c3u3gpf2_1673197512059.jpg?plan=h160",
+      "ep": 1,
+      "s": 1027,
+      "geo": [
+        35.5442,
+        139.7232
+      ]
+    },
+    {
+      "id": "5c3u3gpji",
+      "name": "六郷水門前 #01",
+      "image": "https://image.anitabi.cn/points/248665/5c3u3gpji_1673197513927.jpg?plan=h160",
+      "ep": 1,
+      "s": 817,
+      "geo": [
+        35.5442,
+        139.7231
+      ]
+    },
+    {
+      "id": "5c3u3gq40",
+      "name": "六郷水門南 #01…",
+      "image": "https://image.anitabi.cn/points/248665/5c3u3gq40_1673197515477.jpg?plan=h160",
+      "ep": 3,
+      "s": 894,
+      "geo": [
+        35.5439,
+        139.7236
+      ]
+    },
+    {
+      "id": "5c3u3gpkn",
+      "name": "六郷水門付近 #01,02",
+      "image": "https://image.anitabi.cn/points/248665/5c3u3gpkn_1673197516292.jpg?plan=h160",
+      "ep": 1,
+      "s": 501,
+      "geo": [
+        35.5446,
+        139.7245
+      ]
+    },
+    {
+      "id": "5c3u3gpth",
+      "name": "六郷水門北 #04",
+      "image": "https://image.anitabi.cn/points/248665/5c3u3gpth_1673197518384.jpg?plan=h160",
+      "ep": 4,
+      "s": 1261,
+      "geo": [
+        35.5447,
+        139.7231
+      ]
+    },
+    {
+      "id": "5c3u3gqeg",
+      "name": "六郷水門付近 #09",
+      "image": "https://image.anitabi.cn/points/248665/5c3u3gqeg_1673197519082.jpg?plan=h160",
+      "ep": 9,
+      "s": 847,
+      "geo": [
+        35.5445,
+        139.7243
+      ]
+    },
+    {
+      "id": "5c3u3gqdj",
+      "name": "六郷水門東側 #01,08",
+      "image": "https://image.anitabi.cn/points/248665/5c3u3gqdj_1673197519828.jpg?plan=h160",
+      "ep": 1,
+      "s": 825,
+      "geo": [
+        35.5442,
+        139.7234
+      ]
+    },
+    {
+      "id": "5c3u3gqkm",
+      "name": "六郷水門西側 #04",
+      "image": "https://image.anitabi.cn/points/248665/5c3u3gqkm_1673197520628.jpg?plan=h160",
+      "ep": 4,
+      "s": 1205,
+      "geo": [
+        35.544,
+        139.7231
+      ]
+    },
+    {
+      "id": "5c3u3gql9",
+      "name": "六郷水門西側 #08",
+      "image": "https://image.anitabi.cn/points/248665/5c3u3gql9_1673197522678.jpg?plan=h160",
+      "ep": 8,
+      "s": 1288,
+      "geo": [
+        35.5441,
+        139.7232
+      ]
+    },
+    {
+      "id": "5c3u3gquw",
+      "name": "砧南中学校 ED",
+      "image": "https://image.anitabi.cn/points/248665/5c3u3gquw_1673197524996.jpg?plan=h160",
+      "ep": 11,
+      "s": 1376,
+      "geo": [
+        35.6213,
+        139.613
+      ]
+    }
+  ],
+  "pointsLength": 36,
+  "imagesLength": 36,
+  "local_id": 613
+}

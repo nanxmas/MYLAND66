@@ -1,0 +1,55 @@
+{
+  "id": 255209,
+  "cn": "二十世纪电气目录",
+  "title": "二十世紀電氣目録",
+  "city": "京都市",
+  "cover": "https://image.xinu.ink/pic/data/620/images/255209.jpg",
+  "color": "#00bfff",
+  "geo": [
+    34.985667619209366,
+    135.76394358920743
+  ],
+  "zoom": 13.066,
+  "modified": 1727512271260,
+  "litePoints": [
+    {
+      "id": "4w4bf6a8x",
+      "name": "京極町",
+      "image": "https://image.anitabi.cn/points/255209/4w4bf6a8x.jpg?plan=h160",
+      "geo": [
+        34.9995,
+        135.7669
+      ]
+    },
+    {
+      "id": "4w4cng9u4",
+      "name": "四条大橋",
+      "image": "https://image.anitabi.cn/points/255209/4w4cng9u4.jpg?plan=h160",
+      "geo": [
+        35.0037,
+        135.7718
+      ]
+    },
+    {
+      "id": "4w4dh0z0l",
+      "name": "京都站",
+      "image": "https://image.anitabi.cn/points/255209/4w4dh0z0l.jpg?plan=h160",
+      "geo": [
+        34.9854,
+        135.758
+      ]
+    },
+    {
+      "id": "4w4f1fbyd",
+      "name": "稲荷大社",
+      "image": "https://image.anitabi.cn/points/255209/4w4f1fbyd.jpg?plan=h160",
+      "geo": [
+        34.9684,
+        135.7684
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "local_id": 620
+}

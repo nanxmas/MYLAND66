@@ -1,0 +1,88 @@
+[
+  {
+    "id": "kr71ouj3b",
+    "cn": "一开始下巴士的地方",
+    "name": "最初バスから降りた場所",
+    "image": "https://image.xinu.ink/pic/data/655/images/kr71ouj3b-1716696662824.jpg",
+    "ep": "1",
+    "s": "6",
+    "geo": [
+      34.9705,
+      138.7774
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m5ce5tmx7",
+    "name": "戸田港",
+    "image": "https://image.xinu.ink/pic/data/655/images/m5ce5tmx7-1720626502549.jpg",
+    "ep": "3",
+    "geo": [
+      34.9737,
+      138.7768
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m5cl7jm4z",
+    "name": "海山スーパー（海竹山竹ストア）",
+    "image": "https://image.xinu.ink/pic/data/655/images/m5cl7jm4z-1720626882839.jpg",
+    "ep": null,
+    "geo": [
+      34.9703,
+      138.7773
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m5coqzsi2",
+    "name": "日坂小学校（沼津市立戸田小学校）",
+    "image": "https://image.xinu.ink/pic/data/655/images/m5coqzsi2-1720627099528.jpg",
+    "ep": null,
+    "geo": [
+      34.9728,
+      138.7791
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m5crxqef9",
+    "name": "海風（喫茶セピア）",
+    "image": "https://image.xinu.ink/pic/data/655/images/m5crxqef9-1720627287675.jpg",
+    "ep": null,
+    "geo": [
+      34.9694,
+      138.7755
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m5cqi3qy0",
+    "name": "漁協直売所",
+    "image": "https://image.xinu.ink/pic/data/655/images/m5cqi3qy0-1720627201101.jpg",
+    "ep": null,
+    "geo": [
+      34.9698,
+      138.7765
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m5ctpr1l5",
+    "name": "網元直営店（網元光徳丸 食事処 かにや へだ本店）",
+    "image": "https://image.xinu.ink/pic/data/655/images/m5ctpr1l5-1720627394969.jpg",
+    "ep": null,
+    "geo": [
+      34.972,
+      138.7776
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  }
+]
