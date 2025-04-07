@@ -1369,8 +1369,15 @@ async function handleSearch() {
     // 2. 搜索地理位置
     const locationResults = await searchLocation(searchText);
 
-    // 3. 渲染搜索结果
-    renderSearchResults(animeResults, locationResults);
+    // 3. 合并搜索结果
+    const combinedResults = {
+      animes: animeResults.animes || [],
+      points: animeResults.points || [],
+      locations: locationResults || []
+    };
+
+    // 4. 渲染搜索结果
+    renderSearchResults(combinedResults);
   } catch (error) {
     console.error('搜索出错:', error);
     animeList.innerHTML = '<div class="no-results">搜索出错，请重试</div>';
@@ -1411,14 +1418,31 @@ async function searchAnimeAndPoints(searchText) {
   // 搜索地图地点
   let locationResults = [];
   try {
-    const geocoder = L.Control.Geocoder.nominatim();
-    const searchPromise = new Promise((resolve) => {
-      geocoder.geocode(searchText, (results) => {
-        resolve(results);
-      });
-    });
+    // 使用国内可访问的反向代理服务
+    const nominatimUrl = 'https://nominatim.openstreetmap.org';
+    const proxyUrl = 'https://api.allorigins.win/raw?url=';
+    const searchUrl = `${proxyUrl}${encodeURIComponent(`${nominatimUrl}/search?format=json&q=${encodeURIComponent(searchText)}`)}`;    
     
-    locationResults = await searchPromise;
+    const response = await fetch(searchUrl);
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    
+    const results = await response.json();
+    locationResults = results.map(result => ({
+      center: { lat: parseFloat(result.lat), lng: parseFloat(result.lon) },
+      name: result.display_name,
+      properties: {
+        ...result.address,
+        type: result.type,
+        class: result.class
+      },
+      bbox: result.boundingbox ? [
+        [parseFloat(result.boundingbox[0]), parseFloat(result.boundingbox[2])],
+        [parseFloat(result.boundingbox[1]), parseFloat(result.boundingbox[3])]
+      ] : undefined
+    }));
+    
     // 限制只显示前8个结果
     locationResults = locationResults.slice(0, 8);
   } catch (error) {
@@ -1434,17 +1458,46 @@ async function searchAnimeAndPoints(searchText) {
 
 // 搜索地理位置
 async function searchLocation(searchText) {
-  return new Promise((resolve, reject) => {
-    geocoder.geocode(searchText, (results) => {
-      resolve(results);
-    });
-  });
+  try {
+    const nominatimUrl = 'https://nominatim.openstreetmap.org';
+    const proxyUrl = 'https://api.allorigins.win/raw?url=';
+    const searchUrl = `${proxyUrl}${encodeURIComponent(`${nominatimUrl}/search?format=json&q=${encodeURIComponent(searchText)}`)}`;    
+    
+    const response = await fetch(searchUrl);
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    
+    const results = await response.json();
+    return results.map(result => ({
+      center: { lat: parseFloat(result.lat), lng: parseFloat(result.lon) },
+      name: result.display_name,
+      properties: {
+        ...result.address,
+        type: result.type,
+        class: result.class
+      },
+      bbox: result.boundingbox ? [
+        [parseFloat(result.boundingbox[0]), parseFloat(result.boundingbox[2])],
+        [parseFloat(result.boundingbox[1]), parseFloat(result.boundingbox[3])]
+      ] : undefined
+    }));
+  } catch (error) {
+    console.error('地图搜索出错:', error);
+    return [];
+  }
 }
 
 // 渲染搜索结果
 function renderSearchResults(searchResults) {
   // 清空现有列表
   animeList.innerHTML = '';
+
+  // 如果没有任何搜索结果
+  if (searchResults.animes.length === 0 && searchResults.points.length === 0 && (!searchResults.locations || searchResults.locations.length === 0)) {
+    animeList.innerHTML = '<div class="no-results">没有找到匹配的结果</div>';
+    return;
+  }
 
   // 1. 渲染番剧结果
   if (searchResults.animes.length > 0) {
@@ -1457,6 +1510,18 @@ function renderSearchResults(searchResults) {
       animeSection.appendChild(animeItem);
     });
 
+    animeList.appendChild(animeSection);
+  } else if (searchResults.animes === undefined) {
+    // 如果番剧搜索失败，显示错误信息
+    const animeSection = document.createElement('div');
+    animeSection.className = 'search-section';
+    animeSection.innerHTML = '<h6 class="search-category">番剧</h6>';
+    
+    const noResults = document.createElement('div');
+    noResults.className = 'no-results';
+    noResults.textContent = '番剧搜索失败，请重试';
+    animeSection.appendChild(noResults);
+    
     animeList.appendChild(animeSection);
   }
 
@@ -1472,39 +1537,75 @@ function renderSearchResults(searchResults) {
     });
 
     animeList.appendChild(pointsSection);
+  } else if (searchResults.points === undefined) {
+    // 如果巡礼点搜索失败，显示错误信息
+    const pointsSection = document.createElement('div');
+    pointsSection.className = 'search-section';
+    pointsSection.innerHTML = '<h6 class="search-category">巡礼地点</h6>';
+    
+    const noResults = document.createElement('div');
+    noResults.className = 'no-results';
+    noResults.textContent = '巡礼点搜索失败，请重试';
+    pointsSection.appendChild(noResults);
+    
+    animeList.appendChild(pointsSection);
   }
 
-  // 3. 渲染地图地点结果
+  // 3. 渲染地图位置搜索结果
   if (searchResults.locations && searchResults.locations.length > 0) {
     const locationSection = document.createElement('div');
     locationSection.className = 'search-section';
-    locationSection.innerHTML = '<h6 class="search-category">地图地点</h6>';
+    locationSection.innerHTML = '<h6 class="search-category">地图位置</h6>';
 
     searchResults.locations.forEach(location => {
       const locationItem = document.createElement('div');
       locationItem.className = 'location-item';
+      
+      // 提取地址信息
+      const address = location.properties;
+      const mainName = address.amenity || address.building || address.road || '';
+      const subName = [
+        address.city || address.town || address.village,
+        address.province || address.state,
+        address.country
+      ].filter(Boolean).join(', ');
+
       locationItem.innerHTML = `
         <div class="location-info">
-          <p class="location-name">${location.name}</p>
-          <p class="location-address">${location.center.lat.toFixed(6)}, ${location.center.lng.toFixed(6)}</p>
+          <p class="location-name">${mainName || location.name}</p>
+          <p class="location-address">${subName || location.name}</p>
         </div>
       `;
-      
+
       locationItem.addEventListener('click', () => {
-        // 点击时将地图移动到该位置
-        map.setView([location.center.lat, location.center.lng], 16);
+        // 移动地图到该位置
+        if (location.bbox) {
+          map.fitBounds(location.bbox);
+        } else {
+          map.setView([location.center.lat, location.center.lng], 16);
+        }
       });
 
       locationSection.appendChild(locationItem);
     });
 
     animeList.appendChild(locationSection);
+  } else if (searchResults.locations === undefined) {
+    // 如果地图位置搜索失败，显示错误信息
+    const locationSection = document.createElement('div');
+    locationSection.className = 'search-section';
+    locationSection.innerHTML = '<h6 class="search-category">地图位置</h6>';
+    
+    const noResults = document.createElement('div');
+    noResults.className = 'no-results';
+    noResults.textContent = '地图位置搜索失败，请重试';
+    locationSection.appendChild(noResults);
+    
+    animeList.appendChild(locationSection);
   }
 
   // 如果没有任何结果，显示提示信息
-  if (searchResults.animes.length === 0 && 
-      searchResults.points.length === 0 && 
-      (!searchResults.locations || searchResults.locations.length === 0)) {
+  if (animeList.children.length === 0) {
     const noResults = document.createElement('div');
     noResults.className = 'no-results';
     noResults.textContent = '没有找到匹配的结果';
@@ -1544,11 +1645,45 @@ function createLocationListItem(result) {
 }
 
 // 创建巡礼点列表项
+// 创建番剧列表项
+function createAnimeListItem(id, anime) {
+  const animeItem = document.createElement('div');
+  animeItem.className = 'anime-item';
+  animeItem.dataset.id = id;
+  
+  // 如果是当前选中的番剧，添加active类
+  if (currentAnime === id) {
+    animeItem.classList.add('active');
+  }
+  
+  let pointsCount = 0;
+  if (anime.points && Array.isArray(anime.points)) {
+    pointsCount = anime.points.length;
+  } else if (anime.inform) {
+    pointsCount = '待加载';
+  }
+  
+  animeItem.innerHTML = `
+    <img class="anime-cover" src="loading.svg" data-src="${anime.cover || 'loading.svg'}" alt="${anime.name || anime.name_cn}">
+    <div class="anime-info">
+      <p class="anime-name">${anime.name_cn || anime.name}</p>
+      <p class="anime-points">${pointsCount} ${typeof pointsCount === 'number' ? '个地点' : ''}</p>
+    </div>
+  `;
+  
+  animeItem.addEventListener('click', () => {
+    selectAnime(id);
+  });
+  
+  return animeItem;
+}
+
 function createPointListItem(point, animeId, anime) {
   const item = document.createElement('div');
   item.className = 'point-item';
   
   item.innerHTML = `
+    <img class="point-cover" src="loading.svg" data-src="${point.image || 'loading.svg'}" alt="${point.cn || point.name}">
     <div class="point-info">
       <p class="point-name">${point.cn || point.name}</p>
       <p class="anime-title">${anime.name_cn || anime.name}</p>
@@ -1561,6 +1696,13 @@ function createPointListItem(point, animeId, anime) {
       showPointInfo(point, anime, animeId);
     }
   });
+  
+  // 加载图片
+  const img = item.querySelector('.point-cover');
+  if (img && img.dataset.src) {
+    img.src = img.dataset.src;
+    img.removeAttribute('data-src');
+  }
 
   return item;
 }
