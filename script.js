@@ -13,6 +13,109 @@ let imageLoadQueue = []; // 图片加载队列
 let isMapMoving = false; // 地图是否正在移动中
 let debounceTimer = null; // 用于防抖的定时器
 let imageCleanupTimer = null; // 图片清理定时器
+let currentMapSource = 'osm'; // 当前地图源
+
+// 地图源配置
+const mapSources = {
+  'osm': {
+    name: 'OpenStreetMap',
+    url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+    options: {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }
+  },
+  'osmCN': {
+    name: 'OSM中国镜像',
+    url: 'https://tile.openstreetmap.cn/data/1.0.0/base/{z}/{x}/{y}.png',
+    options: {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }
+  },
+  'osmHOT': {
+    name: 'OSM人道救援图',
+    url: 'https://tile-a.openstreetmap.fr/hot/{z}/{x}/{y}.png',
+    options: {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }
+  },
+  'osmWinter': {
+    name: 'OSM冬日地图',
+    url: 'https://w3.outdooractive.com/map/v1/png/osm_winter/{z}/{x}/{y}/t.png?project=api-dev-oa',
+    options: {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }
+  },
+  'geoqGray': {
+    name: '灰色地图',
+    url: 'https://thematic.geoq.cn/arcgis/rest/services/ChinaOnlineStreetGray/MapServer/tile/{z}/{y}/{x}',
+    options: {
+      attribution: '&copy; <a href="https://www.geoq.cn/">GeoQ</a>'
+    }
+  },
+  'arcgisOcean': {
+    name: '海洋渲染图',
+    url: 'https://server.arcgisonline.com/ArcGIS/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}',
+    options: {
+      attribution: '&copy; <a href="https://www.arcgis.com/">ArcGIS</a>'
+    }
+  },
+  'arcgisWorld': {
+    name: 'ArcGIS卫星图',
+    url: 'https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+    options: {
+      attribution: '&copy; <a href="https://www.arcgis.com/">ArcGIS</a>'
+    }
+  },
+  'arcgisStreet': {
+    name: 'ArcGIS街道',
+    url: 'https://server.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}',
+    options: {
+      attribution: '&copy; <a href="https://www.arcgis.com/">ArcGIS</a>'
+    }
+  },
+  'hereSatellite': {
+    name: 'Here卫星地图',
+    url: 'https://maps.hereapi.com/v3/base/mc/{z}/{x}/{y}/jpeg?apiKey=ULcxipCuamEAS6NsNntuAMM84LddvMOlXH0BsE2RfaU&lang=en&style=satellite.day&size=512',
+    options: {
+      attribution: '&copy; <a href="https://www.here.com/">HERE</a>'
+    }
+  },
+  'googleCN': {
+    name: '谷歌CN卫星',
+    url: 'https://gac-geo.googlecnapps.cn/maps/vt?lyrs=s&gl=US&x={x}&y={y}&z={z}',
+    options: {
+      attribution: '&copy; <a href="https://www.google.cn/maps/">Google</a>'
+    }
+  },
+  'googleStreet': {
+    name: '谷歌街道地图',
+    url: 'https://wayback.maptiles.arcgis.com/arcgis/rest/services/world_imagery/wmts/1.0.0/default028mm/mapserver/tile/45441/{z}/{y}/{x}',
+    options: {
+      attribution: '&copy; <a href="https://www.google.com/maps/">Google</a>'
+    }
+  },
+  'mapbox': {
+    name: 'Mapbox Streets',
+    url: 'https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw',
+    options: {
+      attribution: '&copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a>'
+    }
+  },
+  'mapboxSatellite': {
+    name: 'Mapbox卫星',
+    url: 'https://api.mapbox.com/styles/v1/mapbox/satellite-v9/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw',
+    options: {
+      attribution: '&copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a>'
+    }
+  },
+  'gaode': {
+    name: '高德地图',
+    url: 'https://webrd01.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}',
+    options: {
+      attribution: '&copy; <a href="https://www.amap.com/">高德地图</a>'
+    }
+  }
+};
 
 // 番剧列表分页相关变量
 let currentPage = 1; // 当前页码
@@ -71,10 +174,100 @@ function initMap() {
   // 创建地图，初始中心设在日本
   map = L.map('map').setView([35.6762, 139.6503], 6);
   
-  // 添加地图图层
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-  }).addTo(map);
+  // 添加地图图层，使用当前选择的地图源
+  const source = mapSources[currentMapSource];
+  L.tileLayer(source.url, source.options).addTo(map);
+  
+  // 添加地图源选择控件
+  addMapSourceControl();
+  
+  // 地图源切换函数
+  function changeMapSource(sourceName) {
+    if (!mapSources[sourceName]) return;
+    
+    // 移除当前地图图层
+    map.eachLayer(layer => {
+      if (layer instanceof L.TileLayer) {
+        map.removeLayer(layer);
+      }
+    });
+    
+    // 添加新的地图图层
+    const source = mapSources[sourceName];
+    L.tileLayer(source.url, source.options).addTo(map);
+    
+    // 更新当前地图源
+    currentMapSource = sourceName;
+    
+    // 更新控件状态
+    updateMapSourceControl();
+  }
+  
+  // 添加地图源选择控件
+  function addMapSourceControl() {
+    const mapSourceControl = L.control({ position: 'topright' });
+    
+    mapSourceControl.onAdd = function() {
+      const container = L.DomUtil.create('div', 'map-source-control leaflet-bar leaflet-control');
+      container.id = 'map-source-control';
+      
+      const button = L.DomUtil.create('a', 'map-source-button', container);
+      button.href = '#';
+      button.title = '切换地图源';
+      button.innerHTML = '<i class="bi bi-layers"></i>';
+      
+      const dropdown = L.DomUtil.create('div', 'map-source-dropdown', container);
+      
+      // 添加所有地图源选项
+      Object.entries(mapSources).forEach(([key, source]) => {
+        const option = L.DomUtil.create('a', 'map-source-option', dropdown);
+        option.href = '#';
+        option.dataset.source = key;
+        option.textContent = source.name;
+        
+        if (key === currentMapSource) {
+          option.classList.add('active');
+        }
+        
+        L.DomEvent.on(option, 'click', function(e) {
+          L.DomEvent.preventDefault(e);
+          changeMapSource(key);
+        });
+      });
+      
+      // 切换下拉菜单显示/隐藏
+      L.DomEvent.on(button, 'click', function(e) {
+        L.DomEvent.preventDefault(e);
+        L.DomEvent.stopPropagation(e);
+        dropdown.classList.toggle('show');
+      });
+      
+      // 点击地图其他区域时隐藏下拉菜单
+      L.DomEvent.on(document, 'click', function() {
+        dropdown.classList.remove('show');
+      });
+      
+      L.DomEvent.disableClickPropagation(container);
+      return container;
+    };
+    
+    mapSourceControl.addTo(map);
+  }
+  
+  // 更新地图源控件状态
+  function updateMapSourceControl() {
+    const dropdown = document.querySelector('.map-source-dropdown');
+    if (!dropdown) return;
+    
+    const options = dropdown.querySelectorAll('.map-source-option');
+    options.forEach(option => {
+      if (option.dataset.source === currentMapSource) {
+        option.classList.add('active');
+      } else {
+        option.classList.remove('active');
+      }
+    });
+  }
   
   // 添加地图移动和缩放事件监听
   map.on('movestart', () => {
@@ -639,6 +832,17 @@ function bindEvents() {
     if (e.key === 'Enter') {
       const searchText = searchInput.value.trim();
       renderAnimeList(searchText, true); // 重置列表并搜索
+    }
+  });
+  
+  // 地图源切换事件 - 为移动设备添加点击事件处理
+  document.addEventListener('click', (e) => {
+    const mapSourceControl = document.getElementById('map-source-control');
+    if (mapSourceControl && !mapSourceControl.contains(e.target)) {
+      const dropdown = document.querySelector('.map-source-dropdown');
+      if (dropdown) {
+        dropdown.classList.remove('show');
+      }
     }
   });
   
