@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>圣地巡礼对比图生成器</title>
+  <link rel="stylesheet" href="https://unpkg.com/mdui@1.0.2/dist/css/mdui.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=ZCOOL+KuaiLe&family=ZCOOL+QingKe+HuangYou&family=ZCOOL+XiaoWei&family=Zhi+Mang+Xing&display=swap">
+  <style>
+    :root {
+      --theme-color: #ffd6e7;
+      --theme-color-light: #fff0f5;
+      --theme-color-dark: #ffb6c1;
+    }
+    body {
+      background-color: var(--theme-color-light);
+      font-family: 'Noto Sans SC', sans-serif;
+    }
+    .mdui-theme-primary-pink .mdui-color-theme {
+      background-color: var(--theme-color) !important;
+    }
+    .preview-container {
+      position: relative;
+      width: 100%;
+      max-width: 800px;
+      margin: 20px auto;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      overflow: hidden;
+    }
+    #previewCanvas {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    .control-panel {
+      padding: 16px;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+      margin-bottom: 16px;
+    }
+    .mdui-slider-wrapper {
+      margin: 16px 0;
+    }
+    .loading-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(255,255,255,0.9);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+    }
+    .layout-options {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+    .layout-option {
+      border: 2px solid #ddd;
+      border-radius: 4px;
+      padding: 8px;
+      cursor: pointer;
+      transition: all 0.2s;
+      text-align: center;
+    }
+    .layout-option.active {
+      border-color: var(--theme-color-dark);
+      background-color: var(--theme-color-light);
+    }
+    .layout-option i {
+      font-size: 24px;
+      display: block;
+      margin-bottom: 4px;
+    }
+    .color-picker {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+    .color-preview {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      border: 1px solid #ddd;
+    }
+    .font-selector {
+      margin-bottom: 16px;
+    }
+    .font-option {
+      margin-right: 10px;
+      cursor: pointer;
+    }
+    .font-preview {
+      padding: 5px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      margin-top: 5px;
+      font-size: 16px;
+    }
+    .mdui-card {
+      margin-bottom: 16px;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .mdui-card-header {
+      padding: 16px;
+      background-color: var(--theme-color-light);
+    }
+    .mdui-card-content {
+      padding: 16px;
+    }
+    .mdui-btn {
+      border-radius: 4px;
+    }
+    .image-controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .image-control-group {
+      flex: 1;
+      min-width: 200px;
+    }
+  </style>
+</head>
+<body class="mdui-theme-primary-pink mdui-theme-accent-pink">
+  <div class="mdui-appbar">
+    <div class="mdui-toolbar mdui-color-theme">
+      <span class="mdui-typo-title">圣地巡礼对比图生成器</span>
+      <div class="mdui-toolbar-spacer"></div>
+      <a href="index.html" class="mdui-btn mdui-btn-icon" mdui-tooltip="{content: '返回地图'}">
+        <i class="mdui-icon material-icons">map</i>
+      </a>
+    </div>
+  </div>
+
+  <div class="mdui-container mdui-p-t-4">
+    <div class="mdui-row">
+      <div class="mdui-col-sm-12">
+        <div class="mdui-card">
+          <div class="mdui-card-header">
+            <div class="mdui-card-header-title">作品信息</div>
+          </div>
+          <div class="mdui-card-content">
+            <div class="mdui-textfield">
+              <label class="mdui-textfield-label">作品名（中文）</label>
+              <input class="mdui-textfield-input" type="text" id="titleCn"/>
+            </div>
+            <div class="mdui-textfield">
+              <label class="mdui-textfield-label">作品名</label>
+              <input class="mdui-textfield-input" type="text" id="title"/>
+            </div>
+            <div class="mdui-textfield">
+              <label class="mdui-textfield-label">集数</label>
+              <input class="mdui-textfield-input" type="text" id="episode"/>
+            </div>
+            <div class="mdui-textfield">
+              <label class="mdui-textfield-label">时间</label>
+              <input class="mdui-textfield-input" type="text" id="timestamp"/>
+            </div>
+            <div class="mdui-textfield">
+              <label class="mdui-textfield-label">地名</label>
+              <input class="mdui-textfield-input" type="text" id="location"/>
+            </div>
+            <div class="mdui-textfield">
+              <label class="mdui-textfield-label">经度</label>
+              <input class="mdui-textfield-input" type="text" id="longitude"/>
+            </div>
+            <div class="mdui-textfield">
+              <label class="mdui-textfield-label">纬度</label>
+              <input class="mdui-textfield-input" type="text" id="latitude"/>
+            </div>
+          </div>
+        </div>
+
+        <div class="mdui-card">
+          <div class="mdui-card-header">
+            <div class="mdui-card-header-title">图片设置</div>
+          </div>
+          <div class="mdui-card-content">
+            <div class="mdui-typo-subheading mdui-m-b-2">上传实拍图</div>
+            <input type="file" class="mdui-hidden" id="uploadInput" accept="image/*">
+            <button class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-theme" onclick="document.getElementById('uploadInput').click()">
+              选择图片
+            </button>
+
+            <div class="mdui-divider mdui-m-y-2"></div>
+
+            <div class="mdui-typo-subheading mdui-m-b-2">布局设置</div>
+            <div class="layout-options">
+              <div class="layout-option active" data-layout="side-by-side">
+                <i class="mdui-icon material-icons">view_week</i>
+                <div>左右并排</div>
+              </div>
+              <div class="layout-option" data-layout="stacked">
+                <i class="mdui-icon material-icons">view_agenda</i>
+                <div>上下并排</div>
+              </div>
+              <div class="layout-option" data-layout="custom">
+                <i class="mdui-icon material-icons">dashboard_customize</i>
+                <div>自由布局</div>
+              </div>
+            </div>
+
+            <div class="mdui-divider mdui-m-y-2"></div>
+
+            <div class="mdui-typo-subheading mdui-m-b-2">图片调整</div>
+            <div class="image-controls">
+              <div class="image-control-group">
+                <div class="mdui-typo-caption-opacity">动画图片</div>
+                <div class="control-panel">
+                  <div class="mdui-slider-wrapper">
+                    <label>缩放</label>
+                    <input type="range" class="mdui-slider" min="0.1" max="2" step="0.1" value="1" id="animeScaleSlider">
+                  </div>
+                  <div class="mdui-slider-wrapper">
+                    <label>X位置</label>
+                    <input type="range" class="mdui-slider" min="-100" max="100" value="0" id="animeXSlider">
+                  </div>
+                  <div class="mdui-slider-wrapper">
+                    <label>Y位置</label>
+                    <input type="range" class="mdui-slider" min="-100" max="100" value="0" id="animeYSlider">
+                  </div>
+                </div>
+              </div>
+              
+              <div class="image-control-group">
+                <div class="mdui-typo-caption-opacity">实拍图片</div>
+                <div class="control-panel">
+                  <div class="mdui-slider-wrapper">
+                    <label>缩放</label>
+                    <input type="range" class="mdui-slider" min="0.1" max="2" step="0.1" value="1" id="userScaleSlider">
+                  </div>
+                  <div class="mdui-slider-wrapper">
+                    <label>X位置</label>
+                    <input type="range" class="mdui-slider" min="-100" max="100" value="0" id="userXSlider">
+                  </div>
+                  <div class="mdui-slider-wrapper">
+                    <label>Y位置</label>
+                    <input type="range" class="mdui-slider" min="-100" max="100" value="0" id="userYSlider">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="mdui-card">
+          <div class="mdui-card-header">
+            <div class="mdui-card-header-title">文字设置</div>
+          </div>
+          <div class="mdui-card-content">
+            <div class="mdui-typo-subheading mdui-m-b-2">字体选择</div>
+            <div class="font-selector">
+              <label class="mdui-radio font-option">
+                <input type="radio" name="font" value="Noto Sans SC" checked/>
+                <i class="mdui-radio-icon"></i>
+                默认字体
+              </label>
+              <label class="mdui-radio font-option">
+                <input type="radio" name="font" value="Ma Shan Zheng"/>
+                <i class="mdui-radio-icon"></i>
+                马善政
+              </label>
+              <label class="mdui-radio font-option">
+                <input type="radio" name="font" value="ZCOOL KuaiLe"/>
+                <i class="mdui-radio-icon"></i>
+                站酷快乐
+              </label>
+              <label class="mdui-radio font-option">
+                <input type="radio" name="font" value="ZCOOL QingKe HuangYou"/>
+                <i class="mdui-radio-icon"></i>
+                站酷庆科黄油
+              </label>
+              <label class="mdui-radio font-option">
+                <input type="radio" name="font" value="ZCOOL XiaoWei"/>
+                <i class="mdui-radio-icon"></i>
+                站酷小薇
+              </label>
+              <label class="mdui-radio font-option">
+                <input type="radio" name="font" value="Zhi Mang Xing"/>
+                <i class="mdui-radio-icon"></i>
+                智漫行
+              </label>
+            </div>
+            <div class="font-preview">字体预览：圣地巡礼对比图生成器</div>
+
+            <div class="mdui-divider mdui-m-y-2"></div>
+
+            <div class="mdui-typo-subheading mdui-m-b-2">文字颜色</div>
+            <div class="color-picker">
+              <div class="color-preview" id="textColorPreview" style="background-color: #000000"></div>
+              <input type="color" id="textColorPicker" value="#000000" class="mdui-hidden">
+              <button class="mdui-btn mdui-btn-raised mdui-ripple" onclick="document.getElementById('textColorPicker').click()">
+                选择颜色
+              </button>
+            </div>
+
+            <div class="mdui-divider mdui-m-y-2"></div>
+
+            <div class="mdui-typo-subheading mdui-m-b-2">文字大小</div>
+            <div class="mdui-slider-wrapper">
+              <label>字体大小</label>
+              <input type="range" class="mdui-slider" min="12" max="36" value="24" id="fontSizeSlider">
+              <div class="mdui-typo-caption-opacity">当前大小: <span id="fontSizeValue">24</span>px</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="preview-container">
+          <canvas id="previewCanvas"></canvas>
+        </div>
+
+        <div class="mdui-m-t-2 mdui-m-b-4 mdui-text-center">
+          <button class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-theme" onclick="downloadResult()">
+            <i class="mdui-icon material-icons">file_download</i>
+            合并并下载结果
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="loadingOverlay" class="loading-overlay mdui-hidden">
+    <div class="mdui-spinner"></div>
+    <div class="mdui-typo-body-2 mdui-m-l-2">加载字体中，首次使用耗时较长...</div>
+  </div>
+
+  <script src="https://unpkg.com/mdui@1.0.2/dist/js/mdui.min.js"></script>
+  <script>
+    let $ = mdui.$;
+    let animeImage = null;
+    let userImage = null;
+    let pointsData = null;
+    let currentLayout = 'side-by-side';
+    let selectedFont = 'Noto Sans SC';
+    let textColor = '#000000';
+    let fontSize = 24;
+
+    // 获取URL参数
+    const urlParams = new URLSearchParams(window.location.search);
+    const animeId = urlParams.get('id');
+    const pointsId = urlParams.get('pointsid');
+    const picUrl = urlParams.get('pic');
+
+    // 初始化MDUI组件
+    mdui.mutation();
+
+    // 加载动画图片
+    if (picUrl) {
+      loadAnimeImage(picUrl);
+    }
+
+    // 加载作品信息
+    if (animeId && pointsId) {
+      loadPointsData(animeId, pointsId);
+    }
+
+    // 布局选择
+    document.querySelectorAll('.layout-option').forEach(option => {
+      option.addEventListener('click', function() {
+        document.querySelectorAll('.layout-option').forEach(opt => opt.classList.remove('active'));
+        this.classList.add('active');
+        currentLayout = this.dataset.layout;
+        updatePreview();
+      });
+    });
+
+    // 字体选择
+    document.querySelectorAll('input[name="font"]').forEach(radio => {
+      radio.addEventListener('change', function() {
+        selectedFont = this.value;
+        document.querySelector('.font-preview').style.fontFamily = selectedFont;
+        updatePreview();
+      });
+    });
+
+    // 文字颜色选择
+    document.getElementById('textColorPicker').addEventListener('input', function(e) {
+      textColor = e.target.value;
+      document.getElementById('textColorPreview').style.backgroundColor = textColor;
+      updatePreview();
+    });
+
+    // 字体大小调整
+    document.getElementById('fontSizeSlider').addEventListener('input', function(e) {
+      fontSize = parseInt(e.target.value);
+      document.getElementById('fontSizeValue').textContent = fontSize;
+      updatePreview();
+    });
+
+    async function loadAnimeImage(url) {
+      try {
+        const response = await fetch(url);
+        const blob = await response.blob();
+        const img = new Image();
+        img.src = URL.createObjectURL(blob);
+        img.onload = () => {
+          animeImage = img;
+          updatePreview();
+        };
+      } catch (error) {
+        mdui.snackbar('加载动画图片失败');
+      }
+    }
+
+    async function loadPointsData(animeId, pointsId) {
+      try {
+        // 加载index.json
+        const indexResponse = await fetch('https://image.xinu.ink/index.json');
+        const indexData = await indexResponse.json();
+        const animeData = indexData[animeId];
+
+        if (animeData) {
+          $('#titleCn').val(animeData.name_cn || '');
+          $('#title').val(animeData.name || '');
+
+          // 查找对应的点位信息
+          const point = animeData.points.find(p => p.id === pointsId);
+          if (point) {
+            $('#episode').val(point.ep || '');
+            $('#timestamp').val(point.s || '');
+            $('#location').val(point.name || '');
+            if (point.geo && point.geo.length === 2) {
+              $('#longitude').val(point.geo[1] || '');
+              $('#latitude').val(point.geo[0] || '');
+            }
+          }
+        }
+      } catch (error) {
+        mdui.snackbar('加载点位信息失败');
+      }
+    }
+
+    // 处理用户上传的图片
+    document.getElementById('uploadInput').addEventListener('change', function(e) {
+      const file = e.target.files[0];
+      if (file) {
+        const reader = new FileReader();
+        reader.onload = function(e) {
+          const img = new Image();
+          img.src = e.target.result;
+          img.onload = function() {
+            userImage = img;
+            updatePreview();
+          };
+        };
+        reader.readAsDataURL(file);
+      }
+    });
+
+    // 监听滑块变化
+    ['animeScaleSlider', 'animeXSlider', 'animeYSlider', 'userScaleSlider', 'userXSlider', 'userYSlider'].forEach(id => {
+      document.getElementById(id).addEventListener('input', updatePreview);
+    });
+
+    function updatePreview() {
+      const canvas = document.getElementById('previewCanvas');
+      const ctx = canvas.getContext('2d');
+
+      // 设置画布大小
+      let width = 1200;
+      let height = 800;
+
+      // 根据布局调整画布尺寸
+      if (currentLayout === 'stacked') {
+        // 上下布局时，高度增加
+        height = 1200;
+      }
+
+      canvas.width = width;
+      canvas.height = height;
+
+      // 清空画布
+      ctx.fillStyle = 'white';
+      ctx.fillRect(0, 0, width, height);
+
+      // 获取图片调整参数
+      const animeScale = parseFloat(document.getElementById('animeScaleSlider').value);
+      const animeX = parseInt(document.getElementById('animeXSlider').value);
+      const animeY = parseInt(document.getElementById('animeYSlider').value);
+      const userScale = parseFloat(document.getElementById('userScaleSlider').value);
+      const userX = parseInt(document.getElementById('userXSlider').value);
+      const userY = parseInt(document.getElementById('userYSlider').value);
+
+      // 根据布局绘制图片
+      if (currentLayout === 'side-by-side') {
+        // 左右布局
+        if (animeImage) {
+          // 计算保持宽高比的尺寸
+          const aspectRatio = animeImage.width / animeImage.height;
+          let drawWidth = width / 2;
+          let drawHeight = drawWidth / aspectRatio;
+          
+          if (drawHeight > height) {
+            drawHeight = height;
+            drawWidth = drawHeight * aspectRatio;
+          }
+          
+          const x = (width / 4) - (drawWidth / 2) + animeX;
+          const y = (height / 2) - (drawHeight / 2) + animeY;
+          
+          ctx.save();
+          ctx.translate(x + drawWidth / 2, y + drawHeight / 2);
+          ctx.scale(animeScale, animeScale);
+          ctx.drawImage(animeImage, -drawWidth / 2, -drawHeight / 2, drawWidth, drawHeight);
+          ctx.restore();
+        }
+
+        if (userImage) {
+          // 计算保持宽高比的尺寸
+          const aspectRatio = userImage.width / userImage.height;
+          let drawWidth = width / 2;
+          let drawHeight = drawWidth / aspectRatio;
+          
+          if (drawHeight > height) {
+            drawHeight = height;
+            drawWidth = drawHeight * aspectRatio;
+          }
+          
+          const x = (width * 3 / 4) - (drawWidth / 2) + userX;
+          const y = (height / 2) - (drawHeight / 2) + userY;
+          
+          ctx.save();
+          ctx.translate(x + drawWidth / 2, y + drawHeight / 2);
+          ctx.scale(userScale, userScale);
+          ctx.drawImage(userImage, -drawWidth / 2, -drawHeight / 2, drawWidth, drawHeight);
+          ctx.restore();
+        }
+      } else if (currentLayout === 'stacked') {
+        // 上下布局
+        if (animeImage) {
+          // 计算保持宽高比的尺寸
+          const aspectRatio = animeImage.width / animeImage.height;
+          let drawWidth = width;
+          let drawHeight = drawWidth / aspectRatio;
+          
+          if (drawHeight > height / 2) {
+            drawHeight = height / 2;
+            drawWidth = drawHeight * aspectRatio;
+          }
+          
+          const x = (width / 2) - (drawWidth / 2) + animeX;
+          const y = (height / 4) - (drawHeight / 2) + animeY;
+          
+          ctx.save();
+          ctx.translate(x + drawWidth / 2, y + drawHeight / 2);
+          ctx.scale(animeScale, animeScale);
+          ctx.drawImage(animeImage, -drawWidth / 2, -drawHeight / 2, drawWidth, drawHeight);
+          ctx.restore();
+        }
+
+        if (userImage) {
+          // 计算保持宽高比的尺寸
+          const aspectRatio = userImage.width / userImage.height;
+          let drawWidth = width;
+          let drawHeight = drawWidth / aspectRatio;
+          
+          if (drawHeight > height / 2) {
+            drawHeight = height / 2;
+            drawWidth = drawHeight * aspectRatio;
+          }
+          
+          const x = (width / 2) - (drawWidth / 2) + userX;
+          const y = (height * 3 / 4) - (drawHeight / 2) + userY;
+          
+          ctx.save();
+          ctx.translate(x + drawWidth / 2, y + drawHeight / 2);
+          ctx.scale(userScale, userScale);
+          ctx.drawImage(userImage, -drawWidth / 2, -drawHeight / 2, drawWidth, drawHeight);
+          ctx.restore();
+        }
+      } else if (currentLayout === 'custom') {
+        // 自由布局
+        if (animeImage) {
+          // 计算保持宽高比的尺寸
+          const aspectRatio = animeImage.width / animeImage.height;
+          let drawWidth = width / 2;
+          let drawHeight = drawWidth / aspectRatio;
+          
+          if (drawHeight > height) {
+            drawHeight = height / 2;
+            drawWidth = drawHeight * aspectRatio;
+          }
+          
+          const x = width / 4 + animeX;
+          const y = height / 2 + animeY;
+          
+          ctx.save();
+          ctx.translate(x, y);
+          ctx.scale(animeScale, animeScale);
+          ctx.drawImage(animeImage, -drawWidth / 2, -drawHeight / 2, drawWidth, drawHeight);
+          ctx.restore();
+        }
+
+        if (userImage) {
+          // 计算保持宽高比的尺寸
+          const aspectRatio = userImage.width / userImage.height;
+          let drawWidth = width / 2;
+          let drawHeight = drawWidth / aspectRatio;
+          
+          if (drawHeight > height) {
+            drawHeight = height / 2;
+            drawWidth = drawHeight * aspectRatio;
+          }
+          
+          const x = width * 3 / 4 + userX;
+          const y = height / 2 + userY;
+          
+          ctx.save();
+          ctx.translate(x, y);
+          ctx.scale(userScale, userScale);
+          ctx.drawImage(userImage, -drawWidth / 2, -drawHeight / 2, drawWidth, drawHeight);
+          ctx.restore();
+        }
+      }
+
+      // 绘制文字信息
+      ctx.fillStyle = textColor;
+      ctx.font = `${fontSize}px ${selectedFont}`;
+      
+      const textY = height - 120;
+      ctx.fillText(`${$('#titleCn').val()} / ${$('#title').val()}`, 20, textY);
+      ctx.fillText(`EP${$('#episode').val()} ${$('#timestamp').val()}s`, 20, textY + 30);
+      ctx.fillText(`${$('#location').val()}`, 20, textY + 60);
+      ctx.fillText(`${$('#latitude').val()}, ${$('#longitude').val()}`, 20, textY + 90);
+    }
+
+    function downloadResult() {
+      const canvas = document.getElementById('previewCanvas');
+      const link = document.createElement('a');
+      link.download = 'comparison.png';
+      link.href = canvas.toDataURL('image/png');
+      link.click();
+    }
+
+    // 初始化字体预览
+    document.querySelector('.font-preview').style.fontFamily = selectedFont;
+  </script>
+</body>
+</html>
