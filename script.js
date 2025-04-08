@@ -14,6 +14,9 @@ let isMapMoving = false; // 地图是否正在移动中
 let debounceTimer = null; // 用于防抖的定时器
 let imageCleanupTimer = null; // 图片清理定时器
 let currentMapSource = 'osm'; // 当前地图源
+let guides = []; // 用户创建的指南列表
+let guidePaths = []; // 指南路径线图层
+let animeExpandActivated = false; // 番剧列表是否已激活展开加载功能
 
 // 地图源配置
 const mapSources = {
@@ -148,8 +151,14 @@ async function init() {
     // 加载番剧数据
     await loadAnimeData();
     
+    // 加载用户指南数据
+    loadGuides();
+    
     // 渲染番剧列表
     renderAnimeList();
+    
+    // 渲染指南列表
+    renderGuideList();
     
     // 添加所有标记点（现在是异步的）
     await addAllMarkers();
@@ -159,6 +168,12 @@ async function init() {
     
     // 启动图片生命周期管理
     startImageLifecycleManagement();
+    
+    // 初始化L2D站娘
+    initL2D();
+    
+    // 从URL解析参数
+    parseUrlParams();
     
     console.log('初始化完成，已启用懒加载模式');
   } catch (error) {
@@ -352,7 +367,24 @@ function renderAnimeList(filter = '', resetList = true) {
     animeList.innerHTML = '';
     currentPage = 1;
     hasMoreAnimes = true;
+    
+    // 创建两个独立的容器，一个用于番剧，一个用于地点
+    const animeContainer = document.createElement('div');
+    animeContainer.id = 'anime-container';
+    animeContainer.className = 'anime-section';
+    
+    const pointContainer = document.createElement('div');
+    pointContainer.id = 'point-container';
+    pointContainer.className = 'point-section';
+    
+    // 添加到主列表中
+    animeList.appendChild(animeContainer);
+    animeList.appendChild(pointContainer);
   }
+  
+  // 获取容器引用
+  const animeContainer = document.getElementById('anime-container');
+  const pointContainer = document.getElementById('point-container');
   
   // 如果正在加载或没有更多数据，则直接返回
   if (isLoading || !hasMoreAnimes) return;
@@ -367,8 +399,6 @@ function renderAnimeList(filter = '', resetList = true) {
   loadingIndicator.id = 'anime-loading';
   animeList.appendChild(loadingIndicator);
   
-  console.log('开始搜索，关键词:', filter);
-
   // 过滤番剧数据
   const filteredResults = [];
   Object.entries(allAnimeData).forEach(([id, anime]) => {
@@ -378,7 +408,7 @@ function renderAnimeList(filter = '', resetList = true) {
     
     // 搜索番剧名称
     if (name.toLowerCase().includes(searchText) || nameCn.toLowerCase().includes(searchText)) {
-      console.log('找到匹配的番剧:', nameCn || name);
+      // 找到匹配的番剧
       filteredResults.push({
         type: 'anime',
         id,
@@ -393,7 +423,7 @@ function renderAnimeList(filter = '', resetList = true) {
         const pointName = String(point.name || '');
         const pointCn = String(point.cn || '');
         if (pointName.toLowerCase().includes(searchText) || pointCn.toLowerCase().includes(searchText)) {
-          console.log('找到匹配的地点:', pointCn || pointName, '属于番剧:', nameCn || name);
+          // 找到匹配的地点
           filteredResults.push({
             type: 'point',
             id,
@@ -406,21 +436,9 @@ function renderAnimeList(filter = '', resetList = true) {
     }
   });
 
-  console.log('搜索结果数量:', filteredResults.length);
-  
   // 将结果按类型分组
   const animeResults = filteredResults.filter(result => result.type === 'anime');
   const pointResults = filteredResults.filter(result => result.type === 'point');
-  
-  // 按照番剧和地点分别显示结果
-  const filteredAnimes = [...animeResults, ...pointResults];
-  
-  // 计算当前页的起始和结束索引
-  const startIndex = (currentPage - 1) * PAGE_SIZE;
-  const endIndex = Math.min(startIndex + PAGE_SIZE, filteredAnimes.length);
-  
-  // 检查是否还有更多数据
-  hasMoreAnimes = endIndex < filteredAnimes.length;
   
   // 移除加载指示器
   const loadingElement = document.getElementById('anime-loading');
@@ -428,105 +446,251 @@ function renderAnimeList(filter = '', resetList = true) {
     loadingElement.remove();
   }
   
-  // 如果没有匹配的番剧，显示提示信息
-  if (filteredAnimes.length === 0) {
+  // 如果没有匹配的结果，显示提示信息
+  if (filteredResults.length === 0) {
     const noResultsElement = document.createElement('div');
     noResultsElement.className = 'no-results';
-    noResultsElement.textContent = '没有找到匹配的番剧';
+    noResultsElement.textContent = '没有找到匹配的番剧或地点';
     animeList.appendChild(noResultsElement);
     isLoading = false;
     return;
   }
   
-  // 获取当前页的番剧数据并渲染
-  const currentPageAnimes = filteredAnimes.slice(startIndex, endIndex);
+  // 计算当前页的起始和结束索引 - 番剧和地点分开计算
+  let animeStartIndex, animeEndIndex;
+  let pointStartIndex, pointEndIndex;
   
-  // 渲染当前页的搜索结果
-  const renderSection = (sectionTitle, items) => {
-    const section = document.createElement('div');
-    section.className = 'search-section';
-    section.innerHTML = `<h6 class="search-category">${sectionTitle}</h6>`;
-
-    items.forEach((result) => {
-      const animeItem = document.createElement('div');
-      animeItem.className = result.type === 'point' ? 'point-item' : 'anime-item';
-      animeItem.dataset.id = result.id;
-      
-      // 如果是当前选中的番剧，添加active类
-      if (currentAnime === result.id) {
-        animeItem.classList.add('active');
-      }
-      
-      // 根据结果类型使用不同的展示模板
-      if (result.type === 'point') {
-        // 地点搜索结果
-        const point = result.point;
-        const anime = result.anime;
-        animeItem.innerHTML = `
-          <img class="point-cover" src="loading.svg" data-src="${point.image || 'loading.svg'}" alt="${point.cn || point.name}">
-          <div class="point-info">
-            <p class="point-name">${point.cn || point.name}</p>
-            <p class="anime-title">${anime.name_cn || anime.name}</p>
-          </div>
-        `;
-      } else {
-        // 番剧搜索结果
-        const anime = result.anime;
-        let pointsCount = 0;
-        if (anime.points && Array.isArray(anime.points)) {
-          pointsCount = anime.points.length;
-        } else if (anime.inform) {
-          pointsCount = '待加载';
-        }
-        
-        animeItem.innerHTML = `
-          <img class="anime-cover" src="loading.svg" data-src="${anime.cover || 'loading.svg'}" alt="${anime.name || anime.name_cn}">
-          <div class="anime-info">
-            <p class="anime-name">${anime.name_cn || anime.name}</p>
-            <p class="anime-points">${pointsCount} ${typeof pointsCount === 'number' ? '个地点' : ''}</p>
-          </div>
-        `;
-      }
-      
-      animeItem.addEventListener('click', () => {
-        if (result.type === 'point') {
-          // 如果是地点搜索结果，选择对应的番剧并定位到该地点
-          selectAnime(result.id);
-          const point = result.point;
-          if (point.geo && point.geo.length === 2) {
-            console.log('定位到地点:', point.cn || point.name);
-            map.setView([point.geo[0], point.geo[1]], 16);
-            // 显示地点信息
-            showPointInfo(point, result.anime, result.id);
-          }
-        } else {
-          // 如果是番剧搜索结果，正常选择番剧
-          selectAnime(result.id);
-        }
-      });
-      
-      section.appendChild(animeItem);
+  if (filter) {
+    // 搜索结果 - 显示所有结果
+    animeStartIndex = 0;
+    animeEndIndex = animeResults.length;
+    pointStartIndex = 0;
+    pointEndIndex = pointResults.length;
+    hasMoreAnimes = false; // 搜索结果一次性全部显示，没有更多数据
+  } else {
+    // 首页番剧列表 - 分页显示
+    animeStartIndex = (currentPage - 1) * PAGE_SIZE;
+    animeEndIndex = Math.min(animeStartIndex + PAGE_SIZE, animeResults.length);
+    
+    // 地点列表也使用相同的分页逻辑，但是独立计算
+    pointStartIndex = (currentPage - 1) * PAGE_SIZE;
+    pointEndIndex = Math.min(pointStartIndex + PAGE_SIZE, pointResults.length);
+    
+    // 检查是否还有更多数据 - 只要有一种类型还有更多数据，就继续加载
+    hasMoreAnimes = animeEndIndex < animeResults.length || pointEndIndex < pointResults.length;
+  }
+  
+  // 获取当前页的番剧和地点数据
+  const currentPageAnimes = animeResults.slice(animeStartIndex, animeEndIndex);
+  const currentPagePoints = pointResults.slice(pointStartIndex, pointEndIndex);
+  
+  // 渲染番剧项的函数
+  const renderAnimeItem = (result, container) => {
+    const animeItem = document.createElement('div');
+    animeItem.className = 'anime-item';
+    animeItem.dataset.id = result.id;
+    
+    // 如果是当前选中的番剧，添加active类
+    if (currentAnime === result.id) {
+      animeItem.classList.add('active');
+    }
+    
+    const anime = result.anime;
+    let pointsCount = 0;
+    if (anime.points && Array.isArray(anime.points)) {
+      pointsCount = anime.points.length;
+    } else if (anime.inform) {
+      pointsCount = '待加载';
+    }
+    
+    animeItem.innerHTML = `
+      <img class="anime-cover" src="loading.svg" data-src="${anime.cover || 'loading.svg'}" alt="${anime.name || anime.name_cn}">
+      <div class="anime-info">
+        <p class="anime-name">${anime.name_cn || anime.name}</p>
+        <p class="anime-points">${pointsCount} ${typeof pointsCount === 'number' ? '个地点' : ''}</p>
+      </div>
+    `;
+    
+    animeItem.addEventListener('click', () => {
+      selectAnime(result.id);
     });
-
-    animeList.appendChild(section);
+    
+    container.appendChild(animeItem);
   };
-
-  // 渲染番剧结果
-  renderSection('番剧', animeResults);
-
-  // 渲染巡礼点结果
-  renderSection('巡礼地点', pointResults);
+  
+  // 渲染地点项的函数
+  const renderPointItem = (result, container) => {
+    const pointItem = document.createElement('div');
+    pointItem.className = 'point-item';
+    pointItem.dataset.id = result.id;
+    
+    // 如果是当前选中的番剧，添加active类
+    if (currentAnime === result.id) {
+      pointItem.classList.add('active');
+    }
+    
+    const point = result.point;
+    const anime = result.anime;
+    
+    pointItem.innerHTML = `
+      <img class="point-cover" src="loading.svg" data-src="${point.image || 'loading.svg'}" alt="${point.cn || point.name}">
+      <div class="point-info">
+        <p class="point-name">${point.cn || point.name}</p>
+        <p class="anime-title">${anime.name_cn || anime.name}</p>
+      </div>
+    `;
+    
+    pointItem.addEventListener('click', () => {
+      // 如果是地点搜索结果，选择对应的番剧并定位到该地点
+      selectAnime(result.id);
+      if (point.geo && point.geo.length === 2) {
+        console.log('定位到地点:', point.cn || point.name);
+        map.setView([point.geo[0], point.geo[1]], 16);
+        // 显示地点信息
+        showPointInfo(point, result.anime, result.id);
+      }
+    });
+    
+    container.appendChild(pointItem);
+  };
+  
+  // 如果是搜索结果，显示所有结果
+  if (filter) {
+    // 清空容器
+    if (resetList) {
+      animeContainer.innerHTML = '';
+      pointContainer.innerHTML = '';
+    }
+    
+    // 添加标题
+    if (animeResults.length > 0) {
+      if (animeContainer.querySelector('.search-category') === null) {
+        const animeTitle = document.createElement('h6');
+        animeTitle.className = 'search-category';
+        animeTitle.textContent = '番剧';
+        animeContainer.appendChild(animeTitle);
+      }
+      
+      // 添加番剧结果
+      animeResults.forEach(result => {
+        renderAnimeItem(result, animeContainer);
+      });
+    }
+    
+    // 添加地点结果
+    if (pointResults.length > 0) {
+      if (pointContainer.querySelector('.search-category') === null) {
+        const pointTitle = document.createElement('h6');
+        pointTitle.className = 'search-category';
+        pointTitle.textContent = '巡礼地点';
+        pointContainer.appendChild(pointTitle);
+      }
+      
+      pointResults.forEach(result => {
+        renderPointItem(result, pointContainer);
+      });
+    }
+  } else {
+    // 首页模式 - 分页显示
+    
+    // 添加番剧标题（如果还没有）
+    if (animeContainer.querySelector('.search-category') === null) {
+      const animeTitle = document.createElement('h6');
+      animeTitle.className = 'search-category';
+      animeTitle.textContent = '番剧';
+      animeContainer.appendChild(animeTitle);
+    }
+    
+    // 添加地点标题（如果还没有）
+    if (pointContainer.querySelector('.search-category') === null) {
+      const pointTitle = document.createElement('h6');
+      pointTitle.className = 'search-category';
+      pointTitle.textContent = '巡礼地点';
+      pointContainer.appendChild(pointTitle);
+    }
+    
+    // 添加番剧项
+    currentPageAnimes.forEach(result => {
+      renderAnimeItem(result, animeContainer);
+    });
+    
+    // 添加地点项
+    currentPagePoints.forEach(result => {
+      renderPointItem(result, pointContainer);
+    });
+    
+    // 如果还有更多番剧数据，添加展开按钮
+    if (animeEndIndex < animeResults.length && !animeContainer.querySelector('#expand-anime-btn')) {
+      const expandButton = document.createElement('button');
+      expandButton.className = 'btn btn-outline-primary btn-sm expand-anime-btn';
+      expandButton.textContent = '展开更多番剧';
+      expandButton.id = 'expand-anime-btn';
+      animeContainer.appendChild(expandButton);
+      
+      // 点击展开按钮加载更多番剧
+      expandButton.addEventListener('click', function() {
+        // 移除展开按钮
+        this.remove();
+        
+        // 激活滚动加载更多功能
+        animeExpandActivated = true;
+        console.log('已激活番剧展开加载功能');
+        
+        // 立即加载下一批番剧
+        currentPage++; // 确保加载下一页
+        renderAnimeList('', false); // 不重置列表，加载更多番剧
+        
+        // 预加载下一批数据
+        setTimeout(() => {
+          if (hasMoreAnimes) {
+            currentPage++;
+            renderAnimeList('', false);
+          }
+        }, 500);
+      });
+    }
+    
+    // 如果还有更多地点数据，添加加载更多提示
+    if (pointEndIndex < pointResults.length && !pointContainer.querySelector('#load-more-point')) {
+      const loadMoreElement = document.createElement('div');
+      loadMoreElement.className = 'load-more-indicator';
+      loadMoreElement.textContent = '向下滚动加载更多巡礼地点';
+      loadMoreElement.id = 'load-more-point';
+      pointContainer.appendChild(loadMoreElement);
+    }
+  }
   
   // 加载当前可见的封面图片
   loadVisibleCoverImages();
   
-  // 如果还有更多数据，添加一个加载更多的提示
-  if (hasMoreAnimes) {
-    const loadMoreElement = document.createElement('div');
-    loadMoreElement.className = 'load-more-indicator';
-    loadMoreElement.textContent = '向下滚动加载更多';
-    loadMoreElement.id = 'load-more';
-    animeList.appendChild(loadMoreElement);
+  // 添加CSS样式
+  if (!document.getElementById('expand-button-style')) {
+    const style = document.createElement('style');
+    style.id = 'expand-button-style';
+    style.textContent = `
+      .anime-section, .point-section {
+        margin-bottom: 20px;
+      }
+      .expand-anime-btn {
+        margin: 10px auto;
+        display: block;
+        width: 80%;
+        padding: 8px;
+        border-radius: 20px;
+        transition: all 0.3s ease;
+      }
+      .expand-anime-btn:hover {
+        background-color: #007bff;
+        color: white;
+      }
+      .load-more-indicator {
+        text-align: center;
+        padding: 10px;
+        color: #6c757d;
+        font-size: 0.9rem;
+      }
+    `;
+    document.head.appendChild(style);
   }
   
   // 标记为加载完成
@@ -1002,11 +1166,28 @@ function bindEvents() {
     const scrollHeight = animeListContainer.scrollHeight;
     const clientHeight = animeListContainer.clientHeight;
     
-    // 当滚动到距离底部100px时，加载更多
-    if (scrollHeight - scrollTop - clientHeight < 100 && !isLoading && hasMoreAnimes) {
-      renderAnimeList(currentFilter, false); // 不重置列表，继续加载更多
+    // 当滚动到距离底部200px时，加载更多，提前预加载内容
+    if (scrollHeight - scrollTop - clientHeight < 200 && !isLoading && hasMoreAnimes) {
+      console.log('滚动到底部，尝试加载更多内容');
+      // 如果是搜索模式，直接加载更多
+      if (currentFilter) {
+        console.log('搜索模式：加载更多搜索结果');
+        renderAnimeList(currentFilter, false); // 不重置列表，继续加载更多
+      } else {
+        // 非搜索模式下，检查是否应该加载更多
+        if (animeExpandActivated) {
+          console.log('番剧展开模式：加载更多番剧');
+          renderAnimeList('', false); // 不重置列表，继续加载更多
+        } else if (document.getElementById('load-more-point')) {
+          console.log('巡礼地点模式：加载更多地点');
+          renderAnimeList('', false); // 不重置列表，继续加载更多
+        } else {
+          console.log('未激活展开加载功能，不加载更多内容');
+        }
+      }
     }
   });
+
 }
 
 // 显示加载动画
@@ -1727,3 +1908,1070 @@ searchInput.addEventListener('keypress', (e) => {
     handleSearch();
   }
 });
+
+// 加载用户指南数据
+function loadGuides() {
+  try {
+    const savedGuides = localStorage.getItem('userGuides');
+    if (savedGuides) {
+      guides = JSON.parse(savedGuides);
+    }
+  } catch (error) {
+    console.error('Error loading guides:', error);
+    guides = [];
+  }
+}
+
+// 保存用户指南数据到本地存储
+function saveGuides() {
+  try {
+    localStorage.setItem('userGuides', JSON.stringify(guides));
+  } catch (error) {
+    console.error('Error saving guides:', error);
+  }
+}
+
+// 渲染指南列表
+function renderGuideList() {
+  const guideList = document.getElementById('guide-list');
+  guideList.innerHTML = '';
+  
+  if (guides.length === 0) {
+    guideList.innerHTML = `
+      <div class="no-results">
+        <i class="bi bi-bookmark text-muted fs-4"></i>
+        <p>您还没有创建指南</p>
+      </div>
+    `;
+    return;
+  }
+  
+  guides.forEach(guide => {
+    const guideItem = createGuideListItem(guide);
+    guideList.appendChild(guideItem);
+  });
+}
+
+// 创建指南列表项
+function createGuideListItem(guide) {
+  const guideItem = document.createElement('div');
+  guideItem.className = 'guide-item';
+  guideItem.dataset.guideId = guide.id;
+  
+  if (currentGuide === guide.id) {
+    guideItem.classList.add('active');
+  }
+  
+  guideItem.innerHTML = `
+    <div class="guide-icon" style="background-color: ${guide.color}20; color: ${guide.color};">
+      <i class="bi bi-bookmark"></i>
+    </div>
+    <div class="guide-info">
+      <h6 class="guide-name">${guide.name}</h6>
+      <p class="guide-points">${guide.points.length} 个地点</p>
+    </div>
+  `;
+  
+  guideItem.addEventListener('click', () => {
+    openGuideDetails(guide.id);
+  });
+  
+  return guideItem;
+}
+
+// 创建新指南
+function createNewGuide(name, description, color) {
+  const newGuide = {
+    id: 'guide_' + Date.now(),
+    name: name,
+    description: description || '',
+    color: color || '#3388ff',
+    points: [],
+    created: new Date().toISOString(),
+    updated: new Date().toISOString()
+  };
+  
+  guides.push(newGuide);
+  saveGuides();
+  renderGuideList();
+  
+  return newGuide;
+}
+
+// 添加巡礼点到指南
+function addPointToGuide(guideId, point, anime, animeId) {
+  const guide = guides.find(g => g.id === guideId);
+  if (!guide) return false;
+  
+  // 检查点是否已经存在于指南中
+  const existingPoint = guide.points.find(p => p.id === point.id);
+  if (existingPoint) return false;
+  
+  // 创建要添加到指南的点对象
+  const guidePoint = {
+    id: point.id,
+    name: point.name,
+    lat: point.lat,
+    lng: point.lng,
+    image: point.image,
+    animeId: animeId,
+    animeName: anime.title,
+    episode: point.episode || '',
+    order: guide.points.length + 1
+  };
+  
+  guide.points.push(guidePoint);
+  guide.updated = new Date().toISOString();
+  saveGuides();
+  
+  // 如果当前正在查看该指南，更新显示
+  if (currentMode === 'guide' && currentGuide === guideId) {
+    showGuideMarkers(guideId);
+  }
+  
+  return true;
+}
+
+// 从指南中移除巡礼点
+function removePointFromGuide(guideId, pointId) {
+  const guide = guides.find(g => g.id === guideId);
+  if (!guide) return false;
+  
+  const pointIndex = guide.points.findIndex(p => p.id === pointId);
+  if (pointIndex === -1) return false;
+  
+  guide.points.splice(pointIndex, 1);
+  
+  // 重新排序
+  guide.points.forEach((point, index) => {
+    point.order = index + 1;
+  });
+  
+  guide.updated = new Date().toISOString();
+  saveGuides();
+  
+  // 如果当前正在查看该指南，更新显示
+  if (currentMode === 'guide' && currentGuide === guideId) {
+    showGuideMarkers(guideId);
+  }
+  
+  return true;
+}
+
+// 更新指南信息
+function updateGuide(guideId, name, description, color) {
+  const guide = guides.find(g => g.id === guideId);
+  if (!guide) return false;
+  
+  guide.name = name;
+  guide.description = description;
+  guide.color = color;
+  guide.updated = new Date().toISOString();
+  
+  saveGuides();
+  renderGuideList();
+  
+  // 如果当前正在查看该指南，更新显示
+  if (currentMode === 'guide' && currentGuide === guideId) {
+    showGuideMarkers(guideId);
+  }
+  
+  return true;
+}
+
+// 删除指南
+function deleteGuide(guideId) {
+  const guideIndex = guides.findIndex(g => g.id === guideId);
+  if (guideIndex === -1) return false;
+  
+  guides.splice(guideIndex, 1);
+  saveGuides();
+  renderGuideList();
+  
+  // 如果当前正在查看该指南，切换回全部模式
+  if (currentMode === 'guide' && currentGuide === guideId) {
+    setMode('all');
+  }
+  
+  return true;
+}
+
+// 打开指南详情
+function openGuideDetails(guideId) {
+  const guide = guides.find(g => g.id === guideId);
+  if (!guide) return;
+  
+  const modal = document.getElementById('guide-details-modal');
+  const modalTitle = document.getElementById('guide-details-modal-label');
+  const guideName = document.getElementById('guide-detail-name');
+  const guideDescription = document.getElementById('guide-detail-description');
+  const guidePointsCount = document.getElementById('guide-points-count');
+  const guidePointsList = document.getElementById('guide-points-list');
+  const guideEmptyMessage = document.getElementById('guide-empty-message');
+  
+  modalTitle.textContent = '指南详情';
+  guideName.textContent = guide.name;
+  guideDescription.textContent = guide.description || '暂无描述';
+  guidePointsCount.textContent = guide.points.length;
+  
+  // 渲染指南中的巡礼点
+  guidePointsList.innerHTML = '';
+  
+  if (guide.points.length === 0) {
+    guideEmptyMessage.classList.remove('d-none');
+  } else {
+    guideEmptyMessage.classList.add('d-none');
+    
+    guide.points.forEach((point, index) => {
+      const pointItem = document.createElement('div');
+      pointItem.className = 'guide-point-item';
+      pointItem.innerHTML = `
+        <div class="point-number" style="background-color: ${guide.color};">${index + 1}</div>
+        <img class="point-image" src="${point.image || 'placeholder.jpg'}" alt="${point.name}">
+        <div class="point-info">
+          <h6 class="point-name">${point.name}</h6>
+          <p class="point-anime">${point.animeName}</p>
+        </div>
+        <div class="point-actions">
+          <button class="btn btn-sm btn-outline-danger remove-point-btn" data-point-id="${point.id}">
+            <i class="bi bi-x"></i>
+          </button>
+        </div>
+      `;
+      guidePointsList.appendChild(pointItem);
+    });
+    
+    // 绑定移除巡礼点按钮事件
+    guidePointsList.querySelectorAll('.remove-point-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        const pointId = e.currentTarget.dataset.pointId;
+        removePointFromGuide(guide.id, pointId);
+        openGuideDetails(guide.id); // 刷新详情
+      });
+    });
+  }
+  
+  // 绑定编辑、删除和分享按钮事件
+  document.getElementById('edit-guide-btn').onclick = () => openEditGuideModal(guide.id);
+  document.getElementById('delete-guide-btn').onclick = () => confirmDeleteGuide(guide.id);
+  document.getElementById('share-guide-btn').onclick = () => openShareGuideModal(guide.id);
+  
+  // 绑定规划行程按钮事件
+  document.getElementById('plan-guide-btn').onclick = () => planGuideTrip(guide.id);
+  
+  // 绑定优化路线按钮事件
+  document.getElementById('optimize-route-btn').onclick = () => optimizeGuideRoute(guide.id);
+  
+  // 在地图上显示指南标记点
+  document.getElementById('mode-guide').click();
+  currentGuide = guide.id;
+  
+  // 显示模态框
+  const modalInstance = new bootstrap.Modal(modal);
+  modalInstance.show();
+}
+
+// 打开创建指南模态框
+function openCreateGuideModal() {
+  const modal = document.getElementById('create-guide-modal');
+  const form = document.getElementById('create-guide-form');
+  
+  // 重置表单
+  form.reset();
+  
+  // 显示模态框
+  const modalInstance = new bootstrap.Modal(modal);
+  modalInstance.show();
+}
+
+// 打开编辑指南模态框
+function openEditGuideModal(guideId) {
+  const guide = guides.find(g => g.id === guideId);
+  if (!guide) return;
+  
+  const modal = document.getElementById('edit-guide-modal');
+  const nameInput = document.getElementById('edit-guide-name');
+  const descriptionInput = document.getElementById('edit-guide-description');
+  const colorInput = document.getElementById('edit-guide-color');
+  
+  // 填充表单
+  nameInput.value = guide.name;
+  descriptionInput.value = guide.description || '';
+  colorInput.value = guide.color;
+  
+  // 绑定保存按钮事件
+  document.getElementById('update-guide-btn').onclick = () => {
+    const name = nameInput.value.trim();
+    if (!name) {
+      alert('请输入指南名称');
+      return;
+    }
+    
+    updateGuide(guide.id, name, descriptionInput.value.trim(), colorInput.value);
+    
+    // 关闭模态框
+    bootstrap.Modal.getInstance(modal).hide();
+    
+    // 刷新指南详情
+    openGuideDetails(guide.id);
+  };
+  
+  // 显示模态框
+  const modalInstance = new bootstrap.Modal(modal);
+  modalInstance.show();
+}
+
+// 确认删除指南
+function confirmDeleteGuide(guideId) {
+  if (confirm('确定要删除此指南吗？此操作无法撤销。')) {
+    const result = deleteGuide(guideId);
+    if (result) {
+      // 关闭指南详情模态框
+      const modal = document.getElementById('guide-details-modal');
+      bootstrap.Modal.getInstance(modal).hide();
+    }
+  }
+}
+
+// 打开添加到指南模态框
+function openAddToGuideModal(point, anime, animeId) {
+  const modal = document.getElementById('add-to-guide-modal');
+  const guideSelectionList = document.getElementById('guide-selection-list');
+  
+  // 清空列表
+  guideSelectionList.innerHTML = '';
+  
+  if (guides.length === 0) {
+    guideSelectionList.innerHTML = `
+      <div class="alert alert-info mb-0">
+        您还没有创建指南，请先创建一个指南。
+      </div>
+    `;
+  } else {
+    guides.forEach(guide => {
+      const listItem = document.createElement('button');
+      listItem.className = 'list-group-item list-group-item-action d-flex align-items-center';
+      listItem.innerHTML = `
+        <div style="width: 24px; height: 24px; background-color: ${guide.color}; border-radius: 50%; margin-right: 10px;"></div>
+        <div>
+          <div class="fw-bold">${guide.name}</div>
+          <small class="text-muted">${guide.points.length} 个地点</small>
+        </div>
+      `;
+      
+      // 检查点是否已在该指南中
+      const existingPoint = guide.points.find(p => p.id === point.id);
+      if (existingPoint) {
+        listItem.classList.add('disabled');
+        listItem.innerHTML += `
+          <div class="ms-auto">
+            <span class="badge bg-success">已添加</span>
+          </div>
+        `;
+      } else {
+        listItem.onclick = () => {
+          addPointToGuide(guide.id, point, anime, animeId);
+          bootstrap.Modal.getInstance(modal).hide();
+          showToast(`已将 ${point.name} 添加到指南 ${guide.name}`);
+        };
+      }
+      
+      guideSelectionList.appendChild(listItem);
+    });
+  }
+  
+  // 绑定创建新指南按钮事件
+  document.getElementById('new-guide-for-point-btn').onclick = () => {
+    // 关闭当前模态框
+    bootstrap.Modal.getInstance(modal).hide();
+    
+    // 打开创建指南模态框，并在创建后添加该点
+    openCreateGuideModal();
+    const saveGuideBtn = document.getElementById('save-guide-btn');
+    const originalOnClick = saveGuideBtn.onclick;
+    
+    saveGuideBtn.onclick = () => {
+      const result = originalOnClick ? originalOnClick() : null;
+      const nameInput = document.getElementById('guide-name');
+      const descriptionInput = document.getElementById('guide-description');
+      const colorInput = document.getElementById('guide-color');
+      
+      const name = nameInput.value.trim();
+      if (!name) return;
+      
+      const newGuide = createNewGuide(name, descriptionInput.value.trim(), colorInput.value);
+      if (newGuide) {
+        addPointToGuide(newGuide.id, point, anime, animeId);
+        showToast(`已将 ${point.name} 添加到新指南 ${newGuide.name}`);
+      }
+      
+      // 恢复原始事件处理
+      saveGuideBtn.onclick = originalOnClick;
+    };
+  };
+  
+  // 显示模态框
+  const modalInstance = new bootstrap.Modal(modal);
+  modalInstance.show();
+}
+
+// 打开分享指南模态框
+function openShareGuideModal(guideId) {
+  const guide = guides.find(g => g.id === guideId);
+  if (!guide) return;
+  
+  const modal = document.getElementById('share-guide-modal');
+  const shareLinkInput = document.getElementById('share-link-input');
+  const qrcodeContainer = document.getElementById('qrcode-container');
+  
+  // 生成分享链接
+  const shareLink = generateGuideShareLink(guide);
+  shareLinkInput.value = shareLink;
+  
+  // 生成二维码
+  qrcodeContainer.innerHTML = '';
+  QRCode.toCanvas(document.createElement('canvas'), shareLink, { width: 200 }, function(error, canvas) {
+    if (error) {
+      console.error('Error generating QR code:', error);
+      return;
+    }
+    qrcodeContainer.appendChild(canvas);
+  });
+  
+  // 绑定复制按钮事件
+  document.getElementById('copy-link-btn').onclick = () => {
+    shareLinkInput.select();
+    document.execCommand('copy');
+    showToast('链接已复制到剪贴板');
+  };
+  
+  // 显示模态框
+  const modalInstance = new bootstrap.Modal(modal);
+  modalInstance.show();
+}
+
+// 生成指南分享链接
+function generateGuideShareLink(guide) {
+  // 创建一个仅包含必要信息的对象
+  const exportGuide = {
+    id: guide.id,
+    name: guide.name,
+    description: guide.description,
+    color: guide.color,
+    points: guide.points.map(point => ({
+      id: point.id,
+      name: point.name,
+      lat: point.lat,
+      lng: point.lng,
+      image: point.image,
+      animeId: point.animeId,
+      animeName: point.animeName,
+      episode: point.episode,
+      order: point.order
+    })),
+    created: guide.created,
+    updated: guide.updated
+  };
+  
+  // 使用 base64 编码压缩后的 JSON
+  const guideData = JSON.stringify(exportGuide);
+  const compressedData = btoa(encodeURIComponent(guideData));
+  
+  // 构造 URL
+  const currentUrl = window.location.href.split('?')[0];
+  return `${currentUrl}?guide=${compressedData}`;
+}
+
+// 从 URL 解析参数
+function parseUrlParams() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const guideParam = urlParams.get('guide');
+  
+  if (guideParam) {
+    try {
+      const decodedData = decodeURIComponent(atob(guideParam));
+      const importedGuide = JSON.parse(decodedData);
+      
+      // 打开导入指南模态框
+      openImportGuideModal(importedGuide);
+    } catch (error) {
+      console.error('Error parsing guide data from URL:', error);
+      showToast('无法解析指南数据，链接可能已损坏', 'danger');
+    }
+  }
+}
+
+// 打开导入指南模态框
+function openImportGuideModal(importedGuide) {
+  const modal = document.getElementById('import-guide-modal');
+  const importGuideDetails = document.getElementById('import-guide-details');
+  
+  // 检查指南是否已存在
+  const existingGuide = guides.find(g => g.id === importedGuide.id);
+  
+  importGuideDetails.innerHTML = `
+    <div class="import-guide-header">
+      <div class="import-guide-icon" style="background-color: ${importedGuide.color}20; color: ${importedGuide.color};">
+        <i class="bi bi-bookmark"></i>
+      </div>
+      <div>
+        <h5 class="import-guide-title">${importedGuide.name}</h5>
+        <div class="import-guide-meta">
+          ${importedGuide.points.length} 个地点 · 更新于 ${new Date(importedGuide.updated).toLocaleDateString()}
+        </div>
+      </div>
+    </div>
+    
+    <div class="import-guide-description">
+      ${importedGuide.description || '暂无描述'}
+    </div>
+    
+    <h6>包含的巡礼点 (${importedGuide.points.length})</h6>
+    <div class="import-guide-points">
+      ${importedGuide.points.map((point, index) => `
+        <div class="import-point-item">
+          <div class="import-point-number" style="background-color: ${importedGuide.color};">${index + 1}</div>
+          <div>
+            <h6 class="import-point-name">${point.name}</h6>
+            <p class="import-point-anime">${point.animeName}</p>
+          </div>
+        </div>
+      `).join('')}
+    </div>
+    ${existingGuide ? '<div class="alert alert-warning mt-3">您已经有一个相同 ID 的指南，导入将覆盖现有指南。</div>' : ''}
+  `;
+  
+  // 绑定导入按钮事件
+  document.getElementById('confirm-import-btn').onclick = () => {
+    importGuide(importedGuide);
+    bootstrap.Modal.getInstance(modal).hide();
+  };
+  
+  // 显示模态框
+  const modalInstance = new bootstrap.Modal(modal);
+  modalInstance.show();
+}
+
+// 导入指南
+function importGuide(importedGuide) {
+  // 检查指南是否已存在
+  const existingIndex = guides.findIndex(g => g.id === importedGuide.id);
+  
+  if (existingIndex !== -1) {
+    // 覆盖现有指南
+    guides[existingIndex] = importedGuide;
+  } else {
+    // 添加新指南
+    guides.push(importedGuide);
+  }
+  
+  saveGuides();
+  renderGuideList();
+  showToast(`成功导入指南"${importedGuide.name}"`, 'success');
+}
+
+// 显示通知
+function showToast(message, type = 'info') {
+  // 创建一个 Bootstrap toast
+  const toastContainer = document.createElement('div');
+  toastContainer.className = 'toast-container position-fixed bottom-0 end-0 p-3';
+  toastContainer.style.zIndex = '1060';
+  
+  const toast = document.createElement('div');
+  toast.className = `toast align-items-center text-white bg-${type} border-0`;
+  toast.setAttribute('role', 'alert');
+  toast.setAttribute('aria-live', 'assertive');
+  toast.setAttribute('aria-atomic', 'true');
+  
+  toast.innerHTML = `
+    <div class="d-flex">
+      <div class="toast-body">
+        ${message}
+      </div>
+      <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="关闭"></button>
+    </div>
+  `;
+  
+  toastContainer.appendChild(toast);
+  document.body.appendChild(toastContainer);
+  
+  const bsToast = new bootstrap.Toast(toast, { delay: 3000 });
+  bsToast.show();
+  
+  // 在 toast 隐藏后移除元素
+  toast.addEventListener('hidden.bs.toast', () => {
+    document.body.removeChild(toastContainer);
+  });
+}
+
+// 显示指南路线和标记点
+function showGuideMarkers(guideId) {
+  const guide = guides.find(g => g.id === guideId);
+  if (!guide) return;
+  
+  // 清除现有标记点
+  clearMarkers();
+  
+  // 清除现有路径
+  clearGuidePaths();
+  
+  // 没有点时直接返回
+  if (guide.points.length === 0) return;
+  
+  // 创建标记点
+  const bounds = L.latLngBounds();
+  guide.points.forEach((point, index) => {
+    const marker = createGuideMarker(point, index + 1, guide);
+    markers.push(marker);
+    bounds.extend([point.lat, point.lng]);
+  });
+  
+  // 创建路径线
+  if (guide.points.length > 1) {
+    const pathCoords = guide.points.map(point => [point.lat, point.lng]);
+    const guidePath = L.polyline(pathCoords, {
+      color: guide.color,
+      weight: 3,
+      opacity: 0.8,
+      dashArray: '5, 10',
+      className: 'guide-path'
+    }).addTo(map);
+    
+    guidePaths.push(guidePath);
+  }
+  
+  // 调整地图视野
+  map.fitBounds(bounds, { padding: [50, 50] });
+}
+
+// 创建指南标记点
+function createGuideMarker(point, number, guide) {
+  const markerIcon = L.divIcon({
+    className: 'guide-marker',
+    html: `<div style="background-color: ${guide.color};">${number}</div>`,
+    iconSize: [30, 30],
+    iconAnchor: [15, 15]
+  });
+  
+  const marker = L.marker([point.lat, point.lng], { icon: markerIcon }).addTo(map);
+  
+  // 点击标记点显示信息
+  marker.on('click', () => {
+    // 查找番剧数据
+    const anime = animeData.find(a => a.id === point.animeId);
+    if (anime) {
+      showPointInfo({
+        id: point.id,
+        name: point.name,
+        lat: point.lat,
+        lng: point.lng,
+        image: point.image,
+        episode: point.episode
+      }, anime, point.animeId);
+    }
+  });
+  
+  return marker;
+}
+
+// 清除指南路径
+function clearGuidePaths() {
+  guidePaths.forEach(path => {
+    map.removeLayer(path);
+  });
+  guidePaths = [];
+}
+
+// 优化指南路线
+function optimizeGuideRoute(guideId) {
+  const guide = guides.find(g => g.id === guideId);
+  if (!guide || guide.points.length <= 2) {
+    showToast('需要至少3个巡礼点才能优化路线', 'warning');
+    return;
+  }
+  
+  // 使用贪心算法找最近邻点
+  const optimizedPoints = [guide.points[0]]; // 从第一个点开始
+  const unvisited = [...guide.points.slice(1)];
+  
+  while (unvisited.length > 0) {
+    const lastPoint = optimizedPoints[optimizedPoints.length - 1];
+    let nearestIndex = 0;
+    let nearestDistance = getDistance(
+      lastPoint.lat, lastPoint.lng,
+      unvisited[0].lat, unvisited[0].lng
+    );
+    
+    for (let i = 1; i < unvisited.length; i++) {
+      const dist = getDistance(
+        lastPoint.lat, lastPoint.lng,
+        unvisited[i].lat, unvisited[i].lng
+      );
+      
+      if (dist < nearestDistance) {
+        nearestDistance = dist;
+        nearestIndex = i;
+      }
+    }
+    
+    optimizedPoints.push(unvisited[nearestIndex]);
+    unvisited.splice(nearestIndex, 1);
+  }
+  
+  // 更新顺序
+  guide.points = optimizedPoints.map((point, index) => ({
+    ...point,
+    order: index + 1
+  }));
+  
+  guide.updated = new Date().toISOString();
+  saveGuides();
+  
+  // 刷新地图显示
+  showGuideMarkers(guideId);
+  
+  // 刷新模态框内容
+  openGuideDetails(guideId);
+  
+  showToast('路线已优化为最短距离', 'success');
+}
+
+// 计算两点之间的距离 (Haversine 公式)
+function getDistance(lat1, lon1, lat2, lon2) {
+  const R = 6371; // 地球半径 (km)
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLon = (lon2 - lon1) * Math.PI / 180;
+  const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+            Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) * 
+            Math.sin(dLon/2) * Math.sin(dLon/2);
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+  return R * c;
+}
+
+// 初始化L2D站娘
+function initL2D() {
+  // 显示L2D容器
+  const l2dContainer = document.getElementById('l2d-container');
+  l2dContainer.classList.remove('d-none');
+  
+  // 初始消息
+  addL2DMessage('欢迎使用动漫圣地巡礼地图！我是您的巡礼助手，有什么可以帮您的吗？', 'assistant');
+  
+  // 加载L2D模型
+  loadL2DModel();
+  
+  // 绑定事件
+  document.getElementById('l2d-toggle-btn').addEventListener('click', toggleL2D);
+  document.getElementById('l2d-send-btn').addEventListener('click', sendL2DMessage);
+  document.getElementById('l2d-input').addEventListener('keypress', function(e) {
+    if (e.key === 'Enter') {
+      sendL2DMessage();
+    }
+  });
+}
+
+// 加载L2D模型
+function loadL2DModel() {
+  try {
+    // 替换为实际的模型URL
+    const modelUrl = 'https://cdn.jsdelivr.net/gh/guansss/pixi-live2d-display/examples/assets/shizuku/shizuku.model.json';
+    const canvasContainer = document.querySelector('.l2d-canvas-container');
+    
+    // 创建canvas元素
+    const canvas = document.createElement('canvas');
+    canvas.width = 300;
+    canvas.height = 250;
+    canvasContainer.appendChild(canvas);
+    
+    // 这里只是一个占位的模拟加载模型的代码
+    // 实际项目中需要替换为正确的Live2D加载代码
+    console.log('L2D model would load here:', modelUrl);
+    
+    // 如果您有正确的Live2D SDK集成，可以启用下面的代码
+    /* 
+    loadLive2DModel(canvas, modelUrl).then(model => {
+      // 模型加载成功后的处理
+    }).catch(error => {
+      console.error('Failed to load L2D model:', error);
+    });
+    */
+  } catch (error) {
+    console.error('Error initializing L2D model:', error);
+  }
+}
+
+// 切换L2D站娘显示状态
+function toggleL2D() {
+  const l2dContainer = document.getElementById('l2d-container');
+  l2dContainer.classList.toggle('minimized');
+  
+  const toggleBtn = document.getElementById('l2d-toggle-btn');
+  if (l2dContainer.classList.contains('minimized')) {
+    toggleBtn.innerHTML = '<i class="bi bi-chevron-up"></i>';
+  } else {
+    toggleBtn.innerHTML = '<i class="bi bi-robot"></i>';
+  }
+}
+
+// 添加消息到L2D聊天窗口
+function addL2DMessage(message, sender) {
+  const messagesContainer = document.getElementById('l2d-messages');
+  const messageElement = document.createElement('div');
+  messageElement.className = `l2d-message ${sender}`;
+  messageElement.textContent = message;
+  messagesContainer.appendChild(messageElement);
+  
+  // 滚动到底部
+  messagesContainer.scrollTop = messagesContainer.scrollHeight;
+}
+
+// 发送消息给L2D站娘
+function sendL2DMessage() {
+  const input = document.getElementById('l2d-input');
+  const message = input.value.trim();
+  
+  if (!message) return;
+  
+  // 添加用户消息
+  addL2DMessage(message, 'user');
+  
+  // 清空输入框
+  input.value = '';
+  
+  // 处理用户消息并回复
+  processL2DMessage(message);
+}
+
+// 处理L2D站娘消息
+function processL2DMessage(message) {
+  // 模拟加载状态
+  setTimeout(() => {
+    let response = '';
+    
+    // 简单的关键词匹配
+    if (message.includes('你好') || message.includes('嗨') || message.includes('hi')) {
+      response = '你好！我是你的巡礼助手。我可以帮你规划行程，提供旅游信息，或者解答关于动漫圣地巡礼的问题。';
+    } else if (message.includes('指南') || message.includes('巡礼')) {
+      response = '您可以在侧边栏的"指南"标签页创建自己的巡礼指南，或者在地图上选择感兴趣的巡礼点添加到指南中。创建指南后，您可以优化路线或者让我帮您规划行程。';
+    } else if (message.includes('规划') || message.includes('行程') || message.includes('路线')) {
+      response = '要规划行程，请先创建一个包含您想要访问的巡礼点的指南，然后点击"使用AI规划行程"按钮。我会根据地理位置和交通情况，为您生成最优的巡礼路线和时间安排。';
+    } else if (message.includes('分享')) {
+      response = '您可以通过指南详情页面的"分享"按钮生成分享链接或二维码，将您的指南分享给朋友。他们可以直接导入您的指南，无需重新创建。';
+    } else if (message.includes('谢谢') || message.includes('感谢')) {
+      response = '不客气！祝您巡礼愉快！如果有其他问题，随时问我。';
+    } else {
+      response = '抱歉，我还不太理解您的问题。您可以问我关于指南创建、行程规划、巡礼地点等方面的问题，我会尽力帮助您。';
+    }
+    
+    // 添加助手回复
+    addL2DMessage(response, 'assistant');
+  }, 800);
+}
+
+// 规划指南行程
+function planGuideTrip(guideId) {
+  const guide = guides.find(g => g.id === guideId);
+  if (!guide || guide.points.length === 0) {
+    showToast('指南中没有巡礼点，无法规划行程', 'warning');
+    return;
+  }
+  
+  // 展开L2D站娘
+  const l2dContainer = document.getElementById('l2d-container');
+  l2dContainer.classList.remove('d-none', 'minimized');
+  
+  // 发送规划请求消息
+  setTimeout(() => {
+    addL2DMessage(`请帮我规划"${guide.name}"的巡礼行程，包含${guide.points.length}个地点。`, 'user');
+    
+    // 模拟AI生成中
+    setTimeout(() => {
+      addL2DMessage('正在为您规划行程...', 'assistant');
+      
+      // 模拟AI回复
+      setTimeout(() => {
+        // 生成一个简单的行程规划
+        let tripPlan = `基于您的 "${guide.name}" 指南，我为您规划了以下巡礼行程：\n\n`;
+        tripPlan += `第1天：\n`;
+        
+        let dayCounter = 1;
+        let pointsPerDay = 3; // 每天3个点
+        
+        guide.points.forEach((point, index) => {
+          if (index > 0 && index % pointsPerDay === 0) {
+            dayCounter++;
+            tripPlan += `\n第${dayCounter}天：\n`;
+          }
+          
+          tripPlan += `- ${point.name} (${point.animeName})\n`;
+        });
+        
+        tripPlan += `\n交通建议：可以选择公共交通或租车前往这些地点。要获取更详细的路线规划，请点击地图上的标记点，然后使用Google地图或苹果地图进行导航。\n\n`;
+        tripPlan += `希望您有一个愉快的巡礼之旅！如果需要调整行程，请随时告诉我。`;
+        
+        addL2DMessage(tripPlan, 'assistant');
+      }, 2000);
+    }, 1000);
+  }, 500);
+}
+
+// 在信息卡中显示巡礼点信息 (扩展现有函数)
+function showPointInfo(point, anime, animeId) {
+  // ... existing code ...
+  
+  // 显示信息卡
+  const infoCard = document.getElementById('info-card');
+  const pointImage = document.getElementById('point-image');
+  const pointName = document.getElementById('point-name');
+  const animeName = document.getElementById('anime-name');
+  const episodeInfo = document.getElementById('episode-info');
+  const googleMapsLink = document.getElementById('google-maps-link');
+  const googleStreetviewLink = document.getElementById('google-streetview-link');
+  const appleMapsLink = document.getElementById('apple-maps-link');
+  const traceMoeLink = document.getElementById('trace-moe-link');
+  const addToGuideBtn = document.getElementById('add-to-guide-btn');
+  
+  // 设置信息卡内容
+  pointName.textContent = point.name;
+  animeName.textContent = anime.title;
+  episodeInfo.textContent = point.episode ? `第${point.episode}集` : '';
+  
+  // 设置地图链接
+  const lat = point.lat;
+  const lng = point.lng;
+  googleMapsLink.href = `https://www.google.com/maps/search/?api=1&query=${lat},${lng}`;
+  googleStreetviewLink.href = `https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${lat},${lng}`;
+  appleMapsLink.href = `https://maps.apple.com/?ll=${lat},${lng}&q=${encodeURIComponent(point.name)}`;
+  
+  // 设置图片
+  if (point.image) {
+    pointImage.src = point.image;
+    pointImage.alt = point.name;
+    traceMoeLink.href = `https://trace.moe/?url=${encodeURIComponent(point.image)}`;
+    traceMoeLink.classList.remove('d-none');
+  } else {
+    pointImage.src = 'placeholder.jpg';
+    pointImage.alt = '无图片';
+    traceMoeLink.classList.add('d-none');
+  }
+  
+  // 设置添加到指南按钮事件
+  addToGuideBtn.onclick = () => {
+    openAddToGuideModal(point, anime, animeId);
+  };
+  
+  // 显示信息卡
+  infoCard.classList.remove('d-none');
+  
+  // 绑定关闭按钮事件
+  document.getElementById('close-info').onclick = () => {
+    infoCard.classList.add('d-none');
+  };
+}
+
+// 绑定事件 (扩展现有函数)
+function bindEvents() {
+  // ... existing code ...
+  
+  // 搜索按钮点击事件
+  document.getElementById('search-button').addEventListener('click', handleSearch);
+  document.getElementById('search-input').addEventListener('keypress', function(e) {
+    if (e.key === 'Enter') {
+      handleSearch();
+    }
+  });
+  
+  // 地图模式切换按钮事件
+  document.getElementById('mode-all').addEventListener('click', function() {
+    setMode('all');
+  });
+  
+  document.getElementById('mode-single').addEventListener('click', function() {
+    if (currentAnime) {
+      setMode('single');
+    } else {
+      showToast('请先选择一个番剧', 'warning');
+    }
+  });
+  
+  document.getElementById('mode-guide').addEventListener('click', function() {
+    if (currentGuideId) {
+      setMode('guide');
+    } else if (guides.length > 0) {
+      // 如果有指南但未选中，打开第一个指南
+      openGuideDetails(guides[0].id);
+    } else {
+      showToast('请先创建一个指南', 'warning');
+    }
+  });
+  
+  // 侧边栏切换按钮事件
+  document.getElementById('toggle-sidebar').addEventListener('click', function() {
+    document.getElementById('sidebar').classList.toggle('show');
+  });
+  
+  // 创建指南按钮事件
+  document.getElementById('create-guide-btn').addEventListener('click', openCreateGuideModal);
+  
+  // 保存指南按钮事件
+  document.getElementById('save-guide-btn').addEventListener('click', function() {
+    const nameInput = document.getElementById('guide-name');
+    const descriptionInput = document.getElementById('guide-description');
+    const colorInput = document.getElementById('guide-color');
+    
+    const name = nameInput.value.trim();
+    if (!name) {
+      alert('请输入指南名称');
+      return;
+    }
+    
+    createNewGuide(name, descriptionInput.value.trim(), colorInput.value);
+    
+    // 关闭模态框
+    const modal = document.getElementById('create-guide-modal');
+    bootstrap.Modal.getInstance(modal).hide();
+    
+    showToast(`成功创建指南 "${name}"`, 'success');
+  });
+  
+  // 监听地图移动事件，更新可见标记点
+  map.on('moveend', debounceUpdateMarkers);
+  map.on('zoomend', debounceUpdateMarkers);
+}
+
+// 设置地图模式 (扩展现有函数)
+async function setMode(mode) {
+  currentMode = mode;
+  
+  // 更新模式按钮状态
+  document.getElementById('mode-all').classList.toggle('active', mode === 'all');
+  document.getElementById('mode-all').classList.toggle('btn-primary', mode === 'all');
+  document.getElementById('mode-all').classList.toggle('btn-outline-primary', mode !== 'all');
+  
+  document.getElementById('mode-single').classList.toggle('active', mode === 'single');
+  document.getElementById('mode-single').classList.toggle('btn-primary', mode === 'single');
+  document.getElementById('mode-single').classList.toggle('btn-outline-primary', mode !== 'single');
+  
+  document.getElementById('mode-guide').classList.toggle('active', mode === 'guide');
+  document.getElementById('mode-guide').classList.toggle('btn-primary', mode === 'guide');
+  document.getElementById('mode-guide').classList.toggle('btn-outline-primary', mode !== 'guide');
+  
+  // 根据模式显示相应的标记点
+  clearMarkers();
+  
+  switch (mode) {
+    case 'all':
+      await addAllMarkers();
+      break;
+    case 'single':
+      if (currentAnime) {
+        await addSingleAnimeMarkers(currentAnime);
+      }
+      break;
+    case 'guide':
+      if (currentGuideId) {
+        showGuideMarkers(currentGuideId);
+      }
+      break;
+  }
+}
