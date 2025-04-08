@@ -1011,7 +1011,7 @@ function initGiscus(discussionId) {
   giscusScript.setAttribute('data-reactions-enabled', '1');
   giscusScript.setAttribute('data-emit-metadata', '0');
   giscusScript.setAttribute('data-input-position', 'bottom');
-  giscusScript.setAttribute('data-theme', 'preferred_color_scheme');
+  giscusScript.setAttribute('data-theme', 'light_high_contrast');
   giscusScript.setAttribute('data-lang', 'zh-CN');
   giscusScript.setAttribute('crossorigin', 'anonymous');
   giscusScript.setAttribute('async', '');
