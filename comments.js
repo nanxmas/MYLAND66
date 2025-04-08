@@ -1,9 +1,9 @@
 // 初始化giscus评论组件
-function initGiscus() {
-  // 检查是否已经加载了giscus脚本
-  if (document.querySelector('script[src*="giscus.app"]')) {
-    console.log('Giscus script already loaded');
-    return;
+function initGiscus(discussionId) {
+  // 移除旧的giscus容器内容
+  const giscusContainer = document.querySelector('.giscus');
+  if (giscusContainer) {
+    giscusContainer.innerHTML = '';
   }
 
   // 创建giscus脚本元素
@@ -14,24 +14,34 @@ function initGiscus() {
   giscusScript.setAttribute('data-category', 'Announcements');
   giscusScript.setAttribute('data-category-id', 'DIC_kwDOOWDnbc4Co5Rh');
   giscusScript.setAttribute('data-mapping', 'specific');
+  
+  // 设置特定讨论ID，如果提供了discussionId参数
+  if (discussionId) {
+    giscusScript.setAttribute('data-term', discussionId);
+  }
+  
   giscusScript.setAttribute('data-strict', '0');
   giscusScript.setAttribute('data-reactions-enabled', '1');
-  giscusScript.setAttribute('data-emit-metadata', '1');
+  giscusScript.setAttribute('data-emit-metadata', '0');
   giscusScript.setAttribute('data-input-position', 'bottom');
   giscusScript.setAttribute('data-theme', 'light_high_contrast');
   giscusScript.setAttribute('data-lang', 'zh-CN');
-  giscusScript.setAttribute('data-loading', 'lazy');
   giscusScript.setAttribute('crossorigin', 'anonymous');
   giscusScript.async = true;
 
-  // 将脚本添加到页面
-  document.body.appendChild(giscusScript);
+  // 将脚本添加到giscus容器
+  if (giscusContainer) {
+    giscusContainer.appendChild(giscusScript);
+  } else {
+    console.error('找不到giscus容器');
+  }
 
-  console.log('Giscus script initialized');
+  console.log('Giscus script initialized with discussionId:', discussionId);
 }
 
-// 在页面加载完成后初始化giscus
-document.addEventListener('DOMContentLoaded', initGiscus);
+// 不在页面加载完成后自动初始化giscus
+// 而是等待用户选择特定巡礼点后再初始化
+// document.addEventListener('DOMContentLoaded', initGiscus);
 
 // 导出初始化函数供其他模块使用
 window.initGiscus = initGiscus;
