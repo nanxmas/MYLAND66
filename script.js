@@ -135,11 +135,34 @@ const infoCard = document.getElementById('info-card');
 const closeInfoBtn = document.getElementById('close-info');
 const toggleSidebarBtn = document.getElementById('toggle-sidebar');
 const sidebar = document.getElementById('sidebar');
+const toggleCommentsBtn = document.getElementById('toggle-comments-btn');
+const commentsContainer = document.getElementById('comments-container');
 
 // 模式切换按钮
 const modeAllBtn = document.getElementById('mode-all');
 const modeSingleBtn = document.getElementById('mode-single');
 const modeGuideBtn = document.getElementById('mode-guide');
+
+// 更新模式按钮状态
+function updateModeButtons() {
+  // 移除所有按钮的active类
+  modeAllBtn.classList.remove('active');
+  modeSingleBtn.classList.remove('active');
+  modeGuideBtn.classList.remove('active');
+  
+  // 根据当前模式添加active类
+  switch (currentMode) {
+    case 'all':
+      modeAllBtn.classList.add('active');
+      break;
+    case 'single':
+      modeSingleBtn.classList.add('active');
+      break;
+    case 'guide':
+      modeGuideBtn.classList.add('active');
+      break;
+  }
+}
 
 // 初始化函数
 async function init() {
@@ -974,7 +997,45 @@ function clearMarkers() {
 }
 
 // 显示地点信息
+// 初始化giscus评论系统
+function initGiscus(discussionId) {
+  const giscusScript = document.createElement('script');
+  giscusScript.src = 'https://giscus.app/client.js';
+  giscusScript.setAttribute('data-repo', 'lmc26817/tourtalk');
+  giscusScript.setAttribute('data-repo-id', 'R_kgDOOWDnbQ');
+  giscusScript.setAttribute('data-category', 'Announcements');
+  giscusScript.setAttribute('data-category-id', 'DIC_kwDOOWDnbc4Co5Rh');
+  giscusScript.setAttribute('data-mapping', 'specific');
+  giscusScript.setAttribute('data-term', discussionId);
+  giscusScript.setAttribute('data-strict', '0');
+  giscusScript.setAttribute('data-reactions-enabled', '1');
+  giscusScript.setAttribute('data-emit-metadata', '0');
+  giscusScript.setAttribute('data-input-position', 'bottom');
+  giscusScript.setAttribute('data-theme', 'preferred_color_scheme');
+  giscusScript.setAttribute('data-lang', 'zh-CN');
+  giscusScript.setAttribute('crossorigin', 'anonymous');
+  giscusScript.setAttribute('async', '');
+  
+  // 移除旧的giscus容器内容
+  const giscusContainer = document.querySelector('.giscus');
+  giscusContainer.innerHTML = '';
+  
+  // 添加新的giscus脚本
+  giscusContainer.appendChild(giscusScript);
+}
+
 function showPointInfo(point, anime, animeId) {
+  console.log('显示信息卡片:', { point, anime, animeId });
+  
+  // 隐藏评论区
+  commentsContainer.classList.add('d-none');
+  
+  // 为当前巡礼点生成唯一的讨论ID
+  const discussionId = `point-${anime.name}-${point.name}-${point.lat}-${point.lng}`.replace(/[^a-zA-Z0-9-]/g, '-');
+  
+  // 初始化该巡礼点的评论区
+  initGiscus(discussionId);
+  
   const pointName = document.getElementById('point-name');
   const animeName = document.getElementById('anime-name');
   const episodeInfo = document.getElementById('episode-info');
@@ -984,24 +1045,42 @@ function showPointInfo(point, anime, animeId) {
   const appleMapsLink = document.getElementById('apple-maps-link');
   const traceMoeLink = document.getElementById('trace-moe-link');
   
-  // 设置地点名称
-  pointName.textContent = point.cn || point.name;
-  
-  // 设置番剧名称（可点击）
-  animeName.innerHTML = `<a href="#" class="anime-link" data-id="${animeId}">${anime.name_cn || anime.name}</a>`;
-  document.querySelector('.anime-link').addEventListener('click', (e) => {
-    e.preventDefault();
-    selectAnime(animeId);
+  // 检查DOM元素是否存在
+  console.log('DOM元素:', {
+    pointName: !!pointName,
+    animeName: !!animeName,
+    episodeInfo: !!episodeInfo,
+    infoCard: !!infoCard
   });
   
+  // 设置地点名称
+  pointName.textContent = point.cn || point.name;
+  console.log('设置地点名称:', pointName.textContent);
+  
+  // 设置番剧名称（可点击）
+  const animeTitle = anime.name_cn || anime.name;
+  animeName.innerHTML = `<a href="#" class="anime-link" data-id="${animeId}">${animeTitle}</a>`;
+  console.log('设置番剧名称:', animeTitle);
+  
+  const animeLink = animeName.querySelector('.anime-link');
+  animeLink.onclick = (e) => {
+    e.preventDefault();
+    selectAnime(animeId);
+  };
+  
   // 设置集数和时间信息
-  if (point.ep && point.s !== undefined) {
-    const minutes = Math.floor(point.s / 60);
-    const seconds = point.s % 60;
-    episodeInfo.textContent = `第${point.ep}集 ${minutes}:${seconds.toString().padStart(2, '0')}`;
+  if (point.ep) {
+    let episodeText = `第${point.ep}集`;
+    if (point.s !== undefined && point.s !== null) {
+      const minutes = Math.floor(point.s / 60);
+      const seconds = point.s % 60;
+      episodeText += ` ${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+    }
+    episodeInfo.textContent = episodeText;
+    console.log('设置集数和时间信息:', episodeText);
     traceMoeLink.classList.add('d-none');
   } else {
-    episodeInfo.textContent = '未知时间点';
+    episodeInfo.textContent = '';
     traceMoeLink.classList.remove('d-none');
     traceMoeLink.href = `https://trace.moe/?url=${encodeURIComponent(point.image)}`;
   }
@@ -1013,6 +1092,7 @@ function showPointInfo(point, anime, animeId) {
   loadPointImage(point, true).then(() => {
     if (pointImage && !pointImage.src.includes(point.image)) {
       pointImage.src = point.image;
+      console.log('图片加载成功:', point.image);
     }
   }).catch(() => {
     // 加载失败时保持占位图
@@ -1034,6 +1114,7 @@ function showPointInfo(point, anime, animeId) {
   
   // 显示信息卡片
   infoCard.classList.remove('d-none');
+  console.log('信息卡片显示完成');
 }
 
 // 选择番剧
@@ -1091,6 +1172,22 @@ function bindEvents() {
   searchButton.addEventListener('click', () => {
     const searchText = searchInput.value.trim();
     renderAnimeList(searchText, true); // 重置列表并搜索
+  });
+  
+  // 评论按钮点击事件
+  toggleCommentsBtn.addEventListener('click', () => {
+    const isHidden = commentsContainer.classList.contains('d-none');
+    commentsContainer.classList.toggle('d-none');
+    
+    // 如果评论区从隐藏变为显示，重新初始化giscus
+    if (isHidden) {
+      // 清空评论容器
+      commentsContainer.innerHTML = '<div class="giscus"></div>';
+      // 重新初始化giscus
+      if (typeof window.initGiscus === 'function') {
+        window.initGiscus();
+      }
+    }
   });
   
   searchInput.addEventListener('keyup', (e) => {
@@ -2679,7 +2776,7 @@ function initL2D() {
 function loadL2DModel() {
   try {
     // 替换为实际的模型URL
-    const modelUrl = 'https://cdn.jsdelivr.net/gh/guansss/pixi-live2d-display/examples/assets/shizuku/shizuku.model.json';
+    const modelUrl = 'https://fastly.jsdelivr.net/gh/guansss/pixi-live2d-display/examples/assets/shizuku/shizuku.model.json';
     const canvasContainer = document.querySelector('.l2d-canvas-container');
     
     // 创建canvas元素
@@ -2837,8 +2934,24 @@ function showPointInfo(point, anime, animeId) {
   
   // 设置信息卡内容
   pointName.textContent = point.name;
-  animeName.textContent = anime.title;
-  episodeInfo.textContent = point.episode ? `第${point.episode}集` : '';
+  // 创建番剧名称的超链接
+  animeName.innerHTML = `<a href="#" class="anime-link">${anime.name_cn || anime.name}</a>`;
+  episodeInfo.textContent = point.ep ? `第${point.ep}集` : '';
+  
+  // 为番剧名称添加点击事件
+  const animeLink = animeName.querySelector('.anime-link');
+  animeLink.addEventListener('click', (e) => {
+    e.preventDefault();
+    // 切换到单番剧模式
+    currentMode = 'single';
+    currentAnime = animeId;
+    // 更新模式按钮状态
+    updateModeButtons();
+    // 更新标记点显示
+    updateVisibleMarkers();
+    // 显示巡礼点列表
+    showAnimePointsList(anime, animeId);
+  });
   
   // 设置地图链接
   let lat, lng;
@@ -2907,15 +3020,108 @@ function showPointInfo(point, anime, animeId) {
   };
 }
 
-// 绑定事件 (扩展现有函数)
-function bindEvents() {
-  // ... existing code ...
+// 显示番剧的巡礼点列表
+function showAnimePointsList(anime, animeId) {
+  const animeList = document.getElementById('anime-list');
+  animeList.innerHTML = '';
   
-  // 搜索按钮点击事件
-  document.getElementById('search-button').addEventListener('click', handleSearch);
-  document.getElementById('search-input').addEventListener('keypress', function(e) {
+  // 创建返回按钮
+  const backButton = document.createElement('button');
+  backButton.className = 'btn btn-outline-primary btn-sm mb-3';
+  backButton.innerHTML = '<i class="bi bi-arrow-left"></i> 返回番剧列表';
+  backButton.onclick = () => {
+    currentMode = 'all';
+    currentAnime = null;
+    updateModeButtons();
+    updateVisibleMarkers();
+    renderAnimeList();
+  };
+  animeList.appendChild(backButton);
+  
+  // 创建番剧标题
+  const animeTitle = document.createElement('h5');
+  animeTitle.className = 'mb-3';
+  animeTitle.textContent = anime.name_cn || anime.name;
+  animeList.appendChild(animeTitle);
+  
+  // 创建巡礼点列表
+  if (anime.points && Array.isArray(anime.points)) {
+    const pointsList = document.createElement('div');
+    pointsList.className = 'points-list';
+    
+    anime.points.forEach(point => {
+      const pointItem = document.createElement('div');
+      pointItem.className = 'point-item d-flex align-items-center p-2 border-bottom';
+      
+      // 添加缩略图
+      const thumbnail = document.createElement('img');
+      thumbnail.className = 'point-thumbnail me-2';
+      thumbnail.src = point.image || 'placeholder.jpg';
+      thumbnail.alt = point.name;
+      thumbnail.style.width = '50px';
+      thumbnail.style.height = '50px';
+      thumbnail.style.objectFit = 'cover';
+      
+      // 添加地点信息
+      const info = document.createElement('div');
+      info.className = 'point-info flex-grow-1';
+      info.innerHTML = `
+        <div class="point-name">${point.name}</div>
+        ${point.ep ? `<small class="text-muted">第${point.ep}集</small>` : ''}
+      `;
+      
+      pointItem.appendChild(thumbnail);
+      pointItem.appendChild(info);
+      
+      // 添加点击事件
+      pointItem.style.cursor = 'pointer';
+      pointItem.onclick = () => {
+        if (point.geo && point.geo.length === 2) {
+          map.setView([point.geo[0], point.geo[1]], 16);
+          showPointInfo(point, anime, animeId);
+        }
+      };
+      
+      pointsList.appendChild(pointItem);
+    });
+    
+    animeList.appendChild(pointsList);
+  } else {
+    const noPoints = document.createElement('p');
+    noPoints.className = 'text-muted';
+    noPoints.textContent = '暂无巡礼地点数据';
+    animeList.appendChild(noPoints);
+  }
+}
+
+// 绑定事件
+function bindEvents() {
+  // 搜索功能
+  searchButton.addEventListener('click', () => {
+    const searchText = searchInput.value.trim();
+    renderAnimeList(searchText, true); // 重置列表并搜索
+  });
+  
+  // 评论按钮点击事件
+  toggleCommentsBtn.addEventListener('click', () => {
+    const isHidden = commentsContainer.classList.contains('d-none');
+    commentsContainer.classList.toggle('d-none');
+    
+    // 如果评论区从隐藏变为显示，重新初始化giscus
+    if (isHidden) {
+      // 清空评论容器
+      commentsContainer.innerHTML = '<div class="giscus"></div>';
+      // 重新初始化giscus
+      if (typeof window.initGiscus === 'function') {
+        window.initGiscus();
+      }
+    }
+  });
+  
+  searchInput.addEventListener('keyup', (e) => {
     if (e.key === 'Enter') {
-      handleSearch();
+      const searchText = searchInput.value.trim();
+      renderAnimeList(searchText, true); // 重置列表并搜索
     }
   });
   
