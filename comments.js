@@ -13,11 +13,11 @@ function initGiscus() {
   giscusScript.setAttribute('data-repo-id', 'R_kgDOOWDnbQ');
   giscusScript.setAttribute('data-category', 'Announcements');
   giscusScript.setAttribute('data-category-id', 'DIC_kwDOOWDnbc4Co5Rh');
-  giscusScript.setAttribute('data-mapping', 'pathname');
+  giscusScript.setAttribute('data-mapping', 'specific');
   giscusScript.setAttribute('data-strict', '0');
   giscusScript.setAttribute('data-reactions-enabled', '1');
   giscusScript.setAttribute('data-emit-metadata', '1');
-  giscusScript.setAttribute('data-input-position', 'top');
+  giscusScript.setAttribute('data-input-position', 'bottom');
   giscusScript.setAttribute('data-theme', 'light_high_contrast');
   giscusScript.setAttribute('data-lang', 'zh-CN');
   giscusScript.setAttribute('data-loading', 'lazy');
