@@ -2837,11 +2837,31 @@ function showPointInfo(point, anime, animeId) {
   episodeInfo.textContent = point.episode ? `第${point.episode}集` : '';
   
   // 设置地图链接
-  const lat = point.lat;
-  const lng = point.lng;
-  googleMapsLink.href = `https://www.google.com/maps/search/?api=1&query=${lat},${lng}`;
-  googleStreetviewLink.href = `https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${lat},${lng}`;
-  appleMapsLink.href = `https://maps.apple.com/?ll=${lat},${lng}&q=${encodeURIComponent(point.name)}`;
+  let lat, lng;
+  if (point.geo && Array.isArray(point.geo) && point.geo.length === 2) {
+    [lat, lng] = point.geo;
+    // 确保坐标有效
+    if (typeof lat === 'number' && typeof lng === 'number') {
+      googleMapsLink.href = `https://www.google.com/maps/search/?api=1&query=${lat},${lng}`;
+      googleStreetviewLink.href = `https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${lat},${lng}`;
+      appleMapsLink.href = `https://maps.apple.com/?ll=${lat},${lng}&q=${encodeURIComponent(point.cn || point.name)}`;
+      
+      // 显示地图链接
+      googleMapsLink.style.display = 'inline-block';
+      googleStreetviewLink.style.display = 'inline-block';
+      appleMapsLink.style.display = 'inline-block';
+    } else {
+      // 坐标无效，隐藏地图链接
+      googleMapsLink.style.display = 'none';
+      googleStreetviewLink.style.display = 'none';
+      appleMapsLink.style.display = 'none';
+    }
+  } else {
+    // 无坐标数据，隐藏地图链接
+    googleMapsLink.style.display = 'none';
+    googleStreetviewLink.style.display = 'none';
+    appleMapsLink.style.display = 'none';
+  }
   
   // 设置图片
   if (point.image) {
