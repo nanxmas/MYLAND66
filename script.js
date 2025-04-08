@@ -1026,6 +1026,11 @@ function showPointInfo(point, anime, animeId) {
   googleMapsLink.href = `https://www.google.com/maps?q=${lat},${lng}`;
   googleStreetviewLink.href = `http://maps.google.com/maps?q=&layer=c&cbll=${lat},${lng}&cbp=11,0,0,0,0`;
   appleMapsLink.href = `https://maps.apple.com/?ll=${lat},${lng}&q=${encodeURIComponent(point.cn || point.name)}&t=r`;
+
+  // 添加对比图按钮链接
+  const compareLink = document.getElementById('compare-link');
+  compareLink.href = `vs.html?id=${animeId}&pointsid=${point.id}&pic=${encodeURIComponent(point.image)}`;
+  compareLink.classList.remove('d-none');
   
   // 显示信息卡片
   infoCard.classList.remove('d-none');
@@ -2817,8 +2822,6 @@ function planGuideTrip(guideId) {
 
 // 在信息卡中显示巡礼点信息 (扩展现有函数)
 function showPointInfo(point, anime, animeId) {
-  // ... existing code ...
-  
   // 显示信息卡
   const infoCard = document.getElementById('info-card');
   const pointImage = document.getElementById('point-image');
@@ -2829,6 +2832,7 @@ function showPointInfo(point, anime, animeId) {
   const googleStreetviewLink = document.getElementById('google-streetview-link');
   const appleMapsLink = document.getElementById('apple-maps-link');
   const traceMoeLink = document.getElementById('trace-moe-link');
+  const compareLink = document.getElementById('compare-link');
   const addToGuideBtn = document.getElementById('add-to-guide-btn');
   
   // 设置信息卡内容
@@ -2863,25 +2867,39 @@ function showPointInfo(point, anime, animeId) {
     appleMapsLink.style.display = 'none';
   }
   
-  // 设置图片
+  // 先显示占位图
+  pointImage.src = 'loading.svg';
+  pointImage.alt = point.name;
+  traceMoeLink.classList.add('d-none');
+  compareLink.classList.add('d-none');
+  
+  // 显示信息卡
+  infoCard.classList.remove('d-none');
+  
+  // 异步加载图片
   if (point.image) {
-    pointImage.src = point.image;
-    pointImage.alt = point.name;
-    traceMoeLink.href = `https://trace.moe/?url=${encodeURIComponent(point.image)}`;
-    traceMoeLink.classList.remove('d-none');
+    const img = new Image();
+    img.onload = () => {
+      pointImage.src = point.image;
+      traceMoeLink.href = `https://trace.moe/?url=${encodeURIComponent(point.image)}`;
+      traceMoeLink.classList.remove('d-none');
+      compareLink.href = `vs.html?id=${animeId}&pointsid=${point.id}&pic=${encodeURIComponent(point.image)}`;
+      compareLink.classList.remove('d-none');
+    };
+    img.onerror = () => {
+      pointImage.src = 'placeholder.jpg';
+      pointImage.alt = '图片加载失败';
+    };
+    img.src = point.image;
   } else {
     pointImage.src = 'placeholder.jpg';
     pointImage.alt = '无图片';
-    traceMoeLink.classList.add('d-none');
   }
   
   // 设置添加到指南按钮事件
   addToGuideBtn.onclick = () => {
     openAddToGuideModal(point, anime, animeId);
   };
-  
-  // 显示信息卡
-  infoCard.classList.remove('d-none');
   
   // 绑定关闭按钮事件
   document.getElementById('close-info').onclick = () => {
