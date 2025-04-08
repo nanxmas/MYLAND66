@@ -1027,6 +1027,9 @@ function initGiscus(discussionId) {
 function showPointInfo(point, anime, animeId) {
   console.log('显示信息卡片:', { point, anime, animeId });
   
+  // 设置当前巡礼点为全局变量，供评论按钮点击事件使用
+  window.currentPoint = point;
+  
   // 隐藏评论区
   commentsContainer.classList.add('d-none');
   
@@ -1180,12 +1183,17 @@ function bindEvents() {
     commentsContainer.classList.toggle('d-none');
     
     // 如果评论区从隐藏变为显示，重新初始化giscus
-    if (isHidden) {
+    if (isHidden && currentPoint) {
       // 清空评论容器
       commentsContainer.innerHTML = '<div class="giscus"></div>';
-      // 重新初始化giscus
+      
+      // 为当前巡礼点生成唯一的讨论ID
+      const currentAnimeData = animeList.find(a => a.id === currentAnime);
+      const discussionId = `point-${currentAnimeData?.name || ''}-${currentPoint.name}-${currentPoint.lat}-${currentPoint.lng}`.replace(/[^a-zA-Z0-9-]/g, '-');
+      
+      // 重新初始化giscus，传入discussionId
       if (typeof window.initGiscus === 'function') {
-        window.initGiscus();
+        window.initGiscus(discussionId);
       }
     }
   });
@@ -3108,12 +3116,17 @@ function bindEvents() {
     commentsContainer.classList.toggle('d-none');
     
     // 如果评论区从隐藏变为显示，重新初始化giscus
-    if (isHidden) {
+    if (isHidden && currentPoint) {
       // 清空评论容器
       commentsContainer.innerHTML = '<div class="giscus"></div>';
-      // 重新初始化giscus
+      
+      // 为当前巡礼点生成唯一的讨论ID
+      const currentAnimeData = animeList.find(a => a.id === currentAnime);
+      const discussionId = `point-${currentAnimeData?.name || ''}-${currentPoint.name}-${currentPoint.lat}-${currentPoint.lng}`.replace(/[^a-zA-Z0-9-]/g, '-');
+      
+      // 重新初始化giscus，传入discussionId
       if (typeof window.initGiscus === 'function') {
-        window.initGiscus();
+        window.initGiscus(discussionId);
       }
     }
   });
