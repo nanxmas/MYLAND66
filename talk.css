@@ -1,0 +1,83 @@
+main {
+  --color-prettylights-syntax-comment: #c288b9;
+  --color-prettylights-syntax-constant: #ec8ecf;
+  --color-prettylights-syntax-entity: #ffa8d4;
+  --color-prettylights-syntax-storage-modifier-import: #f4b8d7;
+  --color-prettylights-syntax-entity-tag: #ffa0bf;
+  --color-prettylights-syntax-keyword: #f277c6;
+  --color-prettylights-syntax-string: #fba1cc;
+  --color-prettylights-syntax-variable: #f48fb1;
+  --color-prettylights-syntax-brackethighlighter-unmatched: #ff6f91;
+
+  --color-btn-text: #ffffff;
+  --color-btn-bg: #f9d5e5;
+  --color-btn-border: #fbb8d2;
+  --color-btn-hover-bg: #fbb8d2;
+  --color-btn-hover-border: #f48fb1;
+  --color-btn-active-bg: #fca3cc;
+  --color-btn-active-border: #f277c6;
+
+  --color-btn-primary-text: #ffffff;
+  --color-btn-primary-bg: #f48fb1;
+  --color-btn-primary-border: #f277c6;
+  --color-btn-primary-hover-bg: #f277c6;
+  --color-btn-primary-hover-border: #e91e63;
+
+  --color-fg-default: #444;
+  --color-fg-muted: #999;
+  --color-fg-subtle: #bbb;
+
+  --color-canvas-default: #fff;
+  --color-canvas-overlay: #fff0f5;
+  --color-canvas-inset: #fce4ec;
+  --color-canvas-subtle: #ffeef8;
+
+  --color-border-default: #f8bbd0;
+  --color-border-muted: #fcd6e0;
+
+  --color-accent-fg: #ec407a;
+  --color-accent-emphasis: #d81b60;
+  --color-accent-muted: #f06292;
+  --color-accent-subtle: #fce4ec;
+
+  --color-success-fg: #81c784;
+  --color-attention-fg: #ffb74d;
+  --color-danger-fg: #e57373;
+}
+
+main .pagination-loader-container {
+  background-image: url(https://github.com/images/modules/pulls/progressive-disclosure-line.svg);
+}
+
+.gsc-reactions-count {
+  display: none;
+}
+
+.gsc-timeline {
+  flex-direction: column-reverse;
+}
+
+.gsc-header {
+  padding-bottom: 1rem;
+}
+
+.gsc-comments > .gsc-header {
+  order: 1;
+}
+
+.gsc-comments > .gsc-comment-box {
+  margin-bottom: 1rem;
+  order: 2;
+}
+
+.gsc-comments > .gsc-timeline {
+  order: 3;
+}
+
+.gsc-homepage-bg {
+  background-color: #fff0f5;
+}
+
+main .gsc-loading-image {
+  background-image: url(https://github.githubassets.com/images/mona-loading-default.gif);
+}
