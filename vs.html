@@ -231,7 +231,7 @@
                   </div>
                 </div>
               </div>
-              
+
               <div class="image-control-group">
                 <div class="mdui-typo-caption-opacity">实拍图片</div>
                 <div class="control-panel">
@@ -399,24 +399,71 @@
 
     async function loadAnimeImage(url) {
       try {
-        const response = await fetch(url);
-        const blob = await response.blob();
+        // 检查 URL 是否需要通过 cdnapi.pages.dev 重定向
+        if (url.includes('image.xinu.ink')) {
+          // 将 URL 转换为通过 cdnapi.pages.dev 的格式
+          // 例如：https://image.xinu.ink/pic/data/639/images/n26oa9hs2-1723200025877.jpg
+          // 变为：https://cdnapi.pages.dev/pic/data/639/images/n26oa9hs2-1723200025877.jpg
+          url = url.replace('image.xinu.ink', 'cdnapi.pages.dev');
+          console.log('转换后的 URL:', url);
+        }
+
+        // 使用 Image 对象直接加载图片，这样会自动处理重定向
         const img = new Image();
-        img.src = URL.createObjectURL(blob);
-        img.onload = () => {
-          animeImage = img;
-          updatePreview();
-        };
+        img.crossOrigin = 'anonymous'; // 允许跨域
+
+        // 使用 Promise 等待图片加载完成
+        await new Promise((resolve, reject) => {
+          img.onload = resolve;
+          img.onerror = () => {
+            // 如果加载失败，尝试直接使用原始 URL
+            console.log('通过 cdnapi.pages.dev 加载失败，尝试直接加载原始 URL');
+            if (url.includes('cdnapi.pages.dev')) {
+              const originalUrl = url.replace('cdnapi.pages.dev', 'image.xinu.ink');
+              img.src = originalUrl;
+            } else {
+              reject(new Error('图片加载失败'));
+            }
+          };
+          img.src = url;
+        });
+
+        animeImage = img;
+        updatePreview();
       } catch (error) {
+        console.error('加载动画图片失败:', error);
         mdui.snackbar('加载动画图片失败');
       }
     }
 
     async function loadPointsData(animeId, pointsId) {
       try {
-        // 加载index.json
-        const indexResponse = await fetch('https://image.xinu.ink/index.json');
-        const indexData = await indexResponse.json();
+        // 尝试从多个来源加载 index.json
+        let indexData = null;
+        const sources = [
+          'https://cdnapi.pages.dev/index.json',
+          'https://image.xinu.ink/index.json'
+        ];
+
+        // 依次尝试每个来源
+        for (const source of sources) {
+          try {
+            console.log(`尝试从 ${source} 加载 index.json`);
+            const response = await fetch(source);
+            if (response.ok) {
+              indexData = await response.json();
+              console.log(`成功从 ${source} 加载 index.json`);
+              break; // 成功加载后跳出循环
+            }
+          } catch (e) {
+            console.error(`从 ${source} 加载 index.json 失败:`, e);
+          }
+        }
+
+        if (!indexData) {
+          throw new Error('无法从任何来源加载 index.json');
+        }
+
         const animeData = indexData[animeId];
 
         if (animeData) {
@@ -436,6 +483,7 @@
           }
         }
       } catch (error) {
+        console.error('加载点位信息失败:', error);
         mdui.snackbar('加载点位信息失败');
       }
     }
@@ -499,15 +547,15 @@
           const aspectRatio = animeImage.width / animeImage.height;
           let drawWidth = width / 2;
           let drawHeight = drawWidth / aspectRatio;
-          
+
           if (drawHeight > height) {
             drawHeight = height;
             drawWidth = drawHeight * aspectRatio;
           }
-          
+
           const x = (width / 4) - (drawWidth / 2) + animeX;
           const y = (height / 2) - (drawHeight / 2) + animeY;
-          
+
           ctx.save();
           ctx.translate(x + drawWidth / 2, y + drawHeight / 2);
           ctx.scale(animeScale, animeScale);
@@ -520,15 +568,15 @@
           const aspectRatio = userImage.width / userImage.height;
           let drawWidth = width / 2;
           let drawHeight = drawWidth / aspectRatio;
-          
+
           if (drawHeight > height) {
             drawHeight = height;
             drawWidth = drawHeight * aspectRatio;
           }
-          
+
           const x = (width * 3 / 4) - (drawWidth / 2) + userX;
           const y = (height / 2) - (drawHeight / 2) + userY;
-          
+
           ctx.save();
           ctx.translate(x + drawWidth / 2, y + drawHeight / 2);
           ctx.scale(userScale, userScale);
@@ -542,15 +590,15 @@
           const aspectRatio = animeImage.width / animeImage.height;
           let drawWidth = width;
           let drawHeight = drawWidth / aspectRatio;
-          
+
           if (drawHeight > height / 2) {
             drawHeight = height / 2;
             drawWidth = drawHeight * aspectRatio;
           }
-          
+
           const x = (width / 2) - (drawWidth / 2) + animeX;
           const y = (height / 4) - (drawHeight / 2) + animeY;
-          
+
           ctx.save();
           ctx.translate(x + drawWidth / 2, y + drawHeight / 2);
           ctx.scale(animeScale, animeScale);
@@ -563,15 +611,15 @@
           const aspectRatio = userImage.width / userImage.height;
           let drawWidth = width;
           let drawHeight = drawWidth / aspectRatio;
-          
+
           if (drawHeight > height / 2) {
             drawHeight = height / 2;
             drawWidth = drawHeight * aspectRatio;
           }
-          
+
           const x = (width / 2) - (drawWidth / 2) + userX;
           const y = (height * 3 / 4) - (drawHeight / 2) + userY;
-          
+
           ctx.save();
           ctx.translate(x + drawWidth / 2, y + drawHeight / 2);
           ctx.scale(userScale, userScale);
@@ -585,15 +633,15 @@
           const aspectRatio = animeImage.width / animeImage.height;
           let drawWidth = width / 2;
           let drawHeight = drawWidth / aspectRatio;
-          
+
           if (drawHeight > height) {
             drawHeight = height / 2;
             drawWidth = drawHeight * aspectRatio;
           }
-          
+
           const x = width / 4 + animeX;
           const y = height / 2 + animeY;
-          
+
           ctx.save();
           ctx.translate(x, y);
           ctx.scale(animeScale, animeScale);
@@ -606,15 +654,15 @@
           const aspectRatio = userImage.width / userImage.height;
           let drawWidth = width / 2;
           let drawHeight = drawWidth / aspectRatio;
-          
+
           if (drawHeight > height) {
             drawHeight = height / 2;
             drawWidth = drawHeight * aspectRatio;
           }
-          
+
           const x = width * 3 / 4 + userX;
           const y = height / 2 + userY;
-          
+
           ctx.save();
           ctx.translate(x, y);
           ctx.scale(userScale, userScale);
@@ -626,7 +674,7 @@
       // 绘制文字信息
       ctx.fillStyle = textColor;
       ctx.font = `${fontSize}px ${selectedFont}`;
-      
+
       const textY = height - 120;
       ctx.fillText(`${$('#titleCn').val()} / ${$('#title').val()}`, 20, textY);
       ctx.fillText(`EP${$('#episode').val()} ${$('#timestamp').val()}s`, 20, textY + 30);
