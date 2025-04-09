@@ -27,7 +27,7 @@
               </button>
             </div>
           </div>
-          
+
           <!-- 侧边栏标签页 -->
           <ul class="nav nav-tabs mb-3" id="sidebar-tabs" role="tablist">
             <li class="nav-item" role="presentation">
@@ -36,8 +36,11 @@
             <li class="nav-item" role="presentation">
               <button class="nav-link" id="guide-tab" data-bs-toggle="tab" data-bs-target="#guide-panel" type="button" role="tab" aria-controls="guide-panel" aria-selected="false">指南</button>
             </li>
+            <li class="nav-item" role="presentation">
+              <button class="nav-link" id="settings-tab" data-bs-toggle="tab" data-bs-target="#settings-panel" type="button" role="tab" aria-controls="settings-panel" aria-selected="false">设置</button>
+            </li>
           </ul>
-          
+
           <div class="tab-content">
             <!-- 番剧列表面板 -->
             <div class="tab-pane fade show active" id="anime-panel" role="tabpanel" aria-labelledby="anime-tab">
@@ -45,7 +48,7 @@
                 <div id="anime-list" class="list-group overflow-auto"></div>
               </div>
             </div>
-            
+
             <!-- 指南列表面板 -->
             <div class="tab-pane fade" id="guide-panel" role="tabpanel" aria-labelledby="guide-tab">
               <div class="d-flex justify-content-between align-items-center mb-3">
@@ -53,6 +56,36 @@
                 <button id="create-guide-btn" class="btn btn-sm btn-primary">
                   <i class="bi bi-plus-lg"></i> 新建
                 </button>
+              </div>
+              <div class="guide-list-container">
+                <div id="guide-list" class="list-group overflow-auto"></div>
+              </div>
+            </div>
+
+            <!-- 设置面板 -->
+            <div class="tab-pane fade" id="settings-panel" role="tabpanel" aria-labelledby="settings-tab">
+              <h5 class="mb-3">API设置</h5>
+              <div class="mb-3">
+                <label for="api-base-url-select" class="form-label">API基础地址</label>
+                <select class="form-select mb-2" id="api-base-url-select">
+                  <option value="mirror">Mirror接口 (默认)</option>
+                  <option value="xinu">XINU接口</option>
+                  <option value="mcdn">MCDN接口</option>
+                  <option value="custom">自定义接口</option>
+                </select>
+                <div id="custom-api-input" class="d-none">
+                  <input type="text" class="form-control" id="api-base-url" placeholder="请输入自定义API地址">
+                </div>
+                <div class="form-text">设置数据API的基础URL，所有API请求将使用此地址。</div>
+                <button class="btn btn-outline-info mt-2" id="test-api-btn">
+                  <i class="bi bi-speedometer2"></i> 连通测试
+                </button>
+              </div>
+              <div class="d-grid gap-2">
+                <button class="btn btn-primary" id="save-settings-btn">保存设置</button>
+                <button class="btn btn-outline-secondary" id="reset-settings-btn">恢复默认</button>
+              </div>
+            </div>
               </div>
               <div class="guide-list-container">
                 <div id="guide-list" class="list-group overflow-auto"></div>
@@ -73,7 +106,7 @@
           <div class="card-body">
             <div class="row">
               <div class="col-md-6">
-                <img id="point-image" src="" alt="地点图片" class="img-fluid rounded mb-2">
+                <img id="point-image" src="" alt="地点图片" class="img-fluid rounded mb-2" title="点击查看大图">
               </div>
               <div class="col-md-6">
                 <h5 id="point-name" class="card-title"></h5>
@@ -116,7 +149,7 @@
           <button id="mode-single" class="btn btn-outline-primary">单番剧</button>
           <button id="mode-guide" class="btn btn-outline-primary">指南</button>
         </div>
-        
+
         <!-- L2D站娘容器 -->
         <div id="l2d-container" class="l2d-container d-none">
           <div class="l2d-canvas-container">
@@ -143,7 +176,7 @@
   <button id="toggle-sidebar" class="btn btn-primary mobile-toggle">
     <i class="bi bi-list"></i>
   </button>
-  
+
   <!-- 创建指南模态框 -->
   <div class="modal fade" id="create-guide-modal" tabindex="-1" aria-labelledby="create-guide-modal-label" aria-hidden="true">
     <div class="modal-dialog">
@@ -175,7 +208,7 @@
       </div>
     </div>
   </div>
-  
+
   <!-- 添加到指南模态框 -->
   <div class="modal fade" id="add-to-guide-modal" tabindex="-1" aria-labelledby="add-to-guide-modal-label" aria-hidden="true">
     <div class="modal-dialog">
@@ -197,7 +230,7 @@
       </div>
     </div>
   </div>
-  
+
   <!-- 指南详情模态框 -->
   <div class="modal fade" id="guide-details-modal" tabindex="-1" aria-labelledby="guide-details-modal-label" aria-hidden="true">
     <div class="modal-dialog modal-lg">
@@ -246,7 +279,7 @@
       </div>
     </div>
   </div>
-  
+
   <!-- 分享指南模态框 -->
   <div class="modal fade" id="share-guide-modal" tabindex="-1" aria-labelledby="share-guide-modal-label" aria-hidden="true">
     <div class="modal-dialog">
@@ -269,7 +302,7 @@
       </div>
     </div>
   </div>
-  
+
   <!-- 编辑指南模态框 -->
   <div class="modal fade" id="edit-guide-modal" tabindex="-1" aria-labelledby="edit-guide-modal-label" aria-hidden="true">
     <div class="modal-dialog">
@@ -301,7 +334,7 @@
       </div>
     </div>
   </div>
-  
+
   <!-- 导入指南模态框 -->
   <div class="modal fade" id="import-guide-modal" tabindex="-1" aria-labelledby="import-guide-modal-label" aria-hidden="true">
     <div class="modal-dialog">
@@ -311,13 +344,66 @@
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
-          <div id="import-guide-details">
-            <!-- 这里将显示要导入的指南详情 -->
-          </div>
+          <div id="import-guide-container"></div>
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">取消</button>
-          <button type="button" class="btn btn-primary" id="confirm-import-btn">导入到我的指南</button>
+          <button type="button" class="btn btn-primary" id="confirm-import-guide-btn">导入</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 图片查看模态框 -->
+  <div class="modal fade image-viewer-modal" id="image-viewer-modal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        <div class="modal-body">
+          <img id="fullsize-image" src="" alt="巡礼点大图">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- API测试模态框 -->
+  <div class="modal fade" id="api-test-modal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">API节点连通测试</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="d-flex justify-content-between mb-3">
+            <div>测试中，请稍候...（最长可能需要 30 秒）</div>
+            <div class="text-end">
+              <span class="badge bg-info">测试中</span>
+              <span class="badge bg-success d-none">测试完成</span>
+            </div>
+          </div>
+          <div class="progress mb-3">
+            <div id="api-test-progress" class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 0%"></div>
+          </div>
+          <div class="table-responsive">
+            <table class="table table-bordered">
+              <thead>
+                <tr>
+                  <th>API节点</th>
+                  <th>状态</th>
+                  <th>响应时间</th>
+                  <th>操作</th>
+                </tr>
+              </thead>
+              <tbody id="api-test-results">
+                <!-- 测试结果将在这里动态添加 -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">关闭</button>
+          <button type="button" class="btn btn-primary" id="retest-api-btn">重新测试</button>
         </div>
       </div>
     </div>
