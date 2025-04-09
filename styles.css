@@ -171,9 +171,14 @@ body, html {
 
 /* 地图样式 */
 #map {
-  height: 100vh;
+  height: 100%;
   width: 100%;
   z-index: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
 
 /* 信息卡片样式 */
@@ -207,6 +212,16 @@ body, html {
 
 .btn-close:hover {
   opacity: 1;
+}
+
+/* 巡礼点图片样式 */
+#point-image {
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+#point-image:hover {
+  transform: scale(1.02);
 }
 
 .map-links {
@@ -1067,6 +1082,58 @@ body, html {
 
 .modal-footer {
   border-top: 1px solid var(--divider-color);
+}
+
+/* 图片查看模态框样式 */
+.image-viewer-modal .modal-dialog {
+  max-width: 90%;
+  margin: 1.75rem auto;
+}
+
+.image-viewer-modal .modal-content {
+  background-color: rgba(0, 0, 0, 0.85);
+  border: none;
+}
+
+.image-viewer-modal .modal-body {
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-viewer-modal img {
+  max-width: 100%;
+  max-height: 85vh;
+  object-fit: contain;
+}
+
+.image-viewer-modal .btn-close {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background-color: rgba(255, 255, 255, 0.3);
+  color: white;
+  opacity: 0.8;
+  z-index: 1050;
+  padding: 0.5rem;
+  border-radius: 50%;
+}
+
+.image-viewer-modal .btn-close:hover {
+  opacity: 1;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+@media (max-width: 768px) {
+  .image-viewer-modal .modal-dialog {
+    max-width: 95%;
+    margin: 0.5rem auto;
+  }
+  
+  .image-viewer-modal img {
+    max-height: 80vh;
+  }
 }
 
 /* 地图缩放控件样式 */
@@ -1934,4 +2001,56 @@ body, html {
 
 .modal-footer {
   border-top: 1px solid var(--divider-color);
+}
+
+/* 图片查看模态框样式 */
+.image-viewer-modal .modal-dialog {
+  max-width: 90%;
+  margin: 1.75rem auto;
+}
+
+.image-viewer-modal .modal-content {
+  background-color: rgba(0, 0, 0, 0.85);
+  border: none;
+}
+
+.image-viewer-modal .modal-body {
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-viewer-modal img {
+  max-width: 100%;
+  max-height: 85vh;
+  object-fit: contain;
+}
+
+.image-viewer-modal .btn-close {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background-color: rgba(255, 255, 255, 0.3);
+  color: white;
+  opacity: 0.8;
+  z-index: 1050;
+  padding: 0.5rem;
+  border-radius: 50%;
+}
+
+.image-viewer-modal .btn-close:hover {
+  opacity: 1;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+@media (max-width: 768px) {
+  .image-viewer-modal .modal-dialog {
+    max-width: 95%;
+    margin: 0.5rem auto;
+  }
+  
+  .image-viewer-modal img {
+    max-height: 80vh;
+  }
 }
