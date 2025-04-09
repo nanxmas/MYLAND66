@@ -254,13 +254,23 @@ function initMap() {
       button.title = '切换地图源';
       button.innerHTML = '<i class="bi bi-layers"></i>';
       
-      const dropdown = L.DomUtil.create('div', 'map-source-dropdown', container);
+      // 创建模态框
+      const modal = L.DomUtil.create('div', 'map-source-modal', document.body);
+      const content = L.DomUtil.create('div', 'map-source-content', modal);
+      
+      // 添加模态框头部
+      const header = L.DomUtil.create('div', 'map-source-header', content);
+      const title = L.DomUtil.create('h3', 'map-source-title', header);
+      title.textContent = '选择地图源';
+      
+      const closeBtn = L.DomUtil.create('button', 'map-source-close', header);
+      closeBtn.innerHTML = '<i class="bi bi-x"></i>';
       
       // 将地图源分类
       const categories = {
-        'standard': { title: '标准地图', sources: [] },
-        'satellite': { title: '卫星影像', sources: [] },
-        'special': { title: '特色地图', sources: [] }
+        'standard': { title: '标准地图', icon: 'bi-map', sources: [] },
+        'satellite': { title: '卫星影像', icon: 'bi-globe', sources: [] },
+        'special': { title: '特色地图', icon: 'bi-stars', sources: [] }
       };
       
       // 对地图源进行分类
@@ -278,15 +288,24 @@ function initMap() {
       Object.entries(categories).forEach(([categoryKey, category]) => {
         if (category.sources.length > 0) {
           // 添加分类标题
-          const categoryTitle = L.DomUtil.create('div', 'map-source-category', dropdown);
-          categoryTitle.textContent = category.title;
+          const categoryTitle = L.DomUtil.create('div', 'map-source-category', content);
+          categoryTitle.innerHTML = `<i class="bi ${category.icon}"></i> ${category.title}`;
+          
+          // 创建网格容器
+          const grid = L.DomUtil.create('div', 'map-source-grid', content);
           
           // 添加该分类下的地图源
           category.sources.forEach(({ key, source }) => {
-            const option = L.DomUtil.create('a', 'map-source-option', dropdown);
-            option.href = '#';
+            const option = L.DomUtil.create('div', 'map-source-option', grid);
             option.dataset.source = key;
-            option.textContent = source.name;
+            
+            // 添加图标
+            const icon = L.DomUtil.create('div', 'map-source-icon', option);
+            icon.innerHTML = `<i class="bi ${category.icon}"></i>`;
+            
+            // 添加名称
+            const name = L.DomUtil.create('div', 'map-source-name', option);
+            name.textContent = source.name;
             
             if (key === currentMapSource) {
               option.classList.add('active');
@@ -296,23 +315,28 @@ function initMap() {
               L.DomEvent.preventDefault(e);
               L.DomEvent.stopPropagation(e);
               changeMapSource(key);
-              dropdown.classList.remove('show');
+              modal.classList.remove('show');
             });
           });
         }
       });
       
-      // 切换下拉菜单显示/隐藏
+      // 打开模态框
       L.DomEvent.on(button, 'click', function(e) {
         L.DomEvent.preventDefault(e);
         L.DomEvent.stopPropagation(e);
-        dropdown.classList.toggle('show');
+        modal.classList.add('show');
       });
       
-      // 点击地图其他区域时隐藏下拉菜单
-      L.DomEvent.on(document, 'click', function(e) {
-        if (!container.contains(e.target)) {
-          dropdown.classList.remove('show');
+      // 关闭模态框
+      L.DomEvent.on(closeBtn, 'click', function() {
+        modal.classList.remove('show');
+      });
+      
+      // 点击模态框外部关闭
+      L.DomEvent.on(modal, 'click', function(e) {
+        if (e.target === modal) {
+          modal.classList.remove('show');
         }
       });
       
@@ -998,21 +1022,21 @@ function clearMarkers() {
 
 // 显示地点信息
 // 初始化giscus评论系统
-function initGiscus(discussionId) {
+function initGiscus() {
   const giscusScript = document.createElement('script');
   giscusScript.src = 'https://giscus.app/client.js';
   giscusScript.setAttribute('data-repo', 'lmc26817/tourtalk');
   giscusScript.setAttribute('data-repo-id', 'R_kgDOOWDnbQ');
   giscusScript.setAttribute('data-category', 'Announcements');
   giscusScript.setAttribute('data-category-id', 'DIC_kwDOOWDnbc4Co5Rh');
-  giscusScript.setAttribute('data-mapping', 'specific');
-  giscusScript.setAttribute('data-term', discussionId);
+  giscusScript.setAttribute('data-mapping', 'url');
   giscusScript.setAttribute('data-strict', '0');
   giscusScript.setAttribute('data-reactions-enabled', '1');
   giscusScript.setAttribute('data-emit-metadata', '0');
-  giscusScript.setAttribute('data-input-position', 'bottom');
+  giscusScript.setAttribute('data-input-position', 'top');
   giscusScript.setAttribute('data-theme', 'light_high_contrast');
   giscusScript.setAttribute('data-lang', 'zh-CN');
+  giscusScript.setAttribute('data-loading', 'lazy');
   giscusScript.setAttribute('crossorigin', 'anonymous');
   giscusScript.setAttribute('async', '');
   
@@ -1030,11 +1054,12 @@ function showPointInfo(point, anime, animeId) {
   // 隐藏评论区
   commentsContainer.classList.add('d-none');
   
-  // 为当前巡礼点生成唯一的讨论ID
-  const discussionId = `point-${anime.name}-${point.name}-${point.lat}-${point.lng}`.replace(/[^a-zA-Z0-9-]/g, '-');
+  // 更新URL参数，使用point.id和animeId作为标识
+  const newUrl = `${window.location.pathname}?p=${point.id || ''}&anime=${animeId || ''}`;
+  window.history.pushState({}, '', newUrl);
   
-  // 初始化该巡礼点的评论区
-  initGiscus(discussionId);
+  // 初始化该巡礼点的评论区（现在使用URL作为标识）
+  initGiscus();
   
   const pointName = document.getElementById('point-name');
   const animeName = document.getElementById('anime-name');
@@ -2508,6 +2533,8 @@ function generateGuideShareLink(guide) {
 function parseUrlParams() {
   const urlParams = new URLSearchParams(window.location.search);
   const guideParam = urlParams.get('guide');
+  const pointParam = urlParams.get('p');
+  const animeParam = urlParams.get('anime');
   
   if (guideParam) {
     try {
@@ -2520,6 +2547,30 @@ function parseUrlParams() {
       console.error('Error parsing guide data from URL:', error);
       showToast('无法解析指南数据，链接可能已损坏', 'danger');
     }
+  }
+  
+  // 如果URL中包含巡礼点和番剧参数，尝试加载对应的信息
+  if (pointParam && animeParam) {
+    console.log('从URL加载巡礼点:', pointParam, '番剧:', animeParam);
+    
+    // 先选择对应的番剧
+    selectAnime(animeParam);
+    
+    // 然后尝试找到并显示对应的巡礼点
+    setTimeout(() => {
+      const anime = allAnimeData[animeParam];
+      if (anime && anime.points) {
+        const point = anime.points.find(p => p.id === pointParam);
+        if (point) {
+          // 找到了对应的巡礼点，显示信息
+          showPointInfo(point, anime, animeParam);
+          // 如果有地理坐标，将地图定位到该点
+          if (point.geo && point.geo.length === 2) {
+            map.setView([point.geo[0], point.geo[1]], 16);
+          }
+        }
+      }
+    }, 500); // 给selectAnime一些时间加载番剧数据
   }
 }
 
@@ -2942,6 +2993,9 @@ function showPointInfo(point, anime, animeId) {
   // 更新URL参数
   const newUrl = `${window.location.pathname}?p=${point.id}&fan=${animeId}`;
   window.history.pushState({}, '', newUrl);
+
+  // 初始化该巡礼点的独立评论区
+  initGiscus(point.id);
 
   // 显示信息卡
   const infoCard = document.getElementById('info-card');
