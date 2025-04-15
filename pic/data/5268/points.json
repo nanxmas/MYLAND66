@@ -1,0 +1,47 @@
+[
+  {
+    "id": "556-0",
+    "name": "東久留米第5号踏切",
+    "image": "https://image.xinu.ink/pic/data/5268/images/556-0.jpg",
+    "geo": [
+      35.7697432,
+      139.5245993
+    ]
+  },
+  {
+    "id": "556-1",
+    "name": "氷川台通り",
+    "image": "https://image.xinu.ink/pic/data/5268/images/556-1.jpg",
+    "geo": [
+      35.7625431,
+      139.5319216
+    ]
+  },
+  {
+    "id": "556-2",
+    "name": "石神井町4丁目付近",
+    "image": "https://image.xinu.ink/pic/data/5268/images/556-2.jpg",
+    "geo": [
+      35.747652,
+      139.6023586
+    ]
+  },
+  {
+    "id": "556-3",
+    "name": "ウエルシア練馬三原台店",
+    "image": "https://image.xinu.ink/pic/data/5268/images/556-3.jpg",
+    "geo": [
+      35.750578,
+      139.5987048
+    ]
+  },
+  {
+    "id": "556-4",
+    "name": "アーバンドック ららぽーと豊洲",
+    "image": "https://image.xinu.ink/pic/data/5268/images/556-4.jpg",
+    "geo": [
+      35.6555826,
+      139.7926632
+    ]
+  }
+]
