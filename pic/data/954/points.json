@@ -1,0 +1,641 @@
+[
+  {
+    "id": "12-1",
+    "name": "浜松町1丁目交差点南",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-1.jpg",
+    "geo": [
+      36.403779,
+      139.338892
+    ]
+  },
+  {
+    "id": "12-2",
+    "name": "浜松町２丁目",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-2.jpg",
+    "geo": [
+      36.401201,
+      139.34052
+    ]
+  },
+  {
+    "id": "12-3",
+    "name": "浜松町２丁目交差点",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-3.jpg",
+    "geo": [
+      36.400117,
+      139.341483
+    ]
+  },
+  {
+    "id": "12-4",
+    "name": "１０日５キロの看板",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-4.jpg",
+    "geo": [
+      36.399787,
+      139.341938
+    ]
+  },
+  {
+    "id": "12-5",
+    "name": "水路が見える交差点",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-5.jpg",
+    "geo": [
+      36.396108,
+      139.344503
+    ]
+  },
+  {
+    "id": "12-6",
+    "name": "学校（桐生総合福祉センター）",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-6.jpg",
+    "geo": [
+      36.39521,
+      139.344857
+    ]
+  },
+  {
+    "id": "12-7",
+    "name": "星野モータース前T字路",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-7.jpg",
+    "geo": [
+      36.403284,
+      139.339213
+    ]
+  },
+  {
+    "id": "12-8",
+    "name": "うどんそば処やぶよし",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-8.jpg",
+    "geo": [
+      36.405868,
+      139.336392
+    ]
+  },
+  {
+    "id": "12-9",
+    "name": "猫町堂（雄文堂書店）",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-9.jpg",
+    "geo": [
+      36.414585,
+      139.341332
+    ]
+  },
+  {
+    "id": "12-10",
+    "name": "奈良書店",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-10.jpg",
+    "geo": [
+      36.411077,
+      139.343913
+    ]
+  },
+  {
+    "id": "12-11",
+    "name": "サンアイ",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-11.jpg",
+    "geo": [
+      36.405288,
+      139.335378
+    ]
+  },
+  {
+    "id": "12-12",
+    "name": "浜松一丁目交差点北",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-12.jpg",
+    "geo": [
+      36.404962,
+      139.338157
+    ]
+  },
+  {
+    "id": "12-13",
+    "name": "柵越しの平屋家屋",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-13.jpg",
+    "geo": [
+      36.405717,
+      139.336746
+    ]
+  },
+  {
+    "id": "12-14",
+    "name": "路地裏通り",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-14.jpg",
+    "geo": [
+      36.403496,
+      139.339082
+    ]
+  },
+  {
+    "id": "12-16",
+    "name": "アサヒ堂",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-16.jpg",
+    "geo": [
+      36.405458,
+      139.335161
+    ]
+  },
+  {
+    "id": "12-17",
+    "name": "堤防道路01",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-17.jpg",
+    "geo": [
+      36.394571,
+      139.338259
+    ]
+  },
+  {
+    "id": "12-18",
+    "name": "堤防道路02",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-18.jpg",
+    "geo": [
+      36.395072,
+      139.337414
+    ]
+  },
+  {
+    "id": "12-19",
+    "name": "堤防道路03",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-19.jpg",
+    "geo": [
+      36.389938,
+      139.344047
+    ]
+  },
+  {
+    "id": "12-20",
+    "name": "末広町交差点",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-20.jpg",
+    "geo": [
+      36.411302,
+      139.336016
+    ]
+  },
+  {
+    "id": "12-21",
+    "name": "図書館",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-21.jpg",
+    "geo": [
+      36.408487,
+      139.331687
+    ]
+  },
+  {
+    "id": "12-23",
+    "name": "太田衣料店側",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-23.jpg",
+    "geo": [
+      36.403608,
+      139.338977
+    ]
+  },
+  {
+    "id": "12-24",
+    "name": "PUB「M」跡地",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-24.jpg",
+    "geo": [
+      36.410121,
+      139.33722
+    ]
+  },
+  {
+    "id": "12-25",
+    "name": "渡辺鋼鉄店周辺",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-25.jpg",
+    "geo": [
+      36.403725,
+      139.339932
+    ]
+  },
+  {
+    "id": "12-26",
+    "name": "朝倉染布倉庫前",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-26.jpg",
+    "geo": [
+      36.396393,
+      139.335342
+    ]
+  },
+  {
+    "id": "12-27",
+    "name": "総合福祉センター入り口",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-27.jpg",
+    "geo": [
+      36.395651,
+      139.344082
+    ]
+  },
+  {
+    "id": "12-28",
+    "name": "博文堂前",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-28.jpg",
+    "geo": [
+      36.395974,
+      139.340994
+    ]
+  },
+  {
+    "id": "12-29",
+    "name": "アサヒ堂前",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-29.jpg",
+    "geo": [
+      36.405484,
+      139.33523
+    ]
+  },
+  {
+    "id": "12-30",
+    "name": "川田商店",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-30.jpg",
+    "geo": [
+      36.405283,
+      139.335093
+    ]
+  },
+  {
+    "id": "12-31",
+    "name": "桐生市総合福祉センター",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-31.jpg",
+    "geo": [
+      36.395452,
+      139.34487
+    ]
+  },
+  {
+    "id": "12-33",
+    "name": "両毛線架線下",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-33.jpg",
+    "geo": [
+      36.409178,
+      139.337845
+    ]
+  },
+  {
+    "id": "12-34",
+    "name": "本町5丁目交差点",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-34.jpg",
+    "geo": [
+      36.410253,
+      139.338714
+    ]
+  },
+  {
+    "id": "12-35",
+    "name": "シロキヤ書店",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-35.jpg",
+    "geo": [
+      36.409795,
+      139.338403
+    ]
+  },
+  {
+    "id": "12-36",
+    "name": "文化堂",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-36.jpg",
+    "geo": [
+      36.409411,
+      139.338146
+    ]
+  },
+  {
+    "id": "12-37",
+    "name": "花清パートIII",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-37.jpg",
+    "geo": [
+      36.410417,
+      139.338902
+    ]
+  },
+  {
+    "id": "12-38",
+    "name": "ローズ",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-38.jpg",
+    "geo": [
+      36.410775,
+      139.339079
+    ]
+  },
+  {
+    "id": "12-39",
+    "name": "桐生信用金庫",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-39.jpg",
+    "geo": [
+      36.411198,
+      139.339085
+    ]
+  },
+  {
+    "id": "12-40",
+    "name": "Village",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-40.jpg",
+    "geo": [
+      36.410777,
+      139.338806
+    ]
+  },
+  {
+    "id": "12-41",
+    "name": "AIKO",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-41.jpg",
+    "geo": [
+      36.410542,
+      139.338548
+    ]
+  },
+  {
+    "id": "12-42",
+    "name": "雄文堂書店（猫町堂）",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-42.jpg",
+    "geo": [
+      36.414557,
+      139.341356
+    ]
+  },
+  {
+    "id": "12-43",
+    "name": "喫茶ガス灯",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-43.jpg",
+    "geo": [
+      36.410324,
+      139.338446
+    ]
+  },
+  {
+    "id": "12-44",
+    "name": "桐生市公営住宅裏公園",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-44.jpg",
+    "geo": [
+      36.404299,
+      139.34041
+    ]
+  },
+  {
+    "id": "12-45",
+    "name": "駐車場角",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-45.jpg",
+    "geo": [
+      36.402904,
+      139.335823
+    ]
+  },
+  {
+    "id": "12-46",
+    "name": "おりひめばし",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-46.jpg",
+    "geo": [
+      36.40276,
+      139.330488
+    ]
+  },
+  {
+    "id": "12-47",
+    "name": "小梅琴平公園",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-47.jpg",
+    "geo": [
+      36.393738,
+      139.33813
+    ]
+  },
+  {
+    "id": "12-48",
+    "name": "桐生市総合福祉センター裏門",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-48.jpg",
+    "geo": [
+      36.395016,
+      139.343129
+    ]
+  },
+  {
+    "id": "12-49",
+    "name": "みなみ歩道橋",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-49.jpg",
+    "geo": [
+      36.39999,
+      139.339774
+    ]
+  },
+  {
+    "id": "12-50",
+    "name": "用水路1",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-50.jpg",
+    "geo": [
+      36.39859,
+      139.342407
+    ]
+  },
+  {
+    "id": "12-51",
+    "name": "用水路2",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-51.jpg",
+    "geo": [
+      36.398243,
+      139.342957
+    ]
+  },
+  {
+    "id": "12-52",
+    "name": "路地",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-52.jpg",
+    "geo": [
+      36.402028,
+      139.340265
+    ]
+  },
+  {
+    "id": "12-53",
+    "name": "路地T字1",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-53.jpg",
+    "geo": [
+      36.401732,
+      139.340579
+    ]
+  },
+  {
+    "id": "12-55",
+    "name": "路地T字3",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-55.jpg",
+    "geo": [
+      36.402231,
+      139.340844
+    ]
+  },
+  {
+    "id": "12-56",
+    "name": "両毛線高架橋下",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-56.jpg",
+    "geo": [
+      36.406841,
+      139.341324
+    ]
+  },
+  {
+    "id": "12-57",
+    "name": "中通り大橋橋脚",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-57.jpg",
+    "geo": [
+      36.400059,
+      139.329584
+    ]
+  },
+  {
+    "id": "12-59",
+    "name": "目印 59",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-59.jpg",
+    "geo": [
+      36.408616,
+      139.338779
+    ]
+  },
+  {
+    "id": "12-60",
+    "name": "目印 60",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-60.jpg",
+    "geo": [
+      36.409148,
+      139.339138
+    ]
+  },
+  {
+    "id": "12-61",
+    "name": "北向観音入り口",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-61.jpg",
+    "geo": [
+      36.467422,
+      139.395947
+    ]
+  },
+  {
+    "id": "12-62",
+    "name": "長山金物前",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-62.jpg",
+    "geo": [
+      36.432742,
+      139.354572
+    ]
+  },
+  {
+    "id": "12-63",
+    "name": "コジマ",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-63.jpg",
+    "geo": [
+      36.438815,
+      139.361111
+    ]
+  },
+  {
+    "id": "12-64",
+    "name": "錦町交差点",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-64.jpg",
+    "geo": [
+      36.404429,
+      139.334536
+    ]
+  },
+  {
+    "id": "12-65",
+    "name": "桐生市総合福祉センター裏通り",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-65.jpg",
+    "geo": [
+      36.395575,
+      139.343934
+    ]
+  },
+  {
+    "id": "12-66",
+    "name": "桐生市総合福祉センター裏通り",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-66.jpg",
+    "geo": [
+      36.394916,
+      139.342974
+    ]
+  },
+  {
+    "id": "12-67",
+    "name": "一方通行出口",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-67.jpg",
+    "geo": [
+      36.394746,
+      139.342684
+    ]
+  },
+  {
+    "id": "12-68",
+    "name": "英文堂前",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-68.jpg",
+    "geo": [
+      36.39554,
+      139.341622
+    ]
+  },
+  {
+    "id": "12-69",
+    "name": "韓国食堂トラヤ前",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-69.jpg",
+    "geo": [
+      36.395627,
+      139.341507
+    ]
+  },
+  {
+    "id": "12-70",
+    "name": "オオハシ",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-70.jpg",
+    "geo": [
+      36.405191,
+      139.333774
+    ]
+  },
+  {
+    "id": "12-71",
+    "name": "後藤建設",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-71.jpg",
+    "geo": [
+      36.404988,
+      139.333983
+    ]
+  },
+  {
+    "id": "12-72",
+    "name": "上の湯",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-72.jpg",
+    "geo": [
+      36.404957,
+      139.334259
+    ]
+  },
+  {
+    "id": "12-73",
+    "name": "虎屋",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-73.jpg",
+    "geo": [
+      36.404875,
+      139.333884
+    ]
+  },
+  {
+    "id": "12-74",
+    "name": "駐車場",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-74.jpg",
+    "geo": [
+      36.404709,
+      139.334058
+    ]
+  },
+  {
+    "id": "12-75",
+    "name": "渡良瀬川堤防道路",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-75.jpg",
+    "geo": [
+      36.395974,
+      139.335732
+    ]
+  },
+  {
+    "id": "12-76",
+    "name": "本町五丁目",
+    "image": "https://image.xinu.ink/pic/data/954/images/12-76.jpg",
+    "geo": [
+      36.410266,
+      139.338765
+    ]
+  }
+]

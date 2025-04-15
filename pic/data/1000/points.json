@@ -1,0 +1,335 @@
+[
+  {
+    "id": "60-1",
+    "name": "旧秩父橋",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-1.jpg",
+    "geo": [
+      36.018698,
+      139.086356
+    ]
+  },
+  {
+    "id": "60-2",
+    "name": "新秩父橋",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-2.jpg",
+    "geo": [
+      36.018524,
+      139.085798
+    ]
+  },
+  {
+    "id": "60-3",
+    "name": "太平洋セメント秩父工場",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-3.jpg",
+    "geo": [
+      36.028017,
+      139.095025
+    ]
+  },
+  {
+    "id": "60-4",
+    "name": "札所十七番 定林寺",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-4.jpg",
+    "geo": [
+      36.00573,
+      139.084245
+    ]
+  },
+  {
+    "id": "60-5",
+    "name": "桜木町の十字路",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-5.jpg",
+    "geo": [
+      36.003849,
+      139.084889
+    ]
+  },
+  {
+    "id": "60-6",
+    "name": "旧キンカ堂跡",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-6.jpg",
+    "geo": [
+      36.00095,
+      139.084283
+    ]
+  },
+  {
+    "id": "60-7",
+    "name": "宮側町児童公園",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-7.jpg",
+    "geo": [
+      36.000121,
+      139.08546
+    ]
+  },
+  {
+    "id": "60-8",
+    "name": "秩父鉄道線路端・武蔵屋付近",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-8.jpg",
+    "geo": [
+      35.99674,
+      139.085246
+    ]
+  },
+  {
+    "id": "60-9",
+    "name": "秩父鉄道線路端・まつり会館裏",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-9.jpg",
+    "geo": [
+      35.9972,
+      139.085396
+    ]
+  },
+  {
+    "id": "60-10",
+    "name": "ベーシックプラザ",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-10.jpg",
+    "geo": [
+      35.997287,
+      139.085863
+    ]
+  },
+  {
+    "id": "60-11",
+    "name": "秩父ふるさと館",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-11.jpg",
+    "geo": [
+      35.997001,
+      139.082526
+    ]
+  },
+  {
+    "id": "60-12",
+    "name": "旧モスバーガー",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-12.jpg",
+    "geo": [
+      35.995037,
+      139.081319
+    ]
+  },
+  {
+    "id": "60-13",
+    "name": "浅野靴店",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-13.jpg",
+    "geo": [
+      35.995614,
+      139.084025
+    ]
+  },
+  {
+    "id": "60-14",
+    "name": "武蔵野銀行秩父支店",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-14.jpg",
+    "geo": [
+      35.999064,
+      139.083999
+    ]
+  },
+  {
+    "id": "60-15",
+    "name": "7-11秩父宮側町店",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-15.jpg",
+    "geo": [
+      35.998476,
+      139.083591
+    ]
+  },
+  {
+    "id": "60-16",
+    "name": "早稲田育英ゼミナール秩父駅前教室",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-16.jpg",
+    "geo": [
+      35.998813,
+      139.08383
+    ]
+  },
+  {
+    "id": "60-17",
+    "name": "交差点“秩父駅入口”北側",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-17.jpg",
+    "geo": [
+      35.999485,
+      139.084108
+    ]
+  },
+  {
+    "id": "60-18",
+    "name": "秩父第一病院看板",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-18.jpg",
+    "geo": [
+      35.995167,
+      139.075968
+    ]
+  },
+  {
+    "id": "60-19",
+    "name": "羊山公園慰霊碑側",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-19.jpg",
+    "geo": [
+      35.990156,
+      139.090138
+    ]
+  },
+  {
+    "id": "60-20",
+    "name": "喜多園、たつみや",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-20.jpg",
+    "geo": [
+      35.999201,
+      139.083658
+    ]
+  },
+  {
+    "id": "60-21",
+    "name": "ほっとすぽっと秩父館",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-21.jpg",
+    "geo": [
+      35.998789,
+      139.083357
+    ]
+  },
+  {
+    "id": "60-23",
+    "name": "秩父神社鳥居",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-23.jpg",
+    "geo": [
+      35.99666,
+      139.084165
+    ]
+  },
+  {
+    "id": "60-24",
+    "name": "八幡屋(やはたや)本店",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-24.jpg",
+    "geo": [
+      35.996363,
+      139.084264
+    ]
+  },
+  {
+    "id": "60-27",
+    "name": "旧一丸跡",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-27.jpg",
+    "geo": [
+      35.993262,
+      139.080099
+    ]
+  },
+  {
+    "id": "60-28",
+    "name": "矢尾百貨店秩父店",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-28.jpg",
+    "geo": [
+      35.992832,
+      139.079809
+    ]
+  },
+  {
+    "id": "60-29",
+    "name": "北井戸",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-29.jpg",
+    "geo": [
+      36.004569,
+      139.08395
+    ]
+  },
+  {
+    "id": "60-30",
+    "name": "桜木町大ケヤキの坂",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-30.jpg",
+    "geo": [
+      36.004726,
+      139.083701
+    ]
+  },
+  {
+    "id": "60-31",
+    "name": "峰寿司",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-31.jpg",
+    "geo": [
+      36.004912,
+      139.083205
+    ]
+  },
+  {
+    "id": "60-32",
+    "name": "けやき公園〈桜木町児童公園〉",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-32.jpg",
+    "geo": [
+      36.005748,
+      139.084894
+    ]
+  },
+  {
+    "id": "60-33",
+    "name": "相生町児童公園のあずまや",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-33.jpg",
+    "geo": [
+      36.006481,
+      139.085297
+    ]
+  },
+  {
+    "id": "60-34",
+    "name": "公園をつなぐトンネル",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-34.jpg",
+    "geo": [
+      36.006262,
+      139.085275
+    ]
+  },
+  {
+    "id": "60-36",
+    "name": "正丸トンネル",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-36.jpg",
+    "geo": [
+      35.958113,
+      139.161941
+    ]
+  },
+  {
+    "id": "60-38",
+    "name": "道場町の交差点",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-38.jpg",
+    "geo": [
+      35.99832,
+      139.08222
+    ]
+  },
+  {
+    "id": "60-39",
+    "name": "西武秩父駅",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-39.jpg",
+    "geo": [
+      35.989835,
+      139.083416
+    ]
+  },
+  {
+    "id": "60-40",
+    "name": "秩父市立第一中学校",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-40.jpg",
+    "geo": [
+      36.013942,
+      139.0898
+    ]
+  },
+  {
+    "id": "60-43",
+    "name": "秩父聖地公園",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-43.jpg",
+    "geo": [
+      36.010436,
+      139.101934
+    ]
+  },
+  {
+    "id": "60-45",
+    "name": "見晴亭(みはらしてい)",
+    "image": "https://image.xinu.ink/pic/data/1000/images/60-45.jpg",
+    "geo": [
+      36.018407,
+      139.087247
+    ]
+  }
+]

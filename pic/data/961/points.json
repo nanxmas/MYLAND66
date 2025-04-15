@@ -1,0 +1,596 @@
+[
+  {
+    "id": "19-1",
+    "name": "キービジュアル",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-1.jpg",
+    "geo": [
+      36.156428,
+      137.258565
+    ]
+  },
+  {
+    "id": "19-2",
+    "name": "多数話　神山高校",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-2.jpg",
+    "geo": [
+      36.156987,
+      137.258517
+    ]
+  },
+  {
+    "id": "19-3",
+    "name": "ＯＰ　鍛冶橋のカット",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-3.jpg",
+    "geo": [
+      36.146262,
+      137.25746
+    ]
+  },
+  {
+    "id": "19-4",
+    "name": "ＯＰ　川のカット",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-4.jpg",
+    "geo": [
+      36.146253,
+      137.257387
+    ]
+  },
+  {
+    "id": "19-5",
+    "name": "ＯＰ　商店街の様子",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-5.jpg",
+    "geo": [
+      36.144399,
+      137.257143
+    ]
+  },
+  {
+    "id": "19-6",
+    "name": "OP　招き猫",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-6.jpg",
+    "geo": [
+      36.14246,
+      137.25783
+    ]
+  },
+  {
+    "id": "19-7",
+    "name": "ＯＰ　雨の中の宮川朝市の場所",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-7.jpg",
+    "geo": [
+      36.144024,
+      137.258042
+    ]
+  },
+  {
+    "id": "19-8",
+    "name": "OP 水位観測所",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-8.jpg",
+    "geo": [
+      36.14546,
+      137.25783
+    ]
+  },
+  {
+    "id": "19-9",
+    "name": "OP 建物と建物の間",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-9.jpg",
+    "geo": [
+      36.144369,
+      137.258023
+    ]
+  },
+  {
+    "id": "19-10",
+    "name": "OP　河原の階段付近",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-10.jpg",
+    "geo": [
+      36.144951,
+      137.25783
+    ]
+  },
+  {
+    "id": "19-11",
+    "name": "OP　神社の境内の階段",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-11.jpg",
+    "geo": [
+      36.133588,
+      137.259305
+    ]
+  },
+  {
+    "id": "19-12",
+    "name": "OP 弥生橋手前の小さい橋",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-12.jpg",
+    "geo": [
+      36.146483,
+      137.257715
+    ]
+  },
+  {
+    "id": "19-13",
+    "name": "1話　あすかそば",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-13.jpg",
+    "geo": [
+      36.146197,
+      137.256719
+    ]
+  },
+  {
+    "id": "19-14",
+    "name": "1話　下校途中",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-14.jpg",
+    "geo": [
+      36.142523,
+      137.257707
+    ]
+  },
+  {
+    "id": "19-15",
+    "name": "1話　ワープ中の帰り道",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-15.jpg",
+    "geo": [
+      36.143515,
+      137.257454
+    ]
+  },
+  {
+    "id": "19-16",
+    "name": "1",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-16.jpg",
+    "geo": [
+      36.142998,
+      137.257591
+    ]
+  },
+  {
+    "id": "19-17",
+    "name": "2",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-17.jpg",
+    "geo": [
+      36.137964,
+      137.256204
+    ]
+  },
+  {
+    "id": "19-18",
+    "name": "2，3話　パイナップルサンド",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-18.jpg",
+    "geo": [
+      36.141115,
+      137.259096
+    ]
+  },
+  {
+    "id": "19-19",
+    "name": "4話　千反田邸のモデル",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-19.jpg",
+    "geo": [
+      34.826119,
+      137.965515
+    ]
+  },
+  {
+    "id": "19-20",
+    "name": "4話　千反田邸に行く途中　その１",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-20.jpg",
+    "geo": [
+      36.141401,
+      137.265214
+    ]
+  },
+  {
+    "id": "19-21",
+    "name": "4話　千反田邸に行く途中　その3",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-21.jpg",
+    "geo": [
+      36.139605,
+      137.266134
+    ]
+  },
+  {
+    "id": "19-22",
+    "name": "4話　千反田邸に行く途中　その4",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-22.jpg",
+    "geo": [
+      36.140918,
+      137.265327
+    ]
+  },
+  {
+    "id": "19-23",
+    "name": "4話　千反田邸に行く途中　その5",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-23.jpg",
+    "geo": [
+      36.141048,
+      137.265364
+    ]
+  },
+  {
+    "id": "19-24",
+    "name": "4話　千反田邸に行く途中　その6",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-24.jpg",
+    "geo": [
+      36.1412,
+      137.26541
+    ]
+  },
+  {
+    "id": "19-25",
+    "name": "4話　千反田邸に行く途中　その7",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-25.jpg",
+    "geo": [
+      36.134162,
+      137.287104
+    ]
+  },
+  {
+    "id": "19-26",
+    "name": "4話　千反田邸があるはずの場所",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-26.jpg",
+    "geo": [
+      36.133196,
+      137.297988
+    ]
+  },
+  {
+    "id": "19-27",
+    "name": "4話　千反田邸の帰り",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-27.jpg",
+    "geo": [
+      36.133404,
+      137.276493
+    ]
+  },
+  {
+    "id": "19-28",
+    "name": "5話　奉太郎が姉に手紙を出したポスト",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-28.jpg",
+    "geo": [
+      36.145954,
+      137.256744
+    ]
+  },
+  {
+    "id": "19-29",
+    "name": "7話　アルプス街道　平湯",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-29.jpg",
+    "geo": [
+      36.190899,
+      137.552106
+    ]
+  },
+  {
+    "id": "19-30",
+    "name": "7話　民宿「青山荘」の位置のモデル",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-30.jpg",
+    "geo": [
+      36.192484,
+      137.554466
+    ]
+  },
+  {
+    "id": "19-31",
+    "name": "7話　横の小道からのカット",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-31.jpg",
+    "geo": [
+      36.192298,
+      137.554174
+    ]
+  },
+  {
+    "id": "19-32",
+    "name": "7話　温泉のモデル（平湯の湯）",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-32.jpg",
+    "geo": [
+      36.191904,
+      137.554313
+    ]
+  },
+  {
+    "id": "19-33",
+    "name": "8話　恋合病院のモデル",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-33.jpg",
+    "geo": [
+      36.153781,
+      137.257197
+    ]
+  },
+  {
+    "id": "19-34",
+    "name": "8話　奉太郎の家の近くを走り去っていく車のカット",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-34.jpg",
+    "geo": [
+      36.138145,
+      137.256065
+    ]
+  },
+  {
+    "id": "19-35",
+    "name": "9話　八百屋からのカット",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-35.jpg",
+    "geo": [
+      36.145844,
+      137.256795
+    ]
+  },
+  {
+    "id": "19-36",
+    "name": "10",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-36.jpg",
+    "geo": [
+      36.141616,
+      137.259581
+    ]
+  },
+  {
+    "id": "19-38",
+    "name": "10話　商店街の風景",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-38.jpg",
+    "geo": [
+      36.142107,
+      137.257884
+    ]
+  },
+  {
+    "id": "19-39",
+    "name": "10話　HIDA　KAMIYAMA WOOD Studio前",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-39.jpg",
+    "geo": [
+      36.14139,
+      137.258243
+    ]
+  },
+  {
+    "id": "19-41",
+    "name": "10話　喫茶チロルの前",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-41.jpg",
+    "geo": [
+      36.142187,
+      137.257843
+    ]
+  },
+  {
+    "id": "19-42",
+    "name": "10話　商店街の風景（～マーケット）",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-42.jpg",
+    "geo": [
+      36.142196,
+      137.25794
+    ]
+  },
+  {
+    "id": "19-43",
+    "name": "10話　里志が自転車に乗って手を振った時の背景カット",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-43.jpg",
+    "geo": [
+      36.142694,
+      137.25769
+    ]
+  },
+  {
+    "id": "19-44",
+    "name": "10話　道路の表示",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-44.jpg",
+    "geo": [
+      36.14193,
+      137.257972
+    ]
+  },
+  {
+    "id": "19-45",
+    "name": "11話　弥生橋",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-45.jpg",
+    "geo": [
+      36.146147,
+      137.257267
+    ]
+  },
+  {
+    "id": "19-46",
+    "name": "11話　えると奉太郎が話をした河原",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-46.jpg",
+    "geo": [
+      36.145759,
+      137.257369
+    ]
+  },
+  {
+    "id": "19-47",
+    "name": "11話　河原に降りるため自転車を止めたところ",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-47.jpg",
+    "geo": [
+      36.145709,
+      137.257798
+    ]
+  },
+  {
+    "id": "19-48",
+    "name": "11話　奉太郎が落ち込んでいた？ところ",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-48.jpg",
+    "geo": [
+      36.143621,
+      137.257454
+    ]
+  },
+  {
+    "id": "19-49",
+    "name": "11話　喫茶店の帰り道",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-49.jpg",
+    "geo": [
+      36.138555,
+      137.255968
+    ]
+  },
+  {
+    "id": "19-50",
+    "name": "11.5話　川沿いの風景",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-50.jpg",
+    "geo": [
+      36.158468,
+      137.232692
+    ]
+  },
+  {
+    "id": "19-51",
+    "name": "11.5話　奉太郎のバイトしたプール",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-51.jpg",
+    "geo": [
+      36.157913,
+      137.231523
+    ]
+  },
+  {
+    "id": "19-52",
+    "name": "12話　水無神社へ行くときに通った道",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-52.jpg",
+    "geo": [
+      36.086043,
+      137.250781
+    ]
+  },
+  {
+    "id": "19-53",
+    "name": "12",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-53.jpg",
+    "geo": [
+      36.085328,
+      137.251859
+    ]
+  },
+  {
+    "id": "19-54",
+    "name": "15話　里志の帰り道",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-54.jpg",
+    "geo": [
+      36.142361,
+      137.255639
+    ]
+  },
+  {
+    "id": "19-55",
+    "name": "OP2　不動橋",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-55.jpg",
+    "geo": [
+      36.148874,
+      137.256883
+    ]
+  },
+  {
+    "id": "19-56",
+    "name": "OP2　荒楠神社",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-56.jpg",
+    "geo": [
+      36.132875,
+      137.261038
+    ]
+  },
+  {
+    "id": "19-57",
+    "name": "18話　神山市図書館（高山市図書館｢煥章館｣ ）",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-57.jpg",
+    "geo": [
+      36.143515,
+      137.262425
+    ]
+  },
+  {
+    "id": "19-58",
+    "name": "18話　川のカット",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-58.jpg",
+    "geo": [
+      36.146251,
+      137.257352
+    ]
+  },
+  {
+    "id": "19-59",
+    "name": "18話　弥生橋東側交差点",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-59.jpg",
+    "geo": [
+      36.146264,
+      137.257798
+    ]
+  },
+  {
+    "id": "19-60",
+    "name": "18話　連峰を望んだカット",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-60.jpg",
+    "geo": [
+      36.146028,
+      137.24016
+    ]
+  },
+  {
+    "id": "19-61",
+    "name": "18話　弥生橋手前の小さい橋",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-61.jpg",
+    "geo": [
+      36.146381,
+      137.25761
+    ]
+  },
+  {
+    "id": "19-62",
+    "name": "18話　鍛冶橋",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-62.jpg",
+    "geo": [
+      36.143127,
+      137.25798
+    ]
+  },
+  {
+    "id": "19-63",
+    "name": "20話　荒楠神社",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-63.jpg",
+    "geo": [
+      36.1331,
+      137.261303
+    ]
+  },
+  {
+    "id": "19-64",
+    "name": "21話　バレンタインのラッピングを選んだ雑貨屋さん",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-64.jpg",
+    "geo": [
+      35.444027,
+      136.774727
+    ]
+  },
+  {
+    "id": "19-65",
+    "name": "21話　不動橋",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-65.jpg",
+    "geo": [
+      36.148841,
+      137.256709
+    ]
+  },
+  {
+    "id": "19-66",
+    "name": "21話　花里跨線橋",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-66.jpg",
+    "geo": [
+      36.138343,
+      137.251607
+    ]
+  },
+  {
+    "id": "19-67",
+    "name": "21話　飛騨総社",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-67.jpg",
+    "geo": [
+      36.148295,
+      137.255073
+    ]
+  },
+  {
+    "id": "19-68",
+    "name": "22話　立派な桜の木",
+    "image": "https://image.xinu.ink/pic/data/961/images/19-68.jpg",
+    "geo": [
+      36.088937,
+      137.247962
+    ]
+  }
+]

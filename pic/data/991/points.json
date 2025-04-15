@@ -1,0 +1,38 @@
+[
+  {
+    "id": "50-3",
+    "name": "太歳神社",
+    "image": "https://image.xinu.ink/pic/data/991/images/50-3.jpg",
+    "geo": [
+      34.81882,
+      132.845333
+    ]
+  },
+  {
+    "id": "50-4",
+    "name": "三次駅前",
+    "image": "https://image.xinu.ink/pic/data/991/images/50-4.jpg",
+    "geo": [
+      34.803012,
+      132.855767
+    ]
+  },
+  {
+    "id": "50-8",
+    "name": "イズミ",
+    "image": "https://image.xinu.ink/pic/data/991/images/50-8.jpg",
+    "geo": [
+      34.804008,
+      132.860069
+    ]
+  },
+  {
+    "id": "50-10",
+    "name": "映画館",
+    "image": "https://image.xinu.ink/pic/data/991/images/50-10.jpg",
+    "geo": [
+      34.805483,
+      132.849029
+    ]
+  }
+]

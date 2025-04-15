@@ -1,0 +1,74 @@
+[
+  {
+    "id": "8-1",
+    "name": "新鎌ヶ谷駅",
+    "image": "https://image.xinu.ink/pic/data/951/images/8-1.jpg",
+    "geo": [
+      35.780062,
+      139.999946
+    ]
+  },
+  {
+    "id": "8-2",
+    "name": "金閣寺",
+    "image": "https://image.xinu.ink/pic/data/951/images/8-2.jpg",
+    "geo": [
+      35.038933,
+      135.72866
+    ]
+  },
+  {
+    "id": "8-3",
+    "name": "京都駅（新幹線ホーム13・14番のりば）",
+    "image": "https://image.xinu.ink/pic/data/951/images/8-3.jpg",
+    "geo": [
+      34.984458,
+      135.758379
+    ]
+  },
+  {
+    "id": "8-4",
+    "name": "京都駅（JR中央口4F南広場）",
+    "image": "https://image.xinu.ink/pic/data/951/images/8-4.jpg",
+    "geo": [
+      34.985636,
+      135.758196
+    ]
+  },
+  {
+    "id": "8-5",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/951/images/8-5.jpg",
+    "geo": [
+      34.994549,
+      135.785458
+    ]
+  },
+  {
+    "id": "8-6",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/951/images/8-6.jpg",
+    "geo": [
+      34.994676,
+      135.784981
+    ]
+  },
+  {
+    "id": "8-7",
+    "name": "祇園（花見小路通）",
+    "image": "https://image.xinu.ink/pic/data/951/images/8-7.jpg",
+    "geo": [
+      35.001986,
+      135.774705
+    ]
+  },
+  {
+    "id": "8-8",
+    "name": "法観寺 八坂の塔",
+    "image": "https://image.xinu.ink/pic/data/951/images/8-8.jpg",
+    "geo": [
+      34.998607,
+      135.778146
+    ]
+  }
+]

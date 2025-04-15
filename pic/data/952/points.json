@@ -1,0 +1,587 @@
+[
+  {
+    "id": "10-1",
+    "name": "ヴインテージクラブムライ付近",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-1.jpg",
+    "geo": [
+      36.314628,
+      140.571852
+    ]
+  },
+  {
+    "id": "10-2",
+    "name": "「若見屋」交差点",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-2.jpg",
+    "geo": [
+      36.313621,
+      140.569403
+    ]
+  },
+  {
+    "id": "10-3",
+    "name": "「若見屋」交差点",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-3.jpg",
+    "geo": [
+      36.313705,
+      140.56958
+    ]
+  },
+  {
+    "id": "10-4",
+    "name": "大洗マリンタワー（３Ｆ展望室）",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-4.jpg",
+    "geo": [
+      36.310275,
+      140.570626
+    ]
+  },
+  {
+    "id": "10-5",
+    "name": "大洗リゾートアウトレット（２Ｆ）",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-5.jpg",
+    "geo": [
+      36.309622,
+      140.569553
+    ]
+  },
+  {
+    "id": "10-6",
+    "name": "大洗鳥居坂道",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-6.jpg",
+    "geo": [
+      36.314127,
+      140.586701
+    ]
+  },
+  {
+    "id": "10-7",
+    "name": "「大洗鳥居下」交差点",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-7.jpg",
+    "geo": [
+      36.313275,
+      140.586017
+    ]
+  },
+  {
+    "id": "10-8",
+    "name": "大洗マリンタワー付近",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-8.jpg",
+    "geo": [
+      36.311027,
+      140.569701
+    ]
+  },
+  {
+    "id": "10-9",
+    "name": "大洗リゾートアウトレット付近",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-9.jpg",
+    "geo": [
+      36.310048,
+      140.569038
+    ]
+  },
+  {
+    "id": "10-10",
+    "name": "「マリンタワー南」交差点",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-10.jpg",
+    "geo": [
+      36.308429,
+      140.567126
+    ]
+  },
+  {
+    "id": "10-11",
+    "name": "「マリンタワー南」交差点付近",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-11.jpg",
+    "geo": [
+      36.308632,
+      140.566919
+    ]
+  },
+  {
+    "id": "10-12",
+    "name": "レストラン大野屋付近",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-12.jpg",
+    "geo": [
+      36.31197,
+      140.567265
+    ]
+  },
+  {
+    "id": "10-13",
+    "name": "酒井屋",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-13.jpg",
+    "geo": [
+      36.311652,
+      140.566807
+    ]
+  },
+  {
+    "id": "10-14",
+    "name": "金子屋薬局前",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-14.jpg",
+    "geo": [
+      36.312184,
+      140.56751
+    ]
+  },
+  {
+    "id": "10-15",
+    "name": "金子屋薬局付近",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-15.jpg",
+    "geo": [
+      36.312251,
+      140.567579
+    ]
+  },
+  {
+    "id": "10-16",
+    "name": "そば処大進",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-16.jpg",
+    "geo": [
+      36.314732,
+      140.572158
+    ]
+  },
+  {
+    "id": "10-17",
+    "name": "米藤金物店付近",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-17.jpg",
+    "geo": [
+      36.315153,
+      140.572571
+    ]
+  },
+  {
+    "id": "10-18",
+    "name": "米藤金物店の交差点",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-18.jpg",
+    "geo": [
+      36.314928,
+      140.572675
+    ]
+  },
+  {
+    "id": "10-19",
+    "name": "加藤とうふ店付近",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-19.jpg",
+    "geo": [
+      36.314987,
+      140.573153
+    ]
+  },
+  {
+    "id": "10-20",
+    "name": "旅館肴屋本店付近",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-20.jpg",
+    "geo": [
+      36.315043,
+      140.573566
+    ]
+  },
+  {
+    "id": "10-21",
+    "name": "旅館肴屋本店",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-21.jpg",
+    "geo": [
+      36.314957,
+      140.573888
+    ]
+  },
+  {
+    "id": "10-22",
+    "name": "コジマ・旅館福本楼",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-22.jpg",
+    "geo": [
+      36.314317,
+      140.57116
+    ]
+  },
+  {
+    "id": "10-23",
+    "name": "きそば常陸屋・魚忠・KOIYA",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-23.jpg",
+    "geo": [
+      36.314228,
+      140.570908
+    ]
+  },
+  {
+    "id": "10-24",
+    "name": "路地裏",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-24.jpg",
+    "geo": [
+      36.313571,
+      140.571597
+    ]
+  },
+  {
+    "id": "10-25",
+    "name": "スズラン美容室",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-25.jpg",
+    "geo": [
+      36.313122,
+      140.569974
+    ]
+  },
+  {
+    "id": "10-26",
+    "name": "「若見屋」交差点",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-26.jpg",
+    "geo": [
+      36.313634,
+      140.569773
+    ]
+  },
+  {
+    "id": "10-27",
+    "name": "「若見屋」交差点",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-27.jpg",
+    "geo": [
+      36.313815,
+      140.569309
+    ]
+  },
+  {
+    "id": "10-28",
+    "name": "「若見屋」交差点",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-28.jpg",
+    "geo": [
+      36.313606,
+      140.569618
+    ]
+  },
+  {
+    "id": "10-29",
+    "name": "大洗リゾートアウトレット（駐車場）",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-29.jpg",
+    "geo": [
+      36.310118,
+      140.569663
+    ]
+  },
+  {
+    "id": "10-30",
+    "name": "大洗リゾートアウトレット（２Ｆ）",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-30.jpg",
+    "geo": [
+      36.308617,
+      140.568691
+    ]
+  },
+  {
+    "id": "10-31",
+    "name": "大洗リゾートアウトレット（１Ｆまいわい市場）",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-31.jpg",
+    "geo": [
+      36.309767,
+      140.569655
+    ]
+  },
+  {
+    "id": "10-32",
+    "name": "大洗リゾートアウトレット（１Ｆ噴水）",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-32.jpg",
+    "geo": [
+      36.308423,
+      140.568088
+    ]
+  },
+  {
+    "id": "10-33",
+    "name": "大洗駅（３番線）",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-33.jpg",
+    "geo": [
+      36.315337,
+      140.562639
+    ]
+  },
+  {
+    "id": "10-34",
+    "name": "大洗駅（改札内）（改札外）",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-34.jpg",
+    "geo": [
+      36.315112,
+      140.562966
+    ]
+  },
+  {
+    "id": "10-35",
+    "name": "大洗駅",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-35.jpg",
+    "geo": [
+      36.315168,
+      140.563368
+    ]
+  },
+  {
+    "id": "10-36",
+    "name": "大洗駅",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-36.jpg",
+    "geo": [
+      36.315326,
+      140.563248
+    ]
+  },
+  {
+    "id": "10-37",
+    "name": "大洗駅",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-37.jpg",
+    "geo": [
+      36.315127,
+      140.563258
+    ]
+  },
+  {
+    "id": "10-38",
+    "name": "「ゆっくら健康館北」交差点",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-38.jpg",
+    "geo": [
+      36.312765,
+      140.571039
+    ]
+  },
+  {
+    "id": "10-39",
+    "name": "「文化センター前」交差点",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-39.jpg",
+    "geo": [
+      36.312424,
+      140.574027
+    ]
+  },
+  {
+    "id": "10-40",
+    "name": "アクアワールド大洗水族館",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-40.jpg",
+    "geo": [
+      36.332642,
+      140.593393
+    ]
+  },
+  {
+    "id": "10-41",
+    "name": "アクアワールド大洗水族館内部",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-41.jpg",
+    "geo": [
+      36.333217,
+      140.593806
+    ]
+  },
+  {
+    "id": "10-42",
+    "name": "大洗駅",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-42.jpg",
+    "geo": [
+      36.315095,
+      140.563309
+    ]
+  },
+  {
+    "id": "10-43",
+    "name": "大洗駅",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-43.jpg",
+    "geo": [
+      36.315052,
+      140.563097
+    ]
+  },
+  {
+    "id": "10-44",
+    "name": "大洗駅",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-44.jpg",
+    "geo": [
+      36.314617,
+      140.56288
+    ]
+  },
+  {
+    "id": "10-45",
+    "name": "ふあふあケア",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-45.jpg",
+    "geo": [
+      36.314092,
+      140.563325
+    ]
+  },
+  {
+    "id": "10-46",
+    "name": "県道106号線交差点",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-46.jpg",
+    "geo": [
+      36.312341,
+      140.562424
+    ]
+  },
+  {
+    "id": "10-47",
+    "name": "県道106号線",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-47.jpg",
+    "geo": [
+      36.312013,
+      140.563111
+    ]
+  },
+  {
+    "id": "10-48",
+    "name": "エネオス",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-48.jpg",
+    "geo": [
+      36.310184,
+      140.564935
+    ]
+  },
+  {
+    "id": "10-60",
+    "name": "Cook Fan",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-60.jpg",
+    "geo": [
+      36.336354,
+      140.484991
+    ]
+  },
+  {
+    "id": "10-61",
+    "name": "Cook Fan",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-61.jpg",
+    "geo": [
+      36.336125,
+      140.484844
+    ]
+  },
+  {
+    "id": "10-62",
+    "name": "土浦駐屯地",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-62.jpg",
+    "geo": [
+      36.047512,
+      140.220839
+    ]
+  },
+  {
+    "id": "10-63",
+    "name": "のりもの倶楽部",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-63.jpg",
+    "geo": [
+      35.690489,
+      139.732557
+    ]
+  },
+  {
+    "id": "10-64",
+    "name": "のりもの倶楽部",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-64.jpg",
+    "geo": [
+      35.690396,
+      139.732736
+    ]
+  },
+  {
+    "id": "10-65",
+    "name": "さいたま新都心駅西口",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-65.jpg",
+    "geo": [
+      35.893894,
+      139.632915
+    ]
+  },
+  {
+    "id": "10-66",
+    "name": "さいたまスーパーアリーナ",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-66.jpg",
+    "geo": [
+      35.894217,
+      139.630297
+    ]
+  },
+  {
+    "id": "10-67",
+    "name": "松江赤十字病院",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-67.jpg",
+    "geo": [
+      35.469836,
+      133.056482
+    ]
+  },
+  {
+    "id": "10-68",
+    "name": "東富士演習場",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-68.jpg",
+    "geo": [
+      35.282821,
+      138.849697
+    ]
+  },
+  {
+    "id": "10-69",
+    "name": "株式会社アクタス付近",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-69.jpg",
+    "geo": [
+      35.713216,
+      139.61448
+    ]
+  },
+  {
+    "id": "10-70",
+    "name": "株式会社アクタス付近",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-70.jpg",
+    "geo": [
+      35.713484,
+      139.613901
+    ]
+  },
+  {
+    "id": "10-71",
+    "name": "株式会社アクタス付近",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-71.jpg",
+    "geo": [
+      35.713471,
+      139.61444
+    ]
+  },
+  {
+    "id": "10-72",
+    "name": "株式会社アクタス付近",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-72.jpg",
+    "geo": [
+      35.713527,
+      139.614684
+    ]
+  },
+  {
+    "id": "10-73",
+    "name": "株式会社アクタス付近",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-73.jpg",
+    "geo": [
+      35.713606,
+      139.61437
+    ]
+  },
+  {
+    "id": "10-74",
+    "name": "ひばりヶ丘団地",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-74.jpg",
+    "geo": [
+      35.743057,
+      139.534878
+    ]
+  },
+  {
+    "id": "10-75",
+    "name": "井ノ頭通り（五中前バス停）",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-75.jpg",
+    "geo": [
+      35.709843,
+      139.550649
+    ]
+  },
+  {
+    "id": "10-76",
+    "name": "井ノ頭通り",
+    "image": "https://image.xinu.ink/pic/data/952/images/10-76.jpg",
+    "geo": [
+      35.712064,
+      139.544692
+    ]
+  }
+]

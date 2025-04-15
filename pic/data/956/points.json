@@ -1,0 +1,839 @@
+[
+  {
+    "id": "14-1",
+    "name": "新宿駅東口交差点",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-1.jpg",
+    "geo": [
+      35.692111,
+      139.701905
+    ]
+  },
+  {
+    "id": "14-2",
+    "name": "永山コパボウル",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-2.jpg",
+    "geo": [
+      35.631187,
+      139.447644
+    ]
+  },
+  {
+    "id": "14-3",
+    "name": "小田急永山駅 駅舎",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-3.jpg",
+    "geo": [
+      35.62986,
+      139.448174
+    ]
+  },
+  {
+    "id": "14-4",
+    "name": "小田急/京王永山駅 コンコース",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-4.jpg",
+    "geo": [
+      35.630355,
+      139.447954
+    ]
+  },
+  {
+    "id": "14-5",
+    "name": "鵜野森交差点",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-5.jpg",
+    "geo": [
+      35.54272,
+      139.430111
+    ]
+  },
+  {
+    "id": "14-6",
+    "name": "熊野橋交差点付近の交通案内標識",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-6.jpg",
+    "geo": [
+      35.639629,
+      139.450423
+    ]
+  },
+  {
+    "id": "14-7",
+    "name": "関戸橋 南詰",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-7.jpg",
+    "geo": [
+      35.651967,
+      139.454384
+    ]
+  },
+  {
+    "id": "14-8",
+    "name": "関戸橋",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-8.jpg",
+    "geo": [
+      35.653051,
+      139.454918
+    ]
+  },
+  {
+    "id": "14-9",
+    "name": "NEC中河原技術センター",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-9.jpg",
+    "geo": [
+      35.655882,
+      139.454839
+    ]
+  },
+  {
+    "id": "14-10",
+    "name": "関戸橋 北寄り",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-10.jpg",
+    "geo": [
+      35.654866,
+      139.455639
+    ]
+  },
+  {
+    "id": "14-11",
+    "name": "関戸橋北交差点",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-11.jpg",
+    "geo": [
+      35.656163,
+      139.456063
+    ]
+  },
+  {
+    "id": "14-12",
+    "name": "京王線 中河原駅",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-12.jpg",
+    "geo": [
+      35.659471,
+      139.457247
+    ]
+  },
+  {
+    "id": "14-13",
+    "name": "レインボーブリッジ 芝浦側アンカーレイジ下",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-13.jpg",
+    "geo": [
+      35.637472,
+      139.760156
+    ]
+  },
+  {
+    "id": "14-15",
+    "name": "東芝府中事業所",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-15.jpg",
+    "geo": [
+      35.681557,
+      139.465975
+    ]
+  },
+  {
+    "id": "14-16",
+    "name": "東京競馬場 正門",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-16.jpg",
+    "geo": [
+      35.666562,
+      139.484632
+    ]
+  },
+  {
+    "id": "14-17",
+    "name": "東京競馬場 メインスタンド前",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-17.jpg",
+    "geo": [
+      35.664584,
+      139.484589
+    ]
+  },
+  {
+    "id": "14-18",
+    "name": "東京競馬場 メインスタンド西側",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-18.jpg",
+    "geo": [
+      35.664462,
+      139.481953
+    ]
+  },
+  {
+    "id": "14-19",
+    "name": "東京競馬場 フジビュースタンド3F",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-19.jpg",
+    "geo": [
+      35.664998,
+      139.48208
+    ]
+  },
+  {
+    "id": "14-20",
+    "name": "東京競馬場 正門連絡通路",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-20.jpg",
+    "geo": [
+      35.66593,
+      139.484621
+    ]
+  },
+  {
+    "id": "14-21",
+    "name": "本町二丁目交差点",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-21.jpg",
+    "geo": [
+      35.667129,
+      139.474638
+    ]
+  },
+  {
+    "id": "14-22",
+    "name": "税務署角交差点",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-22.jpg",
+    "geo": [
+      35.666751,
+      139.470722
+    ]
+  },
+  {
+    "id": "14-23",
+    "name": "寿町三丁目交差点",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-23.jpg",
+    "geo": [
+      35.673476,
+      139.475066
+    ]
+  },
+  {
+    "id": "14-24",
+    "name": "中河原駅北",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-24.jpg",
+    "geo": [
+      35.6604,
+      139.457713
+    ]
+  },
+  {
+    "id": "14-25",
+    "name": "ライフ・府中中河原店北側",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-25.jpg",
+    "geo": [
+      35.660553,
+      139.458212
+    ]
+  },
+  {
+    "id": "14-26",
+    "name": "京王線 中河原駅北側歩道橋",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-26.jpg",
+    "geo": [
+      35.659734,
+      139.457404
+    ]
+  },
+  {
+    "id": "14-27",
+    "name": "京王線 中河原駅駅舎",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-27.jpg",
+    "geo": [
+      35.659665,
+      139.457752
+    ]
+  },
+  {
+    "id": "14-28",
+    "name": "中河原駅北側歩道橋階段",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-28.jpg",
+    "geo": [
+      35.659967,
+      139.457282
+    ]
+  },
+  {
+    "id": "14-30",
+    "name": "幸町一丁目交差点南側",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-30.jpg",
+    "geo": [
+      35.681205,
+      139.479631
+    ]
+  },
+  {
+    "id": "14-31",
+    "name": "けやき並木北交差点",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-31.jpg",
+    "geo": [
+      35.675632,
+      139.479322
+    ]
+  },
+  {
+    "id": "14-32",
+    "name": "写真屋",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-32.jpg",
+    "geo": [
+      35.675493,
+      139.479496
+    ]
+  },
+  {
+    "id": "14-33",
+    "name": "スーパーヤマザキ府中店",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-33.jpg",
+    "geo": [
+      35.674234,
+      139.479063
+    ]
+  },
+  {
+    "id": "14-34",
+    "name": "けやき並木 寿町一丁目交差点",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-34.jpg",
+    "geo": [
+      35.6733,
+      139.479203
+    ]
+  },
+  {
+    "id": "14-35",
+    "name": "府中駅北第2庁舎前",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-35.jpg",
+    "geo": [
+      35.673746,
+      139.479182
+    ]
+  },
+  {
+    "id": "14-36",
+    "name": "小金井街道 案内標識",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-36.jpg",
+    "geo": [
+      35.675188,
+      139.4866
+    ]
+  },
+  {
+    "id": "14-37",
+    "name": "小金井街道交差点",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-37.jpg",
+    "geo": [
+      35.675224,
+      139.486904
+    ]
+  },
+  {
+    "id": "14-38",
+    "name": "府中の森公園西角交差点",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-38.jpg",
+    "geo": [
+      35.678,
+      139.489811
+    ]
+  },
+  {
+    "id": "14-39",
+    "name": "府中市美術館 標識",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-39.jpg",
+    "geo": [
+      35.678671,
+      139.491674
+    ]
+  },
+  {
+    "id": "14-40",
+    "name": "府中市美術館",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-40.jpg",
+    "geo": [
+      35.678843,
+      139.491942
+    ]
+  },
+  {
+    "id": "14-41",
+    "name": "航空自衛隊府中基地",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-41.jpg",
+    "geo": [
+      35.673053,
+      139.496067
+    ]
+  },
+  {
+    "id": "14-42",
+    "name": "ゴルフ５ 府中店",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-42.jpg",
+    "geo": [
+      35.670371,
+      139.503697
+    ]
+  },
+  {
+    "id": "14-43",
+    "name": "白糸台出張所前交差点",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-43.jpg",
+    "geo": [
+      35.670187,
+      139.504967
+    ]
+  },
+  {
+    "id": "14-44",
+    "name": "府中九中南交差点",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-44.jpg",
+    "geo": [
+      35.661698,
+      139.502651
+    ]
+  },
+  {
+    "id": "14-45",
+    "name": "多摩川競艇場 正面ゲート",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-45.jpg",
+    "geo": [
+      35.658216,
+      139.499073
+    ]
+  },
+  {
+    "id": "14-49",
+    "name": "多摩川競艇場 水面",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-49.jpg",
+    "geo": [
+      35.656229,
+      139.496438
+    ]
+  },
+  {
+    "id": "14-50",
+    "name": "新宿西口ロータリー",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-50.jpg",
+    "geo": [
+      35.692271,
+      139.69846
+    ]
+  },
+  {
+    "id": "14-51",
+    "name": "六本木ヒルズ 外観",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-51.jpg",
+    "geo": [
+      35.659467,
+      139.730065
+    ]
+  },
+  {
+    "id": "14-53",
+    "name": "鶴代橋",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-53.jpg",
+    "geo": [
+      35.661199,
+      139.503755
+    ]
+  },
+  {
+    "id": "14-54",
+    "name": "大国魂神社 鳥居",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-54.jpg",
+    "geo": [
+      35.669903,
+      139.479072
+    ]
+  },
+  {
+    "id": "14-55",
+    "name": "ふるさと府中歴史舘",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-55.jpg",
+    "geo": [
+      35.668862,
+      139.478817
+    ]
+  },
+  {
+    "id": "14-56",
+    "name": "大国魂神社 狛犬など",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-56.jpg",
+    "geo": [
+      35.667939,
+      139.479001
+    ]
+  },
+  {
+    "id": "14-57",
+    "name": "大国魂神社 拝殿",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-57.jpg",
+    "geo": [
+      35.667683,
+      139.478988
+    ]
+  },
+  {
+    "id": "14-58",
+    "name": "人見街道 御狩野そば前",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-58.jpg",
+    "geo": [
+      35.679078,
+      139.527019
+    ]
+  },
+  {
+    "id": "14-59",
+    "name": "人見街道 龍源寺前",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-59.jpg",
+    "geo": [
+      35.6792,
+      139.528692
+    ]
+  },
+  {
+    "id": "14-60",
+    "name": "人見街道 野川方面",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-60.jpg",
+    "geo": [
+      35.679418,
+      139.52978
+    ]
+  },
+  {
+    "id": "14-61",
+    "name": "多摩川競艇場 水面側メインスタンド中央",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-61.jpg",
+    "geo": [
+      35.657693,
+      139.496601
+    ]
+  },
+  {
+    "id": "14-62",
+    "name": "三鷹市立第七中学校 校門",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-62.jpg",
+    "geo": [
+      35.678061,
+      139.532941
+    ]
+  },
+  {
+    "id": "14-63",
+    "name": "三鷹市立第七中学校 体育館",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-63.jpg",
+    "geo": [
+      35.67788,
+      139.532918
+    ]
+  },
+  {
+    "id": "14-64",
+    "name": "人見街道 ブロック塀",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-64.jpg",
+    "geo": [
+      35.680245,
+      139.532036
+    ]
+  },
+  {
+    "id": "14-65",
+    "name": "人見街道 カーブミラー",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-65.jpg",
+    "geo": [
+      35.680908,
+      139.532923
+    ]
+  },
+  {
+    "id": "14-66",
+    "name": "野川公園 ベンチ",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-66.jpg",
+    "geo": [
+      35.682133,
+      139.527006
+    ]
+  },
+  {
+    "id": "14-67",
+    "name": "野川公園 わんぱく広場",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-67.jpg",
+    "geo": [
+      35.682199,
+      139.52753
+    ]
+  },
+  {
+    "id": "14-68",
+    "name": "六本木ヒルズ 森タワー",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-68.jpg",
+    "geo": [
+      35.660705,
+      139.72948
+    ]
+  },
+  {
+    "id": "14-69",
+    "name": "野川公園 ゲートボール場横",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-69.jpg",
+    "geo": [
+      35.681043,
+      139.527463
+    ]
+  },
+  {
+    "id": "14-70",
+    "name": "JAXA 調布航空宇宙センター",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-70.jpg",
+    "geo": [
+      35.680568,
+      139.557899
+    ]
+  },
+  {
+    "id": "14-71",
+    "name": "井の頭恩寵公園 入口",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-71.jpg",
+    "geo": [
+      35.695915,
+      139.570028
+    ]
+  },
+  {
+    "id": "14-73",
+    "name": "JR三鷹駅 南口ペデストリアンデッキ",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-73.jpg",
+    "geo": [
+      35.702187,
+      139.560672
+    ]
+  },
+  {
+    "id": "14-74",
+    "name": "JR三鷹駅 1・2番線ホーム",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-74.jpg",
+    "geo": [
+      35.702591,
+      139.559663
+    ]
+  },
+  {
+    "id": "14-75",
+    "name": "武蔵境駅 西側ガード下（南）",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-75.jpg",
+    "geo": [
+      35.701773,
+      139.542017
+    ]
+  },
+  {
+    "id": "14-76",
+    "name": "武蔵境駅 西側ガード下（北）",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-76.jpg",
+    "geo": [
+      35.702191,
+      139.542004
+    ]
+  },
+  {
+    "id": "14-77",
+    "name": "東京都水道局 境浄水場",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-77.jpg",
+    "geo": [
+      35.709859,
+      139.544002
+    ]
+  },
+  {
+    "id": "14-78",
+    "name": "三鷹警察署",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-78.jpg",
+    "geo": [
+      35.686562,
+      139.558584
+    ]
+  },
+  {
+    "id": "14-79",
+    "name": "吉祥寺駅前交差点",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-79.jpg",
+    "geo": [
+      35.702966,
+      139.577226
+    ]
+  },
+  {
+    "id": "14-80",
+    "name": "環八井の頭交差点",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-80.jpg",
+    "geo": [
+      35.688773,
+      139.616177
+    ]
+  },
+  {
+    "id": "14-81",
+    "name": "環八人見街道交差点",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-81.jpg",
+    "geo": [
+      35.686462,
+      139.61582
+    ]
+  },
+  {
+    "id": "14-82",
+    "name": "富士見ヶ丘小学校交差点",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-82.jpg",
+    "geo": [
+      35.680438,
+      139.606544
+    ]
+  },
+  {
+    "id": "14-83",
+    "name": "中央道 高井戸インターチェンジ上り入口",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-83.jpg",
+    "geo": [
+      35.678859,
+      139.611056
+    ]
+  },
+  {
+    "id": "14-84",
+    "name": "JR三鷹駅南口バスターミナル",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-84.jpg",
+    "geo": [
+      35.702227,
+      139.560385
+    ]
+  },
+  {
+    "id": "14-85",
+    "name": "井の頭恩賜公園 入口",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-85.jpg",
+    "geo": [
+      35.699116,
+      139.573205
+    ]
+  },
+  {
+    "id": "14-86",
+    "name": "井の頭自然文化園 水生物園",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-86.jpg",
+    "geo": [
+      35.699633,
+      139.576236
+    ]
+  },
+  {
+    "id": "14-87",
+    "name": "井の頭恩賜公園 七井橋入口",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-87.jpg",
+    "geo": [
+      35.700051,
+      139.577695
+    ]
+  },
+  {
+    "id": "14-88",
+    "name": "井の頭公園 ボート場",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-88.jpg",
+    "geo": [
+      35.699464,
+      139.577263
+    ]
+  },
+  {
+    "id": "14-89",
+    "name": "井の頭恩賜公園 七井橋",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-89.jpg",
+    "geo": [
+      35.699872,
+      139.577235
+    ]
+  },
+  {
+    "id": "14-90",
+    "name": "井の頭恩賜公園 井泉亭",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-90.jpg",
+    "geo": [
+      35.699699,
+      139.574204
+    ]
+  },
+  {
+    "id": "14-91",
+    "name": "JR東小金井駅前",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-91.jpg",
+    "geo": [
+      35.701474,
+      139.524641
+    ]
+  },
+  {
+    "id": "14-92",
+    "name": "JR東小金井駅 1・2番ホーム",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-92.jpg",
+    "geo": [
+      35.701596,
+      139.522996
+    ]
+  },
+  {
+    "id": "14-93",
+    "name": "JR武蔵境変電所 正門",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-93.jpg",
+    "geo": [
+      35.702559,
+      139.532005
+    ]
+  },
+  {
+    "id": "14-94",
+    "name": "井の頭自然文化園 本館（動物園） 東屋",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-94.jpg",
+    "geo": [
+      35.70065,
+      139.571717
+    ]
+  },
+  {
+    "id": "14-95",
+    "name": "井の頭自然文化園 本館（動物園） 熱帯鳥温室",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-95.jpg",
+    "geo": [
+      35.702079,
+      139.570634
+    ]
+  },
+  {
+    "id": "14-96",
+    "name": "万博公園 太陽の塔",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-96.jpg",
+    "geo": [
+      34.809507,
+      135.532388
+    ]
+  },
+  {
+    "id": "14-97",
+    "name": "JR三鷹駅 5･6番ホーム",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-97.jpg",
+    "geo": [
+      35.702811,
+      139.559868
+    ]
+  },
+  {
+    "id": "14-98",
+    "name": "JR武蔵境変電所 送電設備",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-98.jpg",
+    "geo": [
+      35.703751,
+      139.530895
+    ]
+  },
+  {
+    "id": "14-99",
+    "name": "JR東小金井駅 北口",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-99.jpg",
+    "geo": [
+      35.702156,
+      139.524863
+    ]
+  },
+  {
+    "id": "14-100",
+    "name": "そば醍醐",
+    "image": "https://image.xinu.ink/pic/data/956/images/14-100.jpg",
+    "geo": [
+      35.702558,
+      139.525202
+    ]
+  }
+]

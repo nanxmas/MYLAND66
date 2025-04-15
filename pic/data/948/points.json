@@ -1,0 +1,677 @@
+[
+  {
+    "id": "4-1",
+    "name": "「センシティ」交差点",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-1.jpg",
+    "geo": [
+      35.610291,
+      140.112301
+    ]
+  },
+  {
+    "id": "4-2",
+    "name": "千葉公園",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-2.jpg",
+    "geo": [
+      35.617426,
+      140.117548
+    ]
+  },
+  {
+    "id": "4-3",
+    "name": "「護国神社入口」交差点と千葉縣護國神社の間",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-3.jpg",
+    "geo": [
+      35.618817,
+      140.111963
+    ]
+  },
+  {
+    "id": "4-4",
+    "name": "「護国神社入口」交差点と千葉縣護國神社の間",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-4.jpg",
+    "geo": [
+      35.618819,
+      140.111647
+    ]
+  },
+  {
+    "id": "4-5",
+    "name": "県立千葉商業高等学校",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-5.jpg",
+    "geo": [
+      35.620391,
+      140.108415
+    ]
+  },
+  {
+    "id": "4-6",
+    "name": "県立千葉商業高等学校",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-6.jpg",
+    "geo": [
+      35.620865,
+      140.109007
+    ]
+  },
+  {
+    "id": "4-8",
+    "name": "千葉公園",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-8.jpg",
+    "geo": [
+      35.618331,
+      140.11696
+    ]
+  },
+  {
+    "id": "4-9",
+    "name": "千葉市中央図書館",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-9.jpg",
+    "geo": [
+      35.617622,
+      140.113648
+    ]
+  },
+  {
+    "id": "4-10",
+    "name": "アドアーズ千葉店",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-10.jpg",
+    "geo": [
+      35.610972,
+      140.116198
+    ]
+  },
+  {
+    "id": "4-11",
+    "name": "千葉駅",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-11.jpg",
+    "geo": [
+      35.612605,
+      140.114407
+    ]
+  },
+  {
+    "id": "4-12",
+    "name": "千葉縣護國神社横の道路",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-12.jpg",
+    "geo": [
+      35.61977,
+      140.111349
+    ]
+  },
+  {
+    "id": "4-13",
+    "name": "陸上競技場と野球場の間",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-13.jpg",
+    "geo": [
+      35.645431,
+      140.118073
+    ]
+  },
+  {
+    "id": "4-14",
+    "name": "総合スポーツセンター陸上競技場",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-14.jpg",
+    "geo": [
+      35.646277,
+      140.118921
+    ]
+  },
+  {
+    "id": "4-15",
+    "name": "幕張海浜公園",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-15.jpg",
+    "geo": [
+      35.649997,
+      140.046874
+    ]
+  },
+  {
+    "id": "4-16",
+    "name": "幕張舟溜跡公園",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-16.jpg",
+    "geo": [
+      35.657037,
+      140.048679
+    ]
+  },
+  {
+    "id": "4-17",
+    "name": "新中川河川敷",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-17.jpg",
+    "geo": [
+      35.728107,
+      139.876288
+    ]
+  },
+  {
+    "id": "4-18",
+    "name": "両国橋",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-18.jpg",
+    "geo": [
+      35.694485,
+      139.788269
+    ]
+  },
+  {
+    "id": "4-19",
+    "name": "秋葉原駅電気街口付近",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-19.jpg",
+    "geo": [
+      35.698164,
+      139.771966
+    ]
+  },
+  {
+    "id": "4-20",
+    "name": "秋葉原駅電気街口付近",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-20.jpg",
+    "geo": [
+      35.698101,
+      139.772514
+    ]
+  },
+  {
+    "id": "4-21",
+    "name": "秋葉原駅電気街口付近",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-21.jpg",
+    "geo": [
+      35.698148,
+      139.771569
+    ]
+  },
+  {
+    "id": "4-22",
+    "name": "ガチャポン会館",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-22.jpg",
+    "geo": [
+      35.701901,
+      139.771226
+    ]
+  },
+  {
+    "id": "4-23",
+    "name": "マクドナルド秋葉原店",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-23.jpg",
+    "geo": [
+      35.699625,
+      139.771864
+    ]
+  },
+  {
+    "id": "4-24",
+    "name": "とらのあな秋葉原店",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-24.jpg",
+    "geo": [
+      35.700322,
+      139.771575
+    ]
+  },
+  {
+    "id": "4-25",
+    "name": "秋葉原駅",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-25.jpg",
+    "geo": [
+      35.698144,
+      139.772996
+    ]
+  },
+  {
+    "id": "4-26",
+    "name": "ミツワデンキ",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-26.jpg",
+    "geo": [
+      35.698586,
+      139.7715
+    ]
+  },
+  {
+    "id": "4-27",
+    "name": "オノデン",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-27.jpg",
+    "geo": [
+      35.697972,
+      139.771384
+    ]
+  },
+  {
+    "id": "4-28",
+    "name": "ガンダムカフェ",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-28.jpg",
+    "geo": [
+      35.699203,
+      139.772613
+    ]
+  },
+  {
+    "id": "4-29",
+    "name": "タイトーステーション秋葉原店",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-29.jpg",
+    "geo": [
+      35.700229,
+      139.771594
+    ]
+  },
+  {
+    "id": "4-30",
+    "name": "T-ZONE. PC DIY SHOP跡地",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-30.jpg",
+    "geo": [
+      35.700723,
+      139.770467
+    ]
+  },
+  {
+    "id": "4-31",
+    "name": "トレーダー秋葉原本店",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-31.jpg",
+    "geo": [
+      35.700893,
+      139.771357
+    ]
+  },
+  {
+    "id": "4-32",
+    "name": "秋葉原UDX",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-32.jpg",
+    "geo": [
+      35.69963,
+      139.77246
+    ]
+  },
+  {
+    "id": "4-33",
+    "name": "秋葉原UDX駐車場",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-33.jpg",
+    "geo": [
+      35.700869,
+      139.773028
+    ]
+  },
+  {
+    "id": "4-34",
+    "name": "アニメイト秋葉原店",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-34.jpg",
+    "geo": [
+      35.700436,
+      139.771636
+    ]
+  },
+  {
+    "id": "4-35",
+    "name": "秋葉原駅電気街口付近",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-35.jpg",
+    "geo": [
+      35.698203,
+      139.77232
+    ]
+  },
+  {
+    "id": "4-36",
+    "name": "秋葉原駅電気街口付近",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-36.jpg",
+    "geo": [
+      35.698101,
+      139.772326
+    ]
+  },
+  {
+    "id": "4-37",
+    "name": "秋葉原駅電気街口付近",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-37.jpg",
+    "geo": [
+      35.698166,
+      139.771628
+    ]
+  },
+  {
+    "id": "4-38",
+    "name": "秋葉原駅電気街口付近",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-38.jpg",
+    "geo": [
+      35.698114,
+      139.771435
+    ]
+  },
+  {
+    "id": "4-39",
+    "name": "秋葉原駅電気街口付近",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-39.jpg",
+    "geo": [
+      35.698018,
+      139.771387
+    ]
+  },
+  {
+    "id": "4-40",
+    "name": "秋葉原UDX",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-40.jpg",
+    "geo": [
+      35.699512,
+      139.772514
+    ]
+  },
+  {
+    "id": "4-41",
+    "name": "住友不動産西新宿ビル5号館",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-41.jpg",
+    "geo": [
+      35.686002,
+      139.688901
+    ]
+  },
+  {
+    "id": "4-42",
+    "name": "中村橋駅前",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-42.jpg",
+    "geo": [
+      35.736713,
+      139.638044
+    ]
+  },
+  {
+    "id": "4-43",
+    "name": "AIC本社",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-43.jpg",
+    "geo": [
+      35.734366,
+      139.638722
+    ]
+  },
+  {
+    "id": "4-44",
+    "name": "椎名町駅西付近",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-44.jpg",
+    "geo": [
+      35.726567,
+      139.693501
+    ]
+  },
+  {
+    "id": "4-45",
+    "name": "渋谷ハチ公口周辺",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-45.jpg",
+    "geo": [
+      35.659057,
+      139.700601
+    ]
+  },
+  {
+    "id": "4-46",
+    "name": "渋谷ハチ公口周辺",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-46.jpg",
+    "geo": [
+      35.659663,
+      139.700416
+    ]
+  },
+  {
+    "id": "4-47",
+    "name": "渋谷１０９",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-47.jpg",
+    "geo": [
+      35.659641,
+      139.699439
+    ]
+  },
+  {
+    "id": "4-48",
+    "name": "渋谷１０９",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-48.jpg",
+    "geo": [
+      35.65965,
+      139.699056
+    ]
+  },
+  {
+    "id": "4-50",
+    "name": "ファミリーマート渋谷宇田川交番前店",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-50.jpg",
+    "geo": [
+      35.660997,
+      139.697919
+    ]
+  },
+  {
+    "id": "4-51",
+    "name": "神南郵便局前交差点から勤労福祉会館前交差点の間",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-51.jpg",
+    "geo": [
+      35.662404,
+      139.699177
+    ]
+  },
+  {
+    "id": "4-52",
+    "name": "神南郵便局前交差点から勤労福祉会館前交差点の間",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-52.jpg",
+    "geo": [
+      35.662208,
+      139.700255
+    ]
+  },
+  {
+    "id": "4-53",
+    "name": "神南郵便局前交差点から勤労福祉会館前交差点の間",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-53.jpg",
+    "geo": [
+      35.662365,
+      139.699858
+    ]
+  },
+  {
+    "id": "4-55",
+    "name": "神南郵便局前交差点から勤労福祉会館前交差点の間",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-55.jpg",
+    "geo": [
+      35.662241,
+      139.7
+    ]
+  },
+  {
+    "id": "4-56",
+    "name": "１０９-2",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-56.jpg",
+    "geo": [
+      35.659789,
+      139.700772
+    ]
+  },
+  {
+    "id": "4-57",
+    "name": "潮風公園北",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-57.jpg",
+    "geo": [
+      35.625969,
+      139.767916
+    ]
+  },
+  {
+    "id": "4-58",
+    "name": "しおかぜ丸",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-58.jpg",
+    "geo": [
+      35.621242,
+      139.769536
+    ]
+  },
+  {
+    "id": "4-59",
+    "name": "マリンハウス",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-59.jpg",
+    "geo": [
+      35.630124,
+      139.775341
+    ]
+  },
+  {
+    "id": "4-60",
+    "name": "お台場海浜公園西と潮風公園の間",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-60.jpg",
+    "geo": [
+      35.626884,
+      139.769434
+    ]
+  },
+  {
+    "id": "4-61",
+    "name": "蔵前橋",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-61.jpg",
+    "geo": [
+      35.701344,
+      139.79266
+    ]
+  },
+  {
+    "id": "4-62",
+    "name": "「蔵前一丁目」交差点",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-62.jpg",
+    "geo": [
+      35.70169,
+      139.788902
+    ]
+  },
+  {
+    "id": "4-63",
+    "name": "市川橋の東",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-63.jpg",
+    "geo": [
+      35.734538,
+      139.898905
+    ]
+  },
+  {
+    "id": "4-65",
+    "name": "イーストプロムナード",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-65.jpg",
+    "geo": [
+      35.633141,
+      139.791785
+    ]
+  },
+  {
+    "id": "4-66",
+    "name": "イーストプロムナード",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-66.jpg",
+    "geo": [
+      35.632825,
+      139.791592
+    ]
+  },
+  {
+    "id": "4-67",
+    "name": "やぐら橋",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-67.jpg",
+    "geo": [
+      35.630952,
+      139.793129
+    ]
+  },
+  {
+    "id": "4-68",
+    "name": "東京ビッグサイト",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-68.jpg",
+    "geo": [
+      35.630008,
+      139.793856
+    ]
+  },
+  {
+    "id": "4-69",
+    "name": "エントランスホール",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-69.jpg",
+    "geo": [
+      35.629825,
+      139.794717
+    ]
+  },
+  {
+    "id": "4-70",
+    "name": "北コンコース",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-70.jpg",
+    "geo": [
+      35.631142,
+      139.795009
+    ]
+  },
+  {
+    "id": "4-71",
+    "name": "北コンコース",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-71.jpg",
+    "geo": [
+      35.631122,
+      139.795951
+    ]
+  },
+  {
+    "id": "4-72",
+    "name": "東展示棟通路",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-72.jpg",
+    "geo": [
+      35.631214,
+      139.796613
+    ]
+  },
+  {
+    "id": "4-73",
+    "name": "庭園",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-73.jpg",
+    "geo": [
+      35.631096,
+      139.793837
+    ]
+  },
+  {
+    "id": "4-74",
+    "name": "東京ビッグサイト",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-74.jpg",
+    "geo": [
+      35.630532,
+      139.794054
+    ]
+  },
+  {
+    "id": "4-75",
+    "name": "国際展示場駅前",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-75.jpg",
+    "geo": [
+      35.633332,
+      139.7918
+    ]
+  },
+  {
+    "id": "4-76",
+    "name": "国際展示場駅前",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-76.jpg",
+    "geo": [
+      35.633669,
+      139.7915
+    ]
+  },
+  {
+    "id": "4-77",
+    "name": "海ほたるＰＡ（５Ｆ）",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-77.jpg",
+    "geo": [
+      35.46417,
+      139.874958
+    ]
+  },
+  {
+    "id": "4-78",
+    "name": "成田国際空港第１ターミナル南ウイング（４Ｆ）",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-78.jpg",
+    "geo": [
+      35.763956,
+      140.38543
+    ]
+  },
+  {
+    "id": "4-79",
+    "name": "成田国際空港第２ターミナル（１ＦＡゾーン、２Ｆ）",
+    "image": "https://image.xinu.ink/pic/data/948/images/4-79.jpg",
+    "geo": [
+      35.772714,
+      140.388139
+    ]
+  }
+]

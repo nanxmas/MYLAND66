@@ -1,0 +1,83 @@
+[
+  {
+    "id": "34-1",
+    "name": "OP 1",
+    "image": "https://image.xinu.ink/pic/data/975/images/34-1.jpg",
+    "geo": [
+      35.554101,
+      139.578668
+    ]
+  },
+  {
+    "id": "34-2",
+    "name": "OP 2",
+    "image": "https://image.xinu.ink/pic/data/975/images/34-2.jpg",
+    "geo": [
+      35.554463,
+      139.578397
+    ]
+  },
+  {
+    "id": "34-3",
+    "name": "OP 3",
+    "image": "https://image.xinu.ink/pic/data/975/images/34-3.jpg",
+    "geo": [
+      35.554153,
+      139.579284
+    ]
+  },
+  {
+    "id": "34-4",
+    "name": "OP 4",
+    "image": "https://image.xinu.ink/pic/data/975/images/34-4.jpg",
+    "geo": [
+      35.554158,
+      139.578137
+    ]
+  },
+  {
+    "id": "34-5",
+    "name": "ED 1",
+    "image": "https://image.xinu.ink/pic/data/975/images/34-5.jpg",
+    "geo": [
+      35.547088,
+      139.575326
+    ]
+  },
+  {
+    "id": "34-6",
+    "name": "ED 2",
+    "image": "https://image.xinu.ink/pic/data/975/images/34-6.jpg",
+    "geo": [
+      35.496063,
+      139.617122
+    ]
+  },
+  {
+    "id": "34-7",
+    "name": "アイス屋",
+    "image": "https://image.xinu.ink/pic/data/975/images/34-7.jpg",
+    "geo": [
+      35.543004,
+      139.573075
+    ]
+  },
+  {
+    "id": "34-8",
+    "name": "高架下",
+    "image": "https://image.xinu.ink/pic/data/975/images/34-8.jpg",
+    "geo": [
+      35.551463,
+      139.577565
+    ]
+  },
+  {
+    "id": "34-9",
+    "name": "橋",
+    "image": "https://image.xinu.ink/pic/data/975/images/34-9.jpg",
+    "geo": [
+      35.548181,
+      139.575602
+    ]
+  }
+]
