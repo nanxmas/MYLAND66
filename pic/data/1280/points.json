@@ -1,0 +1,29 @@
+[
+  {
+    "id": "370-1",
+    "name": "旧JR大社駅",
+    "image": "https://image.xinu.ink/pic/data/1280/images/370-1.jpg",
+    "geo": [
+      35.386697,
+      132.69021
+    ]
+  },
+  {
+    "id": "370-2",
+    "name": "出雲大社",
+    "image": "https://image.xinu.ink/pic/data/1280/images/370-2.jpg",
+    "geo": [
+      35.401093,
+      132.685511
+    ]
+  },
+  {
+    "id": "370-3",
+    "name": "経島（ふみしま）",
+    "image": "https://image.xinu.ink/pic/data/1280/images/370-3.jpg",
+    "geo": [
+      35.430157,
+      132.626519
+    ]
+  }
+]

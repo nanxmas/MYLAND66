@@ -1,0 +1,47 @@
+[
+  {
+    "id": "380-1",
+    "name": "小田急登戸駅（４番線）",
+    "image": "https://image.xinu.ink/pic/data/1289/images/380-1.jpg",
+    "geo": [
+      35.6203958,
+      139.5688963
+    ]
+  },
+  {
+    "id": "380-2",
+    "name": "百合ヶ丘駅付近の小田急線沿線",
+    "image": "https://image.xinu.ink/pic/data/1289/images/380-2.jpg",
+    "geo": [
+      35.6128689,
+      139.5220971
+    ]
+  },
+  {
+    "id": "380-3",
+    "name": "代々木体育館",
+    "image": "https://image.xinu.ink/pic/data/1289/images/380-3.jpg",
+    "geo": [
+      35.6688677,
+      139.7018158
+    ]
+  },
+  {
+    "id": "380-4",
+    "name": "浅草寺（雷門）",
+    "image": "https://image.xinu.ink/pic/data/1289/images/380-4.jpg",
+    "geo": [
+      35.7109881,
+      139.7963583
+    ]
+  },
+  {
+    "id": "380-5",
+    "name": "ビッグサイト",
+    "image": "https://image.xinu.ink/pic/data/1289/images/380-5.jpg",
+    "geo": [
+      35.6309131,
+      139.7931612
+    ]
+  }
+]

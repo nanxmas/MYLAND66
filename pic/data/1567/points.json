@@ -1,0 +1,47 @@
+[
+  {
+    "id": "459-0",
+    "name": "仙台駅西口",
+    "image": "https://image.xinu.ink/pic/data/1567/images/459-0.jpg",
+    "geo": [
+      38.2609713,
+      140.8817947
+    ]
+  },
+  {
+    "id": "459-1",
+    "name": "仙台パルコ",
+    "image": "https://image.xinu.ink/pic/data/1567/images/459-1.jpg",
+    "geo": [
+      38.2617042,
+      140.8818376
+    ]
+  },
+  {
+    "id": "459-2",
+    "name": "仙台ロフト（撮影地点）",
+    "image": "https://image.xinu.ink/pic/data/1567/images/459-2.jpg",
+    "geo": [
+      38.2601963,
+      140.8816552
+    ]
+  },
+  {
+    "id": "459-3",
+    "name": "勾当台公園",
+    "image": "https://image.xinu.ink/pic/data/1567/images/459-3.jpg",
+    "geo": [
+      38.2675167,
+      140.8719885
+    ]
+  },
+  {
+    "id": "459-4",
+    "name": "藤崎本館",
+    "image": "https://image.xinu.ink/pic/data/1567/images/459-4.jpg",
+    "geo": [
+      38.2599688,
+      140.8728361
+    ]
+  }
+]

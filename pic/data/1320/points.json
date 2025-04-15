@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1009-1",
+    "name": "恐山",
+    "image": "https://image.xinu.ink/pic/data/1320/images/1009-1.jpg",
+    "geo": [
+      41.325715,
+      141.090374
+    ]
+  },
+  {
+    "id": "1009-2",
+    "name": "伏見稲荷大社",
+    "image": "https://image.xinu.ink/pic/data/1320/images/1009-2.jpg",
+    "geo": [
+      34.967107,
+      135.77344700000003
+    ]
+  }
+]

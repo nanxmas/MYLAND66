@@ -1,0 +1,47 @@
+[
+  {
+    "id": "239-1",
+    "name": "賀張橋",
+    "image": "https://image.xinu.ink/pic/data/1161/images/239-1.jpg",
+    "geo": [
+      42.448997,
+      142.196238
+    ]
+  },
+  {
+    "id": "239-2",
+    "name": "清畠小学校",
+    "image": "https://image.xinu.ink/pic/data/1161/images/239-2.jpg",
+    "geo": [
+      42.475001,
+      142.194575
+    ]
+  },
+  {
+    "id": "239-3",
+    "name": "JR清畠駅",
+    "image": "https://image.xinu.ink/pic/data/1161/images/239-3.jpg",
+    "geo": [
+      42.455856,
+      142.17669
+    ]
+  },
+  {
+    "id": "239-4",
+    "name": "バス停",
+    "image": "https://image.xinu.ink/pic/data/1161/images/239-4.jpg",
+    "geo": [
+      42.456295,
+      142.177168
+    ]
+  },
+  {
+    "id": "239-5",
+    "name": "清畠駅前国道",
+    "image": "https://image.xinu.ink/pic/data/1161/images/239-5.jpg",
+    "geo": [
+      42.456402,
+      142.177125
+    ]
+  }
+]

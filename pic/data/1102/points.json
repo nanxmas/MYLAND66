@@ -1,0 +1,479 @@
+[
+  {
+    "id": "175-1",
+    "name": "鎌倉高校前駅前",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-1.jpg",
+    "geo": [
+      35.306701,
+      139.499773
+    ]
+  },
+  {
+    "id": "175-2",
+    "name": "みずほ銀行北沢支店前",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-2.jpg",
+    "geo": [
+      35.661799,
+      139.667239
+    ]
+  },
+  {
+    "id": "175-3",
+    "name": "小田急線下北沢駅北口前",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-3.jpg",
+    "geo": [
+      35.661892,
+      139.667304
+    ]
+  },
+  {
+    "id": "175-4",
+    "name": "駅前食品市場",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-4.jpg",
+    "geo": [
+      35.66201,
+      139.667406
+    ]
+  },
+  {
+    "id": "175-5",
+    "name": "小田急線下北沢駅北口",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-5.jpg",
+    "geo": [
+      35.661775,
+      139.667451
+    ]
+  },
+  {
+    "id": "175-6",
+    "name": "サンドラッグ前",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-6.jpg",
+    "geo": [
+      35.662287,
+      139.667602
+    ]
+  },
+  {
+    "id": "175-7",
+    "name": "横浜銀行前",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-7.jpg",
+    "geo": [
+      35.662548,
+      139.667749
+    ]
+  },
+  {
+    "id": "175-8",
+    "name": "電柱",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-8.jpg",
+    "geo": [
+      35.663052,
+      139.66806
+    ]
+  },
+  {
+    "id": "175-9",
+    "name": "ギャラリー HANA SHIMOKITAZAWA",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-9.jpg",
+    "geo": [
+      35.663642,
+      139.66835
+    ]
+  },
+  {
+    "id": "175-10",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-10.jpg",
+    "geo": [
+      35.663115,
+      139.669425
+    ]
+  },
+  {
+    "id": "175-11",
+    "name": "ザ・スズナリ周辺",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-11.jpg",
+    "geo": [
+      35.662496,
+      139.670144
+    ]
+  },
+  {
+    "id": "175-12",
+    "name": "ザ・スズナリ",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-12.jpg",
+    "geo": [
+      35.662431,
+      139.670203
+    ]
+  },
+  {
+    "id": "175-13",
+    "name": "マジックスパイス下北沢店",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-13.jpg",
+    "geo": [
+      35.662296,
+      139.670662
+    ]
+  },
+  {
+    "id": "175-14",
+    "name": "JAM COVER前",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-14.jpg",
+    "geo": [
+      35.662343,
+      139.670466
+    ]
+  },
+  {
+    "id": "175-15",
+    "name": "ザ・スズナリ周辺",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-15.jpg",
+    "geo": [
+      35.662348,
+      139.670311
+    ]
+  },
+  {
+    "id": "175-16",
+    "name": "羽田空港第2ターミナル",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-16.jpg",
+    "geo": [
+      35.551733,
+      139.787633
+    ]
+  },
+  {
+    "id": "175-17",
+    "name": "ホテルニューオータニ",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-17.jpg",
+    "geo": [
+      35.681295,
+      139.733491
+    ]
+  },
+  {
+    "id": "175-18",
+    "name": "ホテルニューオータニ",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-18.jpg",
+    "geo": [
+      35.681253,
+      139.732317
+    ]
+  },
+  {
+    "id": "175-19",
+    "name": "道路標識",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-19.jpg",
+    "geo": [
+      35.678535,
+      139.734421
+    ]
+  },
+  {
+    "id": "175-20",
+    "name": "赤坂見附交差点周辺",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-20.jpg",
+    "geo": [
+      35.678888,
+      139.736314
+    ]
+  },
+  {
+    "id": "175-21",
+    "name": "赤坂見附交差点",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-21.jpg",
+    "geo": [
+      35.678566,
+      139.736153
+    ]
+  },
+  {
+    "id": "175-22",
+    "name": "赤坂見附交差点",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-22.jpg",
+    "geo": [
+      35.678037,
+      139.736097
+    ]
+  },
+  {
+    "id": "175-23",
+    "name": "赤坂見附交差点",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-23.jpg",
+    "geo": [
+      35.678185,
+      139.736017
+    ]
+  },
+  {
+    "id": "175-24",
+    "name": "赤坂見附交番",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-24.jpg",
+    "geo": [
+      35.677718,
+      139.736567
+    ]
+  },
+  {
+    "id": "175-25",
+    "name": "日枝神社鳥居",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-25.jpg",
+    "geo": [
+      35.674609,
+      139.738723
+    ]
+  },
+  {
+    "id": "175-26",
+    "name": "日枝神社鳥居",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-26.jpg",
+    "geo": [
+      35.674875,
+      139.739066
+    ]
+  },
+  {
+    "id": "175-27",
+    "name": "日枝神社境内",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-27.jpg",
+    "geo": [
+      35.674712,
+      139.739855
+    ]
+  },
+  {
+    "id": "175-28",
+    "name": "日枝神社階段",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-28.jpg",
+    "geo": [
+      35.674605,
+      139.740477
+    ]
+  },
+  {
+    "id": "175-29",
+    "name": "そば黒澤",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-29.jpg",
+    "geo": [
+      35.674668,
+      139.741596
+    ]
+  },
+  {
+    "id": "175-30",
+    "name": "交差点",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-30.jpg",
+    "geo": [
+      35.675054,
+      139.74144
+    ]
+  },
+  {
+    "id": "175-31",
+    "name": "山王パークタワー前",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-31.jpg",
+    "geo": [
+      35.673677,
+      139.741346
+    ]
+  },
+  {
+    "id": "175-32",
+    "name": "内閣府庁舎別館周辺路地",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-32.jpg",
+    "geo": [
+      35.672003,
+      139.742041
+    ]
+  },
+  {
+    "id": "175-33",
+    "name": "特許庁前交差点",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-33.jpg",
+    "geo": [
+      35.670694,
+      139.744838
+    ]
+  },
+  {
+    "id": "175-34",
+    "name": "歩道橋・道路標識",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-34.jpg",
+    "geo": [
+      35.670367,
+      139.747252
+    ]
+  },
+  {
+    "id": "175-35",
+    "name": "バス停前",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-35.jpg",
+    "geo": [
+      35.670386,
+      139.747572
+    ]
+  },
+  {
+    "id": "175-36",
+    "name": "文化庁",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-36.jpg",
+    "geo": [
+      35.670716,
+      139.748722
+    ]
+  },
+  {
+    "id": "175-37",
+    "name": "文化庁",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-37.jpg",
+    "geo": [
+      35.671685,
+      139.749645
+    ]
+  },
+  {
+    "id": "175-38",
+    "name": "文化庁",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-38.jpg",
+    "geo": [
+      35.671271,
+      139.749476
+    ]
+  },
+  {
+    "id": "175-39",
+    "name": "文化庁",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-39.jpg",
+    "geo": [
+      35.671164,
+      139.749951
+    ]
+  },
+  {
+    "id": "175-40",
+    "name": "文化庁",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-40.jpg",
+    "geo": [
+      35.671483,
+      139.749575
+    ]
+  },
+  {
+    "id": "175-41",
+    "name": "文部科学省・金融庁ビル前",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-41.jpg",
+    "geo": [
+      35.670624,
+      139.74843
+    ]
+  },
+  {
+    "id": "175-42",
+    "name": "哲学の木",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-42.jpg",
+    "geo": [
+      43.523867,
+      142.505092
+    ]
+  },
+  {
+    "id": "175-43",
+    "name": "美瑛駅南側の橋",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-43.jpg",
+    "geo": [
+      43.586111,
+      142.456166
+    ]
+  },
+  {
+    "id": "175-44",
+    "name": "JR美瑛駅前",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-44.jpg",
+    "geo": [
+      43.590851,
+      142.461932
+    ]
+  },
+  {
+    "id": "175-45",
+    "name": "JR美瑛駅",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-45.jpg",
+    "geo": [
+      43.590781,
+      142.461187
+    ]
+  },
+  {
+    "id": "175-46",
+    "name": "美瑛駅踏切",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-46.jpg",
+    "geo": [
+      43.592724,
+      142.463949
+    ]
+  },
+  {
+    "id": "175-47",
+    "name": "あるうのぱいん",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-47.jpg",
+    "geo": [
+      43.598806,
+      142.451764
+    ]
+  },
+  {
+    "id": "175-48",
+    "name": "目印 48",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-48.jpg",
+    "geo": [
+      43.599662,
+      142.429038
+    ]
+  },
+  {
+    "id": "175-49",
+    "name": "マイルドセブンの丘",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-49.jpg",
+    "geo": [
+      43.597957,
+      142.424827
+    ]
+  },
+  {
+    "id": "175-50",
+    "name": "マイルドセブンの丘",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-50.jpg",
+    "geo": [
+      43.59821,
+      142.428378
+    ]
+  },
+  {
+    "id": "175-51",
+    "name": "ソラの実家",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-51.jpg",
+    "geo": [
+      43.597495,
+      142.433286
+    ]
+  },
+  {
+    "id": "175-52",
+    "name": "白井牧場（みちる実家）",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-52.jpg",
+    "geo": [
+      43.596015,
+      142.448398
+    ]
+  },
+  {
+    "id": "175-53",
+    "name": "旭川空港",
+    "image": "https://image.xinu.ink/pic/data/1102/images/175-53.jpg",
+    "geo": [
+      43.671325,
+      142.453607
+    ]
+  }
+]

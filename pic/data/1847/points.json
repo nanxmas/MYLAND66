@@ -1,0 +1,38 @@
+[
+  {
+    "id": "500-0",
+    "name": "ＪＲ帯広駅北口",
+    "image": "https://image.xinu.ink/pic/data/1847/images/500-0.jpg",
+    "geo": [
+      42.9187521,
+      143.2015085
+    ]
+  },
+  {
+    "id": "500-1",
+    "name": "ペペサーレ帯広店",
+    "image": "https://image.xinu.ink/pic/data/1847/images/500-1.jpg",
+    "geo": [
+      42.9167643,
+      143.2057035
+    ]
+  },
+  {
+    "id": "500-2",
+    "name": "手話のオブジェ",
+    "image": "https://image.xinu.ink/pic/data/1847/images/500-2.jpg",
+    "geo": [
+      42.9190978,
+      143.2022113
+    ]
+  },
+  {
+    "id": "500-3",
+    "name": "カラオケまねきねこ帯広駅前店",
+    "image": "https://image.xinu.ink/pic/data/1847/images/500-3.jpg",
+    "geo": [
+      42.9206663,
+      143.2022113
+    ]
+  }
+]

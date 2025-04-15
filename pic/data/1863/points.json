@@ -1,0 +1,74 @@
+[
+  {
+    "id": "503-0",
+    "name": "渋谷駅前交差点",
+    "image": "https://image.xinu.ink/pic/data/1863/images/503-0.jpg",
+    "geo": [
+      35.6592555,
+      139.7006571
+    ]
+  },
+  {
+    "id": "503-1",
+    "name": "金王八幡宮",
+    "image": "https://image.xinu.ink/pic/data/1863/images/503-1.jpg",
+    "geo": [
+      35.6570696,
+      139.7071508
+    ]
+  },
+  {
+    "id": "503-2",
+    "name": "金王神社前交差点",
+    "image": "https://image.xinu.ink/pic/data/1863/images/503-2.jpg",
+    "geo": [
+      35.6570195,
+      139.7076362
+    ]
+  },
+  {
+    "id": "503-3",
+    "name": "府中四谷橋北",
+    "image": "https://image.xinu.ink/pic/data/1863/images/503-3.jpg",
+    "geo": [
+      35.6604606,
+      139.4422209
+    ]
+  },
+  {
+    "id": "503-4",
+    "name": "新千歳空港",
+    "image": "https://image.xinu.ink/pic/data/1863/images/503-4.jpg",
+    "geo": [
+      42.7925942,
+      141.6704786
+    ]
+  },
+  {
+    "id": "503-5",
+    "name": "旧ロフト札幌店方面",
+    "image": "https://image.xinu.ink/pic/data/1863/images/503-5.jpg",
+    "geo": [
+      43.0671243,
+      141.3514388
+    ]
+  },
+  {
+    "id": "503-6",
+    "name": "丼兵衛",
+    "image": "https://image.xinu.ink/pic/data/1863/images/503-6.jpg",
+    "geo": [
+      43.0717091,
+      141.3219787
+    ]
+  },
+  {
+    "id": "503-7",
+    "name": "札幌場外市場",
+    "image": "https://image.xinu.ink/pic/data/1863/images/503-7.jpg",
+    "geo": [
+      43.0706936,
+      141.3203362
+    ]
+  }
+]

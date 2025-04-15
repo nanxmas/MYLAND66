@@ -1,0 +1,38 @@
+[
+  {
+    "id": "251-3",
+    "name": "団地交差点",
+    "image": "https://image.xinu.ink/pic/data/1170/images/251-3.jpg",
+    "geo": [
+      35.740188,
+      139.611332
+    ]
+  },
+  {
+    "id": "251-4",
+    "name": "貯水塔",
+    "image": "https://image.xinu.ink/pic/data/1170/images/251-4.jpg",
+    "geo": [
+      35.739165,
+      139.613898
+    ]
+  },
+  {
+    "id": "251-7",
+    "name": "汐留交差点",
+    "image": "https://image.xinu.ink/pic/data/1170/images/251-7.jpg",
+    "geo": [
+      35.66349,
+      139.7605
+    ]
+  },
+  {
+    "id": "251-8",
+    "name": "神戸港中突堤旅客ターミナル",
+    "image": "https://image.xinu.ink/pic/data/1170/images/251-8.jpg",
+    "geo": [
+      34.679942,
+      135.188699
+    ]
+  }
+]

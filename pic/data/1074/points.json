@@ -1,0 +1,47 @@
+[
+  {
+    "id": "141-1",
+    "name": "階段国道",
+    "image": "https://image.xinu.ink/pic/data/1074/images/141-1.jpg",
+    "geo": [
+      41.259545,
+      140.345109
+    ]
+  },
+  {
+    "id": "141-2",
+    "name": "三厩駅",
+    "image": "https://image.xinu.ink/pic/data/1074/images/141-2.jpg",
+    "geo": [
+      41.185404,
+      140.444477
+    ]
+  },
+  {
+    "id": "141-3",
+    "name": "蟹田海岸",
+    "image": "https://image.xinu.ink/pic/data/1074/images/141-3.jpg",
+    "geo": [
+      41.036332,
+      140.645868
+    ]
+  },
+  {
+    "id": "141-4",
+    "name": "蟹田駅",
+    "image": "https://image.xinu.ink/pic/data/1074/images/141-4.jpg",
+    "geo": [
+      41.038279,
+      140.64259
+    ]
+  },
+  {
+    "id": "141-5",
+    "name": "青森駅",
+    "image": "https://image.xinu.ink/pic/data/1074/images/141-5.jpg",
+    "geo": [
+      40.828618,
+      140.73485
+    ]
+  }
+]

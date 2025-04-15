@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1076-1",
+    "name": "青森駅前",
+    "image": "https://image.xinu.ink/pic/data/1376/images/1076-1.jpg",
+    "geo": [
+      40.828562,
+      140.735346
+    ]
+  },
+  {
+    "id": "1076-2",
+    "name": "仙台駅",
+    "image": "https://image.xinu.ink/pic/data/1376/images/1076-2.jpg",
+    "geo": [
+      38.260611,
+      140.881414
+    ]
+  },
+  {
+    "id": "1076-3",
+    "name": "勾当台公園",
+    "image": "https://image.xinu.ink/pic/data/1376/images/1076-3.jpg",
+    "geo": [
+      38.266898,
+      140.871842
+    ]
+  },
+  {
+    "id": "1076-4",
+    "name": "中央埠頭",
+    "image": "https://image.xinu.ink/pic/data/1376/images/1076-4.jpg",
+    "geo": [
+      40.836781,
+      140.743352
+    ]
+  },
+  {
+    "id": "1076-5",
+    "name": "高円寺駅",
+    "image": "https://image.xinu.ink/pic/data/1376/images/1076-5.jpg",
+    "geo": [
+      35.705053,
+      139.650304
+    ]
+  },
+  {
+    "id": "1076-6",
+    "name": "高円寺純情商店街",
+    "image": "https://image.xinu.ink/pic/data/1376/images/1076-6.jpg",
+    "geo": [
+      35.706041,
+      139.649696
+    ]
+  }
+]

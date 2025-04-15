@@ -1,0 +1,524 @@
+[
+  {
+    "id": "104-1",
+    "name": "高島屋付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-1.jpg",
+    "geo": [
+      35.700409,
+      139.41299
+    ]
+  },
+  {
+    "id": "104-2",
+    "name": "高島屋付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-2.jpg",
+    "geo": [
+      35.700401,
+      139.412674
+    ]
+  },
+  {
+    "id": "104-3",
+    "name": "立川駅北口",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-3.jpg",
+    "geo": [
+      35.698767,
+      139.413116
+    ]
+  },
+  {
+    "id": "104-4",
+    "name": "立川駅北口",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-4.jpg",
+    "geo": [
+      35.698769,
+      139.413194
+    ]
+  },
+  {
+    "id": "104-5",
+    "name": "立川駅北口",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-5.jpg",
+    "geo": [
+      35.698717,
+      139.412926
+    ]
+  },
+  {
+    "id": "104-6",
+    "name": "立川駅北口",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-6.jpg",
+    "geo": [
+      35.698734,
+      139.412733
+    ]
+  },
+  {
+    "id": "104-7",
+    "name": "立川駅北口",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-7.jpg",
+    "geo": [
+      35.698907,
+      139.413575
+    ]
+  },
+  {
+    "id": "104-8",
+    "name": "立川駅北口",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-8.jpg",
+    "geo": [
+      35.698889,
+      139.413747
+    ]
+  },
+  {
+    "id": "104-9",
+    "name": "伊勢丹立川店付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-9.jpg",
+    "geo": [
+      35.698963,
+      139.413403
+    ]
+  },
+  {
+    "id": "104-10",
+    "name": "立川駅北口",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-10.jpg",
+    "geo": [
+      35.699037,
+      139.413854
+    ]
+  },
+  {
+    "id": "104-11",
+    "name": "立川駅北口",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-11.jpg",
+    "geo": [
+      35.698904,
+      139.413784
+    ]
+  },
+  {
+    "id": "104-12",
+    "name": "伊勢丹立川店付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-12.jpg",
+    "geo": [
+      35.699601,
+      139.413411
+    ]
+  },
+  {
+    "id": "104-13",
+    "name": "伊勢丹立川店付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-13.jpg",
+    "geo": [
+      35.699129,
+      139.41336
+    ]
+  },
+  {
+    "id": "104-14",
+    "name": "立川モディ付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-14.jpg",
+    "geo": [
+      35.700148,
+      139.413645
+    ]
+  },
+  {
+    "id": "104-15",
+    "name": "立川駅バスターミナル付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-15.jpg",
+    "geo": [
+      35.698643,
+      139.414001
+    ]
+  },
+  {
+    "id": "104-16",
+    "name": "ジョナサン多摩センター駅前店",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-16.jpg",
+    "geo": [
+      35.624658,
+      139.422968
+    ]
+  },
+  {
+    "id": "104-17",
+    "name": "富士多摩ビル付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-17.jpg",
+    "geo": [
+      35.622027,
+      139.419728
+    ]
+  },
+  {
+    "id": "104-18",
+    "name": "多摩センター百貨店ビル（三越）付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-18.jpg",
+    "geo": [
+      35.622711,
+      139.424518
+    ]
+  },
+  {
+    "id": "104-19",
+    "name": "富士多摩スクエア付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-19.jpg",
+    "geo": [
+      35.621628,
+      139.419824
+    ]
+  },
+  {
+    "id": "104-20",
+    "name": "富士多摩ビル付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-20.jpg",
+    "geo": [
+      35.621684,
+      139.419588
+    ]
+  },
+  {
+    "id": "104-21",
+    "name": "富士多摩ビル付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-21.jpg",
+    "geo": [
+      35.621822,
+      139.419572
+    ]
+  },
+  {
+    "id": "104-22",
+    "name": "ＮＴＴ多摩ビル付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-22.jpg",
+    "geo": [
+      35.622151,
+      139.42005
+    ]
+  },
+  {
+    "id": "104-23",
+    "name": "富士多摩ビル付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-23.jpg",
+    "geo": [
+      35.622064,
+      139.419803
+    ]
+  },
+  {
+    "id": "104-24",
+    "name": "富士多摩ビル付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-24.jpg",
+    "geo": [
+      35.622181,
+      139.419878
+    ]
+  },
+  {
+    "id": "104-25",
+    "name": "多摩センターゆうゆう橋",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-25.jpg",
+    "geo": [
+      35.622334,
+      139.422196
+    ]
+  },
+  {
+    "id": "104-26",
+    "name": "朝日生命多摩本社ビル前",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-26.jpg",
+    "geo": [
+      35.622722,
+      139.42234
+    ]
+  },
+  {
+    "id": "104-27",
+    "name": "朝日生命多摩本社ビル前",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-27.jpg",
+    "geo": [
+      35.623208,
+      139.422477
+    ]
+  },
+  {
+    "id": "104-28",
+    "name": "朝日生命多摩本社ビル前",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-28.jpg",
+    "geo": [
+      35.623202,
+      139.422362
+    ]
+  },
+  {
+    "id": "104-29",
+    "name": "朝日生命多摩本社ビル前",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-29.jpg",
+    "geo": [
+      35.623032,
+      139.422434
+    ]
+  },
+  {
+    "id": "104-30",
+    "name": "朝日生命多摩本社ビル前",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-30.jpg",
+    "geo": [
+      35.622995,
+      139.422737
+    ]
+  },
+  {
+    "id": "104-31",
+    "name": "多摩センターゆうゆう橋",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-31.jpg",
+    "geo": [
+      35.622332,
+      139.422126
+    ]
+  },
+  {
+    "id": "104-32",
+    "name": "多摩センターゆうゆう橋",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-32.jpg",
+    "geo": [
+      35.622258,
+      139.422104
+    ]
+  },
+  {
+    "id": "104-33",
+    "name": "多摩センターゆうゆう橋",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-33.jpg",
+    "geo": [
+      35.622197,
+      139.422327
+    ]
+  },
+  {
+    "id": "104-34",
+    "name": "パルテノン多摩付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-34.jpg",
+    "geo": [
+      35.62129,
+      139.426256
+    ]
+  },
+  {
+    "id": "104-35",
+    "name": "パルテノン多摩付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-35.jpg",
+    "geo": [
+      35.62149,
+      139.426238
+    ]
+  },
+  {
+    "id": "104-36",
+    "name": "パルテノン多摩付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-36.jpg",
+    "geo": [
+      35.621342,
+      139.426393
+    ]
+  },
+  {
+    "id": "104-37",
+    "name": "富士多摩スクエア付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-37.jpg",
+    "geo": [
+      35.62197,
+      139.420093
+    ]
+  },
+  {
+    "id": "104-38",
+    "name": "京王相模原線高架下",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-38.jpg",
+    "geo": [
+      35.623457,
+      139.417805
+    ]
+  },
+  {
+    "id": "104-39",
+    "name": "富士多摩スクエア付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-39.jpg",
+    "geo": [
+      35.622042,
+      139.420023
+    ]
+  },
+  {
+    "id": "104-40",
+    "name": "中組公園",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-40.jpg",
+    "geo": [
+      35.621944,
+      139.416965
+    ]
+  },
+  {
+    "id": "104-41",
+    "name": "中組公園",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-41.jpg",
+    "geo": [
+      35.621933,
+      139.417148
+    ]
+  },
+  {
+    "id": "104-42",
+    "name": "中組公園",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-42.jpg",
+    "geo": [
+      35.621977,
+      139.417292
+    ]
+  },
+  {
+    "id": "104-43",
+    "name": "中組公園",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-43.jpg",
+    "geo": [
+      35.621767,
+      139.417014
+    ]
+  },
+  {
+    "id": "104-44",
+    "name": "京王プラザホテル多摩付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-44.jpg",
+    "geo": [
+      35.623289,
+      139.424215
+    ]
+  },
+  {
+    "id": "104-45",
+    "name": "富士多摩スクエア付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-45.jpg",
+    "geo": [
+      35.621939,
+      139.42038
+    ]
+  },
+  {
+    "id": "104-46",
+    "name": "「多摩中央署入口」交差点",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-46.jpg",
+    "geo": [
+      35.624926,
+      139.420133
+    ]
+  },
+  {
+    "id": "104-47",
+    "name": "筑波大学付属病院",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-47.jpg",
+    "geo": [
+      36.091848,
+      140.101811
+    ]
+  },
+  {
+    "id": "104-48",
+    "name": "筑波大学付属病院",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-48.jpg",
+    "geo": [
+      36.091737,
+      140.102326
+    ]
+  },
+  {
+    "id": "104-49",
+    "name": "子宝湯",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-49.jpg",
+    "geo": [
+      35.716544,
+      139.515059
+    ]
+  },
+  {
+    "id": "104-50",
+    "name": "子宝湯（男湯風呂）",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-50.jpg",
+    "geo": [
+      35.716794,
+      139.515024
+    ]
+  },
+  {
+    "id": "104-51",
+    "name": "子宝湯（男湯脱衣所）",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-51.jpg",
+    "geo": [
+      35.716711,
+      139.515021
+    ]
+  },
+  {
+    "id": "104-52",
+    "name": "川崎アゼリア（市役所ロード）",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-52.jpg",
+    "geo": [
+      35.53127,
+      139.698935
+    ]
+  },
+  {
+    "id": "104-53",
+    "name": "丸子橋東側",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-53.jpg",
+    "geo": [
+      35.585455,
+      139.670064
+    ]
+  },
+  {
+    "id": "104-54",
+    "name": "丸子橋",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-54.jpg",
+    "geo": [
+      35.58535,
+      139.669125
+    ]
+  },
+  {
+    "id": "104-55",
+    "name": "ホテル尾張屋付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-55.jpg",
+    "geo": [
+      34.765902,
+      139.038736
+    ]
+  },
+  {
+    "id": "104-56",
+    "name": "伊豆急行伊豆稲取駅付近",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-56.jpg",
+    "geo": [
+      34.774279,
+      139.037575
+    ]
+  },
+  {
+    "id": "104-57",
+    "name": "伊豆稲取駅付近の土産屋",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-57.jpg",
+    "geo": [
+      34.774257,
+      139.037427
+    ]
+  },
+  {
+    "id": "104-58",
+    "name": "伊豆稲取駅付近の土産屋",
+    "image": "https://image.xinu.ink/pic/data/1040/images/104-58.jpg",
+    "geo": [
+      34.774103,
+      139.037693
+    ]
+  }
+]

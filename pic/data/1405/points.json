@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1107-1",
+    "name": "しものせき水族館海響館",
+    "image": "https://image.xinu.ink/pic/data/1405/images/1107-1.jpg",
+    "geo": [
+      33.9545316,
+      130.9422791
+    ]
+  },
+  {
+    "id": "1107-2",
+    "name": "高松駅",
+    "image": "https://image.xinu.ink/pic/data/1405/images/1107-2.jpg",
+    "geo": [
+      34.3510784,
+      134.0471211
+    ]
+  },
+  {
+    "id": "1107-3",
+    "name": "仙台空港",
+    "image": "https://image.xinu.ink/pic/data/1405/images/1107-3.jpg",
+    "geo": [
+      38.1384046,
+      140.9300423
+    ]
+  },
+  {
+    "id": "1107-4",
+    "name": "福岡三越",
+    "image": "https://image.xinu.ink/pic/data/1405/images/1107-4.jpg",
+    "geo": [
+      33.5881371,
+      130.4008095
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "366-1",
+    "name": "水の塔",
+    "image": "https://image.xinu.ink/pic/data/1276/images/366-1.jpg",
+    "geo": [
+      35.724636,
+      139.674822
+    ]
+  },
+  {
+    "id": "366-2",
+    "name": "片山橋",
+    "image": "https://image.xinu.ink/pic/data/1276/images/366-2.jpg",
+    "geo": [
+      35.720629,
+      139.671244
+    ]
+  },
+  {
+    "id": "366-3",
+    "name": "新井薬師前",
+    "image": "https://image.xinu.ink/pic/data/1276/images/366-3.jpg",
+    "geo": [
+      35.715977,
+      139.67199
+    ]
+  },
+  {
+    "id": "366-4",
+    "name": "東京駅",
+    "image": "https://image.xinu.ink/pic/data/1276/images/366-4.jpg",
+    "geo": [
+      35.680551,
+      139.76841
+    ]
+  },
+  {
+    "id": "366-7",
+    "name": "平和大橋",
+    "image": "https://image.xinu.ink/pic/data/1276/images/366-7.jpg",
+    "geo": [
+      34.390214,
+      132.454176
+    ]
+  },
+  {
+    "id": "366-8",
+    "name": "原爆ドーム前電停",
+    "image": "https://image.xinu.ink/pic/data/1276/images/366-8.jpg",
+    "geo": [
+      34.396393,
+      132.45291
+    ]
+  }
+]

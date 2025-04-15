@@ -1,0 +1,65 @@
+[
+  {
+    "id": "533-0",
+    "name": "東京メトロ 神保町駅A1出口",
+    "image": "https://image.xinu.ink/pic/data/4103/images/533-0.jpg",
+    "geo": [
+      35.6958348,
+      139.7557914
+    ]
+  },
+  {
+    "id": "533-1",
+    "name": "東急東横線 東白楽駅",
+    "image": "https://image.xinu.ink/pic/data/4103/images/533-1.jpg",
+    "geo": [
+      35.4831909,
+      139.6293878
+    ]
+  },
+  {
+    "id": "533-2",
+    "name": "東京ビッグサイト",
+    "image": "https://image.xinu.ink/pic/data/4103/images/533-2.jpg",
+    "geo": [
+      35.6299438,
+      139.7939595
+    ]
+  },
+  {
+    "id": "533-3",
+    "name": "秋葉原中央通り",
+    "image": "https://image.xinu.ink/pic/data/4103/images/533-3.jpg",
+    "geo": [
+      35.6988494,
+      139.7710725
+    ]
+  },
+  {
+    "id": "533-4",
+    "name": "コミックZIN 秋葉原店",
+    "image": "https://image.xinu.ink/pic/data/4103/images/533-4.jpg",
+    "geo": [
+      35.6995029,
+      139.771153
+    ]
+  },
+  {
+    "id": "533-5",
+    "name": "なごみの湯",
+    "image": "https://image.xinu.ink/pic/data/4103/images/533-5.jpg",
+    "geo": [
+      35.7048877,
+      139.6181929
+    ]
+  },
+  {
+    "id": "533-6",
+    "name": "中野サンモール",
+    "image": "https://image.xinu.ink/pic/data/4103/images/533-6.jpg",
+    "geo": [
+      35.7064255,
+      139.6657716
+    ]
+  }
+]

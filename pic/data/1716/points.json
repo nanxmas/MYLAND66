@@ -1,0 +1,29 @@
+[
+  {
+    "id": "469-0",
+    "name": "マクドナルド烏丸丸太町店",
+    "image": "https://image.xinu.ink/pic/data/1716/images/469-0.jpg",
+    "geo": [
+      35.0175356,
+      135.759151
+    ]
+  },
+  {
+    "id": "469-2",
+    "name": "地下鉄烏丸線松ヶ崎駅出入口１",
+    "image": "https://image.xinu.ink/pic/data/1716/images/469-2.jpg",
+    "geo": [
+      35.0515439,
+      135.7777655
+    ]
+  },
+  {
+    "id": "469-3",
+    "name": "烏丸丸太町交差点",
+    "image": "https://image.xinu.ink/pic/data/1716/images/469-3.jpg",
+    "geo": [
+      35.0173885,
+      135.7594514
+    ]
+  }
+]

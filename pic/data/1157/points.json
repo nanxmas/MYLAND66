@@ -1,0 +1,29 @@
+[
+  {
+    "id": "235-1",
+    "name": "八坂神社",
+    "image": "https://image.xinu.ink/pic/data/1157/images/235-1.jpg",
+    "geo": [
+      35.003985,
+      135.77857
+    ]
+  },
+  {
+    "id": "235-2",
+    "name": "八坂神社",
+    "image": "https://image.xinu.ink/pic/data/1157/images/235-2.jpg",
+    "geo": [
+      35.00377,
+      135.780002
+    ]
+  },
+  {
+    "id": "235-3",
+    "name": "二年坂",
+    "image": "https://image.xinu.ink/pic/data/1157/images/235-3.jpg",
+    "geo": [
+      34.998585,
+      135.780818
+    ]
+  }
+]

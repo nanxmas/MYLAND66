@@ -1,0 +1,38 @@
+[
+  {
+    "id": "230-1",
+    "name": "1.波照間港",
+    "image": "https://image.xinu.ink/pic/data/1152/images/230-1.jpg",
+    "geo": [
+      24.067625,
+      123.766276
+    ]
+  },
+  {
+    "id": "230-2",
+    "name": "2.3.ニシ浜",
+    "image": "https://image.xinu.ink/pic/data/1152/images/230-2.jpg",
+    "geo": [
+      24.063962,
+      123.76075
+    ]
+  },
+  {
+    "id": "230-3",
+    "name": "4.灯台",
+    "image": "https://image.xinu.ink/pic/data/1152/images/230-3.jpg",
+    "geo": [
+      24.057902,
+      123.785577
+    ]
+  },
+  {
+    "id": "230-4",
+    "name": "5.風車",
+    "image": "https://image.xinu.ink/pic/data/1152/images/230-4.jpg",
+    "geo": [
+      24.067689,
+      123.793774
+    ]
+  }
+]

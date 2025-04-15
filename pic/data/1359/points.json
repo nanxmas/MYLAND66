@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1058-1",
+    "name": "新宿住友ビル周辺",
+    "image": "https://image.xinu.ink/pic/data/1359/images/1058-1.jpg",
+    "geo": [
+      35.691036,
+      139.692214
+    ]
+  },
+  {
+    "id": "1058-2",
+    "name": "日比谷公園噴水",
+    "image": "https://image.xinu.ink/pic/data/1359/images/1058-2.jpg",
+    "geo": [
+      35.67333,
+      139.756882
+    ]
+  },
+  {
+    "id": "1058-3",
+    "name": "学校",
+    "image": "https://image.xinu.ink/pic/data/1359/images/1058-3.jpg",
+    "geo": [
+      35.759601,
+      139.642276
+    ]
+  }
+]

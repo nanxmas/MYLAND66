@@ -1,0 +1,38 @@
+[
+  {
+    "id": "233-1",
+    "name": "1.函館駅北口",
+    "image": "https://image.xinu.ink/pic/data/1155/images/233-1.jpg",
+    "geo": [
+      43.069781,
+      141.350452
+    ]
+  },
+  {
+    "id": "233-2",
+    "name": "2.大三坂",
+    "image": "https://image.xinu.ink/pic/data/1155/images/233-2.jpg",
+    "geo": [
+      41.763538,
+      140.71376
+    ]
+  },
+  {
+    "id": "233-3",
+    "name": "3.函館護国神社",
+    "image": "https://image.xinu.ink/pic/data/1155/images/233-3.jpg",
+    "geo": [
+      41.759276,
+      140.713309
+    ]
+  },
+  {
+    "id": "233-4",
+    "name": "4.函館山展望台",
+    "image": "https://image.xinu.ink/pic/data/1155/images/233-4.jpg",
+    "geo": [
+      41.759458,
+      140.704578
+    ]
+  }
+]

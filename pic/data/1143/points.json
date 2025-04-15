@@ -1,0 +1,47 @@
+[
+  {
+    "id": "221-1",
+    "name": "多摩センター駅前",
+    "image": "https://image.xinu.ink/pic/data/1143/images/221-1.jpg",
+    "geo": [
+      35.624467,
+      139.424518
+    ]
+  },
+  {
+    "id": "221-2",
+    "name": "パルテノン多摩",
+    "image": "https://image.xinu.ink/pic/data/1143/images/221-2.jpg",
+    "geo": [
+      35.622033,
+      139.425924
+    ]
+  },
+  {
+    "id": "221-3",
+    "name": "池",
+    "image": "https://image.xinu.ink/pic/data/1143/images/221-3.jpg",
+    "geo": [
+      35.620528,
+      139.425228
+    ]
+  },
+  {
+    "id": "221-4",
+    "name": "パルテノン多摩前通り",
+    "image": "https://image.xinu.ink/pic/data/1143/images/221-4.jpg",
+    "geo": [
+      35.622914,
+      139.425524
+    ]
+  },
+  {
+    "id": "221-7",
+    "name": "目印 7",
+    "image": "https://image.xinu.ink/pic/data/1143/images/221-7.jpg",
+    "geo": [
+      35.700205,
+      139.413553
+    ]
+  }
+]

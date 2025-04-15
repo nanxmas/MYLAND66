@@ -1,0 +1,38 @@
+[
+  {
+    "id": "252-1",
+    "name": "海王丸パーク",
+    "image": "https://image.xinu.ink/pic/data/1171/images/252-1.jpg",
+    "geo": [
+      36.780974,
+      137.110491
+    ]
+  },
+  {
+    "id": "252-3",
+    "name": "富山駅北駅",
+    "image": "https://image.xinu.ink/pic/data/1171/images/252-3.jpg",
+    "geo": [
+      36.702391,
+      137.213469
+    ]
+  },
+  {
+    "id": "252-4",
+    "name": "雨晴海岸",
+    "image": "https://image.xinu.ink/pic/data/1171/images/252-4.jpg",
+    "geo": [
+      36.81796,
+      137.03585
+    ]
+  },
+  {
+    "id": "252-5",
+    "name": "八尾町坂道",
+    "image": "https://image.xinu.ink/pic/data/1171/images/252-5.jpg",
+    "geo": [
+      36.579144,
+      137.136312
+    ]
+  }
+]

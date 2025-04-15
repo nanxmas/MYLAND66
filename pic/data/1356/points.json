@@ -1,0 +1,920 @@
+[
+  {
+    "id": "1051-1",
+    "name": "沼津駅南口１",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-1.jpg",
+    "geo": [
+      35.1024174,
+      138.8596206
+    ]
+  },
+  {
+    "id": "1051-2",
+    "name": "沼津駅南口２",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-2.jpg",
+    "geo": [
+      35.1023204,
+      138.8594235
+    ]
+  },
+  {
+    "id": "1051-3",
+    "name": "沼津駅南口３",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-3.jpg",
+    "geo": [
+      35.1025628,
+      138.8594493
+    ]
+  },
+  {
+    "id": "1051-4",
+    "name": "沼津駅南口４（８カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-4.jpg",
+    "geo": [
+      35.1026456,
+      138.8595898
+    ]
+  },
+  {
+    "id": "1051-6",
+    "name": "沼津機関区略史碑（１３カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-6.jpg",
+    "geo": [
+      35.1023674,
+      138.8596266
+    ]
+  },
+  {
+    "id": "1051-8",
+    "name": "地下通路E2出入口前",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-8.jpg",
+    "geo": [
+      35.1016483,
+      138.8595646
+    ]
+  },
+  {
+    "id": "1051-9",
+    "name": "地下通路W2出入口前",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-9.jpg",
+    "geo": [
+      35.101702,
+      138.8590435
+    ]
+  },
+  {
+    "id": "1051-10",
+    "name": "仲見世商店街１",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-10.jpg",
+    "geo": [
+      35.1014081,
+      138.8583167
+    ]
+  },
+  {
+    "id": "1051-11",
+    "name": "仲見世商店街２",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-11.jpg",
+    "geo": [
+      35.1006324,
+      138.8582089
+    ]
+  },
+  {
+    "id": "1051-12",
+    "name": "仲見世商店街３",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-12.jpg",
+    "geo": [
+      35.10174,
+      138.85836
+    ]
+  },
+  {
+    "id": "1051-13",
+    "name": "マルサン書店仲見世店",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-13.jpg",
+    "geo": [
+      35.1007059,
+      138.8584288
+    ]
+  },
+  {
+    "id": "1051-16",
+    "name": "リコー通り",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-16.jpg",
+    "geo": [
+      35.104564,
+      138.8582005
+    ]
+  },
+  {
+    "id": "1051-20",
+    "name": "沼津駅北口４（２カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-20.jpg",
+    "geo": [
+      35.1037205,
+      138.8594267
+    ]
+  },
+  {
+    "id": "1051-22",
+    "name": "沼津駅北口６（３カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-22.jpg",
+    "geo": [
+      35.1036871,
+      138.8598827
+    ]
+  },
+  {
+    "id": "1051-23",
+    "name": "沼津駅北口７（３カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-23.jpg",
+    "geo": [
+      35.1040277,
+      138.8606592
+    ]
+  },
+  {
+    "id": "1051-24",
+    "name": "沼津駅北口８（２カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-24.jpg",
+    "geo": [
+      35.1043105,
+      138.8593504
+    ]
+  },
+  {
+    "id": "1051-25",
+    "name": "沼津駅北口９（３カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-25.jpg",
+    "geo": [
+      35.1039646,
+      138.859335
+    ]
+  },
+  {
+    "id": "1051-26",
+    "name": "沼津駅北口１０（３カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-26.jpg",
+    "geo": [
+      35.1039183,
+      138.8593344
+    ]
+  },
+  {
+    "id": "1051-27",
+    "name": "アーケード名店街",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-27.jpg",
+    "geo": [
+      35.0982914,
+      138.8570917
+    ]
+  },
+  {
+    "id": "1051-28",
+    "name": "中央公園（４カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-28.jpg",
+    "geo": [
+      35.09916,
+      138.8594845
+    ]
+  },
+  {
+    "id": "1051-29",
+    "name": "あゆみ橋",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-29.jpg",
+    "geo": [
+      35.0981127,
+      138.8599502
+    ]
+  },
+  {
+    "id": "1051-30",
+    "name": "リバーサイドエリア（４カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-30.jpg",
+    "geo": [
+      35.0978878,
+      138.8597001
+    ]
+  },
+  {
+    "id": "1051-31",
+    "name": "ナティ沼津",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-31.jpg",
+    "geo": [
+      35.0967407,
+      138.8588151
+    ]
+  },
+  {
+    "id": "1051-32",
+    "name": "上土朝日稲荷神社（２カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-32.jpg",
+    "geo": [
+      35.0966221,
+      138.8585592
+    ]
+  },
+  {
+    "id": "1051-33",
+    "name": "ナティ沼津・沼津リバーサイドホテル通路（３カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-33.jpg",
+    "geo": [
+      35.0966578,
+      138.8583768
+    ]
+  },
+  {
+    "id": "1051-34",
+    "name": "沼津リバーサイドホテル１",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-34.jpg",
+    "geo": [
+      35.0968855,
+      138.8581714
+    ]
+  },
+  {
+    "id": "1051-35",
+    "name": "沼津リバーサイドホテル２",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-35.jpg",
+    "geo": [
+      35.0971807,
+      138.8582854
+    ]
+  },
+  {
+    "id": "1051-37",
+    "name": "沼津市民文化センター（５カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-37.jpg",
+    "geo": [
+      35.0948494,
+      138.8656024
+    ]
+  },
+  {
+    "id": "1051-38",
+    "name": "下河原町周辺１（２カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-38.jpg",
+    "geo": [
+      35.0909992,
+      138.8580663
+    ]
+  },
+  {
+    "id": "1051-42",
+    "name": "沼津バーガー（２カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-42.jpg",
+    "geo": [
+      35.083836,
+      138.8583703
+    ]
+  },
+  {
+    "id": "1051-43",
+    "name": "ダイノブセンター前",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-43.jpg",
+    "geo": [
+      35.0831051,
+      138.8582887
+    ]
+  },
+  {
+    "id": "1051-44",
+    "name": "大型展望水門びゅうお１",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-44.jpg",
+    "geo": [
+      35.0817466,
+      138.8553893
+    ]
+  },
+  {
+    "id": "1051-45",
+    "name": "大型展望水門びゅうお２（７カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-45.jpg",
+    "geo": [
+      35.0817198,
+      138.8552561
+    ]
+  },
+  {
+    "id": "1051-46",
+    "name": "大型展望水門びゅうお３",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-46.jpg",
+    "geo": [
+      35.081706,
+      138.8550245
+    ]
+  },
+  {
+    "id": "1051-47",
+    "name": "大型展望水門びゅうお４（７カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-47.jpg",
+    "geo": [
+      35.0813592,
+      138.854641
+    ]
+  },
+  {
+    "id": "1051-51",
+    "name": "島郷海水浴場３（４カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-51.jpg",
+    "geo": [
+      35.0679967,
+      138.8748282
+    ]
+  },
+  {
+    "id": "1051-53",
+    "name": "獅子浜北１",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-53.jpg",
+    "geo": [
+      35.0559346,
+      138.8835475
+    ]
+  },
+  {
+    "id": "1051-54",
+    "name": "獅子浜北２",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-54.jpg",
+    "geo": [
+      35.0557754,
+      138.8837285
+    ]
+  },
+  {
+    "id": "1051-55",
+    "name": "マリンパークバス停前（３カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-55.jpg",
+    "geo": [
+      35.0322748,
+      138.8935112
+    ]
+  },
+  {
+    "id": "1051-57",
+    "name": "陸側船乗り場２",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-57.jpg",
+    "geo": [
+      35.0325449,
+      138.8933214
+    ]
+  },
+  {
+    "id": "1051-58",
+    "name": "離宮桟橋１",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-58.jpg",
+    "geo": [
+      35.0342424,
+      138.8905912
+    ]
+  },
+  {
+    "id": "1051-59",
+    "name": "離宮桟橋２",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-59.jpg",
+    "geo": [
+      35.0338027,
+      138.8899075
+    ]
+  },
+  {
+    "id": "1051-60",
+    "name": "ベンチ",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-60.jpg",
+    "geo": [
+      35.0333123,
+      138.8903717
+    ]
+  },
+  {
+    "id": "1051-61",
+    "name": "カエル館１（４カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-61.jpg",
+    "geo": [
+      35.0327874,
+      138.890308
+    ]
+  },
+  {
+    "id": "1051-62",
+    "name": "カエル館２（２カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-62.jpg",
+    "geo": [
+      35.0328445,
+      138.8902663
+    ]
+  },
+  {
+    "id": "1051-63",
+    "name": "カエル館３",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-63.jpg",
+    "geo": [
+      35.032926,
+      138.8903046
+    ]
+  },
+  {
+    "id": "1051-64",
+    "name": "淡島神社登山口",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-64.jpg",
+    "geo": [
+      35.0319589,
+      138.8903194
+    ]
+  },
+  {
+    "id": "1051-65",
+    "name": "参拝階段",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-65.jpg",
+    "geo": [
+      35.0321813,
+      138.8900954
+    ]
+  },
+  {
+    "id": "1051-66",
+    "name": "がんばって札（５カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-66.jpg",
+    "geo": [
+      35.032374,
+      138.8898741
+    ]
+  },
+  {
+    "id": "1051-67",
+    "name": "ロックテラス（５カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-67.jpg",
+    "geo": [
+      35.032038,
+      138.8889092
+    ]
+  },
+  {
+    "id": "1051-68",
+    "name": "鳥居までの階段",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-68.jpg",
+    "geo": [
+      35.0326293,
+      138.8883003
+    ]
+  },
+  {
+    "id": "1051-69",
+    "name": "淡島神社（２カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-69.jpg",
+    "geo": [
+      35.0329818,
+      138.8878396
+    ]
+  },
+  {
+    "id": "1051-77",
+    "name": "島合洞バス停付近",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-77.jpg",
+    "geo": [
+      35.0310363,
+      138.8930437
+    ]
+  },
+  {
+    "id": "1051-78",
+    "name": "三津坂西",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-78.jpg",
+    "geo": [
+      35.0251195,
+      138.9047662
+    ]
+  },
+  {
+    "id": "1051-79",
+    "name": "旧やまや１",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-79.jpg",
+    "geo": [
+      35.0241188,
+      138.8987457
+    ]
+  },
+  {
+    "id": "1051-81",
+    "name": "三津三差路",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-81.jpg",
+    "geo": [
+      35.0239211,
+      138.8987041
+    ]
+  },
+  {
+    "id": "1051-82",
+    "name": "三津会館",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-82.jpg",
+    "geo": [
+      35.023813,
+      138.8986378
+    ]
+  },
+  {
+    "id": "1051-83",
+    "name": "三津バス停",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-83.jpg",
+    "geo": [
+      35.0230318,
+      138.8981887
+    ]
+  },
+  {
+    "id": "1051-84",
+    "name": "とさわや旅館",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-84.jpg",
+    "geo": [
+      35.0229907,
+      138.8981767
+    ]
+  },
+  {
+    "id": "1051-85",
+    "name": "三津郵便局バス停１（２カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-85.jpg",
+    "geo": [
+      35.0229461,
+      138.8982612
+    ]
+  },
+  {
+    "id": "1051-86",
+    "name": "三津郵便局バス停２（４カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-86.jpg",
+    "geo": [
+      35.0229505,
+      138.8981418
+    ]
+  },
+  {
+    "id": "1051-87",
+    "name": "内浦漁協前",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-87.jpg",
+    "geo": [
+      35.0228111,
+      138.8981297
+    ]
+  },
+  {
+    "id": "1051-88",
+    "name": "内浦漁協",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-88.jpg",
+    "geo": [
+      35.022572,
+      138.8978337
+    ]
+  },
+  {
+    "id": "1051-89",
+    "name": "松月（１４カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-89.jpg",
+    "geo": [
+      35.0221962,
+      138.8979601
+    ]
+  },
+  {
+    "id": "1051-90",
+    "name": "松月前（７カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-90.jpg",
+    "geo": [
+      35.0222714,
+      138.8978957
+    ]
+  },
+  {
+    "id": "1051-92",
+    "name": "千鳥桟橋１",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-92.jpg",
+    "geo": [
+      35.0208967,
+      138.8975086
+    ]
+  },
+  {
+    "id": "1051-93",
+    "name": "千鳥桟橋２",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-93.jpg",
+    "geo": [
+      35.0210934,
+      138.8972116
+    ]
+  },
+  {
+    "id": "1051-94",
+    "name": "旅館 浜の家",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-94.jpg",
+    "geo": [
+      35.0209123,
+      138.8975935
+    ]
+  },
+  {
+    "id": "1051-95",
+    "name": "旅館三景前",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-95.jpg",
+    "geo": [
+      35.020836,
+      138.8975492
+    ]
+  },
+  {
+    "id": "1051-97",
+    "name": "セブンイレブン１",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-97.jpg",
+    "geo": [
+      35.0217836,
+      138.8975878
+    ]
+  },
+  {
+    "id": "1051-99",
+    "name": "セブンイレブン 裏（８カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-99.jpg",
+    "geo": [
+      35.0218583,
+      138.8972511
+    ]
+  },
+  {
+    "id": "1051-100",
+    "name": "安田屋旅館（４カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-100.jpg",
+    "geo": [
+      35.0205634,
+      138.8974214
+    ]
+  },
+  {
+    "id": "1051-104",
+    "name": "安田屋旅館・ラウンジ（３カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-104.jpg",
+    "geo": [
+      35.0203883,
+      138.8976521
+    ]
+  },
+  {
+    "id": "1051-106",
+    "name": "安田屋旅館横の坂",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-106.jpg",
+    "geo": [
+      35.0207033,
+      138.8974568
+    ]
+  },
+  {
+    "id": "1051-108",
+    "name": "三津海水浴場２（３カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-108.jpg",
+    "geo": [
+      35.0206605,
+      138.89739
+    ]
+  },
+  {
+    "id": "1051-109",
+    "name": "三津海水浴場３",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-109.jpg",
+    "geo": [
+      35.0207786,
+      138.8974872
+    ]
+  },
+  {
+    "id": "1051-110",
+    "name": "三津海水浴場４（４カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-110.jpg",
+    "geo": [
+      35.0204859,
+      138.8971103
+    ]
+  },
+  {
+    "id": "1051-111",
+    "name": "三津海水浴場前歩道",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-111.jpg",
+    "geo": [
+      35.0203981,
+      138.8971016
+    ]
+  },
+  {
+    "id": "1051-112",
+    "name": "伊豆・三津シーパラダイス入口",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-112.jpg",
+    "geo": [
+      35.0200311,
+      138.8967218
+    ]
+  },
+  {
+    "id": "1051-113",
+    "name": "伊豆三津シーパラダイス駐車場",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-113.jpg",
+    "geo": [
+      35.0199152,
+      138.8968304
+    ]
+  },
+  {
+    "id": "1051-114",
+    "name": "伊豆三津シーパラダイスバス停",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-114.jpg",
+    "geo": [
+      35.0198878,
+      138.8966413
+    ]
+  },
+  {
+    "id": "1051-115",
+    "name": "セイウチ水槽",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-115.jpg",
+    "geo": [
+      35.0195589,
+      138.8964361
+    ]
+  },
+  {
+    "id": "1051-117",
+    "name": "くらげ万華鏡水槽",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-117.jpg",
+    "geo": [
+      35.0198378,
+      138.8960606
+    ]
+  },
+  {
+    "id": "1051-118",
+    "name": "いそあそび～ち",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-118.jpg",
+    "geo": [
+      35.0200954,
+      138.8958641
+    ]
+  },
+  {
+    "id": "1051-119",
+    "name": "イルカ像",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-119.jpg",
+    "geo": [
+      35.020152,
+      138.8956918
+    ]
+  },
+  {
+    "id": "1051-133",
+    "name": "自然飼育場",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-133.jpg",
+    "geo": [
+      35.019203,
+      138.8956516
+    ]
+  },
+  {
+    "id": "1051-136",
+    "name": "富士見トンネル長浜口（２カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-136.jpg",
+    "geo": [
+      35.0184792,
+      138.8950043
+    ]
+  },
+  {
+    "id": "1051-137",
+    "name": "富士見トンネル長浜口風景１",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-137.jpg",
+    "geo": [
+      35.0184704,
+      138.8948588
+    ]
+  },
+  {
+    "id": "1051-139",
+    "name": "富士見トンネル長浜口風景３",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-139.jpg",
+    "geo": [
+      35.0183264,
+      138.8942956
+    ]
+  },
+  {
+    "id": "1051-143",
+    "name": "三の浦総合案内所",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-143.jpg",
+    "geo": [
+      35.0177335,
+      138.893379
+    ]
+  },
+  {
+    "id": "1051-146",
+    "name": "三の浦総合案内所前３",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-146.jpg",
+    "geo": [
+      35.0178633,
+      138.8932507
+    ]
+  },
+  {
+    "id": "1051-148",
+    "name": "大川家長屋門",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-148.jpg",
+    "geo": [
+      35.0173521,
+      138.8934458
+    ]
+  },
+  {
+    "id": "1051-150",
+    "name": "黒澤家のモデル",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-150.jpg",
+    "geo": [
+      35.0172748,
+      138.8933136
+    ]
+  },
+  {
+    "id": "1051-151",
+    "name": "唯念上人の布教碑（２カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-151.jpg",
+    "geo": [
+      35.0168715,
+      138.891749
+    ]
+  },
+  {
+    "id": "1051-153",
+    "name": "発端丈山（ＴＶ版）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-153.jpg",
+    "geo": [
+      35.0182578,
+      138.8997267
+    ]
+  },
+  {
+    "id": "1051-154",
+    "name": "長浜城跡１（５カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-154.jpg",
+    "geo": [
+      35.0183207,
+      138.8880059
+    ]
+  },
+  {
+    "id": "1051-155",
+    "name": "長浜城跡２（３カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-155.jpg",
+    "geo": [
+      35.0181669,
+      138.8879139
+    ]
+  },
+  {
+    "id": "1051-157",
+    "name": "弁天島神社入口",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-157.jpg",
+    "geo": [
+      35.0195614,
+      138.8851235
+    ]
+  },
+  {
+    "id": "1051-158",
+    "name": "弁天島神社鳥居",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-158.jpg",
+    "geo": [
+      35.0195351,
+      138.8856143
+    ]
+  },
+  {
+    "id": "1051-166",
+    "name": "学校のバス停前７（２カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-166.jpg",
+    "geo": [
+      35.0247015,
+      138.8851644
+    ]
+  },
+  {
+    "id": "1051-167",
+    "name": "長井崎中学校バス停前堤防（３カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-167.jpg",
+    "geo": [
+      35.0247267,
+      138.8856043
+    ]
+  },
+  {
+    "id": "1051-182",
+    "name": "伊豆長岡駅（４カット）",
+    "image": "https://image.xinu.ink/pic/data/1356/images/1051-182.jpg",
+    "geo": [
+      35.0396649,
+      138.9472951
+    ]
+  }
+]

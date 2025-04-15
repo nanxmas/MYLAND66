@@ -1,0 +1,47 @@
+[
+  {
+    "id": "404-0",
+    "name": "桜木町駅 (モデル1/2)",
+    "image": "https://image.xinu.ink/pic/data/1313/images/404-0.jpg",
+    "geo": [
+      35.4509365,
+      139.6315648
+    ]
+  },
+  {
+    "id": "404-1",
+    "name": "関内駅 (モデル1/2)",
+    "image": "https://image.xinu.ink/pic/data/1313/images/404-1.jpg",
+    "geo": [
+      35.443475600000006,
+      139.6372819
+    ]
+  },
+  {
+    "id": "404-2",
+    "name": "山下公園",
+    "image": "https://image.xinu.ink/pic/data/1313/images/404-2.jpg",
+    "geo": [
+      35.4475236,
+      139.6477693
+    ]
+  },
+  {
+    "id": "404-3",
+    "name": "臨港パーク",
+    "image": "https://image.xinu.ink/pic/data/1313/images/404-3.jpg",
+    "geo": [
+      35.4601959,
+      139.6378988
+    ]
+  },
+  {
+    "id": "404-4",
+    "name": "清水ヶ丘公園",
+    "image": "https://image.xinu.ink/pic/data/1313/images/404-4.jpg",
+    "geo": [
+      35.4370761,
+      139.6046475
+    ]
+  }
+]

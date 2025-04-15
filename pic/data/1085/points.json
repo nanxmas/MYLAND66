@@ -1,0 +1,74 @@
+[
+  {
+    "id": "153-1",
+    "name": "1.眼鏡橋",
+    "image": "https://image.xinu.ink/pic/data/1085/images/153-1.jpg",
+    "geo": [
+      32.747173,
+      129.880092
+    ]
+  },
+  {
+    "id": "153-2",
+    "name": "2.大浦天主堂",
+    "image": "https://image.xinu.ink/pic/data/1085/images/153-2.jpg",
+    "geo": [
+      32.733646,
+      129.870071
+    ]
+  },
+  {
+    "id": "153-3",
+    "name": "3.海星修道院",
+    "image": "https://image.xinu.ink/pic/data/1085/images/153-3.jpg",
+    "geo": [
+      32.736489,
+      129.874856
+    ]
+  },
+  {
+    "id": "153-4",
+    "name": "4.活水女子大学",
+    "image": "https://image.xinu.ink/pic/data/1085/images/153-4.jpg",
+    "geo": [
+      32.738348,
+      129.873204
+    ]
+  },
+  {
+    "id": "153-5",
+    "name": "5.ヴィーナスウィング",
+    "image": "https://image.xinu.ink/pic/data/1085/images/153-5.jpg",
+    "geo": [
+      32.739882,
+      129.868178
+    ]
+  },
+  {
+    "id": "153-6",
+    "name": "6.水辺の公園レストラン",
+    "image": "https://image.xinu.ink/pic/data/1085/images/153-6.jpg",
+    "geo": [
+      32.739165,
+      129.871123
+    ]
+  },
+  {
+    "id": "153-7",
+    "name": "9.長崎駅前交差点",
+    "image": "https://image.xinu.ink/pic/data/1085/images/153-7.jpg",
+    "geo": [
+      32.752163,
+      129.872051
+    ]
+  },
+  {
+    "id": "153-8",
+    "name": "10.長崎駅前信号",
+    "image": "https://image.xinu.ink/pic/data/1085/images/153-8.jpg",
+    "geo": [
+      32.752254,
+      129.871976
+    ]
+  }
+]

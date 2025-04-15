@@ -1,0 +1,47 @@
+[
+  {
+    "id": "300-1",
+    "name": "セボンプラージュ",
+    "image": "https://image.xinu.ink/pic/data/1213/images/300-1.jpg",
+    "geo": [
+      35.663327,
+      139.699545
+    ]
+  },
+  {
+    "id": "300-2",
+    "name": "プラダブティック 青山店",
+    "image": "https://image.xinu.ink/pic/data/1213/images/300-2.jpg",
+    "geo": [
+      35.663766,
+      139.714411
+    ]
+  },
+  {
+    "id": "300-3",
+    "name": "表参道ヒルズ",
+    "image": "https://image.xinu.ink/pic/data/1213/images/300-3.jpg",
+    "geo": [
+      35.66721,
+      139.708958
+    ]
+  },
+  {
+    "id": "300-4",
+    "name": "ＪＲ渋谷駅",
+    "image": "https://image.xinu.ink/pic/data/1213/images/300-4.jpg",
+    "geo": [
+      35.658089,
+      139.701518
+    ]
+  },
+  {
+    "id": "300-5",
+    "name": "原宿駅・ＪＲ／山手線",
+    "image": "https://image.xinu.ink/pic/data/1213/images/300-5.jpg",
+    "geo": [
+      35.67017,
+      139.70269
+    ]
+  }
+]

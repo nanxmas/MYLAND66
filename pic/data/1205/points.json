@@ -1,0 +1,38 @@
+[
+  {
+    "id": "292-0",
+    "name": "日本館",
+    "image": "https://image.xinu.ink/pic/data/1205/images/292-0.jpg",
+    "geo": [
+      35.709514,
+      139.708806
+    ]
+  },
+  {
+    "id": "292-2",
+    "name": "やぶさめ階段",
+    "image": "https://image.xinu.ink/pic/data/1205/images/292-2.jpg",
+    "geo": [
+      35.711043,
+      139.709739
+    ]
+  },
+  {
+    "id": "292-4",
+    "name": "白銀公園",
+    "image": "https://image.xinu.ink/pic/data/1205/images/292-4.jpg",
+    "geo": [
+      35.703831,
+      139.737723
+    ]
+  },
+  {
+    "id": "292-5",
+    "name": "西武池袋線池袋5号踏切",
+    "image": "https://image.xinu.ink/pic/data/1205/images/292-5.jpg",
+    "geo": [
+      35.725955,
+      139.702669
+    ]
+  }
+]

@@ -1,0 +1,623 @@
+[
+  {
+    "id": "304-1",
+    "name": "東池袋中央公園入口",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-1.jpg",
+    "geo": [
+      35.730323,
+      139.718201
+    ]
+  },
+  {
+    "id": "304-2",
+    "name": "東池袋中央公園",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-2.jpg",
+    "geo": [
+      35.730103,
+      139.718641
+    ]
+  },
+  {
+    "id": "304-3",
+    "name": "東池袋中央公園前 北側交差点",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-3.jpg",
+    "geo": [
+      35.730613,
+      139.718142
+    ]
+  },
+  {
+    "id": "304-4",
+    "name": "善國寺 入口",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-4.jpg",
+    "geo": [
+      35.701586,
+      139.739525
+    ]
+  },
+  {
+    "id": "304-5",
+    "name": "神楽坂 善國寺前",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-5.jpg",
+    "geo": [
+      35.701649,
+      139.739538
+    ]
+  },
+  {
+    "id": "304-6",
+    "name": "三菱東京UFJ銀行神楽坂支店前",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-6.jpg",
+    "geo": [
+      35.701472,
+      139.739906
+    ]
+  },
+  {
+    "id": "304-7",
+    "name": "東京メトロ飯田橋駅B3出口",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-7.jpg",
+    "geo": [
+      35.700597,
+      139.742382
+    ]
+  },
+  {
+    "id": "304-8",
+    "name": "神楽坂下交差点",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-8.jpg",
+    "geo": [
+      35.700453,
+      139.742652
+    ]
+  },
+  {
+    "id": "304-9",
+    "name": "東京メトロ飯田橋駅B2a出口",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-9.jpg",
+    "geo": [
+      35.700477,
+      139.742902
+    ]
+  },
+  {
+    "id": "304-10",
+    "name": "JR飯田橋駅西口",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-10.jpg",
+    "geo": [
+      35.700168,
+      139.743551
+    ]
+  },
+  {
+    "id": "304-11",
+    "name": "牛込橋",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-11.jpg",
+    "geo": [
+      35.700172,
+      139.74342
+    ]
+  },
+  {
+    "id": "304-12",
+    "name": "連絡橋",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-12.jpg",
+    "geo": [
+      35.700375,
+      139.743433
+    ]
+  },
+  {
+    "id": "304-13",
+    "name": "飯田橋セントラルプラザ",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-13.jpg",
+    "geo": [
+      35.701006,
+      139.743484
+    ]
+  },
+  {
+    "id": "304-14",
+    "name": "警視庁",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-14.jpg",
+    "geo": [
+      35.677265,
+      139.752606
+    ]
+  },
+  {
+    "id": "304-15",
+    "name": "東京タワー",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-15.jpg",
+    "geo": [
+      35.658569,
+      139.745493
+    ]
+  },
+  {
+    "id": "304-16",
+    "name": "六本木六丁目交差点北側",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-16.jpg",
+    "geo": [
+      35.661964,
+      139.727589
+    ]
+  },
+  {
+    "id": "304-17",
+    "name": "六本木ヒルズ 森田タワー",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-17.jpg",
+    "geo": [
+      35.660482,
+      139.729276
+    ]
+  },
+  {
+    "id": "304-18",
+    "name": "新宿タカシマヤ タイムズスクエア本館",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-18.jpg",
+    "geo": [
+      35.68784,
+      139.701923
+    ]
+  },
+  {
+    "id": "304-19",
+    "name": "東京都庁 第一庁舎",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-19.jpg",
+    "geo": [
+      35.689906,
+      139.69164
+    ]
+  },
+  {
+    "id": "304-20",
+    "name": "新宿住友ビル前",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-20.jpg",
+    "geo": [
+      35.690581,
+      139.692632
+    ]
+  },
+  {
+    "id": "304-21",
+    "name": "新宿三井ビル",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-21.jpg",
+    "geo": [
+      35.691204,
+      139.694003
+    ]
+  },
+  {
+    "id": "304-22",
+    "name": "地下通路南側",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-22.jpg",
+    "geo": [
+      35.691052,
+      139.697905
+    ]
+  },
+  {
+    "id": "304-23",
+    "name": "渋谷ハチ公前交差点",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-23.jpg",
+    "geo": [
+      35.659367,
+      139.700754
+    ]
+  },
+  {
+    "id": "304-24",
+    "name": "神楽坂 ドラッグオゾン前",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-24.jpg",
+    "geo": [
+      35.701368,
+      139.740295
+    ]
+  },
+  {
+    "id": "304-25",
+    "name": "JR上野駅正面玄関口",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-25.jpg",
+    "geo": [
+      35.712162,
+      139.776403
+    ]
+  },
+  {
+    "id": "304-26",
+    "name": "JR上野駅 1，2番ホーム",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-26.jpg",
+    "geo": [
+      35.712846,
+      139.775491
+    ]
+  },
+  {
+    "id": "304-27",
+    "name": "JR上野駅 東側デッキ",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-27.jpg",
+    "geo": [
+      35.712558,
+      139.776987
+    ]
+  },
+  {
+    "id": "304-28",
+    "name": "高架歩道橋",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-28.jpg",
+    "geo": [
+      35.712169,
+      139.776974
+    ]
+  },
+  {
+    "id": "304-29",
+    "name": "小金井公園 江戸東京たてもの園 子宝湯",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-29.jpg",
+    "geo": [
+      35.716727,
+      139.515038
+    ]
+  },
+  {
+    "id": "304-30",
+    "name": "渋谷駅西口 モヤイ像",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-30.jpg",
+    "geo": [
+      35.658467,
+      139.700925
+    ]
+  },
+  {
+    "id": "304-31",
+    "name": "五大桜大橋",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-31.jpg",
+    "geo": [
+      35.765249,
+      139.76017
+    ]
+  },
+  {
+    "id": "304-32",
+    "name": "五大桜大橋下",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-32.jpg",
+    "geo": [
+      35.764796,
+      139.759097
+    ]
+  },
+  {
+    "id": "304-33",
+    "name": "江北橋",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-33.jpg",
+    "geo": [
+      35.762959,
+      139.759387
+    ]
+  },
+  {
+    "id": "304-34",
+    "name": "江北橋西詰",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-34.jpg",
+    "geo": [
+      35.76262,
+      139.758523
+    ]
+  },
+  {
+    "id": "304-35",
+    "name": "飯田橋 牛込橋",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-35.jpg",
+    "geo": [
+      35.70032,
+      139.743122
+    ]
+  },
+  {
+    "id": "304-36",
+    "name": "飯田橋交差点",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-36.jpg",
+    "geo": [
+      35.702649,
+      139.744203
+    ]
+  },
+  {
+    "id": "304-37",
+    "name": "JR王子駅前ロータリー",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-37.jpg",
+    "geo": [
+      35.753585,
+      139.737433
+    ]
+  },
+  {
+    "id": "304-38",
+    "name": "歩道橋",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-38.jpg",
+    "geo": [
+      35.753354,
+      139.737656
+    ]
+  },
+  {
+    "id": "304-39",
+    "name": "歩道橋下",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-39.jpg",
+    "geo": [
+      35.753522,
+      139.737835
+    ]
+  },
+  {
+    "id": "304-40",
+    "name": "バス停横",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-40.jpg",
+    "geo": [
+      35.75394,
+      139.737873
+    ]
+  },
+  {
+    "id": "304-41",
+    "name": "都電荒川線 王子駅前駅北側",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-41.jpg",
+    "geo": [
+      35.753171,
+      139.737776
+    ]
+  },
+  {
+    "id": "304-42",
+    "name": "JR高円寺北口",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-42.jpg",
+    "geo": [
+      35.705587,
+      139.650148
+    ]
+  },
+  {
+    "id": "304-43",
+    "name": "JR原宿駅竹下口",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-43.jpg",
+    "geo": [
+      35.671596,
+      139.702894
+    ]
+  },
+  {
+    "id": "304-44",
+    "name": "葛西臨海水族館",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-44.jpg",
+    "geo": [
+      35.640252,
+      139.861879
+    ]
+  },
+  {
+    "id": "304-45",
+    "name": "葛西臨海水族館　テラス",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-45.jpg",
+    "geo": [
+      35.639681,
+      139.86174
+    ]
+  },
+  {
+    "id": "304-46",
+    "name": "葛西臨海水族館前",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-46.jpg",
+    "geo": [
+      35.641167,
+      139.860849
+    ]
+  },
+  {
+    "id": "304-47",
+    "name": "ダイヤと花の大観覧車",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-47.jpg",
+    "geo": [
+      35.643966,
+      139.857084
+    ]
+  },
+  {
+    "id": "304-48",
+    "name": "観覧車撮影位置",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-48.jpg",
+    "geo": [
+      35.643382,
+      139.858291
+    ]
+  },
+  {
+    "id": "304-49",
+    "name": "クリスタルビュー",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-49.jpg",
+    "geo": [
+      35.640636,
+      139.859404
+    ]
+  },
+  {
+    "id": "304-50",
+    "name": "銀座 和光時計台",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-50.jpg",
+    "geo": [
+      35.671513,
+      139.765009
+    ]
+  },
+  {
+    "id": "304-51",
+    "name": "押上 東京スカイツリー",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-51.jpg",
+    "geo": [
+      35.710058,
+      139.810746
+    ]
+  },
+  {
+    "id": "304-52",
+    "name": "東京スカイツリー東武船沿いブロック塀",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-52.jpg",
+    "geo": [
+      35.711217,
+      139.812618
+    ]
+  },
+  {
+    "id": "304-53",
+    "name": "神楽坂上交差点",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-53.jpg",
+    "geo": [
+      35.702167,
+      139.738208
+    ]
+  },
+  {
+    "id": "304-54",
+    "name": "神楽坂下交差点 信号機",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-54.jpg",
+    "geo": [
+      35.700492,
+      139.742543
+    ]
+  },
+  {
+    "id": "304-55",
+    "name": "飯田橋交差点 歩道橋",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-55.jpg",
+    "geo": [
+      35.702594,
+      139.744444
+    ]
+  },
+  {
+    "id": "304-56",
+    "name": "大久保通り",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-56.jpg",
+    "geo": [
+      35.702718,
+      139.743779
+    ]
+  },
+  {
+    "id": "304-57",
+    "name": "JR池袋駅 東口（北）前",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-57.jpg",
+    "geo": [
+      35.730685,
+      139.712502
+    ]
+  },
+  {
+    "id": "304-58",
+    "name": "JR上野駅 広小路口",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-58.jpg",
+    "geo": [
+      35.711966,
+      139.775711
+    ]
+  },
+  {
+    "id": "304-59",
+    "name": "上野グリーンサロン",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-59.jpg",
+    "geo": [
+      35.715013,
+      139.776258
+    ]
+  },
+  {
+    "id": "304-60",
+    "name": "国立西洋美術館",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-60.jpg",
+    "geo": [
+      35.715239,
+      139.775764
+    ]
+  },
+  {
+    "id": "304-61",
+    "name": "地獄の門",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-61.jpg",
+    "geo": [
+      35.715,
+      139.775818
+    ]
+  },
+  {
+    "id": "304-62",
+    "name": "レインボーブリッジ 台場側",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-62.jpg",
+    "geo": [
+      35.635081,
+      139.767959
+    ]
+  },
+  {
+    "id": "304-63",
+    "name": "レインボーブリッジ 芝浦側",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-63.jpg",
+    "geo": [
+      35.638133,
+      139.758496
+    ]
+  },
+  {
+    "id": "304-64",
+    "name": "自由の女神像",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-64.jpg",
+    "geo": [
+      35.627852,
+      139.771811
+    ]
+  },
+  {
+    "id": "304-65",
+    "name": "フジテレビ本社",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-65.jpg",
+    "geo": [
+      35.627085,
+      139.774407
+    ]
+  },
+  {
+    "id": "304-66",
+    "name": "芝浦高架下",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-66.jpg",
+    "geo": [
+      35.638543,
+      139.757826
+    ]
+  },
+  {
+    "id": "304-67",
+    "name": "東京警察病院",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-67.jpg",
+    "geo": [
+      35.709453,
+      139.65934
+    ]
+  },
+  {
+    "id": "304-68",
+    "name": "三菱UFJ信託銀行 日本橋支店",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-68.jpg",
+    "geo": [
+      35.681109,
+      139.772578
+    ]
+  },
+  {
+    "id": "304-69",
+    "name": "新宿 スタジオアルタ前",
+    "image": "https://image.xinu.ink/pic/data/1217/images/304-69.jpg",
+    "geo": [
+      35.69252,
+      139.701129
+    ]
+  }
+]

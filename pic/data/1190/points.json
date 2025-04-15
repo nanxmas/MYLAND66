@@ -1,0 +1,92 @@
+[
+  {
+    "id": "274-1",
+    "name": "渋谷ハチ公前交差点",
+    "image": "https://image.xinu.ink/pic/data/1190/images/274-1.jpg",
+    "geo": [
+      35.659746,
+      139.700441
+    ]
+  },
+  {
+    "id": "274-2",
+    "name": "東京ドームシティ 連絡橋",
+    "image": "https://image.xinu.ink/pic/data/1190/images/274-2.jpg",
+    "geo": [
+      35.702997,
+      139.752069
+    ]
+  },
+  {
+    "id": "274-3",
+    "name": "後楽園ホール建屋",
+    "image": "https://image.xinu.ink/pic/data/1190/images/274-3.jpg",
+    "geo": [
+      35.704064,
+      139.752206
+    ]
+  },
+  {
+    "id": "274-4",
+    "name": "秋葉原中央通り 万世橋交差点",
+    "image": "https://image.xinu.ink/pic/data/1190/images/274-4.jpg",
+    "geo": [
+      35.697512,
+      139.771102
+    ]
+  },
+  {
+    "id": "274-5",
+    "name": "幕張メッセ 国際展示場1-8ホール",
+    "image": "https://image.xinu.ink/pic/data/1190/images/274-5.jpg",
+    "geo": [
+      35.647445,
+      140.035277
+    ]
+  },
+  {
+    "id": "274-6",
+    "name": "幕張メッセ 国際展示場9-11ホール",
+    "image": "https://image.xinu.ink/pic/data/1190/images/274-6.jpg",
+    "geo": [
+      35.6487,
+      140.035996
+    ]
+  },
+  {
+    "id": "274-7",
+    "name": "日本武道館",
+    "image": "https://image.xinu.ink/pic/data/1190/images/274-7.jpg",
+    "geo": [
+      35.693064,
+      139.749478
+    ]
+  },
+  {
+    "id": "274-8",
+    "name": "ドン・キホーテ秋葉原店",
+    "image": "https://image.xinu.ink/pic/data/1190/images/274-8.jpg",
+    "geo": [
+      35.700854,
+      139.771713
+    ]
+  },
+  {
+    "id": "274-9",
+    "name": "成田空港 第２ターミナルビル",
+    "image": "https://image.xinu.ink/pic/data/1190/images/274-9.jpg",
+    "geo": [
+      35.77371,
+      140.388233
+    ]
+  },
+  {
+    "id": "274-10",
+    "name": "さいたまスーパーアリーナ",
+    "image": "https://image.xinu.ink/pic/data/1190/images/274-10.jpg",
+    "geo": [
+      35.893796,
+      139.630584
+    ]
+  }
+]

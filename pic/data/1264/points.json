@@ -1,0 +1,74 @@
+[
+  {
+    "id": "354-1",
+    "name": "八王子駅南口",
+    "image": "https://image.xinu.ink/pic/data/1264/images/354-1.jpg",
+    "geo": [
+      35.654332,
+      139.338339
+    ]
+  },
+  {
+    "id": "354-2",
+    "name": "広園寺入口交差点",
+    "image": "https://image.xinu.ink/pic/data/1264/images/354-2.jpg",
+    "geo": [
+      35.647375,
+      139.320652
+    ]
+  },
+  {
+    "id": "354-3",
+    "name": "池袋駅東口",
+    "image": "https://image.xinu.ink/pic/data/1264/images/354-3.jpg",
+    "geo": [
+      35.730597,
+      139.712708
+    ]
+  },
+  {
+    "id": "354-4",
+    "name": "東京タワー",
+    "image": "https://image.xinu.ink/pic/data/1264/images/354-4.jpg",
+    "geo": [
+      35.658708,
+      139.746083
+    ]
+  },
+  {
+    "id": "354-6",
+    "name": "目印 7",
+    "image": "https://image.xinu.ink/pic/data/1264/images/354-6.jpg",
+    "geo": [
+      35.644607,
+      139.318287
+    ]
+  },
+  {
+    "id": "354-7",
+    "name": "目印 8",
+    "image": "https://image.xinu.ink/pic/data/1264/images/354-7.jpg",
+    "geo": [
+      35.648618,
+      139.321586
+    ]
+  },
+  {
+    "id": "354-8",
+    "name": "探索場所",
+    "image": "https://image.xinu.ink/pic/data/1264/images/354-8.jpg",
+    "geo": [
+      35.659685,
+      139.334128
+    ]
+  },
+  {
+    "id": "354-9",
+    "name": "探索場所",
+    "image": "https://image.xinu.ink/pic/data/1264/images/354-9.jpg",
+    "geo": [
+      35.65965,
+      139.334187
+    ]
+  }
+]

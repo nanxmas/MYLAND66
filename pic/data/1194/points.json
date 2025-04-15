@@ -1,0 +1,38 @@
+[
+  {
+    "id": "279-1",
+    "name": "八木家",
+    "image": "https://image.xinu.ink/pic/data/1194/images/279-1.jpg",
+    "geo": [
+      35.002241,
+      135.743978
+    ]
+  },
+  {
+    "id": "279-2",
+    "name": "新徳禅寺",
+    "image": "https://image.xinu.ink/pic/data/1194/images/279-2.jpg",
+    "geo": [
+      35.001824,
+      135.744624
+    ]
+  },
+  {
+    "id": "279-3",
+    "name": "壬生寺 本堂",
+    "image": "https://image.xinu.ink/pic/data/1194/images/279-3.jpg",
+    "geo": [
+      35.001615,
+      135.743334
+    ]
+  },
+  {
+    "id": "279-4",
+    "name": "壬生寺 山門",
+    "image": "https://image.xinu.ink/pic/data/1194/images/279-4.jpg",
+    "geo": [
+      35.00158,
+      135.74427
+    ]
+  }
+]

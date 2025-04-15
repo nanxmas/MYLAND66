@@ -1,0 +1,92 @@
+[
+  {
+    "id": "185-3",
+    "name": "津田沼駅（３、４番線）",
+    "image": "https://image.xinu.ink/pic/data/1111/images/185-3.jpg",
+    "geo": [
+      35.691383,
+      140.020216
+    ]
+  },
+  {
+    "id": "185-4",
+    "name": "東船橋駅",
+    "image": "https://image.xinu.ink/pic/data/1111/images/185-4.jpg",
+    "geo": [
+      35.699817,
+      140.003693
+    ]
+  },
+  {
+    "id": "185-5",
+    "name": "船橋駅（２番線）",
+    "image": "https://image.xinu.ink/pic/data/1111/images/185-5.jpg",
+    "geo": [
+      35.701533,
+      139.985894
+    ]
+  },
+  {
+    "id": "185-6",
+    "name": "モリシア津田沼",
+    "image": "https://image.xinu.ink/pic/data/1111/images/185-6.jpg",
+    "geo": [
+      35.689973,
+      140.019663
+    ]
+  },
+  {
+    "id": "185-7",
+    "name": "天神橋筋商店街",
+    "image": "https://image.xinu.ink/pic/data/1111/images/185-7.jpg",
+    "geo": [
+      34.710893,
+      135.51117
+    ]
+  },
+  {
+    "id": "185-8",
+    "name": "新宿歌舞伎町アーケード",
+    "image": "https://image.xinu.ink/pic/data/1111/images/185-8.jpg",
+    "geo": [
+      35.693552,
+      139.700703
+    ]
+  },
+  {
+    "id": "185-9",
+    "name": "新宿歌舞伎町",
+    "image": "https://image.xinu.ink/pic/data/1111/images/185-9.jpg",
+    "geo": [
+      35.694363,
+      139.701199
+    ]
+  },
+  {
+    "id": "185-10",
+    "name": "新宿歌舞伎町入口",
+    "image": "https://image.xinu.ink/pic/data/1111/images/185-10.jpg",
+    "geo": [
+      35.693798,
+      139.701003
+    ]
+  },
+  {
+    "id": "185-11",
+    "name": "ヤマダ電機ＬＡＢＩ新宿東口館",
+    "image": "https://image.xinu.ink/pic/data/1111/images/185-11.jpg",
+    "geo": [
+      35.693524,
+      139.700904
+    ]
+  },
+  {
+    "id": "185-12",
+    "name": "渋谷駅ハチ公口",
+    "image": "https://image.xinu.ink/pic/data/1111/images/185-12.jpg",
+    "geo": [
+      35.659153,
+      139.700805
+    ]
+  }
+]

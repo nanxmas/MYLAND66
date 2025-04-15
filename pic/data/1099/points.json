@@ -1,0 +1,299 @@
+[
+  {
+    "id": "172-0",
+    "name": "襟裳岬 風の館",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-0.jpg",
+    "geo": [
+      41.925941,
+      143.244714
+    ]
+  },
+  {
+    "id": "172-1",
+    "name": "JR札幌駅南口",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-1.jpg",
+    "geo": [
+      43.06725,
+      141.350548
+    ]
+  },
+  {
+    "id": "172-2",
+    "name": "サッポロファクトリー",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-2.jpg",
+    "geo": [
+      43.065423,
+      141.36294
+    ]
+  },
+  {
+    "id": "172-3",
+    "name": "札幌テレビ塔前",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-3.jpg",
+    "geo": [
+      43.060979,
+      141.355945
+    ]
+  },
+  {
+    "id": "172-4",
+    "name": "大通公園2丁目",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-4.jpg",
+    "geo": [
+      43.060869,
+      141.354561
+    ]
+  },
+  {
+    "id": "172-5",
+    "name": "大通公園5丁目",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-5.jpg",
+    "geo": [
+      43.060466,
+      141.350326
+    ]
+  },
+  {
+    "id": "172-6",
+    "name": "すすきの南４西４交差点",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-6.jpg",
+    "geo": [
+      43.055923,
+      141.353523
+    ]
+  },
+  {
+    "id": "172-7",
+    "name": "森彦本店",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-7.jpg",
+    "geo": [
+      43.053257,
+      141.318525
+    ]
+  },
+  {
+    "id": "172-8",
+    "name": "新千歳空港",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-8.jpg",
+    "geo": [
+      42.788835,
+      141.681018
+    ]
+  },
+  {
+    "id": "172-9",
+    "name": "北海道百年記念塔",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-9.jpg",
+    "geo": [
+      43.054919,
+      141.493371
+    ]
+  },
+  {
+    "id": "172-10",
+    "name": "定山渓温泉",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-10.jpg",
+    "geo": [
+      42.965049,
+      141.162507
+    ]
+  },
+  {
+    "id": "172-11",
+    "name": "北大農学部",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-11.jpg",
+    "geo": [
+      43.070581,
+      141.340962
+    ]
+  },
+  {
+    "id": "172-12",
+    "name": "旧北海道庁赤レンガ庁舎",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-12.jpg",
+    "geo": [
+      43.063891,
+      141.34833
+    ]
+  },
+  {
+    "id": "172-13",
+    "name": "札幌市時計台",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-13.jpg",
+    "geo": [
+      43.062515,
+      141.353322
+    ]
+  },
+  {
+    "id": "172-14",
+    "name": "サッポロファクトリー アトリウム",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-14.jpg",
+    "geo": [
+      43.065443,
+      141.362994
+    ]
+  },
+  {
+    "id": "172-15",
+    "name": "札幌テレビ放送本社",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-15.jpg",
+    "geo": [
+      43.061641,
+      141.344916
+    ]
+  },
+  {
+    "id": "172-16",
+    "name": "大通公園3丁目（テレビ塔）",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-16.jpg",
+    "geo": [
+      43.060424,
+      141.352386
+    ]
+  },
+  {
+    "id": "172-18",
+    "name": "オーロラタウン",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-18.jpg",
+    "geo": [
+      43.060532,
+      141.352823
+    ]
+  },
+  {
+    "id": "172-19",
+    "name": "豊平川（水穂大橋）",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-19.jpg",
+    "geo": [
+      43.06422,
+      141.375327
+    ]
+  },
+  {
+    "id": "172-20",
+    "name": "中山峠・羊蹄山",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-20.jpg",
+    "geo": [
+      42.85614,
+      141.094943
+    ]
+  },
+  {
+    "id": "172-21",
+    "name": "神威岬",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-21.jpg",
+    "geo": [
+      43.333655,
+      140.346656
+    ]
+  },
+  {
+    "id": "172-22",
+    "name": "島武意海岸",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-22.jpg",
+    "geo": [
+      43.373095,
+      140.476821
+    ]
+  },
+  {
+    "id": "172-23",
+    "name": "旭橋",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-23.jpg",
+    "geo": [
+      43.7774696,
+      142.358737
+    ]
+  },
+  {
+    "id": "172-24",
+    "name": "常盤公園",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-24.jpg",
+    "geo": [
+      43.7754477,
+      142.3580933
+    ]
+  },
+  {
+    "id": "172-25",
+    "name": "シンボルタワー",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-25.jpg",
+    "geo": [
+      43.7747079,
+      142.3624599
+    ]
+  },
+  {
+    "id": "172-26",
+    "name": "旭川大雪アリーナ",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-26.jpg",
+    "geo": [
+      43.758772,
+      142.349738
+    ]
+  },
+  {
+    "id": "172-27",
+    "name": "摩周湖第一展望台",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-27.jpg",
+    "geo": [
+      43.5558832,
+      144.5072279
+    ]
+  },
+  {
+    "id": "172-29",
+    "name": "柳月大通本店",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-29.jpg",
+    "geo": [
+      42.9231283,
+      143.2048398
+    ]
+  },
+  {
+    "id": "172-30",
+    "name": "炉ばたのあかり",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-30.jpg",
+    "geo": [
+      42.9234229,
+      143.2040901
+    ]
+  },
+  {
+    "id": "172-31",
+    "name": "旧愛国駅交通記念館",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-31.jpg",
+    "geo": [
+      42.8371605,
+      143.1937967
+    ]
+  },
+  {
+    "id": "172-32",
+    "name": "幸福交通公園",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-32.jpg",
+    "geo": [
+      42.745302,
+      143.161878
+    ]
+  },
+  {
+    "id": "172-33",
+    "name": "グリーンパーク（緑が丘公園）",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-33.jpg",
+    "geo": [
+      42.9060258,
+      143.1880594
+    ]
+  },
+  {
+    "id": "172-34",
+    "name": "歴舟川",
+    "image": "https://image.xinu.ink/pic/data/1099/images/172-34.jpg",
+    "geo": [
+      42.5236806,
+      143.1905651
+    ]
+  }
+]

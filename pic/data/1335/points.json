@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1025-1",
+    "name": "みなとみらい",
+    "image": "https://image.xinu.ink/pic/data/1335/images/1025-1.jpg",
+    "geo": [
+      35.453288,
+      139.637797
+    ]
+  },
+  {
+    "id": "1025-2",
+    "name": "中野ツインマークタワー",
+    "image": "https://image.xinu.ink/pic/data/1335/images/1025-2.jpg",
+    "geo": [
+      35.703997,
+      139.66493
+    ]
+  }
+]

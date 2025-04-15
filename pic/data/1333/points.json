@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1022-1",
+    "name": "和田倉噴水公園",
+    "image": "https://image.xinu.ink/pic/data/1333/images/1022-1.jpg",
+    "geo": [
+      35.683048,
+      139.76070400000003
+    ]
+  },
+  {
+    "id": "1022-2",
+    "name": "今野書店",
+    "image": "https://image.xinu.ink/pic/data/1333/images/1022-2.jpg",
+    "geo": [
+      35.704173,
+      139.59917
+    ]
+  },
+  {
+    "id": "1022-3",
+    "name": "商店街",
+    "image": "https://image.xinu.ink/pic/data/1333/images/1022-3.jpg",
+    "geo": [
+      35.704308,
+      139.598822
+    ]
+  }
+]

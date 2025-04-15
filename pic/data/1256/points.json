@@ -1,0 +1,38 @@
+[
+  {
+    "id": "346-1",
+    "name": "東大寺大仏殿",
+    "image": "https://image.xinu.ink/pic/data/1256/images/346-1.jpg",
+    "geo": [
+      34.688831,
+      135.839848
+    ]
+  },
+  {
+    "id": "346-2",
+    "name": "エッフェル塔",
+    "image": "https://image.xinu.ink/pic/data/1256/images/346-2.jpg",
+    "geo": [
+      48.856354,
+      2.297489
+    ]
+  },
+  {
+    "id": "346-3",
+    "name": "自由の女神",
+    "image": "https://image.xinu.ink/pic/data/1256/images/346-3.jpg",
+    "geo": [
+      40.688611,
+      -74.044008
+    ]
+  },
+  {
+    "id": "346-4",
+    "name": "大スフィンクス",
+    "image": "https://image.xinu.ink/pic/data/1256/images/346-4.jpg",
+    "geo": [
+      29.975316,
+      31.138228
+    ]
+  }
+]

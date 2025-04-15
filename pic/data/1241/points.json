@@ -1,0 +1,56 @@
+[
+  {
+    "id": "331-0",
+    "name": "ポイントA",
+    "image": "https://image.xinu.ink/pic/data/1241/images/331-0.jpg",
+    "geo": [
+      35.616864,
+      139.749811
+    ]
+  },
+  {
+    "id": "331-1",
+    "name": "ポイントB",
+    "image": "https://image.xinu.ink/pic/data/1241/images/331-1.jpg",
+    "geo": [
+      35.618065,
+      139.749425
+    ]
+  },
+  {
+    "id": "331-2",
+    "name": "ポイントC",
+    "image": "https://image.xinu.ink/pic/data/1241/images/331-2.jpg",
+    "geo": [
+      35.618525,
+      139.749334
+    ]
+  },
+  {
+    "id": "331-3",
+    "name": "ポイントD",
+    "image": "https://image.xinu.ink/pic/data/1241/images/331-3.jpg",
+    "geo": [
+      35.617559,
+      139.748607
+    ]
+  },
+  {
+    "id": "331-4",
+    "name": "ポイントE",
+    "image": "https://image.xinu.ink/pic/data/1241/images/331-4.jpg",
+    "geo": [
+      35.624639,
+      139.751804
+    ]
+  },
+  {
+    "id": "331-5",
+    "name": "ポイントF",
+    "image": "https://image.xinu.ink/pic/data/1241/images/331-5.jpg",
+    "geo": [
+      35.621006,
+      139.750654
+    ]
+  }
+]

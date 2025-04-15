@@ -1,0 +1,461 @@
+[
+  {
+    "id": "299-0",
+    "name": "見晴橋1(LETTER 1)",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-0.jpg",
+    "geo": [
+      36.2279143,
+      137.9863084
+    ]
+  },
+  {
+    "id": "299-1",
+    "name": "見晴橋2(LETTER 1/PV/WEB)",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-1.jpg",
+    "geo": [
+      36.2276796,
+      137.9863876
+    ]
+  },
+  {
+    "id": "299-2",
+    "name": "見晴橋3（LETTER1）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-2.jpg",
+    "geo": [
+      36.2281502,
+      137.9862227
+    ]
+  },
+  {
+    "id": "299-3",
+    "name": "薄川 堤防道路1(LETTER1)",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-3.jpg",
+    "geo": [
+      36.2280453,
+      137.9857331
+    ]
+  },
+  {
+    "id": "299-4",
+    "name": "薄川 堤防道路2（LETTER1 ）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-4.jpg",
+    "geo": [
+      36.2289042,
+      137.989338
+    ]
+  },
+  {
+    "id": "299-5",
+    "name": "薄川 堤防道路3（LETTER１）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-5.jpg",
+    "geo": [
+      36.2284845,
+      137.987321
+    ]
+  },
+  {
+    "id": "299-6",
+    "name": "薄川(LETTER1)",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-6.jpg",
+    "geo": [
+      36.2277818,
+      137.9865713
+    ]
+  },
+  {
+    "id": "299-7",
+    "name": "ネット裏（LETTER1/3/PV)",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-7.jpg",
+    "geo": [
+      36.2278916,
+      137.9846174
+    ]
+  },
+  {
+    "id": "299-8",
+    "name": "公園入口（LETTER1）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-8.jpg",
+    "geo": [
+      36.2312647,
+      137.9816992
+    ]
+  },
+  {
+    "id": "299-9",
+    "name": "並木道 西側（LETTER1/PV）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-9.jpg",
+    "geo": [
+      36.2313372,
+      137.9825453
+    ]
+  },
+  {
+    "id": "299-10",
+    "name": "並木道 東側（LETTER1/2/6）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-10.jpg",
+    "geo": [
+      36.2313924,
+      137.9835552
+    ]
+  },
+  {
+    "id": "299-11",
+    "name": "旧松本高等学校講堂（LETTER1）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-11.jpg",
+    "geo": [
+      36.2314086,
+      137.9822389
+    ]
+  },
+  {
+    "id": "299-12",
+    "name": "旧松本高等学校講堂別館（LETTER1)",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-12.jpg",
+    "geo": [
+      36.23156,
+      137.982424
+    ]
+  },
+  {
+    "id": "299-14",
+    "name": "西側駐車場付近（LETTER1)",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-14.jpg",
+    "geo": [
+      36.2315698,
+      137.9827532
+    ]
+  },
+  {
+    "id": "299-16",
+    "name": "彫像付近（LETTER1）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-16.jpg",
+    "geo": [
+      36.2303252,
+      137.9828833
+    ]
+  },
+  {
+    "id": "299-17",
+    "name": "公園内池（LETTER1/2）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-17.jpg",
+    "geo": [
+      36.2307568,
+      137.9832427
+    ]
+  },
+  {
+    "id": "299-18",
+    "name": "池 西側（LETTER2）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-18.jpg",
+    "geo": [
+      36.2309056,
+      137.9831327
+    ]
+  },
+  {
+    "id": "299-19",
+    "name": "池 休憩所（LETTER2）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-19.jpg",
+    "geo": [
+      36.2306027,
+      137.9833272
+    ]
+  },
+  {
+    "id": "299-20",
+    "name": "南側休憩所（LETTER2）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-20.jpg",
+    "geo": [
+      36.2301451,
+      137.9833178
+    ]
+  },
+  {
+    "id": "299-21",
+    "name": "文化会館 南東（LETTER2)",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-21.jpg",
+    "geo": [
+      36.2308385,
+      137.9827264
+    ]
+  },
+  {
+    "id": "299-22",
+    "name": "南側路地トイレ近（LETTER2）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-22.jpg",
+    "geo": [
+      36.2297956,
+      137.9828364
+    ]
+  },
+  {
+    "id": "299-23",
+    "name": "松本駅 東口（LETTER1/PV)）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-23.jpg",
+    "geo": [
+      36.231189,
+      137.9658338
+    ]
+  },
+  {
+    "id": "299-24",
+    "name": "花時計公園（LETTER1/4/その他）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-24.jpg",
+    "geo": [
+      36.2319679,
+      137.9684651
+    ]
+  },
+  {
+    "id": "299-25",
+    "name": "PARCO 表通り（LETTER4)",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-25.jpg",
+    "geo": [
+      36.2329544,
+      137.9683685
+    ]
+  },
+  {
+    "id": "299-26",
+    "name": "開運堂本店（LETTER4)",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-26.jpg",
+    "geo": [
+      36.2325066,
+      137.9688755
+    ]
+  },
+  {
+    "id": "299-27",
+    "name": "タリーズコーヒー （LETTER4)",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-27.jpg",
+    "geo": [
+      36.230984,
+      137.9667237
+    ]
+  },
+  {
+    "id": "299-28",
+    "name": "四柱神社（LETTER4/6)",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-28.jpg",
+    "geo": [
+      36.2347199,
+      137.9703748
+    ]
+  },
+  {
+    "id": "299-29",
+    "name": "ナワテ通り東側（LETTER4)",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-29.jpg",
+    "geo": [
+      36.2345208,
+      137.9712358
+    ]
+  },
+  {
+    "id": "299-30",
+    "name": "田川（LETTER4/6)",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-30.jpg",
+    "geo": [
+      36.2343888,
+      137.9699564
+    ]
+  },
+  {
+    "id": "299-31",
+    "name": "幸橋（LETTER1）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-31.jpg",
+    "geo": [
+      36.2343434,
+      137.9704928
+    ]
+  },
+  {
+    "id": "299-32",
+    "name": "中の橋（LETTER6)",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-32.jpg",
+    "geo": [
+      36.2343953,
+      137.971496
+    ]
+  },
+  {
+    "id": "299-34",
+    "name": "中西屋本店裏通路（LETTER1）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-34.jpg",
+    "geo": [
+      36.233901,
+      137.9715335
+    ]
+  },
+  {
+    "id": "299-36",
+    "name": "クリヴィーレ増田前（LETTER1）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-36.jpg",
+    "geo": [
+      36.2337614,
+      137.970226
+    ]
+  },
+  {
+    "id": "299-37",
+    "name": "交差路（LETTER1/5）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-37.jpg",
+    "geo": [
+      36.2447058,
+      137.9574895
+    ]
+  },
+  {
+    "id": "299-38",
+    "name": "公園北入口（LETTER2）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-38.jpg",
+    "geo": [
+      36.2483269,
+      137.9561162
+    ]
+  },
+  {
+    "id": "299-39",
+    "name": "城山公園北アルプスの展望台（LETTER5)",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-39.jpg",
+    "geo": [
+      36.2457277,
+      137.9543265
+    ]
+  },
+  {
+    "id": "299-40",
+    "name": "弘法山古墳（LETTER1/PV)",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-40.jpg",
+    "geo": [
+      36.2132899,
+      137.9826486
+    ]
+  },
+  {
+    "id": "299-41",
+    "name": "弘法山古墳 駐車場（LETTER2）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-41.jpg",
+    "geo": [
+      36.2116322,
+      137.9838878
+    ]
+  },
+  {
+    "id": "299-42",
+    "name": "松本城天守閣周辺（LETTER6)",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-42.jpg",
+    "geo": [
+      36.2388065,
+      137.9681083
+    ]
+  },
+  {
+    "id": "299-43",
+    "name": "開智小学校前（LETTER1）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-43.jpg",
+    "geo": [
+      36.2421748,
+      137.9678214
+    ]
+  },
+  {
+    "id": "299-45",
+    "name": "旧開智学校（LETTER5)",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-45.jpg",
+    "geo": [
+      36.2431125,
+      137.9684715
+    ]
+  },
+  {
+    "id": "299-46",
+    "name": "図書館前橋（LETTER5）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-46.jpg",
+    "geo": [
+      36.2436394,
+      137.9677731
+    ]
+  },
+  {
+    "id": "299-47",
+    "name": "開智小学校前橋",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-47.jpg",
+    "geo": [
+      36.2419715,
+      137.9670918
+    ]
+  },
+  {
+    "id": "299-51",
+    "name": "ENEOS（LETTER13）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-51.jpg",
+    "geo": [
+      36.1982763,
+      138.0016708
+    ]
+  },
+  {
+    "id": "299-52",
+    "name": "中山小学校 表通り（LETTER13）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-52.jpg",
+    "geo": [
+      36.1975079,
+      138.0015957
+    ]
+  },
+  {
+    "id": "299-53",
+    "name": "中山小学校 裏通り（LETTER13)",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-53.jpg",
+    "geo": [
+      36.196352,
+      138.0029342
+    ]
+  },
+  {
+    "id": "299-54",
+    "name": "中山小学校南交差点（LETTER13）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-54.jpg",
+    "geo": [
+      36.1947979,
+      138.0023468
+    ]
+  },
+  {
+    "id": "299-55",
+    "name": "交差点前（LETTER13）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-55.jpg",
+    "geo": [
+      36.1953174,
+      138.0026257
+    ]
+  },
+  {
+    "id": "299-56",
+    "name": "中山郵便局（LETTER13）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-56.jpg",
+    "geo": [
+      36.1937614,
+      138.0030981
+    ]
+  },
+  {
+    "id": "299-57",
+    "name": "池周辺（LETTER13）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-57.jpg",
+    "geo": [
+      36.1938714,
+      138.0001688
+    ]
+  },
+  {
+    "id": "299-58",
+    "name": "林道（LETTER13）",
+    "image": "https://image.xinu.ink/pic/data/1212/images/299-58.jpg",
+    "geo": [
+      36.1976204,
+      137.9979801
+    ]
+  }
+]

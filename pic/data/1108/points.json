@@ -1,0 +1,38 @@
+[
+  {
+    "id": "182-1",
+    "name": "ハチ公前",
+    "image": "https://image.xinu.ink/pic/data/1108/images/182-1.jpg",
+    "geo": [
+      35.659075,
+      139.700551
+    ]
+  },
+  {
+    "id": "182-2",
+    "name": "渋谷駅前交差点",
+    "image": "https://image.xinu.ink/pic/data/1108/images/182-2.jpg",
+    "geo": [
+      35.659556,
+      139.700731
+    ]
+  },
+  {
+    "id": "182-3",
+    "name": "三井アウトレットパーク 横浜ベイサイド",
+    "image": "https://image.xinu.ink/pic/data/1108/images/182-3.jpg",
+    "geo": [
+      35.379542,
+      139.646761
+    ]
+  },
+  {
+    "id": "182-5",
+    "name": "高松駅北交差点",
+    "image": "https://image.xinu.ink/pic/data/1108/images/182-5.jpg",
+    "geo": [
+      35.710951,
+      139.413918
+    ]
+  }
+]

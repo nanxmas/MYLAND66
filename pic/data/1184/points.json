@@ -1,0 +1,29 @@
+[
+  {
+    "id": "267-1",
+    "name": "交差点",
+    "image": "https://image.xinu.ink/pic/data/1184/images/267-1.jpg",
+    "geo": [
+      43.190939,
+      141.007687
+    ]
+  },
+  {
+    "id": "267-2",
+    "name": "運河",
+    "image": "https://image.xinu.ink/pic/data/1184/images/267-2.jpg",
+    "geo": [
+      43.199514,
+      141.001649
+    ]
+  },
+  {
+    "id": "267-3",
+    "name": "教会",
+    "image": "https://image.xinu.ink/pic/data/1184/images/267-3.jpg",
+    "geo": [
+      41.763023,
+      140.713245
+    ]
+  }
+]

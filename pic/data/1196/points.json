@@ -1,0 +1,47 @@
+[
+  {
+    "id": "281-1",
+    "name": "JR原宿駅",
+    "image": "https://image.xinu.ink/pic/data/1196/images/281-1.jpg",
+    "geo": [
+      35.670169,
+      139.702722
+    ]
+  },
+  {
+    "id": "281-2",
+    "name": "JR原宿駅 表参道口",
+    "image": "https://image.xinu.ink/pic/data/1196/images/281-2.jpg",
+    "geo": [
+      35.670066,
+      139.702787
+    ]
+  },
+  {
+    "id": "281-3",
+    "name": "竹下通りゲート",
+    "image": "https://image.xinu.ink/pic/data/1196/images/281-3.jpg",
+    "geo": [
+      35.671561,
+      139.70316
+    ]
+  },
+  {
+    "id": "281-4",
+    "name": "NOAカフェ",
+    "image": "https://image.xinu.ink/pic/data/1196/images/281-4.jpg",
+    "geo": [
+      35.671465,
+      139.703439
+    ]
+  },
+  {
+    "id": "281-5",
+    "name": "東京メトロ 表参道駅B4出入り口",
+    "image": "https://image.xinu.ink/pic/data/1196/images/281-5.jpg",
+    "geo": [
+      35.665174,
+      139.712046
+    ]
+  }
+]

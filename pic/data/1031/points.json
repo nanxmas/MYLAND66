@@ -1,0 +1,38 @@
+[
+  {
+    "id": "95-5",
+    "name": "OP-モリエール像",
+    "image": "https://image.xinu.ink/pic/data/1031/images/95-5.jpg",
+    "geo": [
+      48.865604,
+      2.336757
+    ]
+  },
+  {
+    "id": "95-9",
+    "name": "OP-マリー橋",
+    "image": "https://image.xinu.ink/pic/data/1031/images/95-9.jpg",
+    "geo": [
+      48.852921,
+      2.355661
+    ]
+  },
+  {
+    "id": "95-26",
+    "name": "ギャルリ・コルベール",
+    "image": "https://image.xinu.ink/pic/data/1031/images/95-26.jpg",
+    "geo": [
+      48.866961,
+      2.339411
+    ]
+  },
+  {
+    "id": "95-27",
+    "name": "ギャルリ・ヴェロ・ドダ",
+    "image": "https://image.xinu.ink/pic/data/1031/images/95-27.jpg",
+    "geo": [
+      48.863016,
+      2.339969
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "294-1",
+    "name": "1.立体交差",
+    "image": "https://image.xinu.ink/pic/data/1207/images/294-1.jpg",
+    "geo": [
+      34.127917,
+      133.669238
+    ]
+  },
+  {
+    "id": "294-2",
+    "name": "2.観音寺市役所前",
+    "image": "https://image.xinu.ink/pic/data/1207/images/294-2.jpg",
+    "geo": [
+      34.12733,
+      133.660816
+    ]
+  },
+  {
+    "id": "294-3",
+    "name": "3.有明浜",
+    "image": "https://image.xinu.ink/pic/data/1207/images/294-3.jpg",
+    "geo": [
+      34.142995,
+      133.642094
+    ]
+  },
+  {
+    "id": "294-4",
+    "name": "4.七宝山トンネル",
+    "image": "https://image.xinu.ink/pic/data/1207/images/294-4.jpg",
+    "geo": [
+      34.175338,
+      133.657994
+    ]
+  }
+]

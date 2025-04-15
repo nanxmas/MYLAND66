@@ -1,0 +1,605 @@
+[
+  {
+    "id": "379-0",
+    "name": "渋谷駅前交差点",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-0.jpg",
+    "geo": [
+      35.6593971,
+      139.7008502
+    ]
+  },
+  {
+    "id": "379-1",
+    "name": "スタジオアルタ前",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-1.jpg",
+    "geo": [
+      35.6923237,
+      139.7010648
+    ]
+  },
+  {
+    "id": "379-2",
+    "name": "ハチ公前",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-2.jpg",
+    "geo": [
+      35.659031,
+      139.7006249
+    ]
+  },
+  {
+    "id": "379-3",
+    "name": "歩道橋",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-3.jpg",
+    "geo": [
+      35.6580547,
+      139.7031569
+    ]
+  },
+  {
+    "id": "379-4",
+    "name": "玉造稲荷神社",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-4.jpg",
+    "geo": [
+      35.6572875,
+      139.7063863
+    ]
+  },
+  {
+    "id": "379-5",
+    "name": "金王神社前交差点",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-5.jpg",
+    "geo": [
+      35.6567994,
+      139.7075504
+    ]
+  },
+  {
+    "id": "379-6",
+    "name": "竹下通り",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-6.jpg",
+    "geo": [
+      35.6715653,
+      139.7031248
+    ]
+  },
+  {
+    "id": "379-7",
+    "name": "ジョナサン",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-7.jpg",
+    "geo": [
+      35.668262,
+      139.7054261
+    ]
+  },
+  {
+    "id": "379-8",
+    "name": "代々木ゼミナール",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-8.jpg",
+    "geo": [
+      35.6819713,
+      139.7007215
+    ]
+  },
+  {
+    "id": "379-9",
+    "name": "三茶しゃれなあど",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-9.jpg",
+    "geo": [
+      35.6437439,
+      139.6709919
+    ]
+  },
+  {
+    "id": "379-10",
+    "name": "広告",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-10.jpg",
+    "geo": [
+      35.6437439,
+      139.6700799
+    ]
+  },
+  {
+    "id": "379-11",
+    "name": "やよい園芸",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-11.jpg",
+    "geo": [
+      35.6451041,
+      139.6704072
+    ]
+  },
+  {
+    "id": "379-12",
+    "name": "丸山公園",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-12.jpg",
+    "geo": [
+      35.6413418,
+      139.6661211
+    ]
+  },
+  {
+    "id": "379-13",
+    "name": "池袋駅の改札？",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-13.jpg",
+    "geo": [
+      35.7300357,
+      139.7108817
+    ]
+  },
+  {
+    "id": "379-14",
+    "name": "日本テレビ",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-14.jpg",
+    "geo": [
+      35.6641217,
+      139.760052
+    ]
+  },
+  {
+    "id": "379-15",
+    "name": "神楽坂下交差点",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-15.jpg",
+    "geo": [
+      35.7004138,
+      139.7427732
+    ]
+  },
+  {
+    "id": "379-16",
+    "name": "海上旅客ターミナル",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-16.jpg",
+    "geo": [
+      35.4583061,
+      139.6384192
+    ]
+  },
+  {
+    "id": "379-17",
+    "name": "国立大ホール",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-17.jpg",
+    "geo": [
+      35.4578604,
+      139.6366328
+    ]
+  },
+  {
+    "id": "379-18",
+    "name": "ED",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-18.jpg",
+    "geo": [
+      35.6617507,
+      139.7080708
+    ]
+  },
+  {
+    "id": "379-19",
+    "name": "ED",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-19.jpg",
+    "geo": [
+      35.6598853,
+      139.7038543
+    ]
+  },
+  {
+    "id": "379-20",
+    "name": "タイトーステーション渋谷店",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-20.jpg",
+    "geo": [
+      35.6596782,
+      139.7019714
+    ]
+  },
+  {
+    "id": "379-21",
+    "name": "宮益坂上交差点",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-21.jpg",
+    "geo": [
+      35.6603909,
+      139.7060752
+    ]
+  },
+  {
+    "id": "379-22",
+    "name": "歩道橋から",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-22.jpg",
+    "geo": [
+      35.6615546,
+      139.7083604
+    ]
+  },
+  {
+    "id": "379-23",
+    "name": "原宿駅",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-23.jpg",
+    "geo": [
+      35.6702361,
+      139.7027278
+    ]
+  },
+  {
+    "id": "379-24",
+    "name": "MARGO",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-24.jpg",
+    "geo": [
+      35.6713866,
+      139.7038114
+    ]
+  },
+  {
+    "id": "379-25",
+    "name": "下着",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-25.jpg",
+    "geo": [
+      35.6713191,
+      139.7041655
+    ]
+  },
+  {
+    "id": "379-26",
+    "name": "娯楽堂チケット館",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-26.jpg",
+    "geo": [
+      35.6709051,
+      139.7054824
+    ]
+  },
+  {
+    "id": "379-27",
+    "name": "ファミリーマート原宿竹下通り店",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-27.jpg",
+    "geo": [
+      35.6712145,
+      139.7047207
+    ]
+  },
+  {
+    "id": "379-28",
+    "name": "マリオンクレープ原宿竹下通り店",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-28.jpg",
+    "geo": [
+      35.6712254,
+      139.7048682
+    ]
+  },
+  {
+    "id": "379-29",
+    "name": "クレープ食べてた場所",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-29.jpg",
+    "geo": [
+      35.6709029,
+      139.7051069
+    ]
+  },
+  {
+    "id": "379-30",
+    "name": "CANDY A GO GO",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-30.jpg",
+    "geo": [
+      35.6708266,
+      139.7054288
+    ]
+  },
+  {
+    "id": "379-31",
+    "name": "ポイント 32",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-31.jpg",
+    "geo": [
+      35.6707983,
+      139.7056568
+    ]
+  },
+  {
+    "id": "379-32",
+    "name": "スナップ写真",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-32.jpg",
+    "geo": [
+      35.6706916,
+      139.705756
+    ]
+  },
+  {
+    "id": "379-33",
+    "name": "原宿通り",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-33.jpg",
+    "geo": [
+      35.6703974,
+      139.7070837
+    ]
+  },
+  {
+    "id": "379-34",
+    "name": "竹下口",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-34.jpg",
+    "geo": [
+      35.6702754,
+      139.7066009
+    ]
+  },
+  {
+    "id": "379-35",
+    "name": "神宮前交番",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-35.jpg",
+    "geo": [
+      35.667861,
+      139.7071266
+    ]
+  },
+  {
+    "id": "379-37",
+    "name": "Gapフラッグシップ原宿",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-37.jpg",
+    "geo": [
+      35.6701512,
+      139.7029746
+    ]
+  },
+  {
+    "id": "379-38",
+    "name": "歩道橋から",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-38.jpg",
+    "geo": [
+      35.6677099,
+      139.7070783
+    ]
+  },
+  {
+    "id": "379-39",
+    "name": "神宮前交差点",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-39.jpg",
+    "geo": [
+      35.668575,
+      139.7056621
+    ]
+  },
+  {
+    "id": "379-40",
+    "name": "西部信用金庫",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-40.jpg",
+    "geo": [
+      35.6683592,
+      139.7059947
+    ]
+  },
+  {
+    "id": "379-41",
+    "name": "ポイント 42",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-41.jpg",
+    "geo": [
+      35.6682416,
+      139.7062978
+    ]
+  },
+  {
+    "id": "379-42",
+    "name": "武蔵境駅前",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-42.jpg",
+    "geo": [
+      35.7022914,
+      139.5433939
+    ]
+  },
+  {
+    "id": "379-43",
+    "name": "吉祥寺駅北口",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-43.jpg",
+    "geo": [
+      35.7035111,
+      139.5801401
+    ]
+  },
+  {
+    "id": "379-44",
+    "name": "環七通り",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-44.jpg",
+    "geo": [
+      35.6450387,
+      139.6607137
+    ]
+  },
+  {
+    "id": "379-45",
+    "name": "ダイバーシティ東京プラザ",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-45.jpg",
+    "geo": [
+      35.6248392,
+      139.7758019
+    ]
+  },
+  {
+    "id": "379-46",
+    "name": "中央通り",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-46.jpg",
+    "geo": [
+      35.7007253,
+      139.7713065
+    ]
+  },
+  {
+    "id": "379-49",
+    "name": "アドアーズ渋谷店",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-49.jpg",
+    "geo": [
+      35.6611928,
+      139.6981841
+    ]
+  },
+  {
+    "id": "379-50",
+    "name": "撮影地点",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-50.jpg",
+    "geo": [
+      35.6593274,
+      139.7009012
+    ]
+  },
+  {
+    "id": "379-51",
+    "name": "井ノ頭通り",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-51.jpg",
+    "geo": [
+      35.6604453,
+      139.7005552
+    ]
+  },
+  {
+    "id": "379-52",
+    "name": "スターバックスコーヒー",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-52.jpg",
+    "geo": [
+      35.6597763,
+      139.7003353
+    ]
+  },
+  {
+    "id": "379-53",
+    "name": "代々木公園 ベンチ",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-53.jpg",
+    "geo": [
+      35.667678,
+      139.697358
+    ]
+  },
+  {
+    "id": "379-57",
+    "name": "新宿BLAZE",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-57.jpg",
+    "geo": [
+      35.6954736,
+      139.7010219
+    ]
+  },
+  {
+    "id": "379-58",
+    "name": "東京ゲートブリッジ撮影地点",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-58.jpg",
+    "geo": [
+      35.606798,
+      139.8210239
+    ]
+  },
+  {
+    "id": "379-59",
+    "name": "バイク駐輪場",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-59.jpg",
+    "geo": [
+      35.6305643,
+      139.8370636
+    ]
+  },
+  {
+    "id": "379-60",
+    "name": "若洲海浜公園",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-60.jpg",
+    "geo": [
+      35.613305,
+      139.8358834
+    ]
+  },
+  {
+    "id": "379-61",
+    "name": "科学技術館",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-61.jpg",
+    "geo": [
+      35.6911473,
+      139.7524613
+    ]
+  },
+  {
+    "id": "379-62",
+    "name": "映画の碑",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-62.jpg",
+    "geo": [
+      35.7573667,
+      139.8760159
+    ]
+  },
+  {
+    "id": "379-63",
+    "name": "柴又駅前 寅さん像",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-63.jpg",
+    "geo": [
+      35.7569041,
+      139.875623
+    ]
+  },
+  {
+    "id": "379-64",
+    "name": "横断歩道",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-64.jpg",
+    "geo": [
+      35.7575713,
+      139.8763271
+    ]
+  },
+  {
+    "id": "379-65",
+    "name": "亀家本舗前",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-65.jpg",
+    "geo": [
+      35.7581927,
+      139.8773544
+    ]
+  },
+  {
+    "id": "379-66",
+    "name": "柴又帝釈天",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-66.jpg",
+    "geo": [
+      35.7580708,
+      139.8781376
+    ]
+  },
+  {
+    "id": "379-67",
+    "name": "亀有駅前の時計",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-67.jpg",
+    "geo": [
+      35.7669725,
+      139.8477173
+    ]
+  },
+  {
+    "id": "379-68",
+    "name": "赤坂センタービル",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-68.jpg",
+    "geo": [
+      35.6769472,
+      139.7329777
+    ]
+  },
+  {
+    "id": "379-69",
+    "name": "花やしき",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-69.jpg",
+    "geo": [
+      35.7151434,
+      139.7950387
+    ]
+  },
+  {
+    "id": "379-70",
+    "name": "知性ビル",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-70.jpg",
+    "geo": [
+      35.6770343,
+      139.7325861
+    ]
+  },
+  {
+    "id": "379-71",
+    "name": "日ナレ前　（反転）",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-71.jpg",
+    "geo": [
+      35.681468,
+      139.7002763
+    ]
+  },
+  {
+    "id": "379-72",
+    "name": "五差路",
+    "image": "https://image.xinu.ink/pic/data/1288/images/379-72.jpg",
+    "geo": [
+      35.6427805,
+      139.6671832
+    ]
+  }
+]

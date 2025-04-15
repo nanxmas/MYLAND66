@@ -1,0 +1,29 @@
+[
+  {
+    "id": "347-1",
+    "name": "商店街",
+    "image": "https://image.xinu.ink/pic/data/1257/images/347-1.jpg",
+    "geo": [
+      35.553656,
+      139.645275
+    ]
+  },
+  {
+    "id": "347-2",
+    "name": "ヘアピンカーブ",
+    "image": "https://image.xinu.ink/pic/data/1257/images/347-2.jpg",
+    "geo": [
+      35.644313,
+      139.446325
+    ]
+  },
+  {
+    "id": "347-3",
+    "name": "渋谷前",
+    "image": "https://image.xinu.ink/pic/data/1257/images/347-3.jpg",
+    "geo": [
+      35.659473,
+      139.699013
+    ]
+  }
+]

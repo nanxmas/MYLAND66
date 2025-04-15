@@ -1,0 +1,74 @@
+[
+  {
+    "id": "198-1",
+    "name": "秋葉原上空",
+    "image": "https://image.xinu.ink/pic/data/1122/images/198-1.jpg",
+    "geo": [
+      35.698861,
+      139.773847
+    ]
+  },
+  {
+    "id": "198-2",
+    "name": "秋葉原上空",
+    "image": "https://image.xinu.ink/pic/data/1122/images/198-2.jpg",
+    "geo": [
+      35.698819,
+      139.774616
+    ]
+  },
+  {
+    "id": "198-3",
+    "name": "ヨドバシカメラ秋葉原店",
+    "image": "https://image.xinu.ink/pic/data/1122/images/198-3.jpg",
+    "geo": [
+      35.698469,
+      139.774396
+    ]
+  },
+  {
+    "id": "198-4",
+    "name": "ソフマップ秋葉原本館",
+    "image": "https://image.xinu.ink/pic/data/1122/images/198-4.jpg",
+    "geo": [
+      35.699926,
+      139.771559
+    ]
+  },
+  {
+    "id": "198-5",
+    "name": "氷川神社",
+    "image": "https://image.xinu.ink/pic/data/1122/images/198-5.jpg",
+    "geo": [
+      35.905982,
+      139.491531
+    ]
+  },
+  {
+    "id": "198-6",
+    "name": "所沢駅西口",
+    "image": "https://image.xinu.ink/pic/data/1122/images/198-6.jpg",
+    "geo": [
+      35.786803,
+      139.472581
+    ]
+  },
+  {
+    "id": "198-7",
+    "name": "新宿駅南口向かい",
+    "image": "https://image.xinu.ink/pic/data/1122/images/198-7.jpg",
+    "geo": [
+      35.688869,
+      139.700421
+    ]
+  },
+  {
+    "id": "198-8",
+    "name": "初雁中学校",
+    "image": "https://image.xinu.ink/pic/data/1122/images/198-8.jpg",
+    "geo": [
+      35.926024,
+      139.485981
+    ]
+  }
+]

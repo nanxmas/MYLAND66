@@ -1,0 +1,47 @@
+[
+  {
+    "id": "369-1",
+    "name": "宝塚",
+    "image": "https://image.xinu.ink/pic/data/1279/images/369-1.jpg",
+    "geo": [
+      34.808324,
+      135.344793
+    ]
+  },
+  {
+    "id": "369-3",
+    "name": "十三",
+    "image": "https://image.xinu.ink/pic/data/1279/images/369-3.jpg",
+    "geo": [
+      34.720715,
+      135.482476
+    ]
+  },
+  {
+    "id": "369-5",
+    "name": "南禅寺　水路閣",
+    "image": "https://image.xinu.ink/pic/data/1279/images/369-5.jpg",
+    "geo": [
+      35.010596,
+      135.793902
+    ]
+  },
+  {
+    "id": "369-6",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/1279/images/369-6.jpg",
+    "geo": [
+      34.994773,
+      135.785013
+    ]
+  },
+  {
+    "id": "369-7",
+    "name": "京都タワー",
+    "image": "https://image.xinu.ink/pic/data/1279/images/369-7.jpg",
+    "geo": [
+      34.987499,
+      135.759323
+    ]
+  }
+]

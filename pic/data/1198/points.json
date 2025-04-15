@@ -1,0 +1,29 @@
+[
+  {
+    "id": "283-1",
+    "name": "清水寺 本堂舞台",
+    "image": "https://image.xinu.ink/pic/data/1198/images/283-1.jpg",
+    "geo": [
+      34.994729,
+      135.785077
+    ]
+  },
+  {
+    "id": "283-2",
+    "name": "皇大神宮（内宮）",
+    "image": "https://image.xinu.ink/pic/data/1198/images/283-2.jpg",
+    "geo": [
+      34.45493,
+      136.725798
+    ]
+  },
+  {
+    "id": "283-3",
+    "name": "宇治橋",
+    "image": "https://image.xinu.ink/pic/data/1198/images/283-3.jpg",
+    "geo": [
+      34.458747,
+      136.723207
+    ]
+  }
+]

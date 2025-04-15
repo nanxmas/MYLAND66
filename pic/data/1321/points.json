@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1010-1",
+    "name": "鎌倉高校前駅",
+    "image": "https://image.xinu.ink/pic/data/1321/images/1010-1.jpg",
+    "geo": [
+      35.306714,
+      139.500591
+    ]
+  },
+  {
+    "id": "1010-2",
+    "name": "稲村ケ崎駅",
+    "image": "https://image.xinu.ink/pic/data/1321/images/1010-2.jpg",
+    "geo": [
+      35.304286,
+      139.521917
+    ]
+  },
+  {
+    "id": "1010-3",
+    "name": "極楽寺駅",
+    "image": "https://image.xinu.ink/pic/data/1321/images/1010-3.jpg",
+    "geo": [
+      35.309174,
+      139.528836
+    ]
+  }
+]

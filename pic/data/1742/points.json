@@ -1,0 +1,29 @@
+[
+  {
+    "id": "484-0",
+    "name": "五反野駅",
+    "image": "https://image.xinu.ink/pic/data/1742/images/484-0.jpg",
+    "geo": [
+      35.7662772,
+      139.8093322
+    ]
+  },
+  {
+    "id": "484-1",
+    "name": "歩道橋",
+    "image": "https://image.xinu.ink/pic/data/1742/images/484-1.jpg",
+    "geo": [
+      35.7612453,
+      139.8054765
+    ]
+  },
+  {
+    "id": "484-2",
+    "name": "高砂野球場",
+    "image": "https://image.xinu.ink/pic/data/1742/images/484-2.jpg",
+    "geo": [
+      35.7609286,
+      139.8046973
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "340-1",
+    "name": "道頓堀",
+    "image": "https://image.xinu.ink/pic/data/1250/images/340-1.jpg",
+    "geo": [
+      34.669054,
+      135.501305
+    ]
+  },
+  {
+    "id": "340-2",
+    "name": "神戸大橋",
+    "image": "https://image.xinu.ink/pic/data/1250/images/340-2.jpg",
+    "geo": [
+      34.678482,
+      135.203633
+    ]
+  }
+]

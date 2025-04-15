@@ -1,0 +1,56 @@
+[
+  {
+    "id": "73-1",
+    "name": "アニメイト札幌店前",
+    "image": "https://image.xinu.ink/pic/data/1012/images/73-1.jpg",
+    "geo": [
+      43.058761,
+      141.355714
+    ]
+  },
+  {
+    "id": "73-2",
+    "name": "スカイタワー西東京（田無タワー）",
+    "image": "https://image.xinu.ink/pic/data/1012/images/73-2.jpg",
+    "geo": [
+      35.735087,
+      139.523079
+    ]
+  },
+  {
+    "id": "73-3",
+    "name": "国分寺駅南口",
+    "image": "https://image.xinu.ink/pic/data/1012/images/73-3.jpg",
+    "geo": [
+      35.699166,
+      139.480711
+    ]
+  },
+  {
+    "id": "73-4",
+    "name": "池袋駅東口34番出口付近",
+    "image": "https://image.xinu.ink/pic/data/1012/images/73-4.jpg",
+    "geo": [
+      35.730208,
+      139.712923
+    ]
+  },
+  {
+    "id": "73-5",
+    "name": "札幌市時計台",
+    "image": "https://image.xinu.ink/pic/data/1012/images/73-5.jpg",
+    "geo": [
+      43.062398,
+      141.353391
+    ]
+  },
+  {
+    "id": "73-6",
+    "name": "北3条通り西2交差点",
+    "image": "https://image.xinu.ink/pic/data/1012/images/73-6.jpg",
+    "geo": [
+      43.064608,
+      141.352909
+    ]
+  }
+]

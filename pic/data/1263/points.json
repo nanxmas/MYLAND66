@@ -1,0 +1,29 @@
+[
+  {
+    "id": "353-5",
+    "name": "お台場海浜公園",
+    "image": "https://image.xinu.ink/pic/data/1263/images/353-5.jpg",
+    "geo": [
+      35.630843,
+      139.77666
+    ]
+  },
+  {
+    "id": "353-6",
+    "name": "東京ビッグサイト",
+    "image": "https://image.xinu.ink/pic/data/1263/images/353-6.jpg",
+    "geo": [
+      35.629903,
+      139.793934
+    ]
+  },
+  {
+    "id": "353-9",
+    "name": "東京都立晴海総合高等学校",
+    "image": "https://image.xinu.ink/pic/data/1263/images/353-9.jpg",
+    "geo": [
+      35.660708,
+      139.786221
+    ]
+  }
+]

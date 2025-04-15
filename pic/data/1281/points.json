@@ -1,0 +1,38 @@
+[
+  {
+    "id": "371-1",
+    "name": "出雲大社への案内板",
+    "image": "https://image.xinu.ink/pic/data/1281/images/371-1.jpg",
+    "geo": [
+      35.361432,
+      132.733458
+    ]
+  },
+  {
+    "id": "371-3",
+    "name": "大鳥居前",
+    "image": "https://image.xinu.ink/pic/data/1281/images/371-3.jpg",
+    "geo": [
+      35.396611,
+      132.686399
+    ]
+  },
+  {
+    "id": "371-5",
+    "name": "出雲大社前",
+    "image": "https://image.xinu.ink/pic/data/1281/images/371-5.jpg",
+    "geo": [
+      35.400844,
+      132.685597
+    ]
+  },
+  {
+    "id": "371-6",
+    "name": "銅像",
+    "image": "https://image.xinu.ink/pic/data/1281/images/371-6.jpg",
+    "geo": [
+      35.40026,
+      132.685439
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "204-1",
+    "name": "JR札幌駅南口",
+    "image": "https://image.xinu.ink/pic/data/1127/images/204-1.jpg",
+    "geo": [
+      43.067557,
+      141.35103
+    ]
+  },
+  {
+    "id": "204-2",
+    "name": "JR札幌駅ホーム",
+    "image": "https://image.xinu.ink/pic/data/1127/images/204-2.jpg",
+    "geo": [
+      43.06878,
+      141.350869
+    ]
+  },
+  {
+    "id": "204-3",
+    "name": "北海道庁",
+    "image": "https://image.xinu.ink/pic/data/1127/images/204-3.jpg",
+    "geo": [
+      43.064124,
+      141.349367
+    ]
+  },
+  {
+    "id": "204-4",
+    "name": "札幌かに本家駅前本店",
+    "image": "https://image.xinu.ink/pic/data/1127/images/204-4.jpg",
+    "geo": [
+      43.065723,
+      141.352596
+    ]
+  },
+  {
+    "id": "204-5",
+    "name": "札幌市時計台",
+    "image": "https://image.xinu.ink/pic/data/1127/images/204-5.jpg",
+    "geo": [
+      43.062454,
+      141.353422
+    ]
+  },
+  {
+    "id": "204-6",
+    "name": "さっぽろテレビ塔",
+    "image": "https://image.xinu.ink/pic/data/1127/images/204-6.jpg",
+    "geo": [
+      43.060905,
+      141.35489
+    ]
+  },
+  {
+    "id": "204-7",
+    "name": "北陸銀行札幌支店前",
+    "image": "https://image.xinu.ink/pic/data/1127/images/204-7.jpg",
+    "geo": [
+      43.060652,
+      141.353791
+    ]
+  },
+  {
+    "id": "204-8",
+    "name": "大通西3丁目",
+    "image": "https://image.xinu.ink/pic/data/1127/images/204-8.jpg",
+    "geo": [
+      43.060574,
+      141.353455
+    ]
+  }
+]

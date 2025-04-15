@@ -1,0 +1,38 @@
+[
+  {
+    "id": "485-0",
+    "name": "歌舞伎町一番街",
+    "image": "https://image.xinu.ink/pic/data/1744/images/485-0.jpg",
+    "geo": [
+      35.6938736,
+      139.7010313
+    ]
+  },
+  {
+    "id": "485-1",
+    "name": "上海小吃",
+    "image": "https://image.xinu.ink/pic/data/1744/images/485-1.jpg",
+    "geo": [
+      35.6948817,
+      139.7037882
+    ]
+  },
+  {
+    "id": "485-2",
+    "name": "歌舞伎町",
+    "image": "https://image.xinu.ink/pic/data/1744/images/485-2.jpg",
+    "geo": [
+      35.6938801,
+      139.7015677
+    ]
+  },
+  {
+    "id": "485-3",
+    "name": "花園神社",
+    "image": "https://image.xinu.ink/pic/data/1744/images/485-3.jpg",
+    "geo": [
+      35.693557,
+      139.705169
+    ]
+  }
+]

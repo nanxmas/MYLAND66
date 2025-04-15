@@ -1,0 +1,47 @@
+[
+  {
+    "id": "378-0",
+    "name": "橋",
+    "image": "https://image.xinu.ink/pic/data/1287/images/378-0.jpg",
+    "geo": [
+      35.669892,
+      139.79785
+    ]
+  },
+  {
+    "id": "378-1",
+    "name": "門",
+    "image": "https://image.xinu.ink/pic/data/1287/images/378-1.jpg",
+    "geo": [
+      35.671326,
+      139.797388
+    ]
+  },
+  {
+    "id": "378-2",
+    "name": "交差点",
+    "image": "https://image.xinu.ink/pic/data/1287/images/378-2.jpg",
+    "geo": [
+      35.67255,
+      139.795149
+    ]
+  },
+  {
+    "id": "378-3",
+    "name": "改札口",
+    "image": "https://image.xinu.ink/pic/data/1287/images/378-3.jpg",
+    "geo": [
+      35.629971,
+      139.778919
+    ]
+  },
+  {
+    "id": "378-4",
+    "name": "観覧車",
+    "image": "https://image.xinu.ink/pic/data/1287/images/378-4.jpg",
+    "geo": [
+      35.626496,
+      139.78203
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "142-1",
+    "name": "目印 1",
+    "image": "https://image.xinu.ink/pic/data/1075/images/142-1.jpg",
+    "geo": [
+      35.542851,
+      139.44706
+    ]
+  },
+  {
+    "id": "142-2",
+    "name": "目印 2",
+    "image": "https://image.xinu.ink/pic/data/1075/images/142-2.jpg",
+    "geo": [
+      35.541795,
+      139.44493
+    ]
+  },
+  {
+    "id": "142-3",
+    "name": "目印 3",
+    "image": "https://image.xinu.ink/pic/data/1075/images/142-3.jpg",
+    "geo": [
+      35.54155,
+      139.444485
+    ]
+  },
+  {
+    "id": "142-4",
+    "name": "目印 4",
+    "image": "https://image.xinu.ink/pic/data/1075/images/142-4.jpg",
+    "geo": [
+      35.541323,
+      139.445311
+    ]
+  },
+  {
+    "id": "142-5",
+    "name": "目印 5",
+    "image": "https://image.xinu.ink/pic/data/1075/images/142-5.jpg",
+    "geo": [
+      35.538373,
+      139.451566
+    ]
+  }
+]

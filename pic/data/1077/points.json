@@ -1,0 +1,92 @@
+[
+  {
+    "id": "144-1",
+    "name": "アクアシティお台場",
+    "image": "https://image.xinu.ink/pic/data/1077/images/144-1.jpg",
+    "geo": [
+      35.626825,
+      139.77264
+    ]
+  },
+  {
+    "id": "144-2",
+    "name": "晴海グランドホテル",
+    "image": "https://image.xinu.ink/pic/data/1077/images/144-2.jpg",
+    "geo": [
+      35.654916,
+      139.78015
+    ]
+  },
+  {
+    "id": "144-3",
+    "name": "青海一丁目交差点",
+    "image": "https://image.xinu.ink/pic/data/1077/images/144-3.jpg",
+    "geo": [
+      35.623575,
+      139.77875
+    ]
+  },
+  {
+    "id": "144-4",
+    "name": "青海駅南出口",
+    "image": "https://image.xinu.ink/pic/data/1077/images/144-4.jpg",
+    "geo": [
+      35.624597,
+      139.781456
+    ]
+  },
+  {
+    "id": "144-5",
+    "name": "青海駅",
+    "image": "https://image.xinu.ink/pic/data/1077/images/144-5.jpg",
+    "geo": [
+      35.624955,
+      139.781617
+    ]
+  },
+  {
+    "id": "144-6",
+    "name": "青海駅",
+    "image": "https://image.xinu.ink/pic/data/1077/images/144-6.jpg",
+    "geo": [
+      35.624739,
+      139.781807
+    ]
+  },
+  {
+    "id": "144-7",
+    "name": "JR札幌駅南口",
+    "image": "https://image.xinu.ink/pic/data/1077/images/144-7.jpg",
+    "geo": [
+      43.066873,
+      141.350167
+    ]
+  },
+  {
+    "id": "144-8",
+    "name": "JR札幌駅",
+    "image": "https://image.xinu.ink/pic/data/1077/images/144-8.jpg",
+    "geo": [
+      43.068625,
+      141.350854
+    ]
+  },
+  {
+    "id": "144-9",
+    "name": "札幌創成高校",
+    "image": "https://image.xinu.ink/pic/data/1077/images/144-9.jpg",
+    "geo": [
+      43.096377,
+      141.345119
+    ]
+  },
+  {
+    "id": "144-10",
+    "name": "札幌ドーム",
+    "image": "https://image.xinu.ink/pic/data/1077/images/144-10.jpg",
+    "geo": [
+      43.014642,
+      141.411209
+    ]
+  }
+]

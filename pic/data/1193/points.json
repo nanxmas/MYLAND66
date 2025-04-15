@@ -1,0 +1,38 @@
+[
+  {
+    "id": "278-1",
+    "name": "西武園ゆうえんち",
+    "image": "https://image.xinu.ink/pic/data/1193/images/278-1.jpg",
+    "geo": [
+      35.768374,
+      139.442983
+    ]
+  },
+  {
+    "id": "278-2",
+    "name": "ジャイロタワー",
+    "image": "https://image.xinu.ink/pic/data/1193/images/278-2.jpg",
+    "geo": [
+      35.767477,
+      139.441199
+    ]
+  },
+  {
+    "id": "278-3",
+    "name": "アーケード大通りステージ",
+    "image": "https://image.xinu.ink/pic/data/1193/images/278-3.jpg",
+    "geo": [
+      35.768331,
+      139.441263
+    ]
+  },
+  {
+    "id": "278-4",
+    "name": "大観覧車",
+    "image": "https://image.xinu.ink/pic/data/1193/images/278-4.jpg",
+    "geo": [
+      35.767551,
+      139.443967
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "333-1",
+    "name": "新宿大ガード東交差点",
+    "image": "https://image.xinu.ink/pic/data/1243/images/333-1.jpg",
+    "geo": [
+      35.693892,
+      139.700678
+    ]
+  },
+  {
+    "id": "333-2",
+    "name": "新宿区役所前交差点",
+    "image": "https://image.xinu.ink/pic/data/1243/images/333-2.jpg",
+    "geo": [
+      35.693134,
+      139.703465
+    ]
+  },
+  {
+    "id": "333-3",
+    "name": "松屋池袋サンシャイン通り店",
+    "image": "https://image.xinu.ink/pic/data/1243/images/333-3.jpg",
+    "geo": [
+      35.730068,
+      139.716144
+    ]
+  },
+  {
+    "id": "333-4",
+    "name": "甘太郎池袋60Ｆ通り店",
+    "image": "https://image.xinu.ink/pic/data/1243/images/333-4.jpg",
+    "geo": [
+      35.730175,
+      139.716586
+    ]
+  },
+  {
+    "id": "333-5",
+    "name": "池袋東口43番口周辺",
+    "image": "https://image.xinu.ink/pic/data/1243/images/333-5.jpg",
+    "geo": [
+      35.729661,
+      139.712646
+    ]
+  },
+  {
+    "id": "333-6",
+    "name": "カラオケの鉄人池袋東口店",
+    "image": "https://image.xinu.ink/pic/data/1243/images/333-6.jpg",
+    "geo": [
+      35.7307,
+      139.715782
+    ]
+  },
+  {
+    "id": "333-7",
+    "name": "お台場ヴィーナスフォート",
+    "image": "https://image.xinu.ink/pic/data/1243/images/333-7.jpg",
+    "geo": [
+      35.624687,
+      139.779439
+    ]
+  },
+  {
+    "id": "333-8",
+    "name": "東京テレポート駅",
+    "image": "https://image.xinu.ink/pic/data/1243/images/333-8.jpg",
+    "geo": [
+      35.627052,
+      139.778704
+    ]
+  },
+  {
+    "id": "333-9",
+    "name": "青海駅南口",
+    "image": "https://image.xinu.ink/pic/data/1243/images/333-9.jpg",
+    "geo": [
+      35.624251,
+      139.781465
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "244-1",
+    "name": "スタジオアルタ前",
+    "image": "https://image.xinu.ink/pic/data/1164/images/244-1.jpg",
+    "geo": [
+      35.692507,
+      139.701169
+    ]
+  },
+  {
+    "id": "244-2",
+    "name": "新宿駅東口交差点",
+    "image": "https://image.xinu.ink/pic/data/1164/images/244-2.jpg",
+    "geo": [
+      35.692117,
+      139.701845
+    ]
+  },
+  {
+    "id": "244-4",
+    "name": "東京大学医学部付属病院 管理棟入口",
+    "image": "https://image.xinu.ink/pic/data/1164/images/244-4.jpg",
+    "geo": [
+      35.71197,
+      139.764262
+    ]
+  }
+]

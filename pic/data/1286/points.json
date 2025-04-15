@@ -1,0 +1,29 @@
+[
+  {
+    "id": "377-0",
+    "name": "七里ガ浜海岸",
+    "image": "https://image.xinu.ink/pic/data/1286/images/377-0.jpg",
+    "geo": [
+      35.3054158,
+      139.5098662
+    ]
+  },
+  {
+    "id": "377-1",
+    "name": "新横浜駅-3番ホーム",
+    "image": "https://image.xinu.ink/pic/data/1286/images/377-1.jpg",
+    "geo": [
+      35.5074263,
+      139.6176696
+    ]
+  },
+  {
+    "id": "377-2",
+    "name": "道の駅すばしり",
+    "image": "https://image.xinu.ink/pic/data/1286/images/377-2.jpg",
+    "geo": [
+      35.362736,
+      138.8588298
+    ]
+  }
+]

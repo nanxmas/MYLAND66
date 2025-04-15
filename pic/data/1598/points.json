@@ -1,0 +1,47 @@
+[
+  {
+    "id": "425-0",
+    "name": "駅前",
+    "image": "https://image.xinu.ink/pic/data/1598/images/425-0.jpg",
+    "geo": [
+      34.7056301,
+      137.7306604
+    ]
+  },
+  {
+    "id": "425-1",
+    "name": "商店街",
+    "image": "https://image.xinu.ink/pic/data/1598/images/425-1.jpg",
+    "geo": [
+      34.7082893,
+      137.7307677
+    ]
+  },
+  {
+    "id": "425-2",
+    "name": "プラネタリウムへの道中１",
+    "image": "https://image.xinu.ink/pic/data/1598/images/425-2.jpg",
+    "geo": [
+      34.7057316,
+      137.7350539
+    ]
+  },
+  {
+    "id": "425-3",
+    "name": "プラネタリウムへの道中２",
+    "image": "https://image.xinu.ink/pic/data/1598/images/425-3.jpg",
+    "geo": [
+      34.705048,
+      137.7339917
+    ]
+  },
+  {
+    "id": "425-4",
+    "name": "プラネタリウムへの道中３",
+    "image": "https://image.xinu.ink/pic/data/1598/images/425-4.jpg",
+    "geo": [
+      34.7056169,
+      137.7322108
+    ]
+  }
+]

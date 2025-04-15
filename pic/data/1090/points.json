@@ -1,0 +1,65 @@
+[
+  {
+    "id": "160-1",
+    "name": "銀地町駅",
+    "image": "https://image.xinu.ink/pic/data/1090/images/160-1.jpg",
+    "geo": [
+      35.695319,
+      139.813779
+    ]
+  },
+  {
+    "id": "160-2",
+    "name": "初芝駅前",
+    "image": "https://image.xinu.ink/pic/data/1090/images/160-2.jpg",
+    "geo": [
+      35.689781,
+      139.836036
+    ]
+  },
+  {
+    "id": "160-3",
+    "name": "商店街",
+    "image": "https://image.xinu.ink/pic/data/1090/images/160-3.jpg",
+    "geo": [
+      35.690858,
+      139.837651
+    ]
+  },
+  {
+    "id": "160-4",
+    "name": "クローバーの橋",
+    "image": "https://image.xinu.ink/pic/data/1090/images/160-4.jpg",
+    "geo": [
+      35.685331,
+      139.820316
+    ]
+  },
+  {
+    "id": "160-5",
+    "name": "ロックゲート",
+    "image": "https://image.xinu.ink/pic/data/1090/images/160-5.jpg",
+    "geo": [
+      35.683335,
+      139.847165
+    ]
+  },
+  {
+    "id": "160-6",
+    "name": "街頭演説＆未散EDの橋 1",
+    "image": "https://image.xinu.ink/pic/data/1090/images/160-6.jpg",
+    "geo": [
+      35.674903,
+      139.809051
+    ]
+  },
+  {
+    "id": "160-7",
+    "name": "街頭演説＆未散EDの橋 2",
+    "image": "https://image.xinu.ink/pic/data/1090/images/160-7.jpg",
+    "geo": [
+      35.676041,
+      139.808723
+    ]
+  }
+]

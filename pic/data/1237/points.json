@@ -1,0 +1,20 @@
+[
+  {
+    "id": "326-1",
+    "name": "Gare Centrale",
+    "image": "https://image.xinu.ink/pic/data/1237/images/326-1.jpg",
+    "geo": [
+      48.585096,
+      7.735483
+    ]
+  },
+  {
+    "id": "326-2",
+    "name": "Place Kléber",
+    "image": "https://image.xinu.ink/pic/data/1237/images/326-2.jpg",
+    "geo": [
+      48.583524,
+      7.745801
+    ]
+  }
+]

@@ -1,0 +1,425 @@
+[
+  {
+    "id": "411-0",
+    "name": "くらさわ楽器（もちづき楽器）",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-0.jpg",
+    "geo": [
+      35.015520200000005,
+      138.48738
+    ]
+  },
+  {
+    "id": "411-1",
+    "name": "新清水駅前バス停からの風景",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-1.jpg",
+    "geo": [
+      35.0165186,
+      138.4883147
+    ]
+  },
+  {
+    "id": "411-3",
+    "name": "パーラーFujiya(Fujino)",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-3.jpg",
+    "geo": [
+      35.01670910000001,
+      138.4879788
+    ]
+  },
+  {
+    "id": "411-4",
+    "name": "新清水駅",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-4.jpg",
+    "geo": [
+      35.0169266,
+      138.4879285
+    ]
+  },
+  {
+    "id": "411-5",
+    "name": "港祭り（羽衣銀行）",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-5.jpg",
+    "geo": [
+      35.0150687,
+      138.4887573
+    ]
+  },
+  {
+    "id": "411-6",
+    "name": "港祭り（東洋証券のシャッター）",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-6.jpg",
+    "geo": [
+      35.0146865,
+      138.4883121
+    ]
+  },
+  {
+    "id": "411-7",
+    "name": "港祭り（家庭教師ネットワークのビル）",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-7.jpg",
+    "geo": [
+      35.0146096,
+      138.4888163
+    ]
+  },
+  {
+    "id": "411-8",
+    "name": "静岡市民文化会館入口",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-8.jpg",
+    "geo": [
+      34.9808761,
+      138.3858544
+    ]
+  },
+  {
+    "id": "411-9",
+    "name": "静岡市民文化会館",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-9.jpg",
+    "geo": [
+      34.9808804,
+      138.3867824
+    ]
+  },
+  {
+    "id": "411-11",
+    "name": "CAFFE TERRASSE ラクダの里",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-11.jpg",
+    "geo": [
+      34.9809903,
+      138.3869809
+    ]
+  },
+  {
+    "id": "411-12",
+    "name": "チカがハルタを探しに飛び出したカット",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-12.jpg",
+    "geo": [
+      34.9807354,
+      138.385672
+    ]
+  },
+  {
+    "id": "411-13",
+    "name": "北御門橋",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-13.jpg",
+    "geo": [
+      34.98111780000001,
+      138.3844703
+    ]
+  },
+  {
+    "id": "411-14",
+    "name": "藤が咲高校教室",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-14.jpg",
+    "geo": [
+      34.988462,
+      138.5147559
+    ]
+  },
+  {
+    "id": "411-15",
+    "name": "藤が咲高校からの帰り道",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-15.jpg",
+    "geo": [
+      34.9898024,
+      138.5130233
+    ]
+  },
+  {
+    "id": "411-17",
+    "name": "藤が咲高校校門",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-17.jpg",
+    "geo": [
+      34.9896134,
+      138.5134846
+    ]
+  },
+  {
+    "id": "411-19",
+    "name": "睡蓮寺山門（龍華寺）",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-19.jpg",
+    "geo": [
+      34.9901936,
+      138.4852114
+    ]
+  },
+  {
+    "id": "411-20",
+    "name": "カイユが出てきた建物（会館）",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-20.jpg",
+    "geo": [
+      34.9907374,
+      138.4844631
+    ]
+  },
+  {
+    "id": "411-21",
+    "name": "茅葺屋根の建物と庭（本堂）",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-21.jpg",
+    "geo": [
+      34.9902462,
+      138.4846911
+    ]
+  },
+  {
+    "id": "411-22",
+    "name": "七賢者の堂への階段（観富園）",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-22.jpg",
+    "geo": [
+      34.9900123,
+      138.4845395
+    ]
+  },
+  {
+    "id": "411-23",
+    "name": "堂の手前　夜景のカット",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-23.jpg",
+    "geo": [
+      34.9900007,
+      138.48443230000004
+    ]
+  },
+  {
+    "id": "411-24",
+    "name": "七賢者のいるはなれ（七面堂）",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-24.jpg",
+    "geo": [
+      34.9901024,
+      138.4843203
+    ]
+  },
+  {
+    "id": "411-25",
+    "name": "6話　南高校屋上からの風景",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-25.jpg",
+    "geo": [
+      35.01363210000001,
+      138.5328019
+    ]
+  },
+  {
+    "id": "411-26",
+    "name": "清水中央図書館",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-26.jpg",
+    "geo": [
+      35.0116451,
+      138.4795868
+    ]
+  },
+  {
+    "id": "411-28",
+    "name": "清水日本平動物園（ゾウ）",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-28.jpg",
+    "geo": [
+      34.9804168,
+      138.4374949
+    ]
+  },
+  {
+    "id": "411-29",
+    "name": "清水日本平動物園（広場）",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-29.jpg",
+    "geo": [
+      34.980419,
+      138.437554
+    ]
+  },
+  {
+    "id": "411-30",
+    "name": "波止場踏切前の景色",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-30.jpg",
+    "geo": [
+      35.0185576,
+      138.4870937
+    ]
+  },
+  {
+    "id": "411-31",
+    "name": "ドーナツ工房モリカフェ(四話）",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-31.jpg",
+    "geo": [
+      35.0186773,
+      138.4871393
+    ]
+  },
+  {
+    "id": "411-32",
+    "name": "イケダフルーツ（タケダフルーツ）",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-32.jpg",
+    "geo": [
+      35.0186966,
+      138.4871627
+    ]
+  },
+  {
+    "id": "411-33",
+    "name": "6SPOT（5SPOT）",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-33.jpg",
+    "geo": [
+      35.0186516,
+      138.4870957
+    ]
+  },
+  {
+    "id": "411-34",
+    "name": "マツダ不動産（ヤマヘイ不動産）",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-34.jpg",
+    "geo": [
+      35.0048752,
+      138.5197959
+    ]
+  },
+  {
+    "id": "411-35",
+    "name": "車移動シーン1",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-35.jpg",
+    "geo": [
+      34.9910549,
+      138.5144877
+    ]
+  },
+  {
+    "id": "411-36",
+    "name": "車移動シーン2",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-36.jpg",
+    "geo": [
+      34.9901958,
+      138.511886
+    ]
+  },
+  {
+    "id": "411-37",
+    "name": "車移動シーン3",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-37.jpg",
+    "geo": [
+      34.9986619,
+      138.5193586
+    ]
+  },
+  {
+    "id": "411-38",
+    "name": "マリナートの前",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-38.jpg",
+    "geo": [
+      35.0217971,
+      138.4892803
+    ]
+  },
+  {
+    "id": "411-39",
+    "name": "金子フルート",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-39.jpg",
+    "geo": [
+      35.0247283,
+      138.4882584
+    ]
+  },
+  {
+    "id": "411-41",
+    "name": "三保灯台前の海岸線",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-41.jpg",
+    "geo": [
+      35.0113035,
+      138.5325444
+    ]
+  },
+  {
+    "id": "411-42",
+    "name": "ドーナツ工房モリカフェ",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-42.jpg",
+    "geo": [
+      35.0186795,
+      138.4871306
+    ]
+  },
+  {
+    "id": "411-43",
+    "name": "2話　焼鳥センター（焼肉センター）",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-43.jpg",
+    "geo": [
+      35.0111167,
+      138.5304254
+    ]
+  },
+  {
+    "id": "411-44",
+    "name": "２話　学校前の風景",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-44.jpg",
+    "geo": [
+      35.0107015,
+      138.5298608
+    ]
+  },
+  {
+    "id": "411-45",
+    "name": "清水南高校",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-45.jpg",
+    "geo": [
+      34.9840011,
+      138.5106039
+    ]
+  },
+  {
+    "id": "411-46",
+    "name": "チカの家",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-46.jpg",
+    "geo": [
+      35.0016671,
+      138.5165249
+    ]
+  },
+  {
+    "id": "411-47",
+    "name": "大正橋",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-47.jpg",
+    "geo": [
+      35.0175884,
+      138.4851672
+    ]
+  },
+  {
+    "id": "411-50",
+    "name": "帰り道（1話）",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-50.jpg",
+    "geo": [
+      35.002107,
+      138.5166684
+    ]
+  },
+  {
+    "id": "411-51",
+    "name": "学校前",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-51.jpg",
+    "geo": [
+      35.0108509,
+      138.5305864
+    ]
+  },
+  {
+    "id": "411-53",
+    "name": "新清水駅",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-53.jpg",
+    "geo": [
+      35.0170765,
+      138.487848
+    ]
+  },
+  {
+    "id": "411-56",
+    "name": "チカが座っている石の段差",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-56.jpg",
+    "geo": [
+      35.011226,
+      138.5306829
+    ]
+  },
+  {
+    "id": "411-57",
+    "name": "清水南高校校門（モデル）",
+    "image": "https://image.xinu.ink/pic/data/1517/images/411-57.jpg",
+    "geo": [
+      35.0101611,
+      138.5268541
+    ]
+  }
+]

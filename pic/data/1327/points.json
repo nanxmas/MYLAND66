@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1016-2",
+    "name": "芝公園",
+    "image": "https://image.xinu.ink/pic/data/1327/images/1016-2.jpg",
+    "geo": [
+      35.657915,
+      139.746319
+    ]
+  },
+  {
+    "id": "1016-3",
+    "name": "浅草寺",
+    "image": "https://image.xinu.ink/pic/data/1327/images/1016-3.jpg",
+    "geo": [
+      35.71447,
+      139.796686
+    ]
+  },
+  {
+    "id": "1016-4",
+    "name": "花やしき",
+    "image": "https://image.xinu.ink/pic/data/1327/images/1016-4.jpg",
+    "geo": [
+      35.71545,
+      139.79477
+    ]
+  }
+]

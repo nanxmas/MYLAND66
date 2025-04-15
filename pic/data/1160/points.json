@@ -1,0 +1,47 @@
+[
+  {
+    "id": "238-1",
+    "name": "バス停",
+    "image": "https://image.xinu.ink/pic/data/1160/images/238-1.jpg",
+    "geo": [
+      35.638443,
+      139.418553
+    ]
+  },
+  {
+    "id": "238-2",
+    "name": "さくら荘",
+    "image": "https://image.xinu.ink/pic/data/1160/images/238-2.jpg",
+    "geo": [
+      35.639241,
+      139.418832
+    ]
+  },
+  {
+    "id": "238-3",
+    "name": "通り",
+    "image": "https://image.xinu.ink/pic/data/1160/images/238-3.jpg",
+    "geo": [
+      35.69103,
+      139.693029
+    ]
+  },
+  {
+    "id": "238-4",
+    "name": "通り",
+    "image": "https://image.xinu.ink/pic/data/1160/images/238-4.jpg",
+    "geo": [
+      35.542441,
+      139.445472
+    ]
+  },
+  {
+    "id": "238-5",
+    "name": "マリオンクレープ 原宿竹下通り店",
+    "image": "https://image.xinu.ink/pic/data/1160/images/238-5.jpg",
+    "geo": [
+      35.671201,
+      139.705011
+    ]
+  }
+]

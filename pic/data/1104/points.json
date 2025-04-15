@@ -1,0 +1,29 @@
+[
+  {
+    "id": "178-1",
+    "name": "日経電波会館（テレビ東京）",
+    "image": "https://image.xinu.ink/pic/data/1104/images/178-1.jpg",
+    "geo": [
+      35.66379,
+      139.743245
+    ]
+  },
+  {
+    "id": "178-2",
+    "name": "さいたまスーパーアリーナ",
+    "image": "https://image.xinu.ink/pic/data/1104/images/178-2.jpg",
+    "geo": [
+      35.894343,
+      139.630533
+    ]
+  },
+  {
+    "id": "178-3",
+    "name": "新宿スタジオアルタ",
+    "image": "https://image.xinu.ink/pic/data/1104/images/178-3.jpg",
+    "geo": [
+      35.692522,
+      139.701156
+    ]
+  }
+]

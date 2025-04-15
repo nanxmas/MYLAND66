@@ -1,0 +1,38 @@
+[
+  {
+    "id": "265-1",
+    "name": "洲崎灯台",
+    "image": "https://image.xinu.ink/pic/data/1182/images/265-1.jpg",
+    "geo": [
+      34.975358,
+      139.757673
+    ]
+  },
+  {
+    "id": "265-3",
+    "name": "富津公園（詳細不明）",
+    "image": "https://image.xinu.ink/pic/data/1182/images/265-3.jpg",
+    "geo": [
+      35.312566,
+      139.805534
+    ]
+  },
+  {
+    "id": "265-6",
+    "name": "坂道",
+    "image": "https://image.xinu.ink/pic/data/1182/images/265-6.jpg",
+    "geo": [
+      35.305726,
+      139.514477
+    ]
+  },
+  {
+    "id": "265-7",
+    "name": "君津駅北口",
+    "image": "https://image.xinu.ink/pic/data/1182/images/265-7.jpg",
+    "geo": [
+      35.334473,
+      139.89531
+    ]
+  }
+]

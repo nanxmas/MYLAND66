@@ -1,0 +1,29 @@
+[
+  {
+    "id": "321-2",
+    "name": "三角公園",
+    "image": "https://image.xinu.ink/pic/data/1232/images/321-2.jpg",
+    "geo": [
+      34.781331,
+      134.586288
+    ]
+  },
+  {
+    "id": "321-10",
+    "name": "駅前",
+    "image": "https://image.xinu.ink/pic/data/1232/images/321-10.jpg",
+    "geo": [
+      34.786836,
+      134.587626
+    ]
+  },
+  {
+    "id": "321-13",
+    "name": "最終話の電線が見える風景",
+    "image": "https://image.xinu.ink/pic/data/1232/images/321-13.jpg",
+    "geo": [
+      34.779298,
+      134.576565
+    ]
+  }
+]

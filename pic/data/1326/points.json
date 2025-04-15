@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1015-2",
+    "name": "お台場",
+    "image": "https://image.xinu.ink/pic/data/1326/images/1015-2.jpg",
+    "geo": [
+      35.626784,
+      139.773635
+    ]
+  },
+  {
+    "id": "1015-3",
+    "name": "東京ビッグサイト",
+    "image": "https://image.xinu.ink/pic/data/1326/images/1015-3.jpg",
+    "geo": [
+      35.630595,
+      139.793381
+    ]
+  }
+]

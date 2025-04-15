@@ -1,0 +1,74 @@
+[
+  {
+    "id": "213-1",
+    "name": "茶房こもん",
+    "image": "https://image.xinu.ink/pic/data/1135/images/213-1.jpg",
+    "geo": [
+      34.41063,
+      133.201804
+    ]
+  },
+  {
+    "id": "213-2",
+    "name": "御袖天満宮",
+    "image": "https://image.xinu.ink/pic/data/1135/images/213-2.jpg",
+    "geo": [
+      34.413274,
+      133.202147
+    ]
+  },
+  {
+    "id": "213-3",
+    "name": "噴水",
+    "image": "https://image.xinu.ink/pic/data/1135/images/213-3.jpg",
+    "geo": [
+      43.060409,
+      141.351278
+    ]
+  },
+  {
+    "id": "213-4",
+    "name": "海猫屋",
+    "image": "https://image.xinu.ink/pic/data/1135/images/213-4.jpg",
+    "geo": [
+      43.200802,
+      140.999624
+    ]
+  },
+  {
+    "id": "213-5",
+    "name": "マンション",
+    "image": "https://image.xinu.ink/pic/data/1135/images/213-5.jpg",
+    "geo": [
+      43.191776,
+      140.986784
+    ]
+  },
+  {
+    "id": "213-6",
+    "name": "グラバー園",
+    "image": "https://image.xinu.ink/pic/data/1135/images/213-6.jpg",
+    "geo": [
+      32.733391,
+      129.869398
+    ]
+  },
+  {
+    "id": "213-7",
+    "name": "大浦天主堂下駅",
+    "image": "https://image.xinu.ink/pic/data/1135/images/213-7.jpg",
+    "geo": [
+      32.736069,
+      129.871002
+    ]
+  },
+  {
+    "id": "213-8",
+    "name": "商店街",
+    "image": "https://image.xinu.ink/pic/data/1135/images/213-8.jpg",
+    "geo": [
+      34.392398,
+      132.46182
+    ]
+  }
+]

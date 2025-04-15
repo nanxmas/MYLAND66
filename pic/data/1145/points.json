@@ -1,0 +1,47 @@
+[
+  {
+    "id": "223-1",
+    "name": "街並み",
+    "image": "https://image.xinu.ink/pic/data/1145/images/223-1.jpg",
+    "geo": [
+      34.406075,
+      133.195742
+    ]
+  },
+  {
+    "id": "223-2",
+    "name": "持光寺参道",
+    "image": "https://image.xinu.ink/pic/data/1145/images/223-2.jpg",
+    "geo": [
+      34.406197,
+      133.196386
+    ]
+  },
+  {
+    "id": "223-3",
+    "name": "線路をくぐる階段",
+    "image": "https://image.xinu.ink/pic/data/1145/images/223-3.jpg",
+    "geo": [
+      34.40812,
+      133.199892
+    ]
+  },
+  {
+    "id": "223-4",
+    "name": "真壁一騎の家",
+    "image": "https://image.xinu.ink/pic/data/1145/images/223-4.jpg",
+    "geo": [
+      34.408965,
+      133.199278
+    ]
+  },
+  {
+    "id": "223-5",
+    "name": "遠見医院",
+    "image": "https://image.xinu.ink/pic/data/1145/images/223-5.jpg",
+    "geo": [
+      34.40654,
+      133.194873
+    ]
+  }
+]

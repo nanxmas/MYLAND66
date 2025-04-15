@@ -1,0 +1,65 @@
+[
+  {
+    "id": "152-1",
+    "name": "四条河原町交差点界隈",
+    "image": "https://image.xinu.ink/pic/data/1084/images/152-1.jpg",
+    "geo": [
+      35.003768,
+      135.769311
+    ]
+  },
+  {
+    "id": "152-2",
+    "name": "四条大橋界隈",
+    "image": "https://image.xinu.ink/pic/data/1084/images/152-2.jpg",
+    "geo": [
+      35.003838,
+      135.771457
+    ]
+  },
+  {
+    "id": "152-3",
+    "name": "八坂神社　西楼門",
+    "image": "https://image.xinu.ink/pic/data/1084/images/152-3.jpg",
+    "geo": [
+      35.003733,
+      135.77754
+    ]
+  },
+  {
+    "id": "152-4",
+    "name": "八坂神社　舞殿\\x26本殿",
+    "image": "https://image.xinu.ink/pic/data/1084/images/152-4.jpg",
+    "geo": [
+      35.00339,
+      135.778543
+    ]
+  },
+  {
+    "id": "152-5",
+    "name": "伏見稲荷大社",
+    "image": "https://image.xinu.ink/pic/data/1084/images/152-5.jpg",
+    "geo": [
+      34.967102,
+      135.772629
+    ]
+  },
+  {
+    "id": "152-7",
+    "name": "錦市場",
+    "image": "https://image.xinu.ink/pic/data/1084/images/152-7.jpg",
+    "geo": [
+      35.005031,
+      135.764904
+    ]
+  },
+  {
+    "id": "152-8",
+    "name": "鴨川",
+    "image": "https://image.xinu.ink/pic/data/1084/images/152-8.jpg",
+    "geo": [
+      35.004405,
+      135.772058
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "457-5",
+    "name": "【品川駅 中央改札】",
+    "image": "https://image.xinu.ink/pic/data/1452/images/457-5.jpg",
+    "geo": [
+      35.6288464,
+      139.7387767
+    ]
+  },
+  {
+    "id": "457-6",
+    "name": "【品川セントラルガーデン】",
+    "image": "https://image.xinu.ink/pic/data/1452/images/457-6.jpg",
+    "geo": [
+      35.6276342,
+      139.7414804
+    ]
+  },
+  {
+    "id": "457-7",
+    "name": "【天王洲ふれあい橋 周辺】",
+    "image": "https://image.xinu.ink/pic/data/1452/images/457-7.jpg",
+    "geo": [
+      35.6237796,
+      139.7471076
+    ]
+  }
+]

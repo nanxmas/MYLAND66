@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1108-1",
+    "name": "国立駅前",
+    "image": "https://image.xinu.ink/pic/data/1442/images/1108-1.jpg",
+    "geo": [
+      35.698332,
+      139.447077
+    ]
+  },
+  {
+    "id": "1108-2",
+    "name": "中河原駅",
+    "image": "https://image.xinu.ink/pic/data/1442/images/1108-2.jpg",
+    "geo": [
+      35.659616,
+      139.457838
+    ]
+  }
+]

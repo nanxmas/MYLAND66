@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1069-1",
+    "name": "酒田駅",
+    "image": "https://image.xinu.ink/pic/data/1369/images/1069-1.jpg",
+    "geo": [
+      38.921765,
+      139.845909
+    ]
+  },
+  {
+    "id": "1069-2",
+    "name": "川沿い　酒田消防署付近",
+    "image": "https://image.xinu.ink/pic/data/1369/images/1069-2.jpg",
+    "geo": [
+      38.909769,
+      139.83771
+    ]
+  },
+  {
+    "id": "1069-3",
+    "name": "三居橋",
+    "image": "https://image.xinu.ink/pic/data/1369/images/1069-3.jpg",
+    "geo": [
+      38.91238,
+      139.837393
+    ]
+  },
+  {
+    "id": "1069-4",
+    "name": "日和山公園",
+    "image": "https://image.xinu.ink/pic/data/1369/images/1069-4.jpg",
+    "geo": [
+      38.918977,
+      139.829264
+    ]
+  },
+  {
+    "id": "1069-5",
+    "name": "酒田商店街",
+    "image": "https://image.xinu.ink/pic/data/1369/images/1069-5.jpg",
+    "geo": [
+      38.916477,
+      139.836868
+    ]
+  }
+]

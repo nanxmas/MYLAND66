@@ -1,0 +1,65 @@
+[
+  {
+    "id": "176-1",
+    "name": "大宮駅東口",
+    "image": "https://image.xinu.ink/pic/data/1103/images/176-1.jpg",
+    "geo": [
+      35.905481,
+      139.625612
+    ]
+  },
+  {
+    "id": "176-2",
+    "name": "灼眼のシャナ",
+    "image": "https://image.xinu.ink/pic/data/1103/images/176-2.jpg",
+    "geo": [
+      35.906467,
+      139.625309
+    ]
+  },
+  {
+    "id": "176-3",
+    "name": "大宮区桜木町",
+    "image": "https://image.xinu.ink/pic/data/1103/images/176-3.jpg",
+    "geo": [
+      35.904953,
+      139.614298
+    ]
+  },
+  {
+    "id": "176-4",
+    "name": "大栄橋",
+    "image": "https://image.xinu.ink/pic/data/1103/images/176-4.jpg",
+    "geo": [
+      35.909017,
+      139.622849
+    ]
+  },
+  {
+    "id": "176-5",
+    "name": "JR御茶ノ水駅改札口",
+    "image": "https://image.xinu.ink/pic/data/1103/images/176-5.jpg",
+    "geo": [
+      35.699869,
+      139.763641
+    ]
+  },
+  {
+    "id": "176-6",
+    "name": "御茶ノ水橋",
+    "image": "https://image.xinu.ink/pic/data/1103/images/176-6.jpg",
+    "geo": [
+      35.700179,
+      139.763686
+    ]
+  },
+  {
+    "id": "176-7",
+    "name": "駅前交差点",
+    "image": "https://image.xinu.ink/pic/data/1103/images/176-7.jpg",
+    "geo": [
+      35.699758,
+      139.763209
+    ]
+  }
+]

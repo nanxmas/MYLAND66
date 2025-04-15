@@ -1,0 +1,74 @@
+[
+  {
+    "id": "126-1",
+    "name": "神戸大橋",
+    "image": "https://image.xinu.ink/pic/data/1059/images/126-1.jpg",
+    "geo": [
+      34.678376,
+      135.203609
+    ]
+  },
+  {
+    "id": "126-2",
+    "name": "ポートアイランド北公園",
+    "image": "https://image.xinu.ink/pic/data/1059/images/126-2.jpg",
+    "geo": [
+      34.677141,
+      135.204041
+    ]
+  },
+  {
+    "id": "126-3",
+    "name": "聖蹟桜ヶ丘駅西口",
+    "image": "https://image.xinu.ink/pic/data/1059/images/126-3.jpg",
+    "geo": [
+      35.650353,
+      139.446689
+    ]
+  },
+  {
+    "id": "126-4",
+    "name": "聖蹟桜ヶ丘駅西口歩道橋",
+    "image": "https://image.xinu.ink/pic/data/1059/images/126-4.jpg",
+    "geo": [
+      35.650176,
+      139.446909
+    ]
+  },
+  {
+    "id": "126-5",
+    "name": "さくら公園",
+    "image": "https://image.xinu.ink/pic/data/1059/images/126-5.jpg",
+    "geo": [
+      35.640705,
+      139.444243
+    ]
+  },
+  {
+    "id": "126-6",
+    "name": "成田空港第1ターミナルビル4Ｆ南ウイングロビー",
+    "image": "https://image.xinu.ink/pic/data/1059/images/126-6.jpg",
+    "geo": [
+      35.76309,
+      140.386342
+    ]
+  },
+  {
+    "id": "126-7",
+    "name": "成田空港第2ターミナル1Ｆ 国際線到着ロビー",
+    "image": "https://image.xinu.ink/pic/data/1059/images/126-7.jpg",
+    "geo": [
+      35.773606,
+      140.388273
+    ]
+  },
+  {
+    "id": "126-8",
+    "name": "聖蹟桜ヶ丘駅前交差点",
+    "image": "https://image.xinu.ink/pic/data/1059/images/126-8.jpg",
+    "geo": [
+      35.6501,
+      139.446689
+    ]
+  }
+]

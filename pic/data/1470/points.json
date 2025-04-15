@@ -1,0 +1,272 @@
+[
+  {
+    "id": "406-0",
+    "name": "第一話：京都コンサートホール",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-0.jpg",
+    "geo": [
+      35.0499278,
+      135.7666612
+    ]
+  },
+  {
+    "id": "406-1",
+    "name": "第一話：莵道高校",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-1.jpg",
+    "geo": [
+      34.9099712,
+      135.8161855
+    ]
+  },
+  {
+    "id": "406-2",
+    "name": "第一話：六地蔵駅前",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-2.jpg",
+    "geo": [
+      34.9321484,
+      135.793494
+    ]
+  },
+  {
+    "id": "406-3",
+    "name": "第一話：六地蔵駅",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-3.jpg",
+    "geo": [
+      34.9320165,
+      135.7933009
+    ]
+  },
+  {
+    "id": "406-4",
+    "name": "第一話：あじろぎの道",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-4.jpg",
+    "geo": [
+      34.8880431,
+      135.8094692
+    ]
+  },
+  {
+    "id": "406-5",
+    "name": "第一話：仏徳山",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-5.jpg",
+    "geo": [
+      34.89249610000001,
+      135.8136535
+    ]
+  },
+  {
+    "id": "406-6",
+    "name": "第一話：あじろぎの道付近ベンチ",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-6.jpg",
+    "geo": [
+      34.8881927,
+      135.8097106
+    ]
+  },
+  {
+    "id": "406-7",
+    "name": "第一話：府立宇治公園前交差点",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-7.jpg",
+    "geo": [
+      34.8879727,
+      135.8089006
+    ]
+  },
+  {
+    "id": "406-8",
+    "name": "第一話：宇治神社",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-8.jpg",
+    "geo": [
+      34.8910572,
+      135.8106923
+    ]
+  },
+  {
+    "id": "406-9",
+    "name": "第一話：府道７号線ガスト前",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-9.jpg",
+    "geo": [
+      34.8949116,
+      135.8082247
+    ]
+  },
+  {
+    "id": "406-10",
+    "name": "第一話：京阪宇治駅",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-10.jpg",
+    "geo": [
+      34.8945949,
+      135.8063418
+    ]
+  },
+  {
+    "id": "406-11",
+    "name": "OP：宇治橋西詰交差点",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-11.jpg",
+    "geo": [
+      34.8922981,
+      135.805403
+    ]
+  },
+  {
+    "id": "406-12",
+    "name": "OP：宇治橋西詰",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-12.jpg",
+    "geo": [
+      34.8924169,
+      135.8056819
+    ]
+  },
+  {
+    "id": "406-13",
+    "name": "OP:羽戸山緑地付近１",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-13.jpg",
+    "geo": [
+      34.9071447,
+      135.811159
+    ]
+  },
+  {
+    "id": "406-14",
+    "name": "OP：六地蔵駅付近鉄塔",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-14.jpg",
+    "geo": [
+      34.9315327,
+      135.7941806
+    ]
+  },
+  {
+    "id": "406-15",
+    "name": "OP：名古屋国際会議場センチュリーホール",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-15.jpg",
+    "geo": [
+      35.1315881,
+      136.898886
+    ]
+  },
+  {
+    "id": "406-16",
+    "name": "第二話：宇治橋",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-16.jpg",
+    "geo": [
+      34.8930505,
+      135.8063471
+    ]
+  },
+  {
+    "id": "406-17",
+    "name": "第二話：JR奈良線鉄橋",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-17.jpg",
+    "geo": [
+      34.8936137,
+      135.8055103
+    ]
+  },
+  {
+    "id": "406-18",
+    "name": "第二話：宇治御蔵山郵便局付近坂道",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-18.jpg",
+    "geo": [
+      34.9325882,
+      135.8049604
+    ]
+  },
+  {
+    "id": "406-19",
+    "name": "第二話：宇治御蔵山郵便局付近茶畑",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-19.jpg",
+    "geo": [
+      34.932586,
+      135.8039519
+    ]
+  },
+  {
+    "id": "406-20",
+    "name": "第二話：喜撰橋",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-20.jpg",
+    "geo": [
+      34.8881861,
+      135.8099359
+    ]
+  },
+  {
+    "id": "406-21",
+    "name": "第二話：セブンイレブン宇治黄檗公園店",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-21.jpg",
+    "geo": [
+      34.90826870000001,
+      135.8096623
+    ]
+  },
+  {
+    "id": "406-22",
+    "name": "第二話：羽戸山緑地付近２",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-22.jpg",
+    "geo": [
+      34.9072217,
+      135.8114004
+    ]
+  },
+  {
+    "id": "406-23",
+    "name": "第三話：マクドナルド宇治木幡店",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-23.jpg",
+    "geo": [
+      34.9266157,
+      135.799883
+    ]
+  },
+  {
+    "id": "406-24",
+    "name": "第三話：莵道高校付近公園",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-24.jpg",
+    "geo": [
+      34.9078084,
+      135.8148236
+    ]
+  },
+  {
+    "id": "406-25",
+    "name": "第四話：朝霧橋東詰",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-25.jpg",
+    "geo": [
+      34.890549,
+      135.8097965
+    ]
+  },
+  {
+    "id": "406-26",
+    "name": "第五話：京阪六地蔵付近鉄橋",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-26.jpg",
+    "geo": [
+      34.9316295,
+      135.7941484
+    ]
+  },
+  {
+    "id": "406-27",
+    "name": "第五話：京阪黄檗駅",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-27.jpg",
+    "geo": [
+      34.9143701,
+      135.80267790000002
+    ]
+  },
+  {
+    "id": "406-28",
+    "name": "第五話：宇治橋東詰",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-28.jpg",
+    "geo": [
+      34.8934025,
+      135.8070552
+    ]
+  },
+  {
+    "id": "406-29",
+    "name": "第五話：山城総合運動公園・陸上競技場",
+    "image": "https://image.xinu.ink/pic/data/1470/images/406-29.jpg",
+    "geo": [
+      34.871426,
+      135.806272
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "391-0",
+    "name": "新神戸駅前",
+    "image": "https://image.xinu.ink/pic/data/1300/images/391-0.jpg",
+    "geo": [
+      34.7064062,
+      135.1958764
+    ]
+  },
+  {
+    "id": "391-1",
+    "name": "新神戸駅 新幹線2番ホーム",
+    "image": "https://image.xinu.ink/pic/data/1300/images/391-1.jpg",
+    "geo": [
+      34.70621,
+      135.1949725
+    ]
+  },
+  {
+    "id": "391-2",
+    "name": "新布引橋",
+    "image": "https://image.xinu.ink/pic/data/1300/images/391-2.jpg",
+    "geo": [
+      34.7053082,
+      135.1965523
+    ]
+  }
+]

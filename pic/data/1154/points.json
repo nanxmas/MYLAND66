@@ -1,0 +1,83 @@
+[
+  {
+    "id": "232-1",
+    "name": "1.長崎駅",
+    "image": "https://image.xinu.ink/pic/data/1154/images/232-1.jpg",
+    "geo": [
+      32.752414,
+      129.871539
+    ]
+  },
+  {
+    "id": "232-2",
+    "name": "2.グラバー通り",
+    "image": "https://image.xinu.ink/pic/data/1154/images/232-2.jpg",
+    "geo": [
+      32.735399,
+      129.869951
+    ]
+  },
+  {
+    "id": "232-3",
+    "name": "3.路面電車大浦天主堂駅",
+    "image": "https://image.xinu.ink/pic/data/1154/images/232-3.jpg",
+    "geo": [
+      32.736259,
+      129.870844
+    ]
+  },
+  {
+    "id": "232-4",
+    "name": "4.稲佐山公園",
+    "image": "https://image.xinu.ink/pic/data/1154/images/232-4.jpg",
+    "geo": [
+      32.758416,
+      129.845706
+    ]
+  },
+  {
+    "id": "232-5",
+    "name": "5.稲佐山",
+    "image": "https://image.xinu.ink/pic/data/1154/images/232-5.jpg",
+    "geo": [
+      32.752673,
+      129.849531
+    ]
+  },
+  {
+    "id": "232-6",
+    "name": "6.川内峠",
+    "image": "https://image.xinu.ink/pic/data/1154/images/232-6.jpg",
+    "geo": [
+      33.347056,
+      129.531426
+    ]
+  },
+  {
+    "id": "232-7",
+    "name": "7.平戸ザビエル記念教会",
+    "image": "https://image.xinu.ink/pic/data/1154/images/232-7.jpg",
+    "geo": [
+      33.369666,
+      129.54959
+    ]
+  },
+  {
+    "id": "232-8",
+    "name": "8.大碆鼻灯台",
+    "image": "https://image.xinu.ink/pic/data/1154/images/232-8.jpg",
+    "geo": [
+      33.440318,
+      129.433697
+    ]
+  },
+  {
+    "id": "232-9",
+    "name": "9.御袖天満宮鳥居付近",
+    "image": "https://image.xinu.ink/pic/data/1154/images/232-9.jpg",
+    "geo": [
+      34.412763,
+      133.202228
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "424-0",
+    "name": "中央自動車道初狩PA（上り）",
+    "image": "https://image.xinu.ink/pic/data/1560/images/424-0.jpg",
+    "geo": [
+      35.6000963,
+      138.8840693
+    ]
+  },
+  {
+    "id": "424-1",
+    "name": "中央自動車道都留インターチェンジ付近",
+    "image": "https://image.xinu.ink/pic/data/1560/images/424-1.jpg",
+    "geo": [
+      35.5613869,
+      138.9070559
+    ]
+  },
+  {
+    "id": "424-2",
+    "name": "県道24号カーブ",
+    "image": "https://image.xinu.ink/pic/data/1560/images/424-2.jpg",
+    "geo": [
+      35.5119808,
+      138.9476913
+    ]
+  },
+  {
+    "id": "424-3",
+    "name": "道の駅 どうし",
+    "image": "https://image.xinu.ink/pic/data/1560/images/424-3.jpg",
+    "geo": [
+      35.5034622,
+      138.989448
+    ]
+  },
+  {
+    "id": "424-4",
+    "name": "椿大橋",
+    "image": "https://image.xinu.ink/pic/data/1560/images/424-4.jpg",
+    "geo": [
+      35.5346709,
+      139.0562779
+    ]
+  }
+]

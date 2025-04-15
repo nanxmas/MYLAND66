@@ -1,0 +1,74 @@
+[
+  {
+    "id": "276-1",
+    "name": "新宿 歌舞伎町一番街ゲート",
+    "image": "https://image.xinu.ink/pic/data/1192/images/276-1.jpg",
+    "geo": [
+      35.693849,
+      139.701035
+    ]
+  },
+  {
+    "id": "276-2",
+    "name": "レインボーブリッジ",
+    "image": "https://image.xinu.ink/pic/data/1192/images/276-2.jpg",
+    "geo": [
+      35.635709,
+      139.765921
+    ]
+  },
+  {
+    "id": "276-3",
+    "name": "新宿アイランド",
+    "image": "https://image.xinu.ink/pic/data/1192/images/276-3.jpg",
+    "geo": [
+      35.692881,
+      139.694161
+    ]
+  },
+  {
+    "id": "276-4",
+    "name": "警視庁",
+    "image": "https://image.xinu.ink/pic/data/1192/images/276-4.jpg",
+    "geo": [
+      35.677257,
+      139.752585
+    ]
+  },
+  {
+    "id": "276-5",
+    "name": "新宿東口駅前",
+    "image": "https://image.xinu.ink/pic/data/1192/images/276-5.jpg",
+    "geo": [
+      35.692062,
+      139.701051
+    ]
+  },
+  {
+    "id": "276-6",
+    "name": "新宿東口駅前交番",
+    "image": "https://image.xinu.ink/pic/data/1192/images/276-6.jpg",
+    "geo": [
+      35.691799,
+      139.701172
+    ]
+  },
+  {
+    "id": "276-7",
+    "name": "新宿高架下歩道",
+    "image": "https://image.xinu.ink/pic/data/1192/images/276-7.jpg",
+    "geo": [
+      35.692398,
+      139.700172
+    ]
+  },
+  {
+    "id": "276-8",
+    "name": "新宿西口",
+    "image": "https://image.xinu.ink/pic/data/1192/images/276-8.jpg",
+    "geo": [
+      35.692637,
+      139.699654
+    ]
+  }
+]

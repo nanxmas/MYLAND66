@@ -1,0 +1,74 @@
+[
+  {
+    "id": "210-1",
+    "name": "岩国飛行場",
+    "image": "https://image.xinu.ink/pic/data/1132/images/210-1.jpg",
+    "geo": [
+      34.147329,
+      132.235737
+    ]
+  },
+  {
+    "id": "210-2",
+    "name": "ＪＲ岩国駅",
+    "image": "https://image.xinu.ink/pic/data/1132/images/210-2.jpg",
+    "geo": [
+      34.171796,
+      132.225137
+    ]
+  },
+  {
+    "id": "210-3",
+    "name": "岩国駅前交差点",
+    "image": "https://image.xinu.ink/pic/data/1132/images/210-3.jpg",
+    "geo": [
+      34.172337,
+      132.223828
+    ]
+  },
+  {
+    "id": "210-4",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/1132/images/210-4.jpg",
+    "geo": [
+      34.166301,
+      132.222326
+    ]
+  },
+  {
+    "id": "210-5",
+    "name": "帝人工場",
+    "image": "https://image.xinu.ink/pic/data/1132/images/210-5.jpg",
+    "geo": [
+      34.168174,
+      132.234106
+    ]
+  },
+  {
+    "id": "210-6",
+    "name": "日本製紙工場",
+    "image": "https://image.xinu.ink/pic/data/1132/images/210-6.jpg",
+    "geo": [
+      34.175284,
+      132.236906
+    ]
+  },
+  {
+    "id": "210-7",
+    "name": "新連帆橋",
+    "image": "https://image.xinu.ink/pic/data/1132/images/210-7.jpg",
+    "geo": [
+      34.163381,
+      132.226725
+    ]
+  },
+  {
+    "id": "210-8",
+    "name": "錦帯橋",
+    "image": "https://image.xinu.ink/pic/data/1132/images/210-8.jpg",
+    "geo": [
+      34.167588,
+      132.178402
+    ]
+  }
+]

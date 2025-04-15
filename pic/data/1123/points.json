@@ -1,0 +1,47 @@
+[
+  {
+    "id": "199-1",
+    "name": "文学館入口交差点",
+    "image": "https://image.xinu.ink/pic/data/1123/images/199-1.jpg",
+    "geo": [
+      35.313322,
+      139.538668
+    ]
+  },
+  {
+    "id": "199-2",
+    "name": "鎌倉文学館",
+    "image": "https://image.xinu.ink/pic/data/1123/images/199-2.jpg",
+    "geo": [
+      35.314716,
+      139.539336
+    ]
+  },
+  {
+    "id": "199-3",
+    "name": "マリオンクレープ鎌倉店",
+    "image": "https://image.xinu.ink/pic/data/1123/images/199-3.jpg",
+    "geo": [
+      35.314274,
+      139.535098
+    ]
+  },
+  {
+    "id": "199-4",
+    "name": "山口バス停",
+    "image": "https://image.xinu.ink/pic/data/1123/images/199-4.jpg",
+    "geo": [
+      36.680558,
+      138.781944
+    ]
+  },
+  {
+    "id": "199-5",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/1123/images/199-5.jpg",
+    "geo": [
+      35.312718,
+      139.541087
+    ]
+  }
+]

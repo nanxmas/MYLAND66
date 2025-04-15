@@ -1,0 +1,74 @@
+[
+  {
+    "id": "360-1",
+    "name": "としまえん正門",
+    "image": "https://image.xinu.ink/pic/data/1270/images/360-1.jpg",
+    "geo": [
+      35.743199,
+      139.647469
+    ]
+  },
+  {
+    "id": "360-2",
+    "name": "としまえん サイクロン",
+    "image": "https://image.xinu.ink/pic/data/1270/images/360-2.jpg",
+    "geo": [
+      35.745668,
+      139.644937
+    ]
+  },
+  {
+    "id": "360-3",
+    "name": "としまえん お化け屋敷",
+    "image": "https://image.xinu.ink/pic/data/1270/images/360-3.jpg",
+    "geo": [
+      35.746469,
+      139.644358
+    ]
+  },
+  {
+    "id": "360-4",
+    "name": "としまえん オートスクーター",
+    "image": "https://image.xinu.ink/pic/data/1270/images/360-4.jpg",
+    "geo": [
+      35.746486,
+      139.645849
+    ]
+  },
+  {
+    "id": "360-5",
+    "name": "としまえん カルーセルエルドラド",
+    "image": "https://image.xinu.ink/pic/data/1270/images/360-5.jpg",
+    "geo": [
+      35.745389,
+      139.646187
+    ]
+  },
+  {
+    "id": "360-6",
+    "name": "帝国ホテル",
+    "image": "https://image.xinu.ink/pic/data/1270/images/360-6.jpg",
+    "geo": [
+      35.672611,
+      139.757638
+    ]
+  },
+  {
+    "id": "360-7",
+    "name": "東急東横線 田園調布駅",
+    "image": "https://image.xinu.ink/pic/data/1270/images/360-7.jpg",
+    "geo": [
+      35.597137,
+      139.667376
+    ]
+  },
+  {
+    "id": "360-8",
+    "name": "千葉県国際総合水泳場",
+    "image": "https://image.xinu.ink/pic/data/1270/images/360-8.jpg",
+    "geo": [
+      35.667111,
+      140.011761
+    ]
+  }
+]

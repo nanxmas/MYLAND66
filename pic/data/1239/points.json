@@ -1,0 +1,38 @@
+[
+  {
+    "id": "329-1",
+    "name": "大阪城",
+    "image": "https://image.xinu.ink/pic/data/1239/images/329-1.jpg",
+    "geo": [
+      34.686987,
+      135.523328
+    ]
+  },
+  {
+    "id": "329-2",
+    "name": "神戸ハーバーランド",
+    "image": "https://image.xinu.ink/pic/data/1239/images/329-2.jpg",
+    "geo": [
+      34.679973,
+      135.184996
+    ]
+  },
+  {
+    "id": "329-3",
+    "name": "原爆ドーム",
+    "image": "https://image.xinu.ink/pic/data/1239/images/329-3.jpg",
+    "geo": [
+      34.39549,
+      132.454258
+    ]
+  },
+  {
+    "id": "329-5",
+    "name": "首里城",
+    "image": "https://image.xinu.ink/pic/data/1239/images/329-5.jpg",
+    "geo": [
+      26.216997,
+      127.719174
+    ]
+  }
+]

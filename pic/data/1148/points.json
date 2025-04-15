@@ -1,0 +1,56 @@
+[
+  {
+    "id": "226-1",
+    "name": "1.所沢駅前",
+    "image": "https://image.xinu.ink/pic/data/1148/images/226-1.jpg",
+    "geo": [
+      35.786834,
+      139.47264
+    ]
+  },
+  {
+    "id": "226-2",
+    "name": "2.所沢駅前歩道橋",
+    "image": "https://image.xinu.ink/pic/data/1148/images/226-2.jpg",
+    "geo": [
+      35.786651,
+      139.472219
+    ]
+  },
+  {
+    "id": "226-3",
+    "name": "3.ゲームセンター",
+    "image": "https://image.xinu.ink/pic/data/1148/images/226-3.jpg",
+    "geo": [
+      35.788381,
+      139.471698
+    ]
+  },
+  {
+    "id": "226-4",
+    "name": "4.所沢市市民医療センター",
+    "image": "https://image.xinu.ink/pic/data/1148/images/226-4.jpg",
+    "geo": [
+      35.792651,
+      139.480606
+    ]
+  },
+  {
+    "id": "226-5",
+    "name": "5.南山公園",
+    "image": "https://image.xinu.ink/pic/data/1148/images/226-5.jpg",
+    "geo": [
+      35.792738,
+      139.481073
+    ]
+  },
+  {
+    "id": "226-6",
+    "name": "6.南山公園",
+    "image": "https://image.xinu.ink/pic/data/1148/images/226-6.jpg",
+    "geo": [
+      35.792469,
+      139.480748
+    ]
+  }
+]

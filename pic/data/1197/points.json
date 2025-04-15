@@ -1,0 +1,29 @@
+[
+  {
+    "id": "282-1",
+    "name": "新宿大ガード東",
+    "image": "https://image.xinu.ink/pic/data/1197/images/282-1.jpg",
+    "geo": [
+      35.693938,
+      139.700652
+    ]
+  },
+  {
+    "id": "282-2",
+    "name": "JR秋葉原駅前 南側通路",
+    "image": "https://image.xinu.ink/pic/data/1197/images/282-2.jpg",
+    "geo": [
+      35.698192,
+      139.771792
+    ]
+  },
+  {
+    "id": "282-3",
+    "name": "渋谷ハチ公前 スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/1197/images/282-3.jpg",
+    "geo": [
+      35.659297,
+      139.700684
+    ]
+  }
+]

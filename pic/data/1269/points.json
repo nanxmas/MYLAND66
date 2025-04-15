@@ -1,0 +1,83 @@
+[
+  {
+    "id": "359-1",
+    "name": "改札",
+    "image": "https://image.xinu.ink/pic/data/1269/images/359-1.jpg",
+    "geo": [
+      35.655668,
+      139.338862
+    ]
+  },
+  {
+    "id": "359-2",
+    "name": "交差点",
+    "image": "https://image.xinu.ink/pic/data/1269/images/359-2.jpg",
+    "geo": [
+      35.657022,
+      139.338259
+    ]
+  },
+  {
+    "id": "359-3",
+    "name": "南口",
+    "image": "https://image.xinu.ink/pic/data/1269/images/359-3.jpg",
+    "geo": [
+      35.65438,
+      139.338342
+    ]
+  },
+  {
+    "id": "359-4",
+    "name": "エクセシオール・カフェ",
+    "image": "https://image.xinu.ink/pic/data/1269/images/359-4.jpg",
+    "geo": [
+      35.656241,
+      139.339149
+    ]
+  },
+  {
+    "id": "359-6",
+    "name": "西浦和高校・門",
+    "image": "https://image.xinu.ink/pic/data/1269/images/359-6.jpg",
+    "geo": [
+      35.889493,
+      139.652689
+    ]
+  },
+  {
+    "id": "359-7",
+    "name": "文志堂文具店",
+    "image": "https://image.xinu.ink/pic/data/1269/images/359-7.jpg",
+    "geo": [
+      35.884521,
+      139.643773
+    ]
+  },
+  {
+    "id": "359-8",
+    "name": "６～８番バス乗り場",
+    "image": "https://image.xinu.ink/pic/data/1269/images/359-8.jpg",
+    "geo": [
+      35.656651,
+      139.338991
+    ]
+  },
+  {
+    "id": "359-9",
+    "name": "八王子南口交差点",
+    "image": "https://image.xinu.ink/pic/data/1269/images/359-9.jpg",
+    "geo": [
+      35.654032,
+      139.338315
+    ]
+  },
+  {
+    "id": "359-10",
+    "name": "南口",
+    "image": "https://image.xinu.ink/pic/data/1269/images/359-10.jpg",
+    "geo": [
+      35.654454,
+      139.338199
+    ]
+  }
+]
