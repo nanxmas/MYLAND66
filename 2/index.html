@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>动漫圣地巡礼地图</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="nearby-covers.css">
+</head>
+<body>
+  <div class="container-fluid p-0">
+    <div class="row g-0">
+      <!-- 侧边栏 - 分为左侧图标导航和右侧内容区域 -->
+      <div id="sidebar" class="col-md-3 col-lg-2 sidebar glass-effect">
+        <!-- 左侧图标导航 -->
+        <div class="sidebar-nav">
+          <div class="nav-item active" id="anime-nav" data-target="anime-panel">
+            <i class="bi bi-film"></i>
+            <span>番剧</span>
+          </div>
+          <div class="nav-item" id="guide-nav" data-target="guide-panel">
+            <i class="bi bi-map"></i>
+            <span>指南</span>
+          </div>
+          <div class="nav-item" id="settings-nav" data-target="settings-panel">
+            <i class="bi bi-gear"></i>
+            <span>设置</span>
+          </div>
+        </div>
+
+        <!-- 右侧内容区域 -->
+        <div class="sidebar-content">
+          <h3 class="text-center mb-3">动漫圣地巡礼</h3>
+          <div class="search-container mb-3">
+            <div class="input-group">
+              <input type="text" id="search-input" class="form-control glass-input" placeholder="搜索番剧、地点...">
+              <button class="btn btn-primary" id="search-button">
+                <i class="bi bi-search"></i>
+              </button>
+            </div>
+          </div>
+
+          <div class="content-panels">
+            <!-- 番剧列表面板 -->
+            <div class="content-panel active" id="anime-panel">
+              <div class="anime-list-container">
+                <div id="anime-list" class="list-group overflow-auto"></div>
+              </div>
+            </div>
+
+            <!-- 指南列表面板 -->
+            <div class="content-panel" id="guide-panel">
+              <div class="d-flex justify-content-between align-items-center mb-3">
+                <h5 class="m-0">我的指南</h5>
+                <button id="create-guide-btn" class="btn btn-sm btn-primary">
+                  <i class="bi bi-plus-lg"></i> 新建
+                </button>
+              </div>
+              <div class="guide-list-container">
+                <div id="guide-list" class="list-group overflow-auto"></div>
+              </div>
+            </div>
+
+            <!-- 设置面板 -->
+            <div class="content-panel" id="settings-panel">
+              <h5 class="mb-3">API设置</h5>
+              <div class="mb-3">
+                <label for="api-base-url-select" class="form-label">API基础地址</label>
+                <select class="form-select mb-2" id="api-base-url-select">
+                  <option value="mirror">Mirror接口 (默认)</option>
+                  <option value="xinu">XINU接口</option>
+                  <option value="mcdn">MCDN接口</option>
+                  <option value="custom">自定义接口</option>
+                </select>
+                <div id="custom-api-input" class="d-none">
+                  <input type="text" class="form-control" id="api-base-url" placeholder="请输入自定义API地址">
+                </div>
+                <div class="form-text">设置数据API的基础URL，所有API请求将使用此地址。</div>
+                <button class="btn btn-outline-info mt-2" id="test-api-btn">
+                  <i class="bi bi-speedometer2"></i> 连通测试
+                </button>
+              </div>
+              <div class="d-grid gap-2">
+                <button class="btn btn-primary" id="save-settings-btn">保存设置</button>
+                <button class="btn btn-outline-secondary" id="reset-settings-btn">恢复默认</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 主内容区 -->
+      <div class="col-md-9 col-lg-10 main-content">
+        <!-- 地图容器 -->
+        <div id="map"></div>
+
+        <!-- 信息卡片 -->
+        <div id="info-card" class="card info-card d-none">
+          <button type="button" class="btn-close" id="close-info"></button>
+          <div class="card-body">
+            <div class="row">
+              <div class="col-md-6">
+                <img id="point-image" src="" alt="地点图片" class="img-fluid rounded mb-2" title="点击查看大图">
+              </div>
+              <div class="col-md-6">
+                <h5 id="point-name" class="card-title"></h5>
+                <p id="anime-name" class="card-text"></p>
+                <p id="episode-info" class="card-text"></p>
+                <div class="map-links">
+                  <a id="google-maps-link" href="#" target="_blank" class="btn btn-sm btn-outline-primary mb-1">
+                    <i class="bi bi-google"></i> Google地图
+                  </a>
+                  <a id="google-streetview-link" href="#" target="_blank" class="btn btn-sm btn-outline-primary mb-1">
+                    <i class="bi bi-street-view"></i> 街景
+                  </a>
+                  <a id="apple-maps-link" href="#" target="_blank" class="btn btn-sm btn-outline-primary mb-1">
+                    <i class="bi bi-apple"></i> 苹果地图
+                  </a>
+                  <a id="trace-moe-link" href="#" target="_blank" class="btn btn-sm btn-outline-secondary mb-1 d-none">
+                    <i class="bi bi-search"></i> 查找截图出处
+                  </a>
+                  <button id="add-to-guide-btn" class="btn btn-sm btn-outline-success mb-1">
+                    <i class="bi bi-bookmark-plus"></i> 添加到指南
+                  </button>
+                  <a id="compare-link" href="#" target="_blank" class="btn btn-sm btn-outline-info mb-1 d-none">
+                    <i class="bi bi-images"></i> 对比图
+                  </a>
+                  <button id="toggle-comments-btn" class="btn btn-sm btn-outline-primary mb-1">
+                    <i class="bi bi-chat-dots"></i> 评论
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div id="comments-container" class="comments-container mt-3 d-none">
+              <div class="giscus"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 模式切换按钮 - 恢复指南按钮 -->
+        <div class="map-controls">
+          <button id="mode-all" class="btn btn-primary active">全部</button>
+          <button id="mode-single" class="btn btn-outline-primary">单番剧</button>
+          <button id="mode-guide" class="btn btn-outline-primary">指南</button>
+        </div>
+
+        <!-- L2D站娘容器 -->
+        <div id="l2d-container" class="l2d-container d-none">
+          <div class="l2d-canvas-container">
+            <!-- L2D模型将在这里渲染 -->
+          </div>
+          <div class="l2d-chat">
+            <div id="l2d-messages" class="l2d-messages"></div>
+            <div class="l2d-input-container">
+              <input type="text" id="l2d-input" class="form-control" placeholder="问我有关巡礼的问题...">
+              <button id="l2d-send-btn" class="btn btn-primary">
+                <i class="bi bi-send"></i>
+              </button>
+            </div>
+          </div>
+          <button id="l2d-toggle-btn" class="btn btn-primary l2d-toggle-btn">
+            <i class="bi bi-robot"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 移动端底部导航栏 -->
+  <div class="mobile-nav glass-effect">
+    <div class="mobile-nav-item active" data-target="anime-panel">
+      <i class="bi bi-film"></i>
+      <span>番剧</span>
+    </div>
+    <div class="mobile-nav-item" data-target="guide-panel">
+      <i class="bi bi-map"></i>
+      <span>指南</span>
+    </div>
+    <div class="mobile-nav-item" data-target="settings-panel">
+      <i class="bi bi-gear"></i>
+      <span>设置</span>
+    </div>
+  </div>
+
+  <!-- 移动端抽屉组件 -->
+  <div class="mobile-drawer" id="mobile-drawer">
+    <div class="mobile-drawer-handle" id="drawer-handle"></div>
+    <div class="mobile-drawer-search">
+      <div class="input-group">
+        <input type="text" id="mobile-search-input" class="form-control glass-input" placeholder="搜索番剧、地点...">
+        <button class="btn btn-primary" id="mobile-search-button">
+          <i class="bi bi-search"></i>
+        </button>
+      </div>
+    </div>
+    <div class="mobile-drawer-content">
+      <div id="mobile-anime-list" class="list-group overflow-auto"></div>
+    </div>
+  </div>
+
+  <!-- 移动端模式切换按钮 -->
+  <div class="mobile-mode-controls glass-effect">
+    <button id="mobile-mode-all" class="btn btn-primary active">全部</button>
+    <button id="mobile-mode-single" class="btn btn-outline-primary">单番剧</button>
+    <button id="mobile-mode-guide" class="btn btn-outline-primary">指南</button>
+  </div>
+
+  <!-- 移动端菜单按钮 (保留但默认隐藏) -->
+  <button id="toggle-sidebar" class="btn btn-primary mobile-toggle d-none">
+    <i class="bi bi-list"></i>
+  </button>
+
+  <!-- 创建指南模态框 -->
+  <div class="modal fade" id="create-guide-modal" tabindex="-1" aria-labelledby="create-guide-modal-label" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="create-guide-modal-label">创建新指南</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <form id="create-guide-form">
+            <div class="mb-3">
+              <label for="guide-name" class="form-label">指南名称</label>
+              <input type="text" class="form-control" id="guide-name" placeholder="例如：东京三日游" required>
+            </div>
+            <div class="mb-3">
+              <label for="guide-description" class="form-label">指南描述</label>
+              <textarea class="form-control" id="guide-description" rows="3" placeholder="添加对这个指南的简短描述..."></textarea>
+            </div>
+            <div class="mb-3">
+              <label for="guide-color" class="form-label">主题色</label>
+              <input type="color" class="form-control form-control-color" id="guide-color" value="#F8BBD0">
+            </div>
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">取消</button>
+          <button type="button" class="btn btn-primary" id="save-guide-btn">创建</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 添加到指南模态框 -->
+  <div class="modal fade" id="add-to-guide-modal" tabindex="-1" aria-labelledby="add-to-guide-modal-label" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="add-to-guide-modal-label">添加到指南</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div id="guide-selection-list" class="list-group">
+            <!-- 这里将动态填充用户的指南列表 -->
+          </div>
+          <div class="mt-3">
+            <button id="new-guide-for-point-btn" class="btn btn-sm btn-primary">
+              <i class="bi bi-plus-lg"></i> 创建新指南
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 指南详情模态框 -->
+  <div class="modal fade" id="guide-details-modal" tabindex="-1" aria-labelledby="guide-details-modal-label" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="guide-details-modal-label">指南详情</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="row mb-3">
+            <div class="col-md-8">
+              <h4 id="guide-detail-name"></h4>
+              <p id="guide-detail-description" class="text-muted"></p>
+            </div>
+            <div class="col-md-4 text-end">
+              <button id="share-guide-btn" class="btn btn-sm btn-outline-primary">
+                <i class="bi bi-share"></i> 分享
+              </button>
+              <button id="edit-guide-btn" class="btn btn-sm btn-outline-secondary">
+                <i class="bi bi-pencil"></i> 编辑
+              </button>
+              <button id="delete-guide-btn" class="btn btn-sm btn-outline-danger">
+                <i class="bi bi-trash"></i> 删除
+              </button>
+            </div>
+          </div>
+          <hr>
+          <h6>包含的巡礼点 (<span id="guide-points-count">0</span>)</h6>
+          <div id="guide-points-list" class="list-group guide-points-list">
+            <!-- 这里将动态填充指南中的巡礼点 -->
+          </div>
+          <div id="guide-empty-message" class="text-center p-3 d-none">
+            <i class="bi bi-bookmark text-muted fs-4"></i>
+            <p class="text-muted">该指南暂无巡礼点，请在地图上选择巡礼点并添加到此指南</p>
+          </div>
+          <hr>
+          <div class="d-flex justify-content-between align-items-center">
+            <button id="plan-guide-btn" class="btn btn-primary">
+              <i class="bi bi-robot"></i> 使用AI规划行程
+            </button>
+            <button id="optimize-route-btn" class="btn btn-outline-success">
+              <i class="bi bi-map"></i> 优化路线
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 分享指南模态框 -->
+  <div class="modal fade" id="share-guide-modal" tabindex="-1" aria-labelledby="share-guide-modal-label" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="share-guide-modal-label">分享指南</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <p>复制以下链接分享给朋友：</p>
+          <div class="input-group mb-3">
+            <input type="text" id="share-link-input" class="form-control" readonly>
+            <button class="btn btn-outline-primary" type="button" id="copy-link-btn">复制</button>
+          </div>
+          <div class="mt-3">
+            <p>或使用二维码分享：</p>
+            <div id="qrcode-container" class="text-center"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 编辑指南模态框 -->
+  <div class="modal fade" id="edit-guide-modal" tabindex="-1" aria-labelledby="edit-guide-modal-label" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="edit-guide-modal-label">编辑指南</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <form id="edit-guide-form">
+            <div class="mb-3">
+              <label for="edit-guide-name" class="form-label">指南名称</label>
+              <input type="text" class="form-control" id="edit-guide-name" required>
+            </div>
+            <div class="mb-3">
+              <label for="edit-guide-description" class="form-label">指南描述</label>
+              <textarea class="form-control" id="edit-guide-description" rows="3"></textarea>
+            </div>
+            <div class="mb-3">
+              <label for="edit-guide-color" class="form-label">主题色</label>
+              <input type="color" class="form-control form-control-color" id="edit-guide-color">
+            </div>
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">取消</button>
+          <button type="button" class="btn btn-primary" id="update-guide-btn">保存更改</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 导入指南模态框 -->
+  <div class="modal fade" id="import-guide-modal" tabindex="-1" aria-labelledby="import-guide-modal-label" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="import-guide-modal-label">导入指南</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div id="import-guide-container"></div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">取消</button>
+          <button type="button" class="btn btn-primary" id="confirm-import-guide-btn">导入</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 图片查看模态框 -->
+  <div class="modal fade image-viewer-modal" id="image-viewer-modal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        <div class="modal-body">
+          <img id="fullsize-image" src="" alt="巡礼点大图">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- API测试模态框 -->
+  <div class="modal fade" id="api-test-modal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">API节点连通测试</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="d-flex justify-content-between mb-3">
+            <div>测试中，请稍候...（最长可能需要 30 秒）</div>
+            <div class="text-end">
+              <span class="badge bg-info">测试中</span>
+              <span class="badge bg-success d-none">测试完成</span>
+            </div>
+          </div>
+          <div class="progress mb-3">
+            <div id="api-test-progress" class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 0%"></div>
+          </div>
+          <div class="table-responsive">
+            <table class="table table-bordered">
+              <thead>
+                <tr>
+                  <th>API节点</th>
+                  <th>状态</th>
+                  <th>响应时间</th>
+                  <th>操作</th>
+                </tr>
+              </thead>
+              <tbody id="api-test-results">
+                <!-- 测试结果将在这里动态添加 -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">关闭</button>
+          <button type="button" class="btn btn-primary" id="retest-api-btn">重新测试</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+  <script src="https://fastly.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
+  <script src="https://fastly.jsdelivr.net/npm/qrcode@1.5.0/build/qrcode.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+  <script src="https://cubism.live2d.com/sdk-web/cubismcore/live2dcubismcore.min.js"></script>
+  <script src="https://fastly.jsdelivr.net/gh/dylanNew/live2d/js/live2d.min.js"></script>
+  <script src="comments.js"></script>
+  <script src="nearby-covers.js"></script>
+  <script src="script.js"></script>
+  <script src="mobile.js"></script>
+</body>
+</html>
