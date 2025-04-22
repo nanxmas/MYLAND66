@@ -1,0 +1,221 @@
+/* 滑动操作菜单样式 */
+:root {
+  --swipe-action-width: 200px; /* 滑动菜单总宽度 - 增加宽度确保所有按钮都能显示 */
+  --swipe-transition-speed: 0.3s; /* 滑动过渡动画速度 */
+}
+
+/* 滑动容器 */
+.swipe-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  touch-action: pan-y;
+  border-radius: inherit;
+  -webkit-user-select: none; /* 防止文本选中 */
+  user-select: none;
+  transform: translateZ(0); /* 启用GPU加速 */
+  -webkit-transform: translateZ(0);
+  backface-visibility: hidden; /* 减少渲染问题 */
+  -webkit-backface-visibility: hidden;
+  perspective: 1000; /* 减少渲染问题 */
+  -webkit-perspective: 1000;
+}
+
+/* 滑动内容 */
+.swipe-content {
+  position: relative;
+  width: 100%;
+  transition: transform var(--swipe-transition-speed) cubic-bezier(0.2, 0.8, 0.2, 1);
+  z-index: 2;
+  background: inherit;
+  border-radius: inherit;
+  display: flex;
+  align-items: center;
+  will-change: transform; /* 提示浏览器这个属性将会变化，优化性能 */
+  transform: translateZ(0); /* 启用GPU加速 */
+  -webkit-transform: translateZ(0);
+  backface-visibility: hidden; /* 减少渲染问题 */
+  -webkit-backface-visibility: hidden;
+}
+
+/* 滑动操作菜单 */
+.swipe-actions {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: var(--swipe-action-width);
+  display: flex;
+  align-items: stretch;
+  z-index: 1;
+  transform: translateX(100%); /* 默认隐藏在右侧 */
+  transition: transform var(--swipe-transition-speed) cubic-bezier(0.2, 0.8, 0.2, 1);
+  will-change: transform; /* 提示浏览器这个属性将会变化，优化性能 */
+  backface-visibility: hidden; /* 减少渲染问题 */
+  -webkit-backface-visibility: hidden;
+  -webkit-transform: translateX(100%);
+}
+
+/* 滑动操作按钮 */
+.swipe-action-btn {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  padding: 0;
+  font-size: 1.1rem;
+  min-width: 60px; /* 确保按钮有最小宽度 */
+  position: relative; /* 使子元素定位相对于按钮 */
+  overflow: hidden; /* 防止内容溢出 */
+}
+
+.swipe-action-btn:hover {
+  opacity: 0.9;
+}
+
+.swipe-action-btn:active {
+  opacity: 0.7;
+}
+
+/* 按钮颜色 */
+.swipe-action-btn.action-guide {
+  background-color: #4CAF50; /* 绿色 - 添加到指南 */
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.swipe-action-btn.action-compare {
+  background-color: #2196F3; /* 蓝色 - 对比图 */
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.swipe-action-btn.action-apple-maps {
+  background-color: #FF5722; /* 橙色 - 苹果地图 */
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* 按钮图标 */
+.swipe-action-btn i {
+  font-size: 1.3rem;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+/* 右键菜单样式 (桌面版) */
+.context-menu {
+  position: fixed;
+  z-index: 10000;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  animation: fadeIn 0.2s ease;
+}
+
+.context-menu-item {
+  padding: 10px 15px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.context-menu-item:hover {
+  background-color: #f5f5f5;
+}
+
+.context-menu-item i {
+  margin-right: 8px;
+  width: 20px;
+  text-align: center;
+}
+
+/* 移动端滑动提示 */
+.swipe-hint {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  padding: 4px 10px;
+  color: var(--primary-color);
+  font-size: 0.85rem;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+  z-index: 3; /* 确保提示显示在最上层 */
+  background-color: rgba(255, 255, 255, 0.9); /* 半透明背景 */
+  border-radius: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.swipe-hint i {
+  animation: swipeLeftHint 1.5s infinite;
+}
+
+@keyframes swipeLeftHint {
+  0%, 100% { transform: translateX(0); }
+  50% { transform: translateX(-5px); }
+}
+
+/* 显示滑动提示的条件 - 只在移动端抽屉中显示 */
+#mobile-drawer .point-item:nth-child(1) .swipe-hint,
+#mobile-drawer .point-item:nth-child(2) .swipe-hint {
+  opacity: 0.9;
+}
+
+/* 当鼠标悬停在移动端抽屉的列表项上时显示滑动提示 */
+#mobile-drawer .point-item:hover .swipe-hint {
+  opacity: 0.9;
+}
+
+/* 电脑版侧边栏不显示滑动提示 */
+#sidebar .swipe-hint {
+  display: none;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+  :root {
+    --swipe-action-width: 180px; /* 移动端滑动菜单宽度 - 保持足够宽度 */
+  }
+
+  .swipe-action-btn {
+    font-size: 1rem;
+    min-width: 50px; /* 确保移动端按钮有足够的宽度 */
+    padding: 0 5px; /* 添加内边距确保按钮不会过于拥挤 */
+  }
+}
+
+/* 小屏幕设备的额外调整 */
+@media (max-width: 375px) {
+  :root {
+    --swipe-action-width: 160px; /* 小屏幕设备的滑动菜单宽度 */
+  }
+
+  .swipe-action-btn {
+    min-width: 45px; /* 调整按钮最小宽度 */
+    font-size: 0.9rem; /* 缩小字体 */
+  }
+}
+
+/* 移动端抽屉中的滑动菜单特殊样式 */
+#mobile-drawer .swipe-actions {
+  width: var(--swipe-action-width);
+  display: flex;
+  justify-content: space-between; /* 均匀分布按钮 */
+}
+
+#mobile-drawer .swipe-action-btn {
+  flex: 1;
+  min-width: 0; /* 重置最小宽度，使用flex布局 */
+  padding: 0 2px; /* 减小内边距 */
+}
+
+#mobile-drawer .swipe-action-btn i {
+  font-size: 1.2rem; /* 稍微增大图标以提高可见度 */
+}

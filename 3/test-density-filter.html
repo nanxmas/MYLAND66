@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>密度过滤测试</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+  <style>
+    body {
+      padding: 0;
+      margin: 0;
+    }
+    #map {
+      width: 100%;
+      height: 80vh;
+    }
+    .control-panel {
+      padding: 15px;
+      background-color: #f8f9fa;
+    }
+    .stats {
+      margin-top: 10px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <div class="control-panel">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <h5>密度过滤测试</h5>
+          <div class="form-check form-switch mb-2">
+            <input class="form-check-input" type="checkbox" id="density-filter-switch" checked>
+            <label class="form-check-label" for="density-filter-switch">启用密度过滤</label>
+          </div>
+          <div class="mb-3">
+            <label for="density-filter-intensity" class="form-label">过滤强度: <span id="intensity-value">50%</span></label>
+            <input type="range" class="form-range" id="density-filter-intensity" min="0" max="100" step="5" value="50">
+          </div>
+          <button id="generate-points" class="btn btn-primary">生成随机点</button>
+          <button id="refresh-points" class="btn btn-secondary">刷新显示</button>
+        </div>
+        <div class="col-md-6">
+          <div class="stats">
+            <p>缩放级别: <span id="zoom-level">-</span></p>
+            <p>总点数: <span id="total-points">0</span></p>
+            <p>显示点数: <span id="visible-points">0</span></p>
+            <p>过滤率: <span id="filter-rate">0%</span></p>
+            <p>网格大小: <span id="grid-size">-</span>px</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+  <script>
+    // 全局变量
+    let map;
+    let markers = [];
+    let points = [];
+    let markerDensityFilterEnabled = true;
+    let markerDensityFilterIntensity = 50;
+    let gridSize = 50;
+
+    // 初始化地图
+    function initMap() {
+      map = L.map('map').setView([35.6762, 139.6503], 6);
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+      }).addTo(map);
+
+      // 监听地图事件
+      map.on('zoomend', updateMarkers);
+      map.on('moveend', updateMarkers);
+
+      // 更新缩放级别显示
+      map.on('zoom', function() {
+        document.getElementById('zoom-level').textContent = map.getZoom();
+      });
+      document.getElementById('zoom-level').textContent = map.getZoom();
+    }
+
+    // 生成随机点
+    function generateRandomPoints(count = 1000) {
+      // 清除现有点
+      clearMarkers();
+      points = [];
+
+      // 日本区域的大致边界
+      const bounds = {
+        north: 45.5,
+        south: 31.0,
+        east: 146.0,
+        west: 129.5
+      };
+
+      // 生成随机点
+      for (let i = 0; i < count; i++) {
+        const lat = bounds.south + Math.random() * (bounds.north - bounds.south);
+        const lng = bounds.west + Math.random() * (bounds.east - bounds.west);
+
+        points.push({
+          id: i,
+          geo: [lat, lng],
+          color: getRandomColor()
+        });
+      }
+
+      // 更新统计信息
+      document.getElementById('total-points').textContent = points.length;
+
+      // 显示点
+      updateMarkers();
+    }
+
+    // 获取随机颜色
+    function getRandomColor() {
+      const letters = '0123456789ABCDEF';
+      let color = '#';
+      for (let i = 0; i < 6; i++) {
+        color += letters[Math.floor(Math.random() * 16)];
+      }
+      return color;
+    }
+
+    // 清除所有标记点
+    function clearMarkers() {
+      markers.forEach(marker => {
+        map.removeLayer(marker);
+      });
+      markers = [];
+    }
+
+    // 更新标记点显示
+    function updateMarkers() {
+      // 清除现有标记点
+      clearMarkers();
+
+      // 如果没有点，直接返回
+      if (points.length === 0) return;
+
+      // 获取当前地图可视区域和缩放级别
+      const bounds = map.getBounds();
+      const zoom = map.getZoom();
+
+      // 更新网格大小
+      updateGridSize();
+      document.getElementById('grid-size').textContent = gridSize.toFixed(1);
+
+      // 应用密度过滤
+      let pointsToShow = points;
+      if (markerDensityFilterEnabled) {
+        pointsToShow = applyDensityFilter(points, zoom);
+      }
+
+      // 添加标记点
+      pointsToShow.forEach(point => {
+        if (bounds.contains(point.geo)) {
+          const marker = addMarker(point);
+          markers.push(marker);
+        }
+      });
+
+      // 更新统计信息
+      document.getElementById('visible-points').textContent = markers.length;
+      const filterRate = points.length > 0 ? 100 - (markers.length / points.length * 100) : 0;
+      document.getElementById('filter-rate').textContent = filterRate.toFixed(1) + '%';
+    }
+
+    // 添加单个标记点
+    function addMarker(point) {
+      const [lat, lng] = point.geo;
+
+      // 创建标记点
+      const icon = L.divIcon({
+        className: 'custom-marker',
+        html: `<div style="width: 8px; height: 8px; background-color: ${point.color}; border-radius: 50%; border: 1px solid white;"></div>`,
+        iconSize: [8, 8],
+        iconAnchor: [4, 4]
+      });
+
+      const marker = L.marker([lat, lng], { icon }).addTo(map);
+
+      return marker;
+    }
+
+    // 更新网格大小
+    function updateGridSize() {
+      // 网格大小范围：20px（最低强度）到 100px（最高强度）
+      // 强度越高，网格越大，显示的点越少
+      gridSize = 20 + markerDensityFilterIntensity * 0.8;
+      if (gridSize < 20) gridSize = 20;
+      if (gridSize > 100) gridSize = 100;
+    }
+
+    // 应用密度过滤算法
+    function applyDensityFilter(points, zoom) {
+      // 如果功能被禁用或缩放级别足够大，返回所有点
+      if (!markerDensityFilterEnabled || zoom >= 15) {
+        return points;
+      }
+
+      // 根据缩放级别调整过滤强度
+      // 缩放级别越小，过滤越强
+      const zoomFactor = Math.max(0, (zoom - 6) / 9); // 6-15级缩放范围内线性调整
+
+      // 随着缩放级别增加，减小网格大小，显示更多点
+      // 当缩放级别足够大时，网格变小，显示更多点
+      const effectiveGridSize = gridSize * (1 - zoomFactor * 0.8);
+
+      // 创建网格
+      const grid = {};
+      const filteredPoints = [];
+
+      // 将点分配到网格
+      points.forEach(point => {
+        if (!point.geo || point.geo.length !== 2) return;
+
+        // 将地理坐标转换为像素坐标
+        const pixelPoint = map.latLngToContainerPoint([point.geo[0], point.geo[1]]);
+        const gridX = Math.floor(pixelPoint.x / effectiveGridSize);
+        const gridY = Math.floor(pixelPoint.y / effectiveGridSize);
+        const gridKey = `${gridX},${gridY}`;
+
+        // 如果网格中还没有点，添加这个点
+        if (!grid[gridKey]) {
+          grid[gridKey] = true;
+          filteredPoints.push(point);
+        }
+      });
+
+      console.log(`密度过滤: ${points.length} 个点减少到 ${filteredPoints.length} 个点 (${Math.round(filteredPoints.length / points.length * 100)}%)`);
+
+      return filteredPoints;
+    }
+
+    // 绑定事件
+    function bindEvents() {
+      // 生成随机点按钮
+      document.getElementById('generate-points').addEventListener('click', function() {
+        generateRandomPoints(2000);
+      });
+
+      // 刷新显示按钮
+      document.getElementById('refresh-points').addEventListener('click', updateMarkers);
+
+      // 密度过滤开关
+      document.getElementById('density-filter-switch').addEventListener('change', function() {
+        markerDensityFilterEnabled = this.checked;
+        updateMarkers();
+      });
+
+      // 密度过滤强度滑块
+      const intensitySlider = document.getElementById('density-filter-intensity');
+      const intensityValue = document.getElementById('intensity-value');
+
+      intensitySlider.addEventListener('input', function() {
+        markerDensityFilterIntensity = parseInt(this.value);
+        intensityValue.textContent = `${markerDensityFilterIntensity}%`;
+      });
+
+      intensitySlider.addEventListener('change', function() {
+        updateMarkers();
+      });
+    }
+
+    // 初始化
+    document.addEventListener('DOMContentLoaded', function() {
+      initMap();
+      bindEvents();
+      generateRandomPoints(2000); // 默认生成2000个随机点
+    });
+  </script>
+</body>
+</html>

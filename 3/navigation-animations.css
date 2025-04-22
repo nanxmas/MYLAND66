@@ -1,0 +1,152 @@
+/* 导航动画效果 */
+
+/* 列表项进入动画 */
+@keyframes listItemEnter {
+  from {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* 列表项退出动画 */
+@keyframes listItemExit {
+  from {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+}
+
+/* 列表容器进入动画 */
+@keyframes listContainerEnter {
+  from {
+    opacity: 0;
+    transform: translateX(100%);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* 列表容器退出动画 */
+@keyframes listContainerExit {
+  from {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+}
+
+/* 返回按钮进入动画 */
+@keyframes backButtonEnter {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* 标题进入动画 */
+@keyframes titleEnter {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 应用动画的类 */
+.anime-list-entering {
+  animation: listContainerEnter 0.4s ease-out forwards;
+}
+
+.anime-list-exiting {
+  animation: listContainerExit 0.3s ease-in forwards;
+}
+
+.points-list-entering {
+  animation: listContainerEnter 0.4s ease-out forwards;
+}
+
+.points-list-exiting {
+  animation: listContainerExit 0.3s ease-in forwards;
+}
+
+/* 列表项动画 - 使用延迟创建级联效果 */
+.anime-item.animated,
+.point-item.animated {
+  animation: listItemEnter 0.4s ease-out backwards;
+}
+
+/* 为列表项添加级联延迟 */
+.anime-item.animated:nth-child(1),
+.point-item.animated:nth-child(1) { animation-delay: 0.05s; }
+.anime-item.animated:nth-child(2),
+.point-item.animated:nth-child(2) { animation-delay: 0.1s; }
+.anime-item.animated:nth-child(3),
+.point-item.animated:nth-child(3) { animation-delay: 0.15s; }
+.anime-item.animated:nth-child(4),
+.point-item.animated:nth-child(4) { animation-delay: 0.2s; }
+.anime-item.animated:nth-child(5),
+.point-item.animated:nth-child(5) { animation-delay: 0.25s; }
+.anime-item.animated:nth-child(6),
+.point-item.animated:nth-child(6) { animation-delay: 0.3s; }
+.anime-item.animated:nth-child(7),
+.point-item.animated:nth-child(7) { animation-delay: 0.35s; }
+.anime-item.animated:nth-child(8),
+.point-item.animated:nth-child(8) { animation-delay: 0.4s; }
+.anime-item.animated:nth-child(9),
+.point-item.animated:nth-child(9) { animation-delay: 0.45s; }
+.anime-item.animated:nth-child(10),
+.point-item.animated:nth-child(10) { animation-delay: 0.5s; }
+/* 后续项目使用相同的延迟，避免等待时间过长 */
+.anime-item.animated:nth-child(n+11),
+.point-item.animated:nth-child(n+11) { animation-delay: 0.5s; }
+
+/* 返回按钮动画 */
+.back-button.animated {
+  animation: backButtonEnter 0.4s ease-out forwards;
+}
+
+/* 标题动画 */
+.anime-title-header.animated {
+  animation: titleEnter 0.4s ease-out forwards;
+  animation-delay: 0.1s;
+}
+
+/* 移动端抽屉特定动画 */
+#mobile-anime-list .back-button.animated {
+  animation: backButtonEnter 0.4s ease-out forwards;
+}
+
+#mobile-anime-list .anime-cover-header.animated {
+  animation: titleEnter 0.4s ease-out forwards;
+  animation-delay: 0.1s;
+}
+
+/* 电脑版侧边栏特定动画 */
+#anime-list .back-button.animated {
+  animation: backButtonEnter 0.4s ease-out forwards;
+}
+
+#anime-list .anime-title-header.animated {
+  animation: titleEnter 0.4s ease-out forwards;
+  animation-delay: 0.1s;
+}
