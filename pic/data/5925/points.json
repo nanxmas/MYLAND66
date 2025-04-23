@@ -1,0 +1,464 @@
+{
+  "points": [
+    {
+      "id": "5925-1",
+      "name": "一級建築士事務所 e-craft.",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-1.jpg",
+      "ep": "OP",
+      "geo": [
+        26.3661,
+        127.87305
+      ]
+    },
+    {
+      "id": "5925-2",
+      "name": "株式会社 津波古組",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-2.jpg",
+      "ep": "ED",
+      "geo": [
+        26.36689,
+        127.87392
+      ]
+    },
+    {
+      "id": "5925-3",
+      "name": "守礼門",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-3.jpg",
+      "ep": "ED",
+      "geo": [
+        26.21814,
+        127.71685
+      ]
+    },
+    {
+      "id": "5925-4",
+      "name": "果報バンタ(カフウバンタ)",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-4.jpg",
+      "ep": "ED",
+      "geo": [
+        26.36067,
+        127.99226
+      ]
+    },
+    {
+      "id": "5925-5",
+      "name": "古宇利大橋南詰展望所",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-5.jpg",
+      "ep": "ED",
+      "geo": [
+        26.67895,
+        128.01284
+      ]
+    },
+    {
+      "id": "5925-6",
+      "name": "ヤンバルクイナ展望台",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-6.jpg",
+      "ep": "ED",
+      "geo": [
+        26.86256,
+        128.26501
+      ]
+    },
+    {
+      "id": "5925-7",
+      "name": "富盛の石彫大獅子",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-7.jpg",
+      "ep": "ED",
+      "geo": [
+        26.13357,
+        127.72427
+      ]
+    },
+    {
+      "id": "5925-8",
+      "name": "備瀬のフクギ並木",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-8.jpg",
+      "ep": "ED",
+      "geo": [
+        26.70584,
+        127.88119
+      ]
+    },
+    {
+      "id": "5925-9",
+      "name": "ハートロック",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-9.jpg",
+      "ep": "ED",
+      "geo": [
+        26.71391,
+        128.01475
+      ]
+    },
+    {
+      "id": "5925-10",
+      "name": "照間ビーチ",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-10.jpg",
+      "ep": "1",
+      "geo": [
+        26.336,
+        127.89456
+      ]
+    },
+    {
+      "id": "5925-11",
+      "name": "Sun Rise Cafe パラパラ",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-11.jpg",
+      "ep": "1",
+      "geo": [
+        26.36396,
+        127.87254
+      ]
+    },
+    {
+      "id": "5925-12",
+      "name": "具志川海岸",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-12.jpg",
+      "ep": "2",
+      "geo": [
+        26.36364,
+        127.87261
+      ]
+    },
+    {
+      "id": "5925-13",
+      "name": "ふるふる",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-13.jpg",
+      "ep": "2",
+      "geo": [
+        26.36318,
+        127.86902
+      ]
+    },
+    {
+      "id": "5925-14",
+      "name": "具志川食糧",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-14.jpg",
+      "ep": "2",
+      "geo": [
+        26.36284,
+        127.87013
+      ]
+    },
+    {
+      "id": "5925-15",
+      "name": "名護フミエ",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-15.jpg",
+      "ep": "2",
+      "geo": [
+        26.36314,
+        127.87063
+      ]
+    },
+    {
+      "id": "5925-16",
+      "name": "沖ツラベンチ",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-16.jpg",
+      "ep": "2",
+      "geo": [
+        26.36403,
+        127.87293
+      ]
+    },
+    {
+      "id": "5925-17",
+      "name": "リラクゼーションmaju",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-17.jpg",
+      "ep": "3",
+      "geo": [
+        26.35631,
+        127.87074
+      ]
+    },
+    {
+      "id": "5925-18",
+      "name": "ぜんざい専門家～",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-18.jpg",
+      "ep": "3",
+      "geo": [
+        26.33946,
+        127.88008
+      ]
+    },
+    {
+      "id": "5925-19",
+      "name": "与那城総合公園",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-19.jpg",
+      "ep": "4",
+      "geo": [
+        26.32823,
+        127.90704
+      ]
+    },
+    {
+      "id": "5925-20",
+      "name": "番所跡公園",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-20.jpg",
+      "ep": "4",
+      "geo": [
+        26.359,
+        127.86937
+      ]
+    },
+    {
+      "id": "5925-21",
+      "name": "ファミリーマート うるま田場店",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-21.jpg",
+      "ep": "4",
+      "geo": [
+        26.3685,
+        127.8595
+      ]
+    },
+    {
+      "id": "5925-22",
+      "name": "公文式うるま具志川教室",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-22.jpg",
+      "ep": "5",
+      "geo": [
+        26.36339,
+        127.86875
+      ]
+    },
+    {
+      "id": "5925-23",
+      "name": "サンエー 具志川メインシティ",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-23.jpg",
+      "ep": "5",
+      "geo": [
+        26.3528,
+        127.82566
+      ]
+    },
+    {
+      "id": "5925-24",
+      "name": "具志川公民館",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-24.jpg",
+      "ep": "5",
+      "geo": [
+        26.35839,
+        127.8702
+      ]
+    },
+    {
+      "id": "5925-25",
+      "name": "サンエーＶ２１食品館 田場店",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-25.jpg",
+      "ep": "5",
+      "geo": [
+        26.36413,
+        127.86855
+      ]
+    },
+    {
+      "id": "5925-26",
+      "name": "そば処 具志川そば",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-26.jpg",
+      "ep": "6",
+      "geo": [
+        26.349,
+        127.87008
+      ]
+    },
+    {
+      "id": "5925-27",
+      "name": "和樂",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-27.jpg",
+      "ep": "6",
+      "geo": [
+        26.35944,
+        127.86956
+      ]
+    },
+    {
+      "id": "5925-28",
+      "name": "フレッシュプラザユニオン あげな店",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-28.jpg",
+      "ep": "7",
+      "geo": [
+        26.37727,
+        127.85656
+      ]
+    },
+    {
+      "id": "5925-29",
+      "name": "Bake House Lotti",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-29.jpg",
+      "ep": "7",
+      "geo": [
+        26.34298,
+        127.87806
+      ]
+    },
+    {
+      "id": "5925-30",
+      "name": "海中道路ビーチ",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-30.jpg",
+      "ep": "8",
+      "geo": [
+        26.33207,
+        127.92523
+      ]
+    },
+    {
+      "id": "5925-31",
+      "name": "デイサービスLIB",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-31.jpg",
+      "ep": "8",
+      "geo": [
+        26.36428,
+        127.86834
+      ]
+    },
+    {
+      "id": "5925-32",
+      "name": "BIKE SHOP DOC",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-32.jpg",
+      "ep": "8",
+      "geo": [
+        26.31082,
+        127.76316
+      ]
+    },
+    {
+      "id": "5925-33",
+      "name": "業務用食品スーパー 北谷店",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-33.jpg",
+      "ep": "8",
+      "geo": [
+        26.30912,
+        127.76386
+      ]
+    },
+    {
+      "id": "5925-34",
+      "name": "ローソン 北谷町北前店",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-34.jpg",
+      "ep": "8",
+      "geo": [
+        26.29613,
+        127.76062
+      ]
+    },
+    {
+      "id": "5925-35",
+      "name": "Ａ&Ｗ 牧港店",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-35.jpg",
+      "ep": "8",
+      "geo": [
+        26.26671,
+        127.7282
+      ]
+    },
+    {
+      "id": "5925-36",
+      "name": "首里駅",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-36.jpg",
+      "ep": "8",
+      "geo": [
+        26.21921,
+        127.72573
+      ]
+    },
+    {
+      "id": "5925-37",
+      "name": "ムーンオーシャン宜野湾 ホテル＆レジデンス",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-37.jpg",
+      "ep": "8",
+      "geo": [
+        26.27322,
+        127.72641
+      ]
+    },
+    {
+      "id": "5925-38",
+      "name": "ヘアーサロン・ライフ",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-38.jpg",
+      "ep": "9",
+      "geo": [
+        26.36258,
+        127.86921
+      ]
+    },
+    {
+      "id": "5925-39",
+      "name": "イオン具志川店",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-39.jpg",
+      "ep": "9",
+      "geo": [
+        26.33869,
+        127.84516
+      ]
+    },
+    {
+      "id": "5925-40",
+      "name": "浜千鳥の歌碑",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-40.jpg",
+      "ep": "10",
+      "geo": [
+        26.36867,
+        127.87479
+      ]
+    },
+    {
+      "id": "5925-41",
+      "name": "タウンプラザかねひで具志川店",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-41.jpg",
+      "ep": "11",
+      "geo": [
+        26.37825,
+        127.85745
+      ]
+    },
+    {
+      "id": "5925-42",
+      "name": "Smilax Kurichi",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-42.jpg",
+      "ep": "11",
+      "geo": [
+        26.36272,
+        127.87027
+      ]
+    },
+    {
+      "id": "5925-43",
+      "name": "いこい",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-43.jpg",
+      "ep": "12",
+      "geo": [
+        26.3689,
+        127.85126
+      ]
+    },
+    {
+      "id": "5925-44",
+      "name": "津波三味線店（つは琉球店・つは三線店・衣装）",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-44.jpg",
+      "ep": "12",
+      "geo": [
+        26.36812,
+        127.85069
+      ]
+    },
+    {
+      "id": "5925-45",
+      "name": "田原コンクリート工業",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-45.jpg",
+      "ep": "12",
+      "geo": [
+        26.36454,
+        127.86836
+      ]
+    },
+    {
+      "id": "5925-46",
+      "name": "ちむどんどん学童クラブ",
+      "image": "https://image.xinu.ink/pic/data/5925/images/5925-46.jpg",
+      "ep": "12",
+      "geo": [
+        26.34576,
+        127.8712
+      ]
+    }
+  ]
+}

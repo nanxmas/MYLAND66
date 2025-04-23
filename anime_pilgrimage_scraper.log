@@ -1,0 +1,258 @@
+2025-04-23 14:19:39,667 - AnimePilgrimageScraper - INFO - Chrome driver initialized successfully
+2025-04-23 14:19:39,667 - AnimePilgrimageScraper - INFO - Fetching anime list from recently updated page...
+2025-04-23 14:19:42,026 - AnimePilgrimageScraper - INFO - Saved initial page source to page_source_initial.html
+2025-04-23 14:19:42,026 - AnimePilgrimageScraper - INFO - Trying selector: .anime-list .anime-item
+2025-04-23 14:19:52,280 - AnimePilgrimageScraper - WARNING - Selector .anime-list .anime-item failed
+2025-04-23 14:19:52,280 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='/Map?data=']
+2025-04-23 14:20:02,526 - AnimePilgrimageScraper - WARNING - Selector a[href*='/Map?data='] failed
+2025-04-23 14:20:02,526 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='/ja/Map?data=']
+2025-04-23 14:20:12,775 - AnimePilgrimageScraper - WARNING - Selector a[href*='/ja/Map?data='] failed
+2025-04-23 14:20:12,775 - AnimePilgrimageScraper - INFO - Trying selector: .anime-item
+2025-04-23 14:20:23,030 - AnimePilgrimageScraper - WARNING - Selector .anime-item failed
+2025-04-23 14:20:23,030 - AnimePilgrimageScraper - INFO - Trying selector: .anime-card
+2025-04-23 14:20:33,276 - AnimePilgrimageScraper - WARNING - Selector .anime-card failed
+2025-04-23 14:20:33,276 - AnimePilgrimageScraper - INFO - Trying selector: .anime-entry
+2025-04-23 14:20:43,523 - AnimePilgrimageScraper - WARNING - Selector .anime-entry failed
+2025-04-23 14:20:43,524 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='Map']
+2025-04-23 14:20:53,769 - AnimePilgrimageScraper - WARNING - Selector a[href*='Map'] failed
+2025-04-23 14:20:53,769 - AnimePilgrimageScraper - INFO - Trying selector: div[class*='anime']
+2025-04-23 14:21:04,017 - AnimePilgrimageScraper - WARNING - Selector div[class*='anime'] failed
+2025-04-23 14:21:04,017 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='anime']
+2025-04-23 14:21:14,264 - AnimePilgrimageScraper - WARNING - Selector a[href*='anime'] failed
+2025-04-23 14:21:14,264 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='data=']
+2025-04-23 14:21:14,272 - AnimePilgrimageScraper - INFO - Found elements with selector: a[href*='data=']
+2025-04-23 14:21:49,464 - AnimePilgrimageScraper - INFO - Trying to find anime items with selector: a[href*='data=']
+2025-04-23 14:21:49,474 - AnimePilgrimageScraper - INFO - Found 33 anime items with selector: a[href*='data=']
+2025-04-23 14:21:49,474 - AnimePilgrimageScraper - INFO - Found 33 anime items total
+2025-04-23 14:21:50,346 - AnimePilgrimageScraper - INFO - Starting anime pilgrimage scraper
+2025-04-23 14:21:50,346 - AnimePilgrimageScraper - INFO - Running extract_apiid.py to refresh apiid.json
+2025-04-23 14:21:50,557 - AnimePilgrimageScraper - INFO - Successfully refreshed apiid.json
+2025-04-23 14:21:50,557 - AnimePilgrimageScraper - INFO - Running in automatic mode
+2025-04-23 14:21:50,557 - AnimePilgrimageScraper - INFO - Fetching anime list from recently updated page...
+2025-04-23 14:21:51,312 - AnimePilgrimageScraper - INFO - Saved initial page source to page_source_initial.html
+2025-04-23 14:21:51,312 - AnimePilgrimageScraper - INFO - Trying selector: .anime-list .anime-item
+2025-04-23 14:22:01,575 - AnimePilgrimageScraper - WARNING - Selector .anime-list .anime-item failed
+2025-04-23 14:22:01,575 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='/Map?data=']
+2025-04-23 14:22:11,826 - AnimePilgrimageScraper - WARNING - Selector a[href*='/Map?data='] failed
+2025-04-23 14:22:11,826 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='/ja/Map?data=']
+2025-04-23 14:22:22,070 - AnimePilgrimageScraper - WARNING - Selector a[href*='/ja/Map?data='] failed
+2025-04-23 14:22:22,070 - AnimePilgrimageScraper - INFO - Trying selector: .anime-item
+2025-04-23 14:22:32,314 - AnimePilgrimageScraper - WARNING - Selector .anime-item failed
+2025-04-23 14:22:32,314 - AnimePilgrimageScraper - INFO - Trying selector: .anime-card
+2025-04-23 14:22:42,558 - AnimePilgrimageScraper - WARNING - Selector .anime-card failed
+2025-04-23 14:22:42,558 - AnimePilgrimageScraper - INFO - Trying selector: .anime-entry
+2025-04-23 14:22:52,801 - AnimePilgrimageScraper - WARNING - Selector .anime-entry failed
+2025-04-23 14:22:52,801 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='Map']
+2025-04-23 14:23:03,042 - AnimePilgrimageScraper - WARNING - Selector a[href*='Map'] failed
+2025-04-23 14:23:03,042 - AnimePilgrimageScraper - INFO - Trying selector: div[class*='anime']
+2025-04-23 14:23:13,285 - AnimePilgrimageScraper - WARNING - Selector div[class*='anime'] failed
+2025-04-23 14:23:13,285 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='anime']
+2025-04-23 14:23:23,527 - AnimePilgrimageScraper - WARNING - Selector a[href*='anime'] failed
+2025-04-23 14:23:23,527 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='data=']
+2025-04-23 14:23:23,532 - AnimePilgrimageScraper - INFO - Found elements with selector: a[href*='data=']
+2025-04-23 14:23:58,711 - AnimePilgrimageScraper - INFO - Trying to find anime items with selector: a[href*='data=']
+2025-04-23 14:23:58,719 - AnimePilgrimageScraper - INFO - Found 33 anime items with selector: a[href*='data=']
+2025-04-23 14:23:58,719 - AnimePilgrimageScraper - INFO - Found 33 anime items total
+2025-04-23 14:23:59,561 - AnimePilgrimageScraper - INFO - Auto mode: Scraping anime 1 to 33 out of 33
+2025-04-23 14:23:59,602 - AnimePilgrimageScraper - INFO - Next available local ID: 5905
+2025-04-23 14:23:59,603 - AnimePilgrimageScraper - INFO - Auto mode: Using local folder ID 5905
+2025-04-23 14:23:59,603 - AnimePilgrimageScraper - INFO - [1/33] Checking anime: ウィッチウォッチ
+2025-04-23 14:23:59,926 - AnimePilgrimageScraper - INFO - Scraping anime: ウィッチウォッチ
+2025-04-23 14:23:59,926 - AnimePilgrimageScraper - INFO - Scraping anime: ウィッチウォッチ
+2025-04-23 14:24:33,166 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:24:34,091 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:24:34,101 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:24:34,101 - AnimePilgrimageScraper - INFO - [2/33] Checking anime: ウマ娘 シンデレラグレイ
+2025-04-23 14:24:34,467 - AnimePilgrimageScraper - INFO - Scraping anime: ウマ娘 シンデレラグレイ
+2025-04-23 14:24:34,467 - AnimePilgrimageScraper - INFO - Scraping anime: ウマ娘 シンデレラグレイ
+2025-04-23 14:25:15,151 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:25:16,055 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:25:16,064 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:25:16,064 - AnimePilgrimageScraper - INFO - [3/33] Checking anime: 東京リベンジャーズ 天竺編
+2025-04-23 14:25:16,361 - AnimePilgrimageScraper - INFO - Scraping anime: 東京リベンジャーズ 天竺編
+2025-04-23 14:25:16,361 - AnimePilgrimageScraper - INFO - Scraping anime: 東京リベンジャーズ 天竺編
+2025-04-23 14:25:52,931 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:25:53,815 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:25:53,825 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:25:53,825 - AnimePilgrimageScraper - INFO - [4/33] Checking anime: ツルネ -風舞高校弓道部-
+2025-04-23 14:25:54,123 - AnimePilgrimageScraper - INFO - Scraping anime: ツルネ -風舞高校弓道部-
+2025-04-23 14:25:54,123 - AnimePilgrimageScraper - INFO - Scraping anime: ツルネ -風舞高校弓道部-
+2025-04-23 14:26:29,938 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:26:30,824 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:26:30,833 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:26:30,834 - AnimePilgrimageScraper - INFO - [5/33] Checking anime: 小市民シリーズ 2期
+2025-04-23 14:26:31,126 - AnimePilgrimageScraper - INFO - Scraping anime: 小市民シリーズ 2期
+2025-04-23 14:26:31,126 - AnimePilgrimageScraper - INFO - Scraping anime: 小市民シリーズ 2期
+2025-04-23 14:27:06,867 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:27:07,748 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:27:07,757 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:27:07,757 - AnimePilgrimageScraper - INFO - [6/33] Checking anime: 新劇場版「頭文字D」Legend3 夢現
+2025-04-23 14:27:08,062 - AnimePilgrimageScraper - INFO - Scraping anime: 新劇場版「頭文字D」Legend3 夢現
+2025-04-23 14:27:08,062 - AnimePilgrimageScraper - INFO - Scraping anime: 新劇場版「頭文字D」Legend3 夢現
+2025-04-23 14:27:47,942 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:27:48,820 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:27:48,829 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:27:48,829 - AnimePilgrimageScraper - INFO - [7/33] Checking anime: 前橋ウィッチーズ
+2025-04-23 14:27:49,120 - AnimePilgrimageScraper - INFO - Scraping anime: 前橋ウィッチーズ
+2025-04-23 14:27:49,120 - AnimePilgrimageScraper - INFO - Scraping anime: 前橋ウィッチーズ
+2025-04-23 14:28:24,828 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:28:25,739 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:28:25,748 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:28:25,749 - AnimePilgrimageScraper - INFO - [8/33] Checking anime: ガールズバンドクライ
+2025-04-23 14:28:26,029 - AnimePilgrimageScraper - INFO - Scraping anime: ガールズバンドクライ
+2025-04-23 14:28:26,029 - AnimePilgrimageScraper - INFO - Scraping anime: ガールズバンドクライ
+2025-04-23 14:29:18,573 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:29:19,463 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:29:19,471 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:29:19,471 - AnimePilgrimageScraper - INFO - [9/33] Checking anime: ちはやふる
+2025-04-23 14:29:19,753 - AnimePilgrimageScraper - INFO - Scraping anime: ちはやふる
+2025-04-23 14:29:19,754 - AnimePilgrimageScraper - INFO - Scraping anime: ちはやふる
+2025-04-23 14:29:55,896 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:29:56,775 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:29:56,783 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:29:56,783 - AnimePilgrimageScraper - INFO - [10/33] Checking anime: アポカリプスホテル
+2025-04-23 14:29:57,070 - AnimePilgrimageScraper - INFO - Scraping anime: アポカリプスホテル
+2025-04-23 14:29:57,070 - AnimePilgrimageScraper - INFO - Scraping anime: アポカリプスホテル
+2025-04-23 14:30:29,349 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:30:30,222 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:30:30,231 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:30:30,231 - AnimePilgrimageScraper - INFO - [11/33] Checking anime: 真･侍伝 YAIBA
+2025-04-23 14:30:30,518 - AnimePilgrimageScraper - INFO - Scraping anime: 真･侍伝 YAIBA
+2025-04-23 14:30:30,519 - AnimePilgrimageScraper - INFO - Scraping anime: 真･侍伝 YAIBA
+2025-04-23 14:31:05,359 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:31:06,258 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:31:06,266 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:31:06,266 - AnimePilgrimageScraper - INFO - [12/33] Checking anime: 秒速5センチメートル
+2025-04-23 14:31:06,537 - AnimePilgrimageScraper - INFO - Scraping anime: 秒速5センチメートル
+2025-04-23 14:31:06,537 - AnimePilgrimageScraper - INFO - Scraping anime: 秒速5センチメートル
+2025-04-23 14:31:49,561 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:31:50,455 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:31:50,464 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:31:50,464 - AnimePilgrimageScraper - INFO - [13/33] Checking anime: 新劇場版「頭文字D」Legend2 闘走
+2025-04-23 14:31:50,752 - AnimePilgrimageScraper - INFO - Scraping anime: 新劇場版「頭文字D」Legend2 闘走
+2025-04-23 14:31:50,752 - AnimePilgrimageScraper - INFO - Scraping anime: 新劇場版「頭文字D」Legend2 闘走
+2025-04-23 14:32:27,577 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:32:28,457 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:32:28,465 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:32:28,465 - AnimePilgrimageScraper - INFO - [14/33] Checking anime: 新劇場版「頭文字D」Legend1 覚醒
+2025-04-23 14:32:28,738 - AnimePilgrimageScraper - INFO - Scraping anime: 新劇場版「頭文字D」Legend1 覚醒
+2025-04-23 14:32:28,738 - AnimePilgrimageScraper - INFO - Scraping anime: 新劇場版「頭文字D」Legend1 覚醒
+2025-04-23 14:33:07,432 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:33:08,303 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:33:08,311 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:33:08,311 - AnimePilgrimageScraper - INFO - [15/33] Checking anime: 文豪ストレイドッグス2
+2025-04-23 14:33:08,588 - AnimePilgrimageScraper - INFO - Scraping anime: 文豪ストレイドッグス2
+2025-04-23 14:33:08,588 - AnimePilgrimageScraper - INFO - Scraping anime: 文豪ストレイドッグス2
+2025-04-23 14:33:45,078 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:33:45,984 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:33:45,993 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:33:45,994 - AnimePilgrimageScraper - INFO - [16/33] Checking anime: 涼宮ハルヒの憂鬱 2006
+2025-04-23 14:33:46,265 - AnimePilgrimageScraper - INFO - Scraping anime: 涼宮ハルヒの憂鬱 2006
+2025-04-23 14:33:46,265 - AnimePilgrimageScraper - INFO - Scraping anime: 涼宮ハルヒの憂鬱 2006
+2025-04-23 14:34:25,781 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:34:26,665 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:34:26,673 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:34:26,673 - AnimePilgrimageScraper - INFO - [17/33] Checking anime: 花咲くいろは
+2025-04-23 14:34:26,937 - AnimePilgrimageScraper - INFO - Scraping anime: 花咲くいろは
+2025-04-23 14:34:26,938 - AnimePilgrimageScraper - INFO - Scraping anime: 花咲くいろは
+2025-04-23 14:35:09,399 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:35:10,281 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:35:10,289 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:35:10,289 - AnimePilgrimageScraper - INFO - [18/33] Checking anime: ラブライブ! サンシャイン!!
+2025-04-23 14:35:10,569 - AnimePilgrimageScraper - INFO - Scraping anime: ラブライブ! サンシャイン!!
+2025-04-23 14:35:10,569 - AnimePilgrimageScraper - INFO - Scraping anime: ラブライブ! サンシャイン!!
+2025-04-23 14:36:01,218 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:36:02,115 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:36:02,123 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:36:02,123 - AnimePilgrimageScraper - INFO - [19/33] Checking anime: フルーツバスケット 1st season
+2025-04-23 14:36:02,419 - AnimePilgrimageScraper - INFO - Scraping anime: フルーツバスケット 1st season
+2025-04-23 14:36:02,419 - AnimePilgrimageScraper - INFO - Scraping anime: フルーツバスケット 1st season
+2025-04-23 14:36:41,082 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:36:41,988 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:36:41,996 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:36:41,996 - AnimePilgrimageScraper - INFO - [20/33] Checking anime: BanG Dream! 2nd Season
+2025-04-23 14:36:42,281 - AnimePilgrimageScraper - INFO - Scraping anime: BanG Dream! 2nd Season
+2025-04-23 14:36:42,281 - AnimePilgrimageScraper - INFO - Scraping anime: BanG Dream! 2nd Season
+2025-04-23 14:37:20,404 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:37:21,305 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:37:21,314 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:37:21,314 - AnimePilgrimageScraper - INFO - [21/33] Checking anime: 沖縄で好きになった子が方言すぎてツラすぎる
+2025-04-23 14:37:21,589 - AnimePilgrimageScraper - INFO - Scraping anime: 沖縄で好きになった子が方言すぎてツラすぎる
+2025-04-23 14:37:21,590 - AnimePilgrimageScraper - INFO - Scraping anime: 沖縄で好きになった子が方言すぎてツラすぎる
+2025-04-23 14:38:04,342 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:38:05,228 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:38:05,236 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:38:05,236 - AnimePilgrimageScraper - INFO - [22/33] Checking anime: 空色ユーティリティ
+2025-04-23 14:38:05,514 - AnimePilgrimageScraper - INFO - Scraping anime: 空色ユーティリティ
+2025-04-23 14:38:05,514 - AnimePilgrimageScraper - INFO - Scraping anime: 空色ユーティリティ
+2025-04-23 14:38:39,557 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:38:40,467 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:38:40,476 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:38:40,476 - AnimePilgrimageScraper - INFO - [23/33] Checking anime: ばらかもん
+2025-04-23 14:38:40,773 - AnimePilgrimageScraper - INFO - Scraping anime: ばらかもん
+2025-04-23 14:38:40,773 - AnimePilgrimageScraper - INFO - Scraping anime: ばらかもん
+2025-04-23 14:39:16,889 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:39:17,793 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:39:17,802 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:39:17,802 - AnimePilgrimageScraper - INFO - [24/33] Checking anime: 聲の形
+2025-04-23 14:39:18,085 - AnimePilgrimageScraper - INFO - Scraping anime: 聲の形
+2025-04-23 14:39:18,085 - AnimePilgrimageScraper - INFO - Scraping anime: 聲の形
+2025-04-23 14:39:58,753 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:39:59,656 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:39:59,665 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:39:59,665 - AnimePilgrimageScraper - INFO - [25/33] Checking anime: アオのハコ
+2025-04-23 14:39:59,956 - AnimePilgrimageScraper - INFO - Scraping anime: アオのハコ
+2025-04-23 14:39:59,957 - AnimePilgrimageScraper - INFO - Scraping anime: アオのハコ
+2025-04-23 14:40:37,891 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:40:38,782 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:40:38,791 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:40:38,792 - AnimePilgrimageScraper - INFO - [26/33] Checking anime: ハニーレモンソーダ
+2025-04-23 14:40:39,103 - AnimePilgrimageScraper - INFO - Scraping anime: ハニーレモンソーダ
+2025-04-23 14:40:39,103 - AnimePilgrimageScraper - INFO - Scraping anime: ハニーレモンソーダ
+2025-04-23 14:41:16,154 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:41:17,039 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:41:17,048 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:41:17,048 - AnimePilgrimageScraper - INFO - [27/33] Checking anime: 天久鷹央の推理カルテ
+2025-04-23 14:41:17,339 - AnimePilgrimageScraper - INFO - Scraping anime: 天久鷹央の推理カルテ
+2025-04-23 14:41:17,339 - AnimePilgrimageScraper - INFO - Scraping anime: 天久鷹央の推理カルテ
+2025-04-23 14:41:49,740 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:41:50,672 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:41:50,681 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:41:50,681 - AnimePilgrimageScraper - INFO - [28/33] Checking anime: 3月のライオン
+2025-04-23 14:41:50,968 - AnimePilgrimageScraper - INFO - Scraping anime: 3月のライオン
+2025-04-23 14:41:50,969 - AnimePilgrimageScraper - INFO - Scraping anime: 3月のライオン
+2025-04-23 14:42:35,993 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:42:36,905 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:42:36,914 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:42:36,914 - AnimePilgrimageScraper - INFO - [29/33] Checking anime: Re:CREATORS
+2025-04-23 14:42:37,209 - AnimePilgrimageScraper - INFO - Scraping anime: Re:CREATORS
+2025-04-23 14:42:37,209 - AnimePilgrimageScraper - INFO - Scraping anime: Re:CREATORS
+2025-04-23 14:43:22,382 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:43:23,303 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:43:23,312 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:43:23,312 - AnimePilgrimageScraper - INFO - [30/33] Checking anime: 異世界おじさん
+2025-04-23 14:43:23,616 - AnimePilgrimageScraper - INFO - Scraping anime: 異世界おじさん
+2025-04-23 14:43:23,617 - AnimePilgrimageScraper - INFO - Scraping anime: 異世界おじさん
+2025-04-23 14:43:54,949 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:43:55,845 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:43:55,855 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:43:55,855 - AnimePilgrimageScraper - INFO - [31/33] Checking anime: 甘城ブリリアントパーク
+2025-04-23 14:43:56,153 - AnimePilgrimageScraper - INFO - Scraping anime: 甘城ブリリアントパーク
+2025-04-23 14:43:56,153 - AnimePilgrimageScraper - INFO - Scraping anime: 甘城ブリリアントパーク
+2025-04-23 14:44:29,074 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:44:30,016 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:44:30,026 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:44:30,026 - AnimePilgrimageScraper - INFO - [32/33] Checking anime: リコリス・リコイル
+2025-04-23 14:44:30,308 - AnimePilgrimageScraper - INFO - Scraping anime: リコリス・リコイル
+2025-04-23 14:44:30,309 - AnimePilgrimageScraper - INFO - Scraping anime: リコリス・リコイル
+2025-04-23 14:45:13,827 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:45:14,734 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:45:14,743 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:45:14,743 - AnimePilgrimageScraper - INFO - [33/33] Checking anime: 俺の妹がこんなに可愛いわけがない
+2025-04-23 14:45:15,036 - AnimePilgrimageScraper - INFO - Scraping anime: 俺の妹がこんなに可愛いわけがない
+2025-04-23 14:45:15,036 - AnimePilgrimageScraper - INFO - Scraping anime: 俺の妹がこんなに可愛いわけがない
+2025-04-23 14:45:54,729 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-23 14:45:55,627 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-23 14:45:55,636 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-23 14:45:55,636 - AnimePilgrimageScraper - INFO - Successfully scraped 33 anime.
+2025-04-23 14:45:55,636 - AnimePilgrimageScraper - INFO - Scraping completed successfully!

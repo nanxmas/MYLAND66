@@ -1,0 +1,44 @@
+{
+  "points": [
+    {
+      "id": "5934-1",
+      "name": "春日市桜ヶ丘公民館",
+      "image": "https://image.xinu.ink/pic/data/5934/images/5934-1.jpg",
+      "ep": "1",
+      "geo": [
+        33.54671,
+        130.4512
+      ]
+    },
+    {
+      "id": "5934-2",
+      "name": "セブン-イレブン 春日桜ヶ丘４丁目店",
+      "image": "https://image.xinu.ink/pic/data/5934/images/5934-2.jpg",
+      "ep": "2",
+      "geo": [
+        33.54399,
+        130.44798
+      ]
+    },
+    {
+      "id": "5934-3",
+      "name": "桜ヶ丘広場公園",
+      "image": "https://image.xinu.ink/pic/data/5934/images/5934-3.jpg",
+      "ep": "2",
+      "geo": [
+        33.54652,
+        130.45077
+      ]
+    },
+    {
+      "id": "5934-4",
+      "name": "｀｀ラーメン (てんてん)",
+      "image": "https://image.xinu.ink/pic/data/5934/images/5934-4.jpg",
+      "ep": "6",
+      "geo": [
+        33.55231,
+        130.44645
+      ]
+    }
+  ]
+}

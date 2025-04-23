@@ -1,0 +1,154 @@
+{
+  "points": [
+    {
+      "id": "5906-1",
+      "name": "笠松みなと公園",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-1.jpg",
+      "ep": "OP",
+      "geo": [
+        35.36723,
+        136.76449
+      ]
+    },
+    {
+      "id": "5906-2",
+      "name": "笠松競馬場第二駐車場",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-2.jpg",
+      "ep": "OP",
+      "geo": [
+        35.36827,
+        136.76633
+      ]
+    },
+    {
+      "id": "5906-3",
+      "name": "金華山展望台",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-3.jpg",
+      "ep": "OP",
+      "geo": [
+        35.43244,
+        136.78064
+      ]
+    },
+    {
+      "id": "5906-4",
+      "name": "笠松競馬場",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.37288,
+        136.76658
+      ]
+    },
+    {
+      "id": "5906-5",
+      "name": "笠松町サイクリングロード",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.36972,
+        136.76714
+      ]
+    },
+    {
+      "id": "5906-6",
+      "name": "笠松駅",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.37393,
+        136.7637
+      ]
+    },
+    {
+      "id": "5906-7",
+      "name": "福證寺",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-7.jpg",
+      "ep": "1",
+      "geo": [
+        35.36607,
+        136.7647
+      ]
+    },
+    {
+      "id": "5906-8",
+      "name": "岐阜工業高校前",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-8.jpg",
+      "ep": "2",
+      "geo": [
+        35.37489,
+        136.76151
+      ]
+    },
+    {
+      "id": "5906-9",
+      "name": "カラフルタウン 岐阜",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-9.jpg",
+      "ep": "3",
+      "geo": [
+        35.36214,
+        136.72865
+      ]
+    },
+    {
+      "id": "5906-10",
+      "name": "福泰厨房 カラフルタウン岐阜店",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-10.jpg",
+      "ep": "3",
+      "geo": [
+        35.36266,
+        136.72875
+      ]
+    },
+    {
+      "id": "5906-11",
+      "name": "スポーツデポ カラフルタウン岐阜店",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-11.jpg",
+      "ep": "3",
+      "geo": [
+        35.36214,
+        136.72889
+      ]
+    },
+    {
+      "id": "5906-12",
+      "name": "カフェ・イル・ファンティーノ",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-12.jpg",
+      "ep": "3",
+      "geo": [
+        35.37262,
+        136.76571
+      ]
+    },
+    {
+      "id": "5906-13",
+      "name": "大手道(七曲り登山道)",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-13.jpg",
+      "ep": "3",
+      "geo": [
+        35.43125,
+        136.77934
+      ]
+    },
+    {
+      "id": "5906-14",
+      "name": "金華山展望レストラン ル・ポン・ドゥ・シェル",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-14.jpg",
+      "ep": "3",
+      "geo": [
+        35.43242,
+        136.78078
+      ]
+    },
+    {
+      "id": "5906-15",
+      "name": "丸金食堂",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-15.jpg",
+      "ep": "3",
+      "geo": [
+        35.37274,
+        136.76593
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "points": [
+    {
+      "id": "5914-1",
+      "name": "二重橋",
+      "image": "https://image.xinu.ink/pic/data/5914/images/5914-1.jpg",
+      "ep": "1",
+      "geo": [
+        35.68034,
+        139.75362
+      ]
+    },
+    {
+      "id": "5914-2",
+      "name": "Nissan Crossing",
+      "image": "https://image.xinu.ink/pic/data/5914/images/5914-2.jpg",
+      "ep": "1",
+      "geo": [
+        35.67102,
+        139.765
+      ]
+    },
+    {
+      "id": "5914-3",
+      "name": "セイコーハウス 時計塔",
+      "image": "https://image.xinu.ink/pic/data/5914/images/5914-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.67135,
+        139.76506
+      ]
+    },
+    {
+      "id": "5914-4",
+      "name": "三原橋街角広場",
+      "image": "https://image.xinu.ink/pic/data/5914/images/5914-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.67029,
+        139.76636
+      ]
+    },
+    {
+      "id": "5914-5",
+      "name": "ココカラファイン 銀座4丁目店",
+      "image": "https://image.xinu.ink/pic/data/5914/images/5914-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.66979,
+        139.76721
+      ]
+    }
+  ]
+}
