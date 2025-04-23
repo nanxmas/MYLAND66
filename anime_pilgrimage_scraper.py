@@ -86,24 +86,51 @@ class AnimePilgrimageScraper:
         self.logger.info("Fetching anime list from recently updated page...")
         self.driver.get(self.recently_updated_url)
 
-        # Wait for the page to load
-        try:
-            WebDriverWait(self.driver, 30).until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, ".anime-list .anime-item"))
-            )
-        except TimeoutException:
-            # Try alternative selectors if the first one fails
+        # Save the page source for debugging before waiting
+        with open("page_source_initial.html", "w", encoding="utf-8") as f:
+            f.write(self.driver.page_source)
+        self.logger.info("Saved initial page source to page_source_initial.html")
+
+        # Wait for the page to load with expanded selectors
+        selectors_to_try = [
+            ".anime-list .anime-item",
+            "a[href*='/Map?data=']",
+            "a[href*='/ja/Map?data=']",
+            ".anime-item",
+            ".anime-card",
+            ".anime-entry",
+            "a[href*='Map']",
+            "div[class*='anime']",
+            "a[href*='anime']",
+            "a[href*='data=']",
+            "a[href*='pilgrimage']",
+            "a[href*='location']",
+            "a[href*='spot']",
+            "a[href*='point']",
+            "a"
+        ]
+
+        found_selector = None
+        for selector in selectors_to_try:
             try:
-                WebDriverWait(self.driver, 30).until(
-                    EC.presence_of_element_located((By.CSS_SELECTOR, "a[href*='/Map?data=']"))
+                self.logger.info(f"Trying selector: {selector}")
+                WebDriverWait(self.driver, 10).until(
+                    EC.presence_of_element_located((By.CSS_SELECTOR, selector))
                 )
+                found_selector = selector
+                self.logger.info(f"Found elements with selector: {selector}")
+                break
             except TimeoutException:
-                print("Could not find anime list elements. The website structure might have changed.")
-                # Save the page source for debugging
-                with open("page_source.html", "w", encoding="utf-8") as f:
-                    f.write(self.driver.page_source)
-                print("Saved page source to page_source.html for debugging.")
-                return []
+                self.logger.warning(f"Selector {selector} failed")
+                continue
+
+        if not found_selector:
+            self.logger.error("Could not find anime list elements with any selector. The website structure might have changed.")
+            # Save the page source for debugging
+            with open("page_source.html", "w", encoding="utf-8") as f:
+                f.write(self.driver.page_source)
+            self.logger.error("Saved page source to page_source.html for debugging.")
+            return []
 
         # Scroll to the bottom to load all anime
         print("Scrolling to load all anime...")
@@ -145,18 +172,48 @@ class AnimePilgrimageScraper:
         # Extract anime items - try different selectors
         anime_list = []
 
-        # Try first selector pattern
-        anime_items = self.driver.find_elements(By.CSS_SELECTOR, ".anime-list .anime-item")
+        # Use the found selector or try all selectors in sequence
+        anime_items = []
+        selectors_for_items = [
+            ".anime-list .anime-item",
+            "a[href*='/Map?data=']",
+            "a[href*='/ja/Map?data=']",
+            ".anime-item",
+            ".anime-card",
+            ".anime-entry",
+            "a[href*='Map']",
+            "div[class*='anime']",
+            "a[href*='anime']",
+            "a[href*='data=']",
+            "a[href*='pilgrimage']",
+            "a[href*='location']",
+            "a[href*='spot']",
+            "a[href*='point']"
+        ]
 
-        # If first pattern fails, try alternative
+        # If we found a working selector earlier, try it first
+        if found_selector:
+            selectors_for_items.insert(0, found_selector)
+
+        for selector in selectors_for_items:
+            self.logger.info(f"Trying to find anime items with selector: {selector}")
+            anime_items = self.driver.find_elements(By.CSS_SELECTOR, selector)
+            if anime_items:
+                self.logger.info(f"Found {len(anime_items)} anime items with selector: {selector}")
+                break
+
+        # If still no items found, try a more generic approach - any links
         if not anime_items:
-            anime_items = self.driver.find_elements(By.CSS_SELECTOR, "a[href*='/Map?data=']")
+            self.logger.warning("No anime items found with specific selectors, trying generic links")
+            anime_items = self.driver.find_elements(By.TAG_NAME, "a")
+            # Filter links that might be anime items (contain 'Map' or 'anime' in href)
+            anime_items = [item for item in anime_items if item.get_attribute("href") and
+                          ("Map" in item.get_attribute("href") or
+                           "anime" in item.get_attribute("href") or
+                           "data=" in item.get_attribute("href"))]
+            self.logger.info(f"Found {len(anime_items)} potential anime items with generic link selector")
 
-        # If still no items found, try another pattern
-        if not anime_items:
-            anime_items = self.driver.find_elements(By.CSS_SELECTOR, "a[href*='/ja/Map?data=']")
-
-        print(f"Found {len(anime_items)} anime items")
+        self.logger.info(f"Found {len(anime_items)} anime items total")
 
         for i, item in enumerate(anime_items, 1):
             try:
@@ -1788,6 +1845,16 @@ class AnimePilgrimageScraper:
                     return False
 
             self.logger.info("Starting anime pilgrimage scraper")
+
+            # Run extract_apiid.py to refresh apiid.json
+            try:
+                self.logger.info("Running extract_apiid.py to refresh apiid.json")
+                import extract_apiid
+                extract_apiid.extract_apiid(base_dir='pic/data')
+                self.logger.info("Successfully refreshed apiid.json")
+            except Exception as e:
+                self.logger.error(f"Error refreshing apiid.json: {e}")
+                # Continue anyway as this is not critical
 
             try:
                 # Get anime list
