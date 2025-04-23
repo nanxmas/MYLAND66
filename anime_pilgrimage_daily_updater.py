@@ -109,6 +109,16 @@ def run_daily_updater(args):
                 logger.error("Monthly updater is still running after 12 hours. Exiting.")
                 return False
 
+    # Run extract_apiid.py to refresh apiid.json
+    try:
+        logger.info("Running extract_apiid.py to refresh apiid.json")
+        import extract_apiid
+        extract_apiid.extract_apiid(base_dir='pic/data')
+        logger.info("Successfully refreshed apiid.json")
+    except Exception as e:
+        logger.error(f"Error refreshing apiid.json: {e}")
+        # Continue anyway as this is not critical
+
     # Initialize the scraper first (don't create lock file yet)
     scraper = AnimePilgrimageScraper(
         base_dir=args.base_dir,
@@ -122,7 +132,21 @@ def run_daily_updater(args):
         return False
 
     try:
+        # Try to get the anime list directly first to diagnose any issues
+        try:
+            logger.info("Testing anime list retrieval before running full scraper")
+            anime_list = scraper.get_anime_list()
+            if anime_list:
+                logger.info(f"Successfully retrieved {len(anime_list)} anime in test run")
+                for i, anime in enumerate(anime_list[:5], 1):
+                    logger.info(f"Test anime {i}: {anime['title']}")
+            else:
+                logger.warning("No anime found in test retrieval. Will try full run anyway.")
+        except Exception as e:
+            logger.error(f"Error in test anime list retrieval: {e}")
+            # Continue anyway to try the full run
 
+        # Run the full scraper
         success = scraper.run(
             auto_mode=True,
             max_anime=args.max_anime,
@@ -147,6 +171,14 @@ def run_daily_updater(args):
 
     except Exception as e:
         logger.error(f"Error running daily updater: {e}")
+        # Save any available page source for debugging
+        try:
+            with open("daily_updater_error_page.html", "w", encoding="utf-8") as f:
+                f.write(scraper.driver.page_source)
+            logger.info("Saved page source to daily_updater_error_page.html for debugging")
+        except Exception as page_error:
+            logger.error(f"Could not save page source: {page_error}")
+
         # Send notification about error
         title = "🚨 动漫巡礼每日更新错误"
         message = f"⛔ 每日更新过程中出现错误: {str(e)[:100]}..."
