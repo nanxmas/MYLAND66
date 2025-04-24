@@ -24,6 +24,8 @@ class AnitabiAutoUpdater:
         self.valid_ids = []
         self.new_anime_count = 0
         self.new_anime_ids = []
+        self.updated_anime_count = 0
+        self.updated_anime_ids = []
         self.local_id_range = (0, 0)
         self.concurrency = concurrency
 
@@ -370,7 +372,23 @@ class AnitabiAutoUpdater:
         # Ensure index.json exists
         self.ensure_index_exists()
 
-        index = {}
+        # Load existing index.json if it exists
+        index_file = self.base_dir / 'index.json'
+        if os.path.exists(index_file):
+            try:
+                with open(index_file, 'r', encoding='utf-8') as f:
+                    index = json.load(f)
+                self.logger.info(f"Loaded existing index.json with {len(index)} entries")
+            except Exception as e:
+                self.logger.error(f"Error loading existing index.json: {e}")
+                index = {}
+        else:
+            index = {}
+
+        # Track the number of updated entries
+        updated_entries = 0
+        processed_folders = 0
+
         # Traverse all anime folders in data directory
         for bangumi_dir in sorted(self.base_dir.glob('*')):
             if not bangumi_dir.is_dir() or bangumi_dir.name == 'index.json':
@@ -383,31 +401,51 @@ class AnitabiAutoUpdater:
             if not info_file.exists() or not points_file.exists():
                 continue
 
-            # Read anime info
-            with open(info_file, 'r', encoding='utf-8') as f:
-                info = json.load(f)
+            processed_folders += 1
 
-            # Read landmark info
-            with open(points_file, 'r', encoding='utf-8') as f:
-                points = json.load(f)
+            try:
+                # Read anime info
+                with open(info_file, 'r', encoding='utf-8') as f:
+                    info = json.load(f)
 
-            # Update cover image URL
-            cover_url = info.get('cover', '')
-            if cover_url:
-                file_name = os.path.basename(urlparse(cover_url).path)
-                cover_url = f'https://image.xinu.ink/pic/data/{local_id}/images/{file_name}'
+                # Read landmark info
+                with open(points_file, 'r', encoding='utf-8') as f:
+                    points = json.load(f)
 
-            index[local_id] = {
-                'name': info.get('name', ''),
-                'name_cn': info.get('name_cn', ''),
-                'cover': cover_url,
-                'theme_color': info.get('theme_color', ''),
-                'points': points,
-                'inform': f'https://image.xinu.ink/pic/data/{local_id}/points.json'
-            }
+                # Update cover image URL
+                cover_url = info.get('cover', '')
+                if cover_url:
+                    file_name = os.path.basename(urlparse(cover_url).path)
+                    cover_url = f'https://image.xinu.ink/pic/data/{local_id}/images/{file_name}'
+
+                # Get name fields, handling both name/name_cn and title/cn fields
+                anime_name = info.get('name', '') or info.get('title', '')
+                anime_name_cn = info.get('name_cn', '') or info.get('cn', '')
+
+                # Skip entries with empty names if this is a new entry
+                if not anime_name and not anime_name_cn and local_id not in index:
+                    self.logger.warning(f"Skipping folder {local_id} because it has empty name fields")
+                    continue
+
+                # Create or update entry in index
+                index[local_id] = {
+                    'name': anime_name,
+                    'name_cn': anime_name_cn,
+                    'cover': cover_url,
+                    'theme_color': info.get('theme_color', ''),
+                    'points': points,
+                    'inform': f'https://image.xinu.ink/pic/data/{local_id}/points.json'
+                }
+                updated_entries += 1
+
+                # Log progress periodically
+                if processed_folders % 100 == 0:
+                    self.logger.info(f"Processed {processed_folders} folders so far...")
+            except Exception as e:
+                self.logger.error(f"Error processing folder {local_id}: {e}")
+                continue
 
         # Save index file in data directory
-        index_file = self.base_dir / 'index.json'
         with open(index_file, 'w', encoding='utf-8') as f:
             json.dump(index, f, ensure_ascii=False, indent=2)
 
@@ -417,6 +455,7 @@ class AnitabiAutoUpdater:
             json.dump(index, f, ensure_ascii=False, indent=2)
 
         self.logger.info(f'Index files generated: {index_file} and {root_index_file}')
+        self.logger.info(f'Processed {processed_folders} folders, updated {updated_entries} entries in index.json')
 
     def load_index_data(self):
         """Load index.json data from both data directory and root directory
@@ -728,7 +767,13 @@ class AnitabiAutoUpdater:
         # Check if another instance is running
         if self.is_process_running():
             self.logger.warning("Another instance of the monthly updater is already running")
-            return {"new_anime_count": 0, "new_anime_ids": [], "local_id_range": (0, 0)}
+            return {
+                "new_anime_count": 0,
+                "new_anime_ids": [],
+                "updated_anime_count": 0,
+                "updated_anime_ids": [],
+                "local_id_range": (0, 0)
+            }
 
         # Check if daily updater is running
         wait_attempts = 0
@@ -745,12 +790,24 @@ class AnitabiAutoUpdater:
                 # Check one more time
                 if self.is_daily_updater_running():
                     self.logger.error("Daily updater is still running after 12 hours. Exiting.")
-                    return {"new_anime_count": 0, "new_anime_ids": [], "local_id_range": (0, 0)}
+                    return {
+                        "new_anime_count": 0,
+                        "new_anime_ids": [],
+                        "updated_anime_count": 0,
+                        "updated_anime_ids": [],
+                        "local_id_range": (0, 0)
+                    }
 
         # Create lock file
         if not self.create_lock_file():
             self.logger.error("Failed to create lock file. Exiting.")
-            return {"new_anime_count": 0, "new_anime_ids": [], "local_id_range": (0, 0)}
+            return {
+                "new_anime_count": 0,
+                "new_anime_ids": [],
+                "updated_anime_count": 0,
+                "updated_anime_ids": [],
+                "local_id_range": (0, 0)
+            }
 
         try:
             # Make sure index.json exists
@@ -843,9 +900,25 @@ class AnitabiAutoUpdater:
                 # Check if anime already exists in index.json using direct text search
                 exists_in_index = self._check_anime_in_index_direct(anime_name, anime_name_cn)
 
-                # If found, log the result and skip this anime
+                # If found, check if there are updates to existing anime
                 if exists_in_index:
-                    self.logger.info(f"[{i}/{len(valid_ids)}] 跳过动画 '{anime_name}' / '{anime_name_cn}' (API ID: {api_id}) 因为它已存在于 index.json 中（匹配成功）")
+                    self.logger.info(f"[{i}/{len(valid_ids)}] 动画 '{anime_name}' / '{anime_name_cn}' (API ID: {api_id}) 已存在于 index.json 中，检查是否有更新")
+
+                    # Find the local ID for this API ID
+                    local_id = self.find_anime_by_api_id(api_id)
+                    if local_id:
+                        # Try to update the existing anime
+                        update_success = self.update_existing_anime(api_id, local_id)
+                        if update_success:
+                            self.logger.info(f"[{i}/{len(valid_ids)}] 成功更新动画 '{anime_name}' / '{anime_name_cn}' (API ID: {api_id}, 本地 ID: {local_id}) 的巡礼点")
+                            self.updated_anime_count += 1
+                            self.updated_anime_ids.append(api_id)
+                        else:
+                            self.logger.info(f"[{i}/{len(valid_ids)}] 动画 '{anime_name}' / '{anime_name_cn}' (API ID: {api_id}) 没有新的巡礼点或更新失败")
+                    else:
+                        self.logger.warning(f"[{i}/{len(valid_ids)}] 动画 '{anime_name}' / '{anime_name_cn}' (API ID: {api_id}) 在 index.json 中存在但在 apiid.json 中找不到对应的本地ID")
+
+                    # Skip adding this anime as a new one
                     continue
 
                 # If we get here, the anime is not in index.json, so add it to filtered_ids
@@ -886,13 +959,23 @@ class AnitabiAutoUpdater:
                 time.sleep(1)
 
             self.local_id_range = (start_local_id, next_local_id - 1)
-            self.logger.info(f"更新完成！已添加 {self.new_anime_count} 部新动画，共扫描了 {len(valid_ids)} 个 API ID")
+
+            # 生成完整的日志信息
+            update_summary = f"更新完成！共扫描了 {len(valid_ids)} 个 API ID"
+            if self.new_anime_count > 0:
+                update_summary += f", 添加了 {self.new_anime_count} 部新动画"
+            if self.updated_anime_count > 0:
+                update_summary += f", 更新了 {self.updated_anime_count} 部已有动画的巡礼点"
+
+            self.logger.info(update_summary)
 
             # Generate final index
             self.generate_index()
             return {
                 "new_anime_count": self.new_anime_count,
                 "new_anime_ids": self.new_anime_ids,
+                "updated_anime_count": self.updated_anime_count,
+                "updated_anime_ids": self.updated_anime_ids,
                 "local_id_range": self.local_id_range,
                 "scanned_count": len(valid_ids)
             }
@@ -901,18 +984,185 @@ class AnitabiAutoUpdater:
             self.remove_lock_file()
             self.logger.info("锁文件已移除")
 
+    def find_anime_by_api_id(self, api_id):
+        """Find local ID for an anime by its API ID using apiid.json
+
+        Args:
+            api_id: The API ID to look for
+
+        Returns:
+            str: The local ID if found, None otherwise
+        """
+        try:
+            # Ensure apiid.json exists
+            self.ensure_apiid_json_exists()
+
+            # Read current data
+            with open('apiid.json', 'r', encoding='utf-8') as f:
+                apiid_data = json.load(f)
+
+            # Look for the API ID in the values
+            for local_id, stored_api_id in apiid_data.items():
+                if int(stored_api_id) == int(api_id):
+                    return local_id
+
+            return None
+        except Exception as e:
+            self.logger.error(f"查找API ID {api_id}对应的本地ID时出错: {e}")
+            return None
+
+    def compare_points_data(self, existing_points, new_points):
+        """Compare existing points with new points to find new ones
+
+        Args:
+            existing_points: List of existing points from points.json
+            new_points: List of new points from the API
+
+        Returns:
+            list: List of new points that don't exist in the existing points
+        """
+        # Create a set of existing point IDs for faster lookup
+        existing_ids = set()
+        for point in existing_points:
+            if isinstance(point, dict) and 'id' in point:
+                existing_ids.add(point['id'])
+
+        # Find points in new_points that don't exist in existing_points
+        new_points_to_add = []
+        for point in new_points:
+            if isinstance(point, dict) and 'id' in point and point['id'] not in existing_ids:
+                new_points_to_add.append(point)
+
+        return new_points_to_add
+
+    def update_existing_anime(self, api_id, local_id):
+        """Update an existing anime with new pilgrimage points
+
+        Args:
+            api_id: The API ID of the anime
+            local_id: The local ID of the existing anime
+
+        Returns:
+            bool: True if the anime was updated successfully, False otherwise
+        """
+        self.logger.info(f"正在检查动画 API ID {api_id} (本地ID: {local_id}) 是否有新的巡礼点")
+
+        # Get the folder path for the anime
+        anime_folder = self.base_dir / str(local_id)
+        if not anime_folder.exists():
+            self.logger.error(f"动画文件夹 {anime_folder} 不存在")
+            return False
+
+        # Load existing points.json
+        points_file = anime_folder / 'points.json'
+        if not points_file.exists():
+            self.logger.error(f"动画 {local_id} 的 points.json 文件不存在")
+            return False
+
+        try:
+            # Load existing points
+            with open(points_file, 'r', encoding='utf-8') as f:
+                try:
+                    existing_data = json.load(f)
+                    # Handle both array and object with 'points' property formats
+                    if isinstance(existing_data, list):
+                        existing_points = existing_data
+                    elif isinstance(existing_data, dict) and 'points' in existing_data:
+                        existing_points = existing_data['points']
+                    else:
+                        self.logger.error(f"动画 {local_id} 的 points.json 格式不正确")
+                        return False
+                except json.JSONDecodeError:
+                    self.logger.error(f"解析动画 {local_id} 的 points.json 文件失败")
+                    return False
+
+            # Get new points from the API
+            new_points_data = self.get_bangumi_points(api_id)
+            if not new_points_data:
+                self.logger.info(f"无法从API获取动画 {api_id} 的巡礼点数据")
+                return False
+
+            # Compare points to find new ones
+            new_points = self.compare_points_data(existing_points, new_points_data)
+            if not new_points:
+                self.logger.info(f"动画 API ID {api_id} (本地ID: {local_id}) 没有新的巡礼点")
+                return False
+
+            self.logger.info(f"动画 API ID {api_id} (本地ID: {local_id}) 有 {len(new_points)} 个新的巡礼点")
+
+            # Ensure images directory exists
+            images_dir = self.ensure_dir(anime_folder / 'images')
+
+            # Download images for new points
+            for point in new_points:
+                if point.get('image'):
+                    original_url = point['image'].split('?')[0]  # Get original size
+                    file_name = os.path.basename(urlparse(original_url).path)
+                    image_url = f'https://image.xinu.ink/pic/data/{local_id}/images/{file_name}'
+                    point['image'] = image_url  # Update image URL
+                    self.download_image(original_url, images_dir / file_name)
+
+            # Combine existing and new points
+            combined_points = existing_points + new_points
+            self.logger.info(f"合并后共有 {len(combined_points)} 个巡礼点")
+
+            # Save updated points.json
+            # Preserve the original format (array or object with 'points' property)
+            if isinstance(existing_data, list):
+                with open(points_file, 'w', encoding='utf-8') as f:
+                    json.dump(combined_points, f, ensure_ascii=False, indent=2)
+            else:  # It's a dict with 'points' property
+                existing_data['points'] = combined_points
+                with open(points_file, 'w', encoding='utf-8') as f:
+                    json.dump(existing_data, f, ensure_ascii=False, indent=2)
+
+            # Update info.json if it exists
+            info_file = anime_folder / 'info.json'
+            if info_file.exists():
+                try:
+                    with open(info_file, 'r', encoding='utf-8') as f:
+                        info_data = json.load(f)
+
+                    # Update pointsLength if it exists
+                    if 'pointsLength' in info_data:
+                        info_data['pointsLength'] = len(combined_points)
+
+                    with open(info_file, 'w', encoding='utf-8') as f:
+                        json.dump(info_data, f, ensure_ascii=False, indent=2)
+                except Exception as e:
+                    self.logger.error(f"更新动画 {local_id} 的 info.json 文件失败: {e}")
+                    # Continue anyway as this is not critical
+
+            # Update index.json
+            self.generate_index()
+
+            return True
+
+        except Exception as e:
+            self.logger.error(f"更新动画 {local_id} 的巡礼点时出错: {e}")
+            import traceback
+            self.logger.error(traceback.format_exc())
+            return False
+
     def send_bark_notification(self, bark_url, update_info):
         """Send notification via Bark"""
-        if not update_info["new_anime_count"]:
-            message = "🔍 本次扫描未发现新的动漫。"
+        if not update_info["new_anime_count"] and not update_info.get("updated_anime_count", 0):
+            message = "🔍 本次扫描未发现新的动漫或更新。"
             if 'scanned_count' in update_info:
-                message += f"\n🔢 共扫描了 {update_info['scanned_count']} 个API ID，但都已存在于数据库中。"
+                message += f"\n🔢 共扫描了 {update_info['scanned_count']} 个API ID，但都已存在于数据库中且没有更新。"
         else:
-            message = f"🌟 成功添加 {update_info['new_anime_count']} 部新动漫。\n"
+            message = ""
+            if update_info["new_anime_count"] > 0:
+                message += f"🌟 成功添加 {update_info['new_anime_count']} 部新动漫。\n"
+                message += f"💾 新增API ID: {', '.join(map(str, update_info['new_anime_ids']))}\n"
+                message += f"📁 本地ID范围: {update_info['local_id_range'][0]} 至 {update_info['local_id_range'][1]}\n"
+
+            if update_info.get("updated_anime_count", 0) > 0:
+                message += f"🔄 成功更新 {update_info['updated_anime_count']} 部已有动漫的巡礼点。\n"
+                message += f"💾 更新API ID: {', '.join(map(str, update_info['updated_anime_ids']))}\n"
+
             if 'scanned_count' in update_info:
-                message += f"🔢 共扫描了 {update_info['scanned_count']} 个API ID。\n"
-            message += f"💾 API ID: {', '.join(map(str, update_info['new_anime_ids']))}\n"
-            message += f"📁 本地ID范围: {update_info['local_id_range'][0]} 至 {update_info['local_id_range'][1]}"
+                message += f"🔢 共扫描了 {update_info['scanned_count']} 个API ID。"
 
         title = "📅 动漫巡礼月度更新完成"
         full_url = f"{bark_url}/{title}/{message}"
