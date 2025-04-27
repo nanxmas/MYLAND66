@@ -1,0 +1,364 @@
+{
+  "points": [
+    {
+      "id": "5939-1",
+      "name": "食事処YAMANI",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-1.jpg",
+      "ep": "OP",
+      "geo": [
+        40.58756,
+        140.42091
+      ]
+    },
+    {
+      "id": "5939-2",
+      "name": "神社入口(バス)",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-2.jpg",
+      "ep": "OP",
+      "geo": [
+        40.58813,
+        140.41765
+      ]
+    },
+    {
+      "id": "5939-3",
+      "name": "大正浪漫喫茶室",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-3.jpg",
+      "ep": "OP",
+      "geo": [
+        40.60349,
+        140.46132
+      ]
+    },
+    {
+      "id": "5939-4",
+      "name": "弘前駅",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-4.jpg",
+      "ep": "1",
+      "geo": [
+        40.59916,
+        140.4852
+      ]
+    },
+    {
+      "id": "5939-5",
+      "name": "下湯口(バス)",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-5.jpg",
+      "ep": "1",
+      "geo": [
+        40.5877,
+        140.42034
+      ]
+    },
+    {
+      "id": "5939-6",
+      "name": "成田鉄工所",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-6.jpg",
+      "ep": "1",
+      "geo": [
+        40.58277,
+        140.39178
+      ]
+    },
+    {
+      "id": "5939-7",
+      "name": "イオンタウン弘前樋の口",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-7.jpg",
+      "ep": "1",
+      "geo": [
+        40.6023,
+        140.44457
+      ]
+    },
+    {
+      "id": "5939-8",
+      "name": "DCM 弘前樋の口店",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-8.jpg",
+      "ep": "1",
+      "geo": [
+        40.60274,
+        140.44587
+      ]
+    },
+    {
+      "id": "5939-9",
+      "name": "石場屋酒店",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-9.jpg",
+      "ep": "1",
+      "geo": [
+        40.61213,
+        140.46685
+      ]
+    },
+    {
+      "id": "5939-10",
+      "name": "ツクタ建築",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-10.jpg",
+      "ep": "1",
+      "geo": [
+        40.56945,
+        140.46111
+      ]
+    },
+    {
+      "id": "5939-11",
+      "name": "岩木山神社",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-11.jpg",
+      "ep": "2",
+      "geo": [
+        40.62105,
+        140.34156
+      ]
+    },
+    {
+      "id": "5939-12",
+      "name": "弘前城植物園",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-12.jpg",
+      "ep": "2",
+      "geo": [
+        40.60389,
+        140.4668
+      ]
+    },
+    {
+      "id": "5939-13",
+      "name": "最勝院児童公園",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-13.jpg",
+      "ep": "2",
+      "geo": [
+        40.5975,
+        140.46868
+      ]
+    },
+    {
+      "id": "5939-14",
+      "name": "山下公園",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-14.jpg",
+      "ep": "2",
+      "geo": [
+        35.44708,
+        139.64835
+      ]
+    },
+    {
+      "id": "5939-15",
+      "name": "青柳(バス)",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-15.jpg",
+      "ep": "2",
+      "geo": [
+        40.58987,
+        140.42433
+      ]
+    },
+    {
+      "id": "5939-16",
+      "name": "㈲ゴールド農園 加工場",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-16.jpg",
+      "ep": "2",
+      "geo": [
+        40.58454,
+        140.41723
+      ]
+    },
+    {
+      "id": "5939-17",
+      "name": "神明宮",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-17.jpg",
+      "ep": "3",
+      "geo": [
+        40.58749,
+        140.41732
+      ]
+    },
+    {
+      "id": "5939-18",
+      "name": "弘前城 外濠",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-18.jpg",
+      "ep": "4",
+      "geo": [
+        40.6034,
+        140.46464
+      ]
+    },
+    {
+      "id": "5939-19",
+      "name": "弘前城三の丸南門（追手門）",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-19.jpg",
+      "ep": "4",
+      "geo": [
+        40.60383,
+        140.4642
+      ]
+    },
+    {
+      "id": "5939-20",
+      "name": "下乗橋(げじょうばし)",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-20.jpg",
+      "ep": "4",
+      "geo": [
+        40.60708,
+        140.46428
+      ]
+    },
+    {
+      "id": "5939-21",
+      "name": "賀田橋(よしたばし)",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-21.jpg",
+      "ep": "4",
+      "geo": [
+        40.61057,
+        140.46643
+      ]
+    },
+    {
+      "id": "5939-22",
+      "name": "波祢橋(はねばし)",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-22.jpg",
+      "ep": "4",
+      "geo": [
+        40.6101,
+        140.46334
+      ]
+    },
+    {
+      "id": "5939-23",
+      "name": "メッセージアートギャラリー観空の宇",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-23.jpg",
+      "ep": "5",
+      "geo": [
+        40.58602,
+        140.41779
+      ]
+    },
+    {
+      "id": "5939-24",
+      "name": "ちいんの郷青柳",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-24.jpg",
+      "ep": "5",
+      "geo": [
+        40.58787,
+        140.41851
+      ]
+    },
+    {
+      "id": "5939-25",
+      "name": "㈲ゆめりんご 本社",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-25.jpg",
+      "ep": "5",
+      "geo": [
+        40.58739,
+        140.42175
+      ]
+    },
+    {
+      "id": "5939-26",
+      "name": "ファミリーサロン いしおか",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-26.jpg",
+      "ep": "5",
+      "geo": [
+        40.58784,
+        140.41977
+      ]
+    },
+    {
+      "id": "5939-27",
+      "name": "フューチャー",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-27.jpg",
+      "ep": "5",
+      "geo": [
+        40.58892,
+        140.41492
+      ]
+    },
+    {
+      "id": "5939-28",
+      "name": "弘前市上下水道部 紙漉沢地区農業集落排水処理施設",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-28.jpg",
+      "ep": "5",
+      "geo": [
+        40.58332,
+        140.39024
+      ]
+    },
+    {
+      "id": "5939-29",
+      "name": "ローソン 弘前湯口店",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-29.jpg",
+      "ep": "6",
+      "geo": [
+        40.58863,
+        140.4141
+      ]
+    },
+    {
+      "id": "5939-30",
+      "name": "栩内橋",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-30.jpg",
+      "ep": "6",
+      "geo": [
+        40.58899,
+        140.41548
+      ]
+    },
+    {
+      "id": "5939-31",
+      "name": "熊谷農林",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-31.jpg",
+      "ep": "7",
+      "geo": [
+        40.58163,
+        140.27809
+      ]
+    },
+    {
+      "id": "5939-32",
+      "name": "悪戸河川敷簡易運動場",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-32.jpg",
+      "ep": "11",
+      "geo": [
+        40.5959,
+        140.42651
+      ]
+    },
+    {
+      "id": "5939-33",
+      "name": "弘前市立観光館",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-33.jpg",
+      "ep": "12",
+      "geo": [
+        40.60331,
+        140.46507
+      ]
+    },
+    {
+      "id": "5939-34",
+      "name": "旧吉井酒造煉瓦倉庫",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-34.jpg",
+      "ep": "12",
+      "geo": [
+        40.59812,
+        140.47256
+      ]
+    },
+    {
+      "id": "5939-35",
+      "name": "土淵川吉野町緑地",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-35.jpg",
+      "ep": "12",
+      "geo": [
+        40.59854,
+        140.47151
+      ]
+    },
+    {
+      "id": "5939-36",
+      "name": "しまや",
+      "image": "https://image.xinu.ink/pic/data/5939/images/5939-36.jpg",
+      "ep": "12",
+      "geo": [
+        40.60376,
+        140.4721
+      ]
+    }
+  ]
+}

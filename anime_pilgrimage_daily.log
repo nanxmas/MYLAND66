@@ -9,3 +9,14 @@
 2025-04-23 14:21:50,346 - AnimePilgrimageUpdater - INFO - Test anime 4: ツルネ -風舞高校弓道部-
 2025-04-23 14:21:50,346 - AnimePilgrimageUpdater - INFO - Test anime 5: 小市民シリーズ 2期
 2025-04-23 14:45:56,589 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
+2025-04-27 12:41:04,772 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-04-27 12:41:04,772 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-04-27 12:41:05,004 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-04-27 12:41:06,720 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-04-27 12:43:46,426 - AnimePilgrimageUpdater - INFO - Successfully retrieved 90 anime in test run
+2025-04-27 12:43:46,426 - AnimePilgrimageUpdater - INFO - Test anime 1: デジモンアドベンチャー tri. 第1章「再会」
+2025-04-27 12:43:46,426 - AnimePilgrimageUpdater - INFO - Test anime 2: ふらいんぐうぃっち
+2025-04-27 12:43:46,426 - AnimePilgrimageUpdater - INFO - Test anime 3: 宇宙よりも遠い場所
+2025-04-27 12:43:46,427 - AnimePilgrimageUpdater - INFO - Test anime 4: 小市民シリーズ 2期
+2025-04-27 12:43:46,427 - AnimePilgrimageUpdater - INFO - Test anime 5: ラブライブ! スーパースター!!
+2025-04-27 13:18:30,195 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
