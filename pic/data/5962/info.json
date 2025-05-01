@@ -1,0 +1,132 @@
+{
+  "id": 103127,
+  "cn": "电器街的漫画店",
+  "title": "デンキ街の本屋さん",
+  "city": "千代田区",
+  "cover": "https://image.xinu.ink/pic/data/5962/images/103127.jpg",
+  "color": "#ffbf00",
+  "geo": [
+    35.70294553788371,
+    139.771734251643
+  ],
+  "zoom": 14.598,
+  "modified": 1746011960448,
+  "litePoints": [
+    {
+      "id": "un4lhmgx7",
+      "name": "秋叶原",
+      "image": "https://image.anitabi.cn/points/103127/un4lhmgx7_1744693921299_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 1,
+      "geo": [
+        35.6996,
+        139.7713
+      ]
+    },
+    {
+      "id": "uml3zd2da",
+      "name": "コミックとらのあな秋葉原店Ｂ",
+      "image": "https://image.anitabi.cn/points/103127/uml3zd2da_1744693924345_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 25,
+      "geo": [
+        35.7003,
+        139.7716
+      ]
+    },
+    {
+      "id": "un2tphuhs",
+      "name": "ミスター​ドーナツ​秋葉原​ショップ",
+      "image": "https://image.anitabi.cn/points/103127/un2tphuhs_1744693927278_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 323,
+      "geo": [
+        35.7004,
+        139.7712
+      ]
+    },
+    {
+      "id": "un353ah4k",
+      "name": "市川站北口",
+      "image": "https://image.anitabi.cn/points/103127/un353ah4k_1744693929167_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 843,
+      "geo": [
+        35.7294,
+        139.9078
+      ]
+    },
+    {
+      "id": "un39w2dy6",
+      "name": "市川站中央检票口",
+      "image": "https://image.anitabi.cn/points/103127/un39w2dy6_1744693931493_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 984,
+      "geo": [
+        35.729,
+        139.9077
+      ]
+    },
+    {
+      "id": "un3qtpgk2",
+      "name": "东京国际会展中心西侧海域",
+      "image": "https://image.anitabi.cn/points/103127/un3qtpgk2_1744693933234_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 1184,
+      "geo": [
+        35.628,
+        139.7915
+      ]
+    },
+    {
+      "id": "un3sjtcpn",
+      "name": "国际展示场站B口",
+      "image": "https://image.anitabi.cn/points/103127/un3sjtcpn_1744693936154_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 1189,
+      "geo": [
+        35.6342,
+        139.7917
+      ]
+    },
+    {
+      "id": "un3xvdzla",
+      "name": "东京国际会展中心",
+      "image": "https://image.anitabi.cn/points/103127/un3xvdzla_1744693938347_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 1238,
+      "geo": [
+        35.6301,
+        139.7937
+      ]
+    },
+    {
+      "id": "un487z4nz",
+      "name": "神田ふれあい橋",
+      "image": "https://image.anitabi.cn/points/103127/un487z4nz_1744693940605_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 1334,
+      "geo": [
+        35.6969,
+        139.7732
+      ]
+    },
+    {
+      "id": "un4dbdyii",
+      "cn": "柳森神社",
+      "name": "柳森神社",
+      "image": "https://image.anitabi.cn/points/103127/un4dbdyii_1744693942830_c16v9.jpg?plan=h160",
+      "ep": 1,
+      "s": 1336,
+      "geo": [
+        35.6967,
+        139.7735
+      ]
+    }
+  ],
+  "pointsLength": 24,
+  "imagesLength": 24,
+  "name": "デンキ街の本屋さん",
+  "name_cn": "电器街的漫画店",
+  "local_id": 5962
+}

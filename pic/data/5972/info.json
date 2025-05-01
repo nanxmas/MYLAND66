@@ -1,0 +1,113 @@
+{
+  "id": 109378,
+  "cn": "命运-冠位指定",
+  "title": "Fate/Grand Order",
+  "cover": "https://image.xinu.ink/pic/data/5972/images/109378.jpg",
+  "color": "#e3aa71",
+  "geo": [
+    37.29880009055182,
+    136.99717762765118
+  ],
+  "zoom": 5.303,
+  "modified": 1743951363404,
+  "litePoints": [
+    {
+      "id": "o3teh8i7i",
+      "cn": "索尔兹伯里大教堂",
+      "name": "Salisbury Cathedral",
+      "image": "https://image.anitabi.cn/user/0/bangumi/109378/points/o3teh8i7i-1726149037059.jpg?plan=h160",
+      "geo": [
+        51.0649,
+        -1.7973
+      ]
+    },
+    {
+      "id": "o3tk1gy26",
+      "cn": "索尔兹伯里教堂大回廊",
+      "name": "The Cloisters",
+      "image": "https://image.anitabi.cn/user/0/bangumi/109378/points/o3tk1gy26-1726149319744.jpg?plan=h160",
+      "geo": [
+        51.0644,
+        -1.7979
+      ]
+    },
+    {
+      "id": "tczpha8f1",
+      "name": "Kalākaua Ave",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/109378/points/tczpha8f1-1740973542760.jpg?plan=h160",
+      "geo": [
+        21.2765,
+        -157.8261
+      ]
+    },
+    {
+      "id": "u3k04bf8r",
+      "name": "长城",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/109378/points/u3k04bf8r-1743055172182.jpg?plan=h160",
+      "geo": [
+        40.3604,
+        116.0048
+      ]
+    },
+    {
+      "id": "u3gowaxma",
+      "name": "八达岭长城",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/109378/points/u3gowaxma-1743047963476.jpg?plan=h160",
+      "geo": [
+        40.3603,
+        116.005
+      ]
+    },
+    {
+      "id": "u3l9e0py6",
+      "name": "故宫",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/109378/points/u3l9e0py6-1743057913082.jpg?plan=h160",
+      "geo": [
+        39.9154,
+        116.3905
+      ]
+    },
+    {
+      "id": "u3ksh071z",
+      "name": "漓江",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/109378/points/u3ksh071z-1743056890034.jpg?plan=h160",
+      "geo": [
+        24.9931,
+        110.4481
+      ]
+    },
+    {
+      "id": "u3kvqi0ix",
+      "name": "青城山老君阁",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/109378/points/u3kvqi0ix-1743057084404.jpg?plan=h160",
+      "geo": [
+        30.9102,
+        103.5584
+      ]
+    },
+    {
+      "id": "u3l6qbiuw",
+      "name": "中国·哈尔滨冰雪大世界",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/109378/points/u3l6qbiuw-1743057758402.jpg?plan=h160",
+      "geo": [
+        45.7743,
+        126.5566
+      ]
+    },
+    {
+      "id": "sbh176wfl",
+      "cn": "姬路城",
+      "name": "姬路城",
+      "image": "https://image.anitabi.cn/user/2148/bangumi/109378/points/sbh176wfl-1738033433423.jpg?plan=h160",
+      "geo": [
+        34.8394,
+        134.6939
+      ]
+    }
+  ],
+  "pointsLength": 85,
+  "imagesLength": 85,
+  "name": "Fate/Grand Order",
+  "name_cn": "命运-冠位指定",
+  "local_id": 5972
+}
