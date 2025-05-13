@@ -42,3 +42,14 @@
 2025-05-11 12:43:42,290 - AnimePilgrimageUpdater - INFO - Test anime 4: 真･侍伝 YAIBA
 2025-05-11 12:43:42,290 - AnimePilgrimageUpdater - INFO - Test anime 5: 小市民シリーズ 2期
 2025-05-11 13:01:29,757 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
+2025-05-13 12:48:20,474 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-05-13 12:48:20,474 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-05-13 12:48:20,679 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-05-13 12:48:21,974 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-05-13 12:51:01,769 - AnimePilgrimageUpdater - INFO - Successfully retrieved 90 anime in test run
+2025-05-13 12:51:01,769 - AnimePilgrimageUpdater - INFO - Test anime 1: 前橋ウィッチーズ
+2025-05-13 12:51:01,769 - AnimePilgrimageUpdater - INFO - Test anime 2: ゆるゆり なちゅやちゅみ！＋
+2025-05-13 12:51:01,770 - AnimePilgrimageUpdater - INFO - Test anime 3: ゆるゆり なちゅやちゅみ！
+2025-05-13 12:51:01,770 - AnimePilgrimageUpdater - INFO - Test anime 4: ゆるゆり さん☆ハイ！
+2025-05-13 12:51:01,770 - AnimePilgrimageUpdater - INFO - Test anime 5: Summer Pockets
+2025-05-13 13:07:27,392 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
