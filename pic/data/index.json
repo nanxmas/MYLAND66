@@ -397670,5 +397670,613 @@
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6081/points.json"
+  },
+  "6082": {
+    "name": "大室家 dear sisters",
+    "name_cn": "大室家 dear sisters",
+    "cover": "https://image.xinu.ink/pic/data/6082/images/1.jpg",
+    "theme_color": "#928278",
+    "points": [
+      {
+        "id": "uum32cfo",
+        "name": "エヌアイウエル（株）",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-1.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73537,
+          136.99969
+        ]
+      },
+      {
+        "id": "tjlfnhhz",
+        "name": "エヌアイウエル（株）",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-2.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73526,
+          136.99983
+        ]
+      },
+      {
+        "id": "b1l8ezcx",
+        "name": "エヌアイウエル（株）",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-3.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73501,
+          137.00015
+        ]
+      },
+      {
+        "id": "xwt81r98",
+        "name": "エヌアイウエル（株）",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-4.jpg",
+        "ep": "OP",
+        "geo": [
+          36.7348,
+          137.00044
+        ]
+      },
+      {
+        "id": "6oje2ud6",
+        "name": "エヌアイウエル（株）",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-5.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73485,
+          137.00055
+        ]
+      },
+      {
+        "id": "71msaexq",
+        "name": "グリーンパーキング",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-6.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73508,
+          137.00083
+        ]
+      },
+      {
+        "id": "rabh74c3",
+        "name": "グリーンパーキング",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-7.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73519,
+          137.00093
+        ]
+      },
+      {
+        "id": "hip89fv5",
+        "name": "グリーンパーキング",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-8.jpg",
+        "ep": "OP",
+        "geo": [
+          36.7353,
+          137.00108
+        ]
+      },
+      {
+        "id": "5t9oc815",
+        "name": "グリーンパーキング",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-9.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73542,
+          137.00124
+        ]
+      },
+      {
+        "id": "uiehdusu",
+        "name": "グリーンパーキング",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-10.jpg",
+        "ep": "OP",
+        "geo": [
+          36.7357,
+          137.00128
+        ]
+      },
+      {
+        "id": "1kleq4qy",
+        "name": "浦田ライフサービス",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-11.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73572,
+          137.00212
+        ]
+      },
+      {
+        "id": "ue8vg8t6",
+        "name": "ライブタウン高岡",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-12.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73564,
+          137.00264
+        ]
+      },
+      {
+        "id": "cqlgdw2x",
+        "name": "寺田矯正歯科医院",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-13.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73552,
+          137.00404
+        ]
+      },
+      {
+        "id": "429nqgzb",
+        "name": "寺田矯正歯科医院",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-14.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73546,
+          137.00483
+        ]
+      },
+      {
+        "id": "a1hlbgzb",
+        "name": "あぱはうす壱番館",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-15.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73567,
+          137.00574
+        ]
+      },
+      {
+        "id": "zey8hliq",
+        "name": "グリーンパーキング",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-16.jpg",
+        "ep": "",
+        "geo": [
+          36.73549,
+          137.00128
+        ]
+      },
+      {
+        "id": "v7jtp8h1",
+        "name": "グリーンパーキング",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-17.jpg",
+        "ep": "",
+        "geo": [
+          36.73511,
+          137.00086
+        ]
+      },
+      {
+        "id": "3wi4ytvs",
+        "name": "グリーンパーキング",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-18.jpg",
+        "ep": "",
+        "geo": [
+          36.7354,
+          137.00121
+        ]
+      },
+      {
+        "id": "cwmnbbbc",
+        "name": "グリーンパーキング",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-19.jpg",
+        "ep": "",
+        "geo": [
+          36.73558,
+          137.00128
+        ]
+      },
+      {
+        "id": "wt4xjal1",
+        "name": "酒のハッスル",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-20.jpg",
+        "ep": "",
+        "geo": [
+          36.73663,
+          136.99902
+        ]
+      },
+      {
+        "id": "x8dh563f",
+        "name": "イタリア惣菜店contorno（コントルノ）",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-21.jpg",
+        "ep": "",
+        "geo": [
+          36.74883,
+          137.00932
+        ]
+      },
+      {
+        "id": "ulb4oecw",
+        "name": "小竹藪広場",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-22.jpg",
+        "ep": "",
+        "geo": [
+          36.75037,
+          137.02348
+        ]
+      },
+      {
+        "id": "1oao74wq",
+        "name": "小竹藪広場",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-23.jpg",
+        "ep": "",
+        "geo": [
+          36.75086,
+          137.023
+        ]
+      },
+      {
+        "id": "bbeygkd9",
+        "name": "ローソン 高岡駅前店",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-24.jpg",
+        "ep": "",
+        "geo": [
+          36.74324,
+          137.01652
+        ]
+      },
+      {
+        "id": "1po5yl9q",
+        "name": "s. r-trois / エス エール トロワ",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-25.jpg",
+        "ep": "",
+        "geo": [
+          36.73898,
+          137.00568
+        ]
+      },
+      {
+        "id": "zwr936wk",
+        "name": "s. r-trois / エス エール トロワ",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-26.jpg",
+        "ep": "",
+        "geo": [
+          36.73908,
+          137.00572
+        ]
+      },
+      {
+        "id": "eyosqb4v",
+        "name": "ふじた花器",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-27.jpg",
+        "ep": "",
+        "geo": [
+          36.73704,
+          137.00659
+        ]
+      },
+      {
+        "id": "s57euj4w",
+        "name": "ふじた花器",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-28.jpg",
+        "ep": "",
+        "geo": [
+          36.73693,
+          137.00653
+        ]
+      },
+      {
+        "id": "a9yn1zhz",
+        "name": "はぴねすグループホームいずみ",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-29.jpg",
+        "ep": "",
+        "geo": [
+          36.73683,
+          137.00643
+        ]
+      },
+      {
+        "id": "iu3t7nbm",
+        "name": "はぴねすグループホームいずみ",
+        "image": "https://image.xinu.ink/pic/data/6082/images/6082-30.jpg",
+        "ep": "",
+        "geo": [
+          36.73684,
+          137.0062
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6082/points.json"
+  },
+  "6083": {
+    "name": "大室家 dear friends",
+    "name_cn": "大室家 dear friends",
+    "cover": "https://image.xinu.ink/pic/data/6083/images/1.jpg",
+    "theme_color": "#89776d",
+    "points": [
+      {
+        "id": "vfyc2f07",
+        "name": "エヌアイウエル（株）",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-1.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73537,
+          136.99969
+        ]
+      },
+      {
+        "id": "mslhyi6c",
+        "name": "エヌアイウエル（株）",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-2.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73526,
+          136.99983
+        ]
+      },
+      {
+        "id": "2rhhgkud",
+        "name": "エヌアイウエル（株）",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-3.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73501,
+          137.00015
+        ]
+      },
+      {
+        "id": "bglobm75",
+        "name": "エヌアイウエル（株）",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-4.jpg",
+        "ep": "OP",
+        "geo": [
+          36.7348,
+          137.00044
+        ]
+      },
+      {
+        "id": "4osmecg8",
+        "name": "エヌアイウエル（株）",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-5.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73485,
+          137.00055
+        ]
+      },
+      {
+        "id": "ra84sa9c",
+        "name": "グリーンパーキング",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-6.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73508,
+          137.00083
+        ]
+      },
+      {
+        "id": "hbde3ynb",
+        "name": "グリーンパーキング",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-7.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73519,
+          137.00093
+        ]
+      },
+      {
+        "id": "2v6rm1x4",
+        "name": "グリーンパーキング",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-8.jpg",
+        "ep": "OP",
+        "geo": [
+          36.7353,
+          137.00108
+        ]
+      },
+      {
+        "id": "ekpcym16",
+        "name": "グリーンパーキング",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-9.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73542,
+          137.00124
+        ]
+      },
+      {
+        "id": "8xe0ey69",
+        "name": "グリーンパーキング",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-10.jpg",
+        "ep": "OP",
+        "geo": [
+          36.7357,
+          137.00128
+        ]
+      },
+      {
+        "id": "97t0tu6j",
+        "name": "浦田ライフサービス",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-11.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73572,
+          137.00212
+        ]
+      },
+      {
+        "id": "odxb0zr9",
+        "name": "ライブタウン高岡",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-12.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73564,
+          137.00264
+        ]
+      },
+      {
+        "id": "unaap63l",
+        "name": "寺田矯正歯科医院",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-13.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73552,
+          137.00404
+        ]
+      },
+      {
+        "id": "5m0vua52",
+        "name": "寺田矯正歯科医院",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-14.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73546,
+          137.00483
+        ]
+      },
+      {
+        "id": "95wyrm1l",
+        "name": "あぱはうす壱番館",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-15.jpg",
+        "ep": "OP",
+        "geo": [
+          36.73567,
+          137.00574
+        ]
+      },
+      {
+        "id": "y2jyhobt",
+        "name": "中の島",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-16.jpg",
+        "ep": "",
+        "geo": [
+          36.75062,
+          137.02206
+        ]
+      },
+      {
+        "id": "l0zplx1y",
+        "name": "アットパーク第二駐車場",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-17.jpg",
+        "ep": "",
+        "geo": [
+          36.74508,
+          137.01376
+        ]
+      },
+      {
+        "id": "423tnu2w",
+        "name": "御旅屋セリオ",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-18.jpg",
+        "ep": "",
+        "geo": [
+          36.74536,
+          137.0143
+        ]
+      },
+      {
+        "id": "ccxgkq5x",
+        "name": "御旅屋通ポケットパーク",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-19.jpg",
+        "ep": "",
+        "geo": [
+          36.74569,
+          137.01585
+        ]
+      },
+      {
+        "id": "9kkr3xd6",
+        "name": "ローソン 高岡駅前店",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-20.jpg",
+        "ep": "",
+        "geo": [
+          36.74316,
+          137.01647
+        ]
+      },
+      {
+        "id": "tryuwn89",
+        "name": "Green Bean to Bar Chocolate | Nakameguro",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-21.jpg",
+        "ep": "",
+        "geo": [
+          35.64879,
+          139.69403
+        ]
+      },
+      {
+        "id": "0j81vwhh",
+        "name": "千保川緑地",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-22.jpg",
+        "ep": "",
+        "geo": [
+          36.74196,
+          137.00015
+        ]
+      },
+      {
+        "id": "adkrv3uz",
+        "name": "喫茶 ラ・フォーレ",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-23.jpg",
+        "ep": "",
+        "geo": [
+          36.73924,
+          137.00268
+        ]
+      },
+      {
+        "id": "57toeou0",
+        "name": "Ｖ・drug 高岡木津店",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-24.jpg",
+        "ep": "",
+        "geo": [
+          36.73865,
+          137.00156
+        ]
+      },
+      {
+        "id": "q61ds1c3",
+        "name": "喫茶 ラ・フォーレ",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-25.jpg",
+        "ep": "",
+        "geo": [
+          36.73951,
+          137.00259
+        ]
+      },
+      {
+        "id": "jzy5n81m",
+        "name": "金屋緑地公園",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-26.jpg",
+        "ep": "",
+        "geo": [
+          36.75009,
+          137.00712
+        ]
+      },
+      {
+        "id": "x7yyy9ev",
+        "name": "金屋緑地公園",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-27.jpg",
+        "ep": "",
+        "geo": [
+          36.75001,
+          137.00751
+        ]
+      },
+      {
+        "id": "emzvdpni",
+        "name": "s. r-trois / エス エール トロワ",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-28.jpg",
+        "ep": "",
+        "geo": [
+          36.73898,
+          137.00569
+        ]
+      },
+      {
+        "id": "bna7fbke",
+        "name": "グリーンパーキング",
+        "image": "https://image.xinu.ink/pic/data/6083/images/6083-29.jpg",
+        "ep": "",
+        "geo": [
+          36.73603,
+          137.00136
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6083/points.json"
   }
 }
