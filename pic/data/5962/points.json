@@ -207,5 +207,44 @@
     ],
     "origin": "Anitabi@Nakano Prisma",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "vhtc9avr6",
+    "name": "関取​リラーメン​竜​軒",
+    "image": "https://image.xinu.ink/pic/data/5962/images/vhtc9avr6_1747008358067_c16v9.jpg",
+    "ep": 5,
+    "s": 708,
+    "geo": [
+      35.7003,
+      139.7718
+    ],
+    "origin": "Anitabi@Nakano Prisma",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "vhyat8a3g",
+    "name": "大江户温泉物语",
+    "image": "https://image.xinu.ink/pic/data/5962/images/vhyat8a3g_1747008380323_c16v9.jpg",
+    "ep": 7,
+    "s": 174,
+    "geo": [
+      35.6159,
+      139.7776
+    ],
+    "origin": "Anitabi@Nakano Prisma",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6mbpqx",
+    "name": "哈纳卓能屋",
+    "image": "https://image.xinu.ink/pic/data/5962/images/6mbpqx-1747410719432.jpg",
+    "ep": 7,
+    "s": 251,
+    "geo": [
+      35.6895,
+      139.7129
+    ],
+    "origin": "Anitabi@Nakano Prisma",
+    "originURL": "https://anitabi.cn/"
   }
 ]

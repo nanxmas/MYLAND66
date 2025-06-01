@@ -1,0 +1,53 @@
+[
+  {
+    "id": "kwkt8d",
+    "name": "鉄板中華 青山シャンウェイ",
+    "image": "https://image.xinu.ink/pic/data/6084/images/kwkt8d_1748274410934.jpg",
+    "ep": 9,
+    "geo": [
+      35.681,
+      139.7039
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "fdc42050",
+    "cn": "【閉店】東京都江東区枝川のアトム",
+    "name": "枝川３丁目８−８",
+    "image": "https://image.xinu.ink/pic/data/6084/images/fdc42050_1748273801200.jpg",
+    "ep": 10,
+    "geo": [
+      35.6578,
+      139.8105
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Ni7tlZtxtQRex1rLleNvHkj7mebPf70&ll=35.65789%2C139.810514&z=17"
+  },
+  {
+    "id": "95d3cb77",
+    "cn": "東京都大田区蒲田のベトナム料理ティティ",
+    "name": "２６",
+    "image": "https://image.xinu.ink/pic/data/6084/images/95d3cb77_1748273626117.jpg",
+    "ep": 11,
+    "geo": [
+      35.5626,
+      139.7202
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Ni7tlZtxtQRex1rLleNvHkj7mebPf70&ll=35.562611%2C139.72026&z=17"
+  },
+  {
+    "id": "69b28404",
+    "cn": "【閉店】東京都渋谷区恵比寿のさいき",
+    "name": "恵比寿西１丁目７−１２",
+    "image": "https://image.xinu.ink/pic/data/6084/images/69b28404_1748274111344.jpg",
+    "ep": 12,
+    "geo": [
+      35.6479,
+      139.7085
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Ni7tlZtxtQRex1rLleNvHkj7mebPf70&ll=35.647914%2C139.708504&z=17"
+  }
+]
