@@ -64,3 +64,14 @@
 2025-05-30 12:49:33,726 - AnimePilgrimageUpdater - INFO - Test anime 4: 劇場版 のんのんびより ばけーしょん
 2025-05-30 12:49:33,726 - AnimePilgrimageUpdater - INFO - Test anime 5: アポカリプスホテル
 2025-05-30 13:07:25,716 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
+2025-06-15 12:43:27,518 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-06-15 12:43:27,518 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-06-15 12:43:27,729 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-06-15 12:43:28,881 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-06-15 12:45:45,362 - AnimePilgrimageUpdater - INFO - Successfully retrieved 36 anime in test run
+2025-06-15 12:45:45,362 - AnimePilgrimageUpdater - INFO - Test anime 1: 文豪ストレイドッグス3
+2025-06-15 12:45:45,362 - AnimePilgrimageUpdater - INFO - Test anime 2: 前橋ウィッチーズ
+2025-06-15 12:45:45,362 - AnimePilgrimageUpdater - INFO - Test anime 3: 小市民シリーズ 2期
+2025-06-15 12:45:45,362 - AnimePilgrimageUpdater - INFO - Test anime 4: ウマ娘 シンデレラグレイ
+2025-06-15 12:45:45,362 - AnimePilgrimageUpdater - INFO - Test anime 5: mono
+2025-06-15 12:58:37,808 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
