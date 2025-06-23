@@ -400044,5 +400044,224 @@
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6086/points.json"
+  },
+  "6087": {
+    "name": "ウマ娘 プリティーダービー Season 2",
+    "name_cn": "ウマ娘 プリティーダービー Season 2",
+    "cover": "https://image.xinu.ink/pic/data/6087/images/1.jpg",
+    "theme_color": "#89b1b5",
+    "points": [
+      {
+        "id": "wu1ts6ps",
+        "name": "東京競馬場",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-1.jpg",
+        "ep": "1",
+        "geo": [
+          35.66451,
+          139.48306
+        ]
+      },
+      {
+        "id": "06c1x7u2",
+        "name": "東京競馬場パドック",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-2.jpg",
+        "ep": "1",
+        "geo": [
+          35.66582,
+          139.4838
+        ]
+      },
+      {
+        "id": "i6po74xo",
+        "name": "京都競馬場",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-3.jpg",
+        "ep": "2",
+        "geo": [
+          34.90724,
+          135.72643
+        ]
+      },
+      {
+        "id": "guolui9e",
+        "name": "賀茂神社",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-4.jpg",
+        "ep": "3",
+        "geo": [
+          35.12496,
+          136.06611
+        ]
+      },
+      {
+        "id": "2pswm867",
+        "name": "中山競馬場",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-5.jpg",
+        "ep": "3",
+        "geo": [
+          35.7264,
+          139.96104
+        ]
+      },
+      {
+        "id": "25j8h28m",
+        "name": "阪神競馬場",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-6.jpg",
+        "ep": "3",
+        "geo": [
+          34.77868,
+          135.3647
+        ]
+      },
+      {
+        "id": "m5vwcxby",
+        "name": "阪神競馬場",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-7.jpg",
+        "ep": "3",
+        "geo": [
+          34.77973,
+          135.36035
+        ]
+      },
+      {
+        "id": "dnnmaf2r",
+        "name": "京都競馬場",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-8.jpg",
+        "ep": "5",
+        "geo": [
+          34.9078,
+          135.72382
+        ]
+      },
+      {
+        "id": "fn3zwlmz",
+        "name": "ハチ公前広場",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-9.jpg",
+        "ep": "7",
+        "geo": [
+          35.65899,
+          139.70075
+        ]
+      },
+      {
+        "id": "7bu5zykh",
+        "name": "ハチ公前広場",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-10.jpg",
+        "ep": "7",
+        "geo": [
+          35.65923,
+          139.70089
+        ]
+      },
+      {
+        "id": "9n2fknj7",
+        "name": "新潟競馬場",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-11.jpg",
+        "ep": "7",
+        "geo": [
+          37.94816,
+          139.18453
+        ]
+      },
+      {
+        "id": "inaqmnp1",
+        "name": "緑の広場",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-12.jpg",
+        "ep": "8",
+        "geo": [
+          34.90624,
+          135.72273
+        ]
+      },
+      {
+        "id": "i4zbeem2",
+        "name": "井の頭恩賜公園",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-13.jpg",
+        "ep": "9",
+        "geo": [
+          35.70011,
+          139.57771
+        ]
+      },
+      {
+        "id": "nhxm3n43",
+        "name": "井の頭恩賜公園",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-14.jpg",
+        "ep": "9",
+        "geo": [
+          35.69993,
+          139.57798
+        ]
+      },
+      {
+        "id": "ql4w49zt",
+        "name": "ファミリーマート 府中宮町店",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-15.jpg",
+        "ep": "9",
+        "geo": [
+          35.67108,
+          139.48147
+        ]
+      },
+      {
+        "id": "cvwtsyhp",
+        "name": "福島競馬場",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-16.jpg",
+        "ep": "10",
+        "geo": [
+          37.76589,
+          140.48132
+        ]
+      },
+      {
+        "id": "coxsituv",
+        "name": "ABC-MART GRAND STAGE 原宿店",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-17.jpg",
+        "ep": "10",
+        "geo": [
+          35.66944,
+          139.706
+        ]
+      },
+      {
+        "id": "cwxtllu6",
+        "name": "くるる",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-18.jpg",
+        "ep": "11",
+        "geo": [
+          35.67118,
+          139.48045
+        ]
+      },
+      {
+        "id": "i36vxg1x",
+        "name": "船橋法典駅",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-19.jpg",
+        "ep": "13",
+        "geo": [
+          35.72964,
+          139.9669
+        ]
+      },
+      {
+        "id": "ix5vqc0k",
+        "name": "中山競馬場",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-20.jpg",
+        "ep": "13",
+        "geo": [
+          35.72574,
+          139.95945
+        ]
+      },
+      {
+        "id": "69ik3hbi",
+        "name": "中山競馬場",
+        "image": "https://image.xinu.ink/pic/data/6087/images/6087-21.jpg",
+        "ep": "13",
+        "geo": [
+          35.72513,
+          139.96032
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6087/points.json"
   }
 }
