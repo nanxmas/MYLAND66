@@ -145041,6 +145041,16 @@
           140.8138
         ],
         "originLink": "https://maps.app.goo.gl/EfUqHNZ1BeiaxKiB6"
+      },
+      {
+        "id": "31a9odf",
+        "name": "洞爺湖ビジターセンター・火山科学館",
+        "image": "https://image.xinu.ink/pic/data/366/images/31a9odf-1749371193736.jpg",
+        "ep": "sp",
+        "geo": [
+          42.5639,
+          140.8156
+        ]
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/366/points.json"
@@ -151124,6 +151134,42 @@
         "geo": [
           35.6281,
           139.7743
+        ],
+        "origin": "Anitabi@耿耿-げん",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "146w8g1",
+        "name": "故宫",
+        "image": "https://image.xinu.ink/pic/data/382/images/146w8g1-1749440595630.jpg",
+        "ep": "サーヴァントと巡る世界展 - Re:Collection - Lostbelt No.3 オンラインムービー",
+        "geo": [
+          39.9159,
+          116.3905
+        ],
+        "origin": "Anitabi@耿耿-げん",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "1ld8uo7",
+        "name": "東京駅",
+        "image": "https://image.xinu.ink/pic/data/382/images/1ld8uo7-1750479182705.jpg",
+        "ep": "Fate/Grand Order 全国縦断広告企画「OVER THE SAME SKY」 キービジュアル解禁映像",
+        "geo": [
+          35.6814,
+          139.7658
+        ],
+        "origin": "Anitabi@耿耿-げん",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "1lnntes",
+        "name": "青城山",
+        "image": "https://image.xinu.ink/pic/data/382/images/1lnntes-1750496738634.jpg",
+        "ep": null,
+        "geo": [
+          30.9068,
+          103.5607
         ],
         "origin": "Anitabi@耿耿-げん",
         "originURL": "https://anitabi.cn/"
@@ -158428,6 +158474,16 @@
         ],
         "origin": "Anitabi@月即别",
         "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "1bstykb",
+        "name": "青砂ヶ浦天主堂前",
+        "image": "https://image.xinu.ink/pic/data/396/images/1bstykb-1749900724548.jpg",
+        "ep": null,
+        "geo": [
+          33.0277,
+          129.0868
+        ]
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/396/points.json"
@@ -161202,6 +161258,85 @@
         ],
         "origin": "百度贴吧 lkj901004的考据",
         "originLink": "https://tieba.baidu.com/p/3840956291?"
+      },
+      {
+        "id": "1qyk7dd",
+        "name": "千石橋",
+        "image": "https://image.xinu.ink/pic/data/405/images/1qyk7dd_1750817333877.jpg",
+        "ep": 9,
+        "s": 175,
+        "geo": [
+          35.6432,
+          139.8248
+        ],
+        "origin": "Anitabi@Xmなのだ",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "1qz5yfe",
+        "name": "日暮里",
+        "image": "https://image.xinu.ink/pic/data/405/images/1qz5yfe-1750818333990.jpg",
+        "ep": 7,
+        "s": 621,
+        "geo": [
+          35.7274,
+          139.7713
+        ],
+        "origin": "Anitabi@Xmなのだ",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "1qznyth",
+        "name": "福富町",
+        "image": "https://image.xinu.ink/pic/data/405/images/1qznyth_1750819161612.jpg",
+        "ep": 3,
+        "s": 356,
+        "geo": [
+          35.4453,
+          139.6308
+        ],
+        "origin": "Anitabi@Xmなのだ",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "1r0s2f9",
+        "name": "英国屋",
+        "image": "https://image.xinu.ink/pic/data/405/images/1r0s2f9_1750822037651.jpg",
+        "ep": 3,
+        "s": 522,
+        "geo": [
+          35.4456,
+          139.6304
+        ],
+        "origin": "Anitabi@Xmなのだ",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "1r2403j",
+        "name": "横浜​サン​商事​ビル",
+        "image": "https://image.xinu.ink/pic/data/405/images/1r2403j_1750823275597.jpg",
+        "ep": 3,
+        "s": 381,
+        "geo": [
+          35.4455,
+          139.6311
+        ],
+        "origin": "Anitabi@Xmなのだ",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "1r34jfc",
+        "cn": "纽约布鲁克林大桥",
+        "name": "Brooklyn Bridge",
+        "image": "https://image.xinu.ink/pic/data/405/images/1r34jfc_1750825191409.jpg",
+        "ep": 8,
+        "s": 1019,
+        "geo": [
+          40.7046,
+          -73.993
+        ],
+        "origin": "Anitabi@Xmなのだ",
+        "originURL": "https://anitabi.cn/"
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/405/points.json"
@@ -166415,6 +166550,78 @@
         ],
         "origin": "Google Maps",
         "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.625824%2C141.566592&z=17"
+      },
+      {
+        "id": "1r6xuav",
+        "cn": "熊标本",
+        "name": "熊の剥製",
+        "image": "https://image.xinu.ink/pic/data/426/images/1r6xuav-1750831451162.jpg",
+        "ep": 7,
+        "s": 89,
+        "geo": [
+          42.6318,
+          141.6049
+        ]
+      },
+      {
+        "id": "1r70q4r",
+        "cn": "小丑",
+        "name": "ピエロ",
+        "image": "https://image.xinu.ink/pic/data/426/images/1r70q4r-1750831635166.jpg",
+        "ep": 4,
+        "s": 438,
+        "geo": [
+          42.6319,
+          141.6049
+        ]
+      },
+      {
+        "id": "1r74arf",
+        "cn": "万花筒",
+        "name": "万華鏡",
+        "image": "https://image.xinu.ink/pic/data/426/images/1r74arf-1750831788065.jpg",
+        "ep": 4,
+        "s": 501,
+        "geo": [
+          42.6319,
+          141.6049
+        ]
+      },
+      {
+        "id": "1r78ary",
+        "cn": "天文馆",
+        "name": "プラネタリウム",
+        "image": "https://image.xinu.ink/pic/data/426/images/1r78ary-1750831892967.jpg",
+        "ep": 4,
+        "s": 523,
+        "geo": [
+          42.6319,
+          141.6048
+        ]
+      },
+      {
+        "id": "1r7avtw",
+        "cn": "厕所",
+        "name": "トイレ",
+        "image": "https://image.xinu.ink/pic/data/426/images/1r7avtw-1750832003039.jpg",
+        "ep": 4,
+        "s": 443,
+        "geo": [
+          42.6317,
+          141.6047
+        ]
+      },
+      {
+        "id": "1r7daop",
+        "cn": "冰球场外部楼梯",
+        "name": "アイスアリーナ外部階段",
+        "image": "https://image.xinu.ink/pic/data/426/images/1r7daop-1750832189121.jpg",
+        "ep": 10,
+        "s": 680,
+        "geo": [
+          42.6396,
+          141.6074
+        ]
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/426/points.json"
@@ -171251,6 +171458,106 @@
         ],
         "origin": "Google Maps",
         "originURL": "https://www.google.com/maps/d/viewer?mid=1F0DRNeGVqr8YRgBrKEu-fi69B8E&ll=35.006312%2C135.772044&z=17"
+      },
+      {
+        "id": "1t17clx",
+        "cn": "佃小桥",
+        "name": "Tsukudako Bridge",
+        "image": "https://image.xinu.ink/pic/data/443/images/1t17clx-1750943019738.jpg",
+        "ep": 1,
+        "s": 1352,
+        "geo": [
+          35.6672,
+          139.7833
+        ]
+      },
+      {
+        "id": "1t1qf58",
+        "cn": "佃天安",
+        "name": "佃煮天安",
+        "image": "https://image.xinu.ink/pic/data/443/images/1t1qf58-1750943632755.jpg",
+        "ep": null,
+        "geo": [
+          35.6676,
+          139.7822
+        ]
+      },
+      {
+        "id": "1ueiueo",
+        "cn": "鸟居",
+        "name": "MQ9J+8X8 中央区 日本东京都",
+        "image": "https://image.xinu.ink/pic/data/443/images/1ueiueo-1751025750315.jpg",
+        "ep": null,
+        "geo": [
+          35.6682,
+          139.7824
+        ]
+      },
+      {
+        "id": "1uf5ed5",
+        "cn": "中央区立石川島公園",
+        "name": "中央区立石川島公園",
+        "image": "https://image.xinu.ink/pic/data/443/images/1uf5ed5-1751026583928.jpg",
+        "ep": null,
+        "geo": [
+          35.6714,
+          139.786
+        ]
+      },
+      {
+        "id": "1ufxtr6",
+        "cn": "麦当劳",
+        "name": "麦当劳",
+        "image": "https://image.xinu.ink/pic/data/443/images/1ufxtr6-1751027900559.jpg",
+        "ep": null,
+        "geo": [
+          35.6651,
+          139.7836
+        ]
+      },
+      {
+        "id": "1ugf0pe",
+        "cn": "月岛站",
+        "name": "月岛站",
+        "image": "https://image.xinu.ink/pic/data/443/images/1ugf0pe-1751028705095.jpg",
+        "ep": null,
+        "geo": [
+          35.6654,
+          139.7841
+        ]
+      },
+      {
+        "id": "1ughu2y",
+        "cn": "高架桥",
+        "name": "高架桥",
+        "image": "https://image.xinu.ink/pic/data/443/images/1ughu2y-1751028942142.jpg",
+        "ep": null,
+        "geo": [
+          35.6662,
+          139.783
+        ]
+      },
+      {
+        "id": "1ugu7yb",
+        "cn": "河边",
+        "name": "无",
+        "image": "https://image.xinu.ink/pic/data/443/images/1ugu7yb-1751029619626.jpg",
+        "ep": null,
+        "geo": [
+          35.6679,
+          139.7823
+        ]
+      },
+      {
+        "id": "1uh4pwc",
+        "cn": "水位观测所",
+        "name": "霊岸島検潮所",
+        "image": "https://image.xinu.ink/pic/data/443/images/1uh4pwc-1751029906680.jpg",
+        "ep": null,
+        "geo": [
+          35.6719,
+          139.7827
+        ]
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/443/points.json"
@@ -174568,6 +174875,19 @@
         "geo": [
           34.8824,
           135.824
+        ],
+        "origin": "Anitabi@甜食伯爵",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "sfexqbi3k",
+        "name": "水管桥",
+        "image": "https://image.xinu.ink/pic/data/449/images/sfexqbi3k_1738342292024.jpg",
+        "ep": 9,
+        "s": 1394,
+        "geo": [
+          34.9005,
+          135.8014
         ],
         "origin": "Anitabi@甜食伯爵",
         "originURL": "https://anitabi.cn/"
@@ -178531,6 +178851,18 @@
         "geo": [
           35.156,
           138.8531
+        ],
+        "origin": "Anitabi@うに",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "1rog3u5",
+        "name": "愛鷹広域公園 多目的競技場",
+        "image": "https://image.xinu.ink/pic/data/458/images/1rog3u5-1750861594139.jpg",
+        "ep": null,
+        "geo": [
+          35.156,
+          138.8535
         ],
         "origin": "Anitabi@うに",
         "originURL": "https://anitabi.cn/"
@@ -184829,6 +185161,17 @@
           34.7055,
           137.7371
         ]
+      },
+      {
+        "id": "uhvmag",
+        "name": "市立天文科学館",
+        "image": "https://image.xinu.ink/pic/data/474/images/uhvmag-1748854386172.jpg",
+        "ep": 1,
+        "s": 611,
+        "geo": [
+          34.6494,
+          135.0013
+        ]
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/474/points.json"
@@ -188745,6 +189088,30 @@
         "geo": [
           35.7126,
           139.7221
+        ]
+      },
+      {
+        "id": "u1y5jx",
+        "cn": "江户川公园·休息亭",
+        "name": "江户川公园·休息亭",
+        "image": "https://image.xinu.ink/pic/data/488/images/u1y5jx-1748827613812.jpg",
+        "ep": "STAR BEAT!～星之鼓动～ 动画MV",
+        "s": "90",
+        "geo": [
+          35.7103,
+          139.7282
+        ]
+      },
+      {
+        "id": "u297pc",
+        "cn": "早大通り·山吹高校前路口",
+        "name": "早大通り·山吹高校前路口",
+        "image": "https://image.xinu.ink/pic/data/488/images/u297pc-1748828130687.jpg",
+        "ep": 11,
+        "s": 1377,
+        "geo": [
+          35.7073,
+          139.7287
         ]
       }
     ],
@@ -399780,488 +400147,742 @@
     "name": "文豪ストレイドッグス3",
     "name_cn": "文豪ストレイドッグス3",
     "cover": "https://image.xinu.ink/pic/data/6086/images/1.jpg",
-    "theme_color": "#504d4e",
-    "points": [
-      {
-        "id": "j4jdmem8",
-        "name": "ルパン",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-1.jpg",
-        "ep": "OP",
-        "geo": [
-          35.67097,
-          139.76317
-        ]
-      },
-      {
-        "id": "0ttxibod",
-        "name": "COFFEE ROASTERY MEGURO",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-2.jpg",
-        "ep": "OP",
-        "geo": [
-          35.44197,
-          139.65012
-        ]
-      },
-      {
-        "id": "37xg9mip",
-        "name": "横浜美術館",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-3.jpg",
-        "ep": "OP",
-        "geo": [
-          35.45731,
-          139.63103
-        ]
-      },
-      {
-        "id": "0nd0x5q9",
-        "name": "神奈川県庁",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-4.jpg",
-        "ep": "OP",
-        "geo": [
-          35.44743,
-          139.64314
-        ]
-      },
-      {
-        "id": "dhkx14lo",
-        "name": "横浜港大さん橋国際客船ターミナル",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-5.jpg",
-        "ep": "OP",
-        "geo": [
-          35.45302,
-          139.64903
-        ]
-      },
-      {
-        "id": "0tzsg32g",
-        "name": "新港橋梁",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-6.jpg",
-        "ep": "ED",
-        "geo": [
-          35.45087,
-          139.64245
-        ]
-      },
-      {
-        "id": "7cidcrl2",
-        "name": "マロリーポークステーキ 横浜店",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-7.jpg",
-        "ep": "ED",
-        "geo": [
-          35.46358,
-          139.6156
-        ]
-      },
-      {
-        "id": "sswa7450",
-        "name": "ジェラールの瓦工場と水屋敷跡",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-8.jpg",
-        "ep": "1",
-        "geo": [
-          35.43915,
-          139.65119
-        ]
-      },
-      {
-        "id": "id1o6s9g",
-        "name": "加賀町警察署 元町交番",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-9.jpg",
-        "ep": "5",
-        "geo": [
-          35.44183,
-          139.65113
-        ]
-      },
-      {
-        "id": "up1xlhgw",
-        "name": "加賀町警察署 元町交番",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-10.jpg",
-        "ep": "5",
-        "geo": [
-          35.44167,
-          139.65086
-        ]
-      },
-      {
-        "id": "ndvl7u6c",
-        "name": "元町プラザ",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-11.jpg",
-        "ep": "5",
-        "geo": [
-          35.44143,
-          139.65077
-        ]
-      },
-      {
-        "id": "vns0s2fl",
-        "name": "スターバックス コーヒー 横浜元町店",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-12.jpg",
-        "ep": "5",
-        "geo": [
-          35.4413,
-          139.65049
-        ]
-      },
-      {
-        "id": "nzdr2355",
-        "name": "キタムラK2 元町本店",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-13.jpg",
-        "ep": "5",
-        "geo": [
-          35.44093,
-          139.64955
-        ]
-      },
-      {
-        "id": "dnc3ylag",
-        "name": "セブン-イレブン 横浜中華街朱雀門店",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-14.jpg",
-        "ep": "5",
-        "geo": [
-          35.44123,
-          139.6483
-        ]
-      },
-      {
-        "id": "k50pd9px",
-        "name": "横浜大世界",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-15.jpg",
-        "ep": "5",
-        "geo": [
-          35.44253,
-          139.64788
-        ]
-      },
-      {
-        "id": "3ajgtbb1",
-        "name": "世界の広場",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-16.jpg",
-        "ep": "5",
-        "geo": [
-          35.44408,
-          139.65272
-        ]
-      },
-      {
-        "id": "8svvmzuy",
-        "name": "横浜ベイサイドマリーナ",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-17.jpg",
-        "ep": "6",
-        "geo": [
-          35.37973,
-          139.64783
-        ]
-      },
-      {
-        "id": "le0anon3",
-        "name": "野毛都橋商店街ビル（ハーモニカ横丁）",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-18.jpg",
-        "ep": "6",
-        "geo": [
-          35.44666,
-          139.63057
-        ]
-      },
-      {
-        "id": "i8bhsksl",
-        "name": "山下公園",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-19.jpg",
-        "ep": "6",
-        "geo": [
-          35.44642,
-          139.64946
-        ]
-      },
-      {
-        "id": "enfs5qg7",
-        "name": "港の見える丘公園 展望台",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-20.jpg",
-        "ep": "7",
-        "geo": [
-          35.4408,
-          139.65441
-        ]
-      },
-      {
-        "id": "tltgeg9o",
-        "name": "萬珍樓 本店",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-21.jpg",
-        "ep": "7",
-        "geo": [
-          35.44318,
-          139.64451
-        ]
-      },
-      {
-        "id": "ggo3ly9g",
-        "name": "三菱みなとみらい技術館",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-22.jpg",
-        "ep": "7",
-        "geo": [
-          35.45616,
-          139.62898
-        ]
-      },
-      {
-        "id": "20qls3gk",
-        "name": "横浜地方裁判所",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-23.jpg",
-        "ep": "8",
-        "geo": [
-          35.4465,
-          139.64101
-        ]
-      },
-      {
-        "id": "xck370j4",
-        "name": "横浜市港湾局維持保全課",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-24.jpg",
-        "ep": "9",
-        "geo": [
-          35.44969,
-          139.64608
-        ]
-      },
-      {
-        "id": "mzuv60r7",
-        "name": "横浜水上警察署 山下ふ頭交番",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-25.jpg",
-        "ep": "10",
-        "geo": [
-          35.44394,
-          139.65374
-        ]
-      },
-      {
-        "id": "wgc6v209",
-        "name": "横浜関帝廟",
-        "image": "https://image.xinu.ink/pic/data/6086/images/6086-26.jpg",
-        "ep": "10",
-        "geo": [
-          35.44223,
-          139.64527
-        ]
-      }
-    ],
+    "theme_color": "",
+    "points": {
+      "points": [
+        {
+          "id": "6086-1",
+          "name": "ルパン",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-1.jpg",
+          "ep": "OP",
+          "geo": [
+            35.67097,
+            139.76317
+          ]
+        },
+        {
+          "id": "6086-2",
+          "name": "COFFEE ROASTERY MEGURO",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-2.jpg",
+          "ep": "OP",
+          "geo": [
+            35.44197,
+            139.65012
+          ]
+        },
+        {
+          "id": "6086-3",
+          "name": "横浜美術館",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-3.jpg",
+          "ep": "OP",
+          "geo": [
+            35.45731,
+            139.63103
+          ]
+        },
+        {
+          "id": "6086-4",
+          "name": "神奈川県庁",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-4.jpg",
+          "ep": "OP",
+          "geo": [
+            35.44743,
+            139.64314
+          ]
+        },
+        {
+          "id": "6086-5",
+          "name": "横浜港大さん橋国際客船ターミナル",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-5.jpg",
+          "ep": "OP",
+          "geo": [
+            35.45302,
+            139.64903
+          ]
+        },
+        {
+          "id": "6086-6",
+          "name": "新港橋梁",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-6.jpg",
+          "ep": "ED",
+          "geo": [
+            35.45087,
+            139.64245
+          ]
+        },
+        {
+          "id": "6086-7",
+          "name": "マロリーポークステーキ 横浜店",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-7.jpg",
+          "ep": "ED",
+          "geo": [
+            35.46358,
+            139.6156
+          ]
+        },
+        {
+          "id": "6086-8",
+          "name": "ジェラールの瓦工場と水屋敷跡",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-8.jpg",
+          "ep": "1",
+          "geo": [
+            35.43915,
+            139.65119
+          ]
+        },
+        {
+          "id": "6086-9",
+          "name": "加賀町警察署 元町交番",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-9.jpg",
+          "ep": "5",
+          "geo": [
+            35.44183,
+            139.65113
+          ]
+        },
+        {
+          "id": "6086-10",
+          "name": "加賀町警察署 元町交番",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-10.jpg",
+          "ep": "5",
+          "geo": [
+            35.44167,
+            139.65086
+          ]
+        },
+        {
+          "id": "6086-11",
+          "name": "元町プラザ",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-11.jpg",
+          "ep": "5",
+          "geo": [
+            35.44143,
+            139.65077
+          ]
+        },
+        {
+          "id": "6086-12",
+          "name": "スターバックス コーヒー 横浜元町店",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-12.jpg",
+          "ep": "5",
+          "geo": [
+            35.4413,
+            139.65049
+          ]
+        },
+        {
+          "id": "6086-13",
+          "name": "キタムラK2 元町本店",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-13.jpg",
+          "ep": "5",
+          "geo": [
+            35.44093,
+            139.64955
+          ]
+        },
+        {
+          "id": "6086-14",
+          "name": "セブン-イレブン 横浜中華街朱雀門店",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-14.jpg",
+          "ep": "5",
+          "geo": [
+            35.44123,
+            139.6483
+          ]
+        },
+        {
+          "id": "6086-15",
+          "name": "横浜大世界",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-15.jpg",
+          "ep": "5",
+          "geo": [
+            35.44253,
+            139.64788
+          ]
+        },
+        {
+          "id": "6086-16",
+          "name": "世界の広場",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-16.jpg",
+          "ep": "5",
+          "geo": [
+            35.44408,
+            139.65272
+          ]
+        },
+        {
+          "id": "6086-17",
+          "name": "横浜ベイサイドマリーナ",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-17.jpg",
+          "ep": "6",
+          "geo": [
+            35.37973,
+            139.64783
+          ]
+        },
+        {
+          "id": "6086-18",
+          "name": "野毛都橋商店街ビル（ハーモニカ横丁）",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-18.jpg",
+          "ep": "6",
+          "geo": [
+            35.44666,
+            139.63057
+          ]
+        },
+        {
+          "id": "6086-19",
+          "name": "山下公園",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-19.jpg",
+          "ep": "6",
+          "geo": [
+            35.44642,
+            139.64946
+          ]
+        },
+        {
+          "id": "6086-20",
+          "name": "港の見える丘公園 展望台",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-20.jpg",
+          "ep": "7",
+          "geo": [
+            35.4408,
+            139.65441
+          ]
+        },
+        {
+          "id": "6086-21",
+          "name": "萬珍樓 本店",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-21.jpg",
+          "ep": "7",
+          "geo": [
+            35.44318,
+            139.64451
+          ]
+        },
+        {
+          "id": "6086-22",
+          "name": "三菱みなとみらい技術館",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-22.jpg",
+          "ep": "7",
+          "geo": [
+            35.45616,
+            139.62898
+          ]
+        },
+        {
+          "id": "6086-23",
+          "name": "横浜地方裁判所",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-23.jpg",
+          "ep": "8",
+          "geo": [
+            35.4465,
+            139.64101
+          ]
+        },
+        {
+          "id": "6086-24",
+          "name": "横浜市港湾局維持保全課",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-24.jpg",
+          "ep": "9",
+          "geo": [
+            35.44969,
+            139.64608
+          ]
+        },
+        {
+          "id": "6086-25",
+          "name": "横浜水上警察署 山下ふ頭交番",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-25.jpg",
+          "ep": "10",
+          "geo": [
+            35.44394,
+            139.65374
+          ]
+        },
+        {
+          "id": "6086-26",
+          "name": "横浜関帝廟",
+          "image": "https://image.xinu.ink/pic/data/6086/images/6086-26.jpg",
+          "ep": "10",
+          "geo": [
+            35.44223,
+            139.64527
+          ]
+        }
+      ]
+    },
     "inform": "https://image.xinu.ink/pic/data/6086/points.json"
   },
   "6087": {
     "name": "ウマ娘 プリティーダービー Season 2",
     "name_cn": "ウマ娘 プリティーダービー Season 2",
     "cover": "https://image.xinu.ink/pic/data/6087/images/1.jpg",
-    "theme_color": "#89b1b5",
+    "theme_color": "",
+    "points": {
+      "points": [
+        {
+          "id": "6087-1",
+          "name": "東京競馬場",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-1.jpg",
+          "ep": "1",
+          "geo": [
+            35.66451,
+            139.48306
+          ]
+        },
+        {
+          "id": "6087-2",
+          "name": "東京競馬場パドック",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-2.jpg",
+          "ep": "1",
+          "geo": [
+            35.66582,
+            139.4838
+          ]
+        },
+        {
+          "id": "6087-3",
+          "name": "京都競馬場",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-3.jpg",
+          "ep": "2",
+          "geo": [
+            34.90724,
+            135.72643
+          ]
+        },
+        {
+          "id": "6087-4",
+          "name": "賀茂神社",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-4.jpg",
+          "ep": "3",
+          "geo": [
+            35.12496,
+            136.06611
+          ]
+        },
+        {
+          "id": "6087-5",
+          "name": "中山競馬場",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-5.jpg",
+          "ep": "3",
+          "geo": [
+            35.7264,
+            139.96104
+          ]
+        },
+        {
+          "id": "6087-6",
+          "name": "阪神競馬場",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-6.jpg",
+          "ep": "3",
+          "geo": [
+            34.77868,
+            135.3647
+          ]
+        },
+        {
+          "id": "6087-7",
+          "name": "阪神競馬場",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-7.jpg",
+          "ep": "3",
+          "geo": [
+            34.77973,
+            135.36035
+          ]
+        },
+        {
+          "id": "6087-8",
+          "name": "京都競馬場",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-8.jpg",
+          "ep": "5",
+          "geo": [
+            34.9078,
+            135.72382
+          ]
+        },
+        {
+          "id": "6087-9",
+          "name": "ハチ公前広場",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-9.jpg",
+          "ep": "7",
+          "geo": [
+            35.65899,
+            139.70075
+          ]
+        },
+        {
+          "id": "6087-10",
+          "name": "ハチ公前広場",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-10.jpg",
+          "ep": "7",
+          "geo": [
+            35.65923,
+            139.70089
+          ]
+        },
+        {
+          "id": "6087-11",
+          "name": "新潟競馬場",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-11.jpg",
+          "ep": "7",
+          "geo": [
+            37.94816,
+            139.18453
+          ]
+        },
+        {
+          "id": "6087-12",
+          "name": "緑の広場",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-12.jpg",
+          "ep": "8",
+          "geo": [
+            34.90624,
+            135.72273
+          ]
+        },
+        {
+          "id": "6087-13",
+          "name": "井の頭恩賜公園",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-13.jpg",
+          "ep": "9",
+          "geo": [
+            35.70011,
+            139.57771
+          ]
+        },
+        {
+          "id": "6087-14",
+          "name": "井の頭恩賜公園",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-14.jpg",
+          "ep": "9",
+          "geo": [
+            35.69993,
+            139.57798
+          ]
+        },
+        {
+          "id": "6087-15",
+          "name": "ファミリーマート 府中宮町店",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-15.jpg",
+          "ep": "9",
+          "geo": [
+            35.67108,
+            139.48147
+          ]
+        },
+        {
+          "id": "6087-16",
+          "name": "福島競馬場",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-16.jpg",
+          "ep": "10",
+          "geo": [
+            37.76589,
+            140.48132
+          ]
+        },
+        {
+          "id": "6087-17",
+          "name": "ABC-MART GRAND STAGE 原宿店",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-17.jpg",
+          "ep": "10",
+          "geo": [
+            35.66944,
+            139.706
+          ]
+        },
+        {
+          "id": "6087-18",
+          "name": "くるる",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-18.jpg",
+          "ep": "11",
+          "geo": [
+            35.67118,
+            139.48045
+          ]
+        },
+        {
+          "id": "6087-19",
+          "name": "船橋法典駅",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-19.jpg",
+          "ep": "13",
+          "geo": [
+            35.72964,
+            139.9669
+          ]
+        },
+        {
+          "id": "6087-20",
+          "name": "中山競馬場",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-20.jpg",
+          "ep": "13",
+          "geo": [
+            35.72574,
+            139.95945
+          ]
+        },
+        {
+          "id": "6087-21",
+          "name": "中山競馬場",
+          "image": "https://image.xinu.ink/pic/data/6087/images/6087-21.jpg",
+          "ep": "13",
+          "geo": [
+            35.72513,
+            139.96032
+          ]
+        }
+      ]
+    },
+    "inform": "https://image.xinu.ink/pic/data/6087/points.json"
+  },
+  "6088": {
+    "name": "Fate/stay night [Unlimited Blade Works] 2ndシーズン",
+    "name_cn": "命运守护之夜：无限剑制 第二季",
+    "cover": "https://image.xinu.ink/pic/data/6088/images/109386.jpg",
+    "theme_color": "",
     "points": [
       {
-        "id": "wu1ts6ps",
-        "name": "東京競馬場",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-1.jpg",
-        "ep": "1",
+        "id": "1yvfi7n",
+        "name": "11 York Rd",
+        "image": "https://image.xinu.ink/pic/data/6088/images/1yvfi7n-1751295847215.jpg",
+        "ep": 25,
+        "s": 110,
         "geo": [
-          35.66451,
-          139.48306
-        ]
-      },
-      {
-        "id": "06c1x7u2",
-        "name": "東京競馬場パドック",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-2.jpg",
-        "ep": "1",
-        "geo": [
-          35.66582,
-          139.4838
-        ]
-      },
-      {
-        "id": "i6po74xo",
-        "name": "京都競馬場",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-3.jpg",
-        "ep": "2",
-        "geo": [
-          34.90724,
-          135.72643
-        ]
-      },
-      {
-        "id": "guolui9e",
-        "name": "賀茂神社",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-4.jpg",
-        "ep": "3",
-        "geo": [
-          35.12496,
-          136.06611
-        ]
-      },
-      {
-        "id": "2pswm867",
-        "name": "中山競馬場",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-5.jpg",
-        "ep": "3",
-        "geo": [
-          35.7264,
-          139.96104
-        ]
-      },
-      {
-        "id": "25j8h28m",
-        "name": "阪神競馬場",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-6.jpg",
-        "ep": "3",
-        "geo": [
-          34.77868,
-          135.3647
-        ]
-      },
-      {
-        "id": "m5vwcxby",
-        "name": "阪神競馬場",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-7.jpg",
-        "ep": "3",
-        "geo": [
-          34.77973,
-          135.36035
-        ]
-      },
-      {
-        "id": "dnnmaf2r",
-        "name": "京都競馬場",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-8.jpg",
-        "ep": "5",
-        "geo": [
-          34.9078,
-          135.72382
-        ]
-      },
-      {
-        "id": "fn3zwlmz",
-        "name": "ハチ公前広場",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-9.jpg",
-        "ep": "7",
-        "geo": [
-          35.65899,
-          139.70075
-        ]
-      },
-      {
-        "id": "7bu5zykh",
-        "name": "ハチ公前広場",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-10.jpg",
-        "ep": "7",
-        "geo": [
-          35.65923,
-          139.70089
-        ]
-      },
-      {
-        "id": "9n2fknj7",
-        "name": "新潟競馬場",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-11.jpg",
-        "ep": "7",
-        "geo": [
-          37.94816,
-          139.18453
-        ]
-      },
-      {
-        "id": "inaqmnp1",
-        "name": "緑の広場",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-12.jpg",
-        "ep": "8",
-        "geo": [
-          34.90624,
-          135.72273
-        ]
-      },
-      {
-        "id": "i4zbeem2",
-        "name": "井の頭恩賜公園",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-13.jpg",
-        "ep": "9",
-        "geo": [
-          35.70011,
-          139.57771
-        ]
-      },
-      {
-        "id": "nhxm3n43",
-        "name": "井の頭恩賜公園",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-14.jpg",
-        "ep": "9",
-        "geo": [
-          35.69993,
-          139.57798
-        ]
-      },
-      {
-        "id": "ql4w49zt",
-        "name": "ファミリーマート 府中宮町店",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-15.jpg",
-        "ep": "9",
-        "geo": [
-          35.67108,
-          139.48147
-        ]
-      },
-      {
-        "id": "cvwtsyhp",
-        "name": "福島競馬場",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-16.jpg",
-        "ep": "10",
-        "geo": [
-          37.76589,
-          140.48132
-        ]
-      },
-      {
-        "id": "coxsituv",
-        "name": "ABC-MART GRAND STAGE 原宿店",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-17.jpg",
-        "ep": "10",
-        "geo": [
-          35.66944,
-          139.706
-        ]
-      },
-      {
-        "id": "cwxtllu6",
-        "name": "くるる",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-18.jpg",
-        "ep": "11",
-        "geo": [
-          35.67118,
-          139.48045
-        ]
-      },
-      {
-        "id": "i36vxg1x",
-        "name": "船橋法典駅",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-19.jpg",
-        "ep": "13",
-        "geo": [
-          35.72964,
-          139.9669
-        ]
-      },
-      {
-        "id": "ix5vqc0k",
-        "name": "中山競馬場",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-20.jpg",
-        "ep": "13",
-        "geo": [
-          35.72574,
-          139.95945
-        ]
-      },
-      {
-        "id": "69ik3hbi",
-        "name": "中山競馬場",
-        "image": "https://image.xinu.ink/pic/data/6087/images/6087-21.jpg",
-        "ep": "13",
-        "geo": [
-          35.72513,
-          139.96032
+          51.5043,
+          -0.1145
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/6087/points.json"
+    "inform": "https://image.xinu.ink/pic/data/6088/points.json"
+  },
+  "6089": {
+    "name": "アマカノ/アマカノ～Second Season～",
+    "name_cn": "甜蜜女友/甜蜜女友～Second Season～",
+    "cover": "https://image.xinu.ink/pic/data/6089/images/114735_wp0qj1.jpg",
+    "theme_color": "",
+    "points": [
+      {
+        "id": "8bcc0b84",
+        "name": "浜辺",
+        "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKskkw3Ubfi6sx7RHrfI0GiOiOIOY37K9LxHmxHW2kijE495R5i4zoUNVzIdn5OjSsNjg9dfUgWboOseRy7OjOIOUhwvuhom82oc_-txrb2ciqK_3G5wH1lrmBCT3uFbdHnpgjHqehP_kQefEOLVMLUHNQSp_dlh17M3Md-Sp8dGCQ6fAUVn_eB140wWWFXGvZDYL1h_CIO2ff8",
+        "geo": [
+          37.3714,
+          137.2397
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=37.371484%2C137.239761&z=17"
+      },
+      {
+        "id": "201541d5",
+        "name": "夜間瀬温泉駅",
+        "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKu74F-AbI-gE9ElYPabzfyR2nHPUlYx2IwcOkHRgV_hH1KfEoPQ1vHu8vRlymxYc42USUCRXuJmELApcfXk2sUzLcm_1VSVvubsP2G1achGu5sc8l4sxeiLI_ScesOEYfHqk1d-NNinp2pZUbko6JWAAiv03Gpquya7rRHrfEpc3aq16W2BP3C1IVnNQ2vYVkprXEjZ4mPH4GQ",
+        "geo": [
+          36.7413,
+          138.4149
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.741317%2C138.414938&z=17"
+      },
+      {
+        "id": "54ccbf51",
+        "name": "山ノ内荘",
+        "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKuf6GkfCczAZFCFTAggq176LJTsuR2ReNDWYnK3_UpKzAWdJZ9vB2PQunAo_H7XslP_DqXCo7njYT4QRwP8EPzejD0rTWpJfabRQ3paYisxgDp1guxKxVWUoj_Tzi8sHXC-t14-xbHKzqi3eGoXoh3qSeefvtCiZavQe4y0B2Hzn7wsdO2NPBpwhsjWvzvKVBybHc0e53pTmu4",
+        "geo": [
+          36.7394,
+          138.4205
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.739479%2C138.420586&z=17"
+      },
+      {
+        "id": "30201b68",
+        "name": "高社神社",
+        "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKuwjqzqEHBRz4e_Fb4K020-mU6JW9yHJQz_LwTDHI2JzQ-t1VMXhsP6N2qdbbnoR_BhQBYgHyM6AncqQYAOzJkr_AqfvO3Uq7iYStdIlSPZN0EBr0uGrxR9xEvsguqQi5hMgDIwWJXLagI1DX_yuAqKsX9-t89YbYZrWAIskOcFJ0-E3Ba83e61Bhpe1EGZOqG-reUt_45kW84",
+        "geo": [
+          36.7333,
+          138.4356
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.733366%2C138.435642&z=17"
+      },
+      {
+        "id": "2b0b5ce7",
+        "name": "高社神社　境内",
+        "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKuUwXMonsyYaouxcRVCAfd8BfQPQSi0BvlpsZxxJiMmVBAekJiwG4F2JhNLkHXYMYbxnAT-imNGswE1U-wZKo5KxOwUMNJqWCnlZfjCsLTp-v1I6F79of1Tjm6u6PMWbToNpKlyJ8_DROt9HNq3nqQI1Tye3PcXcbkAqjxy3lqcqr52mvTHlMrryw0e0O2NySh1vMpiYs2YDE8",
+        "geo": [
+          36.7331,
+          138.4355
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.733182%2C138.435502&z=17"
+      },
+      {
+        "id": "29391bc7",
+        "name": "夜間瀬温泉街",
+        "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKtCVMvTCX8L7aTQ0G4QZPHoPPG3CQ7E0LYJ8VYVPUtpMo-DhQM6x3QDeyT8fgqEmhYNPjxzCTZIlptwIkCcWLXTH8IXPzopgXpqmP90QDU1YWpSO3jdAO8vmMg4XXeqhh6gYnGNwJbViogwtcAf70iuFUUUOUZI2eGa8DShGg2t3QgIXsUgDAfz86TxrZpUQpMtmWe9UlPVlM0",
+        "geo": [
+          36.7346,
+          138.4331
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.734634%2C138.433105&z=17"
+      },
+      {
+        "id": "12abc296",
+        "name": "公園#1",
+        "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKugcM9g5QlTfPYVVV2YIxMtEBRXSlifehpIbzdGeBegcOwXePJS7lRrjw_Ng9jI7jrIdVjj6KrdWOTEu7zHZvjQ31beBV0T785BqCLruf8wwYbQpXTpVbXVJQJo9QjddjKX-2-DfISI0WNOTfdaBIeUoAhC4GaKozt7wWc0j_E_zjOzY82e-iDQMwJwWmYWH5ORMJ8CRWdzpjE",
+        "geo": [
+          36.7348,
+          138.4226
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.734861%2C138.422602&z=17"
+      },
+      {
+        "id": "ff5eebf7",
+        "name": "公園#2",
+        "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKudjO-4Wj-GuKajSSeaa74360Tztwpe1Ifdh7w_PeITXBNQmHdxUPy85dE3Qso0c7R4ZRSIDjniT7ThYnj63znLpC9FLdhFc4-ZvkI9Jeif_RH9TKZhTZE9pLPb1tppB8KYo3ZCdUH3DtMoY4Y2h1ZMCWrpXd4bfj3a3zie3EBjaakTv1j3yei8deG-XQRtQtWMEV4IdvahKyM",
+        "geo": [
+          36.7352,
+          138.4221
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.735237%2C138.422111&z=17"
+      },
+      {
+        "id": "67397620",
+        "name": "旅館縁嬉",
+        "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKutF6zycct0ORzCi9GYu6F98ulvHNj2rRjhW01_ueEwTMUvmy5pBrnJB05KiFIPTm6SuqxBhhpDkBZWTh4PqBJLxa3PeoLGp50xnRIrho5g96HDKu406KSzjbmBziNuK74L8LHABpmEZi4ufJuoxt4xKJKAnXPlP1TeVsudbcDuFTLTlTYtIEftXMOTP9Q8J6Uiy7PoGStJXv0",
+        "geo": [
+          36.7325,
+          138.4329
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.732521%2C138.432979&z=17"
+      },
+      {
+        "id": "3e0af55b",
+        "name": "旅館縁嬉　対面(右側)",
+        "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKvuifu42bBUyOUi1UqvIwF-GeWLzolP1Mil-KKvJnIOdI-UgTAYXaeyryKsE7ukYrj5YpeXsyqsIpgG3yV6rxeNzJ0Ry03guGx7XLhF5qhUqqVlPtlVyHxK2vbg-iv0W8oJzz3W9WPwSBtHEeq51bwpw0COyM1kDW8tqcFQ-xFZn-6FV0hzgROUvOAWy8Zseh9MPYSjFlQfQzM",
+        "geo": [
+          36.7349,
+          138.4303
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.734933%2C138.430313&z=17"
+      },
+      {
+        "id": "7dd8c8d6",
+        "name": "夜間瀬学園（多分）",
+        "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKvL-TDI9uVQIzMs38LsU3Agi3UWiYKccMJzv76Toi40q9bYvfrP88fCPHRfva-QlWJxKkmAseNEzMEyXG2A0zKdsru1OVqd4JUlYzaegQfKKMYap0eQzJI10ktJh7PKMuvGhb4KtP7Azf4B7i_6LDsK3CsyI-1tP6h1FJ5b7BxLmp388ODhIBk4qrvd_lyJh_OWwHQzxpqOwns",
+        "geo": [
+          36.7296,
+          138.4418
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.729625%2C138.441873&z=17"
+      },
+      {
+        "id": "ad8aaa9c",
+        "name": "通学路",
+        "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKv5rge7vBYQ55LzDs3CmXc1NZnhMgblwKG5WXBo8xwmECO2OvLhJi-K6h_gwTK3WULtRvgfNy9gbVsjoyVEG-u1PEmM5CdO0RFg1LVYPRzQGI_emKBjxdKIyzEx2awgJIkjHoPRXFSmPhKX0h2bNTzJ3m-BDI3dhppxuwX2HL929uj21JzxXaVxBbA6Qb2ReCejnUHpKE-GRA",
+        "geo": [
+          36.8019,
+          138.4317
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.801989%2C138.431751&z=17"
+      },
+      {
+        "id": "1a202ad3",
+        "name": "列車モデル",
+        "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKu8QZ82FRlW64X-dFwulrjF9rgfWqJ8zQuhLaCQNbPht_8vk9snAVTV3fnfPDGknjEciykyUbnNMJwQKAGsPzwYsQSGWNR_z2igCN3b3KdECF6K9m2k8QPMPcK38-7ekVcnDOr34gnqNQTkqjlIJP296pPH-2VyCYDM5NrMvSmPaW5gkdXeVe7TObuTkaCSH0pLB6YJbEhwNZQ",
+        "geo": [
+          36.6992,
+          138.3129
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.699253%2C138.312955&z=17"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6089/points.json"
+  },
+  "6090": {
+    "name": "劇場版 Fate/stay night [Heaven's Feel] III.spring song",
+    "name_cn": "剧场版 Fate/stay night [天之杯] III.春之歌",
+    "cover": "https://image.xinu.ink/pic/data/6090/images/175600_4wcTq.jpg",
+    "theme_color": "",
+    "points": [
+      {
+        "id": "1yq6veb",
+        "name": "Expographic Books",
+        "image": "https://image.xinu.ink/pic/data/6090/images/1yq6veb-1751286988690.jpg",
+        "ep": 3,
+        "s": 6799,
+        "geo": [
+          6.9368,
+          79.8495
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6090/points.json"
+  },
+  "6091": {
+    "name": "Battlefield 1",
+    "name_cn": "战地1",
+    "cover": "https://image.xinu.ink/pic/data/6091/images/181958_zXxf2.jpg",
+    "theme_color": "",
+    "points": [
+      {
+        "id": "1d2i2io",
+        "cn": "黑尔戈兰",
+        "name": "Helgoland",
+        "image": "https://image.xinu.ink/pic/data/6091/images/1d2i2io-1749977420787.jpg",
+        "ep": null,
+        "geo": [
+          54.182,
+          7.8857
+        ],
+        "origin": "Anitabi@enldm",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "1d3gsgp",
+        "cn": "尚蒂伊城堡",
+        "name": "Château de Chantilly",
+        "image": "https://image.xinu.ink/pic/data/6091/images/1d3gsgp-1749979185127.jpg",
+        "ep": null,
+        "geo": [
+          49.1939,
+          2.4854
+        ],
+        "origin": "Anitabi@enldm",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "1d9fxx2",
+        "cn": "法乌克斯要塞",
+        "name": "Fort de Vaux",
+        "image": "https://image.xinu.ink/pic/data/6091/images/1d9fxx2-1749989113642.jpg",
+        "ep": null,
+        "geo": [
+          49.2004,
+          5.4701
+        ]
+      },
+      {
+        "id": "1d9nwaf",
+        "cn": "亚眠",
+        "name": "Amiens",
+        "image": "https://image.xinu.ink/pic/data/6091/images/1d9nwaf-1749989448759.jpg",
+        "ep": null,
+        "s": 7,
+        "geo": [
+          49.8955,
+          2.2967
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6091/points.json"
   }
 }

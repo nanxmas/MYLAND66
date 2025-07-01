@@ -1,0 +1,145 @@
+[
+  {
+    "id": "8bcc0b84",
+    "name": "浜辺",
+    "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKskkw3Ubfi6sx7RHrfI0GiOiOIOY37K9LxHmxHW2kijE495R5i4zoUNVzIdn5OjSsNjg9dfUgWboOseRy7OjOIOUhwvuhom82oc_-txrb2ciqK_3G5wH1lrmBCT3uFbdHnpgjHqehP_kQefEOLVMLUHNQSp_dlh17M3Md-Sp8dGCQ6fAUVn_eB140wWWFXGvZDYL1h_CIO2ff8",
+    "geo": [
+      37.3714,
+      137.2397
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=37.371484%2C137.239761&z=17"
+  },
+  {
+    "id": "201541d5",
+    "name": "夜間瀬温泉駅",
+    "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKu74F-AbI-gE9ElYPabzfyR2nHPUlYx2IwcOkHRgV_hH1KfEoPQ1vHu8vRlymxYc42USUCRXuJmELApcfXk2sUzLcm_1VSVvubsP2G1achGu5sc8l4sxeiLI_ScesOEYfHqk1d-NNinp2pZUbko6JWAAiv03Gpquya7rRHrfEpc3aq16W2BP3C1IVnNQ2vYVkprXEjZ4mPH4GQ",
+    "geo": [
+      36.7413,
+      138.4149
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.741317%2C138.414938&z=17"
+  },
+  {
+    "id": "54ccbf51",
+    "name": "山ノ内荘",
+    "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKuf6GkfCczAZFCFTAggq176LJTsuR2ReNDWYnK3_UpKzAWdJZ9vB2PQunAo_H7XslP_DqXCo7njYT4QRwP8EPzejD0rTWpJfabRQ3paYisxgDp1guxKxVWUoj_Tzi8sHXC-t14-xbHKzqi3eGoXoh3qSeefvtCiZavQe4y0B2Hzn7wsdO2NPBpwhsjWvzvKVBybHc0e53pTmu4",
+    "geo": [
+      36.7394,
+      138.4205
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.739479%2C138.420586&z=17"
+  },
+  {
+    "id": "30201b68",
+    "name": "高社神社",
+    "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKuwjqzqEHBRz4e_Fb4K020-mU6JW9yHJQz_LwTDHI2JzQ-t1VMXhsP6N2qdbbnoR_BhQBYgHyM6AncqQYAOzJkr_AqfvO3Uq7iYStdIlSPZN0EBr0uGrxR9xEvsguqQi5hMgDIwWJXLagI1DX_yuAqKsX9-t89YbYZrWAIskOcFJ0-E3Ba83e61Bhpe1EGZOqG-reUt_45kW84",
+    "geo": [
+      36.7333,
+      138.4356
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.733366%2C138.435642&z=17"
+  },
+  {
+    "id": "2b0b5ce7",
+    "name": "高社神社　境内",
+    "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKuUwXMonsyYaouxcRVCAfd8BfQPQSi0BvlpsZxxJiMmVBAekJiwG4F2JhNLkHXYMYbxnAT-imNGswE1U-wZKo5KxOwUMNJqWCnlZfjCsLTp-v1I6F79of1Tjm6u6PMWbToNpKlyJ8_DROt9HNq3nqQI1Tye3PcXcbkAqjxy3lqcqr52mvTHlMrryw0e0O2NySh1vMpiYs2YDE8",
+    "geo": [
+      36.7331,
+      138.4355
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.733182%2C138.435502&z=17"
+  },
+  {
+    "id": "29391bc7",
+    "name": "夜間瀬温泉街",
+    "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKtCVMvTCX8L7aTQ0G4QZPHoPPG3CQ7E0LYJ8VYVPUtpMo-DhQM6x3QDeyT8fgqEmhYNPjxzCTZIlptwIkCcWLXTH8IXPzopgXpqmP90QDU1YWpSO3jdAO8vmMg4XXeqhh6gYnGNwJbViogwtcAf70iuFUUUOUZI2eGa8DShGg2t3QgIXsUgDAfz86TxrZpUQpMtmWe9UlPVlM0",
+    "geo": [
+      36.7346,
+      138.4331
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.734634%2C138.433105&z=17"
+  },
+  {
+    "id": "12abc296",
+    "name": "公園#1",
+    "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKugcM9g5QlTfPYVVV2YIxMtEBRXSlifehpIbzdGeBegcOwXePJS7lRrjw_Ng9jI7jrIdVjj6KrdWOTEu7zHZvjQ31beBV0T785BqCLruf8wwYbQpXTpVbXVJQJo9QjddjKX-2-DfISI0WNOTfdaBIeUoAhC4GaKozt7wWc0j_E_zjOzY82e-iDQMwJwWmYWH5ORMJ8CRWdzpjE",
+    "geo": [
+      36.7348,
+      138.4226
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.734861%2C138.422602&z=17"
+  },
+  {
+    "id": "ff5eebf7",
+    "name": "公園#2",
+    "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKudjO-4Wj-GuKajSSeaa74360Tztwpe1Ifdh7w_PeITXBNQmHdxUPy85dE3Qso0c7R4ZRSIDjniT7ThYnj63znLpC9FLdhFc4-ZvkI9Jeif_RH9TKZhTZE9pLPb1tppB8KYo3ZCdUH3DtMoY4Y2h1ZMCWrpXd4bfj3a3zie3EBjaakTv1j3yei8deG-XQRtQtWMEV4IdvahKyM",
+    "geo": [
+      36.7352,
+      138.4221
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.735237%2C138.422111&z=17"
+  },
+  {
+    "id": "67397620",
+    "name": "旅館縁嬉",
+    "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKutF6zycct0ORzCi9GYu6F98ulvHNj2rRjhW01_ueEwTMUvmy5pBrnJB05KiFIPTm6SuqxBhhpDkBZWTh4PqBJLxa3PeoLGp50xnRIrho5g96HDKu406KSzjbmBziNuK74L8LHABpmEZi4ufJuoxt4xKJKAnXPlP1TeVsudbcDuFTLTlTYtIEftXMOTP9Q8J6Uiy7PoGStJXv0",
+    "geo": [
+      36.7325,
+      138.4329
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.732521%2C138.432979&z=17"
+  },
+  {
+    "id": "3e0af55b",
+    "name": "旅館縁嬉　対面(右側)",
+    "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKvuifu42bBUyOUi1UqvIwF-GeWLzolP1Mil-KKvJnIOdI-UgTAYXaeyryKsE7ukYrj5YpeXsyqsIpgG3yV6rxeNzJ0Ry03guGx7XLhF5qhUqqVlPtlVyHxK2vbg-iv0W8oJzz3W9WPwSBtHEeq51bwpw0COyM1kDW8tqcFQ-xFZn-6FV0hzgROUvOAWy8Zseh9MPYSjFlQfQzM",
+    "geo": [
+      36.7349,
+      138.4303
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.734933%2C138.430313&z=17"
+  },
+  {
+    "id": "7dd8c8d6",
+    "name": "夜間瀬学園（多分）",
+    "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKvL-TDI9uVQIzMs38LsU3Agi3UWiYKccMJzv76Toi40q9bYvfrP88fCPHRfva-QlWJxKkmAseNEzMEyXG2A0zKdsru1OVqd4JUlYzaegQfKKMYap0eQzJI10ktJh7PKMuvGhb4KtP7Azf4B7i_6LDsK3CsyI-1tP6h1FJ5b7BxLmp388ODhIBk4qrvd_lyJh_OWwHQzxpqOwns",
+    "geo": [
+      36.7296,
+      138.4418
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.729625%2C138.441873&z=17"
+  },
+  {
+    "id": "ad8aaa9c",
+    "name": "通学路",
+    "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKv5rge7vBYQ55LzDs3CmXc1NZnhMgblwKG5WXBo8xwmECO2OvLhJi-K6h_gwTK3WULtRvgfNy9gbVsjoyVEG-u1PEmM5CdO0RFg1LVYPRzQGI_emKBjxdKIyzEx2awgJIkjHoPRXFSmPhKX0h2bNTzJ3m-BDI3dhppxuwX2HL929uj21JzxXaVxBbA6Qb2ReCejnUHpKE-GRA",
+    "geo": [
+      36.8019,
+      138.4317
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.801989%2C138.431751&z=17"
+  },
+  {
+    "id": "1a202ad3",
+    "name": "列車モデル",
+    "image": "https://image.xinu.ink/pic/data/6089/images/3ADbDBKu8QZ82FRlW64X-dFwulrjF9rgfWqJ8zQuhLaCQNbPht_8vk9snAVTV3fnfPDGknjEciykyUbnNMJwQKAGsPzwYsQSGWNR_z2igCN3b3KdECF6K9m2k8QPMPcK38-7ekVcnDOr34gnqNQTkqjlIJP296pPH-2VyCYDM5NrMvSmPaW5gkdXeVe7TObuTkaCSH0pLB6YJbEhwNZQ",
+    "geo": [
+      36.6992,
+      138.3129
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.699253%2C138.312955&z=17"
+  }
+]
