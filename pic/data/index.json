@@ -401363,5 +401363,272 @@
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6092/points.json"
+  },
+  "6093": {
+    "name": "ダンダダン 2期",
+    "name_cn": "ダンダダン 2期",
+    "cover": "https://image.xinu.ink/pic/data/6093/images/1.jpg",
+    "theme_color": "#a3672b",
+    "points": [
+      {
+        "id": "vmrnt2ak",
+        "name": "ぷるりんカフェ",
+        "image": "https://image.xinu.ink/pic/data/6093/images/6093-1.jpg",
+        "ep": "1",
+        "geo": [
+          36.4973,
+          138.91696
+        ]
+      },
+      {
+        "id": "430795la",
+        "name": "横手館",
+        "image": "https://image.xinu.ink/pic/data/6093/images/6093-2.jpg",
+        "ep": "1",
+        "geo": [
+          36.49654,
+          138.91669
+        ]
+      },
+      {
+        "id": "fvw38228",
+        "name": "伊香保神社",
+        "image": "https://image.xinu.ink/pic/data/6093/images/6093-3.jpg",
+        "ep": "1",
+        "geo": [
+          36.49561,
+          138.91535
+        ]
+      },
+      {
+        "id": "mcvdh365",
+        "name": "伊香保温泉 石坂旅館",
+        "image": "https://image.xinu.ink/pic/data/6093/images/6093-4.jpg",
+        "ep": "1",
+        "geo": [
+          36.49791,
+          138.91702
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6093/points.json"
+  },
+  "6094": {
+    "name": "彼女、お借りします 4期",
+    "name_cn": "彼女、お借りします 4期",
+    "cover": "https://image.xinu.ink/pic/data/6094/images/1.jpg",
+    "theme_color": "#97939a",
+    "points": [
+      {
+        "id": "ukgg7yrd",
+        "name": "天然温泉 久松湯",
+        "image": "https://image.xinu.ink/pic/data/6094/images/6094-1.jpg",
+        "ep": "1",
+        "geo": [
+          35.74142,
+          139.66184
+        ]
+      },
+      {
+        "id": "d53jk1g9",
+        "name": "桜台の餃子家",
+        "image": "https://image.xinu.ink/pic/data/6094/images/6094-2.jpg",
+        "ep": "1",
+        "geo": [
+          35.74199,
+          139.66153
+        ]
+      },
+      {
+        "id": "6a17kl5n",
+        "name": "すき家 氷川台駅前店",
+        "image": "https://image.xinu.ink/pic/data/6094/images/6094-3.jpg",
+        "ep": "1",
+        "geo": [
+          35.7498,
+          139.66497
+        ]
+      },
+      {
+        "id": "i4frdzzy",
+        "name": "ファミリーマート 氷川台店",
+        "image": "https://image.xinu.ink/pic/data/6094/images/6094-4.jpg",
+        "ep": "1",
+        "geo": [
+          35.75004,
+          139.66463
+        ]
+      },
+      {
+        "id": "5gjut9b9",
+        "name": "ヴェントゥーノ",
+        "image": "https://image.xinu.ink/pic/data/6094/images/6094-5.jpg",
+        "ep": "1",
+        "geo": [
+          35.75041,
+          139.66491
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6094/points.json"
+  },
+  "6095": {
+    "name": "よふかしのうた Season 2",
+    "name_cn": "よふかしのうた Season 2",
+    "cover": "https://image.xinu.ink/pic/data/6095/images/1.jpg",
+    "theme_color": "#8a7080",
+    "points": [
+      {
+        "id": "8yug2kjj",
+        "name": "ファミリーマート さいたま松本店",
+        "image": "https://image.xinu.ink/pic/data/6095/images/6095-1.jpg",
+        "ep": "OP",
+        "geo": [
+          35.83916,
+          139.6283
+        ]
+      },
+      {
+        "id": "o25uimji",
+        "name": "Serafina NEW YORKさいたま新都心",
+        "image": "https://image.xinu.ink/pic/data/6095/images/6095-2.jpg",
+        "ep": "1",
+        "geo": [
+          35.89335,
+          139.63095
+        ]
+      },
+      {
+        "id": "dzi4mtr4",
+        "name": "武蔵浦和コミュニティセンター",
+        "image": "https://image.xinu.ink/pic/data/6095/images/6095-3.jpg",
+        "ep": "1",
+        "geo": [
+          35.84485,
+          139.64521
+        ]
+      },
+      {
+        "id": "yll6eyuu",
+        "name": "国立科学博物館",
+        "image": "https://image.xinu.ink/pic/data/6095/images/6095-4.jpg",
+        "ep": "1",
+        "geo": [
+          35.71667,
+          139.77645
+        ]
+      },
+      {
+        "id": "4b0lwc5p",
+        "name": "上野駅",
+        "image": "https://image.xinu.ink/pic/data/6095/images/6095-5.jpg",
+        "ep": "1",
+        "geo": [
+          35.7117,
+          139.77569
+        ]
+      },
+      {
+        "id": "t8kt4e1h",
+        "name": "茶の君野園 東京",
+        "image": "https://image.xinu.ink/pic/data/6095/images/6095-6.jpg",
+        "ep": "1",
+        "geo": [
+          35.7101,
+          139.77453
+        ]
+      },
+      {
+        "id": "e39stx7v",
+        "name": "有職組紐 道明",
+        "image": "https://image.xinu.ink/pic/data/6095/images/6095-7.jpg",
+        "ep": "1",
+        "geo": [
+          35.70913,
+          139.7714
+        ]
+      },
+      {
+        "id": "hadp4pmq",
+        "name": "仲町通り",
+        "image": "https://image.xinu.ink/pic/data/6095/images/6095-8.jpg",
+        "ep": "1",
+        "geo": [
+          35.70936,
+          139.77246
+        ]
+      },
+      {
+        "id": "kjy0ef35",
+        "name": "上野動物園",
+        "image": "https://image.xinu.ink/pic/data/6095/images/6095-9.jpg",
+        "ep": "1",
+        "geo": [
+          35.71251,
+          139.77231
+        ]
+      },
+      {
+        "id": "9z28hiq5",
+        "name": "上野動物園",
+        "image": "https://image.xinu.ink/pic/data/6095/images/6095-10.jpg",
+        "ep": "1",
+        "geo": [
+          35.71595,
+          139.77172
+        ]
+      },
+      {
+        "id": "whukmj1b",
+        "name": "上野動物園",
+        "image": "https://image.xinu.ink/pic/data/6095/images/6095-11.jpg",
+        "ep": "1",
+        "geo": [
+          35.7162,
+          139.77146
+        ]
+      },
+      {
+        "id": "ymyvhu0s",
+        "name": "上野動物園",
+        "image": "https://image.xinu.ink/pic/data/6095/images/6095-12.jpg",
+        "ep": "1",
+        "geo": [
+          35.7163,
+          139.77074
+        ]
+      },
+      {
+        "id": "ba758427",
+        "name": "上野動物園",
+        "image": "https://image.xinu.ink/pic/data/6095/images/6095-13.jpg",
+        "ep": "1",
+        "geo": [
+          35.71759,
+          139.77228
+        ]
+      },
+      {
+        "id": "necfmctl",
+        "name": "上野動物園",
+        "image": "https://image.xinu.ink/pic/data/6095/images/6095-14.jpg",
+        "ep": "1",
+        "geo": [
+          35.71815,
+          139.77103
+        ]
+      },
+      {
+        "id": "yxj8umub",
+        "name": "上野動物園",
+        "image": "https://image.xinu.ink/pic/data/6095/images/6095-15.jpg",
+        "ep": "1",
+        "geo": [
+          35.71424,
+          139.77078
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6095/points.json"
   }
 }
