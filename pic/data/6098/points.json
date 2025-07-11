@@ -1,0 +1,44 @@
+{
+  "points": [
+    {
+      "id": "6098-1",
+      "name": "ユザワヤ WACCA池袋店",
+      "image": "https://image.xinu.ink/pic/data/6098/images/6098-1.jpg",
+      "ep": "1",
+      "geo": [
+        35.73159,
+        139.71459
+      ]
+    },
+    {
+      "id": "6098-2",
+      "name": "新宿御苑前駅",
+      "image": "https://image.xinu.ink/pic/data/6098/images/6098-2.jpg",
+      "ep": "1",
+      "geo": [
+        35.68846,
+        139.7117
+      ]
+    },
+    {
+      "id": "6098-3",
+      "name": "Studio Macaron night",
+      "image": "https://image.xinu.ink/pic/data/6098/images/6098-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.68848,
+        139.71221
+      ]
+    },
+    {
+      "id": "6098-4",
+      "name": "(株)黒澤楽器店 G-CLUB Shibuya",
+      "image": "https://image.xinu.ink/pic/data/6098/images/6098-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.6601,
+        139.69768
+      ]
+    }
+  ]
+}

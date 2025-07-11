@@ -108,3 +108,14 @@
 2025-07-08 12:53:36,927 - AnimePilgrimageUpdater - INFO - Test anime 4: ウィッチウォッチ
 2025-07-08 12:53:36,927 - AnimePilgrimageUpdater - INFO - Test anime 5: 中二病でも恋がしたい!
 2025-07-08 13:11:08,573 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
+2025-07-11 12:49:29,300 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-07-11 12:49:29,300 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-07-11 12:49:29,507 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-07-11 12:49:31,077 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-07-11 12:52:04,484 - AnimePilgrimageUpdater - INFO - Successfully retrieved 72 anime in test run
+2025-07-11 12:52:04,484 - AnimePilgrimageUpdater - INFO - Test anime 1: 光が死んだ夏
+2025-07-11 12:52:04,485 - AnimePilgrimageUpdater - INFO - Test anime 2: 青春ブタ野郎はサンタクロースの夢を見ない
+2025-07-11 12:52:04,485 - AnimePilgrimageUpdater - INFO - Test anime 3: その着せ替え人形は恋をする Season 2
+2025-07-11 12:52:04,485 - AnimePilgrimageUpdater - INFO - Test anime 4: ダンダダン 2期
+2025-07-11 12:52:04,485 - AnimePilgrimageUpdater - INFO - Test anime 5: 彼女、お借りします 4期
+2025-07-11 13:08:57,331 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
