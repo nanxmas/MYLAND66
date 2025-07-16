@@ -401997,5 +401997,93 @@
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6098/points.json"
+  },
+  "6099": {
+    "name": "Turkey!",
+    "name_cn": "Turkey!",
+    "cover": "https://image.xinu.ink/pic/data/6099/images/1.jpg",
+    "theme_color": "#9a6b88",
+    "points": [
+      {
+        "id": "s7z0jojq",
+        "name": "姨捨駅",
+        "image": "https://image.xinu.ink/pic/data/6099/images/6099-1.jpg",
+        "ep": "1",
+        "geo": [
+          36.50263,
+          138.09348
+        ]
+      },
+      {
+        "id": "c2q54o7c",
+        "name": "姨捨駅",
+        "image": "https://image.xinu.ink/pic/data/6099/images/6099-2.jpg",
+        "ep": "1",
+        "geo": [
+          36.50252,
+          138.09326
+        ]
+      },
+      {
+        "id": "2361ea6i",
+        "name": "姨捨棚田駐車場",
+        "image": "https://image.xinu.ink/pic/data/6099/images/6099-3.jpg",
+        "ep": "1",
+        "geo": [
+          36.49996,
+          138.09739
+        ]
+      },
+      {
+        "id": "a6n9onla",
+        "name": "うな竹",
+        "image": "https://image.xinu.ink/pic/data/6099/images/6099-4.jpg",
+        "ep": "1",
+        "geo": [
+          36.48062,
+          138.14266
+        ]
+      },
+      {
+        "id": "cw89eje2",
+        "name": "おやき七福本店",
+        "image": "https://image.xinu.ink/pic/data/6099/images/6099-5.jpg",
+        "ep": "1",
+        "geo": [
+          36.48094,
+          138.14034
+        ]
+      },
+      {
+        "id": "79xyj0bw",
+        "name": "アピナボウル長野篠ノ井店",
+        "image": "https://image.xinu.ink/pic/data/6099/images/6099-6.jpg",
+        "ep": "1",
+        "geo": [
+          36.57346,
+          138.14328
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6099/points.json"
+  },
+  "6100": {
+    "name": "ぐらんぶる Season 2",
+    "name_cn": "ぐらんぶる Season 2",
+    "cover": "https://image.xinu.ink/pic/data/6100/images/1.jpg",
+    "theme_color": "#b9c6ca",
+    "points": [
+      {
+        "id": "svvbmmlo",
+        "name": "COVE KAWANA",
+        "image": "https://image.xinu.ink/pic/data/6100/images/6100-1.jpg",
+        "ep": "ED",
+        "geo": [
+          34.95254,
+          139.13622
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6100/points.json"
   }
 }
