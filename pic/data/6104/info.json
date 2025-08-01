@@ -1,0 +1,107 @@
+{
+  "id": 165972,
+  "cn": "斯特拉的魔法",
+  "title": "ステラのまほう",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/6104/images/165972_bY6dY.jpg",
+  "color": "#98d6a2",
+  "cp": "ステラのまほう",
+  "modified": 1753086966209,
+  "litePoints": [
+    {
+      "id": "7168fd73",
+      "name": "西武秩父線 吾野駅",
+      "image": "https://image.anitabi.cn/points/165972/7168fd73_1753085837397.jpg?plan=h160",
+      "geo": [
+        35.9084,
+        139.2266
+      ]
+    },
+    {
+      "id": "0b8a2b37",
+      "name": "JR吉祥寺駅",
+      "image": "https://image.anitabi.cn/points/165972/0b8a2b37_1753086487000.jpg?plan=h160",
+      "geo": [
+        35.7031,
+        139.5798
+      ]
+    },
+    {
+      "id": "d89201b3",
+      "name": "成蹊大学",
+      "image": "https://image.anitabi.cn/points/165972/d89201b3_1753085884172.jpg?plan=h160",
+      "geo": [
+        35.7105,
+        139.5728
+      ]
+    },
+    {
+      "id": "14bf2463",
+      "name": "つくばエクスプレス 北千住駅",
+      "image": "https://image.anitabi.cn/points/165972/14bf2463_1753085894841.jpg?plan=h160",
+      "geo": [
+        35.7489,
+        139.805
+      ]
+    },
+    {
+      "id": "32af3f5b",
+      "name": "中町 交差点",
+      "image": "https://image.anitabi.cn/points/165972/32af3f5b_1753085921643.jpg?plan=h160",
+      "geo": [
+        35.7091,
+        139.5679
+      ]
+    },
+    {
+      "id": "3796bc7c",
+      "name": "ガスト吉祥寺店",
+      "image": "https://image.anitabi.cn/points/165972/3796bc7c_1753085936676.jpg?plan=h160",
+      "geo": [
+        35.7044,
+        139.5811
+      ]
+    },
+    {
+      "id": "dd0d64c0",
+      "name": "西武池袋線 東吾野駅",
+      "image": "https://image.anitabi.cn/points/165972/dd0d64c0_1753085845643.jpg?plan=h160",
+      "geo": [
+        35.8923,
+        139.2603
+      ]
+    },
+    {
+      "id": "5fedf2b2",
+      "name": "明神湯",
+      "image": "https://image.anitabi.cn/points/165972/5fedf2b2_1753085958019.jpg?plan=h160",
+      "geo": [
+        35.5895,
+        139.6901
+      ]
+    },
+    {
+      "id": "00102b85",
+      "name": "柏の葉キャンパス駅 西口",
+      "image": "https://image.anitabi.cn/points/165972/00102b85_1753086050356.jpg?plan=h160",
+      "geo": [
+        35.8939,
+        139.9524
+      ]
+    },
+    {
+      "id": "0c43346d",
+      "name": "JR秋葉原駅",
+      "image": "https://image.anitabi.cn/points/165972/0c43346d_1753085995570.jpg?plan=h160",
+      "geo": [
+        35.6984,
+        139.7737
+      ]
+    }
+  ],
+  "pointsLength": 20,
+  "imagesLength": 18,
+  "name": "ステラのまほう",
+  "name_cn": "斯特拉的魔法",
+  "local_id": 6104
+}

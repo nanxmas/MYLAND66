@@ -141,5 +141,159 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.699253%2C138.312955&z=17"
+  },
+  {
+    "id": "6e527089",
+    "name": "温泉街",
+    "image": "https://image.xinu.ink/pic/data/6089/images/6e527089_1751569291919.jpg",
+    "geo": [
+      36.2455,
+      136.3727
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.24552%2C136.372793&z=17"
+  },
+  {
+    "id": "4ed735c3",
+    "name": "ほたる橋",
+    "image": "https://image.xinu.ink/pic/data/6089/images/4ed735c3_1751569259377.jpg",
+    "geo": [
+      36.241,
+      136.3717
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.241035%2C136.371715&z=17"
+  },
+  {
+    "id": "edf7970d",
+    "name": "中町武家屋敷#1",
+    "image": "https://image.xinu.ink/pic/data/6089/images/edf7970d_1751569234966.jpg",
+    "geo": [
+      36.5635,
+      136.6501
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.563565%2C136.650145&z=17"
+  },
+  {
+    "id": "a65082b5",
+    "name": "中町武家屋敷#2",
+    "image": "https://image.xinu.ink/pic/data/6089/images/a65082b5_1751569250318.jpg",
+    "geo": [
+      36.5633,
+      136.6505
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.563378%2C136.650541&z=17"
+  },
+  {
+    "id": "3a9d4bd7",
+    "name": "栢野神社",
+    "image": "https://image.xinu.ink/pic/data/6089/images/3a9d4bd7_1751567522122.jpg",
+    "geo": [
+      36.2276,
+      136.3598
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.227663%2C136.359854&z=17"
+  },
+  {
+    "id": "9bef09ab",
+    "name": "白鷺駅駅前",
+    "image": "https://image.xinu.ink/pic/data/6089/images/9bef09ab_1751567500433.jpg",
+    "geo": [
+      36.5776,
+      136.6494
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.577627%2C136.649459&z=17"
+  },
+  {
+    "id": "88f553c5",
+    "name": "川床",
+    "image": "https://image.xinu.ink/pic/data/6089/images/88f553c5_1751569133413.jpg",
+    "geo": [
+      36.2448,
+      136.3758
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.244816%2C136.375848&z=17"
+  },
+  {
+    "id": "7dd7cc91",
+    "name": "黒瀬温泉駅",
+    "image": "https://image.xinu.ink/pic/data/6089/images/7dd7cc91_1751569065723.jpg",
+    "geo": [
+      36.2384,
+      136.368
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.238418%2C136.368099&z=17"
+  },
+  {
+    "id": "68b31df3",
+    "name": "黒瀬温泉駅前の時計塔のモデル？",
+    "image": "https://image.xinu.ink/pic/data/6089/images/68b31df3_1751569070684.jpg",
+    "geo": [
+      36.2444,
+      136.3724
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.244415%2C136.372455&z=17"
+  },
+  {
+    "id": "cd3c8c18",
+    "name": "亀仙渓　遊歩道",
+    "image": "https://image.xinu.ink/pic/data/6089/images/cd3c8c18_1751568929745.jpg",
+    "geo": [
+      36.2437,
+      136.3745
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.243746%2C136.374546&z=17"
+  },
+  {
+    "id": "77d66537",
+    "name": "遠海町市場#1",
+    "image": "https://image.xinu.ink/pic/data/6089/images/77d66537_1751568616748.jpg",
+    "geo": [
+      36.5716,
+      136.6566
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.571676%2C136.656649&z=17"
+  },
+  {
+    "id": "ae114df8",
+    "name": "遠海町市場#2",
+    "image": "https://image.xinu.ink/pic/data/6089/images/ae114df8_1751568621453.jpg",
+    "geo": [
+      36.5714,
+      136.6563
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.571446%2C136.656346&z=17"
+  },
+  {
+    "id": "4c742a3d",
+    "name": "白鷺大学",
+    "image": "https://image.xinu.ink/pic/data/6089/images/4c742a3d_1751568879282.jpg",
+    "geo": [
+      36.562,
+      136.6577
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.562005%2C136.657796&z=17"
+  },
+  {
+    "id": "ad54303e",
+    "name": "白鷺市街",
+    "image": "https://image.xinu.ink/pic/data/6089/images/ad54303e_1751568683069.jpg",
+    "geo": [
+      36.5636,
+      136.6523
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.563686%2C136.652364&z=17"
   }
 ]

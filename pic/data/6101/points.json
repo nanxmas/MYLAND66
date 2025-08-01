@@ -1,0 +1,35 @@
+[
+  {
+    "id": "51i527qny",
+    "name": "新神戸駅前",
+    "image": "https://image.xinu.ink/pic/data/6101/images/51i527qny_1752673486680.jpg",
+    "geo": [
+      34.7064,
+      135.1958
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.ky0jHSrSQ6Hw&ll=34.706406%2C135.195876&z=17"
+  },
+  {
+    "id": "51i527qjx",
+    "name": "新布引橋",
+    "image": "https://image.xinu.ink/pic/data/6101/images/51i527qjx_1752673520461.jpg",
+    "geo": [
+      34.7053,
+      135.1965
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.ky0jHSrSQ6Hw&ll=34.705308%2C135.196552&z=17"
+  },
+  {
+    "id": "51i527qqp",
+    "name": "新神戸駅 新幹線2番ホーム",
+    "image": "https://image.xinu.ink/pic/data/6101/images/51i527qqp_1752673542029.jpg",
+    "geo": [
+      34.7062,
+      135.1949
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.ky0jHSrSQ6Hw&ll=34.70621%2C135.194973&z=17"
+  }
+]

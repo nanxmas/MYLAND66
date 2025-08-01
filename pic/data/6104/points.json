@@ -1,0 +1,200 @@
+[
+  {
+    "id": "7168fd73",
+    "name": "西武秩父線 吾野駅",
+    "image": "https://image.xinu.ink/pic/data/6104/images/7168fd73_1753085837397.jpg",
+    "geo": [
+      35.9084,
+      139.2266
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1zQig_xmeGzXZGyE3yoA_Y9O6ZNDvniEY&ll=35.908491%2C139.226697&z=17"
+  },
+  {
+    "id": "0b8a2b37",
+    "name": "JR吉祥寺駅",
+    "image": "https://image.xinu.ink/pic/data/6104/images/0b8a2b37_1753086487000.jpg",
+    "geo": [
+      35.7031,
+      139.5798
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1zQig_xmeGzXZGyE3yoA_Y9O6ZNDvniEY&ll=35.703139%2C139.579895&z=17"
+  },
+  {
+    "id": "d89201b3",
+    "name": "成蹊大学",
+    "image": "https://image.xinu.ink/pic/data/6104/images/d89201b3_1753085884172.jpg",
+    "geo": [
+      35.7105,
+      139.5728
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1zQig_xmeGzXZGyE3yoA_Y9O6ZNDvniEY&ll=35.71058%2C139.5728&z=17"
+  },
+  {
+    "id": "14bf2463",
+    "name": "つくばエクスプレス 北千住駅",
+    "image": "https://image.xinu.ink/pic/data/6104/images/14bf2463_1753085894841.jpg",
+    "geo": [
+      35.7489,
+      139.805
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1zQig_xmeGzXZGyE3yoA_Y9O6ZNDvniEY&ll=35.748952%2C139.805051&z=17"
+  },
+  {
+    "id": "32af3f5b",
+    "name": "中町 交差点",
+    "image": "https://image.xinu.ink/pic/data/6104/images/32af3f5b_1753085921643.jpg",
+    "geo": [
+      35.7091,
+      139.5679
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1zQig_xmeGzXZGyE3yoA_Y9O6ZNDvniEY&ll=35.70915%2C139.567989&z=17"
+  },
+  {
+    "id": "3796bc7c",
+    "name": "ガスト吉祥寺店",
+    "image": "https://image.xinu.ink/pic/data/6104/images/3796bc7c_1753085936676.jpg",
+    "geo": [
+      35.7044,
+      139.5811
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1zQig_xmeGzXZGyE3yoA_Y9O6ZNDvniEY&ll=35.704436%2C139.581124&z=17"
+  },
+  {
+    "id": "dd0d64c0",
+    "name": "西武池袋線 東吾野駅",
+    "image": "https://image.xinu.ink/pic/data/6104/images/dd0d64c0_1753085845643.jpg",
+    "geo": [
+      35.8923,
+      139.2603
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1zQig_xmeGzXZGyE3yoA_Y9O6ZNDvniEY&ll=35.892345%2C139.260347&z=17"
+  },
+  {
+    "id": "5fedf2b2",
+    "name": "明神湯",
+    "image": "https://image.xinu.ink/pic/data/6104/images/5fedf2b2_1753085958019.jpg",
+    "geo": [
+      35.5895,
+      139.6901
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1zQig_xmeGzXZGyE3yoA_Y9O6ZNDvniEY&ll=35.589591%2C139.690108&z=17"
+  },
+  {
+    "id": "00102b85",
+    "name": "柏の葉キャンパス駅 西口",
+    "image": "https://image.xinu.ink/pic/data/6104/images/00102b85_1753086050356.jpg",
+    "geo": [
+      35.8939,
+      139.9524
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1zQig_xmeGzXZGyE3yoA_Y9O6ZNDvniEY&ll=35.893923%2C139.952464&z=17"
+  },
+  {
+    "id": "0c43346d",
+    "name": "JR秋葉原駅",
+    "image": "https://image.xinu.ink/pic/data/6104/images/0c43346d_1753085995570.jpg",
+    "geo": [
+      35.6984,
+      139.7737
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1zQig_xmeGzXZGyE3yoA_Y9O6ZNDvniEY&ll=35.698471%2C139.773733&z=17"
+  },
+  {
+    "id": "85f58f83",
+    "name": "秋葉原UDX",
+    "image": "https://image.xinu.ink/pic/data/6104/images/85f58f83_1753086003987.jpg",
+    "geo": [
+      35.6998,
+      139.7737
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1zQig_xmeGzXZGyE3yoA_Y9O6ZNDvniEY&ll=35.699837%2C139.773799&z=17"
+  },
+  {
+    "id": "29edcfbe",
+    "name": "吉祥寺サンロード商店街",
+    "image": "https://image.xinu.ink/pic/data/6104/images/29edcfbe_1753086111411.jpg",
+    "geo": [
+      35.7037,
+      139.5798
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1zQig_xmeGzXZGyE3yoA_Y9O6ZNDvniEY&ll=35.703782%2C139.579832&z=17"
+  },
+  {
+    "id": "952dfeae",
+    "name": "吉祥寺駅東口交番",
+    "image": "https://image.xinu.ink/pic/data/6104/images/952dfeae_1753086323299.jpg",
+    "geo": [
+      35.7033,
+      139.5804
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1zQig_xmeGzXZGyE3yoA_Y9O6ZNDvniEY&ll=35.70334%2C139.58049&z=17"
+  },
+  {
+    "id": "084feb50",
+    "name": "吉祥寺駅北口駅前広場",
+    "image": "https://image.xinu.ink/pic/data/6104/images/084feb50_1753086331202.jpg",
+    "geo": [
+      35.7035,
+      139.5804
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1zQig_xmeGzXZGyE3yoA_Y9O6ZNDvniEY&ll=35.703532%2C139.580408&z=17"
+  },
+  {
+    "id": "f16b82ee",
+    "name": "三菱UFJ銀行 吉祥寺駅前支店",
+    "image": "https://image.xinu.ink/pic/data/6104/images/f16b82ee_1753086245514.jpg",
+    "geo": [
+      35.7037,
+      139.5801
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1zQig_xmeGzXZGyE3yoA_Y9O6ZNDvniEY&ll=35.70376%2C139.580106&z=17"
+  },
+  {
+    "id": "03d92e6e",
+    "name": "平和通り",
+    "image": "https://image.xinu.ink/pic/data/6104/images/03d92e6e_1753086176003.jpg",
+    "geo": [
+      35.7033,
+      139.579
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1zQig_xmeGzXZGyE3yoA_Y9O6ZNDvniEY&ll=35.703369%2C139.579082&z=17"
+  },
+  {
+    "id": "cbb1a66d",
+    "name": "サウンドクルー吉祥寺",
+    "image": "https://image.xinu.ink/pic/data/6104/images/cbb1a66d_1753086198737.jpg",
+    "geo": [
+      35.7044,
+      139.5768
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1zQig_xmeGzXZGyE3yoA_Y9O6ZNDvniEY&ll=35.70446%2C139.57687&z=17"
+  },
+  {
+    "id": "1886f216",
+    "name": "雲洞山 天暁院 月窓寺",
+    "image": "https://image.xinu.ink/pic/data/6104/images/1886f216_1753086207856.jpg",
+    "geo": [
+      35.7056,
+      139.5807
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1zQig_xmeGzXZGyE3yoA_Y9O6ZNDvniEY&ll=35.705682%2C139.580781&z=17"
+  }
+]

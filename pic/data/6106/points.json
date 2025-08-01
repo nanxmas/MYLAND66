@@ -1,0 +1,218 @@
+[
+  {
+    "id": "51i53mlrk",
+    "name": "羽田空港 第二ターミナル出発フロア 3番時計前",
+    "image": "https://image.xinu.ink/pic/data/6106/images/51i53mlrk_1752573842493.jpg",
+    "ep": 2,
+    "geo": [
+      35.5515,
+      139.7881
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZKWKC-hpEdF_3V0iRcPJdV-9dkY&ll=35.551587%2C139.788109&z=17"
+  },
+  {
+    "id": "51i53mluq",
+    "name": "羽田空港 第二ターミナル Aゲート",
+    "image": "https://image.xinu.ink/pic/data/6106/images/51i53mluq_1752573798646.jpg",
+    "ep": 2,
+    "geo": [
+      35.55,
+      139.789
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZKWKC-hpEdF_3V0iRcPJdV-9dkY&ll=35.550084%2C139.789074&z=17"
+  },
+  {
+    "id": "51i53ml7w",
+    "name": "羽田空港 第一ターミナル P1駐車場",
+    "image": "https://image.xinu.ink/pic/data/6106/images/51i53ml7w_1752573790713.jpg",
+    "ep": 2,
+    "geo": [
+      35.5506,
+      139.7844
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZKWKC-hpEdF_3V0iRcPJdV-9dkY&ll=35.550629%2C139.784465&z=17"
+  },
+  {
+    "id": "51i53ml8b",
+    "name": "JR原宿駅 駅舎",
+    "image": "https://image.xinu.ink/pic/data/6106/images/51i53ml8b_1752574441830.jpg",
+    "ep": 5,
+    "geo": [
+      35.6703,
+      139.7026
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZKWKC-hpEdF_3V0iRcPJdV-9dkY&ll=35.670387%2C139.70269&z=17"
+  },
+  {
+    "id": "51i53mlfb",
+    "name": "JR原宿駅 竹下口",
+    "image": "https://image.xinu.ink/pic/data/6106/images/51i53mlfb_1752574449813.jpg",
+    "ep": 5,
+    "geo": [
+      35.6716,
+      139.7028
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZKWKC-hpEdF_3V0iRcPJdV-9dkY&ll=35.671611%2C139.702886&z=17"
+  },
+  {
+    "id": "51i53mmn1",
+    "name": "原宿竹下通り ゲート",
+    "image": "https://image.xinu.ink/pic/data/6106/images/51i53mmn1_1752573358703.jpg",
+    "ep": 5,
+    "geo": [
+      35.6715,
+      139.7031
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZKWKC-hpEdF_3V0iRcPJdV-9dkY&ll=35.671561%2C139.703146&z=17"
+  },
+  {
+    "id": "51i53mm5h",
+    "name": "PARISKID'S原宿店",
+    "image": "https://image.xinu.ink/pic/data/6106/images/51i53mm5h_1752573295350.jpg",
+    "ep": 5,
+    "geo": [
+      35.6715,
+      139.7035
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZKWKC-hpEdF_3V0iRcPJdV-9dkY&ll=35.671524%2C139.703571&z=17"
+  },
+  {
+    "id": "51i53mm1z",
+    "name": "マクドナルド原宿竹下通り店",
+    "image": "https://image.xinu.ink/pic/data/6106/images/51i53mm1z_1752573328104.jpg",
+    "ep": 5,
+    "geo": [
+      35.6715,
+      139.7034
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZKWKC-hpEdF_3V0iRcPJdV-9dkY&ll=35.671536%2C139.703491&z=17"
+  },
+  {
+    "id": "51i53mmag",
+    "name": "WONDER ROCKET 原宿店前",
+    "image": "https://image.xinu.ink/pic/data/6106/images/51i53mmag_1752573337598.jpg",
+    "ep": 5,
+    "geo": [
+      35.6713,
+      139.7038
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZKWKC-hpEdF_3V0iRcPJdV-9dkY&ll=35.671387%2C139.703832&z=17"
+  },
+  {
+    "id": "51i53mmd6",
+    "name": "神宮橋",
+    "image": "https://image.xinu.ink/pic/data/6106/images/51i53mmd6_1752573407182.jpg",
+    "ep": 5,
+    "geo": [
+      35.6698,
+      139.7024
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZKWKC-hpEdF_3V0iRcPJdV-9dkY&ll=35.669825%2C139.70249&z=17"
+  },
+  {
+    "id": "51i53mm82",
+    "name": "明治神宮 南参道鳥居",
+    "image": "https://image.xinu.ink/pic/data/6106/images/51i53mm82_1752573451431.jpg",
+    "ep": 5,
+    "geo": [
+      35.6702,
+      139.7018
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZKWKC-hpEdF_3V0iRcPJdV-9dkY&ll=35.670219%2C139.701835&z=17"
+  },
+  {
+    "id": "51i53mm2l",
+    "name": "明治神宮 参道 葡萄酒樽",
+    "image": "https://image.xinu.ink/pic/data/6106/images/51i53mm2l_1752573481501.jpg",
+    "ep": 5,
+    "geo": [
+      35.6734,
+      139.7017
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZKWKC-hpEdF_3V0iRcPJdV-9dkY&ll=35.673402%2C139.701741&z=17"
+  },
+  {
+    "id": "51i53mmbb",
+    "name": "明治神宮 参道 清酒菰樽",
+    "image": "https://image.xinu.ink/pic/data/6106/images/51i53mmbb_1752573547775.jpg",
+    "ep": 5,
+    "geo": [
+      35.6734,
+      139.7019
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZKWKC-hpEdF_3V0iRcPJdV-9dkY&ll=35.673409%2C139.70195&z=17"
+  },
+  {
+    "id": "51i53mmij",
+    "name": "明治神宮 本殿",
+    "image": "https://image.xinu.ink/pic/data/6106/images/51i53mmij_1752573630103.jpg",
+    "ep": 5,
+    "geo": [
+      35.6759,
+      139.6994
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZKWKC-hpEdF_3V0iRcPJdV-9dkY&ll=35.675904%2C139.699421&z=17"
+  },
+  {
+    "id": "51i53mmhm",
+    "name": "JR新横浜駅 コンコース",
+    "image": "https://image.xinu.ink/pic/data/6106/images/51i53mmhm_1752574259446.jpg",
+    "ep": 11,
+    "geo": [
+      35.5067,
+      139.6173
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZKWKC-hpEdF_3V0iRcPJdV-9dkY&ll=35.506789%2C139.617321&z=17"
+  },
+  {
+    "id": "51i53mndi",
+    "name": "JR新横浜駅 新幹線１-2番線ホーム",
+    "image": "https://image.xinu.ink/pic/data/6106/images/51i53mndi_1752574197740.jpg",
+    "ep": 11,
+    "geo": [
+      35.5076,
+      139.6177
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZKWKC-hpEdF_3V0iRcPJdV-9dkY&ll=35.507619%2C139.617723&z=17"
+  },
+  {
+    "id": "51i53mnfe",
+    "name": "成田空港 第２ターミナル 出発フロア",
+    "image": "https://image.xinu.ink/pic/data/6106/images/51i53mnfe_1752574152029.jpg",
+    "ep": 12,
+    "geo": [
+      35.7734,
+      140.3879
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZKWKC-hpEdF_3V0iRcPJdV-9dkY&ll=35.773414%2C140.387914&z=17"
+  },
+  {
+    "id": "51i53mnau",
+    "name": "成田空港 第１ターミナル展望デッキ",
+    "image": "https://image.xinu.ink/pic/data/6106/images/51i53mnau_1752574119760.jpg",
+    "ep": 12,
+    "geo": [
+      35.7654,
+      140.3838
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZKWKC-hpEdF_3V0iRcPJdV-9dkY&ll=35.765458%2C140.383859&z=17"
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": 101518,
+  "cn": "狼少女与黑王子",
+  "title": "オオカミ少女と黒王子",
+  "city": "大阪市",
+  "cover": "https://image.xinu.ink/pic/data/6101/images/101518.jpg",
+  "color": "#db014a",
+  "geo": [
+    34.705679952877176,
+    135.19570889811575
+  ],
+  "zoom": 14.88,
+  "modified": 1752673574417,
+  "litePoints": [
+    {
+      "id": "51i527qny",
+      "name": "新神戸駅前",
+      "image": "https://image.anitabi.cn/points/101518/51i527qny_1752673486680.jpg?plan=h160",
+      "geo": [
+        34.7064,
+        135.1958
+      ]
+    },
+    {
+      "id": "51i527qjx",
+      "name": "新布引橋",
+      "image": "https://image.anitabi.cn/points/101518/51i527qjx_1752673520461.jpg?plan=h160",
+      "geo": [
+        34.7053,
+        135.1965
+      ]
+    },
+    {
+      "id": "51i527qqp",
+      "name": "新神戸駅 新幹線2番ホーム",
+      "image": "https://image.anitabi.cn/points/101518/51i527qqp_1752673542029.jpg?plan=h160",
+      "geo": [
+        34.7062,
+        135.1949
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "name": "オオカミ少女と黒王子",
+  "name_cn": "狼少女与黑王子",
+  "local_id": 6101
+}

@@ -1,0 +1,122 @@
+{
+  "id": 187112,
+  "cn": "装神少女小缠",
+  "title": "装神少女まとい",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/6106/images/187112.jpg",
+  "color": "#b88ec6",
+  "cp": "まとい",
+  "geo": [
+    35.551264825553616,
+    139.78613649422618
+  ],
+  "zoom": 10.416,
+  "modified": 1752574462433,
+  "litePoints": [
+    {
+      "id": "51i53mlrk",
+      "name": "羽田空港 第二ターミナル出発フロア 3番時計前",
+      "image": "https://image.anitabi.cn/points/187112/51i53mlrk_1752573842493.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.5515,
+        139.7881
+      ]
+    },
+    {
+      "id": "51i53mluq",
+      "name": "羽田空港 第二ターミナル Aゲート",
+      "image": "https://image.anitabi.cn/points/187112/51i53mluq_1752573798646.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.55,
+        139.789
+      ]
+    },
+    {
+      "id": "51i53ml7w",
+      "name": "羽田空港 第一ターミナル P1駐車場",
+      "image": "https://image.anitabi.cn/points/187112/51i53ml7w_1752573790713.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.5506,
+        139.7844
+      ]
+    },
+    {
+      "id": "51i53ml8b",
+      "name": "JR原宿駅 駅舎",
+      "image": "https://image.anitabi.cn/points/187112/51i53ml8b_1752574441830.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.6703,
+        139.7026
+      ]
+    },
+    {
+      "id": "51i53mlfb",
+      "name": "JR原宿駅 竹下口",
+      "image": "https://image.anitabi.cn/points/187112/51i53mlfb_1752574449813.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.6716,
+        139.7028
+      ]
+    },
+    {
+      "id": "51i53mmn1",
+      "name": "原宿竹下通り ゲート",
+      "image": "https://image.anitabi.cn/points/187112/51i53mmn1_1752573358703.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.6715,
+        139.7031
+      ]
+    },
+    {
+      "id": "51i53mm5h",
+      "name": "PARISKID'S原宿店",
+      "image": "https://image.anitabi.cn/points/187112/51i53mm5h_1752573295350.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.6715,
+        139.7035
+      ]
+    },
+    {
+      "id": "51i53mm1z",
+      "name": "マクドナルド原宿竹下通り店",
+      "image": "https://image.anitabi.cn/points/187112/51i53mm1z_1752573328104.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.6715,
+        139.7034
+      ]
+    },
+    {
+      "id": "51i53mmag",
+      "name": "WONDER ROCKET 原宿店前",
+      "image": "https://image.anitabi.cn/points/187112/51i53mmag_1752573337598.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.6713,
+        139.7038
+      ]
+    },
+    {
+      "id": "51i53mmd6",
+      "name": "神宮橋",
+      "image": "https://image.anitabi.cn/points/187112/51i53mmd6_1752573407182.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.6698,
+        139.7024
+      ]
+    }
+  ],
+  "pointsLength": 18,
+  "imagesLength": 18,
+  "name": "装神少女まとい",
+  "name_cn": "装神少女小缠",
+  "local_id": 6106
+}

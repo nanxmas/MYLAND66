@@ -1,0 +1,106 @@
+{
+  "id": 117558,
+  "cn": "干支魂",
+  "title": "えとたま",
+  "city": "千代田区",
+  "cover": "https://image.xinu.ink/pic/data/6103/images/117558_HTw6N.jpg",
+  "cp": "えとたま",
+  "modified": 1753159949190,
+  "litePoints": [
+    {
+      "id": "dd936b29",
+      "name": "JR秋葉原駅 電気街口 南側通り",
+      "image": "https://image.anitabi.cn/points/117558/dd936b29_1753159225694.jpg?plan=h160",
+      "geo": [
+        35.6981,
+        139.7724
+      ]
+    },
+    {
+      "id": "61f74d42",
+      "name": "秋葉原駅南交差点 北側",
+      "image": "https://image.anitabi.cn/points/117558/61f74d42_1753159291192.jpg?plan=h160",
+      "geo": [
+        35.6977,
+        139.7725
+      ]
+    },
+    {
+      "id": "2ea6d9ea",
+      "name": "秋葉原中央通り 総武線高架下",
+      "image": "https://image.anitabi.cn/points/117558/2ea6d9ea_1753159252057.jpg?plan=h160",
+      "geo": [
+        35.6984,
+        139.7713
+      ]
+    },
+    {
+      "id": "903af3f6",
+      "name": "ガチャポン会館",
+      "image": "https://image.anitabi.cn/points/117558/903af3f6_1753159305434.jpg?plan=h160",
+      "geo": [
+        35.7018,
+        139.7712
+      ]
+    },
+    {
+      "id": "7b33ba49",
+      "name": "柳原通り架道橋 高架下",
+      "image": "https://image.anitabi.cn/points/117558/7b33ba49_1753159328200.jpg?plan=h160",
+      "geo": [
+        35.6966,
+        139.7728
+      ]
+    },
+    {
+      "id": "009c4560",
+      "name": "ヨドバシカメラマルチメディアAkiba",
+      "image": "https://image.anitabi.cn/points/117558/009c4560_1753159416784.jpg?plan=h160",
+      "geo": [
+        35.6987,
+        139.7745
+      ]
+    },
+    {
+      "id": "46a6ab1d",
+      "name": "芳林公園",
+      "image": "https://image.anitabi.cn/points/117558/46a6ab1d_1753159350487.jpg?plan=h160",
+      "geo": [
+        35.7018,
+        139.7699
+      ]
+    },
+    {
+      "id": "5d23cb71",
+      "name": "千代田区立 昌平小学校",
+      "image": "https://image.anitabi.cn/points/117558/5d23cb71_1753159402424.jpg?plan=h160",
+      "geo": [
+        35.7013,
+        139.7698
+      ]
+    },
+    {
+      "id": "c99f2fa7",
+      "name": "神田明神 男坂",
+      "image": "https://image.anitabi.cn/points/117558/c99f2fa7_1753159696465.jpg?plan=h160",
+      "geo": [
+        35.7014,
+        139.7682
+      ]
+    },
+    {
+      "id": "82fd59ab",
+      "name": "神田明神 祭務所西側",
+      "image": "https://image.anitabi.cn/points/117558/82fd59ab_1753159735889.jpg?plan=h160",
+      "geo": [
+        35.7019,
+        139.7675
+      ]
+    }
+  ],
+  "pointsLength": 16,
+  "imagesLength": 16,
+  "name": "えとたま",
+  "name_cn": "干支魂",
+  "local_id": 6103
+}
