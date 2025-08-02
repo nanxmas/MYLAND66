@@ -130,3 +130,14 @@
 2025-07-16 12:55:04,890 - AnimePilgrimageUpdater - INFO - Test anime 4: 薫る花は凛と咲く
 2025-07-16 12:55:04,890 - AnimePilgrimageUpdater - INFO - Test anime 5: Summer Pockets
 2025-07-16 13:12:47,909 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
+2025-08-02 12:48:58,540 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-08-02 12:48:58,540 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-08-02 12:48:58,745 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-08-02 12:48:59,878 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-08-02 12:51:31,380 - AnimePilgrimageUpdater - INFO - Successfully retrieved 72 anime in test run
+2025-08-02 12:51:31,381 - AnimePilgrimageUpdater - INFO - Test anime 1: 光が死んだ夏
+2025-08-02 12:51:31,381 - AnimePilgrimageUpdater - INFO - Test anime 2: 怪獣8号 第2期
+2025-08-02 12:51:31,381 - AnimePilgrimageUpdater - INFO - Test anime 3: ダンダダン 2期
+2025-08-02 12:51:31,381 - AnimePilgrimageUpdater - INFO - Test anime 4: 青春ブタ野郎はサンタクロースの夢を見ない
+2025-08-02 12:51:31,381 - AnimePilgrimageUpdater - INFO - Test anime 5: 薫る花は凛と咲く
+2025-08-02 13:08:54,727 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
