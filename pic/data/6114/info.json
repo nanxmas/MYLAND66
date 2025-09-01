@@ -1,0 +1,81 @@
+{
+  "id": 153196,
+  "cn": "全职高手",
+  "title": "全职高手",
+  "city": "中国",
+  "cover": "https://image.xinu.ink/pic/data/6114/images/153196.jpg",
+  "color": "#474e63",
+  "geo": [
+    30.255840291885875,
+    120.1751088575158
+  ],
+  "zoom": 11.531,
+  "modified": 1755646807668,
+  "litePoints": [
+    {
+      "id": "3y4s0yo",
+      "cn": "西湖圣塘景区",
+      "name": "西湖圣塘",
+      "image": "https://image.anitabi.cn/user/0/bangumi/153196/points/3y4s0yo-1755604698969.jpg?plan=h160",
+      "ep": 1,
+      "s": 1042,
+      "geo": [
+        30.2617,
+        120.1524
+      ]
+    },
+    {
+      "id": "3y596e5",
+      "cn": "保俶塔",
+      "name": "保俶塔",
+      "image": "https://image.anitabi.cn/user/0/bangumi/153196/points/3y596e5-1755605390854.jpg?plan=h160",
+      "ep": 3,
+      "s": 713,
+      "geo": [
+        30.2633,
+        120.1433
+      ]
+    },
+    {
+      "id": "3y5htkd",
+      "cn": "庆新天桥",
+      "name": "庆新天桥",
+      "image": "https://image.anitabi.cn/user/0/bangumi/153196/points/3y5htkd-1755605809745.jpg?plan=h160",
+      "ep": 3,
+      "s": 716,
+      "geo": [
+        30.2599,
+        120.2036
+      ]
+    },
+    {
+      "id": "3y5ucl5",
+      "cn": "五四广场雕塑",
+      "name": "五四广场雕塑",
+      "image": "https://image.anitabi.cn/user/0/bangumi/153196/points/3y5ucl5-1755606396351.jpg?plan=h160",
+      "ep": 5,
+      "s": 128,
+      "geo": [
+        36.0611,
+        120.3801
+      ]
+    },
+    {
+      "id": "3y61rxb",
+      "cn": "西湖边码头",
+      "name": "西湖边码头",
+      "image": "https://image.anitabi.cn/user/0/bangumi/153196/points/3y61rxb-1755606728461.jpg?plan=h160",
+      "ep": 5,
+      "s": 1370,
+      "geo": [
+        30.2545,
+        120.1575
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "name": "全职高手",
+  "name_cn": "全职高手",
+  "local_id": 6114
+}

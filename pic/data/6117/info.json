@@ -1,0 +1,55 @@
+{
+  "id": 195816,
+  "cn": "GAMERS电玩咖",
+  "title": "ゲーマーズ!",
+  "cover": "https://image.xinu.ink/pic/data/6117/images/195816_8fZHP.jpg",
+  "cp": "ゲーマーズ！",
+  "modified": 1754989266659,
+  "litePoints": [
+    {
+      "id": "3nx7mgu",
+      "name": "湯畑",
+      "image": "https://image.anitabi.cn/points/195816/3nx7mgu_1754987229734.jpg?plan=h160",
+      "ep": 12,
+      "geo": [
+        36.6226,
+        138.5965
+      ]
+    },
+    {
+      "id": "3nxcl24",
+      "name": "御座之湯",
+      "image": "https://image.anitabi.cn/points/195816/3nxcl24_1754987681980.jpg?plan=h160",
+      "ep": 12,
+      "geo": [
+        36.6224,
+        138.5965
+      ]
+    },
+    {
+      "id": "3ny5gpu",
+      "name": "足湯",
+      "image": "https://image.anitabi.cn/points/195816/3ny5gpu_1754989190646.jpg?plan=h160",
+      "ep": 12,
+      "geo": [
+        36.6228,
+        138.5968
+      ]
+    },
+    {
+      "id": "3nxsrx7",
+      "name": "光泉寺の山門",
+      "image": "https://image.anitabi.cn/points/195816/3nxsrx7_1754988351188.jpg?plan=h160",
+      "ep": 12,
+      "geo": [
+        36.6221,
+        138.5959
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "name": "ゲーマーズ!",
+  "name_cn": "GAMERS电玩咖",
+  "local_id": 6117
+}

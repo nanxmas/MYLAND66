@@ -1,0 +1,117 @@
+{
+  "id": 194261,
+  "cn": "天使的3P!",
+  "title": "天使の3P!",
+  "city": "船桥市",
+  "cover": "https://image.xinu.ink/pic/data/6116/images/194261.jpg",
+  "color": "#f18763",
+  "cp": "リトルウイング",
+  "modified": 1755057240838,
+  "litePoints": [
+    {
+      "id": "3nzt7zh",
+      "name": "県立​千葉​西​高等​学校",
+      "image": "https://image.anitabi.cn/points/194261/3nzt7zh_1754991673892.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.628,
+        140.0535
+      ]
+    },
+    {
+      "id": "3nzzph8",
+      "name": "内山電気商会",
+      "image": "https://image.anitabi.cn/points/194261/3nzzph8_1754991909938.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7105,
+        139.956
+      ]
+    },
+    {
+      "id": "3o07ky2",
+      "name": "勝間田公園",
+      "image": "https://image.anitabi.cn/points/194261/3o07ky2_1754992273972.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7102,
+        139.957
+      ]
+    },
+    {
+      "id": "3o0a8aq",
+      "name": "行田公園",
+      "image": "https://image.anitabi.cn/points/194261/3o0a8aq_1754992377644.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7195,
+        139.9723
+      ]
+    },
+    {
+      "id": "3o0q7wr",
+      "name": "大浦天主堂",
+      "image": "https://image.anitabi.cn/points/194261/3o0q7wr_1754993136316.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        32.7343,
+        129.8701
+      ]
+    },
+    {
+      "id": "3o0gk61",
+      "name": "聖ザビエル天主堂",
+      "image": "https://image.anitabi.cn/points/194261/3o0gk61_1754992683498.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.3415,
+        136.9915
+      ]
+    },
+    {
+      "id": "3o1aswk",
+      "name": "富士急​ハイランド",
+      "image": "https://image.anitabi.cn/points/194261/3o1aswk_1754994082944.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        35.4876,
+        138.7792
+      ]
+    },
+    {
+      "id": "3o1pae2",
+      "name": "JR秋葉原駅電気街口",
+      "image": "https://image.anitabi.cn/points/194261/3o1pae2_1754994765106.jpg?plan=h160",
+      "ep": 10,
+      "geo": [
+        35.6982,
+        139.7725
+      ]
+    },
+    {
+      "id": "3o297pf",
+      "name": "アニメイト秋葉原店",
+      "image": "https://image.anitabi.cn/points/194261/3o297pf_1754995714650.jpg?plan=h160",
+      "ep": 10,
+      "geo": [
+        35.7004,
+        139.7716
+      ]
+    },
+    {
+      "id": "3o22la8",
+      "name": "タイトー​ステーション秋葉原店",
+      "image": "https://image.anitabi.cn/points/194261/3o22la8_1754995379170.jpg?plan=h160",
+      "ep": 10,
+      "geo": [
+        35.7002,
+        139.7716
+      ]
+    }
+  ],
+  "pointsLength": 16,
+  "imagesLength": 16,
+  "name": "天使の3P!",
+  "name_cn": "天使的3P!",
+  "local_id": 6116
+}

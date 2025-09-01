@@ -1,0 +1,50 @@
+{
+  "id": 100449,
+  "cn": "月刊少女野崎君",
+  "title": "月刊少女野崎くん",
+  "cover": "https://image.xinu.ink/pic/data/6108/images/100449_d101j.jpg",
+  "color": "#92bb26",
+  "cp": "月刊少女野崎くん",
+  "modified": 1754630518330,
+  "litePoints": [
+    {
+      "id": "3haod0k",
+      "name": "新所沢駅",
+      "image": "https://image.anitabi.cn/user/1099/bangumi/100449/points/3haod0k-1754586600020.jpg?plan=h160",
+      "ep": 11,
+      "s": 759,
+      "geo": [
+        35.8071,
+        139.4562
+      ]
+    },
+    {
+      "id": "3hb18l1",
+      "cn": "永旺梦乐城武藏村山电影院",
+      "name": "イオン​モール​むさし​村山",
+      "image": "https://image.anitabi.cn/points/100449/3hb18l1_1754587191125.jpg?plan=h160",
+      "ep": 10,
+      "s": 213,
+      "geo": [
+        35.7464,
+        139.3848
+      ]
+    },
+    {
+      "id": "3hbap73",
+      "name": "イオン​モール​むさし​村山",
+      "image": "https://image.anitabi.cn/points/100449/3hbap73_1754587601390.jpg?plan=h160",
+      "ep": 7,
+      "s": 179,
+      "geo": [
+        35.7465,
+        139.385
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "name": "月刊少女野崎くん",
+  "name_cn": "月刊少女野崎君",
+  "local_id": 6108
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "3haod0k",
+    "name": "新所沢駅",
+    "image": "https://image.xinu.ink/pic/data/6108/images/3haod0k-1754586600020.jpg",
+    "ep": 11,
+    "s": 759,
+    "geo": [
+      35.8071,
+      139.4562
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3hb18l1",
+    "cn": "永旺梦乐城武藏村山电影院",
+    "name": "イオン​モール​むさし​村山",
+    "image": "https://image.xinu.ink/pic/data/6108/images/3hb18l1_1754587191125.jpg",
+    "ep": 10,
+    "s": 213,
+    "geo": [
+      35.7464,
+      139.3848
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3hbap73",
+    "name": "イオン​モール​むさし​村山",
+    "image": "https://image.xinu.ink/pic/data/6108/images/3hbap73_1754587601390.jpg",
+    "ep": 7,
+    "s": 179,
+    "geo": [
+      35.7465,
+      139.385
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  }
+]

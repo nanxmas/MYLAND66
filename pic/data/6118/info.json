@@ -1,0 +1,117 @@
+{
+  "id": 198675,
+  "cn": "第一次的辣妹",
+  "title": "はじめてのギャル",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/6118/images/198675_3wQ9q.jpg",
+  "color": "#ffcda6",
+  "cp": "はじギャル",
+  "modified": 1754909661364,
+  "litePoints": [
+    {
+      "id": "3mkscoi",
+      "name": "まほろデッキ(JR町田駅前デッキ)",
+      "image": "https://image.anitabi.cn/points/198675/3mkscoi_1754905891609.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.5423,
+        139.4459
+      ]
+    },
+    {
+      "id": "3mku3tg",
+      "name": "マクドナルド\n町田​駅前​店",
+      "image": "https://image.anitabi.cn/points/198675/3mku3tg_1754905963135.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.5434,
+        139.4455
+      ]
+    },
+    {
+      "id": "3mkyno5",
+      "name": "三井住友銀行町田支店前",
+      "image": "https://image.anitabi.cn/points/198675/3mkyno5_1754906229539.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.5435,
+        139.4457
+      ]
+    },
+    {
+      "id": "3ml5tmd",
+      "name": "109 MACHIDA",
+      "image": "https://image.anitabi.cn/points/198675/3ml5tmd_1754906558974.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.5429,
+        139.4469
+      ]
+    },
+    {
+      "id": "3mlin26",
+      "name": "ラウンドワン​町田​店",
+      "image": "https://image.anitabi.cn/points/198675/3mlin26_1754907115550.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.5439,
+        139.4432
+      ]
+    },
+    {
+      "id": "3mlnk8e",
+      "name": "成瀬駅南口",
+      "image": "https://image.anitabi.cn/points/198675/3mlnk8e_1754907351950.jpg?plan=h160",
+      "ep": 9,
+      "geo": [
+        35.5353,
+        139.4726
+      ]
+    },
+    {
+      "id": "3mlrxth",
+      "name": "ファミリーカット成瀬",
+      "image": "https://image.anitabi.cn/points/198675/3mlrxth_1754907548773.jpg?plan=h160",
+      "ep": 9,
+      "geo": [
+        35.5353,
+        139.4723
+      ]
+    },
+    {
+      "id": "3mm705y",
+      "name": "BIG ECHO小田急町田駅前店",
+      "image": "https://image.anitabi.cn/points/198675/3mm705y_1754908291045.jpg?plan=h160",
+      "ep": 9,
+      "geo": [
+        35.5444,
+        139.4462
+      ]
+    },
+    {
+      "id": "3mmiudq",
+      "name": "サイゼリヤ\n町田​南成瀬​店",
+      "image": "https://image.anitabi.cn/points/198675/3mmiudq_1754908792884.jpg?plan=h160",
+      "ep": 9,
+      "geo": [
+        35.5378,
+        139.4674
+      ]
+    },
+    {
+      "id": "3mmnb7y",
+      "name": "よこはま​コスモ​ワールド",
+      "image": "https://image.anitabi.cn/points/198675/3mmnb7y_1754909013581.jpg?plan=h160",
+      "ep": 10,
+      "geo": [
+        35.4552,
+        139.6369
+      ]
+    }
+  ],
+  "pointsLength": 14,
+  "imagesLength": 14,
+  "name": "はじめてのギャル",
+  "name_cn": "第一次的辣妹",
+  "local_id": 6118
+}
