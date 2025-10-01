@@ -1,0 +1,116 @@
+{
+  "id": 149496,
+  "cn": "舞萌",
+  "title": "maimai",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/6120/images/149496_53r58j2.jpg",
+  "color": "#0d95ab",
+  "geo": [
+    35.552015664837285,
+    139.7409673527889
+  ],
+  "zoom": 17.702,
+  "modified": 1758332945243,
+  "litePoints": [
+    {
+      "id": "554zq0u",
+      "name": "セガ大鳥居旧本社",
+      "image": "https://image.anitabi.cn/points/149496/554zq0u_1758205501526.jpg?plan=h160",
+      "geo": [
+        35.5519,
+        139.7433
+      ]
+    },
+    {
+      "id": "3fe00e3d",
+      "name": "大鳥居駅",
+      "image": "https://image.anitabi.cn/points/149496/3fe00e3d_1758037850440.jpg?plan=h160",
+      "geo": [
+        35.5522,
+        139.7401
+      ]
+    },
+    {
+      "id": "a5535d01",
+      "name": "セガ大鳥居駅2号館",
+      "image": "https://image.anitabi.cn/points/149496/a5535d01_1758037856875.jpg?plan=h160",
+      "geo": [
+        35.552,
+        139.7426
+      ]
+    },
+    {
+      "id": "5550oj4",
+      "name": "セガ大鳥居旧本社 社内",
+      "image": "https://image.anitabi.cn/points/149496/5550oj4_1758205507221.jpg?plan=h160",
+      "s": 27,
+      "geo": [
+        35.5518,
+        139.7432
+      ]
+    },
+    {
+      "id": "f77241e2",
+      "name": "セガ大鳥居旧本社 1F",
+      "image": "https://image.anitabi.cn/points/149496/f77241e2_1758205519462.jpg?plan=h160",
+      "s": 69,
+      "geo": [
+        35.5518,
+        139.7431
+      ]
+    },
+    {
+      "id": "e1b6dcb1",
+      "name": "セガ大鳥居旧本社 7F",
+      "image": "https://image.anitabi.cn/points/149496/e1b6dcb1_1758205523451.jpg?plan=h160",
+      "s": 90,
+      "geo": [
+        35.5517,
+        139.7433
+      ]
+    },
+    {
+      "id": "2ec079a9",
+      "name": "セガ大鳥居旧本社 屋上",
+      "image": "https://image.anitabi.cn/points/149496/2ec079a9_1758205537740.jpg?plan=h160",
+      "s": 105,
+      "geo": [
+        35.5517,
+        139.7433
+      ]
+    },
+    {
+      "id": "578ozto",
+      "name": "SEGA 池袋GiGO",
+      "image": "https://image.anitabi.cn/points/149496/578ozto_1758332132364.jpg?plan=h160",
+      "s": 47,
+      "geo": [
+        35.7301,
+        139.716
+      ]
+    },
+    {
+      "id": "702d0809",
+      "name": "炭坑節発祥の地",
+      "image": "https://image.anitabi.cn/points/149496/702d0809_1758205570102.jpg?plan=h160",
+      "geo": [
+        33.6291,
+        130.8005
+      ]
+    },
+    {
+      "id": "a4e88530",
+      "name": "旧三井田川鉱業所伊田竪坑櫓",
+      "image": "https://image.anitabi.cn/points/149496/a4e88530_1758205641034.jpg?plan=h160",
+      "geo": [
+        33.6414,
+        130.8149
+      ]
+    }
+  ],
+  "pointsLength": 32,
+  "imagesLength": 31,
+  "name": "maimai",
+  "name_cn": "舞萌",
+  "local_id": 6120
+}
