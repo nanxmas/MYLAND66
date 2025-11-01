@@ -151635,6 +151635,18 @@
         ],
         "origin": "Anitabi@耿耿-げん",
         "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "6blwvea",
+        "cn": "Konparu大须本店",
+        "name": "コンパル​大須​本店",
+        "image": "https://image.xinu.ink/pic/data/382/images/6blwvea-1760773029401.jpg",
+        "ep": "",
+        "geo": [
+          35.1594,
+          136.9047
+        ],
+        "originLink": "https://10th.fate-go.jp/"
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/382/points.json"
@@ -162035,6 +162047,19 @@
           104.2593
         ],
         "originLink": "https://sazanami.net/20150929-charlotte-13-location/"
+      },
+      {
+        "id": "1r1o2by",
+        "name": "英国屋",
+        "image": "https://image.xinu.ink/pic/data/405/images/1r1o2by_1750822528238.jpg",
+        "ep": 3,
+        "s": 359,
+        "geo": [
+          35.4457,
+          139.6314
+        ],
+        "origin": "Anitabi@Xmなのだ",
+        "originURL": "https://anitabi.cn/"
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/405/points.json"
@@ -163217,6 +163242,17 @@
           131.6113
         ],
         "originLink": "https://astral-tanbou.com/entry/2016/07/10/223349"
+      },
+      {
+        "id": "67mx5qq",
+        "name": "正門脇の路地",
+        "image": "https://image.xinu.ink/pic/data/411/images/67mx5qq_1760534748465_cblack.jpg",
+        "geo": [
+          33.2221,
+          131.6114
+        ],
+        "origin": "Anitabi@大吉山展望台",
+        "originURL": "https://anitabi.cn/"
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/411/points.json"
@@ -167432,6 +167468,28 @@
         ],
         "origin": "Anitabi@我永远爱AN94",
         "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "6fzevm0",
+        "cn": "阿瓦拉山无名英雄纪念碑",
+        "name": "Споменик Незнаном јунаку",
+        "image": "https://image.xinu.ink/pic/data/425/images/6fzevm0-1761037548620.jpg",
+        "ep": null,
+        "geo": [
+          44.6891,
+          20.5159
+        ]
+      },
+      {
+        "id": "6fzgb6z",
+        "cn": "卡莱梅格丹城堡",
+        "name": "Зиндан капија",
+        "image": "https://image.xinu.ink/pic/data/425/images/6fzgb6z-1761037606645.jpg",
+        "ep": null,
+        "geo": [
+          44.8251,
+          20.4513
+        ]
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/425/points.json"
@@ -191745,6 +191803,18 @@
         "geo": [
           35.7073,
           139.7287
+        ]
+      },
+      {
+        "id": "664ygbp",
+        "cn": "地藏通商店街内",
+        "name": "地蔵通り商店街内",
+        "image": "https://image.xinu.ink/pic/data/488/images/664ygbp-1760442266246.jpg",
+        "ep": "Yes! Bang_Dream! 动画MV",
+        "s": "4:13",
+        "geo": [
+          35.7081,
+          139.7337
         ]
       }
     ],
@@ -406963,5 +407033,183 @@
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6120/points.json"
+  },
+  "6121": {
+    "name": "Firewatch",
+    "name_cn": "看火人",
+    "cover": "https://image.xinu.ink/pic/data/6121/images/137720_fKjWK.jpg",
+    "theme_color": "",
+    "points": [
+      {
+        "id": "6k5s3ub",
+        "cn": "乌特山防火瞭望塔",
+        "name": "Ute Mountain Fire Tower",
+        "image": "https://image.xinu.ink/pic/data/6121/images/6k5s3ub-1761290357958.jpg",
+        "ep": null,
+        "geo": [
+          40.8715,
+          -109.7927
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6121/points.json"
+  },
+  "6122": {
+    "name": "傷物語Ⅱ熱血篇",
+    "name_cn": "伤物语Ⅱ热血篇",
+    "cover": "https://image.xinu.ink/pic/data/6122/images/148036_2rP88.jpg",
+    "theme_color": "",
+    "points": [
+      {
+        "id": "62a2pix",
+        "name": "駒沢オリンピック公園",
+        "image": "https://image.xinu.ink/pic/data/6122/images/62a2pix-1760208943372.jpg",
+        "ep": "1",
+        "s": "5890",
+        "geo": [
+          35.6256,
+          139.6614
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6122/points.json"
+  },
+  "6123": {
+    "name": "傷物語Ⅲ冷血篇",
+    "name_cn": "伤物语Ⅲ冷血篇",
+    "cover": "https://image.xinu.ink/pic/data/6123/images/148037_RGxYY.jpg",
+    "theme_color": "",
+    "points": [
+      {
+        "id": "62ajgih",
+        "name": "東雲キャナルコートＣＯＤＡＮ",
+        "image": "https://image.xinu.ink/pic/data/6123/images/62ajgih-1760209742113.jpg",
+        "ep": "1",
+        "s": "300",
+        "geo": [
+          35.6478,
+          139.8036
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6123/points.json"
+  },
+  "6124": {
+    "name": "この美術部には問題がある！",
+    "name_cn": "这个美术社大有问题！",
+    "cover": "https://image.xinu.ink/pic/data/6124/images/150746_AAL5A.jpg",
+    "theme_color": "",
+    "points": [
+      {
+        "id": "63lheli",
+        "name": "のなか歯科医院旁",
+        "image": "https://image.xinu.ink/pic/data/6124/images/63lheli-1760288601904.jpg",
+        "ep": 6,
+        "s": 195,
+        "geo": [
+          35.7008,
+          139.522
+        ]
+      },
+      {
+        "id": "63lt9pt",
+        "name": "梶野公園東側",
+        "image": "https://image.xinu.ink/pic/data/6124/images/63lt9pt-1760289098636.jpg",
+        "ep": 2,
+        "s": 1199,
+        "geo": [
+          35.7028,
+          139.5269
+        ]
+      },
+      {
+        "id": "63mf4np",
+        "name": "第二防災公園附近",
+        "image": "https://image.xinu.ink/pic/data/6124/images/63mf4np-1760290152240.jpg",
+        "ep": 6,
+        "s": 1132,
+        "geo": [
+          35.7102,
+          139.5318
+        ]
+      },
+      {
+        "id": "63mowp4",
+        "name": "西一番通り（バス）",
+        "image": "https://image.xinu.ink/pic/data/6124/images/63mowp4-1760290591803.jpg",
+        "ep": 12,
+        "s": 1040,
+        "geo": [
+          35.7096,
+          139.5317
+        ]
+      },
+      {
+        "id": "63n0v64",
+        "name": "桜二の橋（バス）附近",
+        "image": "https://image.xinu.ink/pic/data/6124/images/63n0v64-1760291203601.jpg",
+        "ep": 10,
+        "s": 1174,
+        "geo": [
+          35.7101,
+          139.5294
+        ]
+      },
+      {
+        "id": "63nubce",
+        "name": "五日市街道",
+        "image": "https://image.xinu.ink/pic/data/6124/images/63nubce-1760292521971.jpg",
+        "ep": 1,
+        "s": 1050,
+        "geo": [
+          35.7161,
+          139.5503
+        ]
+      },
+      {
+        "id": "63o0ffa",
+        "name": "千川歩道橋",
+        "image": "https://image.xinu.ink/pic/data/6124/images/63o0ffa-1760292807326.jpg",
+        "ep": 1,
+        "s": 1139,
+        "geo": [
+          35.7164,
+          139.549
+        ]
+      },
+      {
+        "id": "63p6f1v",
+        "name": "下井草支店附近",
+        "image": "https://image.xinu.ink/pic/data/6124/images/63p6f1v-1760294763493.jpg",
+        "ep": 2,
+        "s": 856,
+        "geo": [
+          35.7248,
+          139.6262
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6124/points.json"
+  },
+  "6125": {
+    "name": "火花",
+    "name_cn": "火花",
+    "cover": "https://image.xinu.ink/pic/data/6125/images/162846_r2828.jpg",
+    "theme_color": "",
+    "points": [
+      {
+        "id": "5v78977",
+        "cn": "井之头公园大楼梯",
+        "name": "井の頭公園",
+        "image": "https://image.xinu.ink/pic/data/6125/images/5v78977-1759781175229.jpg",
+        "ep": 2,
+        "s": "47:50",
+        "geo": [
+          35.7004,
+          139.5781
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6125/points.json"
   }
 }
