@@ -196,5 +196,18 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1zQig_xmeGzXZGyE3yoA_Y9O6ZNDvniEY&ll=35.705682%2C139.580781&z=17"
+  },
+  {
+    "id": "79tcgxl",
+    "name": "橋伝理容所",
+    "image": "https://image.xinu.ink/pic/data/6104/images/79tcgxl-1762841386566.jpg",
+    "ep": 6,
+    "s": 1240,
+    "geo": [
+      35.7891,
+      139.2581
+    ],
+    "origin": "fureshima2223 ",
+    "originLink": "https://sinkirouno.exblog.jp/24898745/"
   }
 ]

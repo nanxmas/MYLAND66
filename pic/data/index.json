@@ -147378,6 +147378,34 @@
         ],
         "origin": "Google Maps",
         "originURL": "https://www.google.com/maps/d/viewer?mid=zdM6qTIlrilQ.kYyYg6QOsbeY&ll=35.667678%2C139.697358&z=17"
+      },
+      {
+        "id": "7q2hjfb",
+        "cn": "sunshine city 喷泉广场",
+        "name": "サンシャインシティ 噴水広場",
+        "image": "https://image.xinu.ink/pic/data/371/images/7q2hjfb-1763824239449.jpg",
+        "ep": 6,
+        "s": 814,
+        "geo": [
+          35.7291,
+          139.7187
+        ],
+        "origin": "Anitabi@MikiEteRiRi",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "7q2oua3",
+        "cn": "池袋sunshine city",
+        "name": "池袋サンシャインシティ",
+        "image": "https://image.xinu.ink/pic/data/371/images/7q2oua3-1763824535829.jpg",
+        "ep": 6,
+        "s": 783,
+        "geo": [
+          35.7299,
+          139.7179
+        ],
+        "origin": "Anitabi@MikiEteRiRi",
+        "originURL": "https://anitabi.cn/"
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/371/points.json"
@@ -158607,6 +158635,18 @@
         ],
         "origin": "Anitabi@甜食伯爵",
         "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "7mt52rr",
+        "cn": "大吉山展望台",
+        "name": "大吉山展望台",
+        "image": "https://image.xinu.ink/pic/data/393/images/7mt52rr-1763627079224.jpg",
+        "ep": 8,
+        "s": 1197,
+        "geo": [
+          34.8927,
+          135.812
+        ]
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/393/points.json"
@@ -166071,6 +166111,28 @@
           135.1914
         ],
         "originLink": "https://maps.app.goo.gl/44w5GCZmqUHg8GiA9?g_st=ac"
+      },
+      {
+        "id": "7beelo5",
+        "name": "京都水族館",
+        "image": "https://image.xinu.ink/pic/data/421/images/7beelo5_1762937187022.jpg",
+        "geo": [
+          34.9873,
+          135.7473
+        ],
+        "origin": "Anitabi@澄蔦",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "7belzzc",
+        "name": "豊郷小学校旧校舎群",
+        "image": "https://image.xinu.ink/pic/data/421/images/7belzzc_1762937513820.jpg",
+        "geo": [
+          35.2033,
+          136.2328
+        ],
+        "origin": "Anitabi@澄蔦",
+        "originURL": "https://anitabi.cn/"
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/421/points.json"
@@ -179422,6 +179484,97 @@
         ],
         "origin": "ckrito",
         "originLink": "https://www.google.com/maps/d/edit?mid=1_lGB-sWlsYob0oTfYjg0R81vBa4FNj8&usp=sharing"
+      },
+      {
+        "id": "7ayn8m5",
+        "name": "代々木駅",
+        "image": "https://image.xinu.ink/pic/data/455/images/7ayn8m5-1762910683656.jpg",
+        "ep": null,
+        "s": 4465,
+        "geo": [
+          35.6848,
+          139.7019
+        ],
+        "origin": "Anitabi@真手凛",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "7ay12gr",
+        "name": "惠比寿花园广场展望台",
+        "image": "https://image.xinu.ink/pic/data/455/images/7ay12gr-1762909948632.jpg",
+        "ep": null,
+        "s": 5899,
+        "geo": [
+          35.642,
+          139.7134
+        ],
+        "origin": "Anitabi@真手凛",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "7b0zia7",
+        "name": "新宿駅 远景",
+        "image": "https://image.xinu.ink/pic/data/455/images/7b0zia7-1762914636500.jpg",
+        "ep": null,
+        "s": 1210,
+        "geo": [
+          35.6911,
+          139.7002
+        ],
+        "origin": "Anitabi@真手凛",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "7b191rb",
+        "name": "東京駅 新干线站台",
+        "image": "https://image.xinu.ink/pic/data/455/images/7b191rb-1762915095799.jpg",
+        "ep": null,
+        "s": 2786,
+        "geo": [
+          35.6791,
+          139.7671
+        ],
+        "origin": "Anitabi@真手凛",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "7b2ptos",
+        "name": "新宿センタービル",
+        "image": "https://image.xinu.ink/pic/data/455/images/7b2ptos-1762917546033.jpg",
+        "ep": null,
+        "s": 5614,
+        "geo": [
+          35.6915,
+          139.6962
+        ],
+        "origin": "Anitabi@真手凛",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "7b307zt",
+        "name": "新宿駅南口券壳機横",
+        "image": "https://image.xinu.ink/pic/data/455/images/7b307zt-1762918013147.jpg",
+        "ep": "",
+        "s": 5971,
+        "geo": [
+          35.6893,
+          139.7003
+        ],
+        "origin": "Anitabi@真手凛",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "7b6sp0r",
+        "name": "タワーレコード 渋谷店",
+        "image": "https://image.xinu.ink/pic/data/455/images/7b6sp0r-1762924380529.jpg",
+        "ep": null,
+        "s": 142,
+        "geo": [
+          35.6618,
+          139.7011
+        ],
+        "origin": "Anitabi@真手凛",
+        "originURL": "https://anitabi.cn/"
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/455/points.json"
@@ -405508,6 +405661,19 @@
         ],
         "origin": "Google Maps",
         "originURL": "https://www.google.com/maps/d/viewer?mid=1zQig_xmeGzXZGyE3yoA_Y9O6ZNDvniEY&ll=35.705682%2C139.580781&z=17"
+      },
+      {
+        "id": "79tcgxl",
+        "name": "橋伝理容所",
+        "image": "https://image.xinu.ink/pic/data/6104/images/79tcgxl-1762841386566.jpg",
+        "ep": 6,
+        "s": 1240,
+        "geo": [
+          35.7891,
+          139.2581
+        ],
+        "origin": "fureshima2223 ",
+        "originLink": "https://sinkirouno.exblog.jp/24898745/"
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6104/points.json"
