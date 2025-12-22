@@ -1,0 +1,164 @@
+{
+  "points": [
+    {
+      "id": "6129-1",
+      "name": "笠松みなと公園",
+      "image": "https://image.xinu.ink/pic/data/6129/images/6129-1.jpg",
+      "ep": "ED",
+      "geo": [
+        35.36787,
+        136.76574
+      ]
+    },
+    {
+      "id": "6129-2",
+      "name": "笠松競馬場",
+      "image": "https://image.xinu.ink/pic/data/6129/images/6129-2.jpg",
+      "ep": "1",
+      "geo": [
+        35.37332,
+        136.76725
+      ]
+    },
+    {
+      "id": "6129-3",
+      "name": "中京競馬場",
+      "image": "https://image.xinu.ink/pic/data/6129/images/6129-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.06601,
+        136.98933
+      ]
+    },
+    {
+      "id": "6129-4",
+      "name": "京都競馬場",
+      "image": "https://image.xinu.ink/pic/data/6129/images/6129-4.jpg",
+      "ep": "2",
+      "geo": [
+        34.90773,
+        135.72729
+      ]
+    },
+    {
+      "id": "6129-5",
+      "name": "Yoyogi Park Basketball Court",
+      "image": "https://image.xinu.ink/pic/data/6129/images/6129-5.jpg",
+      "ep": "3",
+      "geo": [
+        35.66671,
+        139.69501
+      ]
+    },
+    {
+      "id": "6129-6",
+      "name": "花園神社",
+      "image": "https://image.xinu.ink/pic/data/6129/images/6129-6.jpg",
+      "ep": "3",
+      "geo": [
+        35.69353,
+        139.70536
+      ]
+    },
+    {
+      "id": "6129-7",
+      "name": "京王プラザホテル",
+      "image": "https://image.xinu.ink/pic/data/6129/images/6129-7.jpg",
+      "ep": "3",
+      "geo": [
+        35.69,
+        139.69396
+      ]
+    },
+    {
+      "id": "6129-8",
+      "name": "織田フィールド",
+      "image": "https://image.xinu.ink/pic/data/6129/images/6129-8.jpg",
+      "ep": "3",
+      "geo": [
+        35.6664,
+        139.69493
+      ]
+    },
+    {
+      "id": "6129-9",
+      "name": "織田フィールド",
+      "image": "https://image.xinu.ink/pic/data/6129/images/6129-9.jpg",
+      "ep": "3",
+      "geo": [
+        35.66713,
+        139.69437
+      ]
+    },
+    {
+      "id": "6129-10",
+      "name": "織田フィールド",
+      "image": "https://image.xinu.ink/pic/data/6129/images/6129-10.jpg",
+      "ep": "3",
+      "geo": [
+        35.6664,
+        139.69483
+      ]
+    },
+    {
+      "id": "6129-11",
+      "name": "是政運動広場",
+      "image": "https://image.xinu.ink/pic/data/6129/images/6129-11.jpg",
+      "ep": "4",
+      "geo": [
+        35.65541,
+        139.49255
+      ]
+    },
+    {
+      "id": "6129-12",
+      "name": "東京競馬場",
+      "image": "https://image.xinu.ink/pic/data/6129/images/6129-12.jpg",
+      "ep": "5",
+      "geo": [
+        35.66442,
+        139.48289
+      ]
+    },
+    {
+      "id": "6129-13",
+      "name": "中山競馬場",
+      "image": "https://image.xinu.ink/pic/data/6129/images/6129-13.jpg",
+      "ep": "6",
+      "geo": [
+        35.72282,
+        139.95911
+      ]
+    },
+    {
+      "id": "6129-14",
+      "name": "中山競馬場",
+      "image": "https://image.xinu.ink/pic/data/6129/images/6129-14.jpg",
+      "ep": "6",
+      "geo": [
+        35.726,
+        139.95997
+      ]
+    },
+    {
+      "id": "6129-15",
+      "name": "帝国ホテル 東京",
+      "image": "https://image.xinu.ink/pic/data/6129/images/6129-15.jpg",
+      "ep": "7",
+      "geo": [
+        35.67249,
+        139.75902
+      ]
+    },
+    {
+      "id": "6129-16",
+      "name": "是政橋",
+      "image": "https://image.xinu.ink/pic/data/6129/images/6129-16.jpg",
+      "ep": "7",
+      "geo": [
+        35.65532,
+        139.48684
+      ]
+    }
+  ]
+}

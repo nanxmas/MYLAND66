@@ -141,3 +141,14 @@
 2025-08-02 12:51:31,381 - AnimePilgrimageUpdater - INFO - Test anime 4: 青春ブタ野郎はサンタクロースの夢を見ない
 2025-08-02 12:51:31,381 - AnimePilgrimageUpdater - INFO - Test anime 5: 薫る花は凛と咲く
 2025-08-02 13:08:54,727 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
+2025-12-22 12:52:17,186 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-12-22 12:52:17,186 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-12-22 12:52:17,357 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-12-22 12:52:19,682 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-12-22 12:54:55,695 - AnimePilgrimageUpdater - INFO - Successfully retrieved 90 anime in test run
+2025-12-22 12:54:55,696 - AnimePilgrimageUpdater - INFO - Test anime 1: ちゃんと吸えない吸血鬼ちゃん
+2025-12-22 12:54:55,696 - AnimePilgrimageUpdater - INFO - Test anime 2: 藤本タツキ 17-26
+2025-12-22 12:54:55,696 - AnimePilgrimageUpdater - INFO - Test anime 3: 涼宮ハルヒの消失
+2025-12-22 12:54:55,696 - AnimePilgrimageUpdater - INFO - Test anime 4: 千歳くんはラムネ瓶のなか
+2025-12-22 12:54:55,696 - AnimePilgrimageUpdater - INFO - Test anime 5: ウマ娘 シンデレラグレイ 第2クール
+2025-12-22 13:15:47,752 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
