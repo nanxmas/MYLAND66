@@ -163,3 +163,14 @@
 2026-01-05 12:58:59,183 - AnimePilgrimageUpdater - INFO - Test anime 4: 千歳くんはラムネ瓶のなか
 2026-01-05 12:58:59,183 - AnimePilgrimageUpdater - INFO - Test anime 5: ワンパンマン 3期
 2026-01-05 13:14:47,800 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
+2026-01-08 13:07:12,063 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-01-08 13:07:12,063 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-01-08 13:07:12,275 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-01-08 13:07:15,033 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-01-08 13:09:47,364 - AnimePilgrimageUpdater - INFO - Successfully retrieved 90 anime in test run
+2026-01-08 13:09:47,364 - AnimePilgrimageUpdater - INFO - Test anime 1: かぐや様は告らせたい 大人への階段
+2026-01-08 13:09:47,364 - AnimePilgrimageUpdater - INFO - Test anime 2: 弱キャラ友崎くん
+2026-01-08 13:09:47,364 - AnimePilgrimageUpdater - INFO - Test anime 3: 綺麗にしてもらえますか。
+2026-01-08 13:09:47,364 - AnimePilgrimageUpdater - INFO - Test anime 4: 違国日記
+2026-01-08 13:09:47,365 - AnimePilgrimageUpdater - INFO - Test anime 5: であいもん
+2026-01-08 13:24:54,119 - AnimePilgrimageUpdater - INFO - Daily update completed successfully

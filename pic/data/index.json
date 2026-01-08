@@ -414954,5 +414954,54 @@
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6146/points.json"
+  },
+  "6147": {
+    "name": "かぐや様は告らせたい 大人への階段",
+    "name_cn": "かぐや様は告らせたい 大人への階段",
+    "cover": "https://image.xinu.ink/pic/data/6147/images/1.jpg",
+    "theme_color": "#7d8fac",
+    "points": [
+      {
+        "id": "mt5wii8e",
+        "name": "法観寺",
+        "image": "https://image.xinu.ink/pic/data/6147/images/6147-1.jpg",
+        "ep": "1",
+        "geo": [
+          34.99857,
+          135.77849
+        ]
+      },
+      {
+        "id": "qbnic9bv",
+        "name": "聖坂",
+        "image": "https://image.xinu.ink/pic/data/6147/images/6147-2.jpg",
+        "ep": "2",
+        "geo": [
+          35.6447,
+          139.74134
+        ]
+      },
+      {
+        "id": "nmouplpd",
+        "name": "三田警察署 亀塚公園前交番",
+        "image": "https://image.xinu.ink/pic/data/6147/images/6147-3.jpg",
+        "ep": "2",
+        "geo": [
+          35.64375,
+          139.74057
+        ]
+      },
+      {
+        "id": "z0ouijsw",
+        "name": "亀塚公園",
+        "image": "https://image.xinu.ink/pic/data/6147/images/6147-4.jpg",
+        "ep": "2",
+        "geo": [
+          35.64348,
+          139.74027
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6147/points.json"
   }
 }
