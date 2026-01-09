@@ -415003,5 +415003,164 @@
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6147/points.json"
+  },
+  "6148": {
+    "name": "呪術廻戦 死滅回遊",
+    "name_cn": "呪術廻戦 死滅回遊",
+    "cover": "https://image.xinu.ink/pic/data/6148/images/1.jpg",
+    "theme_color": "#725f58",
+    "points": [
+      {
+        "id": "fstqzyde",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "sayo9wnb",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "e8v8ylmd",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "3moor645",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "euuxszr2",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "gy0y6ibq",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "cc1tjv7j",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "rc6j4cjs",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "nr9ggqoe",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "rlgjdpt4",
+        "name": "芥見下々",
+        "image": "https://image.xinu.ink/pic/data/6148/images/6148-10.jpg",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "rg2b50pr",
+        "name": "芥見下々",
+        "image": "https://image.xinu.ink/pic/data/6148/images/6148-11.jpg",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "deond089",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "9k0qvknq",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "3mpg6pr4",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "2mi2oxly",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6148/points.json"
   }
 }
