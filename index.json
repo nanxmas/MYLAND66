@@ -145217,6 +145217,50 @@
           42.5652,
           140.8272
         ]
+      },
+      {
+        "id": "9fbsjqt",
+        "name": "火山科学馆服务台",
+        "image": "https://image.xinu.ink/pic/data/366/images/9fbsjqt-1767528259388.jpg",
+        "ep": "OVA",
+        "s": 38,
+        "geo": [
+          42.5638,
+          140.8152
+        ]
+      },
+      {
+        "id": "9fcb3a5",
+        "name": "洞爺湖温泉観光協会",
+        "image": "https://image.xinu.ink/pic/data/366/images/9fcb3a5-1767529436573.jpg",
+        "ep": 12,
+        "s": 437,
+        "geo": [
+          42.5644,
+          140.8181
+        ]
+      },
+      {
+        "id": "9fc2qn0",
+        "name": "火山科学館 楼梯",
+        "image": "https://image.xinu.ink/pic/data/366/images/9fc2qn0-1767528756381.jpg",
+        "ep": "OVA",
+        "s": 26,
+        "geo": [
+          42.5639,
+          140.815
+        ]
+      },
+      {
+        "id": "9fdps1i",
+        "name": "洞爺観光ホテル",
+        "image": "https://image.xinu.ink/pic/data/366/images/9fdps1i-1767531444873.jpg",
+        "ep": "OVA",
+        "s": 263,
+        "geo": [
+          42.5651,
+          140.821
+        ]
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/366/points.json"
@@ -148350,6 +148394,456 @@
         "geo": [
           35.6416,
           139.8604
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "adnv8q3",
+        "name": "小町的购物清单",
+        "image": "https://image.xinu.ink/pic/data/372/images/adnv8q3_1769604406084.jpg",
+        "ep": 2,
+        "s": 32,
+        "geo": [
+          34.9851,
+          135.7585
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xmk66e",
+        "cn": "地主神社",
+        "name": "地主神社",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xmk66e_1768634720838.jpg",
+        "ep": 1,
+        "s": 1023,
+        "geo": [
+          34.995,
+          135.7852
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xh4j96",
+        "name": "随求堂 (胎内巡り)",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xh4j96_1768625599354.jpg",
+        "ep": 1,
+        "s": 979,
+        "geo": [
+          34.9952,
+          135.784
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xfljmc",
+        "name": "天下一品 総本店",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xfljmc_1768623028907.jpg",
+        "ep": 1,
+        "s": 1192,
+        "geo": [
+          35.0394,
+          135.7915
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xfr1u8",
+        "cn": "東映太秦映画村",
+        "name": "東映太秦映画村",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xfr1u8_1768623493207.jpg",
+        "ep": 2,
+        "s": 158,
+        "geo": [
+          35.0166,
+          135.7082
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xhi4kr",
+        "cn": "岚山竹林小径",
+        "name": "嵐山竹林の小径",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xhi4kr_1768626200330.jpg",
+        "ep": 2,
+        "s": 604,
+        "geo": [
+          35.0165,
+          135.6707
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xhgvut",
+        "name": "渡月亭",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xhgvut_1768626135948.jpg",
+        "ep": 2,
+        "s": 906,
+        "geo": [
+          35.0111,
+          135.6777
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xpcm5l",
+        "name": "新幹線のぞみ内部",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xpcm5l_1768639441196.jpg",
+        "ep": 1,
+        "s": 852,
+        "geo": [
+          35.6808,
+          139.7677
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xu3lc4",
+        "name": "美浜大橋",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xu3lc4_1768647342066.jpg",
+        "ep": 1,
+        "s": 140,
+        "geo": [
+          35.6318,
+          140.0447
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "tsbqafye8",
+        "cn": "千叶站口：柱子",
+        "name": "千葉駅",
+        "image": "https://image.xinu.ink/pic/data/372/images/tsbqafye8_1742175165265.jpg",
+        "ep": "ova",
+        "s": 886,
+        "geo": [
+          35.6126,
+          140.1144
+        ],
+        "origin": "Anitabi@concert",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xoagx4",
+        "name": "京成幕張駅",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xoagx4_1768637601746.jpg",
+        "ep": 10,
+        "s": 1083,
+        "geo": [
+          35.6608,
+          140.0558
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xodx4g",
+        "name": "JR京葉線車内",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xodx4g_1768637768137.jpg",
+        "ep": 10,
+        "s": 1036,
+        "geo": [
+          35.6606,
+          140.0559
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xoum4a",
+        "name": "稲毛駅東口",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xoum4a_1768638850721.jpg",
+        "ep": 7,
+        "s": 876,
+        "geo": [
+          35.637,
+          140.0933
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xuzdo4",
+        "name": "イオンタワー",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xuzdo4_1768648930729.jpg",
+        "ep": 1,
+        "s": 108,
+        "geo": [
+          35.6515,
+          140.0381
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xctp2e",
+        "name": "京都岡崎郵便局前",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xctp2e_1768618362639.jpg",
+        "ep": 1,
+        "s": 1221,
+        "geo": [
+          35.0168,
+          135.7869
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xcympp",
+        "name": "宮繁稲荷神社前",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xcympp_1768619290735.jpg",
+        "ep": 1,
+        "s": 1238,
+        "geo": [
+          35.0167,
+          135.7885
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xdfxpq",
+        "name": "ホテル​オークラ​京都​岡崎​別邸附近",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xdfxpq_1768619372294.jpg",
+        "ep": 1,
+        "s": 1306,
+        "geo": [
+          35.0168,
+          135.7873
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xdgi4m",
+        "name": "白川通丸太町通交差点",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xdgi4m_1768619611811.jpg",
+        "ep": 1,
+        "s": 1263,
+        "geo": [
+          35.0166,
+          135.7907
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xkris5",
+        "name": "青少年自然の家",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xkris5_1768632791535.jpg",
+        "ep": 1,
+        "s": 879,
+        "geo": [
+          36.7497,
+          138.8921
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xlwh0r",
+        "name": "千葉みなと駅",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xlwh0r_1768633591345.jpg",
+        "ep": 10,
+        "s": 65,
+        "geo": [
+          35.6067,
+          140.1034
+        ],
+        "originLink": "http://blog.livedoor.jp/seichijunrei/archives/52063807.html"
+      },
+      {
+        "id": "9xlxedo",
+        "name": "千葉モノレール　1000形車内",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xlxedo_1768633668303.jpg",
+        "ep": 10,
+        "s": 69,
+        "geo": [
+          35.6067,
+          140.1027
+        ],
+        "originLink": "http://blog.livedoor.jp/seichijunrei/archives/52063807.html"
+      },
+      {
+        "id": "9xrnl8u",
+        "cn": "千叶县立幕张海滨公园",
+        "name": "千葉県立幕張海浜公園",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xrnl8u_1768643344775.jpg",
+        "ep": 1,
+        "s": 77,
+        "geo": [
+          35.6448,
+          140.0435
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xrxpny",
+        "cn": "曼哈頓飯店",
+        "name": "ホテルザ・​マンハッタン",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xrxpny_1768643769762.jpg",
+        "ep": 1,
+        "s": 75,
+        "geo": [
+          35.6451,
+          140.041
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xqtj1b",
+        "cn": "横滨洲际大酒店",
+        "name": "ヨコハマ グランド インターコンチネンタル ホテル",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xqtj1b_1768641840956.jpg",
+        "ep": 3,
+        "s": 138,
+        "geo": [
+          35.4592,
+          139.6358
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xs0myq",
+        "name": "セントラル​パーク​イースト​幕張​パーク​タワー",
+        "image": "https://image.xinu.ink/pic/data/372/images/9xs0myq_1768644224114.jpg",
+        "ep": 12,
+        "s": 1224,
+        "geo": [
+          35.6442,
+          140.0457
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "adpdbo5",
+        "name": "大本山南禅寺",
+        "image": "https://image.xinu.ink/pic/data/372/images/adpdbo5_1769611894127.jpg",
+        "ep": 1,
+        "geo": [
+          35.0119,
+          135.7943
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "adpdr37",
+        "name": "銀閣寺",
+        "image": "https://image.xinu.ink/pic/data/372/images/adpdr37_1769611988482.jpg",
+        "ep": 1,
+        "geo": [
+          35.0267,
+          135.7983
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "adpnp92",
+        "name": "哲学の道",
+        "image": "https://image.xinu.ink/pic/data/372/images/adpnp92_1769612067705.jpg",
+        "ep": 1,
+        "geo": [
+          35.0263,
+          135.7954
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "adnh7a9",
+        "name": "恋占いの石",
+        "image": "https://image.xinu.ink/pic/data/372/images/adnh7a9_1769612228551.jpg",
+        "ep": 1,
+        "geo": [
+          34.9951,
+          135.785
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "adrkynt",
+        "name": "港町／特撮プール（池の怪獣）",
+        "image": "https://image.xinu.ink/pic/data/372/images/adrkynt_1769612348704.jpg",
+        "ep": 2,
+        "geo": [
+          35.0168,
+          135.7074
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "adstv4o",
+        "name": "仁和寺",
+        "image": "https://image.xinu.ink/pic/data/372/images/adstv4o_1769613069482.jpg",
+        "ep": 2,
+        "geo": [
+          35.031,
+          135.7136
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "adta326",
+        "name": "金閣寺",
+        "image": "https://image.xinu.ink/pic/data/372/images/adta326_1769613717990.jpg",
+        "ep": 2,
+        "geo": [
+          35.0392,
+          135.7294
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "aduvx1g",
+        "name": "大本山東福寺",
+        "image": "https://image.xinu.ink/pic/data/372/images/aduvx1g_1769616295738.jpg",
+        "ep": 2,
+        "geo": [
+          34.977,
+          135.774
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "advc5dc",
+        "name": "北野天満宮",
+        "image": "https://image.xinu.ink/pic/data/372/images/advc5dc_1769617573065.jpg",
+        "ep": 2,
+        "geo": [
+          35.0312,
+          135.7352
+        ],
+        "origin": "Anitabi@Niamos!",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "adld5qq",
+        "name": "鞍馬山",
+        "image": "https://image.xinu.ink/pic/data/372/images/adld5qq_1769612563472.jpg",
+        "ep": 1,
+        "geo": [
+          35.1236,
+          135.7714
         ],
         "origin": "Anitabi@Niamos!",
         "originURL": "https://anitabi.cn/"
@@ -154599,6 +155093,17 @@
         "geo": [
           35.4927,
           138.804
+        ]
+      },
+      {
+        "id": "9my05no",
+        "name": "エクボ​スタイル​TSUJIMACHI",
+        "image": "https://image.xinu.ink/pic/data/387/images/9my05no-1767988920112.jpg",
+        "ep": "22",
+        "s": "3：19",
+        "geo": [
+          35.2068,
+          136.922
         ]
       }
     ],
@@ -174283,6 +174788,171 @@
         ],
         "origin": "Google Maps",
         "originURL": "https://www.google.com/maps/d/viewer?mid=zhuyzvyJImNk.kd3HxniuUbBE&ll=35.525975%2C140.28481&z=17"
+      },
+      {
+        "id": "a0nhy5p",
+        "name": "松井薬店付近",
+        "image": "https://image.xinu.ink/pic/data/442/images/a0nhy5p_1768875366138.jpg",
+        "geo": [
+          35.206,
+          139.8447
+        ],
+        "origin": "Anitabi@月即别",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "a0nkkpo",
+        "name": "神宮山 延命寺付近",
+        "image": "https://image.xinu.ink/pic/data/442/images/a0nkkpo_1768875378122.jpg",
+        "geo": [
+          35.2056,
+          139.8422
+        ],
+        "origin": "Anitabi@月即别",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "a0o5k5x",
+        "name": "竹岡子どもの遊び場",
+        "image": "https://image.xinu.ink/pic/data/442/images/a0o5k5x_1768875383979.jpg",
+        "geo": [
+          35.2084,
+          139.845
+        ],
+        "origin": "Anitabi@月即别",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "a0o8lhv",
+        "name": "勝山海水浴場 さざね",
+        "image": "https://image.xinu.ink/pic/data/442/images/a0o8lhv_1768875392092.jpg",
+        "geo": [
+          35.1154,
+          139.8278
+        ],
+        "origin": "Anitabi@月即别",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "51i52spd2",
+        "name": "勝山漁港",
+        "image": "https://image.xinu.ink/pic/data/442/images/51i52spd2_1768875401642.jpg",
+        "geo": [
+          35.1114,
+          139.8277
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=zhuyzvyJImNk.kd3HxniuUbBE&ll=35.111465%2C139.827787&z=17"
+      },
+      {
+        "id": "a0odvtn",
+        "name": "石洞山 不動院",
+        "image": "https://image.xinu.ink/pic/data/442/images/a0odvtn_1768875420186.jpg",
+        "geo": [
+          35.2086,
+          139.8482
+        ],
+        "origin": "Anitabi@月即别",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "51i52soy1",
+        "name": "勝山​漁協​漁村​センター",
+        "image": "https://image.xinu.ink/pic/data/442/images/51i52soy1_1768875429370.jpg",
+        "geo": [
+          35.1118,
+          139.8277
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=zhuyzvyJImNk.kd3HxniuUbBE&ll=35.111871%2C139.827778&z=17"
+      },
+      {
+        "id": "a0ohc4a",
+        "name": "竹岡漁港",
+        "image": "https://image.xinu.ink/pic/data/442/images/a0ohc4a_1768875441913.jpg",
+        "geo": [
+          35.2084,
+          139.8445
+        ],
+        "origin": "Anitabi@月即别",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "a0op8ff",
+        "name": "(株)​舟​藤​勝山​畜養​場",
+        "image": "https://image.xinu.ink/pic/data/442/images/a0op8ff_1768875596680.jpg",
+        "geo": [
+          35.1133,
+          139.8258
+        ],
+        "origin": "Anitabi@月即别",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "a0ncark",
+        "name": "善勝寺バス停",
+        "image": "https://image.xinu.ink/pic/data/442/images/a0ncark_1768875502820.jpg",
+        "geo": [
+          35.5278,
+          140.2844
+        ],
+        "origin": "Anitabi@月即别",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "a0nek78",
+        "name": "大網街道",
+        "image": "https://image.xinu.ink/pic/data/442/images/a0nek78_1768875508978.jpg",
+        "geo": [
+          35.5277,
+          140.2844
+        ],
+        "origin": "Anitabi@月即别",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "a0osu5e",
+        "name": "鉄道橋付近",
+        "image": "https://image.xinu.ink/pic/data/442/images/a0osu5e_1768875524266.jpg",
+        "geo": [
+          35.2056,
+          139.8461
+        ],
+        "origin": "Anitabi@月即别",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "a0ox00q",
+        "name": "三柱神社",
+        "image": "https://image.xinu.ink/pic/data/442/images/a0ox00q_1768875537538.jpg",
+        "geo": [
+          35.2055,
+          139.8414
+        ],
+        "origin": "Anitabi@月即别",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "51i52sp89",
+        "name": "竹岡駅",
+        "image": "https://image.xinu.ink/pic/data/442/images/51i52sp89_1768875545633.jpg",
+        "geo": [
+          35.1977,
+          139.8297
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=zhuyzvyJImNk.kd3HxniuUbBE&ll=35.19772%2C139.829763&z=17"
+      },
+      {
+        "id": "a0oyyjm",
+        "name": "食事処 なぶら [勝山漁港直営]",
+        "image": "https://image.xinu.ink/pic/data/442/images/a0oyyjm_1768875553594.jpg",
+        "geo": [
+          35.112,
+          139.8277
+        ],
+        "origin": "Anitabi@月即别",
+        "originURL": "https://anitabi.cn/"
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/442/points.json"
@@ -178444,6 +179114,17 @@
         ],
         "origin": "Anitabi@甜食伯爵",
         "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9xalsd1",
+        "cn": "水管桥附近",
+        "name": "水管桥附近",
+        "image": "https://image.xinu.ink/pic/data/449/images/9xalsd1-1768614616215.jpg",
+        "ep": "9",
+        "geo": [
+          34.9001,
+          135.8016
+        ]
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/449/points.json"
@@ -180598,6 +181279,43 @@
         ],
         "origin": "Anitabi@真手凛",
         "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "7b6h2pw",
+        "name": "新宿センタービル",
+        "image": "https://image.xinu.ink/pic/data/455/images/7b6h2pw-1762923840053.jpg",
+        "ep": "",
+        "s": 144,
+        "geo": [
+          35.6909,
+          139.6964
+        ],
+        "origin": "Anitabi@真手凛",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "35breqh",
+        "name": "首都高速4号新宿線高架下",
+        "image": "https://image.xinu.ink/pic/data/455/images/35breqh-1753862798742.jpg",
+        "ep": null,
+        "s": 5691,
+        "geo": [
+          35.6792,
+          139.7328
+        ],
+        "origin": "ckrito",
+        "originLink": "https://www.google.com/maps/d/edit?mid=1_lGB-sWlsYob0oTfYjg0R81vBa4FNj8&usp=sharing"
+      },
+      {
+        "id": "9ywpt3w",
+        "cn": "須賀神社",
+        "name": "須賀神社男坂上",
+        "image": "https://image.xinu.ink/pic/data/455/images/9ywpt3w-1768712213389.jpg",
+        "ep": null,
+        "geo": [
+          35.685,
+          139.7232
+        ]
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/455/points.json"
@@ -185101,6 +185819,188 @@
         ],
         "origin": "Anitabi@Xmなのだ",
         "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9nqu6r2",
+        "name": "麻布​警察署​六本木​六丁目​交番",
+        "image": "https://image.xinu.ink/pic/data/466/images/9nqu6r2-1768037200303.jpg",
+        "ep": 1,
+        "s": "20：26",
+        "geo": [
+          35.6593,
+          139.729
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1Nza_RcEry4raFZXiYS5rQQIA824&ll=35.659319%2C139.729051&z=17"
+      },
+      {
+        "id": "9nqegl8",
+        "name": "ダイソー​五反野​駅前​店",
+        "image": "https://image.xinu.ink/pic/data/466/images/9nqegl8-1768036463439.jpg",
+        "ep": 11,
+        "s": "11：12",
+        "geo": [
+          35.7658,
+          139.8098
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1Nza_RcEry4raFZXiYS5rQQIA824&ll=35.765822%2C139.809887&z=17"
+      },
+      {
+        "id": "9nqbwfa",
+        "name": "车站内",
+        "image": "https://image.xinu.ink/pic/data/466/images/9nqbwfa-1768036347715.jpg",
+        "ep": 11,
+        "s": "10：58",
+        "geo": [
+          35.7657,
+          139.8097
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1Nza_RcEry4raFZXiYS5rQQIA824&ll=35.765762%2C139.809763&z=17"
+      },
+      {
+        "id": "9nq64bt",
+        "name": "楼梯",
+        "image": "https://image.xinu.ink/pic/data/466/images/9nq64bt-1768036074414.jpg",
+        "ep": 8,
+        "s": "12：44",
+        "geo": [
+          35.7606,
+          139.8046
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1Nza_RcEry4raFZXiYS5rQQIA824&ll=35.760676%2C139.804621&z=17"
+      },
+      {
+        "id": "9npzs6e",
+        "name": "下桥口",
+        "image": "https://image.xinu.ink/pic/data/466/images/9npzs6e-1768035778757.jpg",
+        "ep": 8,
+        "s": "10：02",
+        "geo": [
+          35.7611,
+          139.804
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1Nza_RcEry4raFZXiYS5rQQIA824&ll=35.761152%2C139.804074&z=17"
+      },
+      {
+        "id": "9nonsir",
+        "name": "车站前1-1",
+        "image": "https://image.xinu.ink/pic/data/466/images/9nonsir-1768033555528.jpg",
+        "ep": 6,
+        "s": "5：49",
+        "geo": [
+          35.7665,
+          139.8092
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1Nza_RcEry4raFZXiYS5rQQIA824&ll=35.766558%2C139.809289&z=17"
+      },
+      {
+        "id": "9noppej",
+        "name": "书店",
+        "image": "https://image.xinu.ink/pic/data/466/images/9noppej-1768033649735.jpg",
+        "ep": 11,
+        "s": "8：59",
+        "geo": [
+          35.7663,
+          139.8092
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1Nza_RcEry4raFZXiYS5rQQIA824&ll=35.766392%2C139.809286&z=17"
+      },
+      {
+        "id": "9nowe2x",
+        "name": "人行道",
+        "image": "https://image.xinu.ink/pic/data/466/images/9nowe2x-1768033947961.jpg",
+        "ep": 11,
+        "s": "6：40",
+        "geo": [
+          35.7652,
+          139.8084
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1Nza_RcEry4raFZXiYS5rQQIA824&ll=35.765275%2C139.808484&z=17"
+      },
+      {
+        "id": "9npiak0",
+        "name": "跑道",
+        "image": "https://image.xinu.ink/pic/data/466/images/9npiak0-1768034965519.jpg",
+        "ep": 2,
+        "s": "14：11",
+        "geo": [
+          35.7604,
+          139.8062
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1Nza_RcEry4raFZXiYS5rQQIA824&ll=35.760483%2C139.806251&z=17"
+      },
+      {
+        "id": "9npc67d",
+        "name": "跑步道",
+        "image": "https://image.xinu.ink/pic/data/466/images/9npc67d-1768034678680.jpg",
+        "ep": 7,
+        "s": "20：00",
+        "geo": [
+          35.7603,
+          139.8066
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1Nza_RcEry4raFZXiYS5rQQIA824&ll=35.760309%2C139.806655&z=17"
+      },
+      {
+        "id": "9np8g12",
+        "name": "家前",
+        "image": "https://image.xinu.ink/pic/data/466/images/9np8g12-1768034504962.jpg",
+        "ep": 11,
+        "s": "5：05",
+        "geo": [
+          35.7613,
+          139.8051
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1Nza_RcEry4raFZXiYS5rQQIA824&ll=35.761395%2C139.805193&z=17"
+      },
+      {
+        "id": "9np4czq",
+        "name": "千住新橋SS",
+        "image": "https://image.xinu.ink/pic/data/466/images/9np4czq-1768034318223.jpg",
+        "ep": 11,
+        "s": "4：59",
+        "geo": [
+          35.7615,
+          139.8051
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1Nza_RcEry4raFZXiYS5rQQIA824&ll=35.761519%2C139.805131&z=17"
+      },
+      {
+        "id": "9npydui",
+        "name": "男主视角",
+        "image": "https://image.xinu.ink/pic/data/466/images/9npydui-1768035713068.jpg",
+        "ep": 8,
+        "s": "9：36",
+        "geo": [
+          35.761,
+          139.8034
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1Nza_RcEry4raFZXiYS5rQQIA824&ll=35.761098%2C139.803484&z=17"
+      },
+      {
+        "id": "9npyzvk",
+        "name": "桥下",
+        "image": "https://image.xinu.ink/pic/data/466/images/9npyzvk-1768035742414.jpg",
+        "ep": 8,
+        "s": "9：38",
+        "geo": [
+          35.7607,
+          139.804
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1Nza_RcEry4raFZXiYS5rQQIA824&ll=35.760758%2C139.804054&z=17"
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/466/points.json"
@@ -190349,6 +191249,110 @@
         ],
         "origin": "Anitabi@蛙壶真君",
         "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9wkv4ub",
+        "name": "東越谷七丁目しいの木公園",
+        "image": "https://image.xinu.ink/pic/data/477/images/9wkv4ub-1768571355424.jpg",
+        "ep": "2",
+        "s": "1090",
+        "geo": [
+          35.8906,
+          139.8004
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1jS-KHHjXACM3cJ5veEtNEYg8LXU&ll=35.890648%2C139.800466&z=17"
+      },
+      {
+        "id": "9wmgowv",
+        "name": "元荒川沿岸",
+        "image": "https://image.xinu.ink/pic/data/477/images/9wmgowv-1768574054233.jpg",
+        "ep": "4",
+        "s": "493",
+        "geo": [
+          35.889,
+          139.7919
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1jS-KHHjXACM3cJ5veEtNEYg8LXU&ll=35.889069%2C139.791917&z=17"
+      },
+      {
+        "id": "9wnm88y",
+        "name": "東越谷ボタン公園",
+        "image": "https://image.xinu.ink/pic/data/477/images/9wnm88y-1768575979027.jpg",
+        "ep": "4",
+        "s": "1172",
+        "geo": [
+          35.8907,
+          139.7993
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1jS-KHHjXACM3cJ5veEtNEYg8LXU&ll=35.890724%2C139.799303&z=17"
+      },
+      {
+        "id": "9wnwpac",
+        "name": "舊越谷市役所",
+        "image": "https://image.xinu.ink/pic/data/477/images/9wnwpac-1768576490450.jpg",
+        "ep": "8",
+        "s": "353",
+        "geo": [
+          35.8908,
+          139.7903
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1jS-KHHjXACM3cJ5veEtNEYg8LXU&ll=35.89081%2C139.790317&z=17"
+      },
+      {
+        "id": "9woakrh",
+        "name": "東越谷八丁目けやき公園",
+        "image": "https://image.xinu.ink/pic/data/477/images/9woakrh-1768577199611.jpg",
+        "ep": "6",
+        "s": 6,
+        "geo": [
+          35.8925,
+          139.8051
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1jS-KHHjXACM3cJ5veEtNEYg8LXU&ll=35.892542%2C139.805151&z=17"
+      },
+      {
+        "id": "9won0yy",
+        "name": "通學路",
+        "image": "https://image.xinu.ink/pic/data/477/images/9won0yy-1768577696129.jpg",
+        "ep": "4",
+        "s": "995",
+        "geo": [
+          35.8915,
+          139.8043
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1jS-KHHjXACM3cJ5veEtNEYg8LXU&ll=35.891573%2C139.804351&z=17"
+      },
+      {
+        "id": "9woxood",
+        "name": "ビッグ・エー 越谷赤山店",
+        "image": "https://image.xinu.ink/pic/data/477/images/9woxood-1768578194902.jpg",
+        "ep": "2",
+        "s": "320",
+        "geo": [
+          35.8858,
+          139.7837
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1jS-KHHjXACM3cJ5veEtNEYg8LXU&ll=35.885852%2C139.783721&z=17"
+      },
+      {
+        "id": "9wp4zab",
+        "name": "佐久間駐車場",
+        "image": "https://image.xinu.ink/pic/data/477/images/9wp4zab-1768578540727.jpg",
+        "ep": "3",
+        "s": "670",
+        "geo": [
+          35.8859,
+          139.7837
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1jS-KHHjXACM3cJ5veEtNEYg8LXU&ll=35.88595%2C139.783757&z=17"
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/477/points.json"
@@ -195002,6 +196006,469 @@
         ],
         "origin": "Anitabi@TownYan",
         "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9c8oxzm",
+        "name": "稻橞2丁目",
+        "image": "https://image.xinu.ink/pic/data/495/images/9c8oxzm-1767341644300.jpg",
+        "ep": 1,
+        "s": 330,
+        "geo": [
+          43.1983,
+          140.996
+        ]
+      },
+      {
+        "id": "9c8t50g",
+        "name": "セントラルタウン都通",
+        "image": "https://image.xinu.ink/pic/data/495/images/9c8t50g-1767341800371.jpg",
+        "ep": 1,
+        "s": 321,
+        "geo": [
+          43.198,
+          140.9961
+        ]
+      },
+      {
+        "id": "9c977jc",
+        "name": "小樽上空",
+        "image": "https://image.xinu.ink/pic/data/495/images/9c977jc-1767342460472.jpg",
+        "ep": 4,
+        "s": 838,
+        "geo": [
+          43.197,
+          140.9943
+        ]
+      },
+      {
+        "id": "9c9nbzj",
+        "name": "稻橞3丁目",
+        "image": "https://image.xinu.ink/pic/data/495/images/9c9nbzj-1767343218801.jpg",
+        "ep": 1,
+        "s": 798,
+        "geo": [
+          43.1986,
+          140.9968
+        ]
+      },
+      {
+        "id": "9cbl5si",
+        "cn": "罗森 小樽​色内​店",
+        "name": "ローソン小樽​色内​店",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cbl5si-1767346465562.jpg",
+        "ep": 7,
+        "s": 420,
+        "geo": [
+          43.1988,
+          140.9981
+        ]
+      },
+      {
+        "id": "9cfaitk",
+        "name": "栄​駅​自転車​駐車場",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cfaitk-1767352688239.jpg",
+        "ep": 2,
+        "s": 718,
+        "geo": [
+          34.538,
+          133.7449
+        ]
+      },
+      {
+        "id": "9cfb5qt",
+        "name": "荣站前",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cfb5qt-1767352862396.jpg",
+        "ep": 2,
+        "s": 718,
+        "geo": [
+          34.5386,
+          133.7448
+        ]
+      },
+      {
+        "id": "9cffd7z",
+        "name": "荣站",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cffd7z-1767352921489.jpg",
+        "ep": 1,
+        "s": 305,
+        "geo": [
+          34.5379,
+          133.7449
+        ]
+      },
+      {
+        "id": "9cful35",
+        "name": "八幡集会所",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cful35-1767353619515.jpg",
+        "ep": 3,
+        "s": 1213,
+        "geo": [
+          34.5244,
+          133.6646
+        ]
+      },
+      {
+        "id": "9cg8eih",
+        "name": "圆通寺公园",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cg8eih-1767354295826.jpg",
+        "ep": 8,
+        "s": 786,
+        "geo": [
+          34.5399,
+          133.6621
+        ]
+      },
+      {
+        "id": "9chr1cs",
+        "name": "3丁目",
+        "image": "https://image.xinu.ink/pic/data/495/images/9chr1cs-1767356853222.jpg",
+        "ep": 9,
+        "s": 397,
+        "geo": [
+          43.1984,
+          140.9967
+        ]
+      },
+      {
+        "id": "9cii1wc",
+        "cn": "似鸟美术馆",
+        "name": "似鳥美術館",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cii1wc-1767358270323.jpg",
+        "ep": 13,
+        "s": 161,
+        "geo": [
+          43.1969,
+          141.0018
+        ]
+      },
+      {
+        "id": "9cj26mw",
+        "name": "水门桥",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cj26mw-1767359023156.jpg",
+        "ep": 20,
+        "s": 828,
+        "geo": [
+          36.3373,
+          140.5928
+        ]
+      },
+      {
+        "id": "9ckcuos",
+        "name": "船见板",
+        "image": "https://image.xinu.ink/pic/data/495/images/9ckcuos-1767361229377.jpg",
+        "ep": "22",
+        "s": "1：00",
+        "geo": [
+          43.1986,
+          140.9911
+        ]
+      },
+      {
+        "id": "9ckrbda",
+        "name": "路口",
+        "image": "https://image.xinu.ink/pic/data/495/images/9ckrbda-1767361893062.jpg",
+        "ep": 12,
+        "s": "5：39",
+        "geo": [
+          34.6623,
+          133.9297
+        ]
+      },
+      {
+        "id": "9ckvsz5",
+        "name": "冈山商业街",
+        "image": "https://image.xinu.ink/pic/data/495/images/9ckvsz5-1767362085800.jpg",
+        "ep": 12,
+        "s": "7：17",
+        "geo": [
+          34.6628,
+          133.9296
+        ]
+      },
+      {
+        "id": "9cnijy7",
+        "name": "中央通",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cnijy7-1767366493299.jpg",
+        "ep": 15,
+        "s": "18：55",
+        "geo": [
+          43.1984,
+          140.9961
+        ]
+      },
+      {
+        "id": "9cnyq67",
+        "name": "三丁目公交站前电话厅",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cnyq67-1767367277698.jpg",
+        "ep": "16",
+        "s": "0：58",
+        "geo": [
+          43.1989,
+          140.9973
+        ]
+      },
+      {
+        "id": "9coj9x2",
+        "name": "不动产门前",
+        "image": "https://image.xinu.ink/pic/data/495/images/9coj9x2-1767368208598.jpg",
+        "ep": 16,
+        "s": "20：30",
+        "geo": [
+          43.1993,
+          140.9988
+        ]
+      },
+      {
+        "id": "9convtp",
+        "name": "不动产对面",
+        "image": "https://image.xinu.ink/pic/data/495/images/9convtp-1767368427877.jpg",
+        "ep": 16,
+        "s": "20：30",
+        "geo": [
+          43.1991,
+          140.999
+        ]
+      },
+      {
+        "id": "9copc0z",
+        "name": "不动产旁边",
+        "image": "https://image.xinu.ink/pic/data/495/images/9copc0z-1767368492432.jpg",
+        "ep": 16,
+        "s": "20：30",
+        "geo": [
+          43.1993,
+          140.9987
+        ]
+      },
+      {
+        "id": "9corw6k",
+        "name": "酒店门前",
+        "image": "https://image.xinu.ink/pic/data/495/images/9corw6k-1767368621439.jpg",
+        "ep": 16,
+        "s": "21：00",
+        "geo": [
+          43.1995,
+          140.9987
+        ]
+      },
+      {
+        "id": "9cpdq4n",
+        "name": "咖啡店前的树",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cpdq4n-1767369635898.jpg",
+        "ep": 18,
+        "s": "11：36",
+        "geo": [
+          35.7036,
+          139.5606
+        ]
+      },
+      {
+        "id": "9cpg54g",
+        "name": "停车场前面人行道",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cpg54g-1767369761619.jpg",
+        "ep": 18,
+        "s": "11：30",
+        "geo": [
+          35.7036,
+          139.5609
+        ]
+      },
+      {
+        "id": "9cphco1",
+        "name": "停车场",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cphco1-1767369809487.jpg",
+        "ep": 18,
+        "s": "11：30",
+        "geo": [
+          35.7036,
+          139.5609
+        ]
+      },
+      {
+        "id": "9cpvks5",
+        "name": "树前面",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cpvks5-1767370478075.jpg",
+        "ep": 19,
+        "s": "20：37",
+        "geo": [
+          35.7034,
+          139.5604
+        ]
+      },
+      {
+        "id": "9cq969f",
+        "name": "不动产前路口",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cq969f-1767371108584.jpg",
+        "ep": 21,
+        "s": "4：17",
+        "geo": [
+          35.7052,
+          139.5603
+        ]
+      },
+      {
+        "id": "9cqcvvj",
+        "name": "海门桥",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cqcvvj-1767371277022.jpg",
+        "ep": 20,
+        "s": "18：10",
+        "geo": [
+          36.3373,
+          140.5933
+        ]
+      },
+      {
+        "id": "9cqjpbc",
+        "name": "咖啡店",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cqjpbc-1767371597958.jpg",
+        "ep": 21,
+        "s": "4：30",
+        "geo": [
+          35.705,
+          139.5604
+        ]
+      },
+      {
+        "id": "9cqn6o2",
+        "name": "咖啡店路口",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cqn6o2-1767371753824.jpg",
+        "ep": 21,
+        "s": "4：30",
+        "geo": [
+          35.705,
+          139.5603
+        ]
+      },
+      {
+        "id": "9cqq8tb",
+        "name": "咖啡店转角",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cqq8tb-1767371905469.jpg",
+        "ep": "21",
+        "s": "4：30",
+        "geo": [
+          35.705,
+          139.5603
+        ]
+      },
+      {
+        "id": "9cr728a",
+        "name": "房地产对面路口",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cr728a-1767372710410.jpg",
+        "ep": 22,
+        "s": "4：57",
+        "geo": [
+          43.199,
+          140.9989
+        ]
+      },
+      {
+        "id": "9crl09g",
+        "name": "ktv",
+        "image": "https://image.xinu.ink/pic/data/495/images/9crl09g-1767373412624.jpg",
+        "ep": 22,
+        "s": "17：58",
+        "geo": [
+          35.7004,
+          139.561
+        ]
+      },
+      {
+        "id": "9crnjvf",
+        "name": "ktv对面",
+        "image": "https://image.xinu.ink/pic/data/495/images/9crnjvf-1767373459743.jpg",
+        "ep": 22,
+        "s": "21：23",
+        "geo": [
+          35.7003,
+          139.561
+        ]
+      },
+      {
+        "id": "9croscc",
+        "name": "ktv前面",
+        "image": "https://image.xinu.ink/pic/data/495/images/9croscc-1767373498100.jpg",
+        "ep": 23,
+        "s": "4：05",
+        "geo": [
+          35.7005,
+          139.561
+        ]
+      },
+      {
+        "id": "9cs5l6b",
+        "name": "ktv男上加男",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cs5l6b-1767374306154.jpg",
+        "ep": 23,
+        "s": "5：25",
+        "geo": [
+          35.7004,
+          139.5609
+        ]
+      },
+      {
+        "id": "9csghm2",
+        "name": "水门桥人行道",
+        "image": "https://image.xinu.ink/pic/data/495/images/9csghm2-1767374806563.jpg",
+        "ep": "23",
+        "s": "7：13",
+        "geo": [
+          36.3372,
+          140.5908
+        ]
+      },
+      {
+        "id": "9csjiq5",
+        "name": "水门桥下路口",
+        "image": "https://image.xinu.ink/pic/data/495/images/9csjiq5-1767374935196.jpg",
+        "ep": "23",
+        "s": "7：00",
+        "geo": [
+          36.3378,
+          140.5907
+        ]
+      },
+      {
+        "id": "9csnmd4",
+        "name": "水道桥",
+        "image": "https://image.xinu.ink/pic/data/495/images/9csnmd4-1767375127782.jpg",
+        "ep": "23",
+        "s": "7：30",
+        "geo": [
+          36.3371,
+          140.5914
+        ]
+      },
+      {
+        "id": "9cttqkd",
+        "name": "長橋バイパス",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cttqkd-1767377157222.jpg",
+        "ep": 1,
+        "s": "5：15",
+        "geo": [
+          43.2072,
+          140.9755
+        ]
+      },
+      {
+        "id": "9ch9lff",
+        "name": "県庁通り",
+        "image": "https://image.xinu.ink/pic/data/495/images/9ch9lff-1767355995633.jpg",
+        "ep": 2,
+        "s": "",
+        "geo": [
+          34.6623,
+          133.9292
+        ]
+      },
+      {
+        "id": "9cpklxw",
+        "name": "银行",
+        "image": "https://image.xinu.ink/pic/data/495/images/9cpklxw-1767369960217.jpg",
+        "ep": null,
+        "geo": [
+          35.7037,
+          139.5602
+        ]
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/495/points.json"
@@ -407700,6 +409167,172 @@
         ],
         "origin": "Anitabi@月即别",
         "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "9cwhvxo",
+        "name": "都立大学站前人行道",
+        "image": "https://image.xinu.ink/pic/data/6117/images/9cwhvxo-1767381587914.jpg",
+        "ep": 3,
+        "s": 1390,
+        "geo": [
+          35.6173,
+          139.6764
+        ]
+      },
+      {
+        "id": "9cx0bz7",
+        "name": "大学站前人行道",
+        "image": "https://image.xinu.ink/pic/data/6117/images/9cx0bz7-1767382443672.jpg",
+        "ep": 9,
+        "s": 1060,
+        "geo": [
+          35.6172,
+          139.6765
+        ]
+      },
+      {
+        "id": "9cxv30f",
+        "cn": "药店对面",
+        "name": "K&Kビル",
+        "image": "https://image.xinu.ink/pic/data/6117/images/9cxv30f-1767383880573.jpg",
+        "ep": 9,
+        "s": 1089,
+        "geo": [
+          35.6163,
+          139.6767
+        ]
+      },
+      {
+        "id": "9mzjs7o",
+        "name": "车站前",
+        "image": "https://image.xinu.ink/pic/data/6117/images/9mzjs7o-1767991446948.jpg",
+        "ep": 9,
+        "s": "22：17",
+        "geo": [
+          35.6174,
+          139.6764
+        ]
+      },
+      {
+        "id": "9myo2o7",
+        "name": "埼玉県朝霞市膝折町2丁目16-10",
+        "image": "https://image.xinu.ink/pic/data/6117/images/9myo2o7-1767989938719.jpg",
+        "ep": 7,
+        "s": "12：35",
+        "geo": [
+          35.7902,
+          139.5797
+        ]
+      },
+      {
+        "id": "9n177nx",
+        "name": "车站天空",
+        "image": "https://image.xinu.ink/pic/data/6117/images/9n177nx-1767994151695.jpg",
+        "ep": 5,
+        "s": "4:05",
+        "geo": [
+          35.6187,
+          139.6768
+        ]
+      },
+      {
+        "id": "9n1n6s0",
+        "name": "ジョナサン\n都立大学​駅​前​店",
+        "image": "https://image.xinu.ink/pic/data/6117/images/9n1n6s0-1767994878678.jpg",
+        "ep": 3,
+        "s": "21:09",
+        "geo": [
+          35.6187,
+          139.676
+        ]
+      },
+      {
+        "id": "9n1xj8v",
+        "name": "餐厅对面",
+        "image": "https://image.xinu.ink/pic/data/6117/images/9n1xj8v-1767995369314.jpg",
+        "ep": 5,
+        "s": "2：11",
+        "geo": [
+          35.6184,
+          139.6761
+        ]
+      },
+      {
+        "id": "9n1zn1m",
+        "name": "餐厅前",
+        "image": "https://image.xinu.ink/pic/data/6117/images/9n1zn1m-1767995462643.jpg",
+        "ep": 5,
+        "s": "4：07",
+        "geo": [
+          35.6186,
+          139.6761
+        ]
+      },
+      {
+        "id": "9n22rj7",
+        "name": "警卫亭",
+        "image": "https://image.xinu.ink/pic/data/6117/images/9n22rj7-1767995608270.jpg",
+        "ep": 5,
+        "s": "4：47",
+        "geo": [
+          35.6174,
+          139.6765
+        ]
+      },
+      {
+        "id": "9n3g72z",
+        "name": "天桥下",
+        "image": "https://image.xinu.ink/pic/data/6117/images/9n3g72z-1767997913421.jpg",
+        "ep": 2,
+        "s": "17：49",
+        "geo": [
+          35.618,
+          139.6746
+        ]
+      },
+      {
+        "id": "9n2avfa",
+        "name": "dvd前",
+        "image": "https://image.xinu.ink/pic/data/6117/images/9n2avfa-1767995987766.jpg",
+        "ep": 4,
+        "s": "12：58",
+        "geo": [
+          35.6163,
+          139.6767
+        ]
+      },
+      {
+        "id": "9n2q7so",
+        "name": "fuj银行人行道路口",
+        "image": "https://image.xinu.ink/pic/data/6117/images/9n2q7so-1767996702545.jpg",
+        "ep": 10,
+        "s": "20：02",
+        "geo": [
+          35.6183,
+          139.6753
+        ]
+      },
+      {
+        "id": "9n2stg2",
+        "name": "人行道",
+        "image": "https://image.xinu.ink/pic/data/6117/images/9n2stg2-1767996822138.jpg",
+        "ep": 10,
+        "s": "20：06",
+        "geo": [
+          35.6183,
+          139.6754
+        ]
+      },
+      {
+        "id": "9n38y0z",
+        "name": "天桥",
+        "image": "https://image.xinu.ink/pic/data/6117/images/9n38y0z-1767997589800.jpg",
+        "ep": 2,
+        "s": "14：02",
+        "geo": [
+          35.618,
+          139.6746
+        ]
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6117/points.json"
@@ -414800,367 +416433,658 @@
     "name": "違国日記",
     "name_cn": "違国日記",
     "cover": "https://image.xinu.ink/pic/data/6146/images/1.jpg",
-    "theme_color": "#9caca6",
-    "points": [
-      {
-        "id": "50vaelcu",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "zc6p061o",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "pgxg8pca",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "f2jmsg4z",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "9gfg788b",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "c5jklsxv",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "emztjwyl",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "mlv6u4af",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "zu5y2v64",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "vm8qdch3",
-        "name": "ヤマシタトモコ",
-        "image": "https://image.xinu.ink/pic/data/6146/images/6146-10.jpg",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "uj05pcad",
-        "name": "ヤマシタトモコ",
-        "image": "https://image.xinu.ink/pic/data/6146/images/6146-11.jpg",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "sjku1l3z",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "13d93cpc",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "og71e9r0",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "x1mo4sq6",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      }
-    ],
+    "theme_color": "",
+    "points": {
+      "points": [
+        {
+          "id": "6146-1",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6146-2",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6146-3",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6146-4",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6146-5",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6146-6",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6146-7",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6146-8",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6146-9",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6146-10",
+          "name": "ヤマシタトモコ",
+          "image": "https://image.xinu.ink/pic/data/6146/images/6146-10.jpg",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6146-11",
+          "name": "ヤマシタトモコ",
+          "image": "https://image.xinu.ink/pic/data/6146/images/6146-11.jpg",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6146-12",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6146-13",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6146-14",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6146-15",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
     "inform": "https://image.xinu.ink/pic/data/6146/points.json"
   },
   "6147": {
     "name": "かぐや様は告らせたい 大人への階段",
     "name_cn": "かぐや様は告らせたい 大人への階段",
     "cover": "https://image.xinu.ink/pic/data/6147/images/1.jpg",
-    "theme_color": "#7d8fac",
-    "points": [
-      {
-        "id": "mt5wii8e",
-        "name": "法観寺",
-        "image": "https://image.xinu.ink/pic/data/6147/images/6147-1.jpg",
-        "ep": "1",
-        "geo": [
-          34.99857,
-          135.77849
-        ]
-      },
-      {
-        "id": "qbnic9bv",
-        "name": "聖坂",
-        "image": "https://image.xinu.ink/pic/data/6147/images/6147-2.jpg",
-        "ep": "2",
-        "geo": [
-          35.6447,
-          139.74134
-        ]
-      },
-      {
-        "id": "nmouplpd",
-        "name": "三田警察署 亀塚公園前交番",
-        "image": "https://image.xinu.ink/pic/data/6147/images/6147-3.jpg",
-        "ep": "2",
-        "geo": [
-          35.64375,
-          139.74057
-        ]
-      },
-      {
-        "id": "z0ouijsw",
-        "name": "亀塚公園",
-        "image": "https://image.xinu.ink/pic/data/6147/images/6147-4.jpg",
-        "ep": "2",
-        "geo": [
-          35.64348,
-          139.74027
-        ]
-      }
-    ],
+    "theme_color": "",
+    "points": {
+      "points": [
+        {
+          "id": "6147-1",
+          "name": "法観寺",
+          "image": "https://image.xinu.ink/pic/data/6147/images/6147-1.jpg",
+          "ep": "1",
+          "geo": [
+            34.99857,
+            135.77849
+          ]
+        },
+        {
+          "id": "6147-2",
+          "name": "聖坂",
+          "image": "https://image.xinu.ink/pic/data/6147/images/6147-2.jpg",
+          "ep": "2",
+          "geo": [
+            35.6447,
+            139.74134
+          ]
+        },
+        {
+          "id": "6147-3",
+          "name": "三田警察署 亀塚公園前交番",
+          "image": "https://image.xinu.ink/pic/data/6147/images/6147-3.jpg",
+          "ep": "2",
+          "geo": [
+            35.64375,
+            139.74057
+          ]
+        },
+        {
+          "id": "6147-4",
+          "name": "亀塚公園",
+          "image": "https://image.xinu.ink/pic/data/6147/images/6147-4.jpg",
+          "ep": "2",
+          "geo": [
+            35.64348,
+            139.74027
+          ]
+        }
+      ]
+    },
     "inform": "https://image.xinu.ink/pic/data/6147/points.json"
   },
   "6148": {
     "name": "呪術廻戦 死滅回遊",
     "name_cn": "呪術廻戦 死滅回遊",
     "cover": "https://image.xinu.ink/pic/data/6148/images/1.jpg",
-    "theme_color": "#725f58",
+    "theme_color": "",
+    "points": {
+      "points": [
+        {
+          "id": "6148-1",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6148-2",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6148-3",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6148-4",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6148-5",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6148-6",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6148-7",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6148-8",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6148-9",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6148-10",
+          "name": "芥見下々",
+          "image": "https://image.xinu.ink/pic/data/6148/images/6148-10.jpg",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6148-11",
+          "name": "芥見下々",
+          "image": "https://image.xinu.ink/pic/data/6148/images/6148-11.jpg",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6148-12",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6148-13",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6148-14",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "6148-15",
+          "name": "Unknown Location",
+          "image": "",
+          "ep": "",
+          "geo": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    "inform": "https://image.xinu.ink/pic/data/6148/points.json"
+  },
+  "6149": {
+    "name": "夢と色でできている",
+    "name_cn": "由梦想与色彩编织而成",
+    "cover": "https://image.xinu.ink/pic/data/6149/images/109158_7bfu3uk.jpg",
+    "theme_color": "",
     "points": [
       {
-        "id": "fstqzyde",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
+        "id": "9o5eahk",
+        "name": "生田神社",
+        "image": "https://image.xinu.ink/pic/data/6149/images/9o5eahk_1768061648504.jpg",
         "geo": [
-          0,
-          0
-        ]
+          34.6946,
+          135.1908
+        ],
+        "origin": "Anitabi@澄蔦",
+        "originURL": "https://anitabi.cn/"
       },
       {
-        "id": "sayo9wnb",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
+        "id": "9o5i5hl",
+        "name": "神戸駅",
+        "image": "https://image.xinu.ink/pic/data/6149/images/9o5i5hl_1768061891764.jpg",
         "geo": [
-          0,
-          0
-        ]
+          34.6794,
+          135.1787
+        ],
+        "origin": "Anitabi@澄蔦",
+        "originURL": "https://anitabi.cn/"
       },
       {
-        "id": "e8v8ylmd",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
+        "id": "9o5mnex",
+        "name": "umie",
+        "image": "https://image.xinu.ink/pic/data/6149/images/9o5mnex_1768062254945.jpg",
         "geo": [
-          0,
-          0
-        ]
+          34.6801,
+          135.183
+        ],
+        "origin": "Anitabi@澄蔦",
+        "originURL": "https://anitabi.cn/"
       },
       {
-        "id": "3moor645",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
+        "id": "9o6blwd",
+        "name": "ハーバーガーデン遊歩道",
+        "image": "https://image.xinu.ink/pic/data/6149/images/9o6blwd_1768063302846.jpg",
         "geo": [
-          0,
-          0
-        ]
+          34.6779,
+          135.1849
+        ],
+        "origin": "Anitabi@澄蔦",
+        "originURL": "https://anitabi.cn/"
       },
       {
-        "id": "euuxszr2",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
+        "id": "9o6wts4",
+        "name": "神戸ガス燈通り",
+        "image": "https://image.xinu.ink/pic/data/6149/images/9o6wts4_1768064307792.jpg",
         "geo": [
-          0,
-          0
-        ]
+          34.6786,
+          135.1832
+        ],
+        "origin": "Anitabi@澄蔦",
+        "originURL": "https://anitabi.cn/"
       },
       {
-        "id": "gy0y6ibq",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
+        "id": "9o75nso",
+        "name": "中華街",
+        "image": "https://image.xinu.ink/pic/data/6149/images/9o75nso_1768064642859.jpg",
         "geo": [
-          0,
-          0
-        ]
+          34.6877,
+          135.1868
+        ],
+        "origin": "Anitabi@澄蔦",
+        "originURL": "https://anitabi.cn/"
       },
       {
-        "id": "cc1tjv7j",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
+        "id": "9o82cr9",
+        "name": "須磨海浜公園",
+        "image": "https://image.xinu.ink/pic/data/6149/images/9o82cr9_1768066412483.jpg",
         "geo": [
-          0,
-          0
-        ]
-      },
+          34.6432,
+          135.1265
+        ],
+        "origin": "Anitabi@澄蔦",
+        "originURL": "https://anitabi.cn/"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6149/points.json"
+  },
+  "6150": {
+    "name": "劇場版3D あたしンち -情熱の超ちょ?能力?母大暴走！-",
+    "name_cn": "剧场版3D 我们这一家 -热情的超能力- 母亲大暴走！",
+    "cover": "https://image.xinu.ink/pic/data/6150/images/111231_r2L64.jpg",
+    "theme_color": "",
+    "points": [
       {
-        "id": "rc6j4cjs",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
+        "id": "a09vt69",
+        "cn": "帮人拍照的花妈",
+        "name": "田無戦災記念碑",
+        "image": "https://image.xinu.ink/pic/data/6150/images/a09vt69-1768794887683.jpg",
+        "ep": "1",
+        "s": 1184,
         "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "nr9ggqoe",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "rlgjdpt4",
-        "name": "芥見下々",
-        "image": "https://image.xinu.ink/pic/data/6148/images/6148-10.jpg",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "rg2b50pr",
-        "name": "芥見下々",
-        "image": "https://image.xinu.ink/pic/data/6148/images/6148-11.jpg",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "deond089",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "9k0qvknq",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "3mpg6pr4",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
-        "geo": [
-          0,
-          0
-        ]
-      },
-      {
-        "id": "2mi2oxly",
-        "name": "Unknown Location",
-        "image": "",
-        "ep": "",
-        "geo": [
-          0,
-          0
+          35.7277,
+          139.5396
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/6148/points.json"
+    "inform": "https://image.xinu.ink/pic/data/6150/points.json"
+  },
+  "6151": {
+    "name": "俺が主人公じゃなかった頃の話をする",
+    "name_cn": "话说当时我还不是主角",
+    "cover": "https://image.xinu.ink/pic/data/6151/images/111468_o3VOG.jpg",
+    "theme_color": "",
+    "points": [
+      {
+        "id": "a7avst8",
+        "cn": "日清杯面博物馆（安藤百福发明纪念馆）",
+        "name": "カップ​ヌードル​ミュージアム",
+        "image": "https://image.xinu.ink/pic/data/6151/images/a7avst8-1769220224885.jpg",
+        "ep": "第1卷 第2話　俺には妹がいない",
+        "geo": [
+          35.4554,
+          139.6388
+        ]
+      },
+      {
+        "id": "a7ce630",
+        "cn": "自旋滑车",
+        "name": "ワンダーアミューズ・ゾーン",
+        "image": "https://image.xinu.ink/pic/data/6151/images/a7ce630-1769222359081.jpg",
+        "ep": "第1卷 第2话 俺には妹がいない",
+        "geo": [
+          35.4549,
+          139.6371
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6151/points.json"
+  },
+  "6152": {
+    "name": "ゆるゆり なちゅやちゅみ!+",
+    "name_cn": "摇曳百合 夏日时光！+",
+    "cover": "https://image.xinu.ink/pic/data/6152/images/136311_N51T6.jpg",
+    "theme_color": "",
+    "points": [
+      {
+        "id": "kpx6ohm1d",
+        "name": "千保川水門",
+        "image": "https://image.xinu.ink/pic/data/6152/images/kpx6ohm1d_1767325125825.jpg",
+        "ep": 1,
+        "geo": [
+          36.7455,
+          137.0011
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1dRSQ1N_WvgagXsi3_DlkXhXy5yA&ll=36.745556%2C137.001192&z=17"
+      },
+      {
+        "id": "kpx6ohmpb",
+        "name": "おやつcafe グリュック 公園への路地",
+        "image": "https://image.xinu.ink/pic/data/6152/images/kpx6ohmpb_1767325135450.jpg",
+        "ep": 1,
+        "geo": [
+          36.7446,
+          137.0033
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1dRSQ1N_WvgagXsi3_DlkXhXy5yA&ll=36.744657%2C137.003304&z=17"
+      },
+      {
+        "id": "kpx6ohncc",
+        "name": "猫のいる路地",
+        "image": "https://image.xinu.ink/pic/data/6152/images/kpx6ohncc_1767325145440.jpg",
+        "ep": 1,
+        "geo": [
+          36.7449,
+          137.0029
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1dRSQ1N_WvgagXsi3_DlkXhXy5yA&ll=36.744911%2C137.002999&z=17"
+      },
+      {
+        "id": "kpx6ohmpo",
+        "name": "山口畳店 丸型ポスト",
+        "image": "https://image.xinu.ink/pic/data/6152/images/kpx6ohmpo_1767325153247.jpg",
+        "ep": 1,
+        "geo": [
+          36.7435,
+          137.0042
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1dRSQ1N_WvgagXsi3_DlkXhXy5yA&ll=36.743583%2C137.004227&z=17"
+      },
+      {
+        "id": "kpx6ohnds",
+        "name": "屋敷酒店 博労本町交差点",
+        "image": "https://image.xinu.ink/pic/data/6152/images/kpx6ohnds_1767325162442.jpg",
+        "ep": 1,
+        "geo": [
+          36.7425,
+          137.0039
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1dRSQ1N_WvgagXsi3_DlkXhXy5yA&ll=36.74253%2C137.003975&z=17"
+      },
+      {
+        "id": "kpx6ohnji",
+        "name": "居酒屋みちこ とやま鉄道ガード下",
+        "image": "https://image.xinu.ink/pic/data/6152/images/kpx6ohnji_1767325169855.jpg",
+        "ep": 1,
+        "geo": [
+          36.7419,
+          137.0039
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1dRSQ1N_WvgagXsi3_DlkXhXy5yA&ll=36.741992%2C137.003905&z=17"
+      },
+      {
+        "id": "kpx6oho30",
+        "name": "高岡市社会福祉協議会 ガードを臨むカット",
+        "image": "https://image.xinu.ink/pic/data/6152/images/kpx6oho30_1767325176606.jpg",
+        "ep": 1,
+        "geo": [
+          36.7411,
+          137.0038
+        ],
+        "origin": "Google Maps",
+        "originURL": "https://www.google.com/maps/d/viewer?mid=1dRSQ1N_WvgagXsi3_DlkXhXy5yA&ll=36.741175%2C137.003803&z=17"
+      },
+      {
+        "id": "9byst1g",
+        "name": "南部公民館",
+        "image": "https://image.xinu.ink/pic/data/6152/images/9byst1g_1767325188975.jpg",
+        "ep": 1,
+        "geo": [
+          36.74,
+          137.0033
+        ],
+        "origin": "Anitabi@月即别",
+        "originURL": "https://anitabi.cn/"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6152/points.json"
+  },
+  "6153": {
+    "name": "つぐもも",
+    "name_cn": "怪怪守护神",
+    "cover": "https://image.xinu.ink/pic/data/6153/images/192428_rrRIT.jpg",
+    "theme_color": "",
+    "points": [
+      {
+        "id": "a3149f2",
+        "name": "白山神社",
+        "image": "https://image.xinu.ink/pic/data/6153/images/a3149f2_1768961475374.jpg",
+        "geo": [
+          35.9605,
+          139.6308
+        ],
+        "origin": "Anitabi@月即别",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "a3194g3",
+        "name": "日枝神社",
+        "image": "https://image.xinu.ink/pic/data/6153/images/a3194g3_1768961696680.jpg",
+        "geo": [
+          35.9653,
+          139.623
+        ],
+        "origin": "Anitabi@月即别",
+        "originURL": "https://anitabi.cn/"
+      },
+      {
+        "id": "a31kbfv",
+        "name": "日​高屋東​大宮​3丁目​店",
+        "image": "https://image.xinu.ink/pic/data/6153/images/a31kbfv_1768962259138.jpg",
+        "geo": [
+          35.953,
+          139.6328
+        ],
+        "origin": "Anitabi@月即别",
+        "originURL": "https://anitabi.cn/"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6153/points.json"
   }
 }

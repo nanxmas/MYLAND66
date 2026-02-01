@@ -1,0 +1,42 @@
+{
+  "id": 192428,
+  "cn": "怪怪守护神",
+  "title": "つぐもも",
+  "cover": "https://image.xinu.ink/pic/data/6153/images/192428_rrRIT.jpg",
+  "cp": "つぐもも",
+  "modified": 1768962276664,
+  "litePoints": [
+    {
+      "id": "a3149f2",
+      "name": "白山神社",
+      "image": "https://image.anitabi.cn/points/192428/a3149f2_1768961475374.jpg?plan=h160",
+      "geo": [
+        35.9605,
+        139.6308
+      ]
+    },
+    {
+      "id": "a3194g3",
+      "name": "日枝神社",
+      "image": "https://image.anitabi.cn/points/192428/a3194g3_1768961696680.jpg?plan=h160",
+      "geo": [
+        35.9653,
+        139.623
+      ]
+    },
+    {
+      "id": "a31kbfv",
+      "name": "日​高屋東​大宮​3丁目​店",
+      "image": "https://image.anitabi.cn/points/192428/a31kbfv_1768962259138.jpg?plan=h160",
+      "geo": [
+        35.953,
+        139.6328
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "name": "つぐもも",
+  "name_cn": "怪怪守护神",
+  "local_id": 6153
+}
