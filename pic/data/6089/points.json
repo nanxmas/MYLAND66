@@ -295,5 +295,16 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1WqIc3aSBvpNmFxjUzXBTspAMYV4n5q4C&ll=36.563686%2C136.652364&z=17"
+  },
+  {
+    "id": "c6y7g8q",
+    "cn": "卯辰山公园 眺望之丘",
+    "name": "卯辰山公園 眺望の丘",
+    "image": "https://image.xinu.ink/pic/data/6089/images/c6y7g8q-1773552050535.jpg",
+    "ep": null,
+    "geo": [
+      36.5713,
+      136.6735
+    ]
   }
 ]

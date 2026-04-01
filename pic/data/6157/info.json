@@ -1,0 +1,123 @@
+{
+  "id": 123741,
+  "title": "三国",
+  "cover": "https://image.xinu.ink/pic/data/6157/images/123741_qrazI.jpg",
+  "color": "#bc9f78",
+  "modified": 1774959425782,
+  "litePoints": [
+    {
+      "id": "c8t14wc",
+      "cn": "长乐宫（洛阳分宫）",
+      "name": "横店秦王宫四海归一殿",
+      "image": "https://image.anitabi.cn/user/1154/bangumi/123741/points/c8t14wc-1773664275692.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        29.1372,
+        120.31
+      ]
+    },
+    {
+      "id": "cu56v3i",
+      "cn": "中牟县衙大堂",
+      "name": "无锡水浒城忠义堂",
+      "image": "https://image.anitabi.cn/points/123741/cu56v3i_1774954479251.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        31.4892,
+        120.2352
+      ]
+    },
+    {
+      "id": "cbkz97s",
+      "cn": "新三国国道（陈宫和曹操投奔袁绍）",
+      "name": "清西陵卧龙山",
+      "image": "https://image.anitabi.cn/user/1154/bangumi/123741/points/cbkz97s-1773832131717.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        39.3777,
+        115.3228
+      ]
+    },
+    {
+      "id": "cu80fj0",
+      "cn": "陈宫看到自己的悬赏只有五十金处",
+      "name": "易县战国城",
+      "image": "https://image.anitabi.cn/points/123741/cu80fj0_1774959205810.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        39.3575,
+        115.5523
+      ]
+    },
+    {
+      "id": "cu3v1gb",
+      "cn": "成皋寨",
+      "name": "水浒城石碣村",
+      "image": "https://image.anitabi.cn/points/123741/cu3v1gb_1774954278306.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        31.486,
+        120.2301
+      ]
+    },
+    {
+      "id": "cstkw3w",
+      "cn": "陈留大食堂（划掉",
+      "name": "无锡三国城竞技场",
+      "image": "https://image.anitabi.cn/points/123741/cstkw3w_1774874531948.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        31.4789,
+        120.2246
+      ]
+    },
+    {
+      "id": "cseovvv",
+      "cn": "陈留/当阳城门",
+      "name": "涿州影视城",
+      "image": "https://image.anitabi.cn/points/123741/cseovvv_1774850574263.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        39.5332,
+        116.113
+      ]
+    },
+    {
+      "id": "crrwtye",
+      "cn": "凤凰涅槃处",
+      "name": "房山三渡",
+      "image": "https://image.anitabi.cn/user/1154/bangumi/123741/points/crrwtye-1774812325474.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        39.6177,
+        115.6605
+      ]
+    },
+    {
+      "id": "c8qp4rh",
+      "cn": "长乐宫（兖州分宫）",
+      "name": "涿州影视城",
+      "image": "https://image.anitabi.cn/user/1154/bangumi/123741/points/c8qp4rh-1773663559308.jpg?plan=h160",
+      "ep": 10,
+      "geo": [
+        39.5383,
+        116.1184
+      ]
+    },
+    {
+      "id": "csgzx51",
+      "cn": "长乐宫（许都分宫）",
+      "name": "涿州影视城",
+      "image": "https://image.anitabi.cn/points/123741/csgzx51_1774853345666.jpg?plan=h160",
+      "ep": 13,
+      "geo": [
+        39.5381,
+        116.1183
+      ]
+    }
+  ],
+  "pointsLength": 32,
+  "imagesLength": 32,
+  "name": "三国",
+  "local_id": 6157
+}

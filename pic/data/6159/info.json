@@ -1,0 +1,72 @@
+{
+  "id": 193509,
+  "cn": "高校舰队 OVA",
+  "title": "ハイスクール・フリート OVA",
+  "city": "横须贺市",
+  "cover": "https://image.xinu.ink/pic/data/6159/images/193509_qNFVS.jpg",
+  "color": "#a6a6a6",
+  "modified": 1774712473116,
+  "litePoints": [
+    {
+      "id": "3wu9kn2",
+      "name": "ヴェルニー公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/144843/points/3wu9kn2-1755526553459.jpg?plan=h160",
+      "ep": 13,
+      "s": 65,
+      "geo": [
+        35.2835,
+        139.659
+      ]
+    },
+    {
+      "id": "3yafj7v",
+      "name": "ヨコスカシェル",
+      "image": "https://image.anitabi.cn/user/0/bangumi/144843/points/3yafj7v-1755614230614.jpg?plan=h160",
+      "ep": 13,
+      "s": 1191,
+      "geo": [
+        35.2818,
+        139.6674
+      ]
+    },
+    {
+      "id": "3wt0lxl",
+      "cn": "衣笠山公园展望台",
+      "name": "衣笠山公園展望台",
+      "image": "https://image.anitabi.cn/user/0/bangumi/144843/points/3wt0lxl-1755524453595.jpg?plan=h160",
+      "ep": 13,
+      "s": 715.4,
+      "geo": [
+        35.2497,
+        139.6568
+      ]
+    },
+    {
+      "id": "3wwehqi",
+      "name": "モアイ＆カピー",
+      "image": "https://image.anitabi.cn/user/0/bangumi/144843/points/3wwehqi-1755530070291.jpg?plan=h160",
+      "ep": 13,
+      "s": 869.5,
+      "geo": [
+        35.2807,
+        139.6631
+      ]
+    },
+    {
+      "id": "3wvxxbb",
+      "name": "さかくら総本家 横須賀中央駅前店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/144843/points/3wvxxbb-1755530181948.jpg?plan=h160",
+      "ep": 13,
+      "s": 406.4,
+      "geo": [
+        35.2785,
+        139.6709
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "name": "ハイスクール・フリート OVA",
+  "name_cn": "高校舰队 OVA",
+  "local_id": 6159
+}
