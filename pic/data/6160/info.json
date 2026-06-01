@@ -1,0 +1,132 @@
+{
+  "id": 150490,
+  "cn": "JOJO的奇妙冒险 不灭钻石",
+  "title": "ジョジョの奇妙な冒険 ダイヤモンドは砕けない",
+  "cover": "https://image.xinu.ink/pic/data/6160/images/150490_oAq4l.jpg",
+  "cp": "ジョジョの奇妙な冒険DU",
+  "modified": 1779684731217,
+  "litePoints": [
+    {
+      "id": "f06hhcs",
+      "cn": "仙台站",
+      "name": "仙台駅",
+      "image": "https://image.anitabi.cn/points/150490/f06hhcs_1779673018917.jpg?plan=h160",
+      "ep": 1,
+      "s": 134,
+      "geo": [
+        38.2605,
+        140.8818
+      ]
+    },
+    {
+      "id": "f070ycg",
+      "cn": "仙台站西口",
+      "name": "仙台駅西口",
+      "image": "https://image.anitabi.cn/points/150490/f070ycg_1779673906222.jpg?plan=h160",
+      "ep": 1,
+      "s": 189,
+      "geo": [
+        38.2607,
+        140.8814
+      ]
+    },
+    {
+      "id": "f07968l",
+      "cn": "仙台站东口",
+      "name": "仙台駅東口",
+      "image": "https://image.anitabi.cn/points/150490/f07968l_1779674411204.jpg?plan=h160",
+      "ep": 1,
+      "s": 308,
+      "geo": [
+        38.2602,
+        140.8838
+      ]
+    },
+    {
+      "id": "f07g91d",
+      "cn": "青叶通地下街浮雕",
+      "name": "青葉通地下道ギャラリー",
+      "image": "https://image.anitabi.cn/points/150490/f07g91d_1779674718932.jpg?plan=h160",
+      "ep": 1,
+      "s": 260,
+      "geo": [
+        38.2601,
+        140.875
+      ]
+    },
+    {
+      "id": "dz36rg7",
+      "cn": "江阳格兰德大酒店",
+      "name": "江陽​グランド​ホテル",
+      "image": "https://image.anitabi.cn/points/150490/dz36rg7_1777634433023.jpg?plan=h160",
+      "ep": 2,
+      "s": 407,
+      "geo": [
+        38.2632,
+        140.8744
+      ]
+    },
+    {
+      "id": "e2lxjup",
+      "name": "仙台​松島海岸",
+      "image": "https://image.anitabi.cn/points/150490/e2lxjup_1777643097148.jpg?plan=h160",
+      "ep": 9,
+      "s": 1331,
+      "geo": [
+        38.3685,
+        141.0612
+      ]
+    },
+    {
+      "id": "e2khx9j",
+      "name": "Trattoria S",
+      "image": "https://image.anitabi.cn/points/150490/e2khx9j_1777640674216.jpg?plan=h160",
+      "ep": 10,
+      "s": 66,
+      "geo": [
+        38.2594,
+        140.87
+      ]
+    },
+    {
+      "id": "e2lnys3",
+      "name": "仙台​塩釜​港​仙台港​区",
+      "image": "https://image.anitabi.cn/points/150490/e2lnys3_1777642631530.jpg?plan=h160",
+      "ep": 12,
+      "s": 325,
+      "geo": [
+        38.27,
+        141.025
+      ]
+    },
+    {
+      "id": "f080xij",
+      "cn": "东北学院榴冈高中",
+      "name": "東北​学院​榴ケ岡​高",
+      "image": "https://image.anitabi.cn/points/150490/f080xij_1779675646689.jpg?plan=h160",
+      "ep": 21,
+      "s": 1240,
+      "geo": [
+        38.3268,
+        140.8979
+      ]
+    },
+    {
+      "id": "e2kbv6f",
+      "cn": "罗森仙台柳町通店",
+      "name": "ローソン\n仙台​柳町​通​店",
+      "image": "https://image.anitabi.cn/points/150490/e2kbv6f_1777640385075.jpg?plan=h160",
+      "ep": 22,
+      "s": 669,
+      "geo": [
+        38.2571,
+        140.8762
+      ]
+    }
+  ],
+  "pointsLength": 18,
+  "imagesLength": 18,
+  "name": "ジョジョの奇妙な冒険 ダイヤモンドは砕けない",
+  "name_cn": "JOJO的奇妙冒险 不灭钻石",
+  "local_id": 6160
+}

@@ -240,5 +240,55 @@
     ],
     "origin": "Anitabi@落雪鸦杀",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f59s2gu",
+    "cn": "葛西海滨公园 东侧海岸",
+    "name": "葛西海浜公園 東側なぎさ",
+    "image": "https://image.xinu.ink/pic/data/6120/images/f59s2gu_1779980854593.jpg",
+    "s": 3,
+    "geo": [
+      35.6375,
+      139.8571
+    ],
+    "origin": "Anitabi@落雪鸦杀",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5a33sy",
+    "name": "葛西渚橋",
+    "image": "https://image.xinu.ink/pic/data/6120/images/f5a33sy_1779981365071.jpg",
+    "s": 15,
+    "geo": [
+      35.6388,
+      139.8571
+    ],
+    "origin": "Anitabi@落雪鸦杀",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5avgo8",
+    "name": "展望レストハウス クリスタルビュー",
+    "image": "https://image.xinu.ink/pic/data/6120/images/f5avgo8_1779982702980.jpg",
+    "s": 66,
+    "geo": [
+      35.6405,
+      139.8596
+    ],
+    "origin": "Anitabi@落雪鸦杀",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f9e88je",
+    "cn": "WOOD村FARM",
+    "name": "ウッド村ファーム",
+    "image": "https://image.xinu.ink/pic/data/6120/images/f9e88je_1780230508318.jpg",
+    "s": "封面",
+    "geo": [
+      35.7688,
+      140.7522
+    ],
+    "origin": "Anitabi@落雪鸦杀",
+    "originURL": "https://anitabi.cn/"
   }
 ]
