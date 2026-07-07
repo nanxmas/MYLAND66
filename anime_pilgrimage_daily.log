@@ -218,3 +218,14 @@
 2026-07-06 15:43:23,956 - AnimePilgrimageUpdater - INFO - Test anime 4: 上伊那ぼたん、酔へる姿は百合の花
 2026-07-06 15:43:23,956 - AnimePilgrimageUpdater - INFO - Test anime 5: キルアオ
 2026-07-06 15:55:07,513 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
+2026-07-07 14:44:09,354 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-07-07 14:44:09,354 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-07-07 14:44:09,570 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-07-07 14:44:10,498 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-07-07 14:46:09,667 - AnimePilgrimageUpdater - INFO - Successfully retrieved 15 anime in test run
+2026-07-07 14:46:09,667 - AnimePilgrimageUpdater - INFO - Test anime 1: さよなら ララ
+2026-07-07 14:46:09,667 - AnimePilgrimageUpdater - INFO - Test anime 2: 「正反対な君と僕」
+2026-07-07 14:46:09,667 - AnimePilgrimageUpdater - INFO - Test anime 3: 正反対な君と僕 第2期
+2026-07-07 14:46:09,667 - AnimePilgrimageUpdater - INFO - Test anime 4: 日本三國
+2026-07-07 14:46:09,667 - AnimePilgrimageUpdater - INFO - Test anime 5: 上伊那ぼたん、酔へる姿は百合の花
+2026-07-07 14:56:49,486 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
