@@ -229,3 +229,14 @@
 2026-07-07 14:46:09,667 - AnimePilgrimageUpdater - INFO - Test anime 4: 日本三國
 2026-07-07 14:46:09,667 - AnimePilgrimageUpdater - INFO - Test anime 5: 上伊那ぼたん、酔へる姿は百合の花
 2026-07-07 14:56:49,486 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
+2026-07-08 14:22:18,302 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-07-08 14:22:18,302 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-07-08 14:22:18,518 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-07-08 14:22:19,102 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-07-08 14:24:18,711 - AnimePilgrimageUpdater - INFO - Successfully retrieved 15 anime in test run
+2026-07-08 14:24:18,711 - AnimePilgrimageUpdater - INFO - Test anime 1: GROTESQQQUE -グロテスク-
+2026-07-08 14:24:18,711 - AnimePilgrimageUpdater - INFO - Test anime 2: さよなら ララ
+2026-07-08 14:24:18,711 - AnimePilgrimageUpdater - INFO - Test anime 3: 「正反対な君と僕」
+2026-07-08 14:24:18,711 - AnimePilgrimageUpdater - INFO - Test anime 4: 正反対な君と僕 第2期
+2026-07-08 14:24:18,711 - AnimePilgrimageUpdater - INFO - Test anime 5: 日本三國
+2026-07-08 14:35:47,859 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
