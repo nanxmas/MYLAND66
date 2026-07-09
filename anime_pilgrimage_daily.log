@@ -240,3 +240,14 @@
 2026-07-08 14:24:18,711 - AnimePilgrimageUpdater - INFO - Test anime 4: 正反対な君と僕 第2期
 2026-07-08 14:24:18,711 - AnimePilgrimageUpdater - INFO - Test anime 5: 日本三國
 2026-07-08 14:35:47,859 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
+2026-07-09 15:17:59,141 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-07-09 15:17:59,141 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-07-09 15:17:59,272 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-07-09 15:18:01,297 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-07-09 15:20:00,649 - AnimePilgrimageUpdater - INFO - Successfully retrieved 16 anime in test run
+2026-07-09 15:20:00,649 - AnimePilgrimageUpdater - INFO - Test anime 1: クラスで２番目に可愛い女の子と友だちになった
+2026-07-09 15:20:00,649 - AnimePilgrimageUpdater - INFO - Test anime 2: あかね噺
+2026-07-09 15:20:00,649 - AnimePilgrimageUpdater - INFO - Test anime 3: GROTESQQQUE -グロテスク-
+2026-07-09 15:20:00,649 - AnimePilgrimageUpdater - INFO - Test anime 4: さよなら ララ
+2026-07-09 15:20:00,649 - AnimePilgrimageUpdater - INFO - Test anime 5: 「正反対な君と僕」
+2026-07-09 15:32:45,005 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
