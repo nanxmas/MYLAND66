@@ -262,3 +262,14 @@
 2026-07-10 14:37:19,484 - AnimePilgrimageUpdater - INFO - Test anime 4: 呪術廻戦 死滅回遊
 2026-07-10 14:37:19,484 - AnimePilgrimageUpdater - INFO - Test anime 5: 多聞くん今どっち!?
 2026-07-10 14:57:59,797 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
+2026-07-13 14:42:58,640 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-07-13 14:42:58,640 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-07-13 14:42:58,796 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-07-13 14:43:00,331 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-07-13 14:44:59,396 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-07-13 14:44:59,396 - AnimePilgrimageUpdater - INFO - Test anime 1: 正反対な君と僕 第2期
+2026-07-13 14:44:59,396 - AnimePilgrimageUpdater - INFO - Test anime 2: さよなら ララ
+2026-07-13 14:44:59,397 - AnimePilgrimageUpdater - INFO - Test anime 3: 氷の城壁
+2026-07-13 14:44:59,397 - AnimePilgrimageUpdater - INFO - Test anime 4: 天気の子
+2026-07-13 14:44:59,397 - AnimePilgrimageUpdater - INFO - Test anime 5: 空色ユーティリティ
+2026-07-13 15:01:34,347 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
