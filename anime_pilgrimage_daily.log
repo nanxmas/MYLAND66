@@ -317,3 +317,14 @@
 2026-07-20 14:15:37,459 - AnimePilgrimageUpdater - INFO - Test anime 4: デート・ア・ライブ
 2026-07-20 14:15:37,460 - AnimePilgrimageUpdater - INFO - Test anime 5: ソードアート・オンライン II
 2026-07-20 14:32:50,181 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
+2026-07-21 14:00:15,007 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-07-21 14:00:15,007 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-07-21 14:00:15,228 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-07-21 14:00:16,130 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-07-21 14:02:16,184 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-07-21 14:02:16,184 - AnimePilgrimageUpdater - INFO - Test anime 1: 乙女怪獣キャラメリゼ
+2026-07-21 14:02:16,184 - AnimePilgrimageUpdater - INFO - Test anime 2: さよなら ララ
+2026-07-21 14:02:16,184 - AnimePilgrimageUpdater - INFO - Test anime 3: ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー
+2026-07-21 14:02:16,184 - AnimePilgrimageUpdater - INFO - Test anime 4: 中二病でも恋がしたい！戀
+2026-07-21 14:02:16,184 - AnimePilgrimageUpdater - INFO - Test anime 5: ざつ旅-That's Journey-
+2026-07-21 14:19:09,574 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
