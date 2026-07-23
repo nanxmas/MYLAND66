@@ -328,3 +328,14 @@
 2026-07-21 14:02:16,184 - AnimePilgrimageUpdater - INFO - Test anime 4: 中二病でも恋がしたい！戀
 2026-07-21 14:02:16,184 - AnimePilgrimageUpdater - INFO - Test anime 5: ざつ旅-That's Journey-
 2026-07-21 14:19:09,574 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
+2026-07-23 14:09:05,791 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-07-23 14:09:05,791 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-07-23 14:09:06,003 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-07-23 14:09:07,554 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-07-23 14:11:07,516 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-07-23 14:11:07,516 - AnimePilgrimageUpdater - INFO - Test anime 1: ゾン100 ～ゾンビになるまでにしたい100のこと～
+2026-07-23 14:11:07,516 - AnimePilgrimageUpdater - INFO - Test anime 2: 東京リベンジャーズ
+2026-07-23 14:11:07,516 - AnimePilgrimageUpdater - INFO - Test anime 3: 上伊那ぼたん、酔へる姿は百合の花
+2026-07-23 14:11:07,516 - AnimePilgrimageUpdater - INFO - Test anime 4: 乙女怪獣キャラメリゼ
+2026-07-23 14:11:07,516 - AnimePilgrimageUpdater - INFO - Test anime 5: さよなら ララ
+2026-07-23 14:27:46,885 - AnimePilgrimageUpdater - INFO - Daily update completed successfully

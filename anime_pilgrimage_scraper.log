@@ -62781,3 +62781,1517 @@ EP9' with selector ('css selector', "[class*='title']")
 2026-07-21 14:19:08,392 - AnimePilgrimageScraper - INFO - No updates found for anime '竜とそばかすの姫'
 2026-07-21 14:19:08,392 - AnimePilgrimageScraper - INFO - Successfully scraped 2 anime.
 2026-07-21 14:19:08,392 - AnimePilgrimageScraper - INFO - Scraping completed successfully!
+2026-07-23 14:09:07,554 - AnimePilgrimageScraper - INFO - Chrome driver initialized successfully
+2026-07-23 14:09:07,554 - AnimePilgrimageScraper - INFO - Fetching anime list from recently updated page...
+2026-07-23 14:09:10,292 - AnimePilgrimageScraper - INFO - Saved initial page source to page_source_initial.html
+2026-07-23 14:09:10,292 - AnimePilgrimageScraper - INFO - Trying selector: .anime-list .anime-item
+2026-07-23 14:09:20,565 - AnimePilgrimageScraper - WARNING - Selector .anime-list .anime-item failed
+2026-07-23 14:09:20,565 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='/Map?data=']
+2026-07-23 14:09:30,775 - AnimePilgrimageScraper - WARNING - Selector a[href*='/Map?data='] failed
+2026-07-23 14:09:30,775 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='/ja/Map?data=']
+2026-07-23 14:09:40,959 - AnimePilgrimageScraper - WARNING - Selector a[href*='/ja/Map?data='] failed
+2026-07-23 14:09:40,959 - AnimePilgrimageScraper - INFO - Trying selector: .anime-item
+2026-07-23 14:09:51,137 - AnimePilgrimageScraper - WARNING - Selector .anime-item failed
+2026-07-23 14:09:51,138 - AnimePilgrimageScraper - INFO - Trying selector: .anime-card
+2026-07-23 14:10:01,316 - AnimePilgrimageScraper - WARNING - Selector .anime-card failed
+2026-07-23 14:10:01,317 - AnimePilgrimageScraper - INFO - Trying selector: .anime-entry
+2026-07-23 14:10:11,500 - AnimePilgrimageScraper - WARNING - Selector .anime-entry failed
+2026-07-23 14:10:11,500 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='Map']
+2026-07-23 14:10:21,692 - AnimePilgrimageScraper - WARNING - Selector a[href*='Map'] failed
+2026-07-23 14:10:21,692 - AnimePilgrimageScraper - INFO - Trying selector: div[class*='anime']
+2026-07-23 14:10:31,879 - AnimePilgrimageScraper - WARNING - Selector div[class*='anime'] failed
+2026-07-23 14:10:31,880 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='anime']
+2026-07-23 14:10:31,888 - AnimePilgrimageScraper - INFO - Found elements with selector: a[href*='anime']
+2026-07-23 14:11:07,061 - AnimePilgrimageScraper - INFO - Trying to find anime items with selector: a[href*='anime']
+2026-07-23 14:11:07,071 - AnimePilgrimageScraper - INFO - Found 18 anime items with selector: a[href*='anime']
+2026-07-23 14:11:07,071 - AnimePilgrimageScraper - INFO - Found 18 anime items total
+2026-07-23 14:11:07,516 - AnimePilgrimageScraper - INFO - Starting anime pilgrimage scraper
+2026-07-23 14:11:07,516 - AnimePilgrimageScraper - INFO - Running extract_apiid.py to refresh apiid.json
+2026-07-23 14:11:07,732 - AnimePilgrimageScraper - INFO - Successfully refreshed apiid.json
+2026-07-23 14:11:07,732 - AnimePilgrimageScraper - INFO - Running in automatic mode
+2026-07-23 14:11:07,732 - AnimePilgrimageScraper - INFO - Fetching anime list from recently updated page...
+2026-07-23 14:11:08,495 - AnimePilgrimageScraper - INFO - Saved initial page source to page_source_initial.html
+2026-07-23 14:11:08,495 - AnimePilgrimageScraper - INFO - Trying selector: .anime-list .anime-item
+2026-07-23 14:11:19,002 - AnimePilgrimageScraper - WARNING - Selector .anime-list .anime-item failed
+2026-07-23 14:11:19,002 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='/Map?data=']
+2026-07-23 14:11:29,180 - AnimePilgrimageScraper - WARNING - Selector a[href*='/Map?data='] failed
+2026-07-23 14:11:29,181 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='/ja/Map?data=']
+2026-07-23 14:11:39,362 - AnimePilgrimageScraper - WARNING - Selector a[href*='/ja/Map?data='] failed
+2026-07-23 14:11:39,363 - AnimePilgrimageScraper - INFO - Trying selector: .anime-item
+2026-07-23 14:11:49,542 - AnimePilgrimageScraper - WARNING - Selector .anime-item failed
+2026-07-23 14:11:49,542 - AnimePilgrimageScraper - INFO - Trying selector: .anime-card
+2026-07-23 14:11:59,719 - AnimePilgrimageScraper - WARNING - Selector .anime-card failed
+2026-07-23 14:11:59,719 - AnimePilgrimageScraper - INFO - Trying selector: .anime-entry
+2026-07-23 14:12:09,894 - AnimePilgrimageScraper - WARNING - Selector .anime-entry failed
+2026-07-23 14:12:09,894 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='Map']
+2026-07-23 14:12:20,089 - AnimePilgrimageScraper - WARNING - Selector a[href*='Map'] failed
+2026-07-23 14:12:20,089 - AnimePilgrimageScraper - INFO - Trying selector: div[class*='anime']
+2026-07-23 14:12:30,273 - AnimePilgrimageScraper - WARNING - Selector div[class*='anime'] failed
+2026-07-23 14:12:30,273 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='anime']
+2026-07-23 14:12:30,278 - AnimePilgrimageScraper - INFO - Found elements with selector: a[href*='anime']
+2026-07-23 14:13:05,454 - AnimePilgrimageScraper - INFO - Trying to find anime items with selector: a[href*='anime']
+2026-07-23 14:13:05,461 - AnimePilgrimageScraper - INFO - Found 18 anime items with selector: a[href*='anime']
+2026-07-23 14:13:05,461 - AnimePilgrimageScraper - INFO - Found 18 anime items total
+2026-07-23 14:13:05,847 - AnimePilgrimageScraper - INFO - Auto mode: Scraping anime 1 to 18 out of 18
+2026-07-23 14:13:05,895 - AnimePilgrimageScraper - INFO - Next available local ID: 6185
+2026-07-23 14:13:05,895 - AnimePilgrimageScraper - INFO - Auto mode: Using local folder ID 6185
+2026-07-23 14:13:05,895 - AnimePilgrimageScraper - INFO - [1/18] Checking anime: ゾン100 ～ゾンビになるまでにしたい100のこと～
+2026-07-23 14:13:06,242 - AnimePilgrimageScraper - INFO - Scraping anime: ゾン100 ～ゾンビになるまでにしたい100のこと～
+2026-07-23 14:13:06,242 - AnimePilgrimageScraper - INFO - Scraping anime: ゾン100 ～ゾンビになるまでにしたい100のこと～
+2026-07-23 14:14:52,991 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2026-07-23 14:14:54,131 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2026-07-23 14:14:54,147 - AnimePilgrimageScraper - INFO - Progress saved.
+2026-07-23 14:14:54,147 - AnimePilgrimageScraper - INFO - [2/18] Checking anime: 東京リベンジャーズ
+2026-07-23 14:14:54,311 - AnimePilgrimageScraper - INFO - Anime '東京リベンジャーズ' already exists in pic/data/index.json with ID 712
+2026-07-23 14:14:54,327 - AnimePilgrimageScraper - INFO - Anime '東京リベンジャーズ' already exists with ID 712, checking for updates
+2026-07-23 14:14:54,327 - AnimePilgrimageScraper - INFO - Updating existing anime: 東京リベンジャーズ with ID 712
+2026-07-23 14:14:54,327 - AnimePilgrimageScraper - ERROR - Error loading existing points data: 'list' object has no attribute 'get'
+2026-07-23 14:14:54,327 - AnimePilgrimageScraper - INFO - No updates found for anime '東京リベンジャーズ'
+2026-07-23 14:14:54,327 - AnimePilgrimageScraper - INFO - [3/18] Checking anime: 上伊那ぼたん、酔へる姿は百合の花
+2026-07-23 14:14:54,496 - AnimePilgrimageScraper - INFO - Anime '上伊那ぼたん、酔へる姿は百合の花' already exists in pic/data/index.json with ID 662
+2026-07-23 14:14:54,511 - AnimePilgrimageScraper - INFO - Anime '上伊那ぼたん、酔へる姿は百合の花' already exists with ID 662, checking for updates
+2026-07-23 14:14:54,511 - AnimePilgrimageScraper - INFO - Updating existing anime: 上伊那ぼたん、酔へる姿は百合の花 with ID 662
+2026-07-23 14:14:54,512 - AnimePilgrimageScraper - ERROR - Error loading existing points data: 'list' object has no attribute 'get'
+2026-07-23 14:14:54,512 - AnimePilgrimageScraper - INFO - No updates found for anime '上伊那ぼたん、酔へる姿は百合の花'
+2026-07-23 14:14:54,512 - AnimePilgrimageScraper - INFO - [4/18] Checking anime: 乙女怪獣キャラメリゼ
+2026-07-23 14:14:54,678 - AnimePilgrimageScraper - INFO - Anime '乙女怪獣キャラメリゼ' already exists in pic/data/index.json with ID 6183
+2026-07-23 14:14:54,692 - AnimePilgrimageScraper - INFO - Anime '乙女怪獣キャラメリゼ' already exists with ID 6183, checking for updates
+2026-07-23 14:14:54,692 - AnimePilgrimageScraper - INFO - Updating existing anime: 乙女怪獣キャラメリゼ with ID 6183
+2026-07-23 14:14:54,692 - AnimePilgrimageScraper - INFO - Loaded 95 existing points from pic/data/6183/points.json
+2026-07-23 14:14:54,692 - AnimePilgrimageScraper - INFO - Loaded existing info from pic/data/6183/info.json
+2026-07-23 14:14:54,692 - AnimePilgrimageScraper - INFO - Scraping new points for anime: 乙女怪獣キャラメリゼ
+2026-07-23 14:15:17,472 - AnimePilgrimageScraper - INFO - Page loaded, found element with selector: ('css selector', 'h1')
+2026-07-23 14:15:17,472 - AnimePilgrimageScraper - INFO - Scrolling to load all pilgrimage points...
+2026-07-23 14:15:23,531 - AnimePilgrimageScraper - INFO - Found 95 pilgrimage points with selector: ('css selector', "div[class*='map']")
+2026-07-23 14:15:23,531 - AnimePilgrimageScraper - INFO - Processing 95 pilgrimage points
+2026-07-23 14:15:23,531 - AnimePilgrimageScraper - INFO - Found 1 existing point coordinates
+2026-07-23 14:15:25,304 - AnimePilgrimageScraper - INFO -   Found name '同じスタジオの作品' with selector ('css selector', 'h2')
+2026-07-23 14:15:25,406 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:15:26,432 - AnimePilgrimageScraper - INFO -   Found name '同じスタジオの作品' with selector ('css selector', 'h2')
+2026-07-23 14:15:26,530 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:15:26,770 - AnimePilgrimageScraper - INFO -   Found name '同じスタジオの作品' with selector ('css selector', 'h2')
+2026-07-23 14:15:26,865 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:15:27,132 - AnimePilgrimageScraper - INFO -   Found name '蒼木スピカ' with selector ('css selector', 'strong')
+2026-07-23 14:15:27,523 - AnimePilgrimageScraper - INFO -   Found name '蒼木スピカ' with selector ('css selector', 'strong')
+2026-07-23 14:15:27,931 - AnimePilgrimageScraper - INFO -   Found name '2026/7/21' with selector ('css selector', 'span')
+2026-07-23 14:15:28,660 - AnimePilgrimageScraper - INFO -   Using first text line as name: '東京都'
+2026-07-23 14:15:28,846 - AnimePilgrimageScraper - INFO -   Found name '不二家 数寄屋橋店' with selector ('css selector', 'p')
+2026-07-23 14:15:28,903 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:15:29,073 - AnimePilgrimageScraper - INFO -   Found name '不二家 数寄屋橋店' with selector ('css selector', 'p')
+2026-07-23 14:15:29,128 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:15:29,270 - AnimePilgrimageScraper - INFO -   Found name '不二家 数寄屋橋店' with selector ('css selector', 'p')
+2026-07-23 14:15:29,320 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:15:29,465 - AnimePilgrimageScraper - INFO -   Found name '不二家 数寄屋橋店' with selector ('css selector', 'p')
+2026-07-23 14:15:29,515 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:15:29,658 - AnimePilgrimageScraper - INFO -   Found name '不二家 数寄屋橋店' with selector ('css selector', 'p')
+2026-07-23 14:15:29,703 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:15:29,851 - AnimePilgrimageScraper - INFO -   Found name '不二家 数寄屋橋店' with selector ('css selector', 'p')
+2026-07-23 14:15:29,897 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:15:30,218 - AnimePilgrimageScraper - INFO -   Found name '不二家 数寄屋橋店' with selector ('css selector', 'p')
+2026-07-23 14:15:30,265 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:15:30,411 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'EP1'
+2026-07-23 14:15:30,591 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'EP1'
+2026-07-23 14:15:31,316 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'EP2'
+2026-07-23 14:15:31,542 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'EP2'
+2026-07-23 14:15:32,270 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'EP3'
+2026-07-23 14:15:32,451 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'EP3'
+2026-07-23 14:15:33,355 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'よふかしのうた'
+2026-07-23 14:15:33,717 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'よふかしのうた Season 2'
+2026-07-23 14:15:34,108 - AnimePilgrimageScraper - INFO -   Using first text line as name: '君は放課後インソムニア'
+2026-07-23 14:15:35,543 - AnimePilgrimageScraper - INFO -   Using first text line as name: '3月のライオン'
+2026-07-23 14:15:35,909 - AnimePilgrimageScraper - INFO -   Using first text line as name: '３月のライオン 第2シリーズ'
+2026-07-23 14:15:36,301 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'Another'
+2026-07-23 14:15:39,794 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:15:39,981 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:15:40,166 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:15:40,357 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:15:41,752 - AnimePilgrimageScraper - INFO - Found 0 new points
+2026-07-23 14:15:41,752 - AnimePilgrimageScraper - INFO - No new points found for this anime
+2026-07-23 14:15:41,752 - AnimePilgrimageScraper - INFO - No updates found for anime '乙女怪獣キャラメリゼ'
+2026-07-23 14:15:41,752 - AnimePilgrimageScraper - INFO - [5/18] Checking anime: さよなら ララ
+2026-07-23 14:15:41,930 - AnimePilgrimageScraper - INFO - Anime 'さよなら ララ' already exists in pic/data/index.json with ID 6170
+2026-07-23 14:15:41,944 - AnimePilgrimageScraper - INFO - Anime 'さよなら ララ' already exists with ID 6170, checking for updates
+2026-07-23 14:15:41,944 - AnimePilgrimageScraper - INFO - Updating existing anime: さよなら ララ with ID 6170
+2026-07-23 14:15:41,945 - AnimePilgrimageScraper - INFO - Loaded 38 existing points from pic/data/6170/points.json
+2026-07-23 14:15:41,945 - AnimePilgrimageScraper - INFO - Loaded existing info from pic/data/6170/info.json
+2026-07-23 14:15:41,945 - AnimePilgrimageScraper - INFO - Scraping new points for anime: さよなら ララ
+2026-07-23 14:16:05,343 - AnimePilgrimageScraper - INFO - Page loaded, found element with selector: ('css selector', 'h1')
+2026-07-23 14:16:05,343 - AnimePilgrimageScraper - INFO - Scrolling to load all pilgrimage points...
+2026-07-23 14:16:11,402 - AnimePilgrimageScraper - INFO - Found 94 pilgrimage points with selector: ('css selector', "div[class*='map']")
+2026-07-23 14:16:11,402 - AnimePilgrimageScraper - INFO - Processing 94 pilgrimage points
+2026-07-23 14:16:11,402 - AnimePilgrimageScraper - INFO - Found 1 existing point coordinates
+2026-07-23 14:16:13,296 - AnimePilgrimageScraper - INFO -   Found name '同じスタジオの作品' with selector ('css selector', 'h2')
+2026-07-23 14:16:13,385 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:16:14,373 - AnimePilgrimageScraper - INFO -   Found name '同じスタジオの作品' with selector ('css selector', 'h2')
+2026-07-23 14:16:14,465 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:16:14,723 - AnimePilgrimageScraper - INFO -   Found name '同じスタジオの作品' with selector ('css selector', 'h2')
+2026-07-23 14:16:14,813 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:16:15,109 - AnimePilgrimageScraper - INFO -   Found name 'Kinema Citrus' with selector ('css selector', 'strong')
+2026-07-23 14:16:15,471 - AnimePilgrimageScraper - INFO -   Found name 'Kinema Citrus' with selector ('css selector', 'strong')
+2026-07-23 14:16:15,851 - AnimePilgrimageScraper - INFO -   Found name '2026/7/21' with selector ('css selector', 'span')
+2026-07-23 14:16:16,580 - AnimePilgrimageScraper - INFO -   Using first text line as name: '滋賀県'
+2026-07-23 14:16:16,775 - AnimePilgrimageScraper - INFO -   Found name '貢献者' with selector ('css selector', 'span')
+2026-07-23 14:16:17,163 - AnimePilgrimageScraper - INFO -   Using first text line as name: '概要'
+2026-07-23 14:16:17,333 - AnimePilgrimageScraper - INFO -   Found name '大津湖岸なぎさ公園' with selector ('css selector', 'p')
+2026-07-23 14:16:17,390 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:16:17,666 - AnimePilgrimageScraper - INFO -   Found name '大津湖岸なぎさ公園' with selector ('css selector', 'p')
+2026-07-23 14:16:17,724 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:16:17,949 - AnimePilgrimageScraper - INFO -   Found name '大津湖岸なぎさ公園' with selector ('css selector', 'p')
+2026-07-23 14:16:18,002 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:16:18,234 - AnimePilgrimageScraper - INFO -   Found name '大津湖岸なぎさ公園' with selector ('css selector', 'p')
+2026-07-23 14:16:18,287 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:16:18,437 - AnimePilgrimageScraper - INFO -   Found name '大津湖岸なぎさ公園' with selector ('css selector', 'p')
+2026-07-23 14:16:18,482 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:16:18,634 - AnimePilgrimageScraper - INFO -   Found name '大津湖岸なぎさ公園' with selector ('css selector', 'p')
+2026-07-23 14:16:18,680 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:16:18,996 - AnimePilgrimageScraper - INFO -   Found name '大津湖岸なぎさ公園' with selector ('css selector', 'p')
+2026-07-23 14:16:19,041 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:16:19,176 - AnimePilgrimageScraper - INFO -   Found name '大津港シンボル緑地公園' with selector ('css selector', 'p')
+2026-07-23 14:16:19,221 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:16:19,547 - AnimePilgrimageScraper - INFO -   Found name '大津港シンボル緑地公園' with selector ('css selector', 'p')
+2026-07-23 14:16:19,592 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:16:19,723 - AnimePilgrimageScraper - INFO -   Found name '大津石山典礼会館' with selector ('css selector', 'p')
+2026-07-23 14:16:19,774 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:16:19,985 - AnimePilgrimageScraper - INFO -   Found name '大津石山典礼会館' with selector ('css selector', 'p')
+2026-07-23 14:16:20,031 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:16:20,242 - AnimePilgrimageScraper - INFO -   Found name '大津石山典礼会館' with selector ('css selector', 'p')
+2026-07-23 14:16:20,289 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:16:20,606 - AnimePilgrimageScraper - INFO -   Found name '大津石山典礼会館' with selector ('css selector', 'p')
+2026-07-23 14:16:20,651 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:16:20,782 - AnimePilgrimageScraper - INFO -   Found name '沖島' with selector ('css selector', 'p')
+2026-07-23 14:16:20,826 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:16:21,136 - AnimePilgrimageScraper - INFO -   Found name '沖島' with selector ('css selector', 'p')
+2026-07-23 14:16:21,181 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:16:21,311 - AnimePilgrimageScraper - INFO -   Found name 'エイブルネットワーク石山店' with selector ('css selector', 'p')
+2026-07-23 14:16:21,355 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:16:21,672 - AnimePilgrimageScraper - INFO -   Found name 'エイブルネットワーク石山店' with selector ('css selector', 'p')
+2026-07-23 14:16:21,718 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:16:21,851 - AnimePilgrimageScraper - INFO -   Found name 'ファミリーマート 石山駅前店' with selector ('css selector', 'p')
+2026-07-23 14:16:21,896 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:16:22,206 - AnimePilgrimageScraper - INFO -   Found name 'ファミリーマート 石山駅前店' with selector ('css selector', 'p')
+2026-07-23 14:16:22,252 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:16:22,384 - AnimePilgrimageScraper - INFO -   Found name '琵琶湖ホテル' with selector ('css selector', 'p')
+2026-07-23 14:16:22,428 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:16:22,778 - AnimePilgrimageScraper - INFO -   Found name '琵琶湖ホテル' with selector ('css selector', 'p')
+2026-07-23 14:16:22,823 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:16:22,955 - AnimePilgrimageScraper - INFO -   Found name 'なぎさ公園' with selector ('css selector', 'p')
+2026-07-23 14:16:23,000 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:16:23,311 - AnimePilgrimageScraper - INFO -   Found name 'なぎさ公園' with selector ('css selector', 'p')
+2026-07-23 14:16:23,355 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:16:23,486 - AnimePilgrimageScraper - INFO -   Found name '浜大津港観光船のりば' with selector ('css selector', 'p')
+2026-07-23 14:16:23,530 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:16:23,839 - AnimePilgrimageScraper - INFO -   Found name '浜大津港観光船のりば' with selector ('css selector', 'p')
+2026-07-23 14:16:23,884 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:16:24,031 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'EP3'
+2026-07-23 14:16:24,213 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'EP3'
+2026-07-23 14:16:25,128 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'ばらかもん'
+2026-07-23 14:16:25,484 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'ウマ娘 プリティーダービー'
+2026-07-23 14:16:25,843 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'ウマ娘 プリティーダービー Season 2'
+2026-07-23 14:16:26,215 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'ちはやふる'
+2026-07-23 14:16:27,854 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:16:28,032 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:16:28,219 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:16:28,399 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:16:29,757 - AnimePilgrimageScraper - INFO - Found 0 new points
+2026-07-23 14:16:29,757 - AnimePilgrimageScraper - INFO - No new points found for this anime
+2026-07-23 14:16:29,757 - AnimePilgrimageScraper - INFO - No updates found for anime 'さよなら ララ'
+2026-07-23 14:16:29,757 - AnimePilgrimageScraper - INFO - [6/18] Checking anime: ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー
+2026-07-23 14:16:29,930 - AnimePilgrimageScraper - INFO - Anime 'ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー' already exists in pic/data/index.json with ID 6184
+2026-07-23 14:16:29,943 - AnimePilgrimageScraper - INFO - Anime 'ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー' already exists with ID 6184, checking for updates
+2026-07-23 14:16:29,944 - AnimePilgrimageScraper - INFO - Updating existing anime: ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー with ID 6184
+2026-07-23 14:16:29,944 - AnimePilgrimageScraper - INFO - Loaded 68 existing points from pic/data/6184/points.json
+2026-07-23 14:16:29,944 - AnimePilgrimageScraper - INFO - Loaded existing info from pic/data/6184/info.json
+2026-07-23 14:16:29,944 - AnimePilgrimageScraper - INFO - Scraping new points for anime: ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー
+2026-07-23 14:16:52,474 - AnimePilgrimageScraper - INFO - Page loaded, found element with selector: ('css selector', 'h1')
+2026-07-23 14:16:52,474 - AnimePilgrimageScraper - INFO - Scrolling to load all pilgrimage points...
+2026-07-23 14:16:58,533 - AnimePilgrimageScraper - INFO - Found 68 pilgrimage points with selector: ('css selector', "div[class*='map']")
+2026-07-23 14:16:58,533 - AnimePilgrimageScraper - INFO - Processing 68 pilgrimage points
+2026-07-23 14:16:58,533 - AnimePilgrimageScraper - INFO - Found 1 existing point coordinates
+2026-07-23 14:17:00,321 - AnimePilgrimageScraper - INFO -   Found name '関連作品' with selector ('css selector', 'h2')
+2026-07-23 14:17:00,450 - AnimePilgrimageScraper - INFO -   Found episode: 22 with selector ('css selector', 'span')
+2026-07-23 14:17:01,414 - AnimePilgrimageScraper - INFO -   Found name '関連作品' with selector ('css selector', 'h2')
+2026-07-23 14:17:01,540 - AnimePilgrimageScraper - INFO -   Found episode: 22 with selector ('css selector', 'span')
+2026-07-23 14:17:01,745 - AnimePilgrimageScraper - INFO -   Found name '関連作品' with selector ('css selector', 'h2')
+2026-07-23 14:17:01,869 - AnimePilgrimageScraper - INFO -   Found episode: 22 with selector ('css selector', 'span')
+2026-07-23 14:17:02,095 - AnimePilgrimageScraper - INFO -   Found name 'Key' with selector ('css selector', 'strong')
+2026-07-23 14:17:02,494 - AnimePilgrimageScraper - INFO -   Found name 'Key' with selector ('css selector', 'strong')
+2026-07-23 14:17:02,937 - AnimePilgrimageScraper - INFO -   Found name '2026/7/21' with selector ('css selector', 'span')
+2026-07-23 14:17:03,691 - AnimePilgrimageScraper - INFO -   Using first text line as name: '投稿'
+2026-07-23 14:17:03,857 - AnimePilgrimageScraper - INFO -   Found name '陸奥横浜駅' with selector ('css selector', 'p')
+2026-07-23 14:17:03,913 - AnimePilgrimageScraper - INFO -   Found episode: 22 with selector ('css selector', 'span')
+2026-07-23 14:17:04,060 - AnimePilgrimageScraper - INFO -   Found name '陸奥横浜駅' with selector ('css selector', 'p')
+2026-07-23 14:17:04,136 - AnimePilgrimageScraper - INFO -   Found episode: 22 with selector ('css selector', 'span')
+2026-07-23 14:17:04,271 - AnimePilgrimageScraper - INFO -   Found name '陸奥横浜駅' with selector ('css selector', 'p')
+2026-07-23 14:17:04,320 - AnimePilgrimageScraper - INFO -   Found episode: 22 with selector ('css selector', 'span')
+2026-07-23 14:17:04,456 - AnimePilgrimageScraper - INFO -   Found name '陸奥横浜駅' with selector ('css selector', 'p')
+2026-07-23 14:17:04,506 - AnimePilgrimageScraper - INFO -   Found episode: 22 with selector ('css selector', 'span')
+2026-07-23 14:17:04,641 - AnimePilgrimageScraper - INFO -   Found name '陸奥横浜駅' with selector ('css selector', 'p')
+2026-07-23 14:17:04,685 - AnimePilgrimageScraper - INFO -   Found episode: 22 with selector ('css selector', 'span')
+2026-07-23 14:17:04,994 - AnimePilgrimageScraper - INFO -   Found name '陸奥横浜駅' with selector ('css selector', 'p')
+2026-07-23 14:17:05,038 - AnimePilgrimageScraper - INFO -   Found episode: 22 with selector ('css selector', 'span')
+2026-07-23 14:17:05,356 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'Anemoi'
+2026-07-23 14:17:05,707 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'Summer Pockets'
+2026-07-23 14:17:06,057 - AnimePilgrimageScraper - INFO -   Using first text line as name: '神様になった日'
+2026-07-23 14:17:06,438 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'けいおん!!'
+2026-07-23 14:17:06,789 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'たまこまーけっと'
+2026-07-23 14:17:07,161 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'たまこラブストーリー'
+2026-07-23 14:17:11,623 - AnimePilgrimageScraper - INFO - Found 0 new points
+2026-07-23 14:17:11,623 - AnimePilgrimageScraper - INFO - No new points found for this anime
+2026-07-23 14:17:11,623 - AnimePilgrimageScraper - INFO - No updates found for anime 'ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー'
+2026-07-23 14:17:11,623 - AnimePilgrimageScraper - INFO - [7/18] Checking anime: 中二病でも恋がしたい！戀
+2026-07-23 14:17:11,769 - AnimePilgrimageScraper - INFO - Anime '中二病でも恋がしたい！戀' already exists in pic/data/index.json with ID 315
+2026-07-23 14:17:11,785 - AnimePilgrimageScraper - INFO - Anime '中二病でも恋がしたい！戀' already exists with ID 315, checking for updates
+2026-07-23 14:17:11,785 - AnimePilgrimageScraper - INFO - Updating existing anime: 中二病でも恋がしたい！戀 with ID 315
+2026-07-23 14:17:11,786 - AnimePilgrimageScraper - ERROR - Error loading existing points data: 'list' object has no attribute 'get'
+2026-07-23 14:17:11,786 - AnimePilgrimageScraper - INFO - No updates found for anime '中二病でも恋がしたい！戀'
+2026-07-23 14:17:11,786 - AnimePilgrimageScraper - INFO - [8/18] Checking anime: ざつ旅-That's Journey-
+2026-07-23 14:17:11,941 - AnimePilgrimageScraper - INFO - Anime 'ざつ旅-That's Journey-' already exists in pic/data/index.json with ID 877
+2026-07-23 14:17:11,956 - AnimePilgrimageScraper - INFO - Anime 'ざつ旅-That's Journey-' already exists with ID 877, checking for updates
+2026-07-23 14:17:11,956 - AnimePilgrimageScraper - INFO - Updating existing anime: ざつ旅-That's Journey- with ID 877
+2026-07-23 14:17:11,957 - AnimePilgrimageScraper - ERROR - Error loading existing points data: 'list' object has no attribute 'get'
+2026-07-23 14:17:11,957 - AnimePilgrimageScraper - INFO - No updates found for anime 'ざつ旅-That's Journey-'
+2026-07-23 14:17:11,957 - AnimePilgrimageScraper - INFO - [9/18] Checking anime: 呪術廻戦 2期
+2026-07-23 14:17:12,113 - AnimePilgrimageScraper - INFO - Anime '呪術廻戦 2期' already exists in pic/data/index.json with ID 6182
+2026-07-23 14:17:12,129 - AnimePilgrimageScraper - INFO - Anime '呪術廻戦 2期' already exists with ID 6182, checking for updates
+2026-07-23 14:17:12,129 - AnimePilgrimageScraper - INFO - Updating existing anime: 呪術廻戦 2期 with ID 6182
+2026-07-23 14:17:12,130 - AnimePilgrimageScraper - INFO - Loaded 636 existing points from pic/data/6182/points.json
+2026-07-23 14:17:12,131 - AnimePilgrimageScraper - INFO - Loaded existing info from pic/data/6182/info.json
+2026-07-23 14:17:12,131 - AnimePilgrimageScraper - INFO - Scraping new points for anime: 呪術廻戦 2期
+2026-07-23 14:17:32,712 - AnimePilgrimageScraper - INFO - Page loaded, found element with selector: ('css selector', 'h1')
+2026-07-23 14:17:32,712 - AnimePilgrimageScraper - INFO - Scrolling to load all pilgrimage points...
+2026-07-23 14:17:38,796 - AnimePilgrimageScraper - INFO - Found 636 pilgrimage points with selector: ('css selector', "div[class*='map']")
+2026-07-23 14:17:38,796 - AnimePilgrimageScraper - INFO - Processing 636 pilgrimage points
+2026-07-23 14:17:38,796 - AnimePilgrimageScraper - INFO - Found 1 existing point coordinates
+2026-07-23 14:17:40,666 - AnimePilgrimageScraper - INFO -   Found name '関連作品' with selector ('css selector', 'h2')
+2026-07-23 14:17:40,778 - AnimePilgrimageScraper - INFO -   Found episode: ED1 with selector ('css selector', 'span')
+2026-07-23 14:17:42,727 - AnimePilgrimageScraper - INFO -   Found name '関連作品' with selector ('css selector', 'h2')
+2026-07-23 14:17:42,847 - AnimePilgrimageScraper - INFO -   Found episode: ED1 with selector ('css selector', 'span')
+2026-07-23 14:17:44,050 - AnimePilgrimageScraper - INFO -   Found name '関連作品' with selector ('css selector', 'h2')
+2026-07-23 14:17:44,164 - AnimePilgrimageScraper - INFO -   Found episode: ED1 with selector ('css selector', 'span')
+2026-07-23 14:17:45,380 - AnimePilgrimageScraper - INFO -   Found name '芥見下々' with selector ('css selector', 'strong')
+2026-07-23 14:17:45,763 - AnimePilgrimageScraper - INFO -   Found name '芥見下々' with selector ('css selector', 'strong')
+2026-07-23 14:17:46,199 - AnimePilgrimageScraper - INFO -   Found name '2026/7/20' with selector ('css selector', 'span')
+2026-07-23 14:17:47,031 - AnimePilgrimageScraper - INFO -   Using first text line as name: '東京都'
+2026-07-23 14:17:47,280 - AnimePilgrimageScraper - INFO -   Found name '久我山駅' with selector ('css selector', 'p')
+2026-07-23 14:17:47,350 - AnimePilgrimageScraper - INFO -   Found episode: ED1 with selector ('css selector', 'span')
+2026-07-23 14:17:48,432 - AnimePilgrimageScraper - INFO -   Found name '久我山駅' with selector ('css selector', 'p')
+2026-07-23 14:17:48,495 - AnimePilgrimageScraper - INFO -   Found episode: ED1 with selector ('css selector', 'span')
+2026-07-23 14:17:48,799 - AnimePilgrimageScraper - INFO -   Found name '久我山駅' with selector ('css selector', 'p')
+2026-07-23 14:17:48,854 - AnimePilgrimageScraper - INFO -   Found episode: ED1 with selector ('css selector', 'span')
+2026-07-23 14:17:49,173 - AnimePilgrimageScraper - INFO -   Found name '久我山駅' with selector ('css selector', 'p')
+2026-07-23 14:17:49,230 - AnimePilgrimageScraper - INFO -   Found episode: ED1 with selector ('css selector', 'span')
+2026-07-23 14:17:49,442 - AnimePilgrimageScraper - INFO -   Found name '久我山駅' with selector ('css selector', 'p')
+2026-07-23 14:17:49,495 - AnimePilgrimageScraper - INFO -   Found episode: ED1 with selector ('css selector', 'span')
+2026-07-23 14:17:49,765 - AnimePilgrimageScraper - INFO -   Found name '久我山駅' with selector ('css selector', 'p')
+2026-07-23 14:17:49,816 - AnimePilgrimageScraper - INFO -   Found episode: ED1 with selector ('css selector', 'span')
+2026-07-23 14:17:50,169 - AnimePilgrimageScraper - INFO -   Found name '久我山駅' with selector ('css selector', 'p')
+2026-07-23 14:17:50,219 - AnimePilgrimageScraper - INFO -   Found episode: ED1 with selector ('css selector', 'span')
+2026-07-23 14:17:50,369 - AnimePilgrimageScraper - INFO -   Found name '日本橋' with selector ('css selector', 'p')
+2026-07-23 14:17:50,418 - AnimePilgrimageScraper - INFO -   Found episode: ED1 with selector ('css selector', 'span')
+2026-07-23 14:17:50,761 - AnimePilgrimageScraper - INFO -   Found name '日本橋' with selector ('css selector', 'p')
+2026-07-23 14:17:50,814 - AnimePilgrimageScraper - INFO -   Found episode: ED1 with selector ('css selector', 'span')
+2026-07-23 14:17:50,965 - AnimePilgrimageScraper - INFO -   Found name '名鉄協商パーキング渋谷第１２代々木１丁目駐輪場' with selector ('css selector', 'p')
+2026-07-23 14:17:51,023 - AnimePilgrimageScraper - INFO -   Found episode: ED1 with selector ('css selector', 'span')
+2026-07-23 14:17:51,365 - AnimePilgrimageScraper - INFO -   Found name '名鉄協商パーキング渋谷第１２代々木１丁目駐輪場' with selector ('css selector', 'p')
+2026-07-23 14:17:51,414 - AnimePilgrimageScraper - INFO -   Found episode: ED1 with selector ('css selector', 'span')
+2026-07-23 14:17:51,563 - AnimePilgrimageScraper - INFO -   Found name 'ビーフラット・コミュニティパーク宇田川町駐車場' with selector ('css selector', 'p')
+2026-07-23 14:17:51,613 - AnimePilgrimageScraper - INFO -   Found episode: ED1 with selector ('css selector', 'span')
+2026-07-23 14:17:51,969 - AnimePilgrimageScraper - INFO -   Found name 'ビーフラット・コミュニティパーク宇田川町駐車場' with selector ('css selector', 'p')
+2026-07-23 14:17:52,021 - AnimePilgrimageScraper - INFO -   Found episode: ED1 with selector ('css selector', 'span')
+2026-07-23 14:17:52,172 - AnimePilgrimageScraper - INFO -   Found name '荒川中洲南端' with selector ('css selector', 'p')
+2026-07-23 14:17:52,262 - AnimePilgrimageScraper - INFO -   Found episode: ED1 with selector ('css selector', 'span')
+2026-07-23 14:17:52,615 - AnimePilgrimageScraper - INFO -   Found name '荒川中洲南端' with selector ('css selector', 'p')
+2026-07-23 14:17:52,666 - AnimePilgrimageScraper - INFO -   Found episode: ED1 with selector ('css selector', 'span')
+2026-07-23 14:17:52,816 - AnimePilgrimageScraper - INFO -   Found name 'バンコクナイト渋谷' with selector ('css selector', 'p')
+2026-07-23 14:17:52,878 - AnimePilgrimageScraper - INFO -   Found episode: ED6 with selector ('css selector', 'span')
+2026-07-23 14:17:53,142 - AnimePilgrimageScraper - INFO -   Found name 'バンコクナイト渋谷' with selector ('css selector', 'p')
+2026-07-23 14:17:53,194 - AnimePilgrimageScraper - INFO -   Found episode: ED6 with selector ('css selector', 'span')
+2026-07-23 14:17:53,448 - AnimePilgrimageScraper - INFO -   Found name 'バンコクナイト渋谷' with selector ('css selector', 'p')
+2026-07-23 14:17:53,499 - AnimePilgrimageScraper - INFO -   Found episode: ED6 with selector ('css selector', 'span')
+2026-07-23 14:17:53,847 - AnimePilgrimageScraper - INFO -   Found name 'バンコクナイト渋谷' with selector ('css selector', 'p')
+2026-07-23 14:17:53,901 - AnimePilgrimageScraper - INFO -   Found episode: ED6 with selector ('css selector', 'span')
+2026-07-23 14:17:54,048 - AnimePilgrimageScraper - INFO -   Found name 'CONA 渋谷宇田川町店' with selector ('css selector', 'p')
+2026-07-23 14:17:54,098 - AnimePilgrimageScraper - INFO -   Found episode: ED6 with selector ('css selector', 'span')
+2026-07-23 14:17:54,449 - AnimePilgrimageScraper - INFO -   Found name 'CONA 渋谷宇田川町店' with selector ('css selector', 'p')
+2026-07-23 14:17:54,501 - AnimePilgrimageScraper - INFO -   Found episode: ED6 with selector ('css selector', 'span')
+2026-07-23 14:17:54,650 - AnimePilgrimageScraper - INFO -   Found name '生焼きホルモン元家 別邸' with selector ('css selector', 'p')
+2026-07-23 14:17:54,700 - AnimePilgrimageScraper - INFO -   Found episode: ED6 with selector ('css selector', 'span')
+2026-07-23 14:17:55,065 - AnimePilgrimageScraper - INFO -   Found name '生焼きホルモン元家 別邸' with selector ('css selector', 'p')
+2026-07-23 14:17:55,115 - AnimePilgrimageScraper - INFO -   Found episode: ED6 with selector ('css selector', 'span')
+2026-07-23 14:17:55,264 - AnimePilgrimageScraper - INFO -   Found name 'ES21 渋谷駅ハチ公口自転車駐車場' with selector ('css selector', 'p')
+2026-07-23 14:17:55,315 - AnimePilgrimageScraper - INFO -   Found episode: ED6 with selector ('css selector', 'span')
+2026-07-23 14:17:55,663 - AnimePilgrimageScraper - INFO -   Found name 'ES21 渋谷駅ハチ公口自転車駐車場' with selector ('css selector', 'p')
+2026-07-23 14:17:55,713 - AnimePilgrimageScraper - INFO -   Found episode: ED6 with selector ('css selector', 'span')
+2026-07-23 14:17:55,861 - AnimePilgrimageScraper - INFO -   Found name '渋谷PARCO' with selector ('css selector', 'p')
+2026-07-23 14:17:55,910 - AnimePilgrimageScraper - INFO -   Found episode: ED6 with selector ('css selector', 'span')
+2026-07-23 14:17:56,267 - AnimePilgrimageScraper - INFO -   Found name '渋谷PARCO' with selector ('css selector', 'p')
+2026-07-23 14:17:56,318 - AnimePilgrimageScraper - INFO -   Found episode: ED6 with selector ('css selector', 'span')
+2026-07-23 14:17:56,464 - AnimePilgrimageScraper - INFO -   Found name '東京都渋谷公園通りギャラリー' with selector ('css selector', 'p')
+2026-07-23 14:17:56,513 - AnimePilgrimageScraper - INFO -   Found episode: ED6 with selector ('css selector', 'span')
+2026-07-23 14:17:56,859 - AnimePilgrimageScraper - INFO -   Found name '東京都渋谷公園通りギャラリー' with selector ('css selector', 'p')
+2026-07-23 14:17:56,910 - AnimePilgrimageScraper - INFO -   Found episode: ED6 with selector ('css selector', 'span')
+2026-07-23 14:17:57,059 - AnimePilgrimageScraper - INFO -   Found name 'LUKE'S LOBSTER 渋谷ParkStreet店' with selector ('css selector', 'p')
+2026-07-23 14:17:57,110 - AnimePilgrimageScraper - INFO -   Found episode: ED6 with selector ('css selector', 'span')
+2026-07-23 14:17:57,468 - AnimePilgrimageScraper - INFO -   Found name 'LUKE'S LOBSTER 渋谷ParkStreet店' with selector ('css selector', 'p')
+2026-07-23 14:17:57,518 - AnimePilgrimageScraper - INFO -   Found episode: ED6 with selector ('css selector', 'span')
+2026-07-23 14:17:57,667 - AnimePilgrimageScraper - INFO -   Found name 'ハンズ渋谷店' with selector ('css selector', 'p')
+2026-07-23 14:17:57,717 - AnimePilgrimageScraper - INFO -   Found episode: ED6 with selector ('css selector', 'span')
+2026-07-23 14:17:58,066 - AnimePilgrimageScraper - INFO -   Found name 'ハンズ渋谷店' with selector ('css selector', 'p')
+2026-07-23 14:17:58,115 - AnimePilgrimageScraper - INFO -   Found episode: ED6 with selector ('css selector', 'span')
+2026-07-23 14:17:58,262 - AnimePilgrimageScraper - INFO -   Found name '渋谷駅西口歩道橋' with selector ('css selector', 'p')
+2026-07-23 14:17:58,314 - AnimePilgrimageScraper - INFO -   Found episode: ED6 with selector ('css selector', 'span')
+2026-07-23 14:17:58,668 - AnimePilgrimageScraper - INFO -   Found name '渋谷駅西口歩道橋' with selector ('css selector', 'p')
+2026-07-23 14:17:58,717 - AnimePilgrimageScraper - INFO -   Found episode: ED6 with selector ('css selector', 'span')
+2026-07-23 14:17:58,869 - AnimePilgrimageScraper - INFO -   Found name 'BOAT RACE 多摩川(多摩川ボートレース場)' with selector ('css selector', 'p')
+2026-07-23 14:17:58,943 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:17:59,830 - AnimePilgrimageScraper - INFO -   Found name 'BOAT RACE 多摩川(多摩川ボートレース場)' with selector ('css selector', 'p')
+2026-07-23 14:17:59,893 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:18:00,782 - AnimePilgrimageScraper - INFO -   Found name 'BOAT RACE 多摩川(多摩川ボートレース場)' with selector ('css selector', 'p')
+2026-07-23 14:18:00,844 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:18:01,020 - AnimePilgrimageScraper - INFO -   Found name 'BOAT RACE 多摩川(多摩川ボートレース場)' with selector ('css selector', 'p')
+2026-07-23 14:18:01,070 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:18:01,255 - AnimePilgrimageScraper - INFO -   Found name 'BOAT RACE 多摩川(多摩川ボートレース場)' with selector ('css selector', 'p')
+2026-07-23 14:18:01,312 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:18:01,686 - AnimePilgrimageScraper - INFO -   Found name 'BOAT RACE 多摩川(多摩川ボートレース場)' with selector ('css selector', 'p')
+2026-07-23 14:18:01,737 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:18:01,885 - AnimePilgrimageScraper - INFO -   Found name '桑実商店' with selector ('css selector', 'p')
+2026-07-23 14:18:01,935 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:18:02,317 - AnimePilgrimageScraper - INFO -   Found name '桑実商店' with selector ('css selector', 'p')
+2026-07-23 14:18:02,369 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:18:02,515 - AnimePilgrimageScraper - INFO -   Found name '那覇空港' with selector ('css selector', 'p')
+2026-07-23 14:18:02,572 - AnimePilgrimageScraper - INFO -   Found episode: 3 with selector ('css selector', 'span')
+2026-07-23 14:18:02,776 - AnimePilgrimageScraper - INFO -   Found name '那覇空港' with selector ('css selector', 'p')
+2026-07-23 14:18:02,827 - AnimePilgrimageScraper - INFO -   Found episode: 3 with selector ('css selector', 'span')
+2026-07-23 14:18:03,031 - AnimePilgrimageScraper - INFO -   Found name '那覇空港' with selector ('css selector', 'p')
+2026-07-23 14:18:03,082 - AnimePilgrimageScraper - INFO -   Found episode: 3 with selector ('css selector', 'span')
+2026-07-23 14:18:03,446 - AnimePilgrimageScraper - INFO -   Found name '那覇空港' with selector ('css selector', 'p')
+2026-07-23 14:18:03,497 - AnimePilgrimageScraper - INFO -   Found episode: 3 with selector ('css selector', 'span')
+2026-07-23 14:18:03,646 - AnimePilgrimageScraper - INFO -   Found name 'よへなあじさい園' with selector ('css selector', 'p')
+2026-07-23 14:18:03,695 - AnimePilgrimageScraper - INFO -   Found episode: 3 with selector ('css selector', 'span')
+2026-07-23 14:18:04,059 - AnimePilgrimageScraper - INFO -   Found name 'よへなあじさい園' with selector ('css selector', 'p')
+2026-07-23 14:18:04,110 - AnimePilgrimageScraper - INFO -   Found episode: 3 with selector ('css selector', 'span')
+2026-07-23 14:18:04,260 - AnimePilgrimageScraper - INFO -   Found name '水の階段（海洋博公園）' with selector ('css selector', 'p')
+2026-07-23 14:18:04,310 - AnimePilgrimageScraper - INFO -   Found episode: 3 with selector ('css selector', 'span')
+2026-07-23 14:18:04,669 - AnimePilgrimageScraper - INFO -   Found name '水の階段（海洋博公園）' with selector ('css selector', 'p')
+2026-07-23 14:18:04,719 - AnimePilgrimageScraper - INFO -   Found episode: 3 with selector ('css selector', 'span')
+2026-07-23 14:18:04,868 - AnimePilgrimageScraper - INFO -   Found name '沖縄美ら海水族館' with selector ('css selector', 'p')
+2026-07-23 14:18:04,920 - AnimePilgrimageScraper - INFO -   Found episode: 3 with selector ('css selector', 'span')
+2026-07-23 14:18:05,279 - AnimePilgrimageScraper - INFO -   Found name '沖縄美ら海水族館' with selector ('css selector', 'p')
+2026-07-23 14:18:05,330 - AnimePilgrimageScraper - INFO -   Found episode: 3 with selector ('css selector', 'span')
+2026-07-23 14:18:05,479 - AnimePilgrimageScraper - INFO -   Found name 'JR新宿駅 東口駅前広場' with selector ('css selector', 'p')
+2026-07-23 14:18:05,535 - AnimePilgrimageScraper - INFO -   Found episode: 5 with selector ('css selector', 'span')
+2026-07-23 14:18:05,720 - AnimePilgrimageScraper - INFO -   Found name 'JR新宿駅 東口駅前広場' with selector ('css selector', 'p')
+2026-07-23 14:18:05,777 - AnimePilgrimageScraper - INFO -   Found episode: 5 with selector ('css selector', 'span')
+2026-07-23 14:18:05,954 - AnimePilgrimageScraper - INFO -   Found name 'JR新宿駅 東口駅前広場' with selector ('css selector', 'p')
+2026-07-23 14:18:06,010 - AnimePilgrimageScraper - INFO -   Found episode: 5 with selector ('css selector', 'span')
+2026-07-23 14:18:06,379 - AnimePilgrimageScraper - INFO -   Found name 'JR新宿駅 東口駅前広場' with selector ('css selector', 'p')
+2026-07-23 14:18:06,430 - AnimePilgrimageScraper - INFO -   Found episode: 5 with selector ('css selector', 'span')
+2026-07-23 14:18:06,582 - AnimePilgrimageScraper - INFO -   Found name 'ケンタッキーフライドチキン新宿西口店' with selector ('css selector', 'p')
+2026-07-23 14:18:06,632 - AnimePilgrimageScraper - INFO -   Found episode: 5 with selector ('css selector', 'span')
+2026-07-23 14:18:07,050 - AnimePilgrimageScraper - INFO -   Found name 'ケンタッキーフライドチキン新宿西口店' with selector ('css selector', 'p')
+2026-07-23 14:18:07,102 - AnimePilgrimageScraper - INFO -   Found episode: 5 with selector ('css selector', 'span')
+2026-07-23 14:18:07,258 - AnimePilgrimageScraper - INFO -   Found name '三井住友信託銀行 立川支店' with selector ('css selector', 'p')
+2026-07-23 14:18:07,316 - AnimePilgrimageScraper - INFO -   Found episode: 6 with selector ('css selector', 'span')
+2026-07-23 14:18:07,520 - AnimePilgrimageScraper - INFO -   Found name '三井住友信託銀行 立川支店' with selector ('css selector', 'p')
+2026-07-23 14:18:07,575 - AnimePilgrimageScraper - INFO -   Found episode: 6 with selector ('css selector', 'span')
+2026-07-23 14:18:07,777 - AnimePilgrimageScraper - INFO -   Found name '三井住友信託銀行 立川支店' with selector ('css selector', 'p')
+2026-07-23 14:18:07,830 - AnimePilgrimageScraper - INFO -   Found episode: 6 with selector ('css selector', 'span')
+2026-07-23 14:18:08,185 - AnimePilgrimageScraper - INFO -   Found name '三井住友信託銀行 立川支店' with selector ('css selector', 'p')
+2026-07-23 14:18:08,236 - AnimePilgrimageScraper - INFO -   Found episode: 6 with selector ('css selector', 'span')
+2026-07-23 14:18:08,387 - AnimePilgrimageScraper - INFO -   Found name 'ウェンディーズ・ファーストキッチン 立川フロム中武店' with selector ('css selector', 'p')
+2026-07-23 14:18:08,438 - AnimePilgrimageScraper - INFO -   Found episode: 6 with selector ('css selector', 'span')
+2026-07-23 14:18:08,801 - AnimePilgrimageScraper - INFO -   Found name 'ウェンディーズ・ファーストキッチン 立川フロム中武店' with selector ('css selector', 'p')
+2026-07-23 14:18:08,852 - AnimePilgrimageScraper - INFO -   Found episode: 6 with selector ('css selector', 'span')
+2026-07-23 14:18:09,002 - AnimePilgrimageScraper - INFO -   Found name '立川駅' with selector ('css selector', 'p')
+2026-07-23 14:18:09,053 - AnimePilgrimageScraper - INFO -   Found episode: 6 with selector ('css selector', 'span')
+2026-07-23 14:18:09,418 - AnimePilgrimageScraper - INFO -   Found name '立川駅' with selector ('css selector', 'p')
+2026-07-23 14:18:09,470 - AnimePilgrimageScraper - INFO -   Found episode: 6 with selector ('css selector', 'span')
+2026-07-23 14:18:09,629 - AnimePilgrimageScraper - INFO -   Found name 'インド定食ターリー屋 立川北口店' with selector ('css selector', 'p')
+2026-07-23 14:18:09,682 - AnimePilgrimageScraper - INFO -   Found episode: 6 with selector ('css selector', 'span')
+2026-07-23 14:18:10,050 - AnimePilgrimageScraper - INFO -   Found name 'インド定食ターリー屋 立川北口店' with selector ('css selector', 'p')
+2026-07-23 14:18:10,101 - AnimePilgrimageScraper - INFO -   Found episode: 6 with selector ('css selector', 'span')
+2026-07-23 14:18:10,253 - AnimePilgrimageScraper - INFO -   Found name '宮下第1歩道橋' with selector ('css selector', 'p')
+2026-07-23 14:18:10,308 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:18:10,489 - AnimePilgrimageScraper - INFO -   Found name '宮下第1歩道橋' with selector ('css selector', 'p')
+2026-07-23 14:18:10,538 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:18:10,722 - AnimePilgrimageScraper - INFO -   Found name '宮下第1歩道橋' with selector ('css selector', 'p')
+2026-07-23 14:18:10,771 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:18:11,118 - AnimePilgrimageScraper - INFO -   Found name '宮下第1歩道橋' with selector ('css selector', 'p')
+2026-07-23 14:18:11,167 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:18:11,308 - AnimePilgrimageScraper - INFO -   Found name '「LOUVERS OF MIRROR」ヴィト・アコンチ' with selector ('css selector', 'p')
+2026-07-23 14:18:11,355 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:18:11,693 - AnimePilgrimageScraper - INFO -   Found name '「LOUVERS OF MIRROR」ヴィト・アコンチ' with selector ('css selector', 'p')
+2026-07-23 14:18:11,741 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:18:11,885 - AnimePilgrimageScraper - INFO -   Found name 'カフェ・ベローチェ 渋谷駅新南口店' with selector ('css selector', 'p')
+2026-07-23 14:18:11,936 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:18:12,280 - AnimePilgrimageScraper - INFO -   Found name 'カフェ・ベローチェ 渋谷駅新南口店' with selector ('css selector', 'p')
+2026-07-23 14:18:12,329 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:18:12,471 - AnimePilgrimageScraper - INFO -   Found name 'B3F 渋谷ヒカリエ' with selector ('css selector', 'p')
+2026-07-23 14:18:12,532 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:18:12,734 - AnimePilgrimageScraper - INFO -   Found name 'B3F 渋谷ヒカリエ' with selector ('css selector', 'p')
+2026-07-23 14:18:12,786 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:18:12,994 - AnimePilgrimageScraper - INFO -   Found name 'B3F 渋谷ヒカリエ' with selector ('css selector', 'p')
+2026-07-23 14:18:13,043 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:18:13,379 - AnimePilgrimageScraper - INFO -   Found name 'B3F 渋谷ヒカリエ' with selector ('css selector', 'p')
+2026-07-23 14:18:13,434 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:18:13,582 - AnimePilgrimageScraper - INFO -   Found name '原宿駅' with selector ('css selector', 'p')
+2026-07-23 14:18:13,635 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:18:13,974 - AnimePilgrimageScraper - INFO -   Found name '原宿駅' with selector ('css selector', 'p')
+2026-07-23 14:18:14,021 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:18:14,166 - AnimePilgrimageScraper - INFO -   Found name 'ミスターミニット東京メトロ 明治神宮前' with selector ('css selector', 'p')
+2026-07-23 14:18:14,215 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:18:14,560 - AnimePilgrimageScraper - INFO -   Found name 'ミスターミニット東京メトロ 明治神宮前' with selector ('css selector', 'p')
+2026-07-23 14:18:14,617 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:18:14,760 - AnimePilgrimageScraper - INFO -   Found name 'B2F 明治神宮前〈原宿〉駅' with selector ('css selector', 'p')
+2026-07-23 14:18:14,810 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:18:15,144 - AnimePilgrimageScraper - INFO -   Found name 'B2F 明治神宮前〈原宿〉駅' with selector ('css selector', 'p')
+2026-07-23 14:18:15,195 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:18:15,339 - AnimePilgrimageScraper - INFO -   Found name 'B4F 神宮前交差点方面改札' with selector ('css selector', 'p')
+2026-07-23 14:18:15,387 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:18:15,726 - AnimePilgrimageScraper - INFO -   Found name 'B4F 神宮前交差点方面改札' with selector ('css selector', 'p')
+2026-07-23 14:18:15,783 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:18:15,933 - AnimePilgrimageScraper - INFO -   Found name '明治神宮前（原宿）駅 東京メトロ副都心線3・4番線ホーム' with selector ('css selector', 'p')
+2026-07-23 14:18:15,987 - AnimePilgrimageScraper - INFO -   Found episode: 9 with selector ('css selector', 'span')
+2026-07-23 14:18:16,157 - AnimePilgrimageScraper - INFO -   Found name '明治神宮前（原宿）駅 東京メトロ副都心線3・4番線ホーム' with selector ('css selector', 'p')
+2026-07-23 14:18:16,205 - AnimePilgrimageScraper - INFO -   Found episode: 9 with selector ('css selector', 'span')
+2026-07-23 14:18:16,371 - AnimePilgrimageScraper - INFO -   Found name '明治神宮前（原宿）駅 東京メトロ副都心線3・4番線ホーム' with selector ('css selector', 'p')
+2026-07-23 14:18:16,419 - AnimePilgrimageScraper - INFO -   Found episode: 9 with selector ('css selector', 'span')
+2026-07-23 14:18:16,759 - AnimePilgrimageScraper - INFO -   Found name '明治神宮前（原宿）駅 東京メトロ副都心線3・4番線ホーム' with selector ('css selector', 'p')
+2026-07-23 14:18:16,809 - AnimePilgrimageScraper - INFO -   Found episode: 9 with selector ('css selector', 'span')
+2026-07-23 14:18:16,967 - AnimePilgrimageScraper - INFO -   Found name '渋谷駅 東京メトロ副都心線 5・6番線' with selector ('css selector', 'p')
+2026-07-23 14:18:17,020 - AnimePilgrimageScraper - INFO -   Found episode: 9 with selector ('css selector', 'span')
+2026-07-23 14:18:17,366 - AnimePilgrimageScraper - INFO -   Found name '渋谷駅 東京メトロ副都心線 5・6番線' with selector ('css selector', 'p')
+2026-07-23 14:18:17,414 - AnimePilgrimageScraper - INFO -   Found episode: 9 with selector ('css selector', 'span')
+2026-07-23 14:18:17,558 - AnimePilgrimageScraper - INFO -   Found name 'Mothership' with selector ('css selector', 'p')
+2026-07-23 14:18:17,614 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:18:17,810 - AnimePilgrimageScraper - INFO -   Found name 'Mothership' with selector ('css selector', 'p')
+2026-07-23 14:18:17,861 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:18:18,053 - AnimePilgrimageScraper - INFO -   Found name 'Mothership' with selector ('css selector', 'p')
+2026-07-23 14:18:18,100 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:18:18,446 - AnimePilgrimageScraper - INFO -   Found name 'Mothership' with selector ('css selector', 'p')
+2026-07-23 14:18:18,497 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:18:18,641 - AnimePilgrimageScraper - INFO -   Found name 'ファミリーマート 渋谷一丁目店' with selector ('css selector', 'p')
+2026-07-23 14:18:18,688 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:18:19,030 - AnimePilgrimageScraper - INFO -   Found name 'ファミリーマート 渋谷一丁目店' with selector ('css selector', 'p')
+2026-07-23 14:18:19,080 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:18:19,224 - AnimePilgrimageScraper - INFO -   Found name 'セカンドストリート渋谷神南店' with selector ('css selector', 'p')
+2026-07-23 14:18:19,276 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:18:19,629 - AnimePilgrimageScraper - INFO -   Found name 'セカンドストリート渋谷神南店' with selector ('css selector', 'p')
+2026-07-23 14:18:19,678 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:18:19,817 - AnimePilgrimageScraper - INFO -   Found name '渋谷東急REIホテル' with selector ('css selector', 'p')
+2026-07-23 14:18:19,866 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:18:20,204 - AnimePilgrimageScraper - INFO -   Found name '渋谷東急REIホテル' with selector ('css selector', 'p')
+2026-07-23 14:18:20,254 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:18:20,400 - AnimePilgrimageScraper - INFO -   Found name '渋谷モディ' with selector ('css selector', 'p')
+2026-07-23 14:18:20,459 - AnimePilgrimageScraper - INFO -   Found episode: 11 with selector ('css selector', 'span')
+2026-07-23 14:18:20,692 - AnimePilgrimageScraper - INFO -   Found name '渋谷モディ' with selector ('css selector', 'p')
+2026-07-23 14:18:20,737 - AnimePilgrimageScraper - INFO -   Found episode: 11 with selector ('css selector', 'span')
+2026-07-23 14:18:20,910 - AnimePilgrimageScraper - INFO -   Found name '渋谷モディ' with selector ('css selector', 'p')
+2026-07-23 14:18:20,961 - AnimePilgrimageScraper - INFO -   Found episode: 11 with selector ('css selector', 'span')
+2026-07-23 14:18:21,309 - AnimePilgrimageScraper - INFO -   Found name '渋谷モディ' with selector ('css selector', 'p')
+2026-07-23 14:18:21,360 - AnimePilgrimageScraper - INFO -   Found episode: 11 with selector ('css selector', 'span')
+2026-07-23 14:18:21,500 - AnimePilgrimageScraper - INFO -   Found name 'ブリッジ渋谷21' with selector ('css selector', 'p')
+2026-07-23 14:18:21,549 - AnimePilgrimageScraper - INFO -   Found episode: 11 with selector ('css selector', 'span')
+2026-07-23 14:18:21,886 - AnimePilgrimageScraper - INFO -   Found name 'ブリッジ渋谷21' with selector ('css selector', 'p')
+2026-07-23 14:18:21,937 - AnimePilgrimageScraper - INFO -   Found episode: 11 with selector ('css selector', 'span')
+2026-07-23 14:18:22,084 - AnimePilgrimageScraper - INFO -   Found name '渋谷駅（バス）' with selector ('css selector', 'p')
+2026-07-23 14:18:22,141 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:18:22,332 - AnimePilgrimageScraper - INFO -   Found name '渋谷駅（バス）' with selector ('css selector', 'p')
+2026-07-23 14:18:22,381 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:18:22,569 - AnimePilgrimageScraper - INFO -   Found name '渋谷駅（バス）' with selector ('css selector', 'p')
+2026-07-23 14:18:22,617 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:18:22,962 - AnimePilgrimageScraper - INFO -   Found name '渋谷駅（バス）' with selector ('css selector', 'p')
+2026-07-23 14:18:23,009 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:18:23,150 - AnimePilgrimageScraper - INFO -   Found name '池湖 渋谷' with selector ('css selector', 'p')
+2026-07-23 14:18:23,207 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:18:23,545 - AnimePilgrimageScraper - INFO -   Found name '池湖 渋谷' with selector ('css selector', 'p')
+2026-07-23 14:18:23,595 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:18:23,741 - AnimePilgrimageScraper - INFO -   Found name '東急百貨店本店前(バス)' with selector ('css selector', 'p')
+2026-07-23 14:18:23,791 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:18:24,126 - AnimePilgrimageScraper - INFO -   Found name '東急百貨店本店前(バス)' with selector ('css selector', 'p')
+2026-07-23 14:18:24,176 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:18:24,321 - AnimePilgrimageScraper - INFO -   Found name '俺流塩らーめん 東急本店前店' with selector ('css selector', 'p')
+2026-07-23 14:18:24,379 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:18:24,714 - AnimePilgrimageScraper - INFO -   Found name '俺流塩らーめん 東急本店前店' with selector ('css selector', 'p')
+2026-07-23 14:18:24,763 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:18:24,905 - AnimePilgrimageScraper - INFO -   Found name '北海道スープカレーSuage 渋谷店' with selector ('css selector', 'p')
+2026-07-23 14:18:24,961 - AnimePilgrimageScraper - INFO -   Found episode: 13 with selector ('css selector', 'span')
+2026-07-23 14:18:25,141 - AnimePilgrimageScraper - INFO -   Found name '北海道スープカレーSuage 渋谷店' with selector ('css selector', 'p')
+2026-07-23 14:18:25,193 - AnimePilgrimageScraper - INFO -   Found episode: 13 with selector ('css selector', 'span')
+2026-07-23 14:18:25,359 - AnimePilgrimageScraper - INFO -   Found name '北海道スープカレーSuage 渋谷店' with selector ('css selector', 'p')
+2026-07-23 14:18:25,407 - AnimePilgrimageScraper - INFO -   Found episode: 13 with selector ('css selector', 'span')
+2026-07-23 14:18:25,752 - AnimePilgrimageScraper - INFO -   Found name '北海道スープカレーSuage 渋谷店' with selector ('css selector', 'p')
+2026-07-23 14:18:25,801 - AnimePilgrimageScraper - INFO -   Found episode: 13 with selector ('css selector', 'span')
+2026-07-23 14:18:25,942 - AnimePilgrimageScraper - INFO -   Found name 'B4F 渋谷ヒカリエ1改札付近' with selector ('css selector', 'p')
+2026-07-23 14:18:25,990 - AnimePilgrimageScraper - INFO -   Found episode: 13 with selector ('css selector', 'span')
+2026-07-23 14:18:26,325 - AnimePilgrimageScraper - INFO -   Found name 'B4F 渋谷ヒカリエ1改札付近' with selector ('css selector', 'p')
+2026-07-23 14:18:26,376 - AnimePilgrimageScraper - INFO -   Found episode: 13 with selector ('css selector', 'span')
+2026-07-23 14:18:26,522 - AnimePilgrimageScraper - INFO -   Found name '2F アベニューゲート' with selector ('css selector', 'p')
+2026-07-23 14:18:26,578 - AnimePilgrimageScraper - INFO -   Found episode: 14 with selector ('css selector', 'span')
+2026-07-23 14:18:26,743 - AnimePilgrimageScraper - INFO -   Found name '2F アベニューゲート' with selector ('css selector', 'p')
+2026-07-23 14:18:26,796 - AnimePilgrimageScraper - INFO -   Found episode: 14 with selector ('css selector', 'span')
+2026-07-23 14:18:26,961 - AnimePilgrimageScraper - INFO -   Found name '2F アベニューゲート' with selector ('css selector', 'p')
+2026-07-23 14:18:27,010 - AnimePilgrimageScraper - INFO -   Found episode: 14 with selector ('css selector', 'span')
+2026-07-23 14:18:27,350 - AnimePilgrimageScraper - INFO -   Found name '2F アベニューゲート' with selector ('css selector', 'p')
+2026-07-23 14:18:27,397 - AnimePilgrimageScraper - INFO -   Found episode: 14 with selector ('css selector', 'span')
+2026-07-23 14:18:27,541 - AnimePilgrimageScraper - INFO -   Found name '岡本太郎「明日の神話」' with selector ('css selector', 'p')
+2026-07-23 14:18:27,596 - AnimePilgrimageScraper - INFO -   Found episode: 15 with selector ('css selector', 'span')
+2026-07-23 14:18:27,751 - AnimePilgrimageScraper - INFO -   Found name '岡本太郎「明日の神話」' with selector ('css selector', 'p')
+2026-07-23 14:18:27,800 - AnimePilgrimageScraper - INFO -   Found episode: 15 with selector ('css selector', 'span')
+2026-07-23 14:18:27,964 - AnimePilgrimageScraper - INFO -   Found name '岡本太郎「明日の神話」' with selector ('css selector', 'p')
+2026-07-23 14:18:28,013 - AnimePilgrimageScraper - INFO -   Found episode: 15 with selector ('css selector', 'span')
+2026-07-23 14:18:28,355 - AnimePilgrimageScraper - INFO -   Found name '岡本太郎「明日の神話」' with selector ('css selector', 'p')
+2026-07-23 14:18:28,404 - AnimePilgrimageScraper - INFO -   Found episode: 15 with selector ('css selector', 'span')
+2026-07-23 14:18:28,559 - AnimePilgrimageScraper - INFO -   Found name 'SHIBUYAフレンズ動物病院' with selector ('css selector', 'p')
+2026-07-23 14:18:28,615 - AnimePilgrimageScraper - INFO -   Found episode: 16 with selector ('css selector', 'span')
+2026-07-23 14:18:28,866 - AnimePilgrimageScraper - INFO -   Found name 'SHIBUYAフレンズ動物病院' with selector ('css selector', 'p')
+2026-07-23 14:18:28,918 - AnimePilgrimageScraper - INFO -   Found episode: 16 with selector ('css selector', 'span')
+2026-07-23 14:18:29,164 - AnimePilgrimageScraper - INFO -   Found name 'SHIBUYAフレンズ動物病院' with selector ('css selector', 'p')
+2026-07-23 14:18:29,221 - AnimePilgrimageScraper - INFO -   Found episode: 16 with selector ('css selector', 'span')
+2026-07-23 14:18:29,563 - AnimePilgrimageScraper - INFO -   Found name 'SHIBUYAフレンズ動物病院' with selector ('css selector', 'p')
+2026-07-23 14:18:29,613 - AnimePilgrimageScraper - INFO -   Found episode: 16 with selector ('css selector', 'span')
+2026-07-23 14:18:29,761 - AnimePilgrimageScraper - INFO -   Found name 'RELX VAPE &NEWS STAND' with selector ('css selector', 'p')
+2026-07-23 14:18:29,811 - AnimePilgrimageScraper - INFO -   Found episode: 16 with selector ('css selector', 'span')
+2026-07-23 14:18:30,147 - AnimePilgrimageScraper - INFO -   Found name 'RELX VAPE &NEWS STAND' with selector ('css selector', 'p')
+2026-07-23 14:18:30,197 - AnimePilgrimageScraper - INFO -   Found episode: 16 with selector ('css selector', 'span')
+2026-07-23 14:18:30,338 - AnimePilgrimageScraper - INFO -   Found name 'スターバックスコーヒー 渋谷ストリーム店' with selector ('css selector', 'p')
+2026-07-23 14:18:30,396 - AnimePilgrimageScraper - INFO -   Found episode: 16 with selector ('css selector', 'span')
+2026-07-23 14:18:30,734 - AnimePilgrimageScraper - INFO -   Found name 'スターバックスコーヒー 渋谷ストリーム店' with selector ('css selector', 'p')
+2026-07-23 14:18:30,787 - AnimePilgrimageScraper - INFO -   Found episode: 16 with selector ('css selector', 'span')
+2026-07-23 14:18:30,942 - AnimePilgrimageScraper - INFO -   Found name 'ファミリーマート 渋谷道玄坂プラザ通り店' with selector ('css selector', 'p')
+2026-07-23 14:18:30,992 - AnimePilgrimageScraper - INFO -   Found episode: 16 with selector ('css selector', 'span')
+2026-07-23 14:18:31,335 - AnimePilgrimageScraper - INFO -   Found name 'ファミリーマート 渋谷道玄坂プラザ通り店' with selector ('css selector', 'p')
+2026-07-23 14:18:31,385 - AnimePilgrimageScraper - INFO -   Found episode: 16 with selector ('css selector', 'span')
+2026-07-23 14:18:31,536 - AnimePilgrimageScraper - INFO -   Found name '博多天神 渋谷南口店' with selector ('css selector', 'p')
+2026-07-23 14:18:31,595 - AnimePilgrimageScraper - INFO -   Found episode: 16 with selector ('css selector', 'span')
+2026-07-23 14:18:31,930 - AnimePilgrimageScraper - INFO -   Found name '博多天神 渋谷南口店' with selector ('css selector', 'p')
+2026-07-23 14:18:31,979 - AnimePilgrimageScraper - INFO -   Found episode: 16 with selector ('css selector', 'span')
+2026-07-23 14:18:32,121 - AnimePilgrimageScraper - INFO -   Found name '渋谷料金所' with selector ('css selector', 'p')
+2026-07-23 14:18:32,174 - AnimePilgrimageScraper - INFO -   Found episode: 16 with selector ('css selector', 'span')
+2026-07-23 14:18:32,514 - AnimePilgrimageScraper - INFO -   Found name '渋谷料金所' with selector ('css selector', 'p')
+2026-07-23 14:18:32,563 - AnimePilgrimageScraper - INFO -   Found episode: 16 with selector ('css selector', 'span')
+2026-07-23 14:18:32,709 - AnimePilgrimageScraper - INFO -   Found name '宝くじロトハウス 渋谷駅井の頭口店' with selector ('css selector', 'p')
+2026-07-23 14:18:32,768 - AnimePilgrimageScraper - INFO -   Found episode: 16 with selector ('css selector', 'span')
+2026-07-23 14:18:33,108 - AnimePilgrimageScraper - INFO -   Found name '宝くじロトハウス 渋谷駅井の頭口店' with selector ('css selector', 'p')
+2026-07-23 14:18:33,193 - AnimePilgrimageScraper - INFO -   Found episode: 16 with selector ('css selector', 'span')
+2026-07-23 14:18:33,359 - AnimePilgrimageScraper - INFO -   Found name '京都駅' with selector ('css selector', 'p')
+2026-07-23 14:18:33,407 - AnimePilgrimageScraper - INFO -   Found episode: 16 with selector ('css selector', 'span')
+2026-07-23 14:18:33,741 - AnimePilgrimageScraper - INFO -   Found name '京都駅' with selector ('css selector', 'p')
+2026-07-23 14:18:33,791 - AnimePilgrimageScraper - INFO -   Found episode: 16 with selector ('css selector', 'span')
+2026-07-23 14:18:33,932 - AnimePilgrimageScraper - INFO -   Found name '渋谷ストリーム ホール' with selector ('css selector', 'p')
+2026-07-23 14:18:33,980 - AnimePilgrimageScraper - INFO -   Found episode: 16 with selector ('css selector', 'span')
+2026-07-23 14:18:34,318 - AnimePilgrimageScraper - INFO -   Found name '渋谷ストリーム ホール' with selector ('css selector', 'p')
+2026-07-23 14:18:34,370 - AnimePilgrimageScraper - INFO -   Found episode: 16 with selector ('css selector', 'span')
+2026-07-23 14:18:34,520 - AnimePilgrimageScraper - INFO -   Found name '薬 マツモトキヨシ SHIBUYA DOGENZAKA FLAG' with selector ('css selector', 'p')
+2026-07-23 14:18:34,578 - AnimePilgrimageScraper - INFO -   Found episode: 17 with selector ('css selector', 'span')
+2026-07-23 14:18:34,764 - AnimePilgrimageScraper - INFO -   Found name '薬 マツモトキヨシ SHIBUYA DOGENZAKA FLAG' with selector ('css selector', 'p')
+2026-07-23 14:18:34,812 - AnimePilgrimageScraper - INFO -   Found episode: 17 with selector ('css selector', 'span')
+2026-07-23 14:18:35,000 - AnimePilgrimageScraper - INFO -   Found name '薬 マツモトキヨシ SHIBUYA DOGENZAKA FLAG' with selector ('css selector', 'p')
+2026-07-23 14:18:35,049 - AnimePilgrimageScraper - INFO -   Found episode: 17 with selector ('css selector', 'span')
+2026-07-23 14:18:35,385 - AnimePilgrimageScraper - INFO -   Found name '薬 マツモトキヨシ SHIBUYA DOGENZAKA FLAG' with selector ('css selector', 'p')
+2026-07-23 14:18:35,433 - AnimePilgrimageScraper - INFO -   Found episode: 17 with selector ('css selector', 'span')
+2026-07-23 14:18:35,583 - AnimePilgrimageScraper - INFO -   Found name '渋谷スクランブル交差点' with selector ('css selector', 'p')
+2026-07-23 14:18:35,631 - AnimePilgrimageScraper - INFO -   Found episode: 17 with selector ('css selector', 'span')
+2026-07-23 14:18:35,973 - AnimePilgrimageScraper - INFO -   Found name '渋谷スクランブル交差点' with selector ('css selector', 'p')
+2026-07-23 14:18:36,019 - AnimePilgrimageScraper - INFO -   Found episode: 17 with selector ('css selector', 'span')
+2026-07-23 14:18:36,167 - AnimePilgrimageScraper - INFO -   Found name 'ファミリーマート 渋谷１０９前店' with selector ('css selector', 'p')
+2026-07-23 14:18:36,219 - AnimePilgrimageScraper - INFO -   Found episode: 17 with selector ('css selector', 'span')
+2026-07-23 14:18:36,557 - AnimePilgrimageScraper - INFO -   Found name 'ファミリーマート 渋谷１０９前店' with selector ('css selector', 'p')
+2026-07-23 14:18:36,607 - AnimePilgrimageScraper - INFO -   Found episode: 17 with selector ('css selector', 'span')
+2026-07-23 14:18:36,749 - AnimePilgrimageScraper - INFO -   Found name 'ハチ公改札' with selector ('css selector', 'p')
+2026-07-23 14:18:36,809 - AnimePilgrimageScraper - INFO -   Found episode: 18 with selector ('css selector', 'span')
+2026-07-23 14:18:37,015 - AnimePilgrimageScraper - INFO -   Found name 'ハチ公改札' with selector ('css selector', 'p')
+2026-07-23 14:18:37,066 - AnimePilgrimageScraper - INFO -   Found episode: 18 with selector ('css selector', 'span')
+2026-07-23 14:18:37,261 - AnimePilgrimageScraper - INFO -   Found name 'ハチ公改札' with selector ('css selector', 'p')
+2026-07-23 14:18:37,310 - AnimePilgrimageScraper - INFO -   Found episode: 18 with selector ('css selector', 'span')
+2026-07-23 14:18:37,652 - AnimePilgrimageScraper - INFO -   Found name 'ハチ公改札' with selector ('css selector', 'p')
+2026-07-23 14:18:37,707 - AnimePilgrimageScraper - INFO -   Found episode: 18 with selector ('css selector', 'span')
+2026-07-23 14:18:37,850 - AnimePilgrimageScraper - INFO -   Found name '道玄坂改札 B2F' with selector ('css selector', 'p')
+2026-07-23 14:18:37,899 - AnimePilgrimageScraper - INFO -   Found episode: 18 with selector ('css selector', 'span')
+2026-07-23 14:18:38,253 - AnimePilgrimageScraper - INFO -   Found name '道玄坂改札 B2F' with selector ('css selector', 'p')
+2026-07-23 14:18:38,301 - AnimePilgrimageScraper - INFO -   Found episode: 18 with selector ('css selector', 'span')
+2026-07-23 14:18:38,444 - AnimePilgrimageScraper - INFO -   Found name 'B4F 宮益坂東改札付近' with selector ('css selector', 'p')
+2026-07-23 14:18:38,492 - AnimePilgrimageScraper - INFO -   Found episode: 18 with selector ('css selector', 'span')
+2026-07-23 14:18:38,827 - AnimePilgrimageScraper - INFO -   Found name 'B4F 宮益坂東改札付近' with selector ('css selector', 'p')
+2026-07-23 14:18:38,876 - AnimePilgrimageScraper - INFO -   Found episode: 18 with selector ('css selector', 'span')
+2026-07-23 14:18:39,018 - AnimePilgrimageScraper - INFO -   Found name '焼肉 もうもうくうくう 渋谷店' with selector ('css selector', 'p')
+2026-07-23 14:18:39,069 - AnimePilgrimageScraper - INFO -   Found episode: 18 with selector ('css selector', 'span')
+2026-07-23 14:18:39,436 - AnimePilgrimageScraper - INFO -   Found name '焼肉 もうもうくうくう 渋谷店' with selector ('css selector', 'p')
+2026-07-23 14:18:39,491 - AnimePilgrimageScraper - INFO -   Found episode: 18 with selector ('css selector', 'span')
+2026-07-23 14:18:39,631 - AnimePilgrimageScraper - INFO -   Found name 'スターバックス コーヒー 渋谷文化村通り店' with selector ('css selector', 'p')
+2026-07-23 14:18:39,688 - AnimePilgrimageScraper - INFO -   Found episode: 19 with selector ('css selector', 'span')
+2026-07-23 14:18:39,883 - AnimePilgrimageScraper - INFO -   Found name 'スターバックス コーヒー 渋谷文化村通り店' with selector ('css selector', 'p')
+2026-07-23 14:18:39,934 - AnimePilgrimageScraper - INFO -   Found episode: 19 with selector ('css selector', 'span')
+2026-07-23 14:18:40,135 - AnimePilgrimageScraper - INFO -   Found name 'スターバックス コーヒー 渋谷文化村通り店' with selector ('css selector', 'p')
+2026-07-23 14:18:40,184 - AnimePilgrimageScraper - INFO -   Found episode: 19 with selector ('css selector', 'span')
+2026-07-23 14:18:40,528 - AnimePilgrimageScraper - INFO -   Found name 'スターバックス コーヒー 渋谷文化村通り店' with selector ('css selector', 'p')
+2026-07-23 14:18:40,578 - AnimePilgrimageScraper - INFO -   Found episode: 19 with selector ('css selector', 'span')
+2026-07-23 14:18:40,727 - AnimePilgrimageScraper - INFO -   Found name 'B1F Bunkamura Street Exit 3a' with selector ('css selector', 'p')
+2026-07-23 14:18:40,777 - AnimePilgrimageScraper - INFO -   Found episode: 19 with selector ('css selector', 'span')
+2026-07-23 14:18:41,116 - AnimePilgrimageScraper - INFO -   Found name 'B1F Bunkamura Street Exit 3a' with selector ('css selector', 'p')
+2026-07-23 14:18:41,163 - AnimePilgrimageScraper - INFO -   Found episode: 19 with selector ('css selector', 'span')
+2026-07-23 14:18:41,306 - AnimePilgrimageScraper - INFO -   Found name 'ユニクロ 渋谷道玄坂店' with selector ('css selector', 'p')
+2026-07-23 14:18:41,354 - AnimePilgrimageScraper - INFO -   Found episode: 19 with selector ('css selector', 'span')
+2026-07-23 14:18:41,692 - AnimePilgrimageScraper - INFO -   Found name 'ユニクロ 渋谷道玄坂店' with selector ('css selector', 'p')
+2026-07-23 14:18:41,740 - AnimePilgrimageScraper - INFO -   Found episode: 19 with selector ('css selector', 'span')
+2026-07-23 14:18:41,897 - AnimePilgrimageScraper - INFO -   Found name 'B1F プライム出口1' with selector ('css selector', 'p')
+2026-07-23 14:18:41,947 - AnimePilgrimageScraper - INFO -   Found episode: 19 with selector ('css selector', 'span')
+2026-07-23 14:18:42,290 - AnimePilgrimageScraper - INFO -   Found name 'B1F プライム出口1' with selector ('css selector', 'p')
+2026-07-23 14:18:42,341 - AnimePilgrimageScraper - INFO -   Found episode: 19 with selector ('css selector', 'span')
+2026-07-23 14:18:42,487 - AnimePilgrimageScraper - INFO -   Found name 'B2F 文化村通り 3a出口' with selector ('css selector', 'p')
+2026-07-23 14:18:42,544 - AnimePilgrimageScraper - INFO -   Found episode: 20 with selector ('css selector', 'span')
+2026-07-23 14:18:42,712 - AnimePilgrimageScraper - INFO -   Found name 'B2F 文化村通り 3a出口' with selector ('css selector', 'p')
+2026-07-23 14:18:42,761 - AnimePilgrimageScraper - INFO -   Found episode: 20 with selector ('css selector', 'span')
+2026-07-23 14:18:42,933 - AnimePilgrimageScraper - INFO -   Found name 'B2F 文化村通り 3a出口' with selector ('css selector', 'p')
+2026-07-23 14:18:42,990 - AnimePilgrimageScraper - INFO -   Found episode: 20 with selector ('css selector', 'span')
+2026-07-23 14:18:43,328 - AnimePilgrimageScraper - INFO -   Found name 'B2F 文化村通り 3a出口' with selector ('css selector', 'p')
+2026-07-23 14:18:43,379 - AnimePilgrimageScraper - INFO -   Found episode: 20 with selector ('css selector', 'span')
+2026-07-23 14:18:43,525 - AnimePilgrimageScraper - INFO -   Found name '渋谷駅 田園都市線 1番線' with selector ('css selector', 'p')
+2026-07-23 14:18:43,575 - AnimePilgrimageScraper - INFO -   Found episode: 20 with selector ('css selector', 'span')
+2026-07-23 14:18:43,913 - AnimePilgrimageScraper - INFO -   Found name '渋谷駅 田園都市線 1番線' with selector ('css selector', 'p')
+2026-07-23 14:18:43,962 - AnimePilgrimageScraper - INFO -   Found episode: 20 with selector ('css selector', 'span')
+2026-07-23 14:18:44,114 - AnimePilgrimageScraper - INFO -   Found name 'サーティワンアイスクリーム 渋谷店' with selector ('css selector', 'p')
+2026-07-23 14:18:44,181 - AnimePilgrimageScraper - INFO -   Found episode: 21 with selector ('css selector', 'span')
+2026-07-23 14:18:44,340 - AnimePilgrimageScraper - INFO -   Found name 'サーティワンアイスクリーム 渋谷店' with selector ('css selector', 'p')
+2026-07-23 14:18:44,386 - AnimePilgrimageScraper - INFO -   Found episode: 21 with selector ('css selector', 'span')
+2026-07-23 14:18:44,544 - AnimePilgrimageScraper - INFO -   Found name 'サーティワンアイスクリーム 渋谷店' with selector ('css selector', 'p')
+2026-07-23 14:18:44,593 - AnimePilgrimageScraper - INFO -   Found episode: 21 with selector ('css selector', 'span')
+2026-07-23 14:18:44,930 - AnimePilgrimageScraper - INFO -   Found name 'サーティワンアイスクリーム 渋谷店' with selector ('css selector', 'p')
+2026-07-23 14:18:44,982 - AnimePilgrimageScraper - INFO -   Found episode: 21 with selector ('css selector', 'span')
+2026-07-23 14:18:45,132 - AnimePilgrimageScraper - INFO -   Found name 'B3F 田園都市線ホーム' with selector ('css selector', 'p')
+2026-07-23 14:18:45,192 - AnimePilgrimageScraper - INFO -   Found episode: 22 with selector ('css selector', 'span')
+2026-07-23 14:18:45,407 - AnimePilgrimageScraper - INFO -   Found name 'B3F 田園都市線ホーム' with selector ('css selector', 'p')
+2026-07-23 14:18:45,457 - AnimePilgrimageScraper - INFO -   Found episode: 22 with selector ('css selector', 'span')
+2026-07-23 14:18:45,616 - AnimePilgrimageScraper - INFO -   Found name 'B3F 田園都市線ホーム' with selector ('css selector', 'p')
+2026-07-23 14:18:45,667 - AnimePilgrimageScraper - INFO -   Found episode: 22 with selector ('css selector', 'span')
+2026-07-23 14:18:46,011 - AnimePilgrimageScraper - INFO -   Found name 'B3F 田園都市線ホーム' with selector ('css selector', 'p')
+2026-07-23 14:18:46,061 - AnimePilgrimageScraper - INFO -   Found episode: 22 with selector ('css selector', 'span')
+2026-07-23 14:18:46,204 - AnimePilgrimageScraper - INFO -   Found name 'ファミリーマート 銀座木挽町通り店' with selector ('css selector', 'p')
+2026-07-23 14:18:46,258 - AnimePilgrimageScraper - INFO -   Found episode: 23 with selector ('css selector', 'span')
+2026-07-23 14:18:46,436 - AnimePilgrimageScraper - INFO -   Found name 'ファミリーマート 銀座木挽町通り店' with selector ('css selector', 'p')
+2026-07-23 14:18:46,490 - AnimePilgrimageScraper - INFO -   Found episode: 23 with selector ('css selector', 'span')
+2026-07-23 14:18:46,667 - AnimePilgrimageScraper - INFO -   Found name 'ファミリーマート 銀座木挽町通り店' with selector ('css selector', 'p')
+2026-07-23 14:18:46,714 - AnimePilgrimageScraper - INFO -   Found episode: 23 with selector ('css selector', 'span')
+2026-07-23 14:18:47,068 - AnimePilgrimageScraper - INFO -   Found name 'ファミリーマート 銀座木挽町通り店' with selector ('css selector', 'p')
+2026-07-23 14:18:47,118 - AnimePilgrimageScraper - INFO -   Found episode: 23 with selector ('css selector', 'span')
+2026-07-23 14:18:47,266 - AnimePilgrimageScraper - INFO -   Found name '飯田橋駅' with selector ('css selector', 'p')
+2026-07-23 14:18:47,316 - AnimePilgrimageScraper - INFO -   Found episode: 23 with selector ('css selector', 'span')
+2026-07-23 14:18:47,657 - AnimePilgrimageScraper - INFO -   Found name '飯田橋駅' with selector ('css selector', 'p')
+2026-07-23 14:18:47,703 - AnimePilgrimageScraper - INFO -   Found episode: 23 with selector ('css selector', 'span')
+2026-07-23 14:18:47,848 - AnimePilgrimageScraper - INFO -   Found name '佃大橋' with selector ('css selector', 'p')
+2026-07-23 14:18:47,897 - AnimePilgrimageScraper - INFO -   Found episode: 23 with selector ('css selector', 'span')
+2026-07-23 14:18:48,243 - AnimePilgrimageScraper - INFO -   Found name '佃大橋' with selector ('css selector', 'p')
+2026-07-23 14:18:48,291 - AnimePilgrimageScraper - INFO -   Found episode: 23 with selector ('css selector', 'span')
+2026-07-23 14:18:48,635 - AnimePilgrimageScraper - INFO -   Using first text line as name: '劇場版 呪術廻戦 0'
+2026-07-23 14:18:49,032 - AnimePilgrimageScraper - INFO -   Using first text line as name: '呪術廻戦'
+2026-07-23 14:18:49,437 - AnimePilgrimageScraper - INFO -   Using first text line as name: '呪術廻戦 死滅回遊'
+2026-07-23 14:18:49,829 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'ゾンビランドサガ'
+2026-07-23 14:18:50,216 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'チェンソーマン'
+2026-07-23 14:18:50,618 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'はじめの一歩 Rising'
+2026-07-23 14:18:51,798 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'DEATH NOTE'
+2026-07-23 14:18:52,194 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'ウマ娘 シンデレラグレイ'
+2026-07-23 14:18:52,589 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'ガールズバンドクライ'
+2026-07-23 14:18:55,544 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:18:55,742 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:18:55,937 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:18:56,142 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:20:15,354 - AnimePilgrimageScraper - INFO - Found 0 new points
+2026-07-23 14:20:15,354 - AnimePilgrimageScraper - INFO - No new points found for this anime
+2026-07-23 14:20:15,355 - AnimePilgrimageScraper - INFO - No updates found for anime '呪術廻戦 2期'
+2026-07-23 14:20:15,355 - AnimePilgrimageScraper - INFO - [10/18] Checking anime: 正反対な君と僕 第2期
+2026-07-23 14:20:15,512 - AnimePilgrimageScraper - INFO - Anime '正反対な君と僕 第2期' already exists in pic/data/index.json with ID 6169
+2026-07-23 14:20:15,527 - AnimePilgrimageScraper - INFO - Anime '正反対な君と僕 第2期' already exists with ID 6169, checking for updates
+2026-07-23 14:20:15,527 - AnimePilgrimageScraper - INFO - Updating existing anime: 正反対な君と僕 第2期 with ID 6169
+2026-07-23 14:20:15,527 - AnimePilgrimageScraper - INFO - Loaded 47 existing points from pic/data/6169/points.json
+2026-07-23 14:20:15,528 - AnimePilgrimageScraper - INFO - Loaded existing info from pic/data/6169/info.json
+2026-07-23 14:20:15,528 - AnimePilgrimageScraper - INFO - Scraping new points for anime: 正反対な君と僕 第2期
+2026-07-23 14:20:38,517 - AnimePilgrimageScraper - INFO - Page loaded, found element with selector: ('css selector', 'h1')
+2026-07-23 14:20:38,517 - AnimePilgrimageScraper - INFO - Scrolling to load all pilgrimage points...
+2026-07-23 14:20:44,577 - AnimePilgrimageScraper - INFO - Found 96 pilgrimage points with selector: ('css selector', "div[class*='map']")
+2026-07-23 14:20:44,577 - AnimePilgrimageScraper - INFO - Processing 96 pilgrimage points
+2026-07-23 14:20:44,577 - AnimePilgrimageScraper - INFO - Found 1 existing point coordinates
+2026-07-23 14:20:46,393 - AnimePilgrimageScraper - INFO -   Found name '関連作品' with selector ('css selector', 'h2')
+2026-07-23 14:20:46,496 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:20:47,554 - AnimePilgrimageScraper - INFO -   Found name '関連作品' with selector ('css selector', 'h2')
+2026-07-23 14:20:47,656 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:20:47,967 - AnimePilgrimageScraper - INFO -   Found name '関連作品' with selector ('css selector', 'h2')
+2026-07-23 14:20:48,068 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:20:48,405 - AnimePilgrimageScraper - INFO -   Found name '阿賀沢紅茶' with selector ('css selector', 'strong')
+2026-07-23 14:20:48,771 - AnimePilgrimageScraper - INFO -   Found name '阿賀沢紅茶' with selector ('css selector', 'strong')
+2026-07-23 14:20:49,243 - AnimePilgrimageScraper - INFO -   Found name '2026/7/20' with selector ('css selector', 'span')
+2026-07-23 14:20:49,979 - AnimePilgrimageScraper - INFO -   Using first text line as name: '東京都'
+2026-07-23 14:20:50,191 - AnimePilgrimageScraper - INFO -   Found name '貢献者' with selector ('css selector', 'span')
+2026-07-23 14:20:50,601 - AnimePilgrimageScraper - INFO -   Using first text line as name: '概要'
+2026-07-23 14:20:50,773 - AnimePilgrimageScraper - INFO -   Found name '美しが丘西一丁目 バス停' with selector ('css selector', 'p')
+2026-07-23 14:20:50,830 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:20:51,027 - AnimePilgrimageScraper - INFO -   Found name '美しが丘西一丁目 バス停' with selector ('css selector', 'p')
+2026-07-23 14:20:51,096 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:20:51,301 - AnimePilgrimageScraper - INFO -   Found name '美しが丘西一丁目 バス停' with selector ('css selector', 'p')
+2026-07-23 14:20:51,352 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:20:51,549 - AnimePilgrimageScraper - INFO -   Found name '美しが丘西一丁目 バス停' with selector ('css selector', 'p')
+2026-07-23 14:20:51,601 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:20:51,774 - AnimePilgrimageScraper - INFO -   Found name '美しが丘西一丁目 バス停' with selector ('css selector', 'p')
+2026-07-23 14:20:51,820 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:20:51,997 - AnimePilgrimageScraper - INFO -   Found name '美しが丘西一丁目 バス停' with selector ('css selector', 'p')
+2026-07-23 14:20:52,042 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:20:52,355 - AnimePilgrimageScraper - INFO -   Found name '美しが丘西一丁目 バス停' with selector ('css selector', 'p')
+2026-07-23 14:20:52,401 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:20:52,535 - AnimePilgrimageScraper - INFO -   Found name 'みたかスペースあい' with selector ('css selector', 'p')
+2026-07-23 14:20:52,582 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:20:52,904 - AnimePilgrimageScraper - INFO -   Found name 'みたかスペースあい' with selector ('css selector', 'p')
+2026-07-23 14:20:52,950 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:20:53,114 - AnimePilgrimageScraper - INFO -   Found name 'パルモ三鷹整骨院' with selector ('css selector', 'p')
+2026-07-23 14:20:53,160 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:20:53,476 - AnimePilgrimageScraper - INFO -   Found name 'パルモ三鷹整骨院' with selector ('css selector', 'p')
+2026-07-23 14:20:53,521 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:20:53,652 - AnimePilgrimageScraper - INFO -   Found name 'パルモ三鷹整骨院' with selector ('css selector', 'p')
+2026-07-23 14:20:53,697 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:20:54,019 - AnimePilgrimageScraper - INFO -   Found name 'パルモ三鷹整骨院' with selector ('css selector', 'p')
+2026-07-23 14:20:54,064 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:20:54,198 - AnimePilgrimageScraper - INFO -   Found name '吉祥寺駅' with selector ('css selector', 'p')
+2026-07-23 14:20:54,252 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:20:54,418 - AnimePilgrimageScraper - INFO -   Found name '吉祥寺駅' with selector ('css selector', 'p')
+2026-07-23 14:20:54,464 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:20:54,622 - AnimePilgrimageScraper - INFO -   Found name '吉祥寺駅' with selector ('css selector', 'p')
+2026-07-23 14:20:54,667 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:20:54,982 - AnimePilgrimageScraper - INFO -   Found name '吉祥寺駅' with selector ('css selector', 'p')
+2026-07-23 14:20:55,027 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:20:55,162 - AnimePilgrimageScraper - INFO -   Found name '吉祥寺駅' with selector ('css selector', 'p')
+2026-07-23 14:20:55,209 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:20:55,555 - AnimePilgrimageScraper - INFO -   Found name '吉祥寺駅' with selector ('css selector', 'p')
+2026-07-23 14:20:55,600 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:20:55,919 - AnimePilgrimageScraper - INFO -   Using first text line as name: '「正反対な君と僕」'
+2026-07-23 14:20:56,278 - AnimePilgrimageScraper - INFO -   Using first text line as name: '氷の城壁'
+2026-07-23 14:20:56,635 - AnimePilgrimageScraper - INFO -   Using first text line as name: '小市民シリーズ'
+2026-07-23 14:20:56,998 - AnimePilgrimageScraper - INFO -   Using first text line as name: '小市民シリーズ 2期'
+2026-07-23 14:20:57,357 - AnimePilgrimageScraper - INFO -   Using first text line as name: '藤本タツキ 17-26'
+2026-07-23 14:20:57,719 - AnimePilgrimageScraper - INFO -   Using first text line as name: '【推しの子】第2期'
+2026-07-23 14:20:58,109 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'Fate/stay night: Unlimited Blade Works'
+2026-07-23 14:20:58,467 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'NEW GAME!'
+2026-07-23 14:21:01,593 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:21:01,779 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:21:01,962 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:21:02,144 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:21:03,551 - AnimePilgrimageScraper - INFO - Found 0 new points
+2026-07-23 14:21:03,551 - AnimePilgrimageScraper - INFO - No new points found for this anime
+2026-07-23 14:21:03,551 - AnimePilgrimageScraper - INFO - No updates found for anime '正反対な君と僕 第2期'
+2026-07-23 14:21:03,552 - AnimePilgrimageScraper - INFO - [11/18] Checking anime: デート・ア・ライブ
+2026-07-23 14:21:03,706 - AnimePilgrimageScraper - INFO - Anime 'デート・ア・ライブ' already exists in pic/data/index.json with ID 277
+2026-07-23 14:21:03,721 - AnimePilgrimageScraper - INFO - Anime 'デート・ア・ライブ' already exists with ID 277, checking for updates
+2026-07-23 14:21:03,721 - AnimePilgrimageScraper - INFO - Updating existing anime: デート・ア・ライブ with ID 277
+2026-07-23 14:21:03,721 - AnimePilgrimageScraper - ERROR - Error loading existing points data: 'list' object has no attribute 'get'
+2026-07-23 14:21:03,721 - AnimePilgrimageScraper - INFO - No updates found for anime 'デート・ア・ライブ'
+2026-07-23 14:21:03,722 - AnimePilgrimageScraper - INFO - [12/18] Checking anime: ソードアート・オンライン II
+2026-07-23 14:21:03,880 - AnimePilgrimageScraper - INFO - Anime 'ソードアート・オンライン II' already exists in pic/data/index.json with ID 6181
+2026-07-23 14:21:03,895 - AnimePilgrimageScraper - INFO - Anime 'ソードアート・オンライン II' already exists with ID 6181, checking for updates
+2026-07-23 14:21:03,895 - AnimePilgrimageScraper - INFO - Updating existing anime: ソードアート・オンライン II with ID 6181
+2026-07-23 14:21:03,896 - AnimePilgrimageScraper - INFO - Loaded 196 existing points from pic/data/6181/points.json
+2026-07-23 14:21:03,896 - AnimePilgrimageScraper - INFO - Loaded existing info from pic/data/6181/info.json
+2026-07-23 14:21:03,896 - AnimePilgrimageScraper - INFO - Scraping new points for anime: ソードアート・オンライン II
+2026-07-23 14:21:24,361 - AnimePilgrimageScraper - INFO - Page loaded, found element with selector: ('css selector', 'h1')
+2026-07-23 14:21:24,361 - AnimePilgrimageScraper - INFO - Scrolling to load all pilgrimage points...
+2026-07-23 14:21:30,425 - AnimePilgrimageScraper - INFO - Found 196 pilgrimage points with selector: ('css selector', "div[class*='map']")
+2026-07-23 14:21:30,425 - AnimePilgrimageScraper - INFO - Processing 196 pilgrimage points
+2026-07-23 14:21:30,426 - AnimePilgrimageScraper - INFO - Found 1 existing point coordinates
+2026-07-23 14:21:32,273 - AnimePilgrimageScraper - INFO -   Found name '関連作品' with selector ('css selector', 'h2')
+2026-07-23 14:21:32,372 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:21:33,572 - AnimePilgrimageScraper - INFO -   Found name '関連作品' with selector ('css selector', 'h2')
+2026-07-23 14:21:33,676 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:21:34,146 - AnimePilgrimageScraper - INFO -   Found name '関連作品' with selector ('css selector', 'h2')
+2026-07-23 14:21:34,245 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:21:34,783 - AnimePilgrimageScraper - INFO -   Found name '川原礫' with selector ('css selector', 'strong')
+2026-07-23 14:21:35,208 - AnimePilgrimageScraper - INFO -   Found name '川原礫' with selector ('css selector', 'strong')
+2026-07-23 14:21:35,608 - AnimePilgrimageScraper - INFO -   Found name '2026/7/17' with selector ('css selector', 'span')
+2026-07-23 14:21:36,359 - AnimePilgrimageScraper - INFO -   Using first text line as name: '東京都'
+2026-07-23 14:21:36,587 - AnimePilgrimageScraper - INFO -   Found name 'アニヴェルセル 表参道' with selector ('css selector', 'p')
+2026-07-23 14:21:36,645 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:21:36,939 - AnimePilgrimageScraper - INFO -   Found name 'アニヴェルセル 表参道' with selector ('css selector', 'p')
+2026-07-23 14:21:36,996 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:21:37,152 - AnimePilgrimageScraper - INFO -   Found name 'アニヴェルセル 表参道' with selector ('css selector', 'p')
+2026-07-23 14:21:37,204 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:21:37,353 - AnimePilgrimageScraper - INFO -   Found name 'アニヴェルセル 表参道' with selector ('css selector', 'p')
+2026-07-23 14:21:37,405 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:21:37,551 - AnimePilgrimageScraper - INFO -   Found name 'アニヴェルセル 表参道' with selector ('css selector', 'p')
+2026-07-23 14:21:37,596 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:21:37,744 - AnimePilgrimageScraper - INFO -   Found name 'アニヴェルセル 表参道' with selector ('css selector', 'p')
+2026-07-23 14:21:37,791 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:21:38,113 - AnimePilgrimageScraper - INFO -   Found name 'アニヴェルセル 表参道' with selector ('css selector', 'p')
+2026-07-23 14:21:38,159 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:21:38,301 - AnimePilgrimageScraper - INFO -   Found name '大手町駅' with selector ('css selector', 'p')
+2026-07-23 14:21:38,360 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:21:38,636 - AnimePilgrimageScraper - INFO -   Found name '大手町駅' with selector ('css selector', 'p')
+2026-07-23 14:21:38,689 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:21:38,971 - AnimePilgrimageScraper - INFO -   Found name '大手町駅' with selector ('css selector', 'p')
+2026-07-23 14:21:39,023 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:21:39,244 - AnimePilgrimageScraper - INFO -   Found name '大手町駅' with selector ('css selector', 'p')
+2026-07-23 14:21:39,292 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:21:39,514 - AnimePilgrimageScraper - INFO -   Found name '大手町駅' with selector ('css selector', 'p')
+2026-07-23 14:21:39,562 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:21:39,896 - AnimePilgrimageScraper - INFO -   Found name '大手町駅' with selector ('css selector', 'p')
+2026-07-23 14:21:39,946 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:21:40,118 - AnimePilgrimageScraper - INFO -   Found name '大手門' with selector ('css selector', 'p')
+2026-07-23 14:21:40,163 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:21:40,484 - AnimePilgrimageScraper - INFO -   Found name '大手門' with selector ('css selector', 'p')
+2026-07-23 14:21:40,533 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:21:40,669 - AnimePilgrimageScraper - INFO -   Found name '大手三之門跡' with selector ('css selector', 'p')
+2026-07-23 14:21:40,715 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:21:41,072 - AnimePilgrimageScraper - INFO -   Found name '大手三之門跡' with selector ('css selector', 'p')
+2026-07-23 14:21:41,123 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:21:41,255 - AnimePilgrimageScraper - INFO -   Found name '中雀門跡' with selector ('css selector', 'p')
+2026-07-23 14:21:41,301 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:21:41,613 - AnimePilgrimageScraper - INFO -   Found name '中雀門跡' with selector ('css selector', 'p')
+2026-07-23 14:21:41,658 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:21:41,793 - AnimePilgrimageScraper - INFO -   Found name '江戸城跡' with selector ('css selector', 'p')
+2026-07-23 14:21:41,839 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:21:42,163 - AnimePilgrimageScraper - INFO -   Found name '江戸城跡' with selector ('css selector', 'p')
+2026-07-23 14:21:42,210 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:21:42,343 - AnimePilgrimageScraper - INFO -   Found name '本丸跡' with selector ('css selector', 'p')
+2026-07-23 14:21:42,390 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:21:42,703 - AnimePilgrimageScraper - INFO -   Found name '本丸跡' with selector ('css selector', 'p')
+2026-07-23 14:21:42,749 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:21:42,883 - AnimePilgrimageScraper - INFO -   Found name '本丸跡' with selector ('css selector', 'p')
+2026-07-23 14:21:42,930 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:21:43,255 - AnimePilgrimageScraper - INFO -   Found name '本丸跡' with selector ('css selector', 'p')
+2026-07-23 14:21:43,302 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:21:43,439 - AnimePilgrimageScraper - INFO -   Found name '上野500バル' with selector ('css selector', 'p')
+2026-07-23 14:21:43,492 - AnimePilgrimageScraper - INFO -   Found episode: 3 with selector ('css selector', 'span')
+2026-07-23 14:21:43,637 - AnimePilgrimageScraper - INFO -   Found name '上野500バル' with selector ('css selector', 'p')
+2026-07-23 14:21:43,682 - AnimePilgrimageScraper - INFO -   Found episode: 3 with selector ('css selector', 'span')
+2026-07-23 14:21:43,832 - AnimePilgrimageScraper - INFO -   Found name '上野500バル' with selector ('css selector', 'p')
+2026-07-23 14:21:43,877 - AnimePilgrimageScraper - INFO -   Found episode: 3 with selector ('css selector', 'span')
+2026-07-23 14:21:44,201 - AnimePilgrimageScraper - INFO -   Found name '上野500バル' with selector ('css selector', 'p')
+2026-07-23 14:21:44,246 - AnimePilgrimageScraper - INFO -   Found episode: 3 with selector ('css selector', 'span')
+2026-07-23 14:21:44,383 - AnimePilgrimageScraper - INFO -   Found name '資生堂パーラー 銀座本店ショップ' with selector ('css selector', 'p')
+2026-07-23 14:21:44,433 - AnimePilgrimageScraper - INFO -   Found episode: 14 with selector ('css selector', 'span')
+2026-07-23 14:21:44,582 - AnimePilgrimageScraper - INFO -   Found name '資生堂パーラー 銀座本店ショップ' with selector ('css selector', 'p')
+2026-07-23 14:21:44,627 - AnimePilgrimageScraper - INFO -   Found episode: 14 with selector ('css selector', 'span')
+2026-07-23 14:21:44,776 - AnimePilgrimageScraper - INFO -   Found name '資生堂パーラー 銀座本店ショップ' with selector ('css selector', 'p')
+2026-07-23 14:21:44,822 - AnimePilgrimageScraper - INFO -   Found episode: 14 with selector ('css selector', 'span')
+2026-07-23 14:21:45,139 - AnimePilgrimageScraper - INFO -   Found name '資生堂パーラー 銀座本店ショップ' with selector ('css selector', 'p')
+2026-07-23 14:21:45,194 - AnimePilgrimageScraper - INFO -   Found episode: 14 with selector ('css selector', 'span')
+2026-07-23 14:21:45,328 - AnimePilgrimageScraper - INFO -   Found name '京都駅' with selector ('css selector', 'p')
+2026-07-23 14:21:45,383 - AnimePilgrimageScraper - INFO -   Found episode: 24 with selector ('css selector', 'span')
+2026-07-23 14:21:45,572 - AnimePilgrimageScraper - INFO -   Found name '京都駅' with selector ('css selector', 'p')
+2026-07-23 14:21:45,619 - AnimePilgrimageScraper - INFO -   Found episode: 24 with selector ('css selector', 'span')
+2026-07-23 14:21:45,800 - AnimePilgrimageScraper - INFO -   Found name '京都駅' with selector ('css selector', 'p')
+2026-07-23 14:21:45,846 - AnimePilgrimageScraper - INFO -   Found episode: 24 with selector ('css selector', 'span')
+2026-07-23 14:21:46,210 - AnimePilgrimageScraper - INFO -   Found name '京都駅' with selector ('css selector', 'p')
+2026-07-23 14:21:46,256 - AnimePilgrimageScraper - INFO -   Found episode: 24 with selector ('css selector', 'span')
+2026-07-23 14:21:46,391 - AnimePilgrimageScraper - INFO -   Found name '清水寺' with selector ('css selector', 'p')
+2026-07-23 14:21:46,436 - AnimePilgrimageScraper - INFO -   Found episode: 24 with selector ('css selector', 'span')
+2026-07-23 14:21:46,756 - AnimePilgrimageScraper - INFO -   Found name '清水寺' with selector ('css selector', 'p')
+2026-07-23 14:21:46,801 - AnimePilgrimageScraper - INFO -   Found episode: 24 with selector ('css selector', 'span')
+2026-07-23 14:21:46,943 - AnimePilgrimageScraper - INFO -   Found name '嵐山竹林の小径' with selector ('css selector', 'p')
+2026-07-23 14:21:46,994 - AnimePilgrimageScraper - INFO -   Found episode: 24 with selector ('css selector', 'span')
+2026-07-23 14:21:47,324 - AnimePilgrimageScraper - INFO -   Found name '嵐山竹林の小径' with selector ('css selector', 'p')
+2026-07-23 14:21:47,372 - AnimePilgrimageScraper - INFO -   Found episode: 24 with selector ('css selector', 'span')
+2026-07-23 14:21:47,506 - AnimePilgrimageScraper - INFO -   Found name '本丸跡' with selector ('css selector', 'p')
+2026-07-23 14:21:47,558 - AnimePilgrimageScraper - INFO -   Found episode: 24 with selector ('css selector', 'span')
+2026-07-23 14:21:47,886 - AnimePilgrimageScraper - INFO -   Found name '本丸跡' with selector ('css selector', 'p')
+2026-07-23 14:21:47,936 - AnimePilgrimageScraper - INFO -   Found episode: 24 with selector ('css selector', 'span')
+2026-07-23 14:21:48,275 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'ソードアート・オンライン'
+2026-07-23 14:21:48,659 - AnimePilgrimageScraper - INFO -   Using first text line as name: '劇場版 ソードアート・オンライン オーディナル・スケール'
+2026-07-23 14:21:49,030 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'あの日見た花の名前を僕達はまだ知らない。'
+2026-07-23 14:21:49,405 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'かぐや様は告らせたい 大人への階段'
+2026-07-23 14:21:49,776 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜'
+2026-07-23 14:21:52,802 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'DEATH NOTE'
+2026-07-23 14:21:53,177 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'NEW GAME!'
+2026-07-23 14:21:53,549 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'アポカリプスホテル'
+2026-07-23 14:21:56,687 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:21:56,873 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:21:57,066 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:21:57,257 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:22:13,482 - AnimePilgrimageScraper - INFO - Found 0 new points
+2026-07-23 14:22:13,482 - AnimePilgrimageScraper - INFO - No new points found for this anime
+2026-07-23 14:22:13,483 - AnimePilgrimageScraper - INFO - No updates found for anime 'ソードアート・オンライン II'
+2026-07-23 14:22:13,483 - AnimePilgrimageScraper - INFO - [13/18] Checking anime: ヤニねこ
+2026-07-23 14:22:13,640 - AnimePilgrimageScraper - INFO - Anime 'ヤニねこ' already exists in pic/data/index.json with ID 6179
+2026-07-23 14:22:13,656 - AnimePilgrimageScraper - INFO - Anime 'ヤニねこ' already exists with ID 6179, checking for updates
+2026-07-23 14:22:13,656 - AnimePilgrimageScraper - INFO - Updating existing anime: ヤニねこ with ID 6179
+2026-07-23 14:22:13,656 - AnimePilgrimageScraper - INFO - Loaded 44 existing points from pic/data/6179/points.json
+2026-07-23 14:22:13,656 - AnimePilgrimageScraper - INFO - Loaded existing info from pic/data/6179/info.json
+2026-07-23 14:22:13,656 - AnimePilgrimageScraper - INFO - Scraping new points for anime: ヤニねこ
+2026-07-23 14:22:36,528 - AnimePilgrimageScraper - INFO - Page loaded, found element with selector: ('css selector', 'h1')
+2026-07-23 14:22:36,528 - AnimePilgrimageScraper - INFO - Scrolling to load all pilgrimage points...
+2026-07-23 14:22:42,582 - AnimePilgrimageScraper - INFO - Found 57 pilgrimage points with selector: ('css selector', "div[class*='map']")
+2026-07-23 14:22:42,582 - AnimePilgrimageScraper - INFO - Processing 57 pilgrimage points
+2026-07-23 14:22:42,582 - AnimePilgrimageScraper - INFO - Found 1 existing point coordinates
+2026-07-23 14:22:44,404 - AnimePilgrimageScraper - INFO -   Found name '同じスタジオの作品' with selector ('css selector', 'h2')
+2026-07-23 14:22:44,506 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:22:45,402 - AnimePilgrimageScraper - INFO -   Found name '同じスタジオの作品' with selector ('css selector', 'h2')
+2026-07-23 14:22:45,505 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:22:45,653 - AnimePilgrimageScraper - INFO -   Found name '同じスタジオの作品' with selector ('css selector', 'h2')
+2026-07-23 14:22:45,752 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:22:45,930 - AnimePilgrimageScraper - INFO -   Found name 'にゃんにゃんファクトリー' with selector ('css selector', 'strong')
+2026-07-23 14:22:46,294 - AnimePilgrimageScraper - INFO -   Found name 'にゃんにゃんファクトリー' with selector ('css selector', 'strong')
+2026-07-23 14:22:46,742 - AnimePilgrimageScraper - INFO -   Found name '2026/7/16' with selector ('css selector', 'span')
+2026-07-23 14:22:47,495 - AnimePilgrimageScraper - INFO -   Using first text line as name: '神奈川県'
+2026-07-23 14:22:47,683 - AnimePilgrimageScraper - INFO -   Found name '貢献者' with selector ('css selector', 'span')
+2026-07-23 14:22:48,060 - AnimePilgrimageScraper - INFO -   Using first text line as name: '概要'
+2026-07-23 14:22:48,231 - AnimePilgrimageScraper - INFO -   Found name '相模原市役所' with selector ('css selector', 'p')
+2026-07-23 14:22:48,288 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:22:48,429 - AnimePilgrimageScraper - INFO -   Found name '相模原市役所' with selector ('css selector', 'p')
+2026-07-23 14:22:48,486 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:22:48,628 - AnimePilgrimageScraper - INFO -   Found name '相模原市役所' with selector ('css selector', 'p')
+2026-07-23 14:22:48,684 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:22:48,823 - AnimePilgrimageScraper - INFO -   Found name '相模原市役所' with selector ('css selector', 'p')
+2026-07-23 14:22:48,875 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:22:49,017 - AnimePilgrimageScraper - INFO -   Found name '相模原市役所' with selector ('css selector', 'p')
+2026-07-23 14:22:49,063 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:22:49,202 - AnimePilgrimageScraper - INFO -   Found name '相模原市役所' with selector ('css selector', 'p')
+2026-07-23 14:22:49,247 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:22:49,557 - AnimePilgrimageScraper - INFO -   Found name '相模原市役所' with selector ('css selector', 'p')
+2026-07-23 14:22:49,602 - AnimePilgrimageScraper - INFO -   Found episode: 2 with selector ('css selector', 'span')
+2026-07-23 14:22:49,952 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'ウィッチウォッチ'
+2026-07-23 14:22:50,306 - AnimePilgrimageScraper - INFO -   Using first text line as name: '五等分の花嫁∬'
+2026-07-23 14:22:50,664 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'スローループ'
+2026-07-23 14:22:51,036 - AnimePilgrimageScraper - INFO -   Using first text line as name: '天久鷹央の推理カルテ'
+2026-07-23 14:22:51,396 - AnimePilgrimageScraper - INFO -   Using first text line as name: '未来日記'
+2026-07-23 14:22:51,577 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:22:51,772 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:22:51,953 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:22:52,162 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:22:53,527 - AnimePilgrimageScraper - INFO - Found 0 new points
+2026-07-23 14:22:53,527 - AnimePilgrimageScraper - INFO - No new points found for this anime
+2026-07-23 14:22:53,527 - AnimePilgrimageScraper - INFO - No updates found for anime 'ヤニねこ'
+2026-07-23 14:22:53,527 - AnimePilgrimageScraper - INFO - [14/18] Checking anime: GROTESQQQUE -グロテスク-
+2026-07-23 14:22:53,693 - AnimePilgrimageScraper - INFO - Anime 'GROTESQQQUE -グロテスク-' already exists in pic/data/index.json with ID 6171
+2026-07-23 14:22:53,708 - AnimePilgrimageScraper - INFO - Anime 'GROTESQQQUE -グロテスク-' already exists with ID 6171, checking for updates
+2026-07-23 14:22:53,708 - AnimePilgrimageScraper - INFO - Updating existing anime: GROTESQQQUE -グロテスク- with ID 6171
+2026-07-23 14:22:53,708 - AnimePilgrimageScraper - INFO - Loaded 45 existing points from pic/data/6171/points.json
+2026-07-23 14:22:53,709 - AnimePilgrimageScraper - INFO - Loaded existing info from pic/data/6171/info.json
+2026-07-23 14:22:53,709 - AnimePilgrimageScraper - INFO - Scraping new points for anime: GROTESQQQUE -グロテスク-
+2026-07-23 14:23:17,093 - AnimePilgrimageScraper - INFO - Page loaded, found element with selector: ('css selector', 'h1')
+2026-07-23 14:23:17,093 - AnimePilgrimageScraper - INFO - Scrolling to load all pilgrimage points...
+2026-07-23 14:23:23,154 - AnimePilgrimageScraper - INFO - Found 107 pilgrimage points with selector: ('css selector', "div[class*='map']")
+2026-07-23 14:23:23,154 - AnimePilgrimageScraper - INFO - Processing 107 pilgrimage points
+2026-07-23 14:23:23,154 - AnimePilgrimageScraper - INFO - Found 1 existing point coordinates
+2026-07-23 14:23:25,009 - AnimePilgrimageScraper - INFO -   Found name '同じスタジオの作品' with selector ('css selector', 'h2')
+2026-07-23 14:23:26,238 - AnimePilgrimageScraper - INFO -   Found name '同じスタジオの作品' with selector ('css selector', 'h2')
+2026-07-23 14:23:26,758 - AnimePilgrimageScraper - INFO -   Found name '同じスタジオの作品' with selector ('css selector', 'h2')
+2026-07-23 14:23:27,267 - AnimePilgrimageScraper - INFO -   Found name '錦織敦史' with selector ('css selector', 'strong')
+2026-07-23 14:23:27,678 - AnimePilgrimageScraper - INFO -   Found name '錦織敦史' with selector ('css selector', 'strong')
+2026-07-23 14:23:28,072 - AnimePilgrimageScraper - INFO -   Found name '2026/7/16' with selector ('css selector', 'span')
+2026-07-23 14:23:28,812 - AnimePilgrimageScraper - INFO -   Using first text line as name: '東京都'
+2026-07-23 14:23:29,018 - AnimePilgrimageScraper - INFO -   Found name '貢献者' with selector ('css selector', 'span')
+2026-07-23 14:23:29,401 - AnimePilgrimageScraper - INFO -   Using first text line as name: '概要'
+2026-07-23 14:23:29,572 - AnimePilgrimageScraper - INFO -   Found name '歌舞伎町一番街アーチ' with selector ('css selector', 'p')
+2026-07-23 14:23:29,849 - AnimePilgrimageScraper - INFO -   Found name '歌舞伎町一番街アーチ' with selector ('css selector', 'p')
+2026-07-23 14:23:30,135 - AnimePilgrimageScraper - INFO -   Found name '歌舞伎町一番街アーチ' with selector ('css selector', 'p')
+2026-07-23 14:23:30,406 - AnimePilgrimageScraper - INFO -   Found name '歌舞伎町一番街アーチ' with selector ('css selector', 'p')
+2026-07-23 14:23:30,672 - AnimePilgrimageScraper - INFO -   Found name '歌舞伎町一番街アーチ' with selector ('css selector', 'p')
+2026-07-23 14:23:30,932 - AnimePilgrimageScraper - INFO -   Found name '歌舞伎町一番街アーチ' with selector ('css selector', 'p')
+2026-07-23 14:23:31,298 - AnimePilgrimageScraper - INFO -   Found name '歌舞伎町一番街アーチ' with selector ('css selector', 'p')
+2026-07-23 14:23:31,479 - AnimePilgrimageScraper - INFO -   Found name '野郎ラーメン 渋谷センター街総本店' with selector ('css selector', 'p')
+2026-07-23 14:23:31,841 - AnimePilgrimageScraper - INFO -   Found name '野郎ラーメン 渋谷センター街総本店' with selector ('css selector', 'p')
+2026-07-23 14:23:32,022 - AnimePilgrimageScraper - INFO -   Found name '渋谷区交差点' with selector ('css selector', 'p')
+2026-07-23 14:23:32,391 - AnimePilgrimageScraper - INFO -   Found name '渋谷区交差点' with selector ('css selector', 'p')
+2026-07-23 14:23:32,574 - AnimePilgrimageScraper - INFO -   Found name '野郎ラーメン 渋谷センター街総本店' with selector ('css selector', 'p')
+2026-07-23 14:23:32,982 - AnimePilgrimageScraper - INFO -   Found name '野郎ラーメン 渋谷センター街総本店' with selector ('css selector', 'p')
+2026-07-23 14:23:33,167 - AnimePilgrimageScraper - INFO -   Found name '原宿警察署 神宮前交番' with selector ('css selector', 'p')
+2026-07-23 14:23:33,553 - AnimePilgrimageScraper - INFO -   Found name '原宿警察署 神宮前交番' with selector ('css selector', 'p')
+2026-07-23 14:23:33,924 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'PERSONA 5 the Animation'
+2026-07-23 14:23:34,287 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'その着せ替え人形は恋をする'
+2026-07-23 14:23:34,661 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'その着せ替え人形は恋をする Season 2'
+2026-07-23 14:23:38,345 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'DEATH NOTE'
+2026-07-23 14:23:38,707 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'ウマ娘 シンデレラグレイ'
+2026-07-23 14:23:39,070 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'ガールズバンドクライ'
+2026-07-23 14:23:42,501 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:23:42,680 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:23:42,858 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:23:43,044 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:23:44,430 - AnimePilgrimageScraper - INFO - Found 0 new points
+2026-07-23 14:23:44,431 - AnimePilgrimageScraper - INFO - No new points found for this anime
+2026-07-23 14:23:44,431 - AnimePilgrimageScraper - INFO - No updates found for anime 'GROTESQQQUE -グロテスク-'
+2026-07-23 14:23:44,431 - AnimePilgrimageScraper - INFO - [15/18] Checking anime: 呪術廻戦 死滅回遊
+2026-07-23 14:23:44,595 - AnimePilgrimageScraper - INFO - Anime '呪術廻戦 死滅回遊' already exists in pic/data/index.json with ID 6148
+2026-07-23 14:23:44,608 - AnimePilgrimageScraper - INFO - Anime '呪術廻戦 死滅回遊' already exists with ID 6148, checking for updates
+2026-07-23 14:23:44,609 - AnimePilgrimageScraper - INFO - Updating existing anime: 呪術廻戦 死滅回遊 with ID 6148
+2026-07-23 14:23:44,609 - AnimePilgrimageScraper - INFO - Loaded 15 existing points from pic/data/6148/points.json
+2026-07-23 14:23:44,609 - AnimePilgrimageScraper - INFO - Loaded existing info from pic/data/6148/info.json
+2026-07-23 14:23:44,609 - AnimePilgrimageScraper - INFO - Scraping new points for anime: 呪術廻戦 死滅回遊
+2026-07-23 14:24:07,895 - AnimePilgrimageScraper - INFO - Page loaded, found element with selector: ('css selector', 'h1')
+2026-07-23 14:24:07,895 - AnimePilgrimageScraper - INFO - Scrolling to load all pilgrimage points...
+2026-07-23 14:24:13,975 - AnimePilgrimageScraper - INFO - Found 499 pilgrimage points with selector: ('css selector', "div[class*='map']")
+2026-07-23 14:24:13,975 - AnimePilgrimageScraper - INFO - Processing 499 pilgrimage points
+2026-07-23 14:24:13,975 - AnimePilgrimageScraper - INFO - Found 1 existing point coordinates
+2026-07-23 14:24:15,898 - AnimePilgrimageScraper - INFO -   Found name '関連作品' with selector ('css selector', 'h2')
+2026-07-23 14:24:16,015 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:17,806 - AnimePilgrimageScraper - INFO -   Found name '関連作品' with selector ('css selector', 'h2')
+2026-07-23 14:24:17,922 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:18,978 - AnimePilgrimageScraper - INFO -   Found name '関連作品' with selector ('css selector', 'h2')
+2026-07-23 14:24:19,093 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:20,138 - AnimePilgrimageScraper - INFO -   Found name '芥見下々' with selector ('css selector', 'strong')
+2026-07-23 14:24:20,548 - AnimePilgrimageScraper - INFO -   Found name '芥見下々' with selector ('css selector', 'strong')
+2026-07-23 14:24:20,979 - AnimePilgrimageScraper - INFO -   Found name '2026/7/16' with selector ('css selector', 'span')
+2026-07-23 14:24:21,788 - AnimePilgrimageScraper - INFO -   Using first text line as name: '東京都'
+2026-07-23 14:24:22,030 - AnimePilgrimageScraper - INFO -   Found name '貢献者' with selector ('css selector', 'span')
+2026-07-23 14:24:22,449 - AnimePilgrimageScraper - INFO -   Using first text line as name: '概要'
+2026-07-23 14:24:22,633 - AnimePilgrimageScraper - INFO -   Found name 'コメダ珈琲店 新宿靖国通り店' with selector ('css selector', 'p')
+2026-07-23 14:24:22,704 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:23,539 - AnimePilgrimageScraper - INFO -   Found name 'コメダ珈琲店 新宿靖国通り店' with selector ('css selector', 'p')
+2026-07-23 14:24:23,606 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:23,845 - AnimePilgrimageScraper - INFO -   Found name 'コメダ珈琲店 新宿靖国通り店' with selector ('css selector', 'p')
+2026-07-23 14:24:23,900 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:24,139 - AnimePilgrimageScraper - INFO -   Found name 'コメダ珈琲店 新宿靖国通り店' with selector ('css selector', 'p')
+2026-07-23 14:24:24,195 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:24,464 - AnimePilgrimageScraper - INFO -   Found name 'コメダ珈琲店 新宿靖国通り店' with selector ('css selector', 'p')
+2026-07-23 14:24:24,514 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:24,764 - AnimePilgrimageScraper - INFO -   Found name 'コメダ珈琲店 新宿靖国通り店' with selector ('css selector', 'p')
+2026-07-23 14:24:24,814 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:25,171 - AnimePilgrimageScraper - INFO -   Found name 'コメダ珈琲店 新宿靖国通り店' with selector ('css selector', 'p')
+2026-07-23 14:24:25,221 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:25,364 - AnimePilgrimageScraper - INFO -   Found name 'ファミリーマート 渋谷松濤一丁目店' with selector ('css selector', 'p')
+2026-07-23 14:24:25,415 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:25,750 - AnimePilgrimageScraper - INFO -   Found name 'ファミリーマート 渋谷松濤一丁目店' with selector ('css selector', 'p')
+2026-07-23 14:24:25,797 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:25,943 - AnimePilgrimageScraper - INFO -   Found name '岡本太郎「明日の神話」' with selector ('css selector', 'p')
+2026-07-23 14:24:25,990 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:26,340 - AnimePilgrimageScraper - INFO -   Found name '岡本太郎「明日の神話」' with selector ('css selector', 'p')
+2026-07-23 14:24:26,395 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:26,538 - AnimePilgrimageScraper - INFO -   Found name '東京大学' with selector ('css selector', 'p')
+2026-07-23 14:24:26,593 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:26,935 - AnimePilgrimageScraper - INFO -   Found name '東京大学' with selector ('css selector', 'p')
+2026-07-23 14:24:27,016 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:27,156 - AnimePilgrimageScraper - INFO -   Found name '東京大学' with selector ('css selector', 'p')
+2026-07-23 14:24:27,203 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:27,543 - AnimePilgrimageScraper - INFO -   Found name '東京大学' with selector ('css selector', 'p')
+2026-07-23 14:24:27,592 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:27,730 - AnimePilgrimageScraper - INFO -   Found name 'SHIBUYA SKY' with selector ('css selector', 'p')
+2026-07-23 14:24:27,777 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:28,104 - AnimePilgrimageScraper - INFO -   Found name 'SHIBUYA SKY' with selector ('css selector', 'p')
+2026-07-23 14:24:28,150 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:28,287 - AnimePilgrimageScraper - INFO -   Found name '麗郷' with selector ('css selector', 'p')
+2026-07-23 14:24:28,335 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:28,670 - AnimePilgrimageScraper - INFO -   Found name '麗郷' with selector ('css selector', 'p')
+2026-07-23 14:24:28,718 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:28,859 - AnimePilgrimageScraper - INFO -   Found name 'Yoyogi Park Art Studio' with selector ('css selector', 'p')
+2026-07-23 14:24:28,906 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:29,237 - AnimePilgrimageScraper - INFO -   Found name 'Yoyogi Park Art Studio' with selector ('css selector', 'p')
+2026-07-23 14:24:29,286 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:29,427 - AnimePilgrimageScraper - INFO -   Found name '合衆国最高裁判所' with selector ('css selector', 'p')
+2026-07-23 14:24:29,510 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:29,845 - AnimePilgrimageScraper - INFO -   Found name '合衆国最高裁判所' with selector ('css selector', 'p')
+2026-07-23 14:24:29,894 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:30,035 - AnimePilgrimageScraper - INFO -   Found name '子宝湯' with selector ('css selector', 'p')
+2026-07-23 14:24:30,082 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:30,411 - AnimePilgrimageScraper - INFO -   Found name '子宝湯' with selector ('css selector', 'p')
+2026-07-23 14:24:30,459 - AnimePilgrimageScraper - INFO -   Found episode: OP1 with selector ('css selector', 'span')
+2026-07-23 14:24:30,605 - AnimePilgrimageScraper - INFO -   Found name '歌舞伎座' with selector ('css selector', 'p')
+2026-07-23 14:24:30,671 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:31,427 - AnimePilgrimageScraper - INFO -   Found name '歌舞伎座' with selector ('css selector', 'p')
+2026-07-23 14:24:31,487 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:32,250 - AnimePilgrimageScraper - INFO -   Found name '歌舞伎座' with selector ('css selector', 'p')
+2026-07-23 14:24:32,305 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:32,559 - AnimePilgrimageScraper - INFO -   Found name '歌舞伎座' with selector ('css selector', 'p')
+2026-07-23 14:24:32,609 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:32,854 - AnimePilgrimageScraper - INFO -   Found name '歌舞伎座' with selector ('css selector', 'p')
+2026-07-23 14:24:32,936 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:33,268 - AnimePilgrimageScraper - INFO -   Found name '歌舞伎座' with selector ('css selector', 'p')
+2026-07-23 14:24:33,315 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:33,456 - AnimePilgrimageScraper - INFO -   Found name '西川家別邸' with selector ('css selector', 'p')
+2026-07-23 14:24:33,503 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:33,835 - AnimePilgrimageScraper - INFO -   Found name '西川家別邸' with selector ('css selector', 'p')
+2026-07-23 14:24:33,884 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:34,028 - AnimePilgrimageScraper - INFO -   Found name '区境ホール' with selector ('css selector', 'p')
+2026-07-23 14:24:34,077 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:34,418 - AnimePilgrimageScraper - INFO -   Found name '区境ホール' with selector ('css selector', 'p')
+2026-07-23 14:24:34,466 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:34,611 - AnimePilgrimageScraper - INFO -   Found name '佃大橋' with selector ('css selector', 'p')
+2026-07-23 14:24:34,659 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:34,993 - AnimePilgrimageScraper - INFO -   Found name '佃大橋' with selector ('css selector', 'p')
+2026-07-23 14:24:35,039 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:35,181 - AnimePilgrimageScraper - INFO -   Found name '銀座一郵便局' with selector ('css selector', 'p')
+2026-07-23 14:24:35,229 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:35,588 - AnimePilgrimageScraper - INFO -   Found name '銀座一郵便局' with selector ('css selector', 'p')
+2026-07-23 14:24:35,636 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:35,777 - AnimePilgrimageScraper - INFO -   Found name '銀座一郵便局' with selector ('css selector', 'p')
+2026-07-23 14:24:35,823 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:36,154 - AnimePilgrimageScraper - INFO -   Found name '銀座一郵便局' with selector ('css selector', 'p')
+2026-07-23 14:24:36,203 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:36,343 - AnimePilgrimageScraper - INFO -   Found name 'コートヤード・マリオット銀座東武ホテル' with selector ('css selector', 'p')
+2026-07-23 14:24:36,389 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:36,719 - AnimePilgrimageScraper - INFO -   Found name 'コートヤード・マリオット銀座東武ホテル' with selector ('css selector', 'p')
+2026-07-23 14:24:36,768 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:36,914 - AnimePilgrimageScraper - INFO -   Found name 'ヤマト運輸 東銀座営業所' with selector ('css selector', 'p')
+2026-07-23 14:24:36,963 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:37,294 - AnimePilgrimageScraper - INFO -   Found name 'ヤマト運輸 東銀座営業所' with selector ('css selector', 'p')
+2026-07-23 14:24:37,342 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:37,484 - AnimePilgrimageScraper - INFO -   Found name '歌舞伎座' with selector ('css selector', 'p')
+2026-07-23 14:24:37,532 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:37,866 - AnimePilgrimageScraper - INFO -   Found name '歌舞伎座' with selector ('css selector', 'p')
+2026-07-23 14:24:37,944 - AnimePilgrimageScraper - INFO -   Found episode: 1 with selector ('css selector', 'span')
+2026-07-23 14:24:38,085 - AnimePilgrimageScraper - INFO -   Found name '大宮ラクーンよしもと劇場' with selector ('css selector', 'p')
+2026-07-23 14:24:38,142 - AnimePilgrimageScraper - INFO -   Found episode: 3 with selector ('css selector', 'span')
+2026-07-23 14:24:38,311 - AnimePilgrimageScraper - INFO -   Found name '大宮ラクーンよしもと劇場' with selector ('css selector', 'p')
+2026-07-23 14:24:38,360 - AnimePilgrimageScraper - INFO -   Found episode: 3 with selector ('css selector', 'span')
+2026-07-23 14:24:38,531 - AnimePilgrimageScraper - INFO -   Found name '大宮ラクーンよしもと劇場' with selector ('css selector', 'p')
+2026-07-23 14:24:38,580 - AnimePilgrimageScraper - INFO -   Found episode: 3 with selector ('css selector', 'span')
+2026-07-23 14:24:38,911 - AnimePilgrimageScraper - INFO -   Found name '大宮ラクーンよしもと劇場' with selector ('css selector', 'p')
+2026-07-23 14:24:38,959 - AnimePilgrimageScraper - INFO -   Found episode: 3 with selector ('css selector', 'span')
+2026-07-23 14:24:39,098 - AnimePilgrimageScraper - INFO -   Found name '大宮ラクーンよしもと劇場' with selector ('css selector', 'p')
+2026-07-23 14:24:39,147 - AnimePilgrimageScraper - INFO -   Found episode: 3 with selector ('css selector', 'span')
+2026-07-23 14:24:39,487 - AnimePilgrimageScraper - INFO -   Found name '大宮ラクーンよしもと劇場' with selector ('css selector', 'p')
+2026-07-23 14:24:39,535 - AnimePilgrimageScraper - INFO -   Found episode: 3 with selector ('css selector', 'span')
+2026-07-23 14:24:39,680 - AnimePilgrimageScraper - INFO -   Found name 'トナリエ 宇都宮' with selector ('css selector', 'p')
+2026-07-23 14:24:39,733 - AnimePilgrimageScraper - INFO -   Found episode: 5 with selector ('css selector', 'span')
+2026-07-23 14:24:39,892 - AnimePilgrimageScraper - INFO -   Found name 'トナリエ 宇都宮' with selector ('css selector', 'p')
+2026-07-23 14:24:39,938 - AnimePilgrimageScraper - INFO -   Found episode: 5 with selector ('css selector', 'span')
+2026-07-23 14:24:40,089 - AnimePilgrimageScraper - INFO -   Found name 'トナリエ 宇都宮' with selector ('css selector', 'p')
+2026-07-23 14:24:40,137 - AnimePilgrimageScraper - INFO -   Found episode: 5 with selector ('css selector', 'span')
+2026-07-23 14:24:40,495 - AnimePilgrimageScraper - INFO -   Found name 'トナリエ 宇都宮' with selector ('css selector', 'p')
+2026-07-23 14:24:40,544 - AnimePilgrimageScraper - INFO -   Found episode: 5 with selector ('css selector', 'span')
+2026-07-23 14:24:40,683 - AnimePilgrimageScraper - INFO -   Found name 'かむり大橋' with selector ('css selector', 'p')
+2026-07-23 14:24:40,735 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:24:40,970 - AnimePilgrimageScraper - INFO -   Found name 'かむり大橋' with selector ('css selector', 'p')
+2026-07-23 14:24:41,018 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:24:41,254 - AnimePilgrimageScraper - INFO -   Found name 'かむり大橋' with selector ('css selector', 'p')
+2026-07-23 14:24:41,303 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:24:41,647 - AnimePilgrimageScraper - INFO -   Found name 'かむり大橋' with selector ('css selector', 'p')
+2026-07-23 14:24:41,696 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:24:41,839 - AnimePilgrimageScraper - INFO -   Found name 'パタゴニア 仙台' with selector ('css selector', 'p')
+2026-07-23 14:24:41,887 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:24:42,223 - AnimePilgrimageScraper - INFO -   Found name 'パタゴニア 仙台' with selector ('css selector', 'p')
+2026-07-23 14:24:42,275 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:24:42,415 - AnimePilgrimageScraper - INFO -   Found name '東京芸術劇場' with selector ('css selector', 'p')
+2026-07-23 14:24:42,464 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:24:42,797 - AnimePilgrimageScraper - INFO -   Found name '東京芸術劇場' with selector ('css selector', 'p')
+2026-07-23 14:24:42,846 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:24:42,987 - AnimePilgrimageScraper - INFO -   Found name 'hairsalon de Forever' with selector ('css selector', 'p')
+2026-07-23 14:24:43,034 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:24:43,403 - AnimePilgrimageScraper - INFO -   Found name 'hairsalon de Forever' with selector ('css selector', 'p')
+2026-07-23 14:24:43,453 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:24:43,596 - AnimePilgrimageScraper - INFO -   Found name '中目黒アトラスタワー' with selector ('css selector', 'p')
+2026-07-23 14:24:43,644 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:24:43,977 - AnimePilgrimageScraper - INFO -   Found name '中目黒アトラスタワー' with selector ('css selector', 'p')
+2026-07-23 14:24:44,025 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:24:44,170 - AnimePilgrimageScraper - INFO -   Found name '正美堂セレモニーホール' with selector ('css selector', 'p')
+2026-07-23 14:24:44,218 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:24:44,572 - AnimePilgrimageScraper - INFO -   Found name '正美堂セレモニーホール' with selector ('css selector', 'p')
+2026-07-23 14:24:44,629 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:24:44,770 - AnimePilgrimageScraper - INFO -   Found name 'ナカノサウステラ' with selector ('css selector', 'p')
+2026-07-23 14:24:44,819 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:24:45,167 - AnimePilgrimageScraper - INFO -   Found name 'ナカノサウステラ' with selector ('css selector', 'p')
+2026-07-23 14:24:45,217 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:24:45,365 - AnimePilgrimageScraper - INFO -   Found name '岩森書店' with selector ('css selector', 'p')
+2026-07-23 14:24:45,415 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:24:45,830 - AnimePilgrimageScraper - INFO -   Found name '岩森書店' with selector ('css selector', 'p')
+2026-07-23 14:24:45,880 - AnimePilgrimageScraper - INFO -   Found episode: 7 with selector ('css selector', 'span')
+2026-07-23 14:24:46,023 - AnimePilgrimageScraper - INFO -   Found name '盛岡地方裁判所' with selector ('css selector', 'p')
+2026-07-23 14:24:46,081 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:46,347 - AnimePilgrimageScraper - INFO -   Found name '盛岡地方裁判所' with selector ('css selector', 'p')
+2026-07-23 14:24:46,398 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:46,661 - AnimePilgrimageScraper - INFO -   Found name '盛岡地方裁判所' with selector ('css selector', 'p')
+2026-07-23 14:24:46,711 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:47,066 - AnimePilgrimageScraper - INFO -   Found name '盛岡地方裁判所' with selector ('css selector', 'p')
+2026-07-23 14:24:47,115 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:47,261 - AnimePilgrimageScraper - INFO -   Found name '医大内丸メディカルセンター前（バス）' with selector ('css selector', 'p')
+2026-07-23 14:24:47,310 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:47,661 - AnimePilgrimageScraper - INFO -   Found name '医大内丸メディカルセンター前（バス）' with selector ('css selector', 'p')
+2026-07-23 14:24:47,711 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:47,855 - AnimePilgrimageScraper - INFO -   Found name 'エステティックサロンAILE 盛岡店' with selector ('css selector', 'p')
+2026-07-23 14:24:47,905 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:48,253 - AnimePilgrimageScraper - INFO -   Found name 'エステティックサロンAILE 盛岡店' with selector ('css selector', 'p')
+2026-07-23 14:24:48,301 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:48,448 - AnimePilgrimageScraper - INFO -   Found name '毘沙門橋' with selector ('css selector', 'p')
+2026-07-23 14:24:48,498 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:48,882 - AnimePilgrimageScraper - INFO -   Found name '毘沙門橋' with selector ('css selector', 'p')
+2026-07-23 14:24:48,932 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:49,078 - AnimePilgrimageScraper - INFO -   Found name '草のゆかり' with selector ('css selector', 'p')
+2026-07-23 14:24:49,127 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:49,468 - AnimePilgrimageScraper - INFO -   Found name '草のゆかり' with selector ('css selector', 'p')
+2026-07-23 14:24:49,517 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:49,663 - AnimePilgrimageScraper - INFO -   Found name 'ローソン 盛岡門店' with selector ('css selector', 'p')
+2026-07-23 14:24:49,712 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:50,064 - AnimePilgrimageScraper - INFO -   Found name 'ローソン 盛岡門店' with selector ('css selector', 'p')
+2026-07-23 14:24:50,113 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:50,259 - AnimePilgrimageScraper - INFO -   Found name 'やよい軒 要町店' with selector ('css selector', 'p')
+2026-07-23 14:24:50,309 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:50,661 - AnimePilgrimageScraper - INFO -   Found name 'やよい軒 要町店' with selector ('css selector', 'p')
+2026-07-23 14:24:50,715 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:50,872 - AnimePilgrimageScraper - INFO -   Found name '豊島区立池袋西口公園' with selector ('css selector', 'p')
+2026-07-23 14:24:50,926 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:51,316 - AnimePilgrimageScraper - INFO -   Found name '豊島区立池袋西口公園' with selector ('css selector', 'p')
+2026-07-23 14:24:51,369 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:51,520 - AnimePilgrimageScraper - INFO -   Found name 'シアターウエスト' with selector ('css selector', 'p')
+2026-07-23 14:24:51,570 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:51,935 - AnimePilgrimageScraper - INFO -   Found name 'シアターウエスト' with selector ('css selector', 'p')
+2026-07-23 14:24:51,988 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:52,145 - AnimePilgrimageScraper - INFO -   Found name 'スワローチェーン 中野店' with selector ('css selector', 'p')
+2026-07-23 14:24:52,198 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:52,554 - AnimePilgrimageScraper - INFO -   Found name 'スワローチェーン 中野店' with selector ('css selector', 'p')
+2026-07-23 14:24:52,609 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:24:52,765 - AnimePilgrimageScraper - INFO -   Found name '3rrrd' with selector ('css selector', 'p')
+2026-07-23 14:24:52,821 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:24:53,052 - AnimePilgrimageScraper - INFO -   Found name '3rrrd' with selector ('css selector', 'p')
+2026-07-23 14:24:53,104 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:24:53,330 - AnimePilgrimageScraper - INFO -   Found name '3rrrd' with selector ('css selector', 'p')
+2026-07-23 14:24:53,383 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:24:53,732 - AnimePilgrimageScraper - INFO -   Found name '3rrrd' with selector ('css selector', 'p')
+2026-07-23 14:24:53,781 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:24:53,948 - AnimePilgrimageScraper - INFO -   Found name '3rrrd' with selector ('css selector', 'p')
+2026-07-23 14:24:54,011 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:24:54,368 - AnimePilgrimageScraper - INFO -   Found name '3rrrd' with selector ('css selector', 'p')
+2026-07-23 14:24:54,420 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:24:54,570 - AnimePilgrimageScraper - INFO -   Found name '立教学院内郵便局' with selector ('css selector', 'p')
+2026-07-23 14:24:54,621 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:24:54,977 - AnimePilgrimageScraper - INFO -   Found name '立教学院内郵便局' with selector ('css selector', 'p')
+2026-07-23 14:24:55,026 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:24:55,171 - AnimePilgrimageScraper - INFO -   Found name '立教大学' with selector ('css selector', 'p')
+2026-07-23 14:24:55,226 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:24:55,582 - AnimePilgrimageScraper - INFO -   Found name '立教大学' with selector ('css selector', 'p')
+2026-07-23 14:24:55,635 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:24:55,785 - AnimePilgrimageScraper - INFO -   Found name '立教学院諸聖徒礼拝堂' with selector ('css selector', 'p')
+2026-07-23 14:24:55,837 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:24:56,177 - AnimePilgrimageScraper - INFO -   Found name '立教学院諸聖徒礼拝堂' with selector ('css selector', 'p')
+2026-07-23 14:24:56,226 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:24:56,368 - AnimePilgrimageScraper - INFO -   Found name '鐘山苑 別墅然然（べっしょ ささ）' with selector ('css selector', 'p')
+2026-07-23 14:24:56,419 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:24:56,811 - AnimePilgrimageScraper - INFO -   Found name '鐘山苑 別墅然然（べっしょ ささ）' with selector ('css selector', 'p')
+2026-07-23 14:24:56,860 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:24:57,003 - AnimePilgrimageScraper - INFO -   Found name '谷端川南緑道' with selector ('css selector', 'p')
+2026-07-23 14:24:57,060 - AnimePilgrimageScraper - INFO -   Found episode: 11 with selector ('css selector', 'span')
+2026-07-23 14:24:57,244 - AnimePilgrimageScraper - INFO -   Found name '谷端川南緑道' with selector ('css selector', 'p')
+2026-07-23 14:24:57,297 - AnimePilgrimageScraper - INFO -   Found episode: 11 with selector ('css selector', 'span')
+2026-07-23 14:24:57,486 - AnimePilgrimageScraper - INFO -   Found name '谷端川南緑道' with selector ('css selector', 'p')
+2026-07-23 14:24:57,537 - AnimePilgrimageScraper - INFO -   Found episode: 11 with selector ('css selector', 'span')
+2026-07-23 14:24:57,877 - AnimePilgrimageScraper - INFO -   Found name '谷端川南緑道' with selector ('css selector', 'p')
+2026-07-23 14:24:57,922 - AnimePilgrimageScraper - INFO -   Found episode: 11 with selector ('css selector', 'span')
+2026-07-23 14:24:58,059 - AnimePilgrimageScraper - INFO -   Found name 'ユアテックスタジアム仙台' with selector ('css selector', 'p')
+2026-07-23 14:24:58,105 - AnimePilgrimageScraper - INFO -   Found episode: 11 with selector ('css selector', 'span')
+2026-07-23 14:24:58,441 - AnimePilgrimageScraper - INFO -   Found name 'ユアテックスタジアム仙台' with selector ('css selector', 'p')
+2026-07-23 14:24:58,488 - AnimePilgrimageScraper - INFO -   Found episode: 11 with selector ('css selector', 'span')
+2026-07-23 14:24:58,632 - AnimePilgrimageScraper - INFO -   Found name '仙台市泉図書館' with selector ('css selector', 'p')
+2026-07-23 14:24:58,680 - AnimePilgrimageScraper - INFO -   Found episode: 11 with selector ('css selector', 'span')
+2026-07-23 14:24:59,009 - AnimePilgrimageScraper - INFO -   Found name '仙台市泉図書館' with selector ('css selector', 'p')
+2026-07-23 14:24:59,055 - AnimePilgrimageScraper - INFO -   Found episode: 11 with selector ('css selector', 'span')
+2026-07-23 14:24:59,227 - AnimePilgrimageScraper - INFO -   Found name 'かむり大橋' with selector ('css selector', 'p')
+2026-07-23 14:24:59,286 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:24:59,598 - AnimePilgrimageScraper - INFO -   Found name 'かむり大橋' with selector ('css selector', 'p')
+2026-07-23 14:24:59,649 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:24:59,960 - AnimePilgrimageScraper - INFO -   Found name 'かむり大橋' with selector ('css selector', 'p')
+2026-07-23 14:25:00,016 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:00,377 - AnimePilgrimageScraper - INFO -   Found name 'かむり大橋' with selector ('css selector', 'p')
+2026-07-23 14:25:00,431 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:00,585 - AnimePilgrimageScraper - INFO -   Found name '市名坂さくら公園' with selector ('css selector', 'p')
+2026-07-23 14:25:00,638 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:00,998 - AnimePilgrimageScraper - INFO -   Found name '市名坂さくら公園' with selector ('css selector', 'p')
+2026-07-23 14:25:01,047 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:01,193 - AnimePilgrimageScraper - INFO -   Found name '七北田公園庭球場' with selector ('css selector', 'p')
+2026-07-23 14:25:01,243 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:01,644 - AnimePilgrimageScraper - INFO -   Found name '七北田公園庭球場' with selector ('css selector', 'p')
+2026-07-23 14:25:01,700 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:01,869 - AnimePilgrimageScraper - INFO -   Found name '仙台市博物館' with selector ('css selector', 'p')
+2026-07-23 14:25:01,927 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:02,315 - AnimePilgrimageScraper - INFO -   Found name '仙台市博物館' with selector ('css selector', 'p')
+2026-07-23 14:25:02,363 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:02,502 - AnimePilgrimageScraper - INFO -   Found name 'ステーキ宮 仙台八乙女店' with selector ('css selector', 'p')
+2026-07-23 14:25:02,549 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:02,877 - AnimePilgrimageScraper - INFO -   Found name 'ステーキ宮 仙台八乙女店' with selector ('css selector', 'p')
+2026-07-23 14:25:02,924 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:03,070 - AnimePilgrimageScraper - INFO -   Found name 'ズーズーカンパニー八乙女店' with selector ('css selector', 'p')
+2026-07-23 14:25:03,120 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:03,470 - AnimePilgrimageScraper - INFO -   Found name 'ズーズーカンパニー八乙女店' with selector ('css selector', 'p')
+2026-07-23 14:25:03,522 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:03,668 - AnimePilgrimageScraper - INFO -   Found name 'ＳＡＫＡＥ泉中央ビル' with selector ('css selector', 'p')
+2026-07-23 14:25:03,716 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:04,053 - AnimePilgrimageScraper - INFO -   Found name 'ＳＡＫＡＥ泉中央ビル' with selector ('css selector', 'p')
+2026-07-23 14:25:04,110 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:04,250 - AnimePilgrimageScraper - INFO -   Found name '仙台市泉図書館' with selector ('css selector', 'p')
+2026-07-23 14:25:04,298 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:04,642 - AnimePilgrimageScraper - INFO -   Found name '仙台市泉図書館' with selector ('css selector', 'p')
+2026-07-23 14:25:04,694 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:04,879 - AnimePilgrimageScraper - INFO -   Found name '泉中央駅ビルSWING' with selector ('css selector', 'p')
+2026-07-23 14:25:04,927 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:05,258 - AnimePilgrimageScraper - INFO -   Found name '泉中央駅ビルSWING' with selector ('css selector', 'p')
+2026-07-23 14:25:05,305 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:05,443 - AnimePilgrimageScraper - INFO -   Found name 'セルバ' with selector ('css selector', 'p')
+2026-07-23 14:25:05,489 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:05,818 - AnimePilgrimageScraper - INFO -   Found name 'セルバ' with selector ('css selector', 'p')
+2026-07-23 14:25:05,867 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:06,008 - AnimePilgrimageScraper - INFO -   Found name 'タイムズ泉中央駐車場' with selector ('css selector', 'p')
+2026-07-23 14:25:06,055 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:06,396 - AnimePilgrimageScraper - INFO -   Found name 'タイムズ泉中央駐車場' with selector ('css selector', 'p')
+2026-07-23 14:25:06,445 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:06,584 - AnimePilgrimageScraper - INFO -   Found name '泉中央駅ビルSWING' with selector ('css selector', 'p')
+2026-07-23 14:25:06,632 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:06,958 - AnimePilgrimageScraper - INFO -   Found name '泉中央駅ビルSWING' with selector ('css selector', 'p')
+2026-07-23 14:25:07,009 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:07,146 - AnimePilgrimageScraper - INFO -   Found name 'まるたま 泉中央店' with selector ('css selector', 'p')
+2026-07-23 14:25:07,193 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:07,554 - AnimePilgrimageScraper - INFO -   Found name 'まるたま 泉中央店' with selector ('css selector', 'p')
+2026-07-23 14:25:07,603 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:07,741 - AnimePilgrimageScraper - INFO -   Found name 'ダイヤと花の大観覧車' with selector ('css selector', 'p')
+2026-07-23 14:25:07,787 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:08,114 - AnimePilgrimageScraper - INFO -   Found name 'ダイヤと花の大観覧車' with selector ('css selector', 'p')
+2026-07-23 14:25:08,162 - AnimePilgrimageScraper - INFO -   Found episode: 12 with selector ('css selector', 'span')
+2026-07-23 14:25:08,497 - AnimePilgrimageScraper - INFO -   Using first text line as name: '劇場版 呪術廻戦 0'
+2026-07-23 14:25:08,880 - AnimePilgrimageScraper - INFO -   Using first text line as name: '呪術廻戦'
+2026-07-23 14:25:09,272 - AnimePilgrimageScraper - INFO -   Using first text line as name: '呪術廻戦 2期'
+2026-07-23 14:25:09,659 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'ゾンビランドサガ'
+2026-07-23 14:25:10,067 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'チェンソーマン'
+2026-07-23 14:25:10,459 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'はじめの一歩 Rising'
+2026-07-23 14:25:11,612 - AnimePilgrimageScraper - INFO -   Using first text line as name: '３月のライオン 第2シリーズ'
+2026-07-23 14:25:11,996 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'BanG Dream!'
+2026-07-23 14:25:12,421 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'アオのハコ'
+2026-07-23 14:25:15,279 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:25:15,468 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:25:15,657 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:25:15,847 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:26:15,973 - AnimePilgrimageScraper - INFO - Found 0 new points
+2026-07-23 14:26:15,973 - AnimePilgrimageScraper - INFO - No new points found for this anime
+2026-07-23 14:26:15,973 - AnimePilgrimageScraper - INFO - No updates found for anime '呪術廻戦 死滅回遊'
+2026-07-23 14:26:15,973 - AnimePilgrimageScraper - INFO - [16/18] Checking anime: キルアオ
+2026-07-23 14:26:16,145 - AnimePilgrimageScraper - INFO - Anime 'キルアオ' already exists in pic/data/index.json with ID 6167
+2026-07-23 14:26:16,159 - AnimePilgrimageScraper - INFO - Anime 'キルアオ' already exists with ID 6167, checking for updates
+2026-07-23 14:26:16,159 - AnimePilgrimageScraper - INFO - Updating existing anime: キルアオ with ID 6167
+2026-07-23 14:26:16,160 - AnimePilgrimageScraper - INFO - Loaded 47 existing points from pic/data/6167/points.json
+2026-07-23 14:26:16,160 - AnimePilgrimageScraper - INFO - Loaded existing info from pic/data/6167/info.json
+2026-07-23 14:26:16,160 - AnimePilgrimageScraper - INFO - Scraping new points for anime: キルアオ
+2026-07-23 14:26:38,924 - AnimePilgrimageScraper - INFO - Page loaded, found element with selector: ('css selector', 'h1')
+2026-07-23 14:26:38,924 - AnimePilgrimageScraper - INFO - Scrolling to load all pilgrimage points...
+2026-07-23 14:26:44,983 - AnimePilgrimageScraper - INFO - Found 84 pilgrimage points with selector: ('css selector', "div[class*='map']")
+2026-07-23 14:26:44,983 - AnimePilgrimageScraper - INFO - Processing 84 pilgrimage points
+2026-07-23 14:26:44,983 - AnimePilgrimageScraper - INFO - Found 1 existing point coordinates
+2026-07-23 14:26:46,726 - AnimePilgrimageScraper - INFO -   Found name '同じ舞台の作品' with selector ('css selector', 'h2')
+2026-07-23 14:26:46,829 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:26:47,843 - AnimePilgrimageScraper - INFO -   Found name '同じ舞台の作品' with selector ('css selector', 'h2')
+2026-07-23 14:26:47,945 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:26:48,183 - AnimePilgrimageScraper - INFO -   Found name '同じ舞台の作品' with selector ('css selector', 'h2')
+2026-07-23 14:26:48,283 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:26:48,552 - AnimePilgrimageScraper - INFO -   Found name '藤巻忠俊' with selector ('css selector', 'strong')
+2026-07-23 14:26:48,933 - AnimePilgrimageScraper - INFO -   Found name '藤巻忠俊' with selector ('css selector', 'strong')
+2026-07-23 14:26:49,316 - AnimePilgrimageScraper - INFO -   Found name '2026/7/16' with selector ('css selector', 'span')
+2026-07-23 14:26:50,046 - AnimePilgrimageScraper - INFO -   Using first text line as name: '東京都'
+2026-07-23 14:26:50,259 - AnimePilgrimageScraper - INFO -   Found name '貢献者' with selector ('css selector', 'span')
+2026-07-23 14:26:50,643 - AnimePilgrimageScraper - INFO -   Using first text line as name: '概要'
+2026-07-23 14:26:50,812 - AnimePilgrimageScraper - INFO -   Found name 'MUFGスタジアム（国立競技場）' with selector ('css selector', 'p')
+2026-07-23 14:26:50,872 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:26:51,033 - AnimePilgrimageScraper - INFO -   Found name 'MUFGスタジアム（国立競技場）' with selector ('css selector', 'p')
+2026-07-23 14:26:51,117 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:26:51,278 - AnimePilgrimageScraper - INFO -   Found name 'MUFGスタジアム（国立競技場）' with selector ('css selector', 'p')
+2026-07-23 14:26:51,329 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:26:51,490 - AnimePilgrimageScraper - INFO -   Found name 'MUFGスタジアム（国立競技場）' with selector ('css selector', 'p')
+2026-07-23 14:26:51,542 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:26:51,683 - AnimePilgrimageScraper - INFO -   Found name 'MUFGスタジアム（国立競技場）' with selector ('css selector', 'p')
+2026-07-23 14:26:51,728 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:26:51,866 - AnimePilgrimageScraper - INFO -   Found name 'MUFGスタジアム（国立競技場）' with selector ('css selector', 'p')
+2026-07-23 14:26:51,912 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:26:52,221 - AnimePilgrimageScraper - INFO -   Found name 'MUFGスタジアム（国立競技場）' with selector ('css selector', 'p')
+2026-07-23 14:26:52,266 - AnimePilgrimageScraper - INFO -   Found episode: 8 with selector ('css selector', 'span')
+2026-07-23 14:26:52,421 - AnimePilgrimageScraper - INFO -   Found name 'MIYASHITA PARK' with selector ('css selector', 'p')
+2026-07-23 14:26:52,478 - AnimePilgrimageScraper - INFO -   Found episode: 9 with selector ('css selector', 'span')
+2026-07-23 14:26:52,616 - AnimePilgrimageScraper - INFO -   Found name 'MIYASHITA PARK' with selector ('css selector', 'p')
+2026-07-23 14:26:52,662 - AnimePilgrimageScraper - INFO -   Found episode: 9 with selector ('css selector', 'span')
+2026-07-23 14:26:52,802 - AnimePilgrimageScraper - INFO -   Found name 'MIYASHITA PARK' with selector ('css selector', 'p')
+2026-07-23 14:26:52,848 - AnimePilgrimageScraper - INFO -   Found episode: 9 with selector ('css selector', 'span')
+2026-07-23 14:26:53,161 - AnimePilgrimageScraper - INFO -   Found name 'MIYASHITA PARK' with selector ('css selector', 'p')
+2026-07-23 14:26:53,208 - AnimePilgrimageScraper - INFO -   Found episode: 9 with selector ('css selector', 'span')
+2026-07-23 14:26:53,340 - AnimePilgrimageScraper - INFO -   Found name '善隣門' with selector ('css selector', 'p')
+2026-07-23 14:26:53,391 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:26:53,546 - AnimePilgrimageScraper - INFO -   Found name '善隣門' with selector ('css selector', 'p')
+2026-07-23 14:26:53,592 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:26:53,738 - AnimePilgrimageScraper - INFO -   Found name '善隣門' with selector ('css selector', 'p')
+2026-07-23 14:26:53,782 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:26:54,088 - AnimePilgrimageScraper - INFO -   Found name '善隣門' with selector ('css selector', 'p')
+2026-07-23 14:26:54,133 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:26:54,262 - AnimePilgrimageScraper - INFO -   Found name 'カップヌードルミュージアム 横浜' with selector ('css selector', 'p')
+2026-07-23 14:26:54,306 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:26:54,621 - AnimePilgrimageScraper - INFO -   Found name 'カップヌードルミュージアム 横浜' with selector ('css selector', 'p')
+2026-07-23 14:26:54,665 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:26:54,986 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'Fate/stay night: Heaven's Feel'
+2026-07-23 14:26:55,345 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'Fate/stay night: Unlimited Blade Works'
+2026-07-23 14:26:55,706 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'TARI TARI'
+2026-07-23 14:26:59,139 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:26:59,322 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:26:59,503 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:26:59,686 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:27:01,077 - AnimePilgrimageScraper - INFO - Found 0 new points
+2026-07-23 14:27:01,077 - AnimePilgrimageScraper - INFO - No new points found for this anime
+2026-07-23 14:27:01,077 - AnimePilgrimageScraper - INFO - No updates found for anime 'キルアオ'
+2026-07-23 14:27:01,078 - AnimePilgrimageScraper - INFO - [17/18] Checking anime: 幼女戦記
+2026-07-23 14:27:01,247 - AnimePilgrimageScraper - INFO - Anime '幼女戦記' already exists in pic/data/index.json with ID 462
+2026-07-23 14:27:01,260 - AnimePilgrimageScraper - INFO - Anime '幼女戦記' already exists with ID 462, checking for updates
+2026-07-23 14:27:01,260 - AnimePilgrimageScraper - INFO - Updating existing anime: 幼女戦記 with ID 462
+2026-07-23 14:27:01,261 - AnimePilgrimageScraper - ERROR - Error loading existing points data: 'list' object has no attribute 'get'
+2026-07-23 14:27:01,261 - AnimePilgrimageScraper - INFO - No updates found for anime '幼女戦記'
+2026-07-23 14:27:01,261 - AnimePilgrimageScraper - INFO - [18/18] Checking anime: 氷の城壁
+2026-07-23 14:27:01,400 - AnimePilgrimageScraper - INFO - Anime '氷の城壁' already exists in pic/data/index.json with ID 6178
+2026-07-23 14:27:01,414 - AnimePilgrimageScraper - INFO - Anime '氷の城壁' already exists with ID 6178, checking for updates
+2026-07-23 14:27:01,414 - AnimePilgrimageScraper - INFO - Updating existing anime: 氷の城壁 with ID 6178
+2026-07-23 14:27:01,415 - AnimePilgrimageScraper - INFO - Loaded 66 existing points from pic/data/6178/points.json
+2026-07-23 14:27:01,415 - AnimePilgrimageScraper - INFO - Loaded existing info from pic/data/6178/info.json
+2026-07-23 14:27:01,415 - AnimePilgrimageScraper - INFO - Scraping new points for anime: 氷の城壁
+2026-07-23 14:27:24,770 - AnimePilgrimageScraper - INFO - Page loaded, found element with selector: ('css selector', 'h1')
+2026-07-23 14:27:24,770 - AnimePilgrimageScraper - INFO - Scrolling to load all pilgrimage points...
+2026-07-23 14:27:30,829 - AnimePilgrimageScraper - INFO - Found 78 pilgrimage points with selector: ('css selector', "div[class*='map']")
+2026-07-23 14:27:30,829 - AnimePilgrimageScraper - INFO - Processing 78 pilgrimage points
+2026-07-23 14:27:30,829 - AnimePilgrimageScraper - INFO - Found 1 existing point coordinates
+2026-07-23 14:27:32,598 - AnimePilgrimageScraper - INFO -   Found name '関連作品' with selector ('css selector', 'h2')
+2026-07-23 14:27:32,698 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:33,657 - AnimePilgrimageScraper - INFO -   Found name '関連作品' with selector ('css selector', 'h2')
+2026-07-23 14:27:33,756 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:33,952 - AnimePilgrimageScraper - INFO -   Found name '関連作品' with selector ('css selector', 'h2')
+2026-07-23 14:27:34,055 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:34,280 - AnimePilgrimageScraper - INFO -   Found name '阿賀沢紅茶' with selector ('css selector', 'strong')
+2026-07-23 14:27:34,642 - AnimePilgrimageScraper - INFO -   Found name '阿賀沢紅茶' with selector ('css selector', 'strong')
+2026-07-23 14:27:35,026 - AnimePilgrimageScraper - INFO -   Found name '2026/7/16' with selector ('css selector', 'span')
+2026-07-23 14:27:35,764 - AnimePilgrimageScraper - INFO -   Using first text line as name: '岡山県'
+2026-07-23 14:27:35,972 - AnimePilgrimageScraper - INFO -   Found name '貢献者' with selector ('css selector', 'span')
+2026-07-23 14:27:36,344 - AnimePilgrimageScraper - INFO -   Using first text line as name: '概要'
+2026-07-23 14:27:36,511 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:36,569 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:36,755 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:36,811 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:37,001 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:37,052 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:37,244 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:37,294 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:37,481 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:37,526 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:37,712 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:37,757 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:38,067 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:38,115 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:38,247 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:38,298 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:38,657 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:38,701 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:38,830 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:38,874 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:39,180 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:39,223 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:39,352 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:39,397 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:39,706 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:39,750 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:39,878 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:39,922 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:40,227 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:40,271 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:40,399 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:40,443 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:40,776 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:40,821 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:40,950 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:40,994 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:41,299 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:41,342 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:41,471 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:41,515 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:41,863 - AnimePilgrimageScraper - INFO -   Found name 'ブラジリアンパーク 鷲羽山ハイランド' with selector ('css selector', 'p')
+2026-07-23 14:27:41,907 - AnimePilgrimageScraper - INFO -   Found episode: 10 with selector ('css selector', 'span')
+2026-07-23 14:27:42,228 - AnimePilgrimageScraper - INFO -   Using first text line as name: '「正反対な君と僕」'
+2026-07-23 14:27:42,579 - AnimePilgrimageScraper - INFO -   Using first text line as name: '正反対な君と僕 第2期'
+2026-07-23 14:27:42,932 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'ウマ娘 プリティーダービー Season 2'
+2026-07-23 14:27:43,311 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'からかい上手の高木さん3'
+2026-07-23 14:27:43,663 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'すずめの戸締まり'
+2026-07-23 14:27:43,838 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:27:44,016 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:27:44,194 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:27:44,373 - AnimePilgrimageScraper - INFO -   Using first text line as name: 'シーン別'
+2026-07-23 14:27:45,734 - AnimePilgrimageScraper - INFO - Found 0 new points
+2026-07-23 14:27:45,735 - AnimePilgrimageScraper - INFO - No new points found for this anime
+2026-07-23 14:27:45,735 - AnimePilgrimageScraper - INFO - No updates found for anime '氷の城壁'
+2026-07-23 14:27:45,735 - AnimePilgrimageScraper - INFO - Successfully scraped 1 anime.
+2026-07-23 14:27:45,735 - AnimePilgrimageScraper - INFO - Scraping completed successfully!
